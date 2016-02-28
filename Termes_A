@@ -32,27 +32,127 @@
             </publicationStmt>
          </biblFull></sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <projectDesc><p>Cette édition a été réalisée avec la collaboration des étudiants en master Métiers du livre et humanités numériques sans aucune aide financière .</p></projectDesc>
+    
+         <fsdDecl>
+            <fsDecl type="Citations">
+               
+               <fDecl name="Auteurs">
+                  <vRange>
+                     <vAlt>
+                        <symbol value="Ablancourt" xml:id="ABL"/>
+                        <symbol value="Menage" xml:id="Men"/>
+                      
+                     </vAlt>
+                  </vRange>
+               </fDecl>
+               
+            </fsDecl>
+         </fsdDecl>
+         
+         <fsdDecl>
+            <fsDecl type="terminology">
+              
+               <fDecl name="terminological_category">
+                  <vRange>
+                     <vAlt>
+                        <symbol value="marine" xml:id="marine"/>
+                        <symbol value="blason" xml:id="blason"/>
+                        <symbol value="charpenterie" xml:id="charpenterie"/>
+                        <symbol value="mythologie" xml:id="mythologie"/>
+                        <symbol value="architecture" xml:id="architecture"/>
+                        <symbol value="morale" xml:id="morale"/>
+                        <symbol value="fauconnerie" xml:id="fauconnerie"/>
+                        <symbol value="jardinage" xml:id="jardinage"/>
+                        <symbol value="marchand_de_drap" xml:id="marchand_de_drap"/>
+                        <symbol value="venerie" xml:id="venerie"/>
+                        <symbol value="vernisseur" xml:id="vernisseur"/>
+                        <symbol value="maconnerie" xml:id="maconnerie"/>
+                        <symbol value="medecine" xml:id="medecine"/>
+                        <symbol value="jurisprudence" xml:id="jurisprudence"/>
+                        <symbol value="pratique" xml:id="pratique"/>
+                        <symbol value="grammaire" xml:id="grammaire"/>
+                        <symbol value="peche" xml:id="peche"/>
+                        <symbol value="devotion" xml:id="devotion"/>
+                        <symbol value="chancellerie" xml:id="chancellerie"/>
+                        <symbol value="geometrie" xml:id="geometrie"/>
+                        <symbol value="anatomie" xml:id="anatomie"/>
+                        <symbol value="menuiserie" xml:id="menuiserie"/>
+                        <symbol value="forets" xml:id="forets"/>
+                        <symbol value="plombier" xml:id="plombier"/>
+                        <symbol value="couture" xml:id="couture"/>
+                        <symbol value="banque" xml:id="banque"/>
+                        <symbol value="astronomie" xml:id="astronomie"/>
+                        <symbol value="philosophie" xml:id="philosophie"/>
+                        <symbol value="botanique" xml:id="botanique"/>
+                        <symbol value="pharmacie" xml:id="pharmacie"/>
+                        <symbol value="patissier" xml:id="patissier"/>
+                        <symbol value="relations" xml:id="relations"/>
+                        <symbol value="palais" xml:id="palais"/>
+                        <symbol value="droit" xml:id="droit"/>
+                        <symbol value="taillandier" xml:id="taillandier"/>
+                        <symbol value="ouvrage" xml:id="ouvrage"/>
+                        <symbol value="poetique" xml:id="poetique"/>
+                        <symbol value="astrologie" xml:id="astrologie"/>
+                        <symbol value="chymie" xml:id="chymie"/>
+                        <symbol value="eclesiastique" xml:id="eclesiastique"/>
+                        <symbol value="finance" xml:id="finance"/>
+                        <symbol value="physique" xml:id="physique"/>
+                        <symbol value="theatre" xml:id="theatre"/>
+                        <symbol value="peinture" xml:id="peinture"/>
+                        <symbol value="imprimerie" xml:id="imprimerie"/>
+                        <symbol value="rhetorique" xml:id="rhetorique"/>
+                        <symbol value="tireur_d_or" xml:id="tireur_d_or"/>
+                        <symbol value="coutelier" xml:id="coutelier"/>
+                        <symbol value="relieur" xml:id="relieur"/>
+                        <symbol value="cordier" xml:id="cordier"/>
+                        <symbol value="logique" xml:id="logique"/>
+                        <symbol value="college" xml:id="college"/>
+                        <symbol value="complement" xml:id="complement"/>
+                        <symbol value="agriculture" xml:id="agriculture"/>
+                        <symbol value="jardinier" xml:id="jardinier"/>
+                        <symbol value="forges" xml:id="forges"/>
+                        
+                  
+                     </vAlt>
+                  </vRange>
+               </fDecl>
+       
+            </fsDecl>
+         </fsdDecl>
+      </encodingDesc>
    </teiHeader>
   <text>
       <body><div n="tome1_A-D">
          <div n="A">
             <div n="ABA">       
-               <entry type="term" ana="Mythologie"><form><orth rend="caps">ABADIR</orth></form><sense><def> Terme de Mythologie. C'eſt le nom d'une pierre que Saturne devora. Car ſoit parceque ſon frere Titanus ne lui avoit cedé l'empire du monde, qu'à condition qu'il n'éleveroit point d'enfant mâle; ſoit parceque les deſtinées portoient qu'il feroit un jour detrôné par un de ſes enfants, il les faiſoit tous perir. Enfin Cybele ou Ops ſa femme le trompa, &amp; lui fit avaler cette pierre au lieu de l'enfant dont elle étoit accouchée. Priſcien rapporte que c'étoit auſſi le nom d'un Dieu.</def></sense></entry>
-               <entry type="term" ana="Architecture"><form><orth rend="caps">ABAJOUR</orth><gramGrp><pos> f.m.</pos></gramGrp></form><sense><def>Terme d'Archite<c rend="ctlig">ct</c>ure. Eſpece de fenêtre en forme de grand ſoupirail, dont l'embraſement de l'appui est en talus, pour recevoir le jour d'enhaut. Il ſert à éclairer les offices &amp; les étages ſouterrains. Les Marchands ont d'ordinaire un <hi rend="italic">abajour</hi> dans leurs magaſins. La lumiere ſombre qui entre par là, efface moins le luſtre de leurs étoffes. On apelle auſſi <hi rend="italic">abajour</hi> la fermeture en glacis d'un vitrail d'Egliſe, ou de dôme, qui le fait pour en racorder ou reunir la decoration interieure avec l'exterieure.</def></sense></entry>
-               <entry><form><orth rend="caps">ABAISSE</orth></form><gramGrp><pos>f.m.</pos></gramGrp><sense><def>Terme de Pâtiſſier. C'eſt la pâte qui fait le deſſous d'une piece de pâtiſſerie.</def></sense></entry>
-               <superEntry><entry><form><orth rend="caps">ABAISSER</orth><gramGrp><pos> verbe a<c xml:id="ctlig">ct</c>if</pos></gramGrp></form><sense n="1"><def>Faire deſcendre en bas, ou diminuer de la hauteur. <hi rend="italic">Abaiſſer</hi> les voiles. <hi rend="italic">Abaiſſer</hi> les fumées du vin. <hi rend="italic">Abaiſſez</hi> ce mur. <hi rend="italic">Abaiſſez</hi> ce lut d'un ton, d'un demi-ton. <hi rend="italic">Abaiſſer</hi> la voix. <cit type="example"><quote>Selon Nicod ce mot vient du Grec <hi rend="italic">baſis</hi>, comme qui diroit, mettre la <hi rend="italic">baſe</hi>.</quote></cit></def></sense></entry></superEntry>
-               <entry><form><orth rend="smallcaps">ABAISSER</orth></form><sense n="2"><def>, veut dire quelquefois s'affaiſſer, La terre s'est <hi rend="italic">abaiſſée</hi>: ou decroitre, La riviere s'<hi rend="italic">abaiſſe</hi>; le vent s'eſt <hi>abaiſſé</hi>.</def></sense></entry>
+               <entry type="term" ana="#mythologie"><form><orth rend="caps">ABADIR</orth></form><sense><def> Terme de Mythologie. 
+                  C'eſt le nom d'une pierre que Saturne devora. Car ſoit parceque ſon frere Titanus ne lui avoit cedé l'empire du monde, qu'à condition qu'il n'éleveroit point d'enfant mâle; ſoit parceque les deſtinées portoient qu'il feroit un jour detrôné par un de ſes enfants, il les faiſoit tous perir. Enfin Cybele ou Ops ſa femme le trompa, &amp; lui fit avaler cette pierre au lieu de l'enfant dont elle étoit accouchée. Priſcien rapporte que c'étoit auſſi le nom d'un Dieu.</def></sense></entry>
+              
+               <entry type="term" ana="#architecture"><form><orth rend="caps">ABAJOUR</orth><gramGrp><pos> f.m.</pos></gramGrp></form><sense><def>Terme d'Archite<c rend="ctlig">ct</c>ure. Eſpece de fenêtre en forme de grand ſoupirail, dont l'embraſement de l'appui est en talus, pour recevoir le jour d'enhaut. Il ſert à éclairer les offices &amp; les étages ſouterrains. Les Marchands ont d'ordinaire un <hi rend="italic">abajour</hi> dans leurs magaſins. La lumiere ſombre qui entre par là, efface moins le luſtre de leurs étoffes. On apelle auſſi <hi rend="italic">abajour</hi> la fermeture en glacis d'un vitrail d'Egliſe, ou de dôme, qui le fait pour en racorder ou reunir la decoration interieure avec l'exterieure.</def></sense></entry>
+               
+               <entry type="term" ana="#patissier"><form><orth rend="caps">ABAISSE</orth></form><gramGrp><pos>f.m.</pos></gramGrp><sense><def>Terme de Pâtiſſier. C'eſt la pâte qui fait le deſſous d'une piece de pâtiſſerie.</def></sense></entry>
+               
+               <superEntry><entry><form><orth rend="caps">ABAISSER</orth><gramGrp><pos> verbe a<c xml:id="ctlig">ct</c>if</pos>
+               </gramGrp></form><sense n="1"><def>Faire deſcendre en bas, ou diminuer de la hauteur. <hi rend="italic">Abaiſſer
+               </hi> les voiles. <hi rend="italic">Abaiſſer</hi> les fumées du vin. <hi rend="italic">Abaiſſez</hi> ce mur. <hi rend="italic">Abaiſſez</hi> ce lut d'un ton, d'un demi-ton. <hi rend="italic">Abaiſſer</hi> la voix. <cit type="example"><quote>Selon Nicod ce mot vient du Grec <hi rend="italic">baſis</hi>, comme qui diroit, mettre la <hi rend="italic">baſe</hi>.</quote></cit></def></sense></entry>
+               <entry><form><orth rend="smallcaps">ABAISSER</orth></form><sense n="2"><def>, veut dire quelquefois s'affaiſſer,
+                  La terre s'est <hi rend="italic">abaiſſée</hi>: ou decroitre, La riviere s'<hi rend="italic">abaiſſe</hi>; 
+                  le vent s'eſt <hi>abaiſſé</hi>.</def></sense></entry>
                <entry><form><orth rend="smallcaps">ABAISSER</orth></form><sense n="3"><def>, ſignifie auſſi, Diminuer le prix. Le bon ordre de la police a fait <hi rend="italic">abaiſſer</hi> le prix du blé; c'eſt-à-dire qu'il eſt diminué. Ce mot en ce ſens n'eſt pas un bel uſage; il faut dire <hi rend="italic">rabaiſſer</hi>. Voyez <hi rend="smallcaps">RABAISSER</hi> 
                   On s'en ſert figurément dans le même ſens. L'envie <hi rend="italic">abaiſſe</hi> par ſes diſcours les vertus qu'elle ne peut imiter. Or, M. <hi rend="italic">Abaiſſer</hi> la Majeſté du Prince. L'uſage, comme la fortune, chacun dans leur juriſdi<c rend="ctlig">ct</c>ion, éleve ou <hi rend="italic">abaiſſe</hi> qui bon lui ſemble.<cit type="example"> <quote><bibl>Mr. de Vaugelas.</bibl> Les grands noms <hi rend="italic">abaiſſent</hi>, au lieu d'élever, ceux qui ne ſavent pas les ſoutenir. <bibl>Mr. de la Rochefoucaut.</bibl></quote></cit></def></sense></entry>
-               <entry type="term" ana="Morale"><form><orth rend="smallcaps">ABAISSER</orth></form><sense n="4"><def>, ſignifie auſſi en Morale, Ravaler l'orgueil de quelqu'un, le mortifier. Les Romains ſe vantoient d'<hi rend="italic">abaiſſer</hi> les ſuperbes, &amp; de pardonner aux humbles. <cit type="example"><quote><bibl>Oeuvres mêlées.</bibl> <hi rend="italic">Abaiſſer</hi> l'orgueil de Carthage. <bibl>Mr. de Vaugelas.</bibl> Il faut <hi rend="italic">abaiſſer</hi> les esprits hautains. <bibl>Oeuvres mêlées.</bibl> La crainte trouble &amp; <hi rend="italic">abaiſſe</hi> l'eſprit. <bibl>Mlle. de Scuderi.</bibl> C'eſt-à-dire qu'elle le relâche &amp; l'avilit.</quote></cit></def></sense></entry>
-               <entry type="term" ana="Fauconnerie"><sense n="5"><def>En termes de Fauconnerie on dit, <hi rend="italic">Abaiſſer</hi> l'oiſeau, lorsqu'ayant trop d'embonpoint, on lui ôte quelque choſe de ſon pát ordinaire, pour le mettre en état de bien voler.</def></sense></entry>
-               <entry type="term" ana="Jardinage"><form><orth rend="smallcaps">ABAISSER</orth></form><sense n="6"><def>, en termes de Jardinage, ſignifie, Couper une branche près du tronc.</def></sense></entry>
+               <entry type="term" ana="#morale"><form><orth rend="smallcaps">ABAISSER</orth></form><sense n="4"><def>, ſignifie auſſi en Morale, Ravaler l'orgueil de quelqu'un, le mortifier. Les Romains ſe vantoient d'<hi rend="italic">abaiſſer</hi> les ſuperbes, &amp; de pardonner aux humbles. <cit type="example"><quote><bibl>Oeuvres mêlées.</bibl> <hi rend="italic">Abaiſſer</hi> l'orgueil de Carthage. <bibl>Mr. de Vaugelas.</bibl> Il faut <hi rend="italic">abaiſſer</hi> les esprits hautains. <bibl>Oeuvres mêlées.</bibl> La crainte trouble &amp; <hi rend="italic">abaiſſe</hi> l'eſprit. <bibl>Mlle. de Scuderi.</bibl> C'eſt-à-dire qu'elle le relâche &amp; l'avilit.</quote></cit></def></sense></entry>
+               <entry type="term" ana="#fauconnerie"><sense n="5"><def>En termes de Fauconnerie on dit, <hi rend="italic">Abaiſſer</hi> l'oiſeau, lorsqu'ayant trop d'embonpoint, on lui ôte quelque choſe de ſon pát ordinaire, pour le mettre en état de bien voler.</def></sense></entry>
+               <entry type="term" ana="#jardinage"><form><orth rend="smallcaps">ABAISSER</orth></form><sense n="6"><def>, en termes de Jardinage, ſignifie, Couper une branche près du tronc.</def></sense></entry>
                <entry><form><orth rend="smallcaps">ABAISSER</orth></form><sense n="7"><def>, ſe dit auſſi avec le pronom perſonnel, &amp; ſignifie alors s'Humilier, ſe ſoumettre, ſe ravaler. Il faut s'<hi rend="italic">abaiſſer</hi> devant la Majeſté divine. S'<hi rend="italic">abaiſſer</hi> à des choſes indignes. S'<hi rend="italic">abaiſſer</hi> juſqu'aux plus lâches complaiſances. L'humilité n'eſt ſouvent qu'un artifice de l'orgueil, qui ne s'<hi rend="italic">abaiſſe</hi> que pour s'élever. <bibl>Mr. de la Rochefoucaut.</bibl> On le dit encore par reſpe<c rend="ctlig">ct</c> d'une personne éminente en dignité, lorsqu'elle ſemble rabatre de ſa grandeur, en deſcendant juſqu'à des perſonnes fort inferieures. <cit type="example"><quote>Le Prince s'eſt <hi rend="italic">abaiſſé</hi> juſqu'à moi, en prenant ſoin de ma fortune. <bibl>La Princeſſe de Cleves.</bibl></quote></cit> Il ſignifie auſſi la complaiſance, ou l'adreſſe par laquelle on ſe conforme, &amp; on ſe proportionne à la comprehension foible &amp; bornée de ceux à qui on parle. Un Predicateur habile fçait s'<hi rend="italic">abaiſſer</hi> à la portée de ſes auditeurs. C'eſt quelquefois un artifice de l'orgueil de s'<hi rend="italic">abaiſſer</hi> avec excés, pour s'attirer des louanges, <bibl>Mlle. de Scuderi.</bibl> <cit type="example"><quote>Pline dit en parlant de la bonté de Trajan, qui ſe familiariſoit avec ceux qui l'approchoient;</quote></cit> <cit type="example"><quote>Celui qui tient la premiere place n'a qu'une voye pour s'élever, c'eſt de s'<hi rend="italic">abaiſſer</hi> lui même; parceque les Grands n'ont rien moins à craindre que de ſe ravaler en s'<hi rend="italic">abaiſſant</hi> de la forte.</quote></cit> <bibl>Le P. Bouhours.</bibl></def></sense></entry>
                <entry><form><orth rend="smallcaps">ABAISSÉ</orth><gramGrp><pos><hi rend="smallcaps">EF.</hi> participe paſſif &amp; adje<c rend="ctlig">ct</c>if.</pos></gramGrp></form><sense n="1"></sense></entry>
-               <entry type="term" ana="Blason"><form><orth rend="smallcaps">ABAISSÉ</orth></form><sense n="2"><def>, en termes de Blaſon, ſe dit du vol des aigles, &amp; du vol en general des oiſeaux, dont la repreſentation ordinaire eſt d'être ouvert &amp; étendu, en forte que le bout de leurs aîles tende vers les angles ou le chef de l'Ecu. Mais lors que ce bout eſt en bas, &amp; vers la point de l'Ecu, ou que les ailes ſont pliées, on l'appelle Vol <hi rend="italic">abaiſſé</hi>.
+               <entry type="term" ana="#blason"><form><orth rend="smallcaps">ABAISSÉ</orth></form><sense n="2"><def>, en termes de Blaſon, ſe dit du vol des aigles, &amp; du vol en general des oiſeaux, dont la repreſentation ordinaire eſt d'être ouvert &amp; étendu, en forte que le bout de leurs aîles tende vers les angles ou le chef de l'Ecu. Mais lors que ce bout eſt en bas, &amp; vers la point de l'Ecu, ou que les ailes ſont pliées, on l'appelle Vol <hi rend="italic">abaiſſé</hi>.
                   On dit auſſi, Un chevron, un pal <hi rend="italic">abaiſſé</hi>, une bande <hi rend="italic">abaiſſée</hi>, quand la pointe finit au coeur de l'Ecu, ou au deſſous, &amp; ne monte pas plus haut. On dit auſſi qu'une piece est <hi rend="italic"> abaiſſée</hi>, lorsqu'elle eſt au deſſous de ſa ſituation ordinaire, comme le chef, la <unclear>faſce</unclear>, &amp;c. Et ainſi les Commandeurs de Malte qui ont des chefs dans leurs Armoiries, ſont obligez de les <hi rend="italic">abaiſſer</hi> ſous celui de la Religion.</def></sense></entry>
+               </superEntry>
+               
                <superEntry><entry><form><orth rend="caps">ABANDONNER.</orth><gramGrp><pos>verb.a<c rend="ctlig">ct</c>.</pos></gramGrp></form><sense n="1"><def>Laiſſer à l'abandon, Dieu n'<hi rend="italic">abandonne</hi> jamais les ſiens au beſoin. On a <hi rend="italic">abandonne</hi> cette ville au pillage. Il a <hi rend="italic">abandonne</hi> le ſoin de ſon honneur.<cit type="example"><quote> Dans les plaiſirs on <hi rend="italic">abandonne</hi> ſon coeur &amp; ſon eſprit, on ſe decouvre tout entier. <bibl>Princeſſe de Cleves</bibl></quote></cit> c'eſt-à-dire qu'on s'y montre avec moins de precaution, &amp; c'eſt là qu'on connoît &amp; les inclinations des gens. <cit type="example"><quote>Le merite ne ſert de rien quand il eſt <hi rend="italic">abandonné</hi> de la fortune. <bibl>Mr. de Buſſi-Rabutin.</bibl></quote></cit>
-                  Il ſignifie encore livrer en proye. La ville fut <hi rend="italic">abandonnée</hi> à la fureur du ſoldat.<cit type="example"><quote> Elle n'oſe <hi rend="italic">abandonner</hi> ſon coeur à l'amour. <bibl>Mlle. de Scuderi.</bibl></quote></cit> On l'employe pour exprimer un homme qui eſt entraîné par ſes paſſions, qui en eſt devenu l'eſclave, &amp; qui s'y prostituë abſolument. <cit type="example"><quote>A la honte de nôtre raison &amp; de nos reflexions, nous <hi rend="italic">abandonnons</hi> nôtre coeur à la ſeduction du monde. <bibl>Le Père Gaillard.</bibl></quote></cit> Alors on l'employe plus ſouvent avec le pronom perſonnel. <cit type="example"><quote>Quand les gens auſteres viennent à goûter les voluptez, alors la nature laſſe de peines, s'<hi rend="italic">abandonne</hi> aux premiers plaiſirs qu'elle rencontre. <bibl>Mr. de St. Evremont.</bibl></quote></cit> Il s'<hi rend="italic">abandonna</hi> à la triſteſſe &amp; à ſon deſeſpoir. Il s'eſt <hi rend="italic">abandonné</hi> à la colere &amp; à ſes deſirs. On dit auſſi s'<hi rend="italic">abandonner</hi> à la fortune, pour dire ſe confier à la fortune, &amp; attendre tout du haſard &amp; et du bonheur. S'<hi rend="italic">abandonner</hi> à la joye, c'eſt-à-dire en goûter tout le contentement, &amp; en reſſentir tous les plaiſirs. S'<hi rend="italic">abandonner</hi> à l'oiſiveté, c'eſt-à-dire jouïr d'un repos calme &amp; tranquille, loin de l'embarras des affaires. <cit type="example"><quote>Il faut s'<hi rend="italic">abandonner</hi> à ſon feu, &amp; ne rien refuſer de ce que l'imagination preſente. <bibl>Le P. Bouhours.</bibl></quote></cit><cit type="example"><quote> Il ſe trouvoit malheureux d'être <hi rend="italic">abandonné</hi> à lui-même, &amp; ſes propres penſées, ſans avoir quelqu'un qui pût le plaindre, &amp; lui donner de la force. <bibl>Princeſſe de Cleves.</bibl></quote></cit><cit type="example"><quote> Il eſt plus <unclear>ſeur</unclear> de s'arrêter à l'autorité de l'Egliſe, que de s'<hi rend="italic">abandonner</hi> aux foibles efforts de nôtre miſerable raiſon. <bibl>Mr Nicole.</bibl></quote></cit></def></sense></entry></superEntry>
+                  Il ſignifie encore livrer en proye. La ville fut <hi rend="italic">abandonnée</hi> à la fureur du ſoldat.<cit type="example"><quote> Elle n'oſe <hi rend="italic">abandonner</hi> ſon coeur à l'amour. <bibl>Mlle. de Scuderi.</bibl></quote></cit> On l'employe pour exprimer un homme qui eſt entraîné par ſes paſſions, qui en eſt devenu l'eſclave, &amp; qui s'y prostituë abſolument. <cit type="example"><quote>A la honte de nôtre raison &amp; de nos reflexions, nous <hi rend="italic">abandonnons</hi> nôtre coeur à la ſeduction du monde. <bibl>Le Père Gaillard.</bibl></quote></cit> Alors on l'employe plus ſouvent avec le pronom perſonnel. <cit type="example"><quote>Quand les gens auſteres viennent à goûter les voluptez, alors la nature laſſe de peines, s'<hi rend="italic">abandonne</hi> aux premiers plaiſirs qu'elle rencontre. <bibl>Mr. de St. Evremont.</bibl></quote></cit> Il s'<hi rend="italic">abandonna</hi> à la triſteſſe &amp; à ſon deſeſpoir. Il s'eſt <hi rend="italic">abandonné</hi> à la colere &amp; à ſes deſirs. On dit auſſi s'<hi rend="italic">abandonner</hi> à la fortune, pour dire ſe confier à la fortune, &amp; attendre tout du haſard &amp; et du bonheur. S'<hi rend="italic">abandonner</hi> à la joye, c'eſt-à-dire en goûter tout le contentement, &amp; en reſſentir tous les plaiſirs. S'<hi rend="italic">abandonner</hi> à l'oiſiveté, c'eſt-à-dire jouïr d'un repos calme &amp; tranquille, loin de l'embarras des affaires. <cit type="example"><quote>Il faut s'<hi rend="italic">abandonner</hi> à ſon feu, &amp; ne rien refuſer de ce que l'imagination preſente. <bibl>Le P. Bouhours.</bibl></quote></cit><cit type="example"><quote> Il ſe trouvoit malheureux d'être <hi rend="italic">abandonné</hi> à lui-même, &amp; ſes propres penſées, ſans avoir quelqu'un qui pût le plaindre, &amp; lui donner de la force. <bibl>Princeſſe de Cleves.</bibl></quote></cit><cit type="example"><quote> Il eſt plus <unclear>ſeur</unclear> de s'arrêter à l'autorité de l'Egliſe, que de s'<hi rend="italic">abandonner</hi> aux foibles efforts de nôtre miſerable raiſon. <bibl>Mr Nicole.</bibl></quote></cit></def></sense></entry>
                <entry><form><orth rend="smallcaps">ABANDONNER</orth></form><sense n="2"><def> au bras ſeculier, c'eſt Renvoyer un Eccleſiaſtique devant des Juges laïques, pour donner une ſentence de condamnation à peine affli<c rend="ctlig">ct</c>ive ſur un cas privilegié.
                   On le dit auſſi de l'Inquiſition. Lors qu'elle a prononcé ſur le crime d'hereſie, elle livre les coupables au bras ſeculier; parce que l'Egliſe n'ayant point la puiſſance temporelle pour infliger la peine de mort, elle implore le ſecours du Juge temporel, qui ne manque point d'executer les arrêts du S. Office. C'eſt ce qu'on appelle <hi rend="smallcaps">abandonner</hi> au bras ſeculier.</def></sense></entry>
                <entry><form><orth rend="smallcaps">ABANDONNER</orth></form><sense n="3"><def>, ſignifie encore, Quitter, jetter là. Il <hi rend="smallcaps">abandonna</hi> ſes armes.</def></sense></entry>
@@ -62,251 +162,21 @@
                <entry><form><orth rend="smallcaps">ABANDONNER</orth></form><sense n="7"><def>, ſignifie auſſi ſimplement, Quiter, laiſſer, renoncer à quelque profeſſion, ou à quelque perſonne. <hi rend="italic">Abandonner</hi> une entrepriſe. Son credit &amp; ſa reputation l'ont <hi rend="italic">abandonné</hi>. Les plus ſages ne ſont pas toûjours maîtres d'eux-mêmes, &amp; il y a des momens où leur diſcretion les <hi rend="italic">abandonne</hi>; c'eſt-à-dire qu'elle les quitte, en ſorte qu'ils ſe laiſſent aller à l'impatience de parler.<cit type="example"><quote> Ce Marchand a <hi rend="italic">abandonné</hi> le commerce. Ce Magiſtrat a <hi rend="italic">abandonné</hi> les affaires pour vivre dans la retraite.</quote></cit><cit type="citation"><quote> Les perſonnes vaines <hi rend="italic">abandonnent</hi> aux ames communes le merite d'une vie ſuivie &amp; commune. <bibl>Mr de la Bruyère.</bibl></quote></cit>
                   <cit type="citation"><quote><hi rend="italic">Mainte veuve ſouvent fait la dechevelée,
                      Qui n'</hi>abandonne <hi rend="italic">pas le ſoin du demeurant. </hi><bibl>Mr. de la Fontaine.</bibl></quote></cit></def></sense></entry>
-               <entry type="term" ana="Fauconnerie"><sense n="8"><def>On dit en termes de Fauconnerie, <hi rend="italic">Abandonner</hi> l'oiſeau, pour dire, le mettre libre en campagne, ou le congedier tout-à-fait, &amp; s'en defaire entierement.
+               <entry type="term" ana="#fauconnerie"><sense n="8"><def>On dit en termes de Fauconnerie, <hi rend="italic">Abandonner</hi> l'oiſeau, pour dire, le mettre libre en campagne, ou le congedier tout-à-fait, &amp; s'en defaire entierement.
                   On dit proverbialement, N'<hi rend="italic">Abandonnez</hi> pas les étriez; pour dire, ſervez-vous bien des avantages que vous avez, ne les quitez point.</def></sense></entry>
-               <entry type="term" ana="Architecture"><form><orth rend="caps">ABAQUE.</orth><gramGrp><pos> f.m.</pos></gramGrp></form><sense><def> Terme d'Archite<c rend="ctlig">ct</c>ure. C'eſt la partie ſuperieure, ou le couronnement du chapiteau de la colonne. Il eſt quarré au Toſcan, au Dorique, &amp; à l'Ionique antique; &amp; échancré ſur ſes faces aux chapiteaux Corinthien &amp; Compoſite. Il ſert comme de couvercle à la corbeille ou panier de fleurs qu'elle repreſente. On l'appelle autrement <hi rend="italic">tailloir</hi>, parce qu'étant quarré, il reſſemble aux aſſiettes de bois qu'on nomme tailloirs. Il s'en met en plusieurs ſortes d'endroits. Ce mot vient du Grec <hi rend="italic">abax</hi>, qui ſignifie <hi rend="italic">buffet, credence,</hi> ou <hi rend="italic">table</hi>.</def></sense></entry>
-               <entry type="term" ana="Marchand de drap"><form><orth rend="caps">ABATANT</orth><gramGrp><pos> f.m.</pos></gramGrp></form><sense><def> Terme de Marchand de drap. Eſpece de deſſus de table qu'on éleve au fond d'une boutique, &amp; à chaque bout des magaſins, &amp; qui s'eleve ou s'abat, ſelon le jour que l'on veut donner au lieu où l'on vend la marchandiſe.</def></sense></entry>
-               <entry type="term" ana="Marine"><form><orth rend="caps">ABATEE</orth></form><sense><def>, en termes de Marine, ſe dit du Mouvement d'un vaiſſeau en pane, qui arrive de lui-même juſqu'à un certain point, après quoi il revient au vent.</def></sense></entry>
+               </superEntry>
+               
+               <entry type="term" ana="#architecture"><form><orth rend="caps">ABAQUE.</orth><gramGrp><pos> f.m.</pos></gramGrp></form><sense><def> Terme d'Archite<c rend="ctlig">ct</c>ure. C'eſt la partie ſuperieure, ou le couronnement du chapiteau de la colonne. Il eſt quarré au Toſcan, au Dorique, &amp; à l'Ionique antique; &amp; échancré ſur ſes faces aux chapiteaux Corinthien &amp; Compoſite. Il ſert comme de couvercle à la corbeille ou panier de fleurs qu'elle repreſente. On l'appelle autrement <hi rend="italic">tailloir</hi>, parce qu'étant quarré, il reſſemble aux aſſiettes de bois qu'on nomme tailloirs. Il s'en met en plusieurs ſortes d'endroits. Ce mot vient du Grec <hi rend="italic">abax</hi>, qui ſignifie <hi rend="italic">buffet, credence,</hi> ou <hi rend="italic">table</hi>.</def></sense></entry>
+              
+               <entry type="term" ana="#marchand_de_drap"><form><orth rend="caps">ABATANT</orth><gramGrp><pos> f.m.</pos></gramGrp></form><sense><def> Terme de Marchand de drap. Eſpece de deſſus de table qu'on éleve au fond d'une boutique, &amp; à chaque bout des magaſins, &amp; qui s'eleve ou s'abat, ſelon le jour que l'on veut donner au lieu où l'on vend la marchandiſe.</def></sense></entry>
+               
+               <entry type="term" ana="#marine"><form><orth rend="caps">ABATEE</orth></form><sense><def>, en termes de Marine, ſe dit du Mouvement d'un vaiſſeau en pane, qui arrive de lui-même juſqu'à un certain point, après quoi il revient au vent.</def></sense></entry>
+               <superEntry>
                <entry><form><orth rend="caps">ABATIS</orth><gramGrp><pos> f.m.</pos></gramGrp></form><sense n="1"><def> Demolition, renverſement, ruine. <cit type="example"><quote>Il y a eu un grand <hi rend="italic">abatis</hi> de pierres dans cette carriere.</quote></cit> Les Carriers appelent ainſi la pierre qu'ils ont detachée, ſoit celle qui eſt bonne pour bâtir, ſoit celle de rebut. Il fut fait un grand <hi rend="italic">abatis</hi> de bois en cette forêt par la tempête.</def></sense></entry>
                <entry><form><orth rend="smallcaps">ABATIS</orth></form><sense n="2"><def>, ſignifie en termes de Venerie, le chemin que ſe font les jeunes loups, lors qu'en allant ſouvent au lieu où ils ont été nourris, ils abatent l'herbe.</def></sense></entry>
                <entry><form><orth rend="smallcaps">ABATIS</orth></form><sense n="3"><def>, ſe dit auſſi d'une grande tuerie de bêtes. <cit type="example"><quote>Ce Chaſſeur a fait un grand <hi rend="italic">abatis</hi> de gibier. Ce Boucher fait un grand <hi rend="italic">abatis</hi> de beſtiaux tous les ans.</quote></cit> On dit auſſi en cuiſine, Faire des potages d'<hi rend="italic">abatis</hi> d'agneau, d'<hi rend="italic">abatis</hi> de poulet d'Inde, &amp;c. pour dire, qu'on les fait avec des bouts d'aîles, <unclear>foyes</unclear>, &amp; autres menuës parties, &amp; iſſuës de ces volailles. Les Bouchers appellent <hi rend="italic">abatis</hi>, les cuirs, graiſſes, tripes, &amp; autres menuës choſes des bêtes qu'ils ont tuées.</def></sense></entry>
-               <p></p>
-         
-               <entry>
-                  <form>
-                     <orth rend="caps">ABAISSE
-                     </orth>
-                  </form>
-                  <gramGrp>
-                     <pos>f.m.
-                     </pos>
-                  </gramGrp>
-                  <sense>
-                     <def>Terme de Pâtiſſier. C'eſt la pâte qui fait le deſſous d'une piece de pâtiſſerie.
-                     </def>
-                  </sense>
-               </entry>
-               <superEntry>
-                  <entry>
-                     <form>
-                        <orth rend="caps">ABAISSER
-                        </orth>
-                        <gramGrp>
-                           <pos> verbe a
-                              <c rend="ctlig">ct
-                              </c>if
-                           </pos>
-                        </gramGrp>
-                     </form>
-                     <sense n="1">
-                        <def>Faire deſcendre en bas, ou diminuer de la hauteur. 
-                           <hi rend="italic">Abaiſſer
-                           </hi> les voiles. 
-                           <hi rend="italic">Abaiſſer
-                           </hi> les fumées du vin. 
-                           <hi rend="italic">Abaiſſez
-                           </hi> ce mur. <hi rend="italic">Abaiſſez
-                           </hi> ce lut d'un ton, d'un demi-ton. 
-                           <hi rend="italic">Abaiſſer
-                           </hi> la voix. 
-                           <cit type="example">
-                              <quote>Selon Nicod ce mot vient du Grec 
-                                 <hi rend="italic">baſis
-                                 </hi>, comme qui diroit, mettre la 
-                                 <hi rend="italic">
-                                    baſe
-                                 </hi>.
-                              </quote>
-                           </cit>
-                        </def>
-                     </sense>
-                  </entry>
-               </superEntry>
-               <entry>
-                  <form>
-                     <orth rend="smallcaps">ABAISSER
-                     </orth>
-                  </form>
-                  <sense n="2">
-                     <def>, veut dire quelquefois s'affaiſſer, La terre s'est 
-                        <hi rend="italic">abaiſſée
-                        </hi>: ou decroitre, La riviere s'
-                        <hi rend="italic">abaiſſe
-                        </hi>; le vent s'eſt 
-                        <hi>abaiſſé
-                        </hi>.
-                     </def>
-                  </sense>
-               </entry>
-               <entry>
-                  <form>
-                     <orth rend="smallcaps">ABAISSER
-                     </orth>
-                  </form>
-                  <sense n="3">
-                     <def>, ſignifie auſſi, Diminuer le prix. Le bon ordre de la police a fait 
-                        <hi rend="italic">abaiſſer
-                        </hi> le prix du blé; c'eſt-à-dire qu'il eſt diminué. Ce mot en ce ſens n'eſt pas un bel uſage; il faut dire 
-                        <hi rend="italic">rabaiſſer
-                        </hi>. Voyez 
-                        <hi rend="smallcaps">RABAISSER
-                        </hi> On s'en ſert figurément dans le même ſens. L'envie 
-                        <hi rend="italic">abaiſſe
-                        </hi> par ſes diſcours les vertus qu'elle ne peut imiter. Or, M. 
-                        <hi rend="italic">Abaiſſer
-                        </hi> la Majeſté du Prince. L'uſage, comme la fortune, chacun dans leur juriſdi
-                        <c rend="ctlig">ct
-                        </c>ion, éleve ou 
-                        <hi rend="italic">abaiſſe
-                        </hi> qui bon lui ſemble.
-                        <cit type="example">
-                           <quote>
-                              <hi rend="smallcaps">VAU
-                              </hi>. Les grands noms 
-                              <hi rend="italic">abaiſſent
-                              </hi>, au lieu d'élever, ceux qui ne ſavent pas les ſoutenir. 
-                              <hi rend="smallcaps">LA ROCH
-                              </hi>.
-                           </quote>
-                        </cit>
-                     </def>
-                  </sense>
-               </entry>
-               <entry type="term" ana="Morale">
-                  <form>
-                     <orth rend="smallcaps">ABAISSER
-                     </orth>
-                  </form>
-                  <sense n="4">
-                     <def>, ſignifie auſſi en Morale, Ravaler l'orgueil de quelqu'un, le mortifier. Les Romains ſe vantoient d'
-                        <hi rend="italic">abaiſſer
-                        </hi> les ſuperbes, &amp; de pardonner aux humbles. 
-                        <cit type="example">
-                           <quote>
-                              <hi rend="smallcaps"> OE. M.
-                              </hi>
-                              <hi rend="italic">Abaiſſer
-                              </hi> l'orgueil de Carthage. 
-                              <hi rend="smallcaps">VAU
-                              </hi>. Il faut 
-                              <hi rend="italic">abaiſſer
-                              </hi> les esprits hautains. 
-                              <hi rend="smallcaps">OE. M.
-                              </hi> La crainte trouble &amp; 
-                              <hi rend="italic">abaiſſe
-                              </hi> l'eſprit. 
-                              <hi rend="smallcaps">MLE.SC.
-                              </hi> C'eſt-à-dire qu'elle le relâche &amp; l'avilit.
-                           </quote>
-                        </cit>
-                     </def>
-                  </sense>
-               </entry>
-               <entry type="term" ana="Fauconnerie">
-                  <sense n="5">
-                     <def>En termes de Fauconnerie on dit, 
-                        <hi rend="italic">Abaiſſer
-                        </hi> l'oiſeau, lorsqu'ayant trop d'embonpoint, on lui ôte quelque choſe de ſon pát ordinaire, pour le mettre en état de bien voler.
-                     </def>
-                  </sense>
-               </entry>
-               <entry type="term" ana="Jardinage">
-                  <form>
-                     <orth rend="smallcaps">ABAISSER
-                     </orth>
-                  </form>
-                  <sense n="6">
-                     <def>, en termes de Jardinage, ſignifie, Couper une branche près du tronc.
-                     </def>
-                  </sense>
-               </entry>
-               <entry>
-                  <form>
-                     <orth rend="smallcaps">ABAISSER
-                     </orth>
-                  </form>
-                  <sense n="7">
-                     <def>, ſe dit auſſi avec le pronom perſonnel, &amp; ſignifie alors s'Humilier, ſe ſoumettre, ſe ravaler. Il faut s'
-                        <hi rend="italic">abaiſſer
-                        </hi> devant la Majeſté divine. S'
-                        <hi rend="italic">abaiſſer
-                        </hi> à des choſes indignes. S'
-                        <hi rend="italic">abaiſſer
-                        </hi> juſqu'aux plus lâches complaiſances. L'humilité n'eſt ſouvent qu'un artifice de l'orgueil, qui ne s'
-                        <hi rend="italic">abaiſſe
-                        </hi> que pour s'élever. 
-                        <hi rend="smallcaps">LA ROCH.
-                        </hi> On le dit encore par reſpe
-                        <c rend="ctlig">ct
-                        </c> d'une personne éminente en dignité, lorsqu'elle ſemble rabatre de ſa grandeur, en deſcendant juſqu'à des perſonnes fort inferieures. 
-                        <cit type="example">
-                           <quote>Le Prince s'eſt
-                              <hi rend="italic">abaiſſé
-                              </hi> juſqu'à moi, en prenant ſoin de ma fortune.
-                              <hi rend="smallcaps">P. DE CL.
-                              </hi>
-                           </quote>
-                        </cit> Il ſignifie auſſi la complaiſance, ou l'adreſſe par laquelle on ſe conforme, &amp; on ſe proportionne à la comprehension foible &amp; bornée de ceux à qui on parle. Un Predicateur habile fçait s'
-                        <hi rend="italic">abaiſſer
-                        </hi> à la portée de ſes auditeurs. C'eſt quelquefois un artifice de l'orgueil de s'
-                        <hi rend="italic">abaiſſer
-                        </hi> avec excés, pour s'attirer des louanges, 
-                        <hi rend="smallcaps">MLF. SC.
-                        </hi> <cit type="example">
-                           <quote>Pline dit en parlant de la bonté de Trajan, qui ſe familiariſoit avec ceux qui l'approchoient;
-                           </quote>
-                        </cit> 
-                        <cit type="example">
-                           <quote>Celui qui tient la premiere place n'a qu'une voye pour s'élever, c'eſt de s'
-                              <hi rend="italic">abaiſſer
-                              </hi> lui même; parceque les Grands n'ont rien moins à craindre que de ſe ravaler en s'
-                              <hi rend="italic">abaiſſant
-                              </hi> de la forte.
-                           </quote>
-                        </cit>
-                        <hi rend="smallcaps">BOU.
-                        </hi>
-                     </def>
-                  </sense>
-               </entry>
-               <entry>
-                  <form>
-                     <orth rend="smallcaps">ABAISSÉ
-                     </orth>
-                     <gramGrp>
-                        <pos>
-                           <hi rend="smallcaps">EF.
-                           </hi> participe paſſif &amp; adje
-                           <c rend="ctlig">ct
-                           </c>if.
-                        </pos>
-                     </gramGrp>
-                  </form>
-                  <sense n="1">
-                  </sense>
-               </entry>
-               <entry type="term" ana="Blason">
-                  <form>
-                     <orth rend="smallcaps">ABAISSÉ
-                     </orth>
-                  </form>
-                  <sense n="2">
-                     <def>, en termes de Blaſon, ſe dit du vol des aigles, &amp; du vol en general des oiſeaux, dont la repreſentation ordinaire eſt d'être ouvert &amp; étendu, en forte que le bout de leurs aîles tende vers les angles ou le chef de l'Ecu. Mais lors que ce bout eſt en bas, &amp; vers la point de l'Ecu, ou que les ailes ſont pliées, on l'appelle Vol 
-                        <hi rend="italic">abaiſſé
-                        </hi>. On dit auſſi, Un chevron, un pal 
-                        <hi rend="italic">abaiſſé
-                        </hi>, une bande 
-                        <hi rend="italic">abaiſſée
-                        </hi>, quand la pointe finit au coeur de l'Ecu, ou au deſſous, &amp; ne monte pas plus haut. On dit auſſi qu'une piece est 
-                        <hi rend="italic"> abaiſſée
-                        </hi>, lorsqu'elle eſt au deſſous de ſa ſituation ordinaire, comme le chef, la 
-                        <unclear>faſce
-                        </unclear>, &amp;c. Et ainſi les Commandeurs de Malte qui ont des chefs dans leurs Armoiries, ſont obligez de les 
-                        <hi rend="italic">abaiſſer
-                        </hi> ſous celui de la Religion.
-                     </def>
-                  </sense>
-               </entry>
+              </superEntry>
+               
                <superEntry n="abatre">
                   <entry n="a">
                      <form><orth rend="caps">ABATRE.</orth>
@@ -325,7 +195,7 @@
                         <cit type="citation"><quote>
                            <bibl>
                               <author>
-                                 <abbr cert="high" corresp="Mr. d'Ablancourt">ABL.</abbr>
+                                 <abbr corresp="#ABL">ABL.</abbr>
                               </author>
                            </bibl> 
                            Les Moiſſonneurs ont <hi rend="italic">abate</hi> trois arpens de blé aujourd&apos;huy.
@@ -336,7 +206,7 @@
                         <cit type="citation"><quote>
                            <bibl>
                               <author>
-                                 <abbr cert="high" corresp="Mr. d'Ablancourt">ABL.</abbr>
+                                 <abbr corresp="#ABL">ABL.</abbr>
                               </author></bibl>
                            <name>Saint Pierre</name> abatit l&apos;oreille de <name>Malchus</name>.</quote></cit>
                         <cit type="example"><quote>Un habile Oculiſte a <hi rend="italic">abatu</hi> la cataracte qui me couvroit l&apos;oeil.</quote></cit>
@@ -358,10 +228,10 @@
                      
                      <sense n="3">
                         <name>Nicod</name> derive ce mot de <hi rend="italic">à bas</hi>, <gramGrp><pos>adverbe</pos> local</gramGrp> composé de <hi rend="italic">à</hi> &amp; de <hi rend="italic">bas</hi>.  
-                     </sense>
-                     
-                     <sense n="4" ana="Marine">
-                        <usg type="dom" ana="Marine"> termes de Marine,</usg>
+                     </sense></entry>
+                     <entry type="term" ana="#marine">
+                     <sense>
+                        <usg> termes de Marine,</usg>
                         <def>ſignifie,Decheoir, deriver, s&apos;écarter de la vraye route</def> 
                         <dictScrap>: ce qui ſe fait par la force des courants, ou des marées, ou par les erreurs du pointage, ou du mauvais gouvernement du timonier</dictScrap>.
                         <cit type="example"><quote>On dit auſſi, qu&apos;<seg type="collocation">un Pilote <hi rend="italic">abat</hi> ſon vaiſſeau d&apos;un quart de Rumb ou d&apos;un autre aire de vent</seg>,</quote></cit>
@@ -386,8 +256,8 @@
                      </sense>
                   </entry>
                   
-                  <entry type="term" ana="Fauconnerie">
-                     <usg type="dom" ana="Fauconnerie">En termes de Fauconnerie</usg> 
+                  <entry type="term" ana="#fauconnerie">
+                     <usg>En termes de Fauconnerie</usg> 
                      <cit type="example"><quote>on dit, <seg type="collocation"><hi rend="italic">Abatre</hi> l&apos;oiſeau</seg>,</quote></cit>
                      <def>pour dire, le tenir &amp; ſerrer entre deux mains pour le garnir de gets, le poivrer ou lui donner quelque medicament 
                         par force.</def>
@@ -395,10 +265,10 @@
                      <def>lorsqu&apos;il s&apos;abaiſſe vers terre.</def>    
                   </entry>  
                   
-                  <entry type="term" ana="Morale">
+                  <entry>
                      <form><orth rend="caps">ABATRE,</orth></form>
                      <sense n="1">
-                        <usg type="dom" ana="Morale">ſe dit figurément en Morale,</usg>
+                        <usg>ſe dit figurément en Morale,</usg>
                         <def> pour vaincre, dompter, renverſer.</def>
                         <cit type="example"><quote><seg type="collocation"><hi rend="italic">Abatre</hi> l&apos;orgueil de quelqu&apos;un.</seg></quote></cit>
                         <cit type="example"><quote> Quand la mort <hi rend="italic">abat</hi> la plus floriſſsante jeuneſſe, alors on reconnoit la vanité des attraits du monde.</quote></cit>
@@ -433,13 +303,13 @@
                      </sense>
                   </entry>
                </superEntry>
-               <entry type="term" ana="Venerie">
+               <entry type="term" ana="#venerie">
                   <form><orth rend="caps">ABATURES.</orth>
                      <gramGrp>
                         <pos>ſ.f.</pos><number>plur.</number>
                      </gramGrp>
                   </form>
-                  <usg type="dom" ana="Venerie">Terme de Venerie.</usg>
+                  <usg>Terme de Venerie.</usg>
                   <def> Foulures, menu bois, broſſailles, fougere, que le cerf abat du bas de ſon ventre en paſſant.</def>
                   <cit type="example"><quote> On connoit le cerf par ſes <hi rend="italic">abatures</hi>.</quote></cit>
                </entry>
@@ -484,13 +354,13 @@
                      <cit type="example"><quote> Ce jeune homme s&apos;étoit ſi bien <hi rend="italic">abbreuvé</hi> qu&apos;il bronchoit à chaque pas.</quote></cit>
                   </entry>
                   
-                  <entry type="term" ana="Vernisseur">
+                  <entry type="term" ana="#vernisseur">
                      <form><orth rend="smallcaps">ABBREUVER,</orth>
                         <gramGrp>
                            <pos>v. act.</pos>
                         </gramGrp> 
                      </form>
-                     <usg type="dom" ana="Vernisseur">Terme de Verniſſeur.</usg>
+                     <usg>Terme de Verniſſeur.</usg>
                      <cit type="example"><quote> On dit dans ce ſens que la premiere couche de vernis ne ſe met que pour <seg type="collocation"><hi rend="italic">abbreuver le bois</hi></seg>.</quote></cit>
                   </entry>
                   
@@ -531,9 +401,9 @@
                         <foreign xml:lang="lat"><hi rend="italic">beuratorium</hi></foreign>.
                      </dictScrap>
                   </entry>
-                  <entry type="term" ana="Maçonnerie">
+                  <entry type="term" ana="#maconnerie">
                      <form><orth rend="smallCaps">ABBREUVOIR</orth></form>
-                     <usg type="dom" ana="Maçonnerie">, en termes de Maçonnerie,</usg>
+                     <usg>, en termes de Maçonnerie,</usg>
                      <def>ſe dit des intervalles que les Maçons laiſſent entre les joints des pierres, pour y faire entrer du mortier.</def>
                      <usg type="syn">En ce ſens l&apos;on ſe ſert plus ſouvent du mot <hi rend="italic">godet</hi>.</usg>
                   </entry>
@@ -553,119 +423,16 @@
                   </entry>
                </superEntry>
             </div>
-            <div n="ABB">
-               <superEntry n="ABBREUVER">
-                  <entry n="a">
-                     <form><orth rend="caps">ABBREUVER </orth> ou <orth rend="caps"><oVar>abreuver</oVar>.</orth>
-                        <gramGrp>
-                           <pos>v. act.</pos>
-                        </gramGrp>
-                     </form>
-                     <def> Donner à boi<caesura/>re aux chevaux &amp; au bêtail.</def>
-                     <cit type="example"><quote> On <hi>abbreuve</hi> les cheveaux deux fois par jour.</quote></cit>
-                     <def> Anciennement, on diſoit <hi><oVar>abbeuvrer</oVar></hi>, &amp; par tranſpoſi<caesura/>tion de lettres l&apos;on a dit <hi><oVar>abbreuver</oVar></hi>.</def>
-                     <cit type="citation"><quote>Dans une vieille chartre de l&apos;an <date>1343</date> il eſt parlé de l&apos;éponge dont <name>J.C.</name> fut <hi>abbreuvré</hi>.</quote></cit>
-                     <dictScrap>L'Auteur de la <bibl xml:lang="lat"><title><hi>Flandria illuſtraia</hi></title></bibl>
-                        rapporte une lettre tres an<caesura/>cienne où l&apos;on trouve <hi><oVar>enbuver</oVar></hi> les chevaux.</dictScrap> 
-                  </entry>      
-                  <entry n="b">
-                     <form><orth rend="smallcaps">ABBREUVER</orth>,</form>
-                     <sense n="1">
-                        <def>ſignifie auſſi, Humecter &amp; imbiber d&apos;eau.</def>
-                        <cit type="example"><quote> Il faut <hi>abbreuver</hi> ces tonneaux, cette cuve, avant que d&apos;y met<caesura/>tre la vendange.</quote></cit>
-                        <cit type="example"><quote> Ce drap eſt <hi>abbreuvé</hi> d&apos;eau.</quote></cit>
-                        <cit type="example"><quote> La terre eſt <hi>abbreu<caesura/>vée</hi> par les pluyes.</quote></cit>
-                     </sense>
-                     <sense n="2">
-                        <cit type="example"><quote> <seg type="collocation">Abbreuver les prez</seg>,</quote></cit>
-                        <def>c'eſt arroſer, y faire venir de l&apos;eau par le moyen de ſaignées.</def>
-                        <cit type="example"><quote> Les poroſitez des corps ſont <hi>abbreuvées</hi> par des humeurs cruës, épaiſſes, 
-                           froides.</quote></cit>
-                     </sense>
-                  </entry>
-                  
-                  <entry n="c">
-                     <form><orth rend="smallcaps">ABBREUVER,</orth></form>
-                     <def> ſe joint avec le pronom perſonnel. En ce cas il ſignifie, Boire, s&apos;enyvrer.</def>
-                     <cit type="example"><quote> Ce jeune homme s&apos;étoit ſi bien <hi>abbreuvé</hi> qu&apos;il bronchoit à chaque pas.</quote></cit>
-                  </entry>
-                  
-                  <entry type="term" ana="Vernisseur">
-                     <form><orth rend="smallcaps">ABBREUVER,</orth>
-                        <gramGrp>
-                           <pos>v. act.</pos>
-                        </gramGrp> 
-                     </form>
-                     <usg type="dom" ana="Vernisseur">Terme de Verniſſeur.</usg>
-                     <cit type="example"><quote> On dit dans ce ſens que la premiere couche de vernis ne ſe met que pour <seg type="collocation"><hi>abbreuver le bois</hi></seg>.</quote></cit>
-                  </entry>
-                  
-                  <entry n="e">
-                     <form><orth rend="smallcaps">ABBREUVER,</orth></form>
-                     <def>ſignifie figurément, Inſtruire, prevenir quelqu&apos;un par quelque choſe, &amp; l&apos;en remplir.</def>
-                     <cit type="example"><quote>Il l&apos;a <hi>abbreuvé</hi> de cette opinion.</quote></cit>
-                     <cit type="example"><quote> J&apos;en ſuis <hi>abbreuvé</hi> dès ma jeuneſſe.</quote></cit>
-                     <cit type="example"><quote> Tout le monde eſt <hi>abbreuvé</hi> de cette nouvelle.</quote></cit>
-                     <cit type="citation"><quote> Souvenez-vous de ces ſources immortelles où vous vous êtes <hi>abbreuvez</hi> des ſaintes eaux de la ſageſſe. <bibl><author>PATRU</author>.</bibl></quote></cit>
-                  </entry>
-                  
-                  <entry n="f">
-                     <form><orth rend="smallCaps">ABBREUVÉ,</orth><orth rend="caps" extent="part">ÉE</orth>.
-                        <gramGrp>
-                           <pos>part. pass. &amp; adj.</pos>
-                        </gramGrp>
-                     </form>
-                     <cit type="citation"><quote> Si-tôt que du nectar la troupe est <hi>abbreuvée</hi>. 
-                        <bibl><author><abbr cert="high" corresp="Mr. Boileau des Preaux">BOI.</abbr></author></bibl></quote></cit>
-                  </entry>     
-               </superEntry>
-               
-               
-               <superEntry n="abbreuvoir">
-                  <entry n="1">
-                     <form><orth rend="caps">ABBREUVOIR.</orth>
-                        <gramGrp>
-                           <pos>ſ. m.</pos>
-                        </gramGrp>
-                     </form>
-                     <def>Lieu où on abbreuve les chevaux.</def>
-                     <cit type="example"><quote> Mener les chavaux à <hi>l&apos;abbreuvoir</hi>.</quote></cit>
-                     <dictScrap> Il ſe dit plus preciſément d&apos;un glacis le plus ſouvent pavé de grais, &amp; bordé de pierre, qui conduit à un baſſin, ou à une rivere pour abbreuver les chevaux. DAV</dictScrap>
-                     <dictScrap><name>Du Cange</name> l&apos;appelle en <lang>Latin</lang>
-                        <foreign xml:lang="lat"><hi>beuratorium</hi></foreign>.
-                     </dictScrap>
-                  </entry>
-                  <entry type="term" ana="Maçonnerie">
-                     <form><orth rend="smallCaps">ABBREVOIR</orth></form>
-                     <usg type="dom" ana="Maçonnerie">, en termes de Maçonnerie,</usg>
-                     <def>ſe dit des inter<caesura/>valles que les Maçons laiſſent entre les joints des pierres, pour y faire entrer du mortier.</def>
-                     <usg type="syn">En ce ſens l&apos;on ſe ſert plus ſouvent du mot <hi>godet</hi>.</usg>
-                  </entry>
-                  <entry n="3">
-                     <sense n="1">
-                        <def> On dit proverbialement d&apos;une playe large &amp; ſanglante, que c&apos;eſt un
-                           <seg type="collocation"><hi>abbreuvoir</hi> à mouches</seg>.</def>
-                        <cit type="citation"><quote> Il lui a porté un coup à la tête, &amp; lui a fait un grand 
-                           <seg type="collocation"><hi>abbreuvoir</hi> à mouches</seg>. <bibl><author ref="Mr. d'Ablancourt"><abbr>ABL</abbr></author></bibl>
-                        </quote></cit>
-                     </sense>
-                     <sense n="2">
-                        <cit type="example"><quote> On dit auſſi, qu&apos;un bon cheval va bien tout ſeul à l&apos;<hi>abbreuvoir</hi> </quote></cit>
-                        <cit type="example"><quote> ; quand on ſe leve de table pour aller prendre ſoi-même à boire au buffet.</quote></cit>
-                        <dictScrap>Ces phraſes ſont du ſtile burleſque.</dictScrap>
-                     </sense>
-                  </entry>
-               </superEntry>
-            </div>
+            
             
             <div n="ABD">  
-               <entry type="term" ana="Medecine">
+               <entry type="term" ana="#medecine">
                   <form><orth rend="caps"> ABDOMEN.</orth>
                      <gramGrp>
                         <pos>ſ. m.</pos>
                      </gramGrp>
                   </form>
-                  <usg type="dom" ana="Medecine"> Terme de Medecine,</usg>
+                  <usg> Terme de Medecine,</usg>
                   <def> qui ſignifie la partie exterieure du bas ventre depuis les cuiſſes en remontant juſqu&apos;au diaphragme.</def> 
                   <etym> Ce mot eſt <lang ana="lat">Latin</lang>, &amp; vient de <foreign xml:lang="lat"><hi rend="italic">abdo</hi></foreign>
                      <def> , parce qu&apos;il cache les inteſtins.</def>
@@ -675,9 +442,9 @@
                </entry>
             </div>
             <div n="ABI">     
-               <entry type="term" ana="Jurisprudence">
+               <entry type="term" ana="#jurisprudence">
                   <form><orth rend="caps">AB-INTEſTAT.</orth></form> 
-                  <usg type="dom" ana="Jurisprudence">Terme de Juriſprudence,</usg> 
+                  <usg>Terme de Juriſprudence,</usg> 
                   <def>qui ſe dit de celui qui herite de droit d&apos;un homme qui n&apos;a point fait de teſtament, &amp; qui avoit pourtant le pouvoir de teſter.</def>
                   <dictScrap> On ne dit point d&apos;un mineur qu&apos;il eſt mort <hi rend="italic">ab-inteſtat</hi>; mais on dit d&apos;un fils qu&apos;il eſt heritier de ſon pere <hi rend="italic">ab-inteſtat</hi>.</dictScrap>
                   <dictScrap> Il y a eu un temps où l&apos;on privoit de ſepulture ceux qui étoient decedez <hi rend="italic">ab-inteſtat</hi>, parcequ&apos;ils n&apos;avoient rien donné à l&apos;Egliſe.
@@ -687,13 +454,13 @@
                </entry>
             </div>
             <div n="ABL">  
-               <entry type="term" ana="Pratique">
+               <entry type="term" ana="#pratique">
                   <form><orth rend="caps"> ABLAIS.</orth>
                      <gramGrp>
                         <pos>ſ.m.</pos>
                      </gramGrp>
                   </form>
-                  <usg type="dom" ana="Pratique">Terme de Pratique</usg>
+                  <usg>Terme de Pratique</usg>
                   <usg type="geo">en quelques Provinces.</usg>
                   <def>Depouille de bleds.</def>
                   <dictScrap>La Commune d&apos;<name>Amiens</name> deffend d&apos;enlever les fruits, &amp; <hi rend="italic">ablais</hi>, quand ils ſont ſaiſis, ſans donner caution au Seigneur de ſes droits.</dictScrap>
@@ -701,13 +468,13 @@
                
                
                
-               <entry type="term" ana="Grammaire">
+               <entry type="term" ana="#grammaire">
                   <form><orth rend="caps">ABLATIF.</orth>
                      <gramGrp>
                         <pos>ſ.m.</pos>
                      </gramGrp>
                   </form>
-                  <usg type="dom" ana="Grammaire">Terme de Grammaire.</usg>
+                  <usg>Terme de Grammaire.</usg>
                   <def>Sixiéme cas de la declinaiſon du nom &amp; du participe.</def>
                   <dictScrap>
                      On dit aussi <hi rend="italic">ablatif abſolu</hi>,quand il eſt ſans regime. 
@@ -720,9 +487,9 @@
                </entry>
                
                
-               <entry type="term" ana="Pêche">
+               <entry type="term" ana="#peche">
                   <form><orth rend="caps"> ABLERET.</orth></form>
-                  <usg type="dom" ana="Pêche">Terme de pêche.</usg>
+                  <usg>Terme de pêche.</usg>
                   <def>C&apos;eſt une eſpece de filet carré attaché au bout d&apos;une perche avec lequel on pêche les <hi rend="italic">ables</hi>, ou d&apos;autres petits poiſſons :</def>
                   <dictScrap>ce qui eſt permis par pluſieurs Coutumes.</dictScrap>
                   <usg type="syn">On l&apos;appelle en quelques païs <hi rend="italic">trable-étiquette</hi> ou ſimplement, <hi rend="italic">carré</hi>.</usg>
@@ -730,12 +497,12 @@
             </div>
             <div n="ABN">
                <superEntry>
-                  <entry type="term" ana="Devotion">
+                  <entry type="term" ana="#devotion">
                      <form>
                         <orth rend="caps">ABNEGATION.
                         </orth>
                      </form>
-                     <sense ana="Devotion">
+                     <sense>
                         <usg>Terme de devotion.
                         </usg>
                         <gramGrp>
@@ -766,7 +533,7 @@
                         </gramGrp> 
                         <cit type= "example">
                            <quote>Ce terme vient du Latin 
-                              <foreign xml:lang="la">abnegare
+                              <foreign xml:lang="lat">abnegare
                               </foreign>, qui ſignifie, 
                               <choice>
                                  <orig>Deſavouër
@@ -789,7 +556,7 @@
            
             <div n="ABO">
                <superEntry>
-                  <entry type="term" ana="Chancellerie"><form><orth rend="caps">ABOLITION. </orth>
+                  <entry type="term" ana="#chancellerie"><form><orth rend="caps">ABOLITION. </orth>
                      <gramGrp><pos> ſ.m. </pos></gramGrp></form>
                      <sense><term>Terme de Chancellerie. </term>
                         <def> Let<caesura/>tres de pardon du Prince, par leſquelles il abolit entierement un crime qui n'eſt pas remiſſible par les ordonnances, ſans même qu'on ſoit tenu d'en expliquer les circonſtances, <g>&amp;</g> de les rendre conformes aux informations, ainſi qu'il eſt requis aux lettres de grace, qui ne s'accordent que pour les cas remiſſibles. </def>
@@ -802,13 +569,14 @@
                            <quote>L'entiere <hi rend="italic">abolition</hi> de l'Ordre des Templiers. </quote></cit></sense>
                   </entry>
                </superEntry>
+               <superEntry><entry><form>ABORDAGE</form></entry></superEntry>
                <superEntry>
-                  <entry type="term" ana="Fauconnerie"><form><orth rend="smallcaps">ABORDER <hi rend="italic">la remiſe. </hi> </orth></form>
+                  <entry type="term" ana="#fauconnerie"><form><orth rend="smallcaps">ABORDER <hi rend="italic">la remiſe. </hi> </orth></form>
                      <sense><term>Terme de Fauconnerie</term><def>, qui ſe dit lorsque la perdrix pouſſée par l'oiseau a gagné quelque buiſſon : </def> 
                         <cit type="example"><quote>alors on <hi rend="italics">aborde la remiſe</hi> ſous le vent, afin que les chiens ſentent mieux la perdrix cachée dans le buiſ<caesura/>ſon.</quote></cit></sense>
                   </entry> 
                </superEntry>
-               <entry type="term" ana="Geometrie"><form><orth rend="caps">ABORNER. </orth>
+               <entry type="term" ana="#geometrie"><form><orth rend="caps">ABORNER. </orth>
                   <gramGrp><pos> v. act. </pos></gramGrp></form>
                   <sense><term>Terme de Geometrie. </term>
                      <def>Donner des bornes à une terre. </def></sense>
@@ -820,21 +588,21 @@
                         <cit type="example"><quote>L'<hi rend="italic">abouchement</hi> des grands Princes a ſouvent été nuiſible à leurs Etats. </quote>
                            <quote>On a plu<caesura/>tôt terminé affaire par un <hi rend="italic">abouchement</hi> d'une de<caesura/>mi-heure, qu'en trois mois de négociations par let<caesura/>tres. </quote></cit></sense>
                   </entry>
-                  <entry type="term" ana="Anatomie"><form><orth rend ="smallcaps">ABOUCHEMENT. </orth></form> 
+                  <entry type="term" ana="#anatomie"><form><orth rend ="smallcaps">ABOUCHEMENT. </orth></form> 
                      <sense><term>Terme d'Anatomie. </term>
                         <def>La rencontre <g>&amp;</g> l'union de deux vaiſſeaux, des veines et des arteres.</def></sense>
                   </entry>
                </superEntry>
-               <entry type="term" ana="Menuiserie"><form><orth rend="caps">ABOUEMENT</orth>, ou plutôt <oVar rend="caps">BOUEMENT. </oVar>
+               <entry type="term" ana="#menuiserie"><form><orth rend="caps">ABOUEMENT</orth>, ou plutôt <oVar rend="caps">BOUEMENT. </oVar>
                   <gramGrp><pos> ſ.m. </pos></gramGrp></form>
                   <sense><term>Terme de Menuiſerie. </term>
                      <def>On appelle aſſemblage d'<hi rend="italic">abouement</hi>, celui où la plus grande partie de la piece eſt quarrée, <g>&amp;</g> la moindre partie à onglet. </def></sense>
                </entry>
-               <entry ana="Forêts"><form><orth rend="caps">ABOUGRI</orth>, ou plutôt <oVar rend="caps">RABOUGRI</oVar>. </form>
+               <entry type="term" ana="#forets"><form><orth rend="caps">ABOUGRI</orth>, ou plutôt <oVar rend="caps">RABOUGRI</oVar>. </form>
                   <sense><usg>Terme dont on ſe ſert dans les forêts</usg><def>, pour ſignifier des bois de mauvaiſe venuë, dont le tronc eſt court, raboteux, plein de noeuds, <g>&amp;</g> et qui ne pouſſe gueres de branches. </def>
                      <cit type="example"><quote>Le bois <hi rend="italic">abougri</hi> n'eſt point propre pour les ouvrages, <g>&amp;</g> eſt ſujet au recepage. </quote></cit></sense>
                </entry>
-               <entry type="term" ana="Blason"><form><orth rend="caps">ABOUTÉ. </orth>
+               <entry type="term" ana="#blason"><form><orth rend="caps">ABOUTÉ. </orth>
                   <gramGrp>adj. </gramGrp></form>
                   <sense><term>Terme de Blaſon</term><def>, qui ſe dit de qua<caesura/>tre hermines dont les bouts ſe repondent, <g>&amp;</g> se joignent en croix. </def></sense>
                </entry>
@@ -846,7 +614,7 @@
                            <quote>Tous les rayons d'un cercle <hi rend="italic">aboutiſſent</hi> à ſon centre. </quote>
                            <quote>Cette pyramide <hi rend="italic">aboutit</hi> en pointe. V A U. </quote></cit></sense>
                   </entry>
-                  <entry ana="Morale"><form><orth rend="smallcaps">ABOUTIR, </orth></form>
+                  <entry><form><orth rend="smallcaps">ABOUTIR, </orth></form>
                      <sense><usg>ſe dit figurément en Morale, </usg><def>de la fin que les choſes peuvent avoir. </def>
                         <cit type="example"><quote>Ce procès a <hi rend="italic">abouti</hi> enfin à une tranſaction. </quote>
                            <quote>On ne ſçait jamais où <hi rend="italic">aboutiront</hi> tous ces grands deſſeins. </quote>
@@ -858,32 +626,24 @@
                      <sense><usg>ſe dit auſſi en Medecine,</usg><def>d'une playe qui vient à ſuppuration. </def>
                         <cit type="example"><quote>On met des emplâtres, des ca<caesura/>taplaſmes, pour faire <hi rend="italic">aboutir</hi> des bubons, des abſés, des froncles, des tumeurs. </quote></cit></sense>
                   </entry>
-                  <entry type="term" ana="Plombier"><form><orth rend="smallcaps">ABOUTIR, </orth></form>
+                  <entry type="term" ana="#plombier"><form><orth rend="smallcaps">ABOUTIR, </orth></form>
                      <sense><term>en termes de Plombier, </term>
                         <def>ſignifie, Revêtir de tables minces de plomb blanchi, une corniche, un ornement, ou tout autre ſaillie d'Architecture, <g>&amp;</g> de Sculpture de bois. On ſe ſert pour cela de coins, <g>&amp;</g> au<caesura/>tres outils ; mais enſorte que l'épaſſeur du metal n'em<caesura/>pêche pas que le profil ne ſe conſerve. Quelques-uns disent <hi rend="italic">amboutir</hi>. </def></sense>
                   </entry>
                </superEntry>
-               <entry type="term" ana="Couture"><form><orth rend="caps">ABOUTISSEMENT. </orth>
+               <entry type="term" ana="#couture"><form><orth rend="caps">ABOUTISSEMENT. </orth>
                   <gramGrp><pos>ſ.m. </pos></gramGrp></form>
                   <sense><term>Terme de couture. </term>
                      <def>C,eſt une piece d'étoffe que l'on coud avec une autre qui n'eſt pas aſſez longue pour aller juſqu'où on veut. </def>
                      <cit type="example"><quote>Cette piece eſt trop courte, il y faut mettre un <hi rend="italic">aboutiſ<caesura/>ſement</hi> pour l'allonger. </quote></cit></sense>
                </entry>
-               <entry type="term" ana="Charpenterie"><form><orth rend="caps">ABOUTS</orth>, au lieu de <oVar rend="caps">BOUTS. </oVar>
+               <entry type="term" ana="#charpenterie"><form><orth rend="caps">ABOUTS</orth>, au lieu de <oVar rend="caps">BOUTS. </oVar>
                   <gramGrp><pos>ſ.m. </pos></gramGrp></form>
                   <sense><term>Terme de Charpenterie</term>
                      <def>, qui ſe dit des extremitez de toutes les pieces de Charpenterie <g>&amp;</g> de Menuiſerie miſes en oeu<caesura/>vre. C'eſt dans l'aſſemblage de la Charpenterie la partie du bout d'une piece de bois depuis une entaille, ou une mortoiſe. Les couvreurs diſent auſſi, un <hi rend="italic">re<caesura/>manie about. </hi></def></sense>
                </entry>
             </div>
-            <div n="ABS">
-               <superEntry>
-                  <entry type="absurde" ana="Philosophie"><form><orth rend="caps">ABSURDE</orth>
-                     
-                     <gramGrp><pos>adj.male.&amp;fem.</pos></gramGrp></form><usg type="dom" ana="Philosophie">Terme de Philoſophie.</usg><sense> <def>Ce qui choque le ſens commun, qui eſt impertinent, incroyable, impoſſible.
-                        <cit type="example"><quote>Proposition <hi>abſurde</hi> ſuppose une choſe <hi>abſurde</hi>, on en tire mille <choice><orig>conſequances</orig><reg>conséquences</reg></choice> <hi>abſurdes</hi>. Il prouve une choſe <hi>abſurde</hi> par une choſe plus <hi>abſurde</hi>.</quote></cit></def>
-                     </sense></entry>
-               </superEntry>
-            </div>
+            
             <div n="ABR">
          <superEntry>
             <entry type="term">
@@ -992,7 +752,7 @@
                   </cit>
                </sense>
             </entry>
-            <entry type="term" ana="Banque">
+            <entry type="term" ana="#banque">
                <form>
                   <orth rend="smallcaps">ABREVIATEUR
                   </orth>
@@ -1052,7 +812,7 @@
                         </foreign>, je couvre.
                      </quote>
                   </cit>
-               <usg ana="Marine">On le dit ſouvent en terme de Marine.
+               <usg ana="#marine">On le dit ſouvent en terme de Marine.
                </usg>
                   <def> Mouillage, ou ancrage à couvert du vent.
                   </def>
@@ -1068,9 +828,8 @@
                   </cit>
                </sense>
             </entry>
-         </superEntry>
-         <superEntry>
-            <entry type="term" ana="Morale">
+       
+            <entry type="term" ana="#morale">
                <form>
                   <orth rend="smallcaps">ABRI
                   </orth>
@@ -1185,7 +944,7 @@
             </entry>  
          </superEntry>
          <superEntry>
-            <entry type="term" ana="Astronomie">
+            <entry type="term" ana="#astronomie">
                <form>
                   <orth rend="caps">ABSIDES
                   </orth>
@@ -1195,7 +954,7 @@
                      <pos>f. m.
                      </pos>
                   </gramGrp>
-                  <usg ana="Astronomie">Terme d'Aſtronomie.
+                  <usg>Terme d'Aſtronomie.
                   </usg>
                   <def>Ce ſont deux points de l'orbite d'une planete, dont le plus haut est nommé 
                      <hi>apogée
@@ -1231,6 +990,15 @@
             </entry>
          </superEntry>
          </div>
+            <div n="ABS">
+               <superEntry>
+                  <entry type="term" ana="#philosophie"><form><orth rend="caps">ABSURDE</orth>
+                     
+                     <gramGrp><pos>adj.male.&amp;fem.</pos></gramGrp></form><usg>Terme de Philoſophie.</usg><sense> <def>Ce qui choque le ſens commun, qui eſt impertinent, incroyable, impoſſible.
+                        <cit type="example"><quote>Proposition <hi>abſurde</hi> ſuppose une choſe <hi>abſurde</hi>, on en tire mille <choice><orig>conſequances</orig><reg>conséquences</reg></choice> <hi>abſurdes</hi>. Il prouve une choſe <hi>abſurde</hi> par une choſe plus <hi>abſurde</hi>.</quote></cit></def>
+                     </sense></entry>
+               </superEntry>
+            </div>
             <div n="ABY">
                <superEntry>
                   <entry type="abysme"><form rend="caps"><oVar rend="caps">abysme</oVar> ou <oVar>abime</oVar></form>
@@ -1255,7 +1023,7 @@
                      <sense n="4"><def>ſe dit aussi de ces depenſes exceſſives dont on ne peut juger avec certitude.</def>
                         <cit type="example"><quote>On ne peut certainement regler la depenſe de la Marine, c'eſt un <hi>abîme</hi>. La depenſe de cette maison eſt exceſſive, c'est un <hi>abîme</hi>. On dit en proverbe, qu'un <hi>abîme</hi> attire l'autre, quand d'un mal on tombe en un plus grand.</quote></cit>
                      </sense></entry>
-                  <entry><form><orth rend="smallcaps" ana="Blason">ABYSME</orth>,</form>
+                  <entry type="term" ana="#blason"><form><orth rend="smallcaps">ABYSME</orth>,</form>
                      <sense n="5"><usg>Terme de Blason.</usg> <def> C'eſt le centre, ou le mileu de l'Ecu, enſorte sue la piece qu'on y met ne touche &amp; ne charge aucune autre piece.</def>
                         <cit type="example"><quote>Ainſi on dit d'un petit Ecu qui eſt au mileu d'un grand, qu'il eſt mis en <hi>abîme</hi>. </quote></cit>
                         <def>Et tout autant de fois qu'on commence par toute autre figure que par celle du mileu,</def> <cit type="example"><quote>on dit que celle qui eſt au milieu eſt en <hi>abîme</hi>,</quote></cit> <def>comme ſi on vouloit dire, que les autres grades pieces étant élevés en relief, celle-là paroît petite, &amp; comme cachée, &amp; abîmée.</def>
@@ -1269,12 +1037,12 @@
             </div>
             <div n="ACA">
                <superEntry>
-                  <entry type="acacia" ana="Botanique"><form><orth rend="caps">ACACIA</orth>,</form>
-                     <gramGrp><pos>f.m.</pos></gramGrp><usg type="dom" ana="Botanique">Terme de Botanique,</usg><sense n="1"><def>qu'on donne à divers arbres, quoyque fort <choice><orig>differens</orig><reg>différents</reg></choice> <choice><orig>entr'eux</orig><reg>entre eux</reg></choice>.
+                  <entry type="term" ana="#botanique"><form><orth rend="caps">ACACIA</orth>,</form>
+                     <gramGrp><pos>f.m.</pos></gramGrp><usg>Terme de Botanique,</usg><sense n="1"><def>qu'on donne à divers arbres, quoyque fort <choice><orig>differens</orig><reg>différents</reg></choice> <choice><orig>entr'eux</orig><reg>entre eux</reg></choice>.
                         Il y a un <hi>acacia</hi>, qu'on appelle auſſi <hi>caſſie</hi>, qui croit en Egypte, &amp; qui eſt un grand arbre épineux, dont la fleur eſt jaune en quelques-uns, &amp; blanches en d'autres : ſon fruit qui eſt contenu dans des gouſſes, eſt semblable au lupin. Cet arbre nous fournit la gomme Arabique, &amp; un ſuc qu'on appelle le vrai <hi>acacia</hi>. Il y a une autre ſorte d'arbre qui croît à Malabar, &amp; à Cranganoor, qu'on appelle auſſi <hi>acacia</hi>. En Meſopotamie près du Tygre, &amp; dans les deſerts d'Arabie près de l'Euphrate, on donne ce même nom à d'autres arbres, qui ſont pourtant <choice><orig>differens</orig><reg>différents</reg></choice>. Il y a encore un <hi>acacia</hi> du Breſil; &amp; un de Virginie. Il y en a un autre différent des <choice><orig>precedens</orig><reg>précédents</reg></choice>, qu'on appelle <hi>acacia</hi> de l'Amerique, ou <hi>acacia Robini</hi>, parce qu'un nommé Robin Garde du jardin du Roi, eſt le premier qui l'a mis en vogue en France environ l'année 1650. Celui-cy a un tronc ample &amp; dur, &amp; une écorce noirâtre, qui n'eſt point armée d'épines, comme les <hi>acacia</hi> d'Egypte, &amp; de Cappadoce. Il jette par le haut des branches tendres, <choice><orig>mouëlleuſes</orig><reg>moelleuses</reg></choice>, &amp; qui ſont garnies de beaucoup de pointes aigües. Ses feuilles ont cela de particulier, que ſur le ſoir elles ſe replient par le milieu ; &amp; le matin, le ſoleil revenant, elles ſe <choice><orig>r'ouvrent</orig><reg>rouvrent</reg></choice> Ses fleurs ſont blanches, &amp; à bouquets. Depuis quelque temps on fait en France de belles allées de cet arbre. Il eſt indeclinable. <cit type="citation"><bibl>Mr. Menage.</bibl><quote>Deux <hi>acacia</hi> au <choice><orig>plurier</orig><reg>pluriel</reg></choice>.MEN.</quote></cit></def>
                      </sense></entry>
-                  <entry type="acacia" ana="Pharmacie"><form><orth rend="smallcaps">ACACIA</orth></form>
-                     <sense n="2"><def><hi>vera</hi>, le vrai <hi>acacia, </hi></def><usg type="dom" ana="Pharmacie">en termes de Pharmacie,</usg><def> eſt le ſuc épaiſſi de l'arbre qu'on appelle <hi>acacia</hi>, ou caſſie. Ce ſuc qu'on tire du fruit eſt haut en couleur, &amp; d'un rouge assez beau, d'une ſubſtance compacte, mais qu'on peut caſſer en frappant deſſus, lors qu'il eſt bien deſſeché. On l'apporte en boules dans des veſſies minces. Sont goût eſt <choice><orig>ſtiptique</orig><reg>styptique</reg></choice>, &amp; tant ſoit peu piquant, mais assez agréable.</def>
+                  <entry type="term" ana="#pharmacie"><form><orth rend="smallcaps">ACACIA</orth></form>
+                     <sense n="2"><def><hi>vera</hi>, le vrai <hi>acacia, </hi></def><usg>en termes de Pharmacie,</usg><def> eſt le ſuc épaiſſi de l'arbre qu'on appelle <hi>acacia</hi>, ou caſſie. Ce ſuc qu'on tire du fruit eſt haut en couleur, &amp; d'un rouge assez beau, d'une ſubſtance compacte, mais qu'on peut caſſer en frappant deſſus, lors qu'il eſt bien deſſeché. On l'apporte en boules dans des veſſies minces. Sont goût eſt <choice><orig>ſtiptique</orig><reg>styptique</reg></choice>, &amp; tant ſoit peu piquant, mais assez agréable.</def>
                      </sense></entry>
                   <entry type="acacia"><form><orth rend="smallcaps">ACACIA</orth><hi>(Germanica)</hi> d'Allemagne,</form>
                      <sense n="3"><def>eſt le ſuc tiré par expreſſion du fruit du prunier ſauvage, qu'on cuit en <choice><orig>conſiſtence</orig><reg>consistance</reg></choice> d'électuaire, &amp; qu'on ſubſtitue à la place du vrai <hi>acacia</hi>. On appelle auſſi <hi>acacia</hi> d'Allemagne, l'arbre même.</def>
@@ -1283,9 +1051,9 @@
             </div>
             
             <div n="ACC">
-               <entry><form><orth rend="caps">ACCESSION.</orth><gramGrp><pos>ſ</pos>.<gen>f</gen></gramGrp></form>
+               <entry type="term" ana="#pratique"><form><orth rend="caps">ACCESSION.</orth><gramGrp><pos>ſ</pos>.<gen>f</gen></gramGrp></form>
                   
-                  <sense n="1" ana="Pratique"><usg ana="Pratique">Terme de pratique.</usg> <def>L'A<c rend="ctig">ct</c>ion d'aller dans un lieu.</def> 
+                  <sense><usg>Terme de pratique.</usg> <def>L'A<c rend="ctig">ct</c>ion d'aller dans un lieu.</def> 
                      <cit type = "example"><quote>Le juge a ordonné une <hi rend ="italic">acceſſion</hi> de lieu pour dreſſer procès verbal de l'état des choſses. </quote></cit></sense>
                   
                   <sense n="2"><def>Il ſignifie aussi l'union d'une choſe à une autre : 
@@ -1297,68 +1065,68 @@
                      <cit type ="example"><quote>La pourpre par voye d'<hi rend ="italic">acceſſion</hi> appartient au maitre du drap avec lequel elle a été confondue par la teinture.
                         <bibl>INST.P.2 T.1</bibl></quote></cit></sense></entry>
                
-               <entry type="term" ana="College"><form><orth rend="caps">ACCESSIT.</orth></form>  
+               <entry type="term" ana="#college"><form><orth rend="caps">ACCESSIT.</orth></form>  
                   
-                  <sense><usg ana="College">Terme de College.</usg>
+                  <sense><usg>Terme de College.</usg>
                      <def>Récompense qu'on donne aux écoliers qui ont compoſé auſſi bien que celui qui a emporté le premier prix. </def> 
                      <cit type="example"><quote> Un tel a eu le premier prix des vers, &amp; un tel le premier <hi rend ="italic">acceſſit</hi> : c'est à dire celui qui en a approché de plus près. </quote></cit> 
                      <etym>Ces mots viennent du verbe <lang xml:lang="lat">latin</lang> <foreign  rend="italic" xml:lang="lat">accedo</foreign> qui signifie le même.</etym></sense></entry>
                
-               <superEntry><entry type="term" ana="Philosophie"><form ><orth rend="caps"> ACCIDENT.</orth><gramGrp><pos>ſ</pos>.<gen>m</gen></gramGrp></form>
+               <superEntry><entry type="term" ana="#philosophie"><form ><orth rend="caps"> ACCIDENT.</orth><gramGrp><pos>ſ</pos>.<gen>m</gen></gramGrp></form>
                   
-                  <sense><usg ana="Philosophie">Terme de Philoſophie</usg>
+                  <sense><usg>Terme de Philoſophie</usg>
                      <def>Propriété accidentelle : ce qui ſurvient à la sub<c rend="stlig">st</c>ance &amp; qui ne lui e<c rend="stlig">st</c> pas eſſentiel; qui peut y être, ou n'y être pas ſans qu'elle périſſe. Un <hi rend ="italic">accident</hi>, ou un mode, c'e<c rend="stlig">st</c> ce que nous concevons neceſſairement dependant de quelques sub<c rend="stlig">st</c>ance. 
                         <bibl> Ro.</bibl></def> 
                      <cit type="example"><quote>La blancheur e<c rend="stlig">st</c> un accident dans une muraille ; parce que cette muraille peut ſubſiſter ſans la blancheur : au lieu que la blancheur ne peut ſubſiſter ſans qu'elle ſoit ſoutenue par quelque ſubſtance </quote></cit>
                      <cit type = "citation"><quote>Les Carteſins diſent que l'extension conſtitue l'eſſence de la matiere, &amp; que les <hi rend ="italic">accidents</hi> ne font que des modifications, qui n'en ſont point diſtinctes réellement. C'eſt le dogme de la Transub<c rend="stlig">st</c>ation qui a engagé les Schola<c rend="stlig">st</c>iques à ſoutenir que les <hi rend ="italic">accidents</hi> peuvent ſubstituer ſéparément de leur ſujets 
                         <bibl> JU.</bibl></quote></cit>
                      <cit type = "citation"><quote>Si le rapport des ſens e<c rend="stlig">st</c> fidelle sur les <hi rend ="italic">accidents</hi> du pain dans l'Euchariſtie, pourquoy ne le ſera-t-il pas auſſi à l'égard de la ſub<c rend="stlig">st</c>ance ? 
-                        <bibl> CI.</bibl></quote></cit></sense></entry></superEntry>
+                        <bibl> CI.</bibl></quote></cit></sense></entry>
                
-               <entry type="term" ana="Medecine"><form ><orth rend="smallcaps"> ACCIDENT,</orth></form> 
+               <entry type="term" ana="#medecine"><form ><orth rend="smallcaps"> ACCIDENT,</orth></form> 
                   
-                  <sense><usg ana="Medecine"> en termes de Medecine</usg> 
+                  <sense><usg> en termes de Medecine</usg> 
                      <def> e<c rend="stlig">st</c> la même choſe que 
                         <rs corresp="symptome" type="syn"> Symptome</rs> &amp; 
                         ſe dit de tout ce qui arrive de nouveau à un malade, ſoit en bien, ou en mal.</def>
                      <cit type="citation"><quote>Le remede travailla de telle ſorte que les <hi rend ="italic">accidents</hi> qui s'enſuivirent fortifierent l'accuſation. <bibl>VAU</bibl></quote></cit>
                      <cit type ="example"> <quote> Cette playe ſe pourra guerir, s'il ne lui arrive point d'<hi rend ="italic">accident</hi>, c'e<c rend="stlig">st</c> à dire, de fievre, d'inflammation ou autre ſymptome.</quote> </cit>
-                  </sense></entry> 
+                  </sense></entry> </superEntry>
                
-               <entry type="term" ana="Relations"><form><orth rend="caps"> ACCISE</orth><gramGrp><pos> ſ.f</pos></gramGrp></form> 
-                  <sense><usg ana="Relations">Terme de relations.</usg>
+               <entry type="term" ana="#relations"><form><orth rend="caps"> ACCISE</orth><gramGrp><pos> ſ.f</pos></gramGrp></form> 
+                  <sense><usg>Terme de relations.</usg>
                      <def> C'e<c rend="stlig">st</c> une certaine taxe, ou impôt qu'on leve dans les Provinces Unies ſur le vin, la biere, &amp; ſur la plûpart des choſes qui ſe sonſument. On condamne à de groſſes amendes ceux qui fraudent les <hi rend ="italic">acciſes</hi>.</def></sense></entry>
                
-               <entry type="term" ana="Marine"><form ><orth rend="caps">ACCLAMPER</orth> <gramGrp><pos>v.a<c rend="ctlig">ct</c></pos></gramGrp></form>
-                  <sense><usg ana="Marine">Terme de Marine.</usg>
+               <entry type="term" ana="#marine"><form ><orth rend="caps">ACCLAMPER</orth> <gramGrp><pos>v.a<c rend="ctlig">ct</c></pos></gramGrp></form>
+                  <sense><usg>Terme de Marine.</usg>
                      <def>C'e<c rend="stlig">st</c> fortifier un mât par des calmps ou des gemelles qui font des pieces de bois qu'on y lie, &amp; qu'on y attache pour faire plus de reſiſtance au vent.</def></sense></entry>
                
                <superEntry><entry><form><orth rend="caps">ACCOLER,</orth>ou<oVar rend="caps">ACOLER</oVar><gramGrp><pos>v.a<c rend="ctlig">ct</c></pos></gramGrp></form> 
                   <sense><def>Embraſſer quelqu'un en lui mettant les bras ſur le cou pour le baiſer, le careſſer.</def> 
                      <dictScrap><etym><seg>Ce mot est composé de <hi rend ="italic">col</hi></seg>, &amp; vient de <foreign  rend="italic" xml:lang="lat">ad</foreign> &amp; de <foreign  rend="italic" xml:lang="lat">collum.</foreign></etym></dictScrap> 
-                     <usg> Il ſe dit le plus souvent en riant.</usg></sense></entry></superEntry>
+                     <usg> Il ſe dit le plus souvent en riant.</usg></sense></entry>
                
                <entry><form><orth rend="smallcaps">ACCOLER</orth></form> 
                   <sense><seg> la cuiſſe, <hi rend ="italic">acoler</hi> la botte,</seg> 
                      <def>ſignifie, Saluer quelcun avec grande ſoumiſſion, avec reſpect,</def> 
                      <cit type="example"><quote>comme quand on ſaluë un homme qui deſcend de cheval : ce qui e<c rend="stlig">st</c> une marque d'infériorité.</quote></cit></sense></entry>
                
-               <entry type="term" ana="Pratique"><form><orth rend="smallcaps">ACCOLER,</orth></form> 
-                  <sense><usg ana="Pratique"> en termes de Pratique,</usg>
+               <entry type="term" ana="#pratique"><form><orth rend="smallcaps">ACCOLER,</orth></form> 
+                  <sense><usg> en termes de Pratique,</usg>
                      <def>ſignifie Faire un trait de plume en marge d'un compte, d'un memoire d'une declaration de dépens, qui marque qu'il faut comprendre pluſieurs articles ſous un même jugement, &amp; les comprendre dans une même ſupputation pour n'en faire qu'un ſeul.</def></sense></entry>
                
-               <entry type="term" ana="Jardinage"><form><orth rend="smallcaps">ACCOLER,</orth></form> 
-                  <sense n="1" ana="Jardinage"><usg>en termes de Jardinage,</usg>
+               <entry type="term" ana="#jardinage"><form><orth rend="smallcaps">ACCOLER,</orth></form> 
+                  <sense><usg>en termes de Jardinage,</usg>
                      <def>ſe dit des branches d'arbres, des ſeps de vigne qu'on attache à des eſpaliers, à des échalas.</def></sense></entry>
                
                <entry><form ><orth rend="smallcaps">ACCOLER</orth></form> 
                   <sense n="2"> ſignifie auſſi, Joindre deux lapereaux ensemble pour en <seg>servir une <hi rend ="italic">acolade</hi>.</seg></sense></entry>
                
-               <superEntry>
-                  <entry type="term" ana="Blason"><form><orth rend="smallcaps">ACCOLÉ, ÉE</orth><gramGrp><pos>part. &amp; adj.</pos></gramGrp></form> 
-                     <usg ana="Blason">En termes de Blaſon se prend en quatre sens differents :</usg> 
+               
+                  <entry type="term" ana="#blason"><form><orth rend="smallcaps">ACCOLÉ, ÉE</orth><gramGrp><pos>part. &amp; adj.</pos></gramGrp></form> 
+                     <usg>En termes de Blaſon se prend en quatre sens differents :</usg> 
                      <sense>on le dit des animaux qui ont des coliers, ou des couronnes paſſées au cou.</sense> <cit><quote> Ainſi on dit, Un lyon de ſable <unclear> arngé </unclear>, lampaſſé &amp; <hi rend ="italic">accolé</hi>d'or.</quote></cit>
-                     <sense>On s'en ſert auſſi en blaſonnant les armes de Navarre, qui ſont, De gueules aux rais d'eſcarboucle <hi rend ="italic">accolez</hi> &amp; pomettez d'or.</sense> </entry></superEntry>
+                     <sense>On s'en ſert auſſi en blaſonnant les armes de Navarre, qui ſont, De gueules aux rais d'eſcarboucle <hi rend ="italic">accolez</hi> &amp; pomettez d'or.</sense> </entry>
                
                <entry><form><orth rend="smallcaps">ACCOLÉ,</orth></form> 
                   <sense><def>ſe dit auſſi des choſes entortillées à d'autres : </def> 
@@ -1371,26 +1139,25 @@
                         Les femmes <hi rend ="italic">accolent</hi> auſſi leurs écus à ceux de leurs maris</quote></cit></sense>
                   <sense n="2"><usg><seg> On dit auſſi, que des fuſées, des loſenges, &amp; des macles ſont <hi rend ="italic">accolées</hi></seg>, quand elles ſe touchent de leurs flancs, ou de leurs pointes ſans remplir tout l'Ecu.</usg> 
                      On ſe ſert auſſi de ce terme pour les <seg> clefs, bâtons, maſſes, épées, bannieres</seg>, &amp; autres choſes ſemblables qu'on paſſe en ſautoir derriere l'Ecu.</sense></entry>
-               
-               <superEntry><entry type="term" ana="Palais"><form><orth rend ="caps">ACCOMODATION</orth><gramGrp><pos>ſ.f</pos></gramGrp></form>
-                  <sense n="1"><usg ana="Palais"> Terme de Palais.</usg>
+              <entry type="term" ana="#palais"><form><orth rend ="caps">ACCOMODATION</orth><gramGrp><pos>ſ.f</pos></gramGrp></form>
+                  <sense n="1"><usg> Terme de Palais.</usg>
                      <def>Accord qui ſe fait à l'amiable.</def>
                      <cit type="example"><quote>Ce procès e<c rend="stlig">st</c> ſi embrouillé, qu'il n'y a pas de moyen d'en ſortir que par voye d'<hi rend ="italic">accomodation</hi>. On ne s'en ſert plus. </quote></cit></sense> 
                   <sense n="2"><def>On le dit auſſi figurément de la concilliation des loix, des paſſages des Auteurs qui ſemblent être contraires.</def> 
-                     <cit type="example"><quote> Le plus grand ſoin des Commentateurs eſt de trouver l'<hi rend ="italic">accomodation</hi> des textes de leurs Auteurs qui ſe contrarient. Conciliation e<c rend="stlig">st</c> meilleur. </quote></cit></sense></entry></superEntry>
+                     <cit type="example"><quote> Le plus grand ſoin des Commentateurs eſt de trouver l'<hi rend ="italic">accomodation</hi> des textes de leurs Auteurs qui ſe contrarient. Conciliation e<c rend="stlig">st</c> meilleur. </quote></cit></sense></entry>
                
-               <entry type="term" ana="Philosophie"><form><orth rend ="smallcaps">ACCOMODATION</orth><gramGrp><pos>ſ</pos>.<gen>f</gen></gramGrp></form> 
-                  <sense><usg ana="Philosophie"> Terme de Philosophie.</usg>
+               <entry type="term" ana="#philosophie"><form><orth rend ="smallcaps">ACCOMODATION</orth><gramGrp><pos>ſ</pos>.<gen>f</gen></gramGrp></form> 
+                  <sense><usg> Terme de Philosophie.</usg>
                      <def><seg>Connoitre par accomodation</seg>,c'e<c rend="stlig">st</c> connoître une choſe par l'idée d'une autre.</def></sense></entry>
-            </div>
-            <div n="ACC">
+               </superEntry>
+          
 
-               <entry type="term" ana="marine">
+               <entry type="term" ana="#marine">
                   <form>
                      <orth rend="caps">ACCOTER</orth>
                   </form>
 
-                  <sense n="1">
+                  <sense>
                      <usg>Terme de Marine;</usg>
                      <def>c’eſt Approcher une choſe d’autre.</def>
                      <dictScrap>On le dit des huniers &amp; des perro<caesura/> quets, quand on ſet
@@ -1403,7 +1170,7 @@
                      </dictScrap>
                   </sense>
                </entry>
-               <entry type="term" ana="blason">
+               <entry type="term" ana="#blason">
                   <form>
                      <orth rend="caps">ACCOTE</orth>
                   </form>
@@ -1433,7 +1200,7 @@
                               <bibl><hi rend="smallcaps">Li P.Menest</hi></bibl>. </dictScrap>
                   </sense>
                </entry>
-               <entry type="term" ana="marine">
+               <entry type="term" ana="#marine">
                   <form>
                      <orth rend="caps">ACCOTAR</orth>
                      <gramGrp>
@@ -1449,7 +1216,7 @@
                         pieces qui le compoſent. </def>
                   </sense>
                </entry>
-               <entry type="term" ana="marine">
+               <entry type="term" ana="#marine">
                   <form>
                      <orth rend="caps">ACCOURSIE</orth>
                      <gramGrp>
@@ -1487,7 +1254,7 @@
                               <hi rend="italic">Accrocher</hi> la mon<caesura/> tre à ſa ceinture.
                            </quote>
                         </cit>
-                        <dictScrap>Ce mot vient du Grec <foreign xml:lang="grc">[RECOPIER
+                        <dictScrap>Ce mot vient du Grec <foreign xml:lang="grec">[RECOPIER
                               MOT]</foreign>, qui ſignifie le bout de la main, parce qu’elle ſert à
                               <hi rend="italic">ac<caesura/> crocher</hi>. </dictScrap>
                      </sense>
@@ -1514,7 +1281,7 @@
                         </cit>
                      </sense>
                   </entry>
-                  <entry type="term" ana="marine">
+                  <entry type="term" ana="#marine">
                      <form>
                         <orth rend="smallcaps">ACCROCHER</orth>
                      </form>
@@ -1529,7 +1296,7 @@
                         </cit>
                      </sense>
                   </entry>
-                  <entry type="term" ana="morale">
+                  <entry type="term" ana="#morale">
                      <form>
                         <orth rend="smallcaps">ACCROCHER</orth>
                      </form>
@@ -1656,11 +1423,11 @@
                         </quote>
                      </cit>
                   </entry>
-                  <entry type="term">
+                  <entry type="term" ana="#droit">
                      <form rend="smallcaps">
                         <orth>ACCROISSEMENT</orth>
                      </form>
-                     <sense n="4">
+                     <sense>
                         <usg>terme de Droit; </usg>
                         <def>c’eſt la por<caesura/> tion vacante laquelle eſt jointe, &amp; reünie à
                            la por<caesura/> tion qui eſt occupée, &amp; poſſedée par un autre. </def>
@@ -1718,7 +1485,7 @@
                         </cit>
                      </sense>
                   </entry>
-                  <entry type="term" ana="morale">
+                  <entry type="term" ana="#morale">
                      <form>
                         <orth rend="smallcaps">ACCROISTRE</orth>
                      </form>
@@ -1759,7 +1526,7 @@
                         </quote>
                      </cit>
                   </entry>
-                  <entry type="term" ana="droit">
+                  <entry type="term" ana="#droit">
                      <form>
                         <orth rend="smallcaps">ACCROISTRE</orth>
                      </form>
@@ -1807,7 +1574,7 @@
                         </cit>
                      </sense>
                   </entry>
-                  <entry type="term" ana="blason">
+                  <entry type="term" ana="#blason">
                      <form>
                         <orth rend="smallcaps">ACCROUPI, IE</orth>
                      </form>
@@ -1822,11 +1589,10 @@
                   </entry>
                </superEntry>
 
-            </div>
-            <div n="ACC">
-               <entry type="term" ana="Marine">
+          
+               <entry type="term" ana="#marine">
                   <form><orth rend="caps"
-                     >ACCUL.</orth><gramGrp><gen>f.m.</gen></gramGrp></form>
+                     >ACCULEMENT</orth><gramGrp><gen>f.m.</gen></gramGrp></form>
                   <sense><usg>Terme de Marine</usg>,<def> qui ſe dit de la concavité &amp; rondeur
                      de quelques membres qui ſe placent à l'avant, &amp; à l'arrière ſur la
                      quille du vaiſſeau. </def><dictScrap>Varangues <hi rend="italic"
@@ -1837,8 +1603,10 @@
                               s'éleve ſur la quille plus que le premier gabary.</quote>
                         </cit></dictScrap></sense>
                </entry>
-               
-               <entry type="term" ana="Blason">
+   <superEntry>   
+               <entry><form>ACCULER</form></entry>
+      
+               <entry type="term" ana="#blason">
                   <form><orth rend="caps">ACCULÉ, ÉE.</orth><gramGrp><pos>part. &amp;
                      adj.</pos></gramGrp></form>
                   <sense><usg>En termes de Blaſon</usg><def> on appelle un cheval acculé, quand il
@@ -1851,8 +1619,8 @@
                         xml:lang="lat">culum.</foreign></hi> On dit un <hi rend="italic"
                            >cul de ſac.</hi></etym></sense>
                </entry>
-               
-               <entry type="term" ana="Grammaire">
+             </superEntry>  
+               <entry type="term" ana="#grammaire">
                   <form><orth rend="caps"
                      >ACCUSATIF.</orth><gramGrp><gen>f.m.</gen></gramGrp></form>
                   <sense><usg>Terme de Grammaire.</usg><num>C'eſt le quatriéme cas des noms qui ſe
@@ -1866,7 +1634,7 @@
                </entry>
             </div>
             <div n="ACE">
-               <entry type="term" ana="Taillandier">
+               <entry type="term" ana="#taillandier">
                   <form><orth rend="caps"
                      >ACERER.</orth><gramGrp><pos>v.act.</pos></gramGrp></form>
                   <sense><usg>Terme de Taillandier.</usg><def>Garnir d'a<caesura/>cier un outil de
@@ -1881,7 +1649,7 @@
                         pour <hi rend="italic">acierer.</hi></dictScrap></sense>
                </entry>
                
-               <entry type="term" ana="Anatomie">
+               <entry type="term" ana="#anatomie">
                   <form><orth rend="caps"
                      >ACETABULE.</orth>><gramGrp><gen>f.m.</gen></gramGrp></form>
                   <sense><usg>Terme d'Anatomie.</usg>
@@ -1894,7 +1662,7 @@
                </entry>
             </div>
             <div n="ACH">
-               <entry type="term" ana="Blason">
+               <entry type="term" ana="#blason">
                   <form><orth rend="caps">ACHEMENT.</orth>
                      <gramGrp><gen>f.m.</gen></gramGrp></form>
                   <sense><usg>Terme de Blaſon;</usg><def> ſe dit des lambrequins, ou chaperons,
@@ -1909,7 +1677,7 @@
                </entry>
                
                <superEntry>
-                  <entry type="term" ana="Ouvrage">
+                  <entry>
                      <form><orth rend="caps"
                         >ACHEVEMENT.</orth><gramGrp><gen>f.m.</gen></gramGrp></form>
                      <sense><usg>Fin d'un ouvrage, d'un terme;</usg>
@@ -1923,7 +1691,7 @@
                                  >l'achevement</hi> que l'on conſidere.</bibl>
                            BOI.</dictScrap></sense>
                   </entry>
-                  <entry type="term" ana="Poëtique">
+                  <entry type="term" ana="#poetique">
                      <form rend="smallcaps"><orth>ACHEVEMENT.</orth></form>
                      <sense><usg>Terme de Poëtique.</usg>
                         <def>C'eſt dans le poëme épique le dernier paſſage de l'agitation, &amp;
@@ -1948,7 +1716,7 @@
                </superEntry>
                
                <superEntry>
-                  <entry type="term" ana="Anatomie">
+                  <entry type="term" ana="#anatomie">
                      <form><orth rend="caps"
                         >ACHILLE.</orth><gramGrp><gen>f.m.</gen></gramGrp></form>
                      <sense><usg>Terme d'Anatomie.</usg>
@@ -1973,7 +1741,7 @@
                   </entry>
                </superEntry>
                
-               <entry type="term" ana="Astrologie">
+               <entry type="term" ana="#astrologie">
                   <form><orth rend="caps">ACHRONIQUE.</orth>
                      <gramGrp><pos>adj.</pos></gramGrp>
                   </form>
@@ -1993,7 +1761,7 @@
             </div>
             <div n="ACI">
                <superEntry>
-                  <entry type="term" ana="Chymie">
+                  <entry type="term" ana="#chymie">
                      <form>
                         <orth rend="caps">ACIDE</orth>
                         <gramGrp><pos>adj.</pos>
@@ -2014,7 +1782,7 @@
                            violence.</dictScrap></sense>
                   </entry>
                   
-                  <entry type="term" ana="Chymie">
+                  <entry type="term" ana="#chymie">
                      <form><orth rend="smallcaps">ACIDE.</orth>
                         <gramGrp><gen>f.m.</gen></gramGrp></form>
                      <sense><usg>Terme de Chymie;</usg>
@@ -2058,17 +1826,17 @@
                </superEntry>
             </div>
             <div n="ACO">         
-               <entry type="term" ana="Eclesiastique"><form><orth rend="caps">ACOLYTHE. </orth></form><gramGrp><pos>ſ.m. </pos></gramGrp><usg ana="Eclesiastique">Terme Ecleſiaſtique.</usg><sense n="1"><def>Les Grecs donnoient ce nom à ceux qui étoient inebranla<caesura/>bles dans leurs reſolutions.</def><cit type="example"><quote>C'eſt par cette raiſon que les Stoïciens furent appeliez <hi>Acolythes</hi>; parce que rien ne pouvoit leur arracher leurs ſentimen<supplied>t</supplied>s. Ils trou<caesura/>voient même qu'il y avoit de la lâcheté à en changer. </quote></cit>
+               <entry type="term" ana="#eclesiastique"><form><orth rend="caps">ACOLYTHE. </orth></form><gramGrp><pos>ſ.m. </pos></gramGrp><usg ana="Eclesiastique">Terme Ecleſiaſtique.</usg><sense n="1"><def>Les Grecs donnoient ce nom à ceux qui étoient inebranla<caesura/>bles dans leurs reſolutions.</def><cit type="example"><quote>C'eſt par cette raiſon que les Stoïciens furent appeliez <hi>Acolythes</hi>; parce que rien ne pouvoit leur arracher leurs ſentimen<supplied>t</supplied>s. Ils trou<caesura/>voient même qu'il y avoit de la lâcheté à en changer. </quote></cit>
                   <def>Depuis l'Egliſe Chretienne a conſacré ce nom , en l'appliquant à ceux qui ſe devouent au ſervice de Dieu. </def><usg>Anciennement les jeunes gens qui aſpiroient au miniſ<caesura/>tere Eccleſ. accompagnoient &amp; suivoient les Evêques partout, ſoit pour les ſervir, ſoit pour être témoins de leur conduite. Cette aſſuidité à ſuivre les Evêques les fit appeler <hi>Acolythes</hi>. <name role="saint" type="person">St.Cyprien</name> dit de lui-même, qu'il avoit des <hi>Acolythes</hi>.</usg></sense>
                   <sense n="2">Aujourd'huy, les fonctions des <hi>Acolythes</hi> ſont bien différentes de la premiere inſtitution.<def> Un <hi>Acolythe</hi> eſt celui qui a ſeulement reçu le premier &amp; le plus conſiderable des Quatre Ordres Mineurs dans l'Eglise; dont l'emploi eſt d'allumer les cierges , de porter les chandeliers , la navette où eſt l'encens, de preparer le vin &amp; l'eau pour le ſacrifice, &amp; de rendre d'autres ſervices à l'autel. C'eſt l'Ordre que les jeunes clercs exercent le plus.</def></sense> 
                   <etym>Ce mot vient du Grec <term xml:lang="gr"><unclear reason="intranscriptible">ακολουθήστε</unclear></term>, qui ſignifie ſuivre; parceque les <hi>Acolythes</hi> ſont comme des valets Eccleſiaſtiques qui doivent ſuivre l'Evêque, qui allu<caesura/>ment les cierges, qui les portent, qui donnent les burettes, &amp;c. </etym></entry>
                
-               <entry type="term" ana="Botanique"><form> <orth rend="caps">ACORUS. </orth></form><gramGrp><pos>ſ.m. </pos></gramGrp><usg ana="Botanique">Terme de Botanique.</usg>
+               <entry type="term" ana="#botanique"><form> <orth rend="caps">ACORUS. </orth></form><gramGrp><pos>ſ.m. </pos></gramGrp><usg>Terme de Botanique.</usg>
                   <dictScrap>C'eſt une plante que les Apothicaires appellent <term xml:lang="la"><hi>calamus odoratus</hi></term>; parcequ'ils l'emploient à la place du <term xml:lang="la"><hi>calamus</hi></term> qui eſt rare. Cet <hi>acorus</hi> est appellé le vrai <hi>acorus</hi> pour le diſtinguer d'une autre plante, qu'on appelle le faux <hi>acorus</hi>, qui eſt une eſpèce d'Iris que les Botaniſtes appellent <term xml:lang="la"><hi>iris pa<caesura/>lustris lutea</hi> parceque ſes fleurs ſont jaunes.</term></dictScrap>
                   <def>L'<hi>acorus</hi> a ſes feuilles &amp; ſes racines ſemblables à la flambe ; mais plus étroites et plus longues: elles sont odoran<caesura/>tes, &amp; piquantes au goût. <name role="botaniste" type="personne">Fuchſius</name> &amp; <name role="botaniste" type="personne">Braſſavolus</name> le confondent avec la <hi>galenga</hi>; mais <name role="botaniste" type="personne">Matthiole</name> combat cette opinion. </def></entry>
                
                <superEntry>
-                  <entry type="term" ana="Medecine"><form><orth rend="caps">ACOUSTIQUE. </orth></form><gramGrp><pos>adj. </pos></gramGrp><usg ana="Medecine">Terme de Medecine</usg><def> qui ſe dit des medicamen<supplied>t</supplied>s propres pour remedier aux incom<caesura/>moditez de l'ouïe.</def>
+                  <entry type="term" ana="#medecine"><form><orth rend="caps">ACOUSTIQUE. </orth></form><gramGrp><pos>adj. </pos></gramGrp><usg>Terme de Medecine</usg><def> qui ſe dit des medicamen<supplied>t</supplied>s propres pour remedier aux incom<caesura/>moditez de l'ouïe.</def>
                      <etym><term xml:lang="gr"><hi>ακοή</hi></term> eſt un mot Grec, qui signifie, <hi>ouïe</hi>. </etym></entry>
                   <entry><form><orth rend="smallcaps">Acoustique,</orth></form><def> ſe dit auſſi du nerf qui va s'inſerer dans l'oreille, qu'on appelle, nerf <hi>acouſtique</hi>; &amp; du con<caesura/>duit externe de l'oreille qui ſe nomme , le conduit <hi>acouſtique</hi>. </def></entry>
                </superEntry>   
@@ -2078,47 +1846,30 @@
                      <cit type="example"><quote> Dans la C. de Paris tout hom<caesura/>me peut diſposer de tous les <hi>acquêts</hi>; mais il ne peut diſpoſer par teſtament que du quint de ſes propres. </quote></cit></entry>
                   <entry><form><orth rend="smallcaps">ACQUEST,</orth></form><def> ſignifie auſſi, Avantage, profit, menage qu'on trouve a faire quelque chose. </def><cit type="example"><quote>Il n'y a pas d'<hi>ac<caesura/>quêt</hi> à acheter de mauvaiſe marchandiſe. Il n'y a point d'<hi>acquêts</hi> à plaider; on se ruine de  part &amp; d'autre. </quote></cit><usg>On ne s'en ſert que dans le langage commun. </usg></entry>
                   <entry><form><orth rend="smallcaps">ACQUEST,</orth></form><def> ſignifie auſſi quelquefois, Achat. </def><cit type="example"><quote>C'eſt un bon <hi>acquêt</hi> que vous avez fait. L'<hi>acquêt</hi> de cette mai<caesura/>son n'eſt pas ſeur, ſi on ne la paſſer par decret. </quote></cit></entry>
-                  <entry type="term" ana="Finance"><form><term>Nouveaux <hi>acquest. </hi></term></form><usg ana="Finance">Terme de finance qui ſe joint d'or<caesura/>dinaire avec francs fiefs.</usg><def> C'eſt un droit dû au Roi, &amp;<caesura/> au Seigneur par les roturiers qui ont acquis nouvelle<caesura/>ment des fiefs.</def><dictScrap> Ils ſe rachetent par le payement de l'obligation qu'ils auroient d'en vuider leurs mains, comme étant incapables de les poſſeder. On en fait la recherche tous les 20 ans. Il eſt dû de trois années l'une, mais il ne ſe paye qu'une fois par la même perſonne pour le même fief.</dictScrap>
+                  <entry type="term" ana="#finance"><form><term>Nouveaux <hi>acquest. </hi></term></form><usg>Terme de finance qui ſe joint d'or<caesura/>dinaire avec francs fiefs.</usg><def> C'eſt un droit dû au Roi, &amp;<caesura/> au Seigneur par les roturiers qui ont acquis nouvelle<caesura/>ment des fiefs.</def><dictScrap> Ils ſe rachetent par le payement de l'obligation qu'ils auroient d'en vuider leurs mains, comme étant incapables de les poſſeder. On en fait la recherche tous les 20 ans. Il eſt dû de trois années l'une, mais il ne ſe paye qu'une fois par la même perſonne pour le même fief.</dictScrap>
                      <usg>On dit proverbialement,<seg type="proverb">Il n'y a point de plus bel <hi>acquêt</hi> que de don; </seg></usg><def>pour ſignifier qu'il n'y a point ſi agreablement acquis, que celui qui eſt donné.</def></entry>
                </superEntry>
                
                <superEntry>
-                  <entry type="term" ana="Jurisprudence"><form><orth rend="caps">ACQUIESCEMENT. </orth></form><gramGrp><pos>ſ.m. </pos></gramGrp><usg ana="Jurisprudence">Terme de Juriſ<caesura/>prudence. </usg><def>Conſentement que l'on donne à un acte, ou à une choſe jugée.</def> <cit type="example"><quote>On ne peut revenir contre une ſentence aprés un <hi>acquieſcement</hi> fait en cauſe d'appel. Une deſertion d'appel eſt un tacite d'<hi>acquieſcement</hi>. L'exe<caesura/>cution d'un jugement, d'un contrat, eſt un vrai <hi>ac<caesura/>quieſcement</hi>.</quote></cit></entry>
+                  <entry type="term" ana="#jurisprudence"><form><orth rend="caps">ACQUIESCEMENT. </orth></form><gramGrp><pos>ſ.m. </pos></gramGrp><usg>Terme de Juriſ<caesura/>prudence. </usg><def>Conſentement que l'on donne à un acte, ou à une choſe jugée.</def> <cit type="example"><quote>On ne peut revenir contre une ſentence aprés un <hi>acquieſcement</hi> fait en cauſe d'appel. Une deſertion d'appel eſt un tacite d'<hi>acquieſcement</hi>. L'exe<caesura/>cution d'un jugement, d'un contrat, eſt un vrai <hi>ac<caesura/>quieſcement</hi>.</quote></cit></entry>
                   <entry><form><orth rend="smallcap">ACQUIESCEMENT</orth></form><def> ſe dit auſſi du conſentement à une opinion; de la deference, &amp; de la complaiſance qu'on a pour quelqu'un : de l'acte par lequel on ſe ſoumet à une perſonne ou à sa volonté. </def><cit><quote>Cette femme a re<caesura/>gagné l'eſprit de ſon mari par un <hi>acquieſcement</hi> abſolu à ſes volontez. Oe.M.<bibl rend="smallcap">Oeuvres mêlées</bibl>  Les demonſtrations mathemati<caesura/>ques ſont ſi évidentes, que les plus opiniâtres ne peu<caesura/>vent reſuſer leur <hi>acquieſcement</hi>. <bibl rend="smallcap">MAJ.B.</bibl> La beatitude de l'homme conſiſte dans un <hi>acquieſcement</hi> doux &amp; paisible à la condition où l'on ſe trouve. Oe.M. <bibl rend="smallcap">Oeuvres mêlées</bibl></quote></cit></entry>
                </superEntry>
                
-               <entry type="term" ana="Anatomie"><form><orth rend="caps">ACROMION. </orth></form><gramGrp>ſ.m. </gramGrp><usg ana="Anatomie">Terme d'Anatomie.</usg><def> C'eſt l'extremité de l'épine de l'omoplate.</def></entry>
+               <entry type="term" ana="#anatomie"><form><orth rend="caps">ACROMION. </orth></form><gramGrp>ſ.m. </gramGrp><usg>Terme d'Anatomie.</usg><def> C'eſt l'extremité de l'épine de l'omoplate.</def></entry>
                
                <superEntry>
-                  <entry type="term" ana="Architecture"><form><orth rend="caps">ACROTERES.</orth></form><gramGrp> ſ.m. </gramGrp><usg ana="Architecture">Terme d'Architecture,</usg><def> qui ſe dit des petits piedeſtaux qui ſont au milieu, &amp; aux deux extremitez d'un frontiſpice, &amp; ſur leſquels on poſe des figures.</def><usg>Les <hi>acroteres</hi> des côtez doivent avoir de hauteur la moitié de celle du <supplied>(de)</supplied> celle du fronton, &amp; celui du milieu une huitiéme partie de plus, ſelon <name role="architecte" type="person">Vitruve</name>.</usg></entry>
+                  <entry type="term" ana="#architecture"><form><orth rend="caps">ACROTERES.</orth></form><gramGrp> ſ.m. </gramGrp><usg>Terme d'Architecture,</usg><def> qui ſe dit des petits piedeſtaux qui ſont au milieu, &amp; aux deux extremitez d'un frontiſpice, &amp; ſur leſquels on poſe des figures.</def><usg>Les <hi>acroteres</hi> des côtez doivent avoir de hauteur la moitié de celle du <supplied>(de)</supplied> celle du fronton, &amp; celui du milieu une huitiéme partie de plus, ſelon <name role="architecte" type="person">Vitruve</name>.</usg></entry>
                   <entry><form><orth rend="smallcaps">ACROTERES,</orth></form><def> ſignifie quelquefois, les extremitez ou le faîtes des bâtimen<supplied>t</supplied>s, <term xml:lang="la"><hi>ſaſtigia.</hi></term> Ce mot vient auſſi du Grec <term xml:lang="gr"><unclear reason="intranscriptible"><hi>κάθε άκροqui</hi></unclear></term> veut dire generalement toute ex<caesura/>tremité.</def></entry>
                   <entry><form><orth rend="smallcaps">ACROTERES,</orth></form><def> ſont certains promontoires, ou lieux elevez qu'on voit de loin ſur la mer.</def></entry>
                </superEntry>
                
-               <entry type="term" ana="Grec"><form><orth rend="caps">ACROTERIA</orth>.</form><gramGrp> ſ. maſc.</gramGrp><usg ana="Grec">Terme purement Grec ; </usg><def><term xml:lang="gr"><hi>ακρωτήρια</hi> : </term>on ne s'en ſert qu'en parlant de medailles. C'eſt un ornement de vaiſſeau recourbé, &amp; il marque une victoire navale ; ou une ville maritime.</def></entry>
+               <entry type="term"><form><orth rend="caps">ACROTERIA</orth>.</form><gramGrp> ſ. maſc.</gramGrp><usg>Terme purement Grec ; </usg><def><term xml:lang="gr"><hi>ακρωτήρια</hi> : </term>on ne s'en ſert qu'en parlant de medailles. C'eſt un ornement de vaiſſeau recourbé, &amp; il marque une victoire navale ; ou une ville maritime.</def></entry>
             </div>
             
             <div n="ACT">
                <superEntry>
-                  <entry type="term" ana="Physique"><form><orth rend="caps">ACTE</orth>.</form><gramGrp> ſ.m. </gramGrp><usg ana="Physique">Terme de Phyſique.</usg><def>Action, effet de la cauſe qui agit : exercice effectif d'une puiſſance, ou d'une faculté.</def><cit type="example"><quote> La forme et la matiere reduite en <hi>acte</hi>.L'<hi>acte</hi> eſt l'execution de la choſe, &amp;eſt oppoſé à la <hi>puiſſance</hi>, qui eſt la capacité d'agir ou de ſouffrir.</quote></cit><cit type="citation"><quote> Les cauſes ſecondes ſont determinées par le mouvement qui leur a été imprimé, ſans avoir beſoin d'un <hi>acte</hi> ſpecial de Dieu. MAI.<bibl rend="smallcap">Mr. Le Maître.</bibl></quote></cit><cit type="citation"><quote> A juger par les <hi>actes</hi> exterieurs il eſt impoſſible de penſer que les animaux agiſſent ſans connoiſſances.  <bibl rend="small cap">Le P. D.</bibl></quote></cit></entry>      
+                  <entry type="term" ana="#physique"><form><orth rend="caps">ACTE</orth>.</form><gramGrp> ſ.m. </gramGrp><usg>Terme de Phyſique.</usg><def>Action, effet de la cauſe qui agit : exercice effectif d'une puiſſance, ou d'une faculté.</def><cit type="example"><quote> La forme et la matiere reduite en <hi>acte</hi>.L'<hi>acte</hi> eſt l'execution de la choſe, &amp;eſt oppoſé à la <hi>puiſſance</hi>, qui eſt la capacité d'agir ou de ſouffrir.</quote></cit><cit type="citation"><quote> Les cauſes ſecondes ſont determinées par le mouvement qui leur a été imprimé, ſans avoir beſoin d'un <hi>acte</hi> ſpecial de Dieu. MAI.<bibl rend="smallcap">Mr. Le Maître.</bibl></quote></cit><cit type="citation"><quote> A juger par les <hi>actes</hi> exterieurs il eſt impoſſible de penſer que les animaux agiſſent ſans connoiſſances.  <bibl rend="small cap">Le P. D.</bibl></quote></cit></entry>      
                </superEntry>
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            </div>
-            <div n="ACT">
 
                <superEntry>
                   <entry>
@@ -2165,7 +1916,7 @@
                         </cit>
                      </sense>
                   </entry>
-                  <entry type="term" ana="morale">
+                  <entry type="term" ana="#morale">
                      <form>
                         <orth rend="smallcaps">ACTION</orth>
                      </form>
@@ -2330,7 +2081,7 @@
                         </cit>
                      </sense>
                   </entry>
-                  <entry type="term" ana="theatre">
+                  <entry type="term" ana="#theatre">
                      <form>
                         <orth rend="smallcaps">ACTION</orth>
                      </form>
@@ -2382,7 +2133,7 @@
                         </cit>
                      </sense>
                   </entry>
-                  <entry type="term" ana="peinture">
+                  <entry>
                      <form>
                         <orth rend="smallcaps">ACTION</orth>
                      </form>
@@ -2412,7 +2163,7 @@
                         </cit>
                      </sense>
                   </entry>
-                  <entry type="term" ana="droit">
+                  <entry type="term" ana="#jurisprudence">
                      <form>
                         <orth rend="smallcaps">ACTION</orth>
                      </form>
@@ -2435,7 +2186,7 @@
                               rend="italic">actions</hi>. </def>
                      </sense>
                   </entry>
-                  <entry type="term" ana="droit">
+                  <entry>
                      <form>
                         <orth rend="smallcaps">ACTION</orth>
                      </form>
@@ -2448,7 +2199,7 @@
                         </cit>
                      </sense>
                   </entry>
-                  <entry type="term" ana="droit">
+                  <entry>
                      <form>
                         <orth rend="smallcaps">ACTION</orth>
                      </form>
@@ -2525,7 +2276,7 @@
 
             </div>
             <div n="ACU">
-               <entry type="term" ana="imprimerie">
+               <entry type="term" ana="#imprimerie">
                   <form>
                      <orth rend="caps">ACUT</orth>
                      <gramGrp>
@@ -2583,13 +2334,13 @@
                </entry>
                
                <superEntry>
-                  <entry type="term"><form rend="caps"><orth>ADENT. </orth></form>
+                  <entry type="term" ana="#charpenterie #menuiserie"><form rend="caps"><orth>ADENT. </orth></form>
                      <gramGrp><pos>ſ.m. </pos></gramGrp> <sense><term>Terme de Charpenterie et Menuiſerie.</term></sense>
                      <def>Qui ſe dit de certaines entailles ou emboëtures qui ſe font en forme de dens, 
                         pour mieux lier et aſſembler des pièces de bois des renons dans les mortaiſes. Aſſemblage en <hi rend= "italic">adent</hi>  </def>
                      <dictScrap></dictScrap></entry>
                </superEntry><superEntry>
-                  <entry type="term"><form rend="caps"><orth>ADEXTRE. </orth></form>
+                  <entry type="term" ana="#blason"><form rend="caps"><orth>ADEXTRE. </orth></form>
                      <gramGrp><pos>E'E. adj. </pos></gramGrp> <sense><term>Terme de Blaſon.</term></sense>
                      <def>Qui ſe dit des pièces qui ſe mettent au côté dextre de l'Ecu : comme au contraire 
                         ce qui met au côté ſeneſtre ſe dit <hi rend= "italic">ſeneſtré</hi>. On le dit auſſi,
@@ -2601,7 +2352,7 @@
                      <dictScrap></dictScrap></entry>
                </superEntry></div>
             <div n="ADH"><superEntry>
-               <entry type="term"><form rend="caps"><orth>ADHERENCE. </orth></form>
+               <entry type="term" ana="#philosophie"><form rend="caps"><orth>ADHERENCE. </orth></form>
                   <gramGrp><pos>ſ.m. </pos></gramGrp> <sense><term>Terme de Philoſophie.</term></sense>
                   <def> Etat de deux corps qui tiennent enſemble, ſoit parce que leurs parties ſont contiguës, 
                      ou engagées les unes avec les autres; ſoir parce qu'ils ſont ſeulement comprimez par l'action 
@@ -2610,7 +2361,7 @@
                   <dictScrap></dictScrap></entry>
             </superEntry></div>
             <div n="ADI"><superEntry>
-               <entry type="term"><form rend="caps"><orth>ADIEU. </orth></form>
+               <entry type="term" ana="#compliment"><form rend="caps"><orth>ADIEU. </orth></form>
                   <gramGrp><pos>adv. </pos></gramGrp> <sense><term>Terme de compliment,</term></sense>
                   <def> dont on ſe ſert quand deux perſonnes amies ſe ſeparent, ou lors qu'on prend congé de quelcun, <g>&amp;</g>
                      qu'on le quitte. Il y eût bien des larmes repanduës quand ils ſe dirent <hi rend= "italic">adieu</hi>.
@@ -2652,10 +2403,10 @@
                   </def>
                   <dictScrap></dictScrap></entry>
             </superEntry>
-               <entry type="term" ana="Medecine">
+               <entry type="term" ana="#medecine">
                   <form><orth rend="caps">ADIPEUX</orth>, <oVar type="fem." rend="smallcaps">EUSE</oVar>.</form>
                   <sense>
-                     <usg type="Medecine">Terme de Medecine,</usg>
+                     <usg>Terme de Medecine,</usg>
                      <def>
                         qui ſignifie Gras. Il ſe dit particulierement d'un rameau qui ſort du tronc deſcendant de la veine cave, qui eſt un des cinq rameaux iliaques, qui va à la tunique exterieure des reins, parce qu'il eſt environné de graiſſe. 
                      </def>
@@ -2665,14 +2416,14 @@
                      </dictScrap>
                   </sense>               
                </entry>
-               <entry type="term" ana="Palais">
+               <entry type="term" ana="#palais">
                   <form><orth rend="caps">ADIRER</orth>
                      <gramGrp>
                         <pos>v.</pos>
                         <gen>n.</gen>
                      </gramGrp></form>
                   <sense>
-                     <usg type="Palais">Ancien terme de Palais. </usg>
+                     <usg>Ancien terme de Palais. </usg>
                      <def>
                         Egarer quelque titre, ou papier, ne le pouvoir retrouver. 
                      </def>
@@ -2684,14 +2435,14 @@
                      </dictScrap>
                   </sense>               
                </entry>
-               <entry type="term" ana="Jurisprudence">
+               <entry type="term" ana="#jurisprudence">
                   <form><orth rend="caps">ADITION</orth>
                      <gramGrp>
                         <pos>ſ.</pos>
                         <gen>f.</gen>
                      </gramGrp></form>
                   <sense>
-                     <usg type="Jurisprudence">Terme de Juriſprudence. </usg>
+                     <usg>Terme de Juriſprudence. </usg>
                      <def>
                         C'eſt l'acceptation d'une heredité, ou la declaration que fait l'heritier, qu'il veut jouïr du droit que la nature, &amp; la loi lui donnent.
                      </def>
@@ -2705,7 +2456,7 @@
             </div>
             
             <div n="ADJ"><superEntry>
-               <entry type="term"><form rend="caps"><orth>ADJECTIF. </orth></form>
+               <entry type="term" ana="#grammaire"><form rend="caps"><orth>ADJECTIF. </orth></form>
                   <gramGrp><pos>ſ.m. </pos></gramGrp> <sense><term>Terme de Grammaire.</term></sense>
                   <def> C'eſt un nom qui est toujours joint avec un ſubſtantif exprimé ou ſous-entendu pour
                      en marquer la manière d'être : c'eſt à dire les accidens ou les qualitez. Souvent il
@@ -2751,10 +2502,10 @@
                         </dictScrap>
                      </sense>                  
                   </entry>
-                  <entry type="term" ana="Rhetorique Grammaire">
+                  <entry type="term" ana="#grammaire #rhetorique">
                      <form><orth rend="smallcaps">ADJOINTS</orth></form>
                      <sense>
-                        <usg type="rhetorique">en termes de Rhetorique </usg><usg type="Grammaire"> et de Grammaire,</usg>
+                        <usg>en termes de Rhetorique </usg><usg> et de Grammaire,</usg>
                         <def>
                            ſe dit des mots, ou des choses, qu'on joint à d'autres pour en augmenter la force, ou pour amplifier le diſcours : comme les mots adjectifs ou les épithetes ſont <hi rend="italic">ajoints</hi> aux ſubſtantifs, pour marquer leur nature et leur qualitez.
                         </def>
@@ -2764,14 +2515,14 @@
                      </sense>               
                   </entry>
                </superEntry>
-               <entry type="term" ana="Geometrie">
+               <entry type="term" ana="#geometrie">
                   <form><orth rend="caps">ADJOUSTEE.</orth>
                      <gramGrp>
                         <pos>ſ.</pos>
                         <gen>f.</gen>
                      </gramGrp></form>
                   <sense>
-                     <usg type="Geometrie">En termes de Geometrie </usg>
+                     <usg>En termes de Geometrie </usg>
                      <def>
                         eſt une ligne prolongée, &amp; à laquelle on ajoûte quelque choſe.
                      </def>
@@ -2785,14 +2536,14 @@
                </entry>
             </div>
             <div n="ADM">
-               <entry type="term" ana="Jurisprudence">
+               <entry type="term" ana="#jurisprudence">
                   <form><orth rend="caps">ADMINICULE</orth>
                      <gramGrp>
                         <pos>ſ.</pos>
                         <gen>f.</gen>
                      </gramGrp></form>
                   <sense>
-                     <usg type="Jurisprudence">Terme de Juriſprudence. </usg>
+                     <usg>Terme de Juriſprudence. </usg>
                      <def>
                         Commencement de preuve, ou preuve imparfaite; circonſtance, ou conjecture, qui contribue à former, ou à fortifier une preuve.
                      </def>
@@ -2807,27 +2558,28 @@
                      </dictScrap>
                   </sense>
                </entry>
-               <entry>
+               <superEntry>
+               <entry type="term" ana="#grammaire">
                   <form><orth rend="caps">ADMIRATIF</orth>
                      <gramGrp>
                         <pos>ſ.</pos>
                         <gen>m.</gen>
                      </gramGrp></form>
-                  <sense ana="Grammaire">
-                     <usg type="Grammaire">Terme de Grammaire. </usg>
+                  <sense>
+                     <usg>Terme de Grammaire. </usg>
                      <def>
                         Ponctuation qui marque qu'il faut admirer, marquée ainſi !
                      </def>
                      <dictScrap>
                         On dit auſſi, <seg type="collocation">un geſte <hi rend="italic">admiratif</hi></seg>, <seg type="collocation">un ton <hi rend="italic">admiratif</hi></seg>.
                      </dictScrap>
+                  </sense></entry>
+                  <entry ana="#imprimerie"><sense>
+                     <usg>Les Imprimeurs appellent un <hi rend="italic">admiratif</hi>, le ſigne ou la ponctuation, qui ſe met après un diſcours de contemplation, ou d'élevation.</usg>
                   </sense>
-                  <sense ana="Imprimerie">
-                     <usg type="Imprimerie">Les Imprimeurs appellent un <hi rend="italic">admiratif</hi>, le ſigne ou la ponctuation, qui ſe met après un diſcours de contemplation, ou d'élevation.</usg>
-                  </sense>
-               </entry>
+               </entry></superEntry>
                <superEntry>
-                  <entry type="term" ana="Palais">
+                  <entry type="term" ana="#palais">
                      <form><orth rend="caps">ADMONESTER</orth>
                         <gramGrp>
                            <pos>v.</pos><gen>act.</gen>
@@ -2835,7 +2587,7 @@
                         <pron>Prononcez le <hi rend="italic">d</hi>.</pron>
                      </form>
                      <sense>
-                        <usg type="Palais">Terme de Palais.</usg>
+                        <usg>Terme de Palais.</usg>
                         <def>
                            Avertir, faire une remontrance; une correction en juſtice.
                         </def>
@@ -2858,7 +2610,6 @@
             </div>
             <div n="ADO">
                <superEntry><entry><form></form></entry></superEntry>
-               <entry ana="Peinture"><form><orth rend = "caps">ADOUCIR</orth><gramGrp><pos></pos></gramGrp></form></entry>
                
                <superEntry><entry><form><orth>ADOUCIR</orth><gramGrp><pos>v. act.</pos></gramGrp></form>
                   <sense><def>Rendre le plus doux, moins acre, moins rude, ou moins amer, etc. On a trouvé le se<caesura/>cret d'adoucir 
@@ -2867,6 +2618,7 @@
                      en le rendant moins froid. <cit type="example"><quote>on adoucit les métaux par un alliage convena<caesura/>ble. Ceux qui travaillent
                         aux glaces de miroir, aux lunettes etc. ne les polissent qu'aprés les avoir adou<caesura/>cies. Le mélange adoucit 
                         aussi les odeurs, les couleurs etc. l'aigreur des fruits s'adoucit en meurissant.</quote></cit>
+                  </def></sense></entry><entry><sense>
                      Se dit aussi des choses spirituelles,pour signifier, appaiser, rendre moins facheux et plus sup<caesura/>portable;
                      moderer, temperer. Il faut adoucir les ter<caesura/>mes injurieux ou barbares, quand on est obligé de s'en servir.
                      On dit que l'amour a inventer la peinture, pour adoucir la douleur de l'abscence par la copie des traits 
@@ -2887,17 +2639,15 @@
                      <cit type ="citation"><bibl>La Roch</bibl><quote>Les haines et les inimitiez s'adoussissent par le temps</quote></cit>
                      <cit type ="citation"><bibl>Du R.</bibl><quote>Il n'ya personne si sauvage qui ne se puisse adoucir  </quote></cit>
                      <cit type ="citation"><bibl>Dac.</bibl><quote>Le roi s'adoucit dans la suite, et ne parut plus si irrité.</quote></cit>
-                     <cit type ="citation"><bibl>P.De CL.</bibl><quote>La fiévre s'adoucit par l'abstinence et le repos.</quote></cit>
-                     
-                     terme de peinture. Méler les couleurs avec la brosse, ou le pinceau. On dit aussi adou<caesura/>cir les teins lavez
+                     <cit type ="citation"><bibl>P.De CL.</bibl><quote>La fiévre s'adoucit par l'abstinence et le repos.</quote></cit></sense></entry>
+                  
+                  <entry type="term" ana="#peinture"><form><orth rend = "caps">ADOUCIR</orth><gramGrp><pos></pos></gramGrp></form><sense>     terme de peinture. Méler les couleurs avec la brosse, ou le pinceau. On dit aussi adou<caesura/>cir les teins lavez
                      et faits avec la plume : c'est-à<caesura/>-dire en unclear la teinte. 
-                     <cit type = "citation"><bibl>Fel</bibl><quote>Adoucir une peinture, c'est en changer quelques traits
-                        et donner plus de douceur à l'air d'un visage. qui avoit quelque chose de rude. </quote></cit> Adouci, le participe passé et 
-                     adjectif.</def></sense></entry></superEntry>
-               
-               
-               <superEntry><entry><form></form></entry></superEntry>
-               <entry><form><orth rend = "caps">ADOUCISSEMENT</orth><gramGrp><pos></pos></gramGrp></form></entry>
+                     <cit type = "citation"><bibl>Fel</bibl><quote>Adoucir une peinture, c'est en changer quelques traits et donner plus de douceur à l'air d'un visage. qui avoit quelque chose de rude.</quote></cit></sense></entry>
+                  
+                <entry><sense>Adouci, le participe passé et 
+                     adjectif.</sense></entry> </superEntry>
+             
                
                <superEntry><entry><form><orth>ADOUCISSEMENT</orth><gramGrp><pos>v. act.</pos></gramGrp></form>
                   <sense><def>L'action d'adoucir, ou ce qui sert à adoucir; état de la chose adoucie. 
@@ -2917,21 +2667,20 @@
                               et bien des adoucissements tout ce qui peut faire naitre des idées obscénes.Oe.M.</quote></cit>
                         </quote></cit> </def></sense></entry>
                   
-                  <entry><form><orth>ADOUCISSEMENT</orth><gramGrp><pos>v. act.</pos></gramGrp></form> <sense><def>Terme de Peinture. 
+                  <entry type="term" ana="#peinture"><form><orth>ADOUCISSEMENT</orth><gramGrp><pos>v. act.</pos></gramGrp></form> <sense><def>Terme de Peinture. 
                      On s'en sert pour exprimer,que les couleurs font bien noyées; que les traits ne sont pas tranchez,
                      et qu'il n'ya rien de rude.L'adoucissement des couleurs rend la peinture plus tendre, et plus fine</def></sense></entry>
                   
-                  <entry><form><orth>ADOUCISSEMENT</orth><gramGrp><pos>v. act.</pos></gramGrp></form> <sense><def>Terme d'architecture.
+                  <entry type="term" ana="#architecture"><form><orth>ADOUCISSEMENT</orth><gramGrp><pos>v. act.</pos></gramGrp></form> <sense><def>Terme d'architecture.
                      C'est le racordement qui se fait d'un corps avec un autre pas un chamfrain, ou par un cavet, comme le congé du fut d'une colonne;
                      ou lorsque le plinthe d'une bafe est joint à la corniche de son piedestal par un cavet.</def></sense></entry></superEntry>
-               
-               <superEntry><entry><form></form></entry></superEntry>
-               <entry type="term" ana="Fauconnerie"><form><orth rend = "caps">ADOUEES</orth><gramGrp><pos></pos></gramGrp></form></entry>
+          
+               <entry type="term" ana="#fauconnerie"><form><orth rend = "caps">ADOUEES</orth><gramGrp><pos></pos></gramGrp></form></entry>
                <superEntry><entry><form><orth>ADOUEES</orth><gramGrp><pos>v. act.</pos></gramGrp></form>
                   <sense><def>Terme de Fauconnerie qui se dit des pedrix qui font pariés et accouplées</def></sense></entry></superEntry>
                
                <superEntry><entry><form></form></entry></superEntry>
-               <entry ana="Jurisprudence"><form><orth rend = "caps">ADROGATION</orth><gramGrp><pos></pos></gramGrp></form></entry>
+               <entry type="term" ana="#jurisprudence"><form><orth rend = "caps">ADROGATION</orth><gramGrp><pos></pos></gramGrp></form></entry>
                <superEntry><entry><form><orth>ADROGATION</orth><gramGrp><pos>f.f.</pos></gramGrp></form>  
                   <sense><def>Terme de jurisprudence, espece d'adoption; elle n'était différente de l'adop<caesura/>tion que parce qu'il 
                      s'agissait d'une personne libre qui consentait à etre adoptee par une autre; et parce qu'el<caesura/>le se faissait 
@@ -2940,7 +2689,7 @@
                   </sense></entry></superEntry>
                
                <superEntry><entry><form></form></entry></superEntry>
-               <entry ana="Grammaire"><form><orth rend = "caps">ADVERSATIF</orth><gramGrp><pos></pos></gramGrp></form></entry>
+               <entry type="term" ana="#grammaire"><form><orth rend = "caps">ADVERSATIF</orth><gramGrp><pos></pos></gramGrp></form></entry>
                <superEntry><entry><form><orth>ADVERSATIF</orth><gramGrp><pos>JVE. adject.</pos></gramGrp></form>
                   <sense><def>Terme de gram<caesura/>maire, se dit d'une particule, ou conjonction adversa<caesura/>tive, laquelle marque quelque difference, 
                      ou quelque opposition entre ce qui la fuit, et ce qui la precedent. Mais est une particule adversative.
@@ -2948,7 +2697,7 @@
                   </sense></entry></superEntry>
                
                <superEntry><entry><form></form></entry></superEntry>
-               <entry ana="Palais"><form><orth rend = "caps">ADVERSE</orth><gramGrp><pos></pos></gramGrp></form></entry>
+               <entry type="term" ana="#palais"><form><orth rend = "caps">ADVERSE</orth><gramGrp><pos></pos></gramGrp></form></entry>
                <superEntry><entry><form><orth>ADVERSE</orth><gramGrp><pos>adj.f.</pos></gramGrp></form>
                   <sense><def>Le d ne se prononce point selon le plus grand nombre. Terme de Palais.Contraire opposé.
                      C'est la partie contre laquelle on est en procés. Voila les deux parties averses. 
@@ -2965,20 +2714,20 @@
                   <entry>
                      <form> <orth rend ="caps">AFFIER</orth> </form> <sense> <def> eſt un vieux mot qui ne s'employe qu'avec le pronom perſonnel, &amp; qui ſignifie faire fonds ſur la fidelite d'une perſonne, compter ſur ſa bonne foi. En ſa place, on se dit ſe fier, ſe confier, s'aſſeurer ſur quelqu'un. </def>
                      </sense></entry>
-                  <entry> 
+                  <entry type="term" ana="#agriculture"> 
                      <form> <orth rend="smallcaps">AFFIER </orth>  <gramGrp><pos> v.act</pos></gramGrp></form><sense>
                         <def> Terme d'agriculture. Planter, provigner des arbres en <unclear reason="illisible">ſions</unclear>, ou boutures dans un jardin : c'eſt à dire, en bouts de branches miſes dans la terre pour prendre racine. </def> </sense> </entry>
                </superEntry>
                
                <superEntry>
-                  <entry type="term" ana="Coutelier">
+                  <entry type="term" ana="#coutelier">
                      <form><orth rend="caps">AFFILER </orth><gramGrp><pos>v.act.</pos></gramGrp></form>
-                     <sense><usg ana="Coutelier">, Terme de Coutelier.</usg><def> Donner le fil a un couteau, a une epee, a une faux, a une cognee, &amp; a tous autres inſtruments tranchants, en les paſſant ſur la meule, ou ſur le grais, ou avec la pierre a aguiſer. <cit type="example"><quote><hi>Affiler un raſoir.</hi></quote></cit></def> </sense> </entry>
-                  <entry type="term" ana="Tireur d'or">
-                     <form rend="smallcaps">Affiler</form><sense><usg ana="Tireur d'or"> ,eſt aussi un terme de Tireur d'or.</usg> <def>Il ſignifie, Mettre le lingot d'or dans ou d'argent dans la filiere. <cit type="example"><quote><hi>Affiler</hi> un lingot d'or; <hi>affiler</hi> une verge d'or ou d'argent.</quote></cit></def> </sense> 
+                     <sense><usg>, Terme de Coutelier.</usg><def> Donner le fil a un couteau, a une epee, a une faux, a une cognee, &amp; a tous autres inſtruments tranchants, en les paſſant ſur la meule, ou ſur le grais, ou avec la pierre a aguiſer. <cit type="example"><quote><hi>Affiler un raſoir.</hi></quote></cit></def> </sense> </entry>
+                  <entry type="term" ana="#tireur_d_or">
+                     <form rend="smallcaps">Affiler</form><sense><usg> ,eſt aussi un terme de Tireur d'or.</usg> <def>Il ſignifie, Mettre le lingot d'or dans ou d'argent dans la filiere. <cit type="example"><quote><hi>Affiler</hi> un lingot d'or; <hi>affiler</hi> une verge d'or ou d'argent.</quote></cit></def> </sense> 
                   </entry>
-                  <entry type="term" ana="Jardinier">
-                     <form> <orth rend="smallcaps">AFFILER</orth> </form><sense><usg ana="Jardinier">, eſt encore un terme de Jardinier.</usg><def> Il ſignifie planter a la ligne. <cit type="example"><quote><hi>Affiler</hi> des arbres.</quote></cit>Mais aligner vaut mieux. <rs>Voyez Aligner.</rs>
+                  <entry type="term" ana="#jardinier">
+                     <form> <orth rend="smallcaps">AFFILER</orth> </form><sense><usg>, eſt encore un terme de Jardinier.</usg><def> Il ſignifie planter a la ligne. <cit type="example"><quote><hi>Affiler</hi> des arbres.</quote></cit>Mais aligner vaut mieux. <rs>Voyez Aligner.</rs>
                         On dit figurement au participe, Un bec <hi>affilé</hi>, d'une perſonne qui eſt grande parleuſe, &amp; le plus ſouvent mediſante. Ce mot eſt pris de <hi>fil</hi>, qui vient du Latin <term xml:lang="la"><hi>filum</hi></term>. </def>
                      </sense> </entry>
                </superEntry>
@@ -2991,15 +2740,18 @@
                   <entry>
                      <form> <orth rend="smallcaps"> AFFINER </orth></form><sense><def>, ſe dit auſſi du ciment, &amp; c'eſt le rendre plus fin, plus delie, &amp; le reduire en une poudre preſqu'impalpable. </def>
                      </sense> </entry>
-                  <entry type="term" ana="Relieur">
-                     <form> <orth rend="smallcaps">AFFINER </orth> </form><sense><usg ana="Cordier">,eſt auſſi un terme de Cordier,</usg><usg ana="Relieur">,eſt auſſi un terme de Relieur,</usg> <def> &amp; signifie renforcer.<cit type="example"><quote><hi>Affiner</hi> du carton. </quote></cit></def>
-                     </sense> </entry>
+                  <entry type="term" ana="#cordier">
+                     <form> <orth rend="smallcaps">AFFINER </orth> </form><sense><usg>,eſt auſſi un terme de Cordier,</usg></sense></entry>
+                        <entry type="term" ana="#relieur"><usg>,eſt auſſi un terme de Relieur,</usg> <def> &amp; signifie renforcer.<cit type="example"><quote><hi>Affiner</hi> du carton. </quote></cit></def>
+                   </entry>
                   <entry type="term" ana="Cordier">
                      <form> <orth rend="smallcaps">AFFINER</orth></form><sense><def>&amp; signifie <unclear reason="illisible">paffer</unclear> le chanvre ou le lin par l'affinoir, pour le rendre meilleur &amp; plus fin. </def>
                      </sense> </entry>
-                  <entry type="term" ana="Marines">
+                  <entry type="term" ana="#morale">
                      <form> <orth rend="smallcaps">AFFINER</orth></form><sense><def>,ſe dit auſſi figurement en Morale des niais, qu'on rend plus fins, en leur faiſant quelque tromperie. <cit type="example"><quote>Il a voulu jouer contre ce filou, il a ete <hi>affine</hi>. </quote></cit> <cit type="example"><quote> Les plus ſubtils ſont tous les jours <hi>affinez</hi>.</quote></cit>
-                        </def><usg ana="Marines">On dit en termes de Marine,</usg> que le temps <hi>affine</hi>; pour dire, que l'air s'eclaircit, &amp; que le temps devient plus beau; &amp; alors il ſe prend dans un ſens neutre.</sense>
+                        </def></sense></entry>
+                  <entry type="term" ana="#marine"><sense>   
+                        <usg>On dit en termes de Marine,</usg> que le temps <hi>affine</hi>; pour dire, que l'air s'eclaircit, &amp; que le temps devient plus beau; &amp; alors il ſe prend dans un ſens neutre.</sense>
                   </entry>
                   <entry>
                      <form><orth rend="smallcaps">AFFINÉ,ÉE,</orth><gramGrp><pos>part. paſſ. &amp; adj.</pos></gramGrp></form>
@@ -3008,21 +2760,21 @@
                </superEntry>
                
                <superEntry>
-                  <entry>
+                  <entry type="term" ana="#forges">
                      <form> <orth rend="caps">AFFINERIE</orth><gramGrp><pos>f.f</pos></gramGrp></form><sense><def> C'eſt un terme de gens qui travaillent aux forges. Il ſignifie une eſpece de petite forge, où l'on tire le fer en fil d'archal. Porter le fer à l'<hi>affinerie</hi>. </def></sense></entry>
                   <entry> <form> <orth rend = "smallcaps"> AFFINERIE</orth>,</form><sense><def> ſignifie du fer rafiné &amp; mis en rouleaux, pour faire divers ouvrages. <cit type = "example"><quote>J'ay fait venir, j'ay acheté, j'ay employé un millier d'<hi>affinerie</hi>. </quote></cit></def> </sense> </entry>
                   
                </superEntry>
                
                <superEntry>
-                  <entry type="term" ana="Cordier"> 
-                     <form><orth rend ="caps">AFFINOIR</orth><gramGrp><pos>, f.m.</pos></gramGrp></form><sense><usg ana= "Cordier">C'est un terme de Cordier </usg><def>, qui ſignifie un eſpece de ſeran dont les broches sont petites &amp; ſerrées au travers desquelles on fait paſſer le lin ou le chanvre pour les affiner. <cit type ="example"><quote>Prenez cet <hi>affinoir</hi> &amp; affinez ce chanvre. Faites paſſer ce lin par l'<hi>affinoir</hi>.</quote></cit></def></sense>
+                  <entry type="term" ana="#cordier"> 
+                     <form><orth rend ="caps">AFFINOIR</orth><gramGrp><pos>, f.m.</pos></gramGrp></form><sense><usg>C'est un terme de Cordier </usg><def>, qui ſignifie un eſpece de ſeran dont les broches sont petites &amp; ſerrées au travers desquelles on fait paſſer le lin ou le chanvre pour les affiner. <cit type ="example"><quote>Prenez cet <hi>affinoir</hi> &amp; affinez ce chanvre. Faites paſſer ce lin par l'<hi>affinoir</hi>.</quote></cit></def></sense>
                   </entry>
                </superEntry>
                
                <superEntry>
-                  <entry type="term" ana="Logique">
-                     <form><orth rend="caps">AFFIRMANT</orth><gramGrp><pos>ANTE.</pos></gramGrp></form><sense><usg ana="Logique">Terme de Logique.</usg><def> Il y a des propoſitions univerſelles <hi>affirmantes</hi>, qui font d'ordinaire les premieres dans les ſyllogiſmes.</def></sense>
+                  <entry type="term" ana="#logique">
+                     <form><orth rend="caps">AFFIRMANT</orth><gramGrp><pos>ANTE.</pos></gramGrp></form><sense><usg>Terme de Logique.</usg><def> Il y a des propoſitions univerſelles <hi>affirmantes</hi>, qui font d'ordinaire les premieres dans les ſyllogiſmes.</def></sense>
                   </entry>
                </superEntry>
                
@@ -3038,14 +2790,14 @@
                      <form> <orth rend="caps">AFFIRMATIONS</orth><gramGrp><pos> au pluriel</pos></gramGrp></form><sense><def>, ſe dit en parlant du greffe des <hi>affirmations</hi>. Par l'Ordonnance de 1667, il y a un office de Greffier établi au Parlement pour recevoir &amp; donner les actes des <hi>affirmations</hi> des voyages, &amp; du ſejour de ceux qui viennent pour fair ejuger leur procés. Ces actes des <hi>affirmations</hi> ſervent au plaideur qui gagne ſon procés, pour faire taxer ſes voyages. </def></sense>             
                   </entry>
                   
-                  <entry type="term" ana="Logique">
-                     <form><orth rend="smallcaps">Affirmation</orth></form><sense><usg ana="Logique">, eſt aussi un terme de Logique</usg><def>,qui ſignifie l'expreſſion par laquelle une propoſition affirme,&amp; dit d'une choſe, qu'elle eſt. Cette porpoſition contient une <hi>affirmation</hi>, celle-là une negation. Il eſt de la nature de l'<hi>affirmation</hi>, de porter l'eſprit à cela. Port-R</def></sense>
+                  <entry type="term" ana="#logique">
+                     <form><orth rend="smallcaps">Affirmation</orth></form><sense><usg>, eſt aussi un terme de Logique</usg><def>,qui ſignifie l'expreſſion par laquelle une propoſition affirme,&amp; dit d'une choſe, qu'elle eſt. Cette porpoſition contient une <hi>affirmation</hi>, celle-là une negation. Il eſt de la nature de l'<hi>affirmation</hi>, de porter l'eſprit à cela. Port-R</def></sense>
                   </entry>    
                </superEntry>
                
                <superEntry>
-                  <entry type="term" ana="Architecture">
-                     <form><orth rend="caps">AFFLEURER</orth><gramGrp><pos>, v.act.</pos></gramGrp></form><sense><usg ana="Architecture"> Terme d'Architecture.</usg><def> Reduire deux corps, qui ſont proches, à une même ſaillie. <cit type="example"><quote>Comme une trape au niveau du plancher.</quote></cit></def></sense>
+                  <entry type="term" ana="#architecture">
+                     <form><orth rend="caps">AFFLEURER</orth><gramGrp><pos>, v.act.</pos></gramGrp></form><sense><usg> Terme d'Architecture.</usg><def> Reduire deux corps, qui ſont proches, à une même ſaillie. <cit type="example"><quote>Comme une trape au niveau du plancher.</quote></cit></def></sense>
                   </entry>
                </superEntry>
                
@@ -3059,8 +2811,8 @@
                </superEntry>
                
                <superEntry>
-                  <entry type="term" ana="Marine">
-                     <form><orth rend="caps">AFFOURCHER.</orth><gramGrp><pos> v.act. </pos></gramGrp></form><sense><usg ana="Marine">Terme de Marine.</usg> <def>C'eſt mouiller une ſeconde ancre éloignée de l'autre, enſorte que leurs cables faſſent une eſpece de fourche; ce qui empêche les vaiſſeaux de ſe tourmenter. Ce mot vient de <hi>furca</hi>. </def></sense>
+                  <entry type="term" ana="#marine">
+                     <form><orth rend="caps">AFFOURCHER.</orth><gramGrp><pos> v.act. </pos></gramGrp></form><sense><usg>Terme de Marine.</usg> <def>C'eſt mouiller une ſeconde ancre éloignée de l'autre, enſorte que leurs cables faſſent une eſpece de fourche; ce qui empêche les vaiſſeaux de ſe tourmenter. Ce mot vient de <hi>furca</hi>. </def></sense>
                   </entry>
                   
                   <entry>
