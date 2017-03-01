@@ -3043,10 +3043,18 @@
                   pour signifier, la distance de l'extremité de la pouppe à celle de la proue.</usg>
             </entry>
             <entry xml:id="Capiscol"><form><orth>CAPISCOL</orth><gramGrp><pos ana="subst">s</pos><gen ana="masc">m</gen></gramGrp></form>
+                <sense><def>Dignite de chef, ou de Doyen en plusieurs Chapitres &amp; Eglises Cathedrales ou Collegiales : particulierment en Provence, &amp; en Languedoc.</def>
+                <note>C'a été aussi une charge militaire, comme temoigne <name type="person" ana="#Du_Cange_VIAF69017412">Du Cange</name></note></sense>
+                <etym> Ce mot vient de <foreign xml:lang="lat">caput schole</foreign><bibl ana="#Men_ISN0000000080815971">MEN.</bibl></etym>
+            </entry>
+                
+           <entry xml:lang="fr" xml:id="Capitaine">  <form><orth>CAPITAINE</orth><gramGrp ana="subst"><pos>s</pos><gen ana="masc">masc</gen></gramGrp></form>
+               <sense>
                <def>Chef, Général d'armée.</def><cit type="example"><quote>Pompée était un sage &amp; vaillant <hi rend="italique">Capitaine</hi>.</quote></cit>
                <note>Philippe fut déclaré le <hi rend="italique">Capitaine</hi>de Macédoiniens, &amp; des Grecs. Hernand de Cordouë a été surnommé le
                   <hi rend="italique">Grand Capitaine</hi>. Mr. de Rohan a écrit un livre intitulé, <hi rend="italique">Le parfait Capitaine</hi>
                </note><cit type="citation"><quote>Il y a de grands<hi rend="italique">Capitaines</hi>, qui hors de là font de fort petits génies.<bibl corresp="#LE P.BOURD"></bibl></quote></cit>
+               </sense>
                <sense><form><orth>CAPITAINE</orth></form>
                   <usg>Se dit aussi d'un moindre Officier d'armée qui commande une compagnie de soldats,<choice><orig>foit</orig><reg>fait</reg></choice>à pied, à cheval.</usg>
                   <cit type="example"><quote>Un <hi rend="italique">Capitaine</hi>de Dragons. Un <hi rend="italique">Capitaine</hi>dans un vieux corps, &amp;c.</quote></cit>
