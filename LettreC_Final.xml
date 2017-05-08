@@ -31,12 +31,12 @@
                 </publicationStmt>
             </biblFull></sourceDesc>
         </fileDesc>
-        <encodingDesc>
+       <encodingDesc>
         
             
             <projectDesc><p>Cette édition a été réalisée avec la collaboration des étudiants en master Métiers du livre et humanités numériques sans aucune aide financière .</p></projectDesc>
             <classDecl>
-                <taxonomy n="Index_Cited_Authors">
+                <taxonomy n="Auteurs_indexés_par_Basnage">
                     <category><catDesc>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Jacques_Abbadie" xml:id="Aba_ISN0000000083391828"><name>Mr. Abadie</name><abbr>ab ou abs</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Nicolas_Perrot_d'Ablancourt" xml:id="Abl_ISN0000000107866286"><name>Mr. d'Ablancourt</name><abbr>Abl</abbr></persName>
@@ -45,61 +45,129 @@
                         <persName xml:base="https://fr.wikipedia.org/wiki/Jean-Louis_Guez_de_Balzac" xml:id="Bal_ISN0000000114443046"><name>Mr de Balzac</name><abbr>Bal</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Gaspard_Bauhin" xml:id="C_Bauh_ISN0000000121246403"><name>C. Bauhin</name><abbr>C. Bauh</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Pierre_Bayle" xml:id="Bay_ISN0000000122807284"><name>Mr. Bayle</name><abbr>Bay</abbr></persName>
-                        <persName xml:base="https://fr.wikipedia.org/wiki/Jacques-Bénigne_Bossuet" xml:id="Bossuet_ISN0000000120984244"><name>Jacques-Bénigne Bossuet, évêque de Meaux,</name><abbr>M. de M.</abbr></persName>
-                        <persName xml:base="https://fr.wikipedia.org/wiki/Jean_de_La_Bruyère" xml:id="Bruyere_ISN0000000121009707"><name>Jean de la Bruyère</name><abbr>LA BR.</abbr><date>1645-1696</date><country>France</country><note>moraliste français, écrivain</note></persName>
-                        <persName xml:base="https://fr.wikipedia.org/wiki/Georges_de_Brébeuf" xml:id="Breb_ISN0000000115563031"><name>Georges de Brébeuf</name><abbr>Breb</abbr><date>1617-1661</date><country>France</country><note>Linguiste, poète, traducteur, écrivain</note></persName>
-                        <persName xml:base="https://fr.wikipedia.org/wiki/Pierre_Borel" xml:id="Borel_ISN0000000457851471"><name>Pierre Borel</name><date>1620-1671</date></persName>
-                        <persName xml:base="https://fr.wikipedia.org/wiki/Louis_Bourdaloue" xml:id="Bourd_ISN0000000109285397"><name>Louis Bourdaloue</name><abbr>Le P. Bourd</abbr><date>1632-1704</date><country>France</country><note>jésuite français</note></persName>
-                        <persName xml:base="https://fr.wikipedia.org/wiki/Antoinette_Des_Houlières" xml:id="Des_Houl_ISN0000000120960074"><name>Mme Antoinette Deshoulières</name><abbr>Des H.</abbr><date>1634-1694</date><country>France</country><note>écrivaine, poetesse</note></persName>
-                        <persName xml:base="https://fr.wikipedia.org/wiki/Jean-Baptiste_Morvan_de_Bellegarde" xml:id="Bel_ISN0000000121281321"><name>Jean-Baptiste Morvan de Bellegarde</name><abbr>Bell</abbr></persName>
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Jean-Baptiste_Morvan_de_Bellegarde" xml:id="Bell_ISN0000000121281321"><name>Jean-Baptiste Morvan de Bellegarde</name><abbr>Bell</abbr><date>1648-1734</date><country>France</country><note> ecclésiastique, écrivain moraliste et religieux, historien et traducteur français</note></persName>
+                        <persName><name>Mr. Benoist</name><abbr>Ben</abbr></persName>
+                        <persName><name>Mr. de Benserade</name><abbr>Bens</abbr></persName>
+                        <persName><name>Mr. Bernier</name><abbr>Bern</abbr></persName>
+                        <persName><name>Bertaud</name><abbr>Bert</abbr></persName>
+                        <persName><name>Mr. Bizot</name><abbr>Bi</abbr></persName>
+                        <persName><name>Mr. Le Blanc</name><abbr>Le Bl</abbr></persName>
+                        <persName><name>Mr. Bondel</name><abbr>Bl</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Nicolas_Boileau" xml:id="Boileau_ISN0000000121185604" ><name>Nicolas Boileau, dit aussi Boileau-Despréaux, ou encore le « législateur du Parnasse »</name><abbr>Boi</abbr></persName>
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Pierre_Borel" xml:id="Borel_ISN0000000457851471"><name>Pierre Borel</name><abbr>Bor</abbr><date>1620-1671</date></persName>
+                        <persName><name>Le Père le Bossin</name><abbr></abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Dominique_Bouhours" xml:id="Bou_ISN0000000121296697"><name>Le P. Bouhours</name><abbr>Bou.</abbr></persName>
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Louis_Bourdaloue" xml:id="Bourd_ISN0000000109285397"><name>Louis Bourdaloue</name><abbr>Bourd, Le P. Bourd</abbr><date>1632-1704</date><country>France</country><note>jésuite français</note></persName>
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Georges_de_Brébeuf" xml:id="Breb_ISN0000000115563031"><name>Georges de Brébeuf</name><abbr>Breb</abbr><date>1617-1661</date><country>France</country><note>Linguiste, poète, traducteur, écrivain</note></persName>
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Jean_de_La_Bruyère" xml:id="Bruyere_ISN0000000121009707"><name>Jean de la Bruyère</name><abbr>LA BR.</abbr><date>1645-1696</date><country>France</country><note>moraliste français, écrivain</note></persName>   
+                        <persName><name>Mr. de Bossi-Rabutin</name><abbr>B Rab</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/François_de_Callières" xml:id="Cail_ISN0000000108820706" ana="#Acad_Fr_ISN0000000404717682"><name>François de Callières</name><abbr>CAIL</abbr><date>1645-1717</date><country>France</country><note>Diplomate, écrivain</note></persName>
+                        <persName><name>Mr. Capistron</name><abbr>Cap</abbr></persName>
+                        <persName><name>Cerify Habert</name><abbr>Cer</abbr></persName>
+                        <persName><name>Mr. de la Chapelle</name><abbr>Ch</abbr></persName>
+                        <persName><name>Mr. de Charleval</name><abbr>Charl</abbr></persName>
+                        <persName><name>Mr. Charpentier</name><abbr>Charp</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Jean_Claude" xml:id="Claude_ISN0000000062993950"><name>Jean Claude</name><abbr>Cl</abbr><date>1619-1687</date><country>France</country><note>Pasteur protestant</note></persName>
-                        <persName xml:base="https://fr.wikipedia.org/wiki/Pierre_Corneille" xml:id="Corn_ISN0000000121296128"><name>Pierre Corneille</name><abbr>Corn</abbr><date>1606-1684</date><country>France</country><note>Dramaturge, poète</note></persName>
+                        <persName><name>Mr. le Clerc</name><abbr>Le Cl</abbr></persName>
+                        <persName><name>Mr. Conrad</name><abbr>Con</abbr></persName>
+                        <persName><name>Mrs. Corneille</name>
+                            <persName xml:base="https://fr.wikipedia.org/wiki/Pierre_Corneille" xml:id="Corn_ISN0000000121296128"><name>Pierre Corneille</name><abbr>Corn</abbr><date>1606-1684</date><country>France</country><note>Dramaturge, poète</note></persName>
+                            <persName xml:base="https://fr.wikipedia.org/wiki/Thomas_Corneille" xml:id="CornT_ISN000000012281648X"><name>Thomas Corneille</name><abbr></abbr><date>1625-1709</date><country>France</country><note>juriste et auteur dramatique français</note></persName></persName>
+                        <persName><name>Mr. Costar</name><abbr>Cos</abbr></persName>
+                        <persName><name>Mr. Courtin</name><abbr>Cour</abbr></persName>
+                        <persName><name>Mr. Dacier</name><abbr>Dac</abbr></persName>
+                        <persName><name>Mr. l'Abbé Danet</name><abbr>Dan</abbr></persName>
+                        <persName><name>Le Père Daniel</name><abbr>Le P Dan</abbr></persName>
+                        <persName><name>Mr. Esprit</name><abbr>M. Esp</abbr></persName>
+                        <persName><name>Mr. Felibien</name><abbr>Fel</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Fénelon" xml:id="Fen_ISN0000000121017416"><name>François de Salignac de La Mothe-Fénelon dit Fénelon</name><abbr>FEN</abbr><date>1651-1715</date><country>France</country><note>Théologien, écrivain français</note></persName>
+                        <persName><name>Fevret</name><abbr>Fev</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Esprit_Fléchier" xml:id="Flechier_ISN0000000108744010"><name>Esprit Fléchier, évèque de Nimes</name><abbr>FL</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Jean_de_La_Fontaine" xml:id="Fontaine_ISN0000000120958636"><name>Jean de la Fontaine</name><abbr>La Fon</abbr><date>1621-1695</date><country>France</country><note>Poète, moraliste, dramaturge, librettiste, romancier et fabuliste</note></persName>
-                        <persName xml:base="https://fr.wikipedia.org/wiki/Georges_Guillet_de_Saint-George" xml:id="La_Guill_ISN0000000079760360"><name>Georges Guillet de Saint George, pseudo Sieur de La Guilletière</name><abbr>La Guill</abbr><date>ca 1625-1705</date><country>France</country><note> comédien et érudit français, relation de voyages au levant</note></persName>
+                        <persName><name>Mr. de Fontenelle</name><abbr>Font</abbr></persName>
+                        <persName><name>Le Père Gaillard</name><abbr>Le P Gail</abbr></persName>
+                        <persName><name>Mr. Gilet</name><abbr>Gill</abbr></persName>
+                        <persName><name>Mr. de Godeau Evêque de Vence</name><abbr>God</abbr></persName>
+                        <persName><name>Gomberville</name><abbr>Gom</abbr></persName>
+                        <persName><name>Gonbaut</name><abbr>Gon</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Hugo_Grotius" xml:id="Grotius_ISN0000000121266471"><name>Hugo Grotius</name><abbr>GRO</abbr><date>1583-1645</date><country>Pays Bas</country><note>Poète, dramaturge, juriste, homme politique, écrivain, diplomate, historien, philosophe, théologien, avocat</note></persName>
-                        <persName xml:base="https://fr.wikipedia.org/wiki/Jean-Louis_Guez_de_Balzac" xml:id="Balzac_ISN0000000114443046"><name>Jean-Louis Guez de Balzac</name><abbr>Balzac</abbr></persName>
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Georges_Guillet_de_Saint-George" xml:id="La_Guill_ISN0000000079760360"><name>Georges Guillet de Saint George, pseudo Sieur de La Guilletière</name><abbr>La Guill</abbr><date>ca 1625-1705</date><country>France</country><note> comédien et érudit français, relation de voyages au levant</note></persName>
+                        <persName><name>Lettres du Chevalier d'Her...</name><abbr>Le Ch d'H</abbr></persName>
+                        <persName><name>Henriete Silvie de Moliere</name><abbr>H.S. de M</abbr></persName>
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Antoinette_Des_Houlières" xml:id="Des_Houl_ISN0000000120960074"><name>Mme Antoinette Deshoulières</name><abbr>Des H.</abbr><date>1634-1694</date><country>France</country><note>écrivaine, poetesse</note></persName>
+                        <persName><name>Mr Huygens</name><abbr>Huy</abbr></persName>
+                        <persName><name>Mr. Jaquelot</name><abbr>Jaq</abbr></persName>
+                        <persName><name>Le Père Joubert</name><abbr>Le P. J.</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Pierre_Jurieu" xml:id="Jur_ISN0000000108607649"><name>Pierre Jurieu</name><abbr>Ju</abbr><date>1637-1713</date><country>France</country><note>pasteur calviniste, théologien, écrivain et pamphlétaire prolifique français. Académie de Saumur</note></persName>
-                        <persName xml:base="https://fr.wikipedia.org/wiki/Jean_de_La_Bruyère" xml:id="La_Br_ISN0000000121009707"><name>Jean de La Bruyère</name><abbr>La Br</abbr><date>1645-1696</date><country>France</country><note>moraliste français.</note></persName>
+                        <persName><name>Mr. de Larrey</name><abbr>De Lar</abbr></persName>
+                        <persName><name>Mr. de Longpierre</name><abbr>Long</abbr></persName>
+                        <persName><name>Loyseau</name><abbr>Loy</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Antoine_Le_Maistre" xml:id="Le_Mai_ISN0000000080934647"><name>Antoine Le Maistre</name><abbr>Le Mai</abbr><date>1608-1658</date><country>France</country><note>avocat janséniste</note></persName>
+                        <persName xml:base="https://fr.wikipedia.org/wiki/François_Maynard" xml:id="Main_ISN0000000118740224"><name>François Maynard (ou Mainard ou Menard ou Meinard),</name><abbr>Maim ou Mai</abbr><date>1582-1646</date><country>France</country><note>Poete</note></persName>
+                        <persName><name>Le Père Malebranche</name><abbr>Maleb</abbr></persName>
+                        <persName xml:base="https://fr.wikipedia.org/wiki/François_de_Malherbe" xml:id="Malherbe_ISN0000000110606733"><name>François de Malherbe</name></persName>
+                        <persName><name>Marot</name><abbr>Mar</abbr></persName>
+                        <persName><name>Mr. de Maucroix</name><abbr>Mauc</abbr></persName>
+                        <persName><name>Mr. l'Evëque de Meaux</name><abbr>M de M</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Gilles_Ménage_(grammairien)" xml:id="Men_ISN0000000080815971"><name>Mr. Menage</name><abbr>Men</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Eudes_de_Mézeray" xml:id="Mez_ISN0000000122780448" ana="#Acad_Fr_ISN0000000404717682"><name>François Eudes, sieur de Mézeray</name><abbr>Mez</abbr><date>1610-1683</date><country>France</country><note>Écrivain, historien</note></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Molière" xml:id="Mol_ISN0000000123197131"><name>Jean-Baptiste Poquelin, dit Molière</name><abbr>Mol</abbr></persName>
+                        <persName><name>Abbé de Montmort</name><abbr>Ab. de M</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Michel_de_Montaigne" xml:id="Mont_ISN0000000121441268"><name>Michel de Montaigne</name><abbr>MONT</abbr><date>1533-1592</date><country>France</country><note>L'Homme et les sciences humaines en précurseur, histoire, histoire naturelle, mais aussi littérature, philosophie, politique, droit, religion</note></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Pierre_Nicole" xml:id="Nic_ISN0000000122796589" corresp="#Port_Royal"><name>Pierre Nicole</name><abbr>NIC</abbr><date>1625-1695</date><country>France</country><note>théologien, janseniste</note></persName>
-                        <persName xml:base="https://fr.wikipedia.org/wiki/Guillaume-Gabriel_Nivers" xml:id="Nivers_ISN0000000121204270"><name>Guillaume-Gabriel Nivers</name><abbr>Nivers</abbr></persName>
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Pierre-Joseph_d%27Orléans"><name>Le Père d'Orléans</name><abbr>Le P d'Or</abbr><date>1641-1698</date><country>France</country><note>historien français</note></persName>
+                        <persName><name>Ozanam</name><abbr>Oz</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Blaise_Pascal" xml:id="Pascal_ISN0000000121258260"><name>Blaise Pascal</name><abbr>Pasc</abbr></persName>
+                        <persName><name>Pasquier</name><abbr>Pasq</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Olivier_Patru" xml:id="Patru_ISN0000000061399271"><name>Olivier Patru</name><abbr>Pa ou Patru</abbr></persName>
-                  
+                        <persName><name>Mr. Pelisson</name><abbr>Pel</abbr></persName>
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Charles_Perrault" xml:id="Per_ISN0000000121272484"><name>Mr. Perrault, Charles Perrault</name><abbr>Per</abbr><date>1628-1703</date><country>France</country><note>Homme de lettres, Contes</note></persName>
+                        <persName><name>Mr. La Placette</name><abbr>La Pl</abbr></persName>
+                        <persName><name>Quinaut</name><abbr>Quin</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Jean_Racine" xml:id="Racine_ISN0000000123212338"><name>Jean Racine</name></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/René_Rapin" xml:id="Rapin_ISN0000000108610290"><name>René Rapin, Le Père Rapin</name><abbr>Le P R</abbr></persName>
-                        <persName xml:base="https://fr.wikipedia.org/wiki/Jacques_Rohault" xml:id="Roh_ISN0000000115859000"><name>Jacques Rohault</name><abbr>Roh</abbr><date>1618-1672</date><country>France</country><note>Physicien, philosophe, mathématicien</note></persName>
-                        <persName xml:base="https://fr.wikipedia.org/wiki/Mathurin_Régnier" xml:id="Regn_ISN0000000108814744"><name>Mathurin Regnier</name><abbr>Regn</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/François-Séraphin_Régnier-Desmarais" xml:id="Ab_Regn_ISN0000000117402354"><name>François-Séraphin Régnier-Desmarais</name><abbr>Ab. Reg</abbr></persName>
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Mathurin_Régnier" xml:id="Regn_ISN0000000108814744"><name>Mathurin Regnier</name><abbr>Regn</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/François_de_La_Rochefoucauld" xml:id="De_la_Roch_ISN0000000121010804 "><name>Mr. de la Rochefoucaut</name><abbr>De la Roch</abbr></persName>
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Jacques_Rohault" xml:id="Roh_ISN0000000115859000"><name>Jacques Rohault</name><abbr>Roh</abbr><date>1618-1672</date><country>France</country><note>Physicien, philosophe, mathématicien</note></persName>
+                        <persName><name>Ronsard</name><abbr>Ron</abbr></persName>
+                        <persName><name>Mr. de Sacy</name><abbr>Sa</abbr></persName>
+                        <persName><name>Mr. de la Sabliere</name><abbr>La Sabl</abbr></persName>
+                        <persName><name>Salnove</name><abbr>Saln</abbr></persName>
+                        <persName><name>Mr. Sarasin</name><abbr>Sar</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Paul_Scarron" xml:id="Scarron_ISN0000000120990126"><name>Paul Scarron</name><abbr>Scar</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Madeleine_de_Scudéry" xml:id="M_Sc_ISN0000000121214284"></persName>
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Madame_de_Sévigné" xml:id="M_de_S_ISN0000000122780157"><name>Me de Sevigni, Madame de Sévigné</name><abbr>M de S.</abbr><date>1626-1696</date><country>France</country><note>épistolière</note></persName>
+                        <persName><name>Mr. de Saint Didier</name><abbr>S. Di</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Charles_de_Saint-Évremond" xml:id="St_Ev_ISN0000000356744298"><name>Charles de Saint-Évremond</name><abbr>St Ev</abbr></persName>
+                        <persName> <name>St Gelais</name><abbr>S. Ge</abbr></persName>
+                        <persName><name>Mr. de Segrais</name><abbr>Seg</abbr></persName>
+                        <persName><name>L'Abbé Tallement</name><abbr>M.L.T.</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Théophile_de_Viau" xml:id="Theo_ISN0000000121438069"><name>Théophile de Viau, Théophile</name><abbr>Theoph</abbr><date>1590-1626</date><country>France</country><note>Poète, dramaturge</note></persName>
-                        <persName xml:base="https://fr.wikipedia.org/wiki/Abraham_de_Wicquefort" xml:id="Wicqu_ISN0000000118102337"><name>Abraham de Wicquefort</name><abbr>Wiqu ou Wic</abbr></persName>
+                        <persName><name>Mr. de Tillemont</name><abbr>Till</abbr></persName>
+                        <persName><name>Mr. de Tourreil</name><abbr>Tour</abbr></persName>
                         <persName xml:base="https://fr.wikipedia.org/wiki/Abbé_de_Vallemont" xml:id="Vallemont_ISN0000000116456625"></persName>
-                        <persName xml:base="https://fr.wikipedia.org/wiki/Vincent_Voiture" xml:id="Voit_ISN0000000115879407" corresp="#Acad_Fr_ISN0000000404717682"><name>Vincent Voiture</name><abbr>VOIT</abbr><date>1597-1648</date><country>France</country><note>poète et prosateur français</note></persName>
-                 
+                        <persName><name>Mr. Varillas</name><abbr>Var</abbr></persName>
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Claude_Favre_de_Vaugelas" xml:id="Vau_ISN0000000110230502" corresp="#Acad_Fr_ISN0000000404717682"><name>Claude Favre de Vaugelas</name><abbr>Vau</abbr><date>1585-1650</date><country>France</country><note>grammairien savoisien</note></persName>
+                        <persName><name>Mr. de la Mothe le Vayer</name><abbr>Le M. le V.</abbr></persName>
+                        <persName><name>L'Abbé de Vertot</name><abbr>Ab de V.</abbr></persName>
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Marie-Catherine_Desjardins,_dite_de_Villedieu" xml:id="Vill_ISN000000010928276X"><name>Me de Villedieu, Marie-Catherine Desjardins, dite de Villedieu</name><abbr>Vill</abbr><date>1640-1683</date><country>France</country><note>Écrivaine, poétesse, dramaturge et romancière</note></persName>
+                        <persName><name>L'Abbé de Villiers</name><abbr>De Vill</abbr></persName>
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Vincent_Voiture" xml:id="Voit_ISN0000000115879407" corresp="#Acad_Fr_ISN0000000404717682"><name>Vincent Voiture</name><abbr>VOIT</abbr><date>1597-1648</date><country>Savoie</country><note>poète et prosateur français</note></persName>
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Abraham_de_Wicquefort" xml:id="Wicqu_ISN0000000118102337"><name>Abraham de Wicquefort</name><abbr>Wiqu ou Wic</abbr></persName>
+                        
                     </catDesc></category>
                 </taxonomy>
                 
-                <taxonomy n="Non-indexed_Cited_Authors"><category><catDesc>
+                <taxonomy n="Auteurs_non_indexés">
+                    <category><catDesc>
                     <persName xml:base="https://fr.wikipedia.org/wiki/Pierre_Abélard" xml:id="Abelard_ISN000000012102945X"><name>Pierre Abelard</name><date>1079-1142</date></persName>
                     <persName xml:base="https://fr.wikipedia.org/wiki/Héloïse_d%27Argenteuil" xml:id="Heloise_ISN0000000121386094"><name>Héloise d'Argentueil</name><date>1095-1163 or 1164</date></persName>
                     <persName xml:base="https://en.wikipedia.org/wiki/Gerard_Boate" xml:id="Boate_ISN0000000063182535"><name>Gerard Boate, Botius</name><date> 1604-1650</date><abbr></abbr></persName>
                     <persName xml:base="https://es.wikipedia.org/wiki/Sebastián_de_Covarrubias" xml:id="Cov_ISN0000000118626421"><name>Sebastián de Covarrubias</name><date>1539-1613</date><country>Espagne</country><note>lexicographe</note></persName>
                     <persName xml:base="http://siefar.org/dictionnaire/fr/Laurence_Gigault_de_Bellefonds" xml:id="Bell_ISN0000000071076863"><name>Laurence de Bellefonds, fondatrice du prieuré bénédictin de Bellefonds à Rouen.</name><date> (1611-1683)</date><abbr>Bell</abbr></persName>
                     <persName xml:base="https://fr.wikipedia.org/wiki/Charles_du_Fresne,_sieur_du_Cange" xml:id="Du_Cange_ISN0000000121021239"><name>Charles du Fresne, sieur du Cange</name></persName>
-                  
+                    <persName xml:base="https://fr.wikipedia.org/wiki/Jacques-Bénigne_Bossuet" xml:id="Bossuet_ISN0000000120984244"><name>Jacques-Bénigne Bossuet, évêque de Meaux,</name><abbr>M. de M.</abbr></persName>
                     <persName xml:base="https://fr.wikipedia.org/wiki/Robert_Fludd" xml:id="Flud_ISN0000000089224510"></persName>
                     <persName xml:base="https://fr.wikipedia.org/wiki/Antoine_Furetière" xml:id="Furetiere_ISN0000000108580490"><name>Antoine Furetière</name><date>1619-1688</date></persName>
                     <persName xml:base="https://fr.wikipedia.org/wiki/Jean_Daillé" xml:id="Daillé_ISN0000000108711489"><name>Jean Daillé</name><abbr></abbr><date>1594-1670</date><country>France</country><note>Pasteur, théologien protestant</note></persName>
@@ -111,15 +179,13 @@
                     <persName xml:base="https://fr.wikipedia.org/wiki/Bernard_Le_Bouyer_de_Fontenelle" xml:id="Font_ISN0000000107795289"><name>Fontenelle</name><abbr>Font</abbr></persName>
                     <persName xml:base="https://fr.wikipedia.org/wiki/Pierre_Gassendi" xml:id="Gassendi_ISN0000000122778567"><name>Pierre Gassendi</name><abbr>Gassendi</abbr><date>1592-1655</date><country>French</country><note>mathématicien, philosophe, théologien et astronome français</note></persName>
                     <persName xml:base="https://fr.wikipedia.org/wiki/Philippe_Labbe" xml:id="Labbe_ISN0000000109003847"><name>A. P. Phillippe Labbé</name><date>1607-1667</date></persName>
-                  
-                    <persName xml:base="https://fr.wikipedia.org/wiki/Jean_Mabillon" xml:id="Le_P_Mab_ISN0000000121416396"><name>Jean Mabillon</name></persName>
+                    <persName xml:base="https://fr.wikipedia.org/wiki/Guillaume-Gabriel_Nivers" xml:id="Nivers_ISN0000000121204270"><name>Guillaume-Gabriel Nivers</name><abbr>Nivers</abbr></persName>
+                   <persName xml:base="https://fr.wikipedia.org/wiki/Jean_Mabillon" xml:id="Le_P_Mab_ISN0000000121416396"><name>Jean Mabillon</name></persName>
                     <persName xml:base="https://fr.wikipedia.org/wiki/Pierre_de_Marca" xml:id="De_Marca_ISN0000000080821909"><name>Pierre de Marca</name><abbr></abbr><date>1594-1662</date><country>France</country><name>historien</name></persName>
                     <persName xml:base="https://fr.wikipedia.org/wiki/Louis_Maimbourg" xml:id="Maimb_ISN0000000108555682"><name>Louis Maimbourg</name><abbr>MAIMB</abbr><date>1610-1686</date><country>France</country><note>Homme d’Église</note></persName>
                     <persName xml:base="http://data.bnf.fr/12860660/jean_appier_hanzelet/" xml:id="Hanz_ISN000000007835554X"><name>Jean Appier, Hanzelet</name><date>1596-1647</date><country>Lorraine</country><note>Pyrotechnie, imprimeur, graveur</note></persName>
                     <persName xml:base="https://fr.wikipedia.org/wiki/Barthélemy_d%27Herbelot_de_Molainville" xml:id="D_Herb_ISN0000000110219020"><name>Herbelot de Molainville</name><abbr>d'Herb</abbr></persName>
-                    <persName xml:base="https://fr.wikipedia.org/wiki/François_Maynard" xml:id="Main_ISN0000000118740224"><name>François Maynard (ou Mainard ou Menard ou Meinard),</name><abbr>MAIM</abbr><date>1582-1646</date><country>France</country><note>Poete</note></persName>
-                    <persName xml:base="https://fr.wikipedia.org/wiki/François_de_Malherbe" xml:id="Malherbe_ISN0000000110606733"><name>François de Malherbe</name></persName>
-                    <persName xml:base="https://fr.wikipedia.org/wiki/François_Mauriceau" xml:id="Mauriceau_ISN0000000081280032"><name>Francois Moriceau</name><date>1637-1709</date></persName>
+                   <persName xml:base="https://fr.wikipedia.org/wiki/François_Mauriceau" xml:id="Mauriceau_ISN0000000081280032"><name>Francois Moriceau</name><date>1637-1709</date></persName>
                     
                     <persName xml:base="https://en.wikipedia.org/wiki/Matthias_Martinius" xml:id="Martinius_ISN0000000120991823"><name>Matthias Martinius</name><date>1614-1661</date><country>Germany</country></persName>
                     <persName xml:base="https://fr.wikipedia.org/wiki/François_de_Maucroix" xml:id="Maucroix_ISN000000010876728X"><name>François de Maucroix</name><date>1619-1708</date><note>Calviniste, théologian, 
@@ -147,23 +213,43 @@
             </classDecl>
             
             <classDecl>
-                <taxonomy n="Cited_works"><listBibl>
-                    <bibl xml:base="https://fr.wikipedia.org/wiki/Le_Comte_de_Gabalis" corresp="http://catalogue.bnf.fr/ark:/12148/cb37280623n" xml:id="Comte_de_Gabalis"><title>Le Comte de Gabalis ou Entretiens sur les sciences secrètes,</title> <author ana="#Villars_ISN0000000121185233">Abbé de Villars</author><date>1670</date></bibl>
+                <taxonomy n="Ouvrages_indexés"><listBibl>
+                    <bibl xml:id="De_l_Am"><title>Traité de l'Amitié</title></bibl>
+                    <bibl xml:id="Art_de_P"><title>Art de Prêcher</title></bibl>
+                    <bibl xml:base="https://fr.wikipedia.org/wiki/La_Princesse_de_Clèves" xml:id="La_P_de_Cl"><title>La Princesse de Cleves</title><author>Mme de la Fayette</author></bibl>
+                    <bibl xml:id="Disc_d_El"><title>Discours d'Eloquence</title></bibl> 
+                    <bibl xml:id="Div_cur"><title>Diversitez Curieuses</title></bibl>
+                    <bibl xml:id="Gram_rai"><title>Grammaire raisonnée</title></bibl>
+                    <bibl xml:id="Le_Ch_d_H"><title>Lettres du Chevalier d'Her...</title></bibl>
+                    <bibl xml:id="Hist_de_l_Inq"><title>Histoire de l'Inquisition</title></bibl>
+                    <bibl xml:id="L_d_Ab"><title>Lettre d'Abelard</title><author corresp="#Abelard_ISN000000012102945X">Abelard</author></bibl>
+                    <bibl xml:id="Let_P">Lettres Portugaises</bibl>
+                    <bibl xml:id="Log"><title>La logique</title></bibl>
                     <bibl xml:base="https://fr.wikisource.org/wiki/Œuvres_mêlées_de_Saint-Évremond" corresp="Gallica-ark:/12148/bpt6k57754j" xml:id="Oueuvres_melees"><title>Œuvres mêlées de Saint-Évremond</title><author ana="#St_Ev_ISN0000000356744298">St Evremond</author></bibl>
+                    <bibl xml:id="M_de_P"><title>Morale de Mr. Pitet</title></bibl>
+                    <bibl xml:id="P_Com"><title>Pieces Comiques</title></bibl>
                     <bibl corresp="Gallica-ark:/12148/bpt6k7630p" xml:id="ReflexUsgFr"><title>Réflexions sur l'usage présent de la langue françoise ou Remarques nouvelles et critiques touchant la politesse du langage... : suite des Réflexions critiques sur l'usage présent de la langue françoise... / Nicolas Andry de Boisregard </title></bibl>
+                   
+                </listBibl> </taxonomy>
+            </classDecl>
+            
+            <classDecl>
+                <taxonomy n="Ouvrages_cités"><listBibl>
+                    
+                    <bibl xml:base="https://fr.wikipedia.org/wiki/Le_Comte_de_Gabalis" corresp="http://catalogue.bnf.fr/ark:/12148/cb37280623n" xml:id="Comte_de_Gabalis"><title>Le Comte de Gabalis ou Entretiens sur les sciences secrètes,</title> <author ana="#Villars_ISN0000000121185233">Abbé de Villars</author><date>1670</date></bibl>
                     <bibl xml:id="Hist_Nat_Ire"><title corresp="http://www.ucc.ie/celt/published/E650002-001/">Histoire Naturelle d'Irelande (Natural History of Ireland)</title><author ana="#Boate_ISN0000000063182535">Gerard Boate, translation</author></bibl>
                     <bibl xml:id="Glossaire_Grec_Latin"><title>Glossaire Grec-Latin</title><author ana="#Labbe_ISN0000000109003847">A.P. Philippe Labbé</author></bibl>
                     <bibl xml:base="https://fr.wikisource.org/wiki/Lettres_d’Abélard_et_d’Héloïse/Texte_entier" xml:id="Lettres_d_Abelard" ana="#Abelard_ISN000000012102945X #Heloise_ISN0000000121386094"><title>Lettres d'Abelard et de Héloise</title><author>Pierre Abelard</author></bibl>
                     <bibl xml:base="http://catalogue.bnf.fr/ark:/12148/cb35153876f" xml:id="Dictionnaire_Acad_1694"><title>Dictionnaire de l'Académie Française 1694</title><orgName ana="#Acad_Fr_ISN0000000404717682">Académie Française</orgName></bibl>
                     <bibl xml:base="http://catalogue.bnf.fr/ark:/12148/cb31369512t" xml:id="Maximes_ark12148_cb31369512t"><title>Maximes du Droit Canonique</title><author corresp="#Louis_Dubois_avocat">Louis Dubois</author><note corresp="#Simon_ISN0000000015276078">réédite Denis Simon</note></bibl>
                     <bibl xml:base="http://catalogue.bnf.fr/ark:/12148/cb300296625 " xml:id="Log_ark_12148_bpt6k133688c "><title>La Logique , ou l' Art de penser</title><author corresp="#Arn_ISN0000000121371431 #Nic_ISN0000000122796589">Antoine Arnaud &amp; Pierre Nicole </author></bibl>
-                    <bibl xml:id="Disc_d_El"><title>Discours d'Eloquence</title></bibl>
+                    
                     
                 </listBibl></taxonomy>
             </classDecl>
             
             <classDecl>
-                <taxonomy n="Cited_Communities"><listBibl>
+                <taxonomy n="Communautés"><listBibl>
                     <bibl xml:base="https://fr.wikipedia.org/wiki/Académie_française" xml:id="Acad_Fr_ISN0000000404717682"><orgName>Académie Française</orgName><name>Messrs de l'Academie Françoise</name><abbr>Ac. ou Mrs de l'Ac.</abbr></bibl>
                     <bibl xml:base="https://fr.wikipedia.org/wiki/Solitaires_(Port-Royal)" xml:id="Port_Royal"><orgName>Abbaye de Port Royal</orgName><name>Messrs de Port Royal</name><abbr>Port-R.</abbr></bibl>
                     <bibl xml:base="https://fr.wikipedia.org/wiki/Faculté_de_médecine_de_Montpellier" xml:id="Medecine_Montpellier"><orgName>Faculté de Médecine de Montpellier</orgName></bibl>
@@ -172,269 +258,98 @@
                 </taxonomy>
             </classDecl>
             
-            <fsdDecl>
-                
-                <fsDecl type="Citations">
-                    
-                    <fDecl name="Cited_authors">
-                        <vRange>
-                            <vAlt>
-                               
-                                
-                              
-                         
-                                
-                                <symbol value="Mr_de_Benoist" xml:id="Ben"/>
-                                <symbol value="Mr_de_Benserade" xml:id="Bens"/>
-                                <symbol value="Mr_Bernier" xml:id="Bern"/>
-                                <symbol value="Bertaud" xml:id="Bert"/>
-                                <symbol value="Mr_Bizot" xml:id="Bi"/>
-                                <symbol value="Mr_le_Blanc" xml:id="Le_Bl"/>
-                                <symbol value="Mr_Blondel" xml:id="Bl"/>
-                               
-                                <symbol value="Mr_de_Bois-Robert" xml:id="Bois-R"/>
-                                <symbol value="Borelli" xml:id="Bor"/>
-                                <symbol value="Le_Pere_le_Bossu" xml:id="P_le_B"/>
-                              
-                                <symbol value="Le_P_Bourdalouë" xml:id="Bourd"/>
-                            
-                               
-                                <symbol value="Mr_de_Bussi_Rabutin" xml:id="B_Rab"/>
-                               
-                                <symbol value="Mr_Capistron" xml:id="Capi"/>
-                                <symbol value="Cerify_Habert" xml:id="Cer"/>
-                                <symbol value="Mr_de_la_Chapelle" xml:id="Ch"/>
-                                <symbol value="Mr_de_Charleval" xml:id="Charl"/>
-                                <symbol value="Mr_Charpentier" xml:id="Charp"/>
-                                
-                                <symbol value="Mr_le_Clerc" xml:id="Le_Cl"/>
-                                
-                                <symbol value="Mr_Conrard" xml:id="Con"/>
-                             
-                                <symbol value="Mr_Costar" xml:id="Cos"/>
-                                <symbol value="Mr_Courtin" xml:id="Cour"/>
-                                <symbol value="Mr_Dacier" xml:id="Dac"/>
-                                <symbol value="Mr_L'Abbé_Daner" xml:id="Dan"/>
-                                <symbol value="Le_P_Daniel" xml:id="Le_P_Dan"/>
-                                
-                             
-                                <symbol value="Mr_Felibien" xml:id="Fel"/>
-                              
-                                <symbol value="Fevret" xml:id="Fev"/>
-                                
-                                
-                                <symbol value="Le_P_Gail" xml:id="Le_P_Gail"/>
-                                <symbol value="Mr_Gillet" xml:id="Gill"/>
-                                <symbol value="Mr_de_Godeau_Evêque_de_Vence" xml:id="God"/>
-                                <symbol value="Gomberville" xml:id="Gom"/>
-                                <symbol value="Gonbaut" xml:id="Gon"/>
-                                
-                             
-                                <symbol value="Mr_de_la_Guilletiere" xml:id="Guill"/>
-                                
-                                <symbol value="Henriete_Silvie_de_Moliere" xml:id="H_S_de_M"/>
-                               
-                                <symbol value="Mr_Huygens" xml:id="Huy"/>
-                                <symbol value="Mr_Jaquelot" xml:id="Jaq"/>
-                                
-                                <symbol value="Le_Pere_Joubert" xml:id="Le_P_J"/>
-                              
-                                <symbol value="Mr_de_Larrey" xml:id="De_Lar"/>
-                                
-                                <symbol value="Mr_de_Longepierre" xml:id="Long"/>
-                                <symbol value="Loyseau" xml:id="Loy"/>
-                             
-                                <symbol value="Le_Pere_Malebranche" xml:id="Maleb"/>
-                               
-                                <symbol value="Marot" xml:id="Mar"/>
-                                <symbol value="Mr_de_Maucroix" xml:id="Mauc"/>
-                              
-                                
-                            
-                               
-                                <symbol value="Abbé_de_Montmorel" xml:id="Ab_de_M"/>
-                               
-                                <symbol value="Mr_Nicole" xml:id="Nic"/>
-                                <symbol value="Le_Pere_d'Orleans" xml:id="Le_P_d_Or"/>
-                                <symbol value="Ozanam" xml:id="Oz"/>
-                               
-                                <symbol value="Pasquier" xml:id="Pasq"/>
-                              
-                                <symbol value="Mr_Pelisson" xml:id="Pel"/>
-                                <symbol value="Mr_Perrault" xml:id="Per"/>
-                                <symbol value="Mr_la_Placette" xml:id="La_Pl"/>
-                                
-                                <symbol value="Quinaut" xml:id="Quin"/>
-                               
-                            
-                           
-                                <symbol value="Ronsard" xml:id="Ron"/>
-                                <symbol value="Mr_de_Sacy" xml:id="Sa"/>
-                                <symbol value="Mr_de_la_Sabliere" xml:id="La_Sabl"/>
-                                <symbol value="Salnove" xml:id="Saln"/>
-                                <symbol value="Mr_Sarasin" xml:id="Sar"/>
-                           
-                                
-                                <symbol value="Mr_de_Sevigni" xml:id="M_de_S"/>
-                                <symbol value="Mr_de_Saint_Didier" xml:id="S_Di"/>
-                               
-                                <symbol value="St_Gelais" xml:id="S_Ge"/>
-                                <symbol value="Mr_de_Segrais" xml:id="Seg"/>
-                                <symbol value="L'Abbé_Tallement" xml:id="M_L_T"/>
-                             
-                                <symbol value="Mr_de_Tillemont" xml:id="Till"/>
-                                <symbol value="Mr_de_Tourreil" xml:id="Tour"/>
-                               
-                                <symbol value="Mr_Varillas" xml:id="Var"/>
-                           
-                                <symbol value="Mr_de_la_Mothe_le_Vayer" xml:id="Le_M_le_V"/>
-                                <symbol value="L'Abbé_de_Vertot" xml:id="Ab_de_V"/>
-                                <symbol value="Me_de_Villedieu" xml:id="Vill"/>
-                              
-                          
-                              
-                               
-                                <symbol value="Ab_de_S.R" xml:id="Ab_de_S.R"/>
-                           
-                            
-                                <symbol value="Mr_Danet" xml:id="Danet"/>
-                                
-                            </vAlt>
-                        </vRange>
-                    </fDecl>
-                    
-                    
-                    
-                    <fDecl name="Cited_works">
-                        <vRange>
-                            <vAlt>
-                                <symbol value="Traité_de_l'Amitié" xml:id="de_l_Am"/>
-                                <symbol value="Art_de_Prêcher" xml:id="Art_de_P"/>
-                                <symbol xml:base="http://viaf.org/viaf/183440710" value="La_Princesse_de_Cleves" xml:id="La_P_de_Cl_VIAF183440710"/>
-                            
-                                <symbol value="Diversitez_Curieuses" xml:id="Div_cur"/>
-                                <symbol value="Grammaire_raisonnée" xml:id="Gram_rai"/>
-                                <symbol value="Histoire_de_l'Inquisition" xml:id="Hist_de_l_Inq"/>
-                                <symbol value="Lettre_d_Abelard" xml:id="L_d_Ab"/>
-                                <symbol value="Lettres_Portugaises" xml:id="Let_P"/>
-                              
-                             
-                                <symbol value="Morale_de_Mr_Pitet" xml:id="M_de_P"/>
-                                <symbol value="Pieces_Comiques" xml:id="P_Com"/>
-                               
-                                
-                            </vAlt>
-                        </vRange>
-                    </fDecl>
-                    
-                    
-                </fsDecl>
-                
-            </fsdDecl>
+            <classDecl>
+                <taxonomy n="domains"><desc>Domains et métiers designés par des termes</desc>
+               
+                    <gloss><name></name></gloss>
+                    <gloss xml:id="marine"><name>Marine</name></gloss>
+                    <gloss xml:id="blason"><name>blason</name></gloss>
+                    <gloss xml:id="charpenterie"><name>charpenterie</name></gloss>
+                    <gloss xml:id="mythologie"><name>mythologie</name></gloss>
+                    <gloss xml:id="architecture"><name>architecture</name></gloss>
+                    <gloss xml:id="morale"><name>morale</name></gloss>
+                    <gloss xml:id="fauconnerie"><name>fauconnerie</name></gloss>
+                    <gloss xml:id="jardinage"><name>jardinage</name></gloss>
+                    <gloss xml:id="marchand_de_drap"><name>marchand_de_drap</name></gloss>
+                    <gloss xml:id="venerie"><name>venerie</name></gloss>
+                    <gloss xml:id="vernisseur"><name>vernisseur</name></gloss>
+                    <gloss xml:id="maconnerie"><name>maconnerie</name></gloss>
+                    <gloss xml:id="medecine"><name>medecine</name></gloss>
+                    <gloss xml:id="jurisprudence"><name>jurisprudence</name></gloss>
+                    <gloss xml:id="pratique"><name>pratique</name></gloss>
+                    <gloss xml:id="grammaire"><name>grammaire</name></gloss>
+                    <gloss xml:id="peche"><name>peche</name></gloss>
+                    <gloss xml:id="devotion"><name>devotion</name></gloss>
+                    <gloss xml:id="chancellerie"><name>chancellerie</name></gloss>
+                    <gloss xml:id="geometrie"><name>geometrie</name></gloss>
+                    <gloss xml:id="anatomie"><name>anatomie</name></gloss>
+                    <gloss xml:id="menuiserie"><name>menuiserie</name></gloss>
+                    <gloss xml:id="forets"><name>forets</name></gloss>
+                    <gloss xml:id="plombier"><name>plombier</name></gloss>
+                    <gloss xml:id="couture"><name>couture</name></gloss>
+                    <gloss xml:id="banque"><name>banque</name></gloss>
+                    <gloss xml:id="astronomie"><name>astronomie</name></gloss>
+                    <gloss xml:id="philosophie"><name>philosophie</name></gloss>
+                    <gloss xml:id="botanique"><name>botanique</name></gloss>
+                    <gloss xml:id="pharmacie"><name>pharmacie</name></gloss>
+                    <gloss xml:id="patissier"><name>patissier</name></gloss>
+                    <gloss xml:id="relations"><name>relations</name></gloss>
+                    <gloss xml:id="palais"><name>palais</name></gloss>
+                    <gloss xml:id="droit"><name>droit</name></gloss>
+                    <gloss xml:id="taillandier"><name>taillandier</name></gloss>
+                    <gloss xml:id="ouvrage"><name>ouvrage</name></gloss>
+                    <gloss xml:id="poetique"><name>poetique</name></gloss>
+                    <gloss xml:id="astrologie"><name>astrologie</name></gloss>
+                    <gloss xml:id="chymie"><name>chymie</name></gloss>
+                    <gloss xml:id="eclesiastique"><name>eclesiastique</name></gloss>
+                    <gloss xml:id="finance"><name>finance</name></gloss>
+                    <gloss xml:id="physique"><name>physique</name></gloss>
+                    <gloss xml:id="theatre"><name>theatre</name></gloss>
+                    <gloss xml:id="peinture"><name>peinture</name></gloss>
+                    <gloss xml:id="imprimerie"><name>imprimerie</name></gloss>
+                    <gloss xml:id="rhetorique"><name>rhetorique</name></gloss>
+                    <gloss xml:id="tireur_d_or"><name>tireur_d_or</name></gloss>
+                    <gloss xml:id="coutelier"><name>coutelier</name></gloss>
+                    <gloss xml:id="relieur"><name>relieur</name></gloss>
+                    <gloss xml:id="cordier"><name>cordier</name></gloss>
+                    <gloss xml:id="logique"><name>logique</name></gloss>
+                    <gloss xml:id="college"><name>college</name></gloss>
+                    <gloss xml:id="complement"><name>complement</name></gloss> 
+                    <gloss xml:id="agriculture"><name>agriculture</name></gloss>
+                    <gloss xml:id="jardinier"><name>jardinier</name></gloss>
+                    <gloss xml:id="forges"><name>forges</name></gloss>
+                    <gloss xml:id="barbare"><name>barbare</name></gloss>
+                    <gloss xml:id="breviaire"><name>breviaire</name></gloss>
+                    <gloss xml:id="arithmetique"><name>arithmetique</name></gloss>
+                    <gloss xml:id="algebre"><name>algebre</name></gloss>
+                    <gloss xml:id="formier"><name>formier</name></gloss>
+                    <gloss xml:id="cordonnier"><name>cordonnier</name></gloss>
+                    <gloss xml:id="guerre"><name>guerre</name></gloss>
+                    <gloss xml:id="manege"><name>manege</name></gloss>
+                    <gloss xml:id="jouaillier"><name>jouaillier</name></gloss>
+                    <gloss xml:id="oiselier"><name>oiselier</name></gloss>
+                    <gloss xml:id="manufactures"><name>manufactures</name></gloss>
+                    <gloss xml:id="mer"><name>mer</name></gloss>
+                    <gloss xml:id="peintre"><name>peintre</name></gloss>
+                    <gloss xml:id="graveur"><name>graveur</name></gloss>
+                    <gloss xml:id="confiseur"><name>confiseur</name></gloss>
+                    <gloss xml:id="broderie"><name>broderie</name></gloss>
+                    <gloss xml:id="bouquetiere"><name>bouquetiere</name></gloss>
+                    <gloss xml:id="musique"><name>musique</name></gloss>
+                </taxonomy>
+            </classDecl>
             
+            <classDecl>
+                <taxonomy n="named entities"><category><catDesc>
+                    <persName xml:base="https://fr.wikipedia.org/wiki/Jules_César" xml:id="Cesar_ISN0000000382473815"><name>Jules César</name></persName>
+                    <persName xml:base="http://viaf.org/viaf/12358154" xml:id="Ola_ISN0000000122764659"><name>Olaus Magnus</name></persName>
+                    
+                </catDesc></category></taxonomy>
+                
+            </classDecl>
             
-            <fsdDecl>
-                <fsDecl type="terminology">
-                    
-                    <fDecl name="terminological_category">
-                        <vRange>
-                            <vAlt>
-                                <symbol value="marine" xml:id="marine"/>
-                                <symbol value="blason" xml:id="blason"/>
-                                <symbol value="charpenterie" xml:id="charpenterie"/>
-                                <symbol value="mythologie" xml:id="mythologie"/>
-                                <symbol value="architecture" xml:id="architecture"/>
-                                <symbol value="morale" xml:id="morale"/>
-                                <symbol value="fauconnerie" xml:id="fauconnerie"/>
-                                <symbol value="jardinage" xml:id="jardinage"/>
-                                <symbol value="marchand_de_drap" xml:id="marchand_de_drap"/>
-                                <symbol value="venerie" xml:id="venerie"/>
-                                <symbol value="vernisseur" xml:id="vernisseur"/>
-                                <symbol value="maconnerie" xml:id="maconnerie"/>
-                                <symbol value="medecine" xml:id="medecine"/>
-                                <symbol value="jurisprudence" xml:id="jurisprudence"/>
-                                <symbol value="pratique" xml:id="pratique"/>
-                                <symbol value="grammaire" xml:id="grammaire"/>
-                                <symbol value="peche" xml:id="peche"/>
-                                <symbol value="devotion" xml:id="devotion"/>
-                                <symbol value="chancellerie" xml:id="chancellerie"/>
-                                <symbol value="geometrie" xml:id="geometrie"/>
-                                <symbol value="anatomie" xml:id="anatomie"/>
-                                <symbol value="menuiserie" xml:id="menuiserie"/>
-                                <symbol value="forets" xml:id="forets"/>
-                                <symbol value="plombier" xml:id="plombier"/>
-                                <symbol value="couture" xml:id="couture"/>
-                                <symbol value="banque" xml:id="banque"/>
-                                <symbol value="astronomie" xml:id="astronomie"/>
-                                <symbol value="philosophie" xml:id="philosophie"/>
-                                <symbol value="botanique" xml:id="botanique"/>
-                                <symbol value="pharmacie" xml:id="pharmacie"/>
-                                <symbol value="patissier" xml:id="patissier"/>
-                                <symbol value="relations" xml:id="relations"/>
-                                <symbol value="palais" xml:id="palais"/>
-                                <symbol value="droit" xml:id="droit"/>
-                                <symbol value="taillandier" xml:id="taillandier"/>
-                                <symbol value="ouvrage" xml:id="ouvrage"/>
-                                <symbol value="poetique" xml:id="poetique"/>
-                                <symbol value="astrologie" xml:id="astrologie"/>
-                                <symbol value="chymie" xml:id="chymie"/>
-                                <symbol value="eclesiastique" xml:id="eclesiastique"/>
-                                <symbol value="finance" xml:id="finance"/>
-                                <symbol value="physique" xml:id="physique"/>
-                                <symbol value="theatre" xml:id="theatre"/>
-                                <symbol value="peinture" xml:id="peinture"/>
-                                <symbol value="imprimerie" xml:id="imprimerie"/>
-                                <symbol value="rhetorique" xml:id="rhetorique"/>
-                                <symbol value="tireur_d_or" xml:id="tireur_d_or"/>
-                                <symbol value="coutelier" xml:id="coutelier"/>
-                                <symbol value="relieur" xml:id="relieur"/>
-                                <symbol value="cordier" xml:id="cordier"/>
-                                <symbol value="logique" xml:id="logique"/>
-                                <symbol value="college" xml:id="college"/>
-                                <symbol value="complement" xml:id="complement"/>
-                                <symbol value="agriculture" xml:id="agriculture"/>
-                                <symbol value="jardinier" xml:id="jardinier"/>
-                                <symbol value="forges" xml:id="forges"/>
-                                <symbol value="barbare" xml:id="barbare"/>
-                                <symbol value="breviaire" xml:id="breviaire"/>
-                                <symbol value="arithmetique" xml:id="arithmetique"/>
-                                <symbol value="algebre" xml:id="algebre"/>
-                                <symbol value="formier" xml:id="formier"/>
-                                <symbol value="cordonnier" xml:id="cordonnier"/>
-                                <symbol value="guerre" xml:id="guerre"/>
-                                <symbol value="manege" xml:id="manege"/>
-                                <symbol value="jouaillier" xml:id="jouaillier"/>
-                                <symbol value="oiselier" xml:id="oiselier"/>
-                                <symbol value="manufactures" xml:id="manufactures"/>
-                                <symbol value="mer" xml:id="mer"/>
-                                <symbol value="peintre" xml:id="peintre"/>
-                                <symbol value="graveur" xml:id="graveur"/>
-                                <symbol value="confiseur" xml:id="confiseur"/>
-                                <symbol value="broderie" xml:id="broderie"/>
-                                <symbol value="bouquetiere" xml:id="bouquetiere"/>
-                                <symbol value="musique" xml:id="musique"/>
-                                
-                            </vAlt>
-                        </vRange>
-                    </fDecl>
-                    
-                </fsDecl>
-            </fsdDecl>
-            <fsdDecl>
-                <fsDecl type="named_entities">
-                    
-                    <fDecl name="named_persons">
-                        <vRange>
-                            <vAlt>
-                                <symbol xml:base="http://viaf.org/viaf/12358154" value="Olaus_Magnus_" xml:id="Ola_VIAF12358154"/>
-                                <symbol value="Julius_Caeser"/> 
-                                
-                            </vAlt>
-                        </vRange>
-                    </fDecl>
-                    
-                </fsDecl>
-            </fsdDecl>
+          
+            
         </encodingDesc>
     </teiHeader>
     <text>
