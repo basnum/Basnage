@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dico>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Document XML/TEI en encodant des entrées du Dictionnaire universel d’Antoine Furetière</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Meixin YAN</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <title>Dictionnaire universel d’Antoine Furetière, dans la version de 1701 revue, augmentée et corrigée par Basnage de Beauval.</title>
+				<author>Antoine Furetière</author>
+				<pubPlace>La Haye</pubPlace>
+				<note>Lien vers le dictionnaire complet numérisé sur le site Gallica:https://gallica.bnf.fr/ark:/12148/bpt6k56749155</note>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+		<!-- CONTENT -->
+    <text>
+        <body>
+			<div section="ROI">
+				<entry xml:lang="fr" xml:id="roide">
+					<form>
+						<orth>ROIDE</orth>
+					</form>
+					<gramGrp>
+						<pos expand="adjectif">adj.</pos>
+						<gen expand="masculin &amp; féminin">m. &amp; f.</gen>
+					</gramGrp>
+					<sense n="1">
+						<def>Qu'on ne peut ployer.</def>
+						<cit type="exemple">
+							<quote>
+								Cette
+								<lb/>branche eſt trop groſſe, trop <hi>roide</hi>, on ne la peut plus
+								<lb/>ployer pour faire un berceau.
+							</quote>
+						</cit>
+						<cit type="exemple">	
+							<quote>
+								Ce linge eſt <hi>roide</hi> comme 
+								<lb/>un bâton. 
+							</quote>
+						</cit>
+						<etym>Ce mot vient de rigidus.</etym>
+					</sense>
+					<sense n="2">
+						<def>
+							ſe dit auſſi d'un reſſort, d'une corde, qui ſe 
+							<lb/>plient bien avec effort, mais qui ſe remettent en leur 
+							<lb/>état naturel, dés qu'on les lâche.
+						</def>
+						<cit type="exemple">
+							<quote>
+								Le reſſort de cet arc
+								<lb/>eſt trop <hi>roide</hi>, trop difficile à bander.
+							</quote>
+						</cit>
+						<cit type="exemple">
+							<quote>
+								Cette monſtre 
+								<lb/>avance, parce que ſon reſſort eſt trop <hi>roide</hi>.
+							</quote>
+						</cit>
+						<cit type="exemple">
+							<quote>
+								Une corde 
+								<lb/>ſe caſſe, quand on la veut 
+								tendre trop <hi>roide</hi>.
+							</quote>
+						</cit>
+					</sense>
+					<sense n="3">
+						<def>ſe dit auſſi de cette tenſion des choſes qui 
+						<lb/>leur ôe le mouvement.</def>
+						<cit type="exemple">
+							<quote>
+								Cet homme a été tué tout <hi>roide</hi>, a 
+								<lb/>eté jetté <hi>roide</hi> 
+								mort ſur le carreau.
+							</quote>
+						</cit>
+						<cit type="exemple">
+							<quote>
+								Le froid engourdit 
+								<lb/>les membres, les rend tout <hi>roides</hi>.
+							</quote>
+						</cit>
+						<cit type="exemple">
+							<quote>
+								Ce cheval à les jam-
+								<lb/>bes <hi>roides</hi>, il ne ſçauroit plier les jarrets.
+							</quote>
+						</cit>
+					</sense>
+					<sense n="4">
+						<def>ſe dit au contraire de ce qui a un mouvement
+						<lb/>violent &amp; precipité.</def>
+						<cit type="exemple">
+							<quote>
+								Le mouvement d'un boulet de ca-
+								<lb/>non eſt plus <hi>roide</hi> que celuy d'une fleche.
+							</quote>
+						</cit>
+						<cit type="exemple">
+							<quote>
+								Le cours du 
+								<lb/>Rhône eſt plus <hi>roide</hi> que celuy de la Saone.
+							</quote>
+						</cit>
+						<cit type="exemple">
+							<quote>
+								L'aigle eſt 
+								<lb/>l'oiſeau qui a l'aile la plus <hi>roide</hi>, le vol le plus <hi>roide</hi>.
+							</quote>
+						</cit>
+						<cit type="exemple">
+							<quote>
+								Il 
+								<lb/>a reçu un <hi>roide</hi> coup d'une pierre qu'on luy a jettée.
+							</quote>
+						</cit>
+					</sense>
+					<sense n="5">
+						<def>ſe dit auſſi des choſes qui ſont apres, difficiles, 
+						<lb/>qui ont certains defauts qui donnent de la peine, ou 
+						<lb/>qui les rendent deſagreables.</def>
+						<cit type="exemple">
+							<quote>
+								Cet eſcalier eſt trop <hi>roide</hi>, 
+								<lb/>eſt trop droit.
+							</quote>
+						</cit>
+						<cit type="exemple">
+							<quote>
+								Cette montagne eſt trop <hi>roide</hi>, trop aſ-
+								<lb/>pre, trop rude à monter.	
+							</quote>
+						</cit>
+						<cit type="exemple">
+							<quote>
+								Cet homme eſt un glorieux 
+								<lb/>qui ſe tient <hi>roide</hi> &amp; droit, quand on le va ſa-luer, qui 
+								<lb/>ne fait aucune ſoumiſſion.
+							</quote>
+						</cit>
+						<note>
+						On dit auſſi, qu'une ſouppe 
+						<lb/>eſt <hi>roide</hi> de ſel, quand on l'a trop ſa-lée; d'une toile, 
+						<lb/>qu'elle eſt trop <hi>roide</hi>, quand on l'a trop empeſée, ou 
+						<lb/>gommée.
+						</note>
+					</sense>
+					<sense n="6">
+						<def>ſe dit figurément en choſes morales; pour di-
+						<lb/>re, Opiniâtre, inflexible.</def>
+						<cit type="exemple">
+							<quote>
+								Caton est un eſprit <hi>roi-
+								<lb/>de</hi> &amp;farouche qu'on ne pouvoir gaganer ni fleichir.
+							</quote>
+						</cit>
+						<cit type="exemple">
+							<quote>
+								Je ne veux plus acheter à ce Marchand, il eſt trop <hi>roide</hi>, 
+								<lb/>il veut tout vendre à ſon mot.				.
+							</quote>
+						</cit>
+						<cit type="exemple">
+							<quote>
+								C'eſt une bonne qualité à 
+								<lb/>un Capitaine, d'être <hi>roide</hi>, &amp; ſevere.	
+							</quote>
+						</cit>
+					</sense>
+					<sense n="7">
+						<def>ſe dit proverbialement en ces phraſes.</def>
+						<cit type="exemple">
+							<quote>
+								Il l'a fait 
+								<lb/>ſortit de chez luy <hi>roide</hi> comme la barre d'un huis;
+							</quote>
+						</cit>
+						<note>
+							&amp; ſe 
+							<lb/>dit de toutes choses qui ſe font avec promptitude &amp; ex-
+							<lb/>actitude. On dit encore, Auſſi <hi>roide</hi> qu'un matras, 
+							<lb/>qu'un trait d'arbalête.
+						</note>
+					</sense>
+				</entry>
+				<entry xml:lang="fr" xml:id="roidement">
+					<form>
+						<orth>ROIDEMENT</orth>
+					</form>
+					<gramGrp>
+						<pos expand="adverbe">adv.</pos>
+					</gramGrp>
+					<def>D'une maniere roide &amp; violente.</def>
+					<cit type="exemple">
+						<quote>
+							La corde de l'arc pouſſe fort <hi>roidement</hi> la flêche.
+						</quote>
+					</cit>
+				</entry>
+				<entry xml:lang="fr" xml:id="roideur">
+					<form>
+						<orth>ROIDEUR</orth>
+					</form>
+					<gramGrp>
+						<pos expand="substantif">ſ.</pos>
+						<gen expand="féminin">f.</gen>
+					</gramGrp>
+					<sense n="1">
+						<def>Violente tension de quelque choſe.</def>
+						<note>
+							L'homme ne ſe tient debout, que quand <lb/>ſes muſcles &amp; ſes nerfs ſont tendus avec <hi>roideur</hi> par la compreſſion des 
+							<lb/>eſprits. La roideur d'un reſſort eſt un vice dans une mon-
+							<lb/>ſtre. La roideur des jambes eſt un vice dans un cheval.
+						</note>
+						<cit type="exemple">
+							<quote>
+								Les Maréchaux battent ſur l'enclume avec une grande <hi>
+								<lb/>roideur</hi> de bras, &amp; une grande violence. La <hi>roideur</hi> de 
+								<lb/>ſon bras n'eſt pas concevable.
+							</quote>
+						</cit>
+					</sense>
+					<sense n="2">
+						<def>ſe dit auſſi de la violence du mouvement.</def>
+						<note>
+							La <hi>roideur</hi> d'un coup eſt proportionnée à la <hi>roideur</hi> de 
+							<lb/>ſon mouvement.
+						</note>
+						<cit type="exemple">
+							<quote>
+								L'aigle ſe jette sur le gibier avec grande 
+								<lb/><hi>roideur</hi>.
+							</quote>
+						</cit>
+						<cit type="exemple">
+							<quote>
+								Les conquêtes l'Alexandre ſe firent avec gran-
+								<lb/>de <hi>roideur</hi> &amp; impetuosité.
+							</quote>
+						</cit>
+						<cit type="exemple">
+							<quote>
+								Il faudroit courir de grande <hi>roi-
+								<lb/>deur</hi> pour attraper ce Baſque.
+							</quote>
+						</cit>
+						<cit type="exemple">
+							<quote>
+								La <hi>roideur</hi> de cette mon-
+								<lb/>tagne rend ſon ſommet inacceſſible.
+							</quote>
+						</cit>
+					</sense>
+					<sense n="3">
+						<def>ſe dit figurément en Morale.</def>
+						<cit type="exemple">
+							<quote>
+								La <hi>roideur</hi> &amp; 
+								<lb/>inflexibilité de l'esprit d'un Magistrat le rend hors de 
+								<lb/>ſoupçon d'être corrompu.
+							</quote>
+						</cit>
+						<cit type="exemple">
+							<quote>
+								Ceux qui ont l'eſprit mou ne 
+								<lb/>ſont pas capables de gouverner, il faut de la <hi>roideur</hi> &amp; de 
+								<lb/>la fermeté.
+							</quote>
+						</cit>
+					</sense>
+				</entry>
+				<entry xml:lang="fr" xml:id="roidir">
+					<form>
+						<orth>ROIDIR</orth>
+					</form>
+					<gramGrp>
+						<pos expand="verbe">v.</pos>
+						<subc expand="actif">act.</subc>
+						<pos expand="nom">n.</pos>
+					</gramGrp>
+					<sense n="1">
+						<def>Rendre roide.</def>
+						<note>
+							Deſcartes en ſon 
+							<lb/>Traité de l'homme explique comme les eſprits <hi>roidiſ-
+							<lb/>ſent</hi> les muſcles &amp; les nerfs pour cauſer le mouvement.
+						</note>
+						<cit type="exemple">
+							<quote>
+								Le froid engourdit &amp; <hi>roidit</hi> les membres.
+							</quote>
+						</cit>
+						<cit type="exemple">
+							<quote>
+								Une longue 
+								<lb/>corde a de la peine à ſe <hi>roidir</hi>, à être bien tenduë, si 
+								<lb/>on ne s'aide du tour, du capestan.
+							</quote>
+						</cit>
+					</sense>
+					<sense n="2">
+						<def>ſe dit figurément en Morale.</def>
+						<note>
+							Les Martyrs ſe 
+							<lb/>ſont <hi>roidis</hi> contre les Tyrans pour ſoutenir la verité de 
+							<lb/>leur foy.
+						</note>
+						<cit type="exemple">
+							<quote>
+								Il ne faut pas qu'un Marchand se <hi>roidiſſe</hi>, ſe 
+								<lb/>tienne ſi ferme, qu'il ne lâche rien de ſon mot.
+							</quote>
+						</cit>
+						<cit type="exemple">
+							<quote>
+								Ce 
+								<lb/>Generd eſt ſi ſevere, qu'il ſe <hi>roidit</hi> contre les prières : 
+								<lb/>il eſt ſi habile, qu'il ſe <hi>roidit</hi> contre les difficultés, &amp; 
+								<lb/>les furmonte.
+							</quote>
+						</cit>
+					</sense>
+				</entry>
+				<entry xml:lang="fr" xml:id="roidi">
+					<form>
+						<orth>ROIDI</orth>
+						<orth type="variant">IE.</orth>
+					</form>
+					<gramGrp>
+						<pos expand="participe passé">part.paſſ.</pos>
+						<pos expand="adjectif">adj.</pos>
+					</gramGrp>
+				</entry>
+			</div>
+		</body>
+    </text>
+		<!-- FIN -->
+</dico>
