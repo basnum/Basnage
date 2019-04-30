@@ -4879,12 +4879,12 @@
 			<div n="tome_O_Z">
 				<div n="R">
 <entry>
-	<form><orth>Rogue</orth></form>	
+	<form><orth rendition="#sc">Rogue</orth></form>	
 	<def></def>
 	<cit type="citation"><quote><pb/>
 					<cb n="1"/>
 le plus <hi rendition="#i">rogue</hi>.
-	</quote> <bibl><author rendition="#sc">Scar.</author></bibl></cit>
+	</quote> <bibl><author rendition="#sc" ref="#Scarron_ISN0000000120990126">Scar.</author></bibl></cit>
 	<cit type="exemple"><quote>Un Marchand qui est <hi rendition="#i">rogue</hi> de-<lb/>chalande bientôt sa boutique.</quote> <quote>On ne s'attache gueres<lb/>aux femmes <hi rendition="#i">rogues</hi> &amp; fieres, qui ont l'air dedaigneux.</quote></cit><lb/><usg>Il n'a d'usage que dans le stile familier.</usg>
 </entry>
 					
@@ -5016,7 +5016,7 @@ le plus <hi rendition="#i">rogue</hi>.
 								Cette montagne eſt trop <hi rendition="#i">roide</hi>, <lb/>trop âpre, trop rude à monter.	
 							</quote>
 						</cit>
-						<cit type="citation"><quote>C'étoit l'endroit le <lb/>plus <hi rendition="#i">roide</hi> de la montagne.</quote><bibl><author rendition="#sc">Ablan.</author></bibl></cit>
+						<cit type="citation"><quote>C'étoit l'endroit le <lb/>plus <hi rendition="#i">roide</hi> de la montagne.</quote><bibl><author rendition="#sc" ref="#Abl_ISN0000000107866286">Ablan.</author></bibl></cit>
 						<cit type="exemple">
 							<quote>
 								Cet homme eſt un <lb/>glorieux 
@@ -5030,7 +5030,7 @@ le plus <hi rendition="#i">rogue</hi>.
 						<form><orth rendition="#sc">Roide,</orth></form> <def>ſe dit figurément en choſes morales; pour 
 						<lb/>dire, Opiniâtre, inflexible.</def>
 						<cit type="citation">
-							<quote>Le naturel de l'homme <lb/>eſt <hi rendition="#i">roide</hi> et rebelle.</quote> <bibl><author rendition="#sc">M. Esp.</author></bibl> <quote>La veritable vertu eſt <lb/><hi rendition="#i">roide</hi> sans dureté, &amp; inflexible sans opiniâtreté.</quote> <bibl><author rendition="#sc">Id.</author></bibl></cit>
+							<quote>Le naturel de l'homme <lb/>eſt <hi rendition="#i">roide</hi> et rebelle.</quote> <bibl><author rendition="#sc" ref="#Esp_ISN0000000083448089">M. Esp.</author></bibl> <quote>La veritable vertu eſt <lb/><hi rendition="#i">roide</hi> sans dureté, &amp; inflexible sans opiniâtreté.</quote> <bibl><author rendition="#sc" ref="#Esp_ISN0000000083448089">Id.</author></bibl></cit>
 							<lb/><cit type="exemple"><quote>
 								<name>Caton</name> étoit un eſprit <hi rendition="#i">roide</hi> &amp;farouche qu'on ne pou-<lb/>voit gagner, ni flechir.</quote> <quote>L'Ecriture Sainte dit en par-<lb/>lant des Juifs rebelles, que c'étoit une Nation de col <lb/><hi rendition="#i">rebelle</hi>.</quote> <quote>Je ne veux plus acheter à ce Marchand, il eſt <lb/>trop <hi rendition="#i">roide</hi>, il ne rabat rien.</quote> <quote>	C'eſt une bonne qualité à <lb/>un Capitaine, d'être <hi rendition="#i">roide</hi>, &amp; ſevere.</quote></cit></sense>
 					<sense n="7">
@@ -5045,14 +5045,14 @@ le plus <hi rendition="#i">rogue</hi>.
 						<form><orth rendition="#sc">Roideur,</orth></form> <def>ſe dit auſſi de la vigueur; de la force; de <lb/> la viteſſe, de la violence du mouvement.</def> <note>La <hi rendition="#i">roideur</hi> <lb/>d'un coup eſt proportionnée à la <hi rendition="#i">roideur</hi> de ſon mouve-<lb/>ment.</note> <cit type="exemple"><quote>
 L'aigle ſe jette sur le gibier avec grande <hi rendition="#i">roideur</hi>.</quote></cit>
 						<cb n="2"/>
-						<cit type="citation"><quote>Ils lançoient des fleches en haut avec une extrême <hi rendition="#i">roi-<lb/>deur</hi>. </quote><bibl><author rendition="#sc">Ablan.</author></bibl></cit> <cit type="exemple"><quote>Les conquêtes d'<name>Alexandre</name> ſe firent <lb/>avec grande <hi rendition="#i">roideur</hi> &amp; impetuosité.</quote> <quote>Il faudroit courir <lb/>de grande <hi rendition="#i">roideur</hi> pour attraper ce Baſque.</quote></cit>
+						<cit type="citation"><quote>Ils lançoient des fleches en haut avec une extrême <hi rendition="#i">roi-<lb/>deur</hi>. </quote><bibl><author rendition="#sc" ref="#Abl_ISN0000000107866286">Ablan.</author></bibl></cit> <cit type="exemple"><quote>Les conquêtes d'<name>Alexandre</name> ſe firent <lb/>avec grande <hi rendition="#i">roideur</hi> &amp; impetuosité.</quote> <quote>Il faudroit courir <lb/>de grande <hi rendition="#i">roideur</hi> pour attraper ce Baſque.</quote></cit>
 					</sense>
 						<sense n="3"><def>On dit auſſi, La <hi rendition="#i">roideur</hi> d'une montagne ; pour marquer <lb/>qu'elle eſt roide &amp; difficile à monter.</def>
 						</sense>
 <sense n="4">
-						<form><orth rendition="#sc">Roideur,</orth></form> <def>ſe dit figurément en Morale, et ſignifie,<lb/>Inflexibilité; dureté, fermeté.</def> <cit type="exemple"><quote>La <hi rendition="#i">roideur</hi> &amp; in-<lb/>flexibilité de l'esprit d'un Magistrat le met hors de <lb/>ſoupçon d'être corruption.</quote> <quote>Ceux qui ont l'eſprit mou ne <lb/>ſont pas capables de gouverner, il faut de la <hi rendition="#i">roideur</hi>, <lb/>&amp; de la fermeté.</quote></cit> <cit type="exemple"><quote>Cette immobilité, &amp; cette <hi rendition="#i">roideur</hi><lb/>inflexible qui paroît en quelques actions, n'eſt que de <lb/>la dureté.</quote><bibl><author rendition="#sc">Nic.</author></bibl> <quote>Il y a dans les manieres des Sçavans de<lb/>profession une <hi rendition="#i">roideur</hi>, &amp; une dureté, qui les font re-<lb/>douter aux personnes polies.</quote> <bibl><author rendition="#sc">Bell.</author></bibl> <quote>Ne deffendez pas<lb/>vos sentimens avec trop de <hi rendition="#i">roideur</hi>.</quote> <bibl><author rendition="#sc">Id.</author></bibl>
+						<form><orth rendition="#sc">Roideur,</orth></form> <def>ſe dit figurément en Morale, et ſignifie,<lb/>Inflexibilité; dureté, fermeté.</def> <cit type="exemple"><quote>La <hi rendition="#i">roideur</hi> &amp; in-<lb/>flexibilité de l'esprit d'un Magistrat le met hors de <lb/>ſoupçon d'être corruption.</quote> <quote>Ceux qui ont l'eſprit mou ne <lb/>ſont pas capables de gouverner, il faut de la <hi rendition="#i">roideur</hi>, <lb/>&amp; de la fermeté.</quote></cit> <cit type="exemple"><quote>Cette immobilité, &amp; cette <hi rendition="#i">roideur</hi><lb/>inflexible qui paroît en quelques actions, n'eſt que de <lb/>la dureté.</quote><bibl><author rendition="#sc" ref="#Nicot_ISN000000011856542X">Nic.</author></bibl> <quote>Il y a dans les manieres des Sçavans de<lb/>profession une <hi rendition="#i">roideur</hi>, &amp; une dureté, qui les font re-<lb/>douter aux personnes polies.</quote> <bibl><author rendition="#sc" ref="#Bell_ISN0000000121281321">Bell.</author></bibl> <quote>Ne deffendez pas<lb/>vos sentimens avec trop de <hi rendition="#i">roideur</hi>.</quote> <bibl><author rendition="#sc" ref="#Bell_ISN0000000121281321">Id.</author></bibl>
 						<quote><l rendition="#i">Cette grande <hi rendition="#r">roideur</hi> des vertus des vieux âges,</l>
-							<l rendition="#i">Choque trop nôtre ſiecle, &amp; les communs usages.</l> <bibl><author rendition="#sc">Mol.</author></bibl></quote></cit>
+							<l rendition="#i">Choque trop nôtre ſiecle, &amp; les communs usages.</l> <bibl><author rendition="#sc" ref="#Mol_ISN0000000123197131">Mol.</author></bibl></quote></cit>
 					</sense>
 				</entry>
 				<entry xml:lang="fre" xml:id="roidir">
@@ -5061,9 +5061,9 @@ L'aigle ſe jette sur le gibier avec grande <hi rendition="#i">roideur</hi>.</qu
 <note><name>Deſcartes</name> en ſon <lb/><bibl><title>Traité de l'homme</title></bibl> explique comme les eſprits <hi rendition="#i">roidiſ-<lb/>ſent</hi> les muſcles &amp; les nerfs pour cauſer le mouvement.</note>
 						<lb/><cit type="exemple"><quote>Le froid engourdit &amp; <hi rendition="#i">roidit</hi> les membres.</quote> <quote>Une longue<lb/>corde a de la peine à ſe <hi rendition="#i">roidir</hi>, à être bien tenduë, si <lb/>on ne s'aide du tour, du capestan.</quote></cit> <usg>Les Maîtres d'ar-<lb/>mes diſent, <hi rendition="#i">Roidir</hi> bien la jambe</usg>; pour dire, l'éten-<lb/>dre &amp; la tenir droite &amp; ferme.</sense>
 					<sense n="2">
-						<form><orth rendition="#sc">Roidir</orth></form>, <usg>ſe dit figurément en Morale</usg>, <def>&amp; ſignifie,<lb/>Tenir ferme; resister, s'opiniâtrer.</def><cit type="exemple"><quote>Les Martyrs ſe<lb/>ſont <hi rendition="#i">roidis</hi> contre les Tyrans pour ſoutenir la verité de<lb/>leur foi.</quote> <quote>Il ne faut pas qu'un Marchand se <hi rendition="#i">roidiſſe</hi> trop; <lb/>il doit ſçavoir ſe relâcher à-propos.</quote></cit> <cit type="citation"><quote>Se <hi rendition="#i">roidir</hi> contre la<lb/>raison.</quote> <bibl><author rendition="#sc">Mol.</author></bibl> <quote>C'étoit un courage à ſe <hi rendition="#i">roidir</hi> contre les<lb/>difficultez.</quote><bibl><author rendition="#i">Vaug.</author></bibl>  <quote>Il faut tous les jours ſe <hi rendition="#i">roidir</hi> contre <lb/>la coutume pour maintenir la raison.</quote><bibl><author rendition="#sc">Fl.</author></bibl> <quote>Nous devons<lb/>nous <hi rendition="#i">roidir</hi>, et nous élever contre la mauvaiſe fortune<lb/>avec d'autant plus de fierté qu'il eſt aiſé de la mepriſer.</quote><lb/><bibl><author rendition="#sc">Bou.</author></bibl> <quote>L'eſprit humain ſe <hi rendition="#i">roidit</hi> naturellement contre<lb/>la force, &amp; la violence.</quote> <bibl><author rendition="#sc">Cl.</author></bibl>
+						<form><orth rendition="#sc">Roidir</orth></form>, <usg>ſe dit figurément en Morale</usg>, <def>&amp; ſignifie,<lb/>Tenir ferme; resister, s'opiniâtrer.</def><cit type="exemple"><quote>Les Martyrs ſe<lb/>ſont <hi rendition="#i">roidis</hi> contre les Tyrans pour ſoutenir la verité de<lb/>leur foi.</quote> <quote>Il ne faut pas qu'un Marchand se <hi rendition="#i">roidiſſe</hi> trop; <lb/>il doit ſçavoir ſe relâcher à-propos.</quote></cit> <cit type="citation"><quote>Se <hi rendition="#i">roidir</hi> contre la<lb/>raison.</quote> <bibl><author rendition="#sc" ref="#Mol_ISN0000000123197131">Mol.</author></bibl> <quote>C'étoit un courage à ſe <hi rendition="#i">roidir</hi> contre les<lb/>difficultez.</quote><bibl><author rendition="#i" ref="#Vau_ISN0000000110230502">Vaug.</author></bibl>  <quote>Il faut tous les jours ſe <hi rendition="#i">roidir</hi> contre <lb/>la coutume pour maintenir la raison.</quote><bibl><author rendition="#sc" ref="#Flechier_ISN0000000108744010">Fl.</author></bibl> <quote>Nous devons<lb/>nous <hi rendition="#i">roidir</hi>, et nous élever contre la mauvaiſe fortune<lb/>avec d'autant plus de fierté qu'il eſt aiſé de la mepriſer.</quote><lb/><bibl><author rendition="#sc" ref="#Bou_ISN0000000121296697">Bou.</author></bibl> <quote>L'eſprit humain ſe <hi rendition="#i">roidit</hi> naturellement contre<lb/>la force, &amp; la violence.</quote> <bibl><author rendition="#sc" ref="#Claude_ISN0000000062993950">Cl.</author></bibl>
 							<quote><l rendition="#i">L'ame doit ſe <hi rendition="#r">roidir</hi>, plus elle eſt menacée,</l>
-								<l rendition="#i">Et contre la Fortune aller tête baiſſée.</l></quote> <bibl><author rendition="#sc">Corn.</author></bibl></cit>
+								<l rendition="#i">Et contre la Fortune aller tête baiſſée.</l></quote> <bibl><author rendition="#sc" ref="#Corn_ISN0000000121296128">Corn.</author></bibl></cit>
 					</sense>
 				</entry>
 				<entry xml:lang="fr" xml:id="roidi">
