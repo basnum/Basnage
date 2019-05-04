@@ -6359,7 +6359,7 @@
 
                         <bibl xml:base="http://gallica.bnf.fr/ark:/12148/bpt6k64725347?rk=21459;2"
                             xml:id="Art_de_Precher"><title>Art de Prêcher</title><author
-                                corresp="#DeVill_ISN0000000108846420">Abbé de
+                                ref="#DeVill_ISN0000000108846420">Abbé de
                             Villiers</author></bibl>
                         <bibl xml:base="https://fr.wikipedia.org/wiki/La_Princesse_de_Clèves"
                             xml:id="La_P_de_Cl"><title>La Princesse de Cleves</title>Mme de la
@@ -6745,6 +6745,7 @@
                     <gloss xml:id="theatre"><name>theatre</name></gloss>
                     <gloss xml:id="theologie"><name>théologie</name></gloss>
                     <gloss xml:id="tireur_d_or"><name>tireur_d_or</name></gloss>
+                    <gloss xml:id="tueur_de_cochons"><name>tueur de cochons</name></gloss>
                     <gloss xml:id="venerie"><name>venerie</name></gloss>
                     <gloss xml:id="vernisseur"><name>vernisseur</name></gloss>
                     <gloss xml:id="verrerie"><name>verrerie</name></gloss>
