@@ -5443,7 +5443,7 @@
                         <idno type="URI">http://www.biusante.parisdescartes.fr/patin/
                             <!-- Lettres en ligne --></idno>
                     </person>
-
+                    
                     <person xml:id="Poisson_ISN0000000139288652">
                         <persName>
                             <forename>Raymond</forename>
@@ -5452,11 +5452,8 @@
                             <addName/>
                             <abbr/>
                         </persName>
-                        <birth when="1630"><placeName/><country corresp="#FRE"
-                            >France</country></birth>
-                        <death when="1690-05-10">mort le 9 ou le 10 mai 1690 à
-                                <placeName>Paris</placeName><country corresp="#FRE"
-                            >France</country></death>
+                        <birth when="1630"><placeName/><country corresp="#FRE">France</country></birth>
+                        <death when="1690-05-10">mort le 9 ou le 10 mai 1690 à <placeName>Paris</placeName><country corresp="#FRE">France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -5466,8 +5463,7 @@
                         <socecStatus/>
                         <note>Acteur, écrivain</note>
                         <event>
-                            <desc xml:base="http://catalogue.bnf.fr/ark:/12148/cb31129230r">Baron de
-                                la Crasse <date>1662</date></desc>
+                            <desc xml:base="http://catalogue.bnf.fr/ark:/12148/cb31129230r">Baron de la Crasse <date>1662</date></desc>
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000139288652</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Belleroche_(acteur)</idno>
@@ -6362,7 +6358,7 @@
 
                         <bibl xml:base="http://gallica.bnf.fr/ark:/12148/bpt6k64725347?rk=21459;2"
                             xml:id="Art_de_Precher"><title>Art de Prêcher</title><author
-                                corresp="#DeVill_ISN0000000108846420">Abbé de
+                                ref="#DeVill_ISN0000000108846420">Abbé de
                             Villiers</author></bibl>
                         <bibl xml:base="https://fr.wikipedia.org/wiki/La_Princesse_de_Clèves"
                             xml:id="La_P_de_Cl"><title>La Princesse de Cleves</title>Mme de la
@@ -6650,6 +6646,7 @@
                     <gloss xml:id="bonnetier"><name>bonnetier</name></gloss>
                     <gloss xml:id="botanique"><name>botanique</name></gloss>
                     <gloss xml:id="bouquetiere"><name>bouquetiere</name></gloss>
+                    <gloss xml:id="bourrelier"><name>bourrelier</name></gloss>
                     <gloss xml:id="breviaire"><name>breviaire</name></gloss>
                     <gloss xml:id="broderie"><name>broderie</name></gloss>
                     <gloss xml:id="cartier"><name>cartier</name></gloss>
@@ -6700,6 +6697,7 @@
                     <gloss xml:id="jardinage"><name>jardinage</name></gloss>
                     <gloss xml:id="jardinier"><name>jardinier</name></gloss>
                     <gloss xml:id="jeu_des_cartes"><name>jeu des cartes</name></gloss>
+                    <gloss xml:id="jeu_d_echecs"><name>jeu d'échecs</name></gloss>
                     <gloss xml:id="jouaillier"><name>jouaillier</name></gloss>
                     <gloss xml:id="jurisprudence"><name>jurisprudence</name></gloss>
                     <gloss xml:id="laboureur"><name>laboureur</name></gloss>
@@ -6747,22 +6745,22 @@
                     <gloss xml:id="theatre"><name>theatre</name></gloss>
                     <gloss xml:id="theologie"><name>théologie</name></gloss>
                     <gloss xml:id="tireur_d_or"><name>tireur_d_or</name></gloss>
+                    <gloss xml:id="tueur_de_cochons"><name>tueur de cochons</name></gloss>
                     <gloss xml:id="venerie"><name>venerie</name></gloss>
                     <gloss xml:id="vernisseur"><name>vernisseur</name></gloss>
                     <gloss xml:id="verrerie"><name>verrerie</name></gloss>
 
                 </taxonomy>
             </classDecl>
-
-            <classDecl>
-                <taxonomy>
-                    <desc>Registre</desc>
-                    <gloss xml:id="bas"><name>bas</name></gloss>
-                    <gloss xml:id="burlesque"><name>burlesque</name></gloss>
-                    <gloss xml:id="populaire"><name>populaire</name></gloss>
-                </taxonomy>
-            </classDecl>
-
+           
+           <classDecl>
+               <taxonomy><desc>Registre</desc>
+               <gloss xml:id="bas"><name>bas</name></gloss>
+                   <gloss xml:id="burlesque"><name>burlesque</name></gloss>
+                   <gloss xml:id="populaire"><name>populaire</name></gloss>
+               </taxonomy>
+           </classDecl>
+            
             <classDecl n="country">
                 <taxonomy>
                     <desc>Country codes for countries that have changed name or geographic
@@ -16844,6 +16842,7 @@
                     </entry>
                 </div>
                 <div type="VED">
+                    <pb n="1006"/>
                     <entry xml:id="Vedasse">
                         <form><orth rendition="#uc">vedasse</orth><gramGrp><pos expand="Substantif"
                             >s</pos><gen>f</gen></gramGrp></form>
@@ -16971,10 +16970,10 @@
                                     obligea les vaisseaux à relacher, à se mettre à couvert. </quote></cit>
                             <cit type="exemple">
                                 <quote> La <hi
-                                    rendition="#i">vehemence</hi> de cet ouragan a déraciné beaucoup
+                                    rendition="#i">vehe<cb/>mence</hi> de cet ouragan a déraciné beaucoup
                                     d'arbres dans la forêt.</quote>
                             </cit></sense>
-                        <sense n="2"><def>se dit figurément des choses morales</def>
+                        <sense n="2"><form><orth rendition="#sc">vehemence</orth></form> <def>se dit figurément des choses morales</def>
                             <cit type="exemple">
                                 <quote>La <hi rendition="#i">vehemence</hi> des désirs, des passions, fait
                                     succomber aux tentations les plus fermes. </quote></cit>
@@ -17030,7 +17029,7 @@
                                 </quote>
                             </cit>
                         </sense>
-                        <sense n="2"><def>se dit figurément en choses morales, &amp; des passions.</def>
+                        <sense n="2"><form><orth rendition="#sc">vehement</orth></form><def>se dit figurément en choses morales, &amp; des passions.</def>
                             <cit type="exemple">
                                 <quote>Son amour est fort <hi rendition="#i">vehement</hi>; sa douleur est
                                     fort <hi rendition="#i">vehemente</hi>. cet Avocat est un Orateur peu <hi
@@ -17063,7 +17062,7 @@
                 </div>
                 <div type="VEI">
                <entry xml:id="Veillant">
-                  <form><orth rendition="#uc" expand="full">veillant</orth><orth rendition="#uc"
+                  <form><orth rendition="#uc" expand="full">veillant</orth><orth rendition="#sc"
                         expand="part">ante</orth><gramGrp><pos expand="Adjectif"
                      >adj</pos></gramGrp></form>
                   <sense n="1"><def>Qui est éveillé, qui ne sort point.</def>
@@ -17089,7 +17088,7 @@
                               <hi rendition="#i">veilles</hi>.</quote>
                      </cit>
                   </sense>
-                  <sense n="2"><def><hi rendition="#uc">Veilles</hi>, au plurier, se dit pour la grande
+                  <sense n="2"><form><orth rendition="#sc">veilles</orth></form><pc>, </pc><def> au plurier, se dit pour la grande
                         application qu'on donne à l'étude, aux affaire &amp;c.</def>
                      <cit type="citation">
                         <quote>Le bonheur de l'Etat est le fruit des veilles du Prince.<bibl><author
@@ -17108,7 +17107,7 @@
                               >Boil.</author></bibl></quote>
                      </cit>
                   </sense>
-                  <sense n="3"><def>suivant les Anciens, etait une partie de la nuit. Elle était
+                   <sense n="3"><form><orth rendition="#sc">veille</orth></form> <pc>,</pc><def> suivant les Anciens, etait une partie de la nuit. Elle était
                         divisée en quatre <hi rendition="#i">veilles</hi>. Chaque <hi rendition="#i"
                            >veille</hi> comprenait trois heures.</def>
                      <cit type="citation">
@@ -17120,7 +17119,7 @@
                         chandelle qui peut durer toute la nuit.</gloss></note>
                   </sense>
                   <pb n="1007"/>
-                  <sense n="4"><def>est aussi le jour qui précede celui dont on parle.</def><note>La
+                   <sense n="4"><form><orth rendition="#sc">veille</orth></form><def>est aussi le jour qui précede celui dont on parle.</def><note>La
                            <hi rendition="#i">veille</hi>d'une Fête, est le jour d'auparavant.
                         Autrefois on passait la nuit en oraison pour se préparer à la célébration de
                         la Fête. L'Office des Fêtes doubles commence des la <hi rendition="#i"
