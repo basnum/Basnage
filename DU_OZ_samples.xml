@@ -16843,6 +16843,547 @@
                         </sense>
                     </entry>
                 </div>
+                <div type="VED">
+                    <entry xml:id="Vedasse">
+                        <form><orth rendition="#uc">vedasse</orth><gramGrp><pos expand="Substantif"
+                            >s</pos><gen>f</gen></gramGrp></form>
+                        <sense n="1"><def>Espece de cendre gravelée qui est propre pour la teinture, &amp;
+                            qu'on nous apporte de Pologne, de Dantzic, de Moscovie.</def><note>On
+                                l'appelle autrement potasse.</note></sense>
+                    </entry>
+                    <entry xml:id="Vedette">
+                        <form><orth rendition="#uc">vedette</orth><gramGrp><pos expand="Substantif"
+                            >s</pos><gen>f</gen></gramGrp></form>
+                        <sense>n=1<def>Sentinelle à cheval.</def><note>On met des <hi rendition="#i"
+                            >vedettes</hi> avancées pour découvrir les ennemis. Tous les corps de
+                            garde de cavalerie ont des <hi rendition="#i">vedettes</hi>.</note></sense>
+                    </entry>
+                </div>
+                <div type="VEE">
+                    <entry xml:id="Veeler">
+                        <form><orth rendition="#uc">veeler</orth><gramGrp><pos expand="Verbe"
+                            >v</pos></gramGrp></form>
+                        <xr> Voyez <ref corresp="#Vesler" rendition="#sc">vesler</ref></xr>
+                    </entry>
+                </div>
+                <div type="VEF">
+                    <entry xml:id="Vef">
+                        <form><orth rendition="#uc">vef</orth><gramGrp><pos expand="Substantif"
+                            >s</pos><gen>m</gen></gramGrp></form>
+                        <sense n="1"><note>Quelques gens parlent ainsi: pour dire, <hi rendition="#i"
+                            >vef</hi> mais mal.</note></sense>
+                        <xr> Voyez <ref corresp="#Veuf" rendition="#sc">veuf</ref></xr>
+                    </entry>
+                </div>
+                <div type="VEG">
+                    <entry xml:id="Vegetable">
+                        <form><orth rendition="#uc">vegetable</orth><gramGrp><pos expand="Adjectif"
+                            >adj</pos></gramGrp></form>
+                        <sense n="1"><def>Qui peut croître, qui peut végéter.</def>
+                            <cit type="exemple">
+                                <quote>Cette plante n'a plus rien de <hi rendition="#i"
+                                    >vegetable</hi>.</quote>
+                            </cit></sense>
+                    </entry>
+                    <entry xml:id="Vegetal">
+                        <form><orth rendition="#uc" extent="full">vegetal</orth><orth rendition="#sc"
+                            extent="part">ale</orth><gramGrp><pos expand="Adjectif"
+                                >adject</pos></gramGrp></form>
+                        <sense n="1"><usg type="terme" ana="#philosophie">Terme de Philosophie Chimique.</usg><def> Qui vegete, qui croît, qui
+                            produit.</def><note>Il y a un mixte animal, un <hi rendition="#i"
+                                >vegetal</hi> &amp; un minéral. Le mixte animal est le plus considérable,
+                                &amp; le <hi rendition="#i">vegetal</hi> après. Il y a une faculté naturelle
+                                &amp; <hi rendition="#i">vegetale</hi>.</note></sense>
+                    </entry>
+                    <entry xml:id="Vegetant">
+                        <form><orth rendition="#uc" extent="full">vegetant</orth><orth rendition="#sc"
+                            expand="part">ante</orth><gramGrp><pos expand="Adjectif"
+                                >adj</pos></gramGrp></form>
+                        <sense n="1"><def>Qui prend nourriture ou accroissement du suc de la
+                            terre.</def><note>On attribue aux plantes une ame <hi rendition="#i"
+                                >vegetante</hi>.</note></sense>
+                    </entry>
+                    <entry xml:id="Vegetatif">
+                        <form><orth rendition="#uc" expand="full">vegetatif</orth><orth rendition="#sc"
+                            expand="part">ive</orth><pos expand="Adjectif">adj</pos></form>
+                        <sense n="1"><def>Qui reçoit nourriture ou accroissement.</def><note>C'est presque la
+                            même chose que <hi rendition="#i">vegetant</hi>. L'ame <hi rendition="#i"
+                                >vegetative</hi> est celle qui fait vivre les arbres &amp; les plantes.
+                            Les Philosophes ont connu trois natures d'ames, la <hi rendition="#i"
+                                >vegetative</hi>, la sensitive, &amp; la raisonnable.</note></sense>
+                    </entry>
+                    <entry xml:id="Vegetation">
+                        <form><orth rendition="#uc">vegetation</orth><gramGrp><pos expand="Substantif"
+                            >s</pos><gen>f</gen></gramGrp></form>
+                        <sense n="1"><def>Action par laquelle les arbres &amp; les plantes se nourissent ou
+                            croissent</def><note>On a découvert qu'il se faisoit dans la <hi
+                                rendition="#i">vegetation</hi> une circulation du suc de la terre ou de
+                                l'aliment des plantes, comme une circulation du sang dans les animaux : ce
+                                qui est assez visible dans le tithymale, sur lequel on en a fait
+                                l'observation.</note></sense>
+                    </entry>
+                    <entry xml:id="Vegetaux">
+                        <form><orth rendition="#uc">vegetaux</orth><gramGrp><pos expand="Substantif"
+                            >s</pos><gen>m</gen><subc expand="pl">plurier </subc></gramGrp></form>
+                        <sense n="1"><def>Nom collectif sous lequel sont compristous les arbres,&amp; les
+                            plantes.</def><note>On divise les corps naturels sublunaires en metaux,
+                                mineraux,<hi rendition="#i">vegetaux</hi> &amp; animaux.</note></sense>
+                    </entry>
+                    <entry xml:id="Vegeter">
+                        <form><orth rendition="#uc">vegeter</orth><gramGrp><pos expand="Verbe"
+                            >v</pos></gramGrp></form>
+                        <sense n="1"><def>Prendre nourriture, &amp; accroissement par la
+                            racine. Il ne se dit que des arbres &amp; des plantes. </def>
+                            <etym>     Ce mot
+                                vient du Latin <lang xml:lang="lat" rendition="#i">vegetare</lang>, qui signifie <hi
+                                    rendition="#i">avoir de la force &amp; de la viguer</hi>. </etym>
+                            <note>On a vu à Paris
+                                <hi rendition="#i">vegeter</hi> les metaux, l'or, l'argent, le fer &amp;
+                                le cuivre preparez avec l'eau forte, dans laquelle on a vu s'élever une
+                                espèce d'arbre qui croît à vue d'oeil, &amp; se divise en plusieurs branches
+                                dans toutes la hauteur de l'eau, tant qu'il y a de la matière. On appelle
+                                cette eau, <hi rendition="#i">eau de caillou</hi>, dont le secret a été
+                                donné par <persName>Rhodes Canasses</persName> Chimiste Grec, dont parle le <bibl><title>Journal des Sçavans</title></bibl>
+                                de 1677.</note></sense>
+                    </entry>
+                    <entry xml:id="Vegres">
+                        <form><orth rendition="#uc">vegres</orth>
+                            <lbl>ou</lbl>
+                            <orth rendition="#uc">vaigres</orth><gramGrp><pos expand="Substantif"
+                                >s</pos><gen>fem</gen></gramGrp></form>
+                        <sense n="1"><usg type="terme" ana="#marine">Terme de Marine.</usg><def> Les <hi rendition="i">vegres</hi>sont des planches
+                            qui doublent le vaisseau en dedans.</def><note>On appelle <seg type="terme_variant" rendition="#i"
+                                >vegres édentées</seg> les planches lorsqu'elles sont plus epaisses : on y
+                                fait des entailles pour les joindre aux membres du vaisseau. On appelle <seg type="terme_variant"
+                                    rendition="#i">vegres de pont</seg>, les <hi rendition="#i">vegres</hi>
+                                qui font le tour du vaisseau, sur lequelles sont posez les baux du second
+                                pont. Elles sont au second pont ce que les bauquières sont au
+                                premier.</note></sense>
+                    </entry>
+                </div>
+                <div type="VEH">
+                    <entry xml:id="Vehemence">
+                        <form><orth rendition="#uc">vehemence</orth><gramGrp><pos expand="Substantif"
+                            >subst.</pos><gen>fem.</gen></gramGrp></form>
+                        <sense n="1#"><def>Violence, impetuosité.</def>
+                            <cit type="exemple">
+                                <quote>La <hi rendition="#i">vehemence</hi> des flots, &amp; de l'orage
+                                    obligea les vaisseaux à relacher, à se mettre à couvert. </quote></cit>
+                            <cit type="exemple">
+                                <quote> La <hi
+                                    rendition="#i">vehemence</hi> de cet ouragan a déraciné beaucoup
+                                    d'arbres dans la forêt.</quote>
+                            </cit></sense>
+                        <sense n="2"><def>se dit figurément des choses morales</def>
+                            <cit type="exemple">
+                                <quote>La <hi rendition="#i">vehemence</hi> des désirs, des passions, fait
+                                    succomber aux tentations les plus fermes. </quote></cit>
+                            <cit type="exemple">
+                                <quote>Ce Predicateur a tourné toute
+                                    la <hi rendition="#i">vehemence</hi> de ses declamations contre les
+                                    avares.</quote>
+                            </cit>
+                            <cit type="citation">
+                                <quote>Demosthene à cause de la violence, de la rapidité, &amp; de la <hi
+                                    rendition="#i">vehemence</hi> avec laquelle il ravage, pour ainsi
+                                    dire, &amp; emporte tout, peut être comparé à une tempête, &amp; à une
+                                    foudre.<bibl><author ref="#Boileau_ISN0000000121185604" rendition="#sc"
+                                        >Boi</author></bibl></quote>
+                            </cit>
+                            <cit type="citation">
+                                <quote>On demande à Dieu la pluye &amp; le beau temps pour fertiliser son
+                                    champ avec plus de <hi rendition="#i">vehemence</hi> &amp;
+                                    d'empressement, que la patience &amp; l'humilité.<bibl><author
+                                        ref="#DeVill_ISN0000000108846420" rendition="#sc">De
+                                        vill</author></bibl></quote>
+                            </cit>
+                            <cit type="citation">
+                                <quote>La colère fait le courage des vaillans, &amp; la <hi rendition="#i"
+                                    >vehemence</hi> des Orateurs.<bibl><author
+                                        ref="#Esp_ISN0000000083448089" rendition="#sc">M. Esp</author></bibl></quote>
+                            </cit>
+                            <cit type="citation">
+                                <quote>Il y a bien de la différence entre la <hi rendition="#i"
+                                    >vehemence</hi> de la colère, &amp; celle de l'éloquence. la première
+                                    emporte l'Orateur, le trouble &amp; l'égare. La seconde n'est autre chose
+                                    que la raison fortement exprimée: &amp; cette <hi rendition="#i"
+                                        >vehemence</hi> ne manque jamais de faire impression, &amp; de
+                                    persuader.<bibl><author ref="#Esp_ISN0000000083448089" rendition="#sc"
+                                        >id</author></bibl></quote>
+                            </cit>
+                        </sense>
+                    </entry>
+                    <entry xml:id="Vehement">
+                        <form><orth rendition="#uc" expand="full">vehement</orth><orth rendition="#uc"
+                            expand="part">ente</orth><gramGrp><pos expand="Adjectif"
+                                >adject.</pos></gramGrp></form>
+                        <sense n="1"><def>Violent, impetueux.</def><note>La descente du Saint Esprit est
+                            comparée à un vent <hi rendition="#i">vehement</hi>, dans les Actes Chap.2
+                            V.2. On dit un froid, un chaud <hi rendition="#i">vehement</hi>; <gloss>pour dire,
+                                excessif.</gloss></note>
+                            <cit type="citation">
+                                <quote><lg rendition="#i">
+                                    <l>Le feu qui brûla Gomorre</l>
+                                    <l>Ne fut jamais si vehement</l>
+                                </lg>
+                                    <bibl><author ref="#Voit_ISN0000000115879407" rendition="#sc">Voit</author></bibl>
+                                </quote>
+                            </cit>
+                        </sense>
+                        <sense n="2"><def>se dit figurément en choses morales, &amp; des passions.</def>
+                            <cit type="exemple">
+                                <quote>Son amour est fort <hi rendition="#i">vehement</hi>; sa douleur est
+                                    fort <hi rendition="#i">vehemente</hi>. cet Avocat est un Orateur peu <hi
+                                        rendition="#i">vehement</hi>; il est froid, il n'émeut point les
+                                    passions. Un esprit <hi rendition="#i">vehement</hi>.</quote>
+                            </cit>
+                        </sense>
+                    </entry>
+                    <entry xml:id="Vehicule">
+                        <form><orth rendition="#uc">vehicule</orth><gramGrp><pos expand="Substantif"
+                            >s</pos><gen>masc.</gen></gramGrp></form>
+                        <sense n="1"><usg type="terme" ana="#physique #medecine">Terme de Physique &amp; de Medecine.</usg><def> ce qui sert à conduire, à
+                            pousser, à chasser, à faire passer plus facilement</def>
+                            <cit type="exemple"><quote>L'air est le
+                                <hi rendition="#i">vehicule</hi> de la lumière.</quote></cit> <cit type="exemple"><quote>Le thé sert de véhicule à
+                                    l'eau. </quote></cit><cit type="exemple"><quote>Les purgations servent de <hi rendition="#i">vehicule</hi> aux
+                                        humeurs peccantes pour les porter hors du corps. </quote></cit> <cit type="exemple"><quote>Les veines, les artères
+                                            sont les <hi rendition="#i">vehicules</hi> du sang &amp; des
+                                            esprits.</quote></cit></sense>
+                        <sense n="2"><def>Il s'emploit aussi figurémznt pour ce qui prépare l'esprit à
+                            quelque chose.</def>
+                            <cit type="citation">
+                                <quote>Cela servira de <hi rendition="#i">vehicule</hi> à la proposition que
+                                    vous avez à lui faire.<bibl><author
+                                        corresp="#Acad_Fr_ISN0000000404717682" rendition="#sc"
+                                        >l'acad.</author></bibl></quote>
+                            </cit>
+                        </sense>
+                    </entry>
+                </div>
+                <div type="VEI">
+               <entry xml:id="Veillant">
+                  <form><orth rendition="#uc" expand="full">veillant</orth><orth rendition="#uc"
+                        expand="part">ante</orth><gramGrp><pos expand="Adjectif"
+                     >adj</pos></gramGrp></form>
+                  <sense n="1"><def>Qui est éveillé, qui ne sort point.</def>
+                     <cit type="exemple">
+                        <quote>Le songe du <hi rendition="#i">veillant</hi>.</quote>
+                     </cit>
+                  </sense>
+               </entry>
+               <entry xml:id="Veille">
+                  <form><orth rendition="#uc">veille</orth><gramGrp><pos expand="Substantif"
+                           >s</pos><gen>f</gen></gramGrp></form>
+                  <sense n="1"><def>Privation du sommeil dans le temps qui est destiné à dormir, &amp;
+                        où l'on conserve la libre fonction de tous ses sens.</def><note>La <hi
+                           rendition="#i">veille</hi>consiste en ce que les esprits animaux abondent
+                        dans le cerveau, &amp; qu'il en coule par les nerfs une assez geande
+                        quantité dans les organes des sens pour les tenir tendus, &amp; en état de
+                        recevoir les impressions des objets externes.</note>
+                     <cit type="exemple">
+                        <quote>Les fatigues &amp; les <hi rendition="#i">veilles</hi> altèrent
+                           beaucoup la santé. </quote></cit>
+                     <cit type="exemple"><quote>Les <hi rendition="#i">veilles</hi> sont de mauvais
+                        signes pour un malade. </quote></cit><cit type="exemple"><quote>Les devots se mortifient par des jûnes &amp; des
+                              <hi rendition="#i">veilles</hi>.</quote>
+                     </cit>
+                  </sense>
+                  <sense n="2"><def><hi rendition="#uc">Veilles</hi>, au plurier, se dit pour la grande
+                        application qu'on donne à l'étude, aux affaire &amp;c.</def>
+                     <cit type="citation">
+                        <quote>Le bonheur de l'Etat est le fruit des veilles du Prince.<bibl><author
+                                 corresp="Chapelle_ISN0000000079715914" rendition="#sc">La
+                           Chap</author></bibl></quote>
+                     </cit>
+                     <cit type="citation">
+                        <quote>On appelle poëtiquement les Ouvrages des Sçavans, de doctes, de
+                           sçavantes <hi rendition="#i">veilles</hi>. Nous devons à leurs <hi
+                              rendition="#i">veilles</hi> les plus beaux Ouvrages. <lg
+                              rendition="#i">
+                              <l>Ouï, je sçai qu'entre ceux, qui t'adressent leurs <hi
+                                    rendition="#lc">veilles</hi>,</l>
+                              <l>Parmi les Pelletiers on compte des Corneilles.</l>
+                           </lg><bibl><author ref="#Boileau_ISN0000000121185604" rendition="#sc"
+                              >Boil.</author></bibl></quote>
+                     </cit>
+                  </sense>
+                  <sense n="3"><def>suivant les Anciens, etait une partie de la nuit. Elle était
+                        divisée en quatre <hi rendition="#i">veilles</hi>. Chaque <hi rendition="#i"
+                           >veille</hi> comprenait trois heures.</def>
+                     <cit type="citation">
+                        <quote> Sur la quatrième <hi rendition="i">veille</hi> de la nuit, ils
+                           vinrent attaquer.<bibl><author ref="#Abl_ISN0000000107866286" rendition="#sc"
+                                 >Abl</author></bibl></quote>
+                     </cit>
+                     <note>On appelle <seg type="terme_variant">chandelle de <hi rendition="#i">veille</hi></seg>, <gloss>une longue
+                        chandelle qui peut durer toute la nuit.</gloss></note>
+                  </sense>
+                  <pb n="1007"/>
+                  <sense n="4"><def>est aussi le jour qui précede celui dont on parle.</def><note>La
+                           <hi rendition="#i">veille</hi>d'une Fête, est le jour d'auparavant.
+                        Autrefois on passait la nuit en oraison pour se préparer à la célébration de
+                        la Fête. L'Office des Fêtes doubles commence des la <hi rendition="#i"
+                           >veille</hi>. On fait aussi l'Office de la <hi rendition="#i"
+                        >veille</hi>. Saint Jean, Saint Laurens ont des <hi rendition="#i"
+                           >veilles</hi>, &amp; des octaves. Depuis ce nom a passé aux autres jours
+                        remarquables.</note>
+                     <cit type="exemple">
+                        <quote> La <hi rendition="#i">veille</hi> de l'entrée du Roi. La <hi
+                              rendition="#i">veille</hi> de mon départ.</quote>
+                     </cit>
+                     <etym>Ce mot vient du Latin <hi rendition="i">vigilia</hi>. </etym></sense>
+                    <sense n="5"><usg>On dit aussi, Je
+                        fus à la <hi rendition="#i">veille</hi> de me marier, de prendre une charge;
+                        pour dire, Je suis prêt, je suis tenté de faire des choses. Nous sommes à la
+                           <hi rendition="#i">veille</hi> de voir une grande guerre; pour dire, Nous
+                        sommes en danger d'avoir guerre.</usg>   
+                       
+                     <cit type="citation">
+                        <quote>Une Cour aussi partagée, n'était pas une médiocre agitation à la <hi
+                              rendition="#i">veille</hi> d'un aussi grand évènement, que la mort du
+                                 Roi.<bibl><title ref="#La_P_de_Cl" rendition="#sc">P. de
+                           Cl</title></bibl></quote>
+                     </cit>
+                     <cit type="citation">
+                        <quote>Il était à la<hi rendition="#i">veille</hi> de se voir le plus
+                           triomphant, ou le plus misérable Prince de toute la terre.<bibl><author
+                                 ref="#Vau_ISN0000000110230502" rendition="#sc">Vaug.</author></bibl></quote>
+                     </cit></sense>  
+                  <sense n="6"><usg type="terme" ana="#marine">En termes de Marine on dit, <seg type="collocation">Une <hi rendition="#i">ancre à la
+                        veille</hi></seg><pc>;</pc> <gloss>pour dire, une ancre prête à être mouillée.</gloss></usg></sense>
+                        
+                        <sense n="7">On dit
+                        proverbialement, qu'on s'est fait Possonnier la <hi rendition="#i"
+                           >veille</hi> de Pâques; pour dire, qu'on s'est mis dans un emploi, dans
+                        un trafic, lorsqu'il n'y faisait plus bon, qu'il n'y avait plus rien à
+                        gagner.
+                  </sense>
+               </entry>
+               <entry xml:id="Veillée">
+                  <form><orth rendition="#uc">veillée</orth><gramGrp><pos expand="Substantif"
+                           >s</pos><gen>f</gen></gramGrp></form>
+                  <sense n="1"><def>Temps de la nuit qu'on passe à veiller.</def>
+                     <cit type="exemple">
+                        <quote>On doit à cette garde quatre <hi rendition="#i">veillées</hi> de ce
+                           malade.</quote>
+                     </cit>
+                  </sense>
+                  <sense n="2"><def>se dit aussi des assemblées qu'on fait pour se divertir, ou pour
+                        travailler le soir, ou bien avant dans la nuit.</def>
+                     <cit type="exemple"><quote>Ils sont allez à
+                        la <hi rendition="#i">veillée</hi> en un tel lieu pour jouer, pour danser.</quote></cit>
+                     <cit type="exemple"><quote> Au village, on va à la <hi rendition="#i">veillée</hi> pour filer, tricoter
+                        ou faire autres ouvrages. </quote></cit>
+                     <note>Chez les Artisans, on appelle paté de <hi
+                           rendition="#i">veillée</hi>, un paté que les Maîtres sont obligés de
+                        donner à leurs compagnons le jour de la Saint Rémi, pour les avertir qu'il
+                        faut dorénavant se remettre au travail après souper. Chez les Fourreurs, le
+                        paté de <hi rendition="#i">veillée</hi> se mange dès la veille de la
+                        mi-Août, c'est dès ce jour qu'ils recommancent leur hiver, &amp; à
+                        travailler le soir.</note></sense>
+               </entry>
+               <entry xml:id="Veiller">
+                  <form><orth rendition="#uc">veiller</orth><gramGrp><pos expand="Verbe"
+                        >v</pos></gramGrp></form>
+                  <sense n="1"><def>S'abstenir, s'empêcher de dormir.</def>
+                     <cit type="exemple">
+                        <quote>Le Seigneur dit à ses Apôtres, <hi rendition="#i">Veillez</hi> &amp;
+                           priez, pour ne tomber point en tentation. </quote></cit>
+                     <cit type="exemple"><quote>Il a fallu <hi rendition="#i"
+                              >veiller</hi> ce malade depuis un mois. </quote></cit>
+                     <cit type="exemple"><quote>Les Prêtres <hi rendition="#i"
+                              >veillent</hi> les corps morts jusqu'à ce qu'ils soient mis en
+                           sépulture.</quote>
+                     </cit>
+                  </sense>
+                  <sense n="2"><form><orth rendition="#sc">veiller</orth></form><def>se dit aussi absolument, pour ne point dormir, ne pouvoir
+                        dormir.</def>
+                     <cit type="exemple">
+                        <quote>Soit que je dorme, soit que je <hi rendition="#i"
+                           >veille</hi>.</quote>
+                     </cit>
+                     <note>On dit aussi , quand on est surpris en admiration pour quelque accident
+                        extraordinaire.</note>
+                     <cit type="exemple">
+                        <quote>Je doute si je dors, je doute si je <hi rendition="#i">veille</hi>.
+                           Il a fallu long temps <hi rendition="#i">veiller</hi> pour faire un si
+                           grand Ouvrage.</quote>
+                     </cit>
+                  </sense>
+                  <sense n="3"><form><orth rendition="#sc">veiller</orth></form><def>signifie aussi, Passer la soirée, &amp; bien avant dans la nuit,
+                        pour se réjouir, ou pour travailler.</def>
+                     <cit type="exemple">
+                        <quote>On va ce soir <hi rendition="#i">veiller</hi> chez un tel, on y
+                           jouera, on y dansera. </quote></cit>
+                     <cit type="exemple">
+                        <quote>Les Ouvriers <hi rendition="i">veillent</hi>,
+                           travaillent après souper. </quote></cit>
+                     <cit type="exemple">
+                        <quote>Les servantes filent &amp; vont <hi
+                              rendition="#i">veiller</hi>.</quote>
+                     </cit>
+                  </sense>
+                  <sense n="4"><form><orth rendition="#sc">veiller</orth></form> <def>signifie aussi, Être attentif, prendre soin , prendre garde,
+                        s'appliquer; observer soigneusement; avoir l'oeil sur quelque chose</def>
+                     <cit type="exemple">
+                        <quote>Je dors, &amp; mon coeur <hi rendition="#i">veille</hi>. </quote></cit>
+                     <cit type="exemple">
+                        <quote>Il faut <hi
+                              rendition="#i">veiller</hi> à son salut, &amp; être toujours sur ses
+                           gardes. </quote></cit>
+                     <cit type="exemple">
+                        <quote>Les Courtisans <hi rendition="#i">veillent</hi>, &amp; ont
+                           toujours les yeux ouverts, pour ménager leur fortune.</quote>
+                     </cit>
+                     <cit type="citation">
+                        <quote>Cet homme est fort intelligent; il <hi rendition="#i">veille</hi> en
+                           faisant semblant de dormir.<bibl><author ref="#Oueuvres_melees" rendition="#sc">Oe.
+                                 M.</author></bibl></quote>
+                     </cit>
+                     <cit type="citation">
+                        <quote>La Reine <hi rendition="#i">veillait</hi> sans relâche sur sa
+                                 conscience.<bibl><author ref="M._de_M." rendition="#sc">M. de
+                              M.</author></bibl></quote>
+                     </cit>
+                     <cit type="citation">
+                        <quote>La fonction de la prudence est de <hi rendition="#i">veiller</hi>
+                           sans cesse au dehors, &amp; au dedans de nous.<bibl><title
+                                 ref="#Oueuvres_melees" rendition="#sc">Oe. M.</title></bibl></quote>
+                     </cit>
+                     <cit type="citation">
+                        <quote>Les loix <hi rendition="#i">veillent</hi> continuellement à nôtre
+                           sûreté. <bibl><author ref="#Tourreil_ISN0000000098998550" rendition="#sc"
+                                 >Tour.</author></bibl></quote>
+                     </cit>
+                     <cit type="citation">
+                        <quote>Je <hi rendition="#i">veillerai</hi> sur moi-même en toutes choses,
+                           pour ne pas pêcher par ma langue.<bibl><author ref="#Port-Royal" rendition="#sc"
+                                 >Port-R</author></bibl></quote>
+                     </cit>
+                     <cit type="citation">
+                        <quote><hi rendition="#i">Veiller</hi> sur la conduite d'une
+                                 personne.<bibl><author ref="#Abl_ISN0000000107866286" rendition="#sc"
+                                 >Ablan.</author></bibl></quote>
+                     </cit>
+                     <cit type="citation">
+                        <quote><hi rendition="#i">Veiller</hi> à la conservation de la
+                                 personne.<bibl><author ref="#Cousin_ISN0000000107730362" rendition="#sc"
+                                 >Cousin.</author></bibl></quote>
+                     </cit>
+                  </sense><cb n="2"/>
+                  <sense n="5"> <form><orth rendition="#sc">veiller</orth></form> <def>signifie aussi, Faire la garde.</def>
+                     <cit type="exemple">
+                        <quote>Il faut que les sentinelles <hi rendition="#i">veiller</hi> au corps
+                           de garde. Il y a des Maisons religieuses ou l'on <hi rendition="#i"
+                              >veille</hi> le Saint-sacrement, et ou l'on est devant lui toute la
+                           nuit en prières.</quote>
+                     </cit>
+                  </sense>
+                     <sense n="6"><def>On <hi rendition="#i">veillait</hi> autrefois les armes. C'était une
+                        cérémonie qu'on faisait pour recevoir des Chevaliers. On mettait les armes
+                        dans une Chapelle, &amp; le Chevalier les gardait la nuit avant sa
+                        reception.</def></sense>
+                     <sense n="7"><usg type="terme" ana="#marine">En termes de Marine </usg>on dit, <seg type="collocation"><hi rendition="#i">veiller</hi> le cable,</seg>
+                        c'est y prendre garde. <seg type="collocation"><hi rendition="#i">Veiller</hi> une drisse,</seg> c'est la
+                        tenir à la main, toute prête pour amener le hunier. <seg type="collocation"><hi rendition="#i"
+                           >Veiller</hi> une écoute de hune,</seg> c'est la tenir prête à être larguée.
+                           <seg type="collocation"><hi rendition="#i">Veiller</hi> le coté des mâts, </seg><seg type="collocation"><hi rendition="#i"
+                           >veiller</hi> les huniers &amp;c.</seg></sense>
+                     <sense n="8"><usg>On appelle en Fauconnerie, <seg><hi rendition="#i">veiller</hi> l'oiseau,</seg>
+                        c'est-à-dire l'empêcher de dormir : c'est un moyen qu'on a trouvé pour le
+                        dresser.</usg></sense>
+                  
+                  <sense n="9"><form><orth rendition="#sc">veiller</orth></form><def>signifie aussi, Avoir soin de la conduite d'autrui.</def>
+                     <cit type="exemple">
+                        <quote>Un Pasteur doit <hi rendition="#i">veiller</hi> au salut de son
+                           troupeau. </quote></cit>
+                     <cit type="exemple">
+                        <quote>Un Prince doit <hi rendition="#i">veiller</hi> au bien de son
+                           Etat, de ses sujets. </quote></cit>
+                     <cit type="exemple">
+                        <quote>Un Général doit <hi rendition="#i">veiller</hi> à
+                           tout</quote>
+                     </cit>
+                     <note>On dit aussi qu'il faut <hi rendition="#i">veiller</hi> sur les actions
+                        d'un jeune homme, qu'il le faut <hi rendition="#i">veiller</hi> de près;
+                        pour dire, l'éclairer, l'espionner, prendre garde à ce qu'il fait.</note></sense>
+                     <sense><usg type="terme" ana="#palais">En termes de Palais,  on dit que le Droit favorise ceux qui <hi
+                           rendition="#i">veillent</hi>, qui ont soin de leurs affaires.</usg>
+                        <cit type="exemple">
+                           <quote> Il faut <hi
+                           rendition="#i">veiller</hi> pour empêcher qu'on ne décrète des biens qui
+                        nous sont hypotequez.</quote></cit>
+                        <cit type="exemple">
+                           <quote>Un tuteur est obligé de <hi rendition="#i"
+                           >veiller</hi> à la conservation des biens d'un mineur. </quote></cit>
+                        <note>On dit aussi,
+                        <seg type="idiome">Tandis que le vassal dort, le Seigneur <hi rendition="#i">veille</hi>; &amp;
+                        que le vassal <hi rendition="#i">veille</hi>, quand le Seigneur dort; </seg>pour
+                        dire, que quand le vassal neglige de porter la foi &amp; hommage, le
+                        Seigneur saisit le fief, &amp; fait les fruits siens.</note></sense>
+                     <sense><usg>On dit proverbialement, Jeunesse qui <hi rendition="#i">veille</hi>,
+                        &amp; vieillesse qui dort, c'est signe de mort.</usg></sense>
+                  
+               </entry>
+               <entry xml:id="Veilleur">
+                  <form><orth rendition="#uc">veilleur</orth><gramGrp><pos expand="Substantif"
+                           >s</pos><gen>m</gen></gramGrp></form>
+                  <sense n="1"><def>C'est ainsi qu'on appelle à Paris l'Ecclesiastique qui veille
+                        auprès d'un corps mort.</def>
+                     <cit type="exemple">
+                        <quote>Il faut prendre deux <hi rendition="#i">veilleurs</hi>.</quote>
+                     </cit>
+                  </sense>
+               </entry>
+               <entry xml:id="Veilloir">
+                  <form><orth rendition="#uc">veilloir</orth><gramGrp><pos expand="Substantif"
+                           >s</pos><gen>masc</gen></gramGrp></form>
+                  <sense n="1"><usg type="terme" ana="#bourrelier #cordonnier">Terme de Bourrelier &amp; de Cordonnier.</usg><def> C'est une manière de
+                        petite table, ces sortes d'Artisans mettent la chandelle &amp; les outils
+                        dont ils ont besoin, quand ils veillent.</def>
+                     <cit type="exemple">
+                        <quote>Apportez le <hi rendition="#i">veilloir</hi>. </quote></cit>
+                           <cit type="exemple">
+                              <quote>Mettez la chandelle sur
+                           le <hi rendition="#i">veilloir</hi>.</quote>
+                     </cit>
+                  </sense>
+               </entry>
+               <entry xml:id="Veillote">
+                  <form><orth rendition="#uc">veillote</orth><gramGrp><pos expand="Substantif"
+                           >s</pos><gen>f</gen></gramGrp></form>
+                  <sense n="1"><usg type="terme" ana="#agriculture">Terme d'Agriculture.</usg><def> C'est un petit tas de foin qu'on ramasse avec
+                        la fourche, quand il est fané, &amp; qu'on laisse encore quelques temps sur
+                        le pré, en attendant qu'on en fasse de gros meulons, ou qu'on
+                        l'enlève.</def>
+                     <cit type="exemple"><quote>Il faut douze ou quinze <hi rendition="#i">veillotes</hi> de foin pour en
+                        faire une charretée.</quote></cit>
+                  </sense>
+               </entry>
+               <entry xml:id="Veine">
+                  <form><orth rendition="#uc">veine</orth><gramGrp><pos expand="Substantif"
+                           >s</pos><gen>fem.</gen></gramGrp></form>
+                  <sense n="1"><usg type="terme" ana="#anatomie">Terme d'Anatomie.</usg><def> C'est un nom qu'on donne a des vaisseaux qui
+                        reçoivent de toutes les parties du corps le sang que les artères y ont porté
+                        du coeur, &amp; qui le rapportent au coeur.</def>
+                     <note>Les <hi rendition="#i">veines</hi> sont composées de quatre tuniques. La
+                        première ou l'extérieure est faite de fibres nerveuses. La seconde est un
+                        tissu de vaisseaux fort deliez. La troisième est toute parsemée de petites
+                        glandes. La quatrième est composée de fibres musculeuses &amp; annnulaires.
+                        La grosseur des <hi rendition="#i">veines</hi> est différente; &amp; leur
+                        nombre est fort grand. Elles ont dans leur cavité de petites membranes, ou
+                        valvules, disposées d'espace en espace de telle sorte qu'elles s'ouvrent du
+                        coté du coeur, &amp; se ferment du coté des extremitez. Les <hi
+                           rendition="#i">veines</hi> ne battent point comme les arteres, &amp; ont
+                        leurs membranes beaucoup plus minces. Elles ne battent point à cause que le
+                        sang qu'elles contiennent est moins spiritueux que celui des arteres, &amp;
+                        qu'il passe d'un endroit étroit dans un large, au lieu que dans les arteres
+                        il passe d'un endroit large dans un étroit; d'ailleurs les tuniques des <hi
+                           rendition="#i">veines</hi> sont plus<pb/></note>
+                  </sense>
+               </entry>
+            </div>
             </div>
         </body>
     </text>
