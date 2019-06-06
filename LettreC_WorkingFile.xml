@@ -115,7 +115,7 @@
                             <addName/>
                             <abbr/>
                         </persName>
-                        <birth><placeName/><country/></birth>
+                        <birth when-custom="-320"><placeName/><country/></birth>
                         <death><placeName/><country/></death>
                         <sex/>
                         <nationality/>
@@ -2935,7 +2935,7 @@
                             <forename/>
                             <surname>de Sevigni, </surname>
                             <roleName/>
-                            <addName>Madame de Sévigné</addName>
+                            <addName>Madame de Sévigné, M de S</addName>
                             <abbr>M de S.</abbr></persName>
                         <birth>née le 5 février 1626 à <placeName>Paris</placeName><country
                                 corresp="#FRE">France</country></birth>
@@ -3595,7 +3595,7 @@
                         <note>. Frère de <persName corresp="#BauhinJ_ISN0000000115786382">Jean
                                 Bauhin</persName>, Naturaliste, classification des plantes</note>
                         <event>
-                            <desc>Theatrum BotanicumTheatrum Anatomicum
+                            <desc>Theatrum Botanicum, Theatrum Anatomicum
                                 [http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fbildsuche.digitale-sammlungen.de%2Findex.html%3Fc%3Dviewer%26bandnummer%3Dbsb00080026%26pimage%3D7%26v%3D2p%26nav%3D%26l%3Dde],
                                 Francfort-sur-le-Main, .<date>1605</date></desc>
                         </event>
@@ -4361,6 +4361,31 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000108863431</idno>
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Jean_Duvergier_de_Hauranne</idno>
+                    </person>
+                    
+                    <person xml:id="Fatio_ISN000000002518197X">
+                        <persName>
+                            <forename>Nicholas</forename>
+                            <surname>Fatio de Duillier</surname>
+                            <roleName/>
+                            <addName>Faccio, Facio</addName>
+                            <abbr>Fatio</abbr>
+                        </persName>
+                        <birth when="1664-02-16">Né le 16 Février 1664 à <placeName>Bâle</placeName><country>Suisse</country></birth>
+                        <death><placeName/><country/></death>
+                        <sex/>
+                        <nationality/>
+                        <faith/>
+                        <education/>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/000000002518197X</idno>
+                        <idno type="URI"/>
                     </person>
 
 
@@ -5444,7 +5469,7 @@
                         <idno type="URI">http://www.biusante.parisdescartes.fr/patin/
                             <!-- Lettres en ligne --></idno>
                     </person>
-                    
+
                     <person xml:id="Poisson_ISN0000000139288652">
                         <persName>
                             <forename>Raymond</forename>
@@ -5453,8 +5478,11 @@
                             <addName/>
                             <abbr/>
                         </persName>
-                        <birth when="1630"><placeName/><country corresp="#FRE">France</country></birth>
-                        <death when="1690-05-10">mort le 9 ou le 10 mai 1690 à <placeName>Paris</placeName><country corresp="#FRE">France</country></death>
+                        <birth when="1630"><placeName/><country corresp="#FRE"
+                            >France</country></birth>
+                        <death when="1690-05-10">mort le 9 ou le 10 mai 1690 à
+                                <placeName>Paris</placeName><country corresp="#FRE"
+                            >France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -5464,7 +5492,8 @@
                         <socecStatus/>
                         <note>Acteur, écrivain</note>
                         <event>
-                            <desc xml:base="http://catalogue.bnf.fr/ark:/12148/cb31129230r">Baron de la Crasse <date>1662</date></desc>
+                            <desc xml:base="http://catalogue.bnf.fr/ark:/12148/cb31129230r">Baron de
+                                la Crasse <date>1662</date></desc>
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000139288652</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Belleroche_(acteur)</idno>
@@ -5990,6 +6019,35 @@
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Joseph_Pitton_de_Tournefort</idno>
                     </person>
+
+                    <person xml:id="Varenne_ISN0000000107185739">
+                        <persName>
+                            <forename>François-Pierre</forename>
+                            <surname>de la Varenne</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1618"> Né en 1618 à <placeName>Dijon</placeName><country
+                                corresp="#FRE">France</country></birth>
+                        <death when="1678">Mort en 1678 à <placeName>Dijon</placeName><country
+                                corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note> cuisinier français.</note>
+                        <event>
+                            <desc>Le Cuisinier françois <date>1651</date></desc>
+                            <desc>Le Pâtissier françois, <date>1653.</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000107185739</idno>
+                        <idno type="URI"
+                            >https://fr.wikipedia.org/wiki/François_Pierre_de_La_Varenne</idno>
+                    </person>
                     <person xml:id="Villars_ISN0000000121185233">
                         <persName><name>Abbé de Villars</name><abbr>Ab de Vilars></abbr></persName>
                         <idno type="URI"
@@ -6359,8 +6417,7 @@
 
                         <bibl xml:base="http://gallica.bnf.fr/ark:/12148/bpt6k64725347?rk=21459;2"
                             xml:id="Art_de_Precher"><title>Art de Prêcher</title><author
-                                ref="#DeVill_ISN0000000108846420">Abbé de
-                            Villiers</author></bibl>
+                                ref="#DeVill_ISN0000000108846420">Abbé de Villiers</author></bibl>
                         <bibl xml:base="https://fr.wikipedia.org/wiki/La_Princesse_de_Clèves"
                             xml:id="La_P_de_Cl"><title>La Princesse de Cleves</title>Mme de la
                             Fayette</bibl>
@@ -6421,6 +6478,23 @@
                             xml:id="De_historia_piscium"><title>De historia piscium (History of
                                 Fish) - </title><author ref="#Willughbi_ISN0000000081566452">Francis
                                 Willughbi</author><date when="1686">1686</date></bibl>
+                        <biblStruct type="book" xml:id="Le_Noble1690"
+                            corresp="http://zotero.org/users/1449659/items/AYRHFXTV">
+                            <monogr>
+                                <title level="m">L'allée de la seringue ou Les noyers : poème
+                                    hérosatyrique en quatre chants ([Reprod.]) / [par Eustache
+                                    Lenoble]</title>
+                                <title type="short">L'allée de la seringue ou Les noyers</title>
+                                <author><forename>Eustache (1643-1711) Auteur du
+                                        texte</forename><surname>Le Noble</surname></author>
+                                <imprint>
+                                    <date>1690</date>
+                                    <note type="accessed">2019-05-08T13:41:01Z</note>
+                                    <note type="url"
+                                        >https://gallica.bnf.fr/ark:/12148/bpt6k57627c</note>
+                                </imprint>
+                            </monogr>
+                        </biblStruct>
 
                         <bibl xml:base="https://fr.wikipedia.org/wiki/Le_Comte_de_Gabalis"
                             corresp="http://catalogue.bnf.fr/ark:/12148/cb37280623n"
@@ -6451,6 +6525,7 @@
                                 Canonique</title><author ref="#Louis_Dubois_avocat">Louis
                                 Dubois</author><note corresp="#Simon_ISN0000000015276078">réédite
                                 Denis Simon</note></bibl>
+
                         <biblStruct xml:id="Parfait_Negociant">
                             <monogr>
                                 <title>Le Parfait négociant, ou Instruction générale pour ce qui
@@ -6494,7 +6569,7 @@
                             <monogr>
                                 <title> Nouveau traité pour la culture des fleurs et la culture des
                                     melons </title>
-                                <author/>
+                                <author ref="#Quint_ISN0000000121271967">de la Quintinie</author>
                                 <imprint>
                                     <pubPlace>Amsterdam <address>
                                             <addrLine>dans le Kalverstraat, prés le Dam</addrLine>
@@ -6567,8 +6642,9 @@
                                     <publisher>A Paris, chez Jean Camusat. M.DC.XXXIX</publisher>
                                     <date>1639</date>
                                     <note type="accessed">2018-01-05T17:07:00Z</note>
-                                    <note type="url"
-                                        >http://gallica.bnf.fr/ark:/12148/bpt6k55303536</note>
+                                    <note type="url">http://gallica.bnf.fr/ark:/12148/bpt6k55303536,
+                                        also at
+                                        http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/DESMARETS_VISIONNAIRES.xml</note>
                                 </imprint>
                             </monogr>
                         </biblStruct>
@@ -6668,6 +6744,7 @@
                     <gloss xml:id="coutelier"><name>coutelier</name></gloss>
                     <gloss xml:id="coutume"><name>coutume / coutumes</name></gloss>
                     <gloss xml:id="couture"><name>couture</name></gloss>
+                    <gloss xml:id="cuisinier"><name>cuisinier</name></gloss>
                     <gloss xml:id="degraisseur"><name>degraisseur</name></gloss>
                     <gloss xml:id="devotion"><name>devotion</name></gloss>
                     <gloss xml:id="droit"><name>droit</name></gloss>
@@ -6740,6 +6817,7 @@
                     <gloss xml:id="relations"><name>relations</name></gloss>
                     <gloss xml:id="relieur"><name>relieur</name></gloss>
                     <gloss xml:id="rhetorique"><name>rhetorique</name></gloss>
+                    <gloss xml:id="rotisseur"><name>rotisseur</name></gloss>
                     <gloss xml:id="societe"><name>societe</name></gloss>
                     <gloss xml:id="sorbonne"><name>Sorbonne</name></gloss>
                     <gloss xml:id="taillandier"><name>taillandier</name></gloss>
@@ -6753,15 +6831,17 @@
 
                 </taxonomy>
             </classDecl>
-           
-           <classDecl>
-               <taxonomy><desc>Registre</desc>
-               <gloss xml:id="bas"><name>bas</name></gloss>
-                   <gloss xml:id="burlesque"><name>burlesque</name></gloss>
-                   <gloss xml:id="populaire"><name>populaire</name></gloss>
-               </taxonomy>
-           </classDecl>
-            
+
+            <classDecl>
+                <taxonomy>
+                    <desc>Registre</desc>
+                    <gloss xml:id="bas"><name>bas</name></gloss>
+                    <gloss xml:id="burlesque"><name>burlesque</name></gloss>
+                    <gloss xml:id="populaire"><name>populaire</name></gloss>
+                    <gloss xml:id="vieux"><name>vieux</name></gloss>
+                </taxonomy>
+            </classDecl>
+
             <classDecl n="country">
                 <taxonomy>
                     <desc>Country codes for countries that have changed name or geographic
@@ -20973,7 +21053,7 @@
                                             <l>Ne te pourroit-on point adresser tes Sermons?</l>
                                         </lg></quote>
                                     <bibl><title ref="#Art_de_Precher" rendition="#sc">l'art de
-                                        precher.</title></bibl>
+                                            precher.</title></bibl>
                                 </cit>
                                 <cit type="citation">
                                     <quote>

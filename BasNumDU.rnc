@@ -7,7 +7,7 @@ namespace teix = "http://www.tei-c.org/ns/Examples"
 namespace xi = "http://www.w3.org/2001/XInclude"
 namespace xlink = "http://www.w3.org/1999/xlink"
 
-# Schema generated from ODD source 2019-05-02T13:29:57Z. .
+# Schema generated from ODD source 2019-06-06T10:21:04Z. .
 # TEI Edition: Version 3.5.0. Last updated on
 #	29th January 2019, revision 3c0c64ec4
 # TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.5.0/
@@ -180,41 +180,6 @@ tei_att.written.attribute.hand =
   
   ## points to a handNote element describing the hand considered responsible for the content of the element concerned.
   attribute hand { xsd:anyURI }?
-tei_att.damaged.attributes =
-  tei_att.dimensions.attributes,
-  tei_att.written.attributes,
-  tei_att.damaged.attribute.agent,
-  tei_att.damaged.attribute.degree,
-  tei_att.damaged.attribute.group
-tei_att.damaged.attribute.agent =
-  
-  ## categorizes the cause of the damage, if it can be identified.
-  ## Sample values include: 1] rubbing; 2] mildew; 3] smoke
-  attribute agent {
-    xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
-  }?
-tei_att.damaged.attribute.degree =
-  
-  ## provides a coded representation of the degree of damage, either as a number between 0 (undamaged) and 1 (very extensively damaged), or as one of the codes high, medium, low, or unknown. The damage element with the degree attribute should only be used where the text may be read with some confidence; text supplied from other sources should be tagged as supplied.
-  attribute degree {
-    xsd:double
-    | (
-       ##
-       "high"
-       | 
-         ##
-         "medium"
-       | 
-         ##
-         "low"
-       | 
-         ##
-         "unknown")
-  }?
-tei_att.damaged.attribute.group =
-  
-  ## assigns an arbitrary number to each stretch of damage regarded as forming part of the same physical phenomenon.
-  attribute group { xsd:nonNegativeInteger }?
 tei_att.breaking.attributes = tei_att.breaking.attribute.break
 tei_att.breaking.attribute.break =
   
@@ -588,8 +553,6 @@ tei_att.global.attributes =
   tei_att.global.rendition.attributes,
   tei_att.global.linking.attributes,
   tei_att.global.analytic.attributes,
-  tei_att.global.facs.attributes,
-  tei_att.global.change.attributes,
   tei_att.global.responsibility.attributes,
   tei_att.global.source.attributes,
   tei_att.global.attribute.xmlid,
@@ -628,57 +591,6 @@ tei_att.global.attribute.xmlspace =
     | 
       ## indicates the intent that applications preserve all white space
       "preserve"
-  }?
-tei_att.handFeatures.attributes =
-  tei_att.handFeatures.attribute.scribe,
-  tei_att.handFeatures.attribute.scribeRef,
-  tei_att.handFeatures.attribute.script,
-  tei_att.handFeatures.attribute.scriptRef,
-  tei_att.handFeatures.attribute.medium,
-  tei_att.handFeatures.attribute.scope
-tei_att.handFeatures.attribute.scribe =
-  
-  ## gives a name or other identifier for the scribe believed to be responsible for this hand.
-  attribute scribe { xsd:Name }?
-tei_att.handFeatures.attribute.scribeRef =
-  
-  ## points to a full description of the scribe concerned, typically supplied by a person element elsewhere in the description.
-  attribute scribeRef {
-    list { xsd:anyURI+ }
-  }?
-tei_att.handFeatures.attribute.script =
-  
-  ## characterizes the particular script or writing style used by this hand, for example secretary, copperplate, Chancery, Italian, etc.
-  attribute script {
-    list { xsd:Name+ }
-  }?
-tei_att.handFeatures.attribute.scriptRef =
-  
-  ## points to a full description of the script or writing style used by this hand, typically supplied by a scriptNote element elsewhere in the description.
-  attribute scriptRef {
-    list { xsd:anyURI+ }
-  }?
-tei_att.handFeatures.attribute.medium =
-  
-  ## describes the tint or type of ink, e.g. brown, or other writing medium, e.g. pencil
-  attribute medium {
-    list {
-      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
-    }
-  }?
-tei_att.handFeatures.attribute.scope =
-  
-  ## specifies how widely this hand is used in the manuscript.
-  attribute scope {
-    
-    ## only this hand is used throughout the manuscript
-    "sole"
-    | 
-      ## this hand is used through most of the manuscript
-      "major"
-    | 
-      ## this hand is used occasionally in the manuscript
-      "minor"
   }?
 tei_att.internetMedia.attributes =
   tei_att.internetMedia.attribute.mimeType
@@ -1267,7 +1179,7 @@ tei_model.egLike_sequence = empty
 tei_model.egLike_sequenceOptional = empty
 tei_model.egLike_sequenceOptionalRepeatable = empty
 tei_model.egLike_sequenceRepeatable = notAllowed
-tei_model.graphicLike = tei_graphic | tei_formula
+tei_model.graphicLike = tei_graphic
 tei_model.offsetLike = notAllowed
 tei_model.offsetLike_alternation = notAllowed
 tei_model.offsetLike_sequence = empty
@@ -1275,18 +1187,16 @@ tei_model.offsetLike_sequenceOptional = empty
 tei_model.offsetLike_sequenceOptionalRepeatable = empty
 tei_model.offsetLike_sequenceRepeatable = notAllowed
 tei_model.pPart.msdesc = notAllowed
-tei_model.pPart.editorial =
-  tei_choice | tei_abbr | tei_expan | tei_ex | tei_am | tei_subst
+tei_model.pPart.editorial = tei_choice | tei_abbr | tei_expan
 tei_model.pPart.editorial_alternation =
-  tei_choice | tei_abbr | tei_expan | tei_ex | tei_am | tei_subst
-tei_model.pPart.editorial_sequence =
-  tei_choice, tei_abbr, tei_expan, tei_ex, tei_am, tei_subst
+  tei_choice | tei_abbr | tei_expan
+tei_model.pPart.editorial_sequence = tei_choice, tei_abbr, tei_expan
 tei_model.pPart.editorial_sequenceOptional =
-  tei_choice?, tei_abbr?, tei_expan?, tei_ex?, tei_am?, tei_subst?
+  tei_choice?, tei_abbr?, tei_expan?
 tei_model.pPart.editorial_sequenceOptionalRepeatable =
-  tei_choice*, tei_abbr*, tei_expan*, tei_ex*, tei_am*, tei_subst*
+  tei_choice*, tei_abbr*, tei_expan*
 tei_model.pPart.editorial_sequenceRepeatable =
-  tei_choice+, tei_abbr+, tei_expan+, tei_ex+, tei_am+, tei_subst+
+  tei_choice+, tei_abbr+, tei_expan+
 tei_model.pPart.transcriptional =
   tei_sic
   | tei_corr
@@ -1295,16 +1205,6 @@ tei_model.pPart.transcriptional =
   | tei_add
   | tei_del
   | tei_unclear
-  | tei_damage
-  | tei_handShift
-  | tei_restore
-  | tei_supplied
-  | tei_surplus
-  | tei_secl
-  | tei_mod
-  | tei_redo
-  | tei_retrace
-  | tei_undo
 tei_model.pPart.transcriptional_alternation =
   tei_sic
   | tei_corr
@@ -1313,34 +1213,8 @@ tei_model.pPart.transcriptional_alternation =
   | tei_add
   | tei_del
   | tei_unclear
-  | tei_damage
-  | tei_handShift
-  | tei_restore
-  | tei_supplied
-  | tei_surplus
-  | tei_secl
-  | tei_mod
-  | tei_redo
-  | tei_retrace
-  | tei_undo
 tei_model.pPart.transcriptional_sequence =
-  tei_sic,
-  tei_corr,
-  tei_reg,
-  tei_orig,
-  tei_add,
-  tei_del,
-  tei_unclear,
-  tei_damage,
-  tei_handShift,
-  tei_restore,
-  tei_supplied,
-  tei_surplus,
-  tei_secl,
-  tei_mod,
-  tei_redo,
-  tei_retrace,
-  tei_undo
+  tei_sic, tei_corr, tei_reg, tei_orig, tei_add, tei_del, tei_unclear
 tei_model.pPart.transcriptional_sequenceOptional =
   tei_sic?,
   tei_corr?,
@@ -1348,17 +1222,7 @@ tei_model.pPart.transcriptional_sequenceOptional =
   tei_orig?,
   tei_add?,
   tei_del?,
-  tei_unclear?,
-  tei_damage?,
-  tei_handShift?,
-  tei_restore?,
-  tei_supplied?,
-  tei_surplus?,
-  tei_secl?,
-  tei_mod?,
-  tei_redo?,
-  tei_retrace?,
-  tei_undo?
+  tei_unclear?
 tei_model.pPart.transcriptional_sequenceOptionalRepeatable =
   tei_sic*,
   tei_corr*,
@@ -1366,17 +1230,7 @@ tei_model.pPart.transcriptional_sequenceOptionalRepeatable =
   tei_orig*,
   tei_add*,
   tei_del*,
-  tei_unclear*,
-  tei_damage*,
-  tei_handShift*,
-  tei_restore*,
-  tei_supplied*,
-  tei_surplus*,
-  tei_secl*,
-  tei_mod*,
-  tei_redo*,
-  tei_retrace*,
-  tei_undo*
+  tei_unclear*
 tei_model.pPart.transcriptional_sequenceRepeatable =
   tei_sic+,
   tei_corr+,
@@ -1384,45 +1238,14 @@ tei_model.pPart.transcriptional_sequenceRepeatable =
   tei_orig+,
   tei_add+,
   tei_del+,
-  tei_unclear+,
-  tei_damage+,
-  tei_handShift+,
-  tei_restore+,
-  tei_supplied+,
-  tei_surplus+,
-  tei_secl+,
-  tei_mod+,
-  tei_redo+,
-  tei_retrace+,
-  tei_undo+
+  tei_unclear+
 tei_model.pPart.edit =
   tei_model.pPart.editorial | tei_model.pPart.transcriptional
-tei_model.linePart =
-  tei_model.hiLike
-  | tei_choice
-  | tei_add
-  | tei_del
-  | tei_unclear
-  | tei_w
-  | tei_c
-  | tei_pc
-  | tei_seg
-  | tei_zone
-  | tei_path
-  | tei_damage
-  | tei_handShift
-  | tei_restore
-  | tei_line
-  | tei_mod
-  | tei_redo
-  | tei_retrace
-  | tei_undo
 tei_model.ptrLike = tei_ptr | tei_ref
 tei_model.lPart = notAllowed
-tei_model.global.meta =
-  tei_interp | tei_join | tei_substJoin | tei_listTranspose
+tei_model.global.meta = tei_interp | tei_join
 tei_model.milestoneLike =
-  tei_milestone | tei_gb | tei_pb | tei_lb | tei_cb | tei_fw
+  tei_milestone | tei_gb | tei_pb | tei_lb | tei_cb
 tei_model.gLike = notAllowed
 tei_model.oddDecl = notAllowed
 tei_model.oddDecl_alternation = notAllowed
@@ -1464,7 +1287,6 @@ tei_model.listLike =
   | tei_listPlace
   | tei_listRelation
   | tei_listObject
-  | tei_table
 tei_model.listLike_alternation =
   tei_list
   | tei_listOrg
@@ -1473,7 +1295,6 @@ tei_model.listLike_alternation =
   | tei_listPlace
   | tei_listRelation
   | tei_listObject
-  | tei_table
 tei_model.listLike_sequence =
   tei_list,
   tei_listOrg,
@@ -1481,8 +1302,7 @@ tei_model.listLike_sequence =
   tei_listPerson,
   tei_listPlace,
   tei_listRelation,
-  tei_listObject,
-  tei_table
+  tei_listObject
 tei_model.listLike_sequenceOptional =
   tei_list?,
   tei_listOrg?,
@@ -1490,8 +1310,7 @@ tei_model.listLike_sequenceOptional =
   tei_listPerson?,
   tei_listPlace?,
   tei_listRelation?,
-  tei_listObject?,
-  tei_table?
+  tei_listObject?
 tei_model.listLike_sequenceOptionalRepeatable =
   tei_list*,
   tei_listOrg*,
@@ -1499,8 +1318,7 @@ tei_model.listLike_sequenceOptionalRepeatable =
   tei_listPerson*,
   tei_listPlace*,
   tei_listRelation*,
-  tei_listObject*,
-  tei_table*
+  tei_listObject*
 tei_model.listLike_sequenceRepeatable =
   tei_list+,
   tei_listOrg+,
@@ -1508,8 +1326,7 @@ tei_model.listLike_sequenceRepeatable =
   tei_listPerson+,
   tei_listPlace+,
   tei_listRelation+,
-  tei_listObject+,
-  tei_table+
+  tei_listObject+
 tei_model.noteLike = tei_note
 tei_model.lLike = tei_l
 tei_model.lLike_alternation = tei_l
@@ -1557,8 +1374,7 @@ tei_model.entryPart.top =
   | tei_xr
   | tei_re
 tei_model.eventLike = tei_event | tei_listEvent
-tei_model.global.edit =
-  tei_gap | tei_addSpan | tei_damageSpan | tei_delSpan | tei_space
+tei_model.global.edit = tei_gap
 tei_model.divPart = tei_model.lLike | tei_model.pLike | tei_lg
 tei_model.persStateLike =
   tei_persName
@@ -1660,9 +1476,6 @@ tei_model.choicePart =
   | tei_abbr
   | tei_expan
   | tei_seg
-  | tei_ex
-  | tei_am
-  | tei_supplied
 tei_model.imprintPart =
   tei_publisher | tei_biblScope | tei_pubPlace | tei_distributor
 tei_model.catDescPart = notAllowed
@@ -1735,9 +1548,6 @@ tei_model.global =
   | tei_model.milestoneLike
   | tei_model.noteLike
   | tei_model.global.edit
-  | tei_notatedMusic
-  | tei_figure
-  | tei_metamark
 tei_model.biblPart =
   tei_model.respLike
   | tei_model.imprintPart
@@ -1818,8 +1628,6 @@ tei_model.profileDescPart =
   | tei_langUsage
   | tei_textClass
   | tei_calendarDesc
-  | tei_handNotes
-  | tei_listTranspose
 tei_att.partials.attributes = tei_att.partials.attribute.extent
 tei_att.partials.attribute.extent =
   
@@ -1843,7 +1651,7 @@ tei_att.partials.attribute.extent =
       "part"
     | xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
   }?
-tei_model.resourceLike = tei_text | tei_facsimile | tei_sourceDoc
+tei_model.resourceLike = tei_text
 tei_model.objectLike = tei_object | tei_listObject
 tei_att.personal.attributes =
   tei_att.naming.attributes,
@@ -1922,7 +1730,7 @@ tei_p =
   element p {
     tei_macro.paraContent
     >> sch:pattern [
-         id = "BasNumDU-p-abstractModel-structure-p-constraint-report-5"
+         id = "BasNumDU-p-abstractModel-structure-p-constraint-report-4"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -1943,7 +1751,7 @@ tei_p =
          "         "
        ]
     >> sch:pattern [
-         id = "BasNumDU-p-abstractModel-structure-l-constraint-report-6"
+         id = "BasNumDU-p-abstractModel-structure-l-constraint-report-5"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -2091,7 +1899,7 @@ tei_desc =
     tei_macro.limitedContent
     >> sch:pattern [
          id =
-           "BasNumDU-desc-deprecationInfo-only-in-deprecated-constraint-rule-10"
+           "BasNumDU-desc-deprecationInfo-only-in-deprecated-constraint-rule-9"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -2430,7 +2238,7 @@ tei_ptr =
   element ptr {
     empty
     >> sch:pattern [
-         id = "BasNumDU-ptr-ptrAtts-constraint-report-7"
+         id = "BasNumDU-ptr-ptrAtts-constraint-report-6"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -2464,7 +2272,7 @@ tei_ref =
   element ref {
     tei_macro.paraContent
     >> sch:pattern [
-         id = "BasNumDU-ref-refAtts-constraint-report-8"
+         id = "BasNumDU-ref-refAtts-constraint-report-7"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -2505,7 +2313,7 @@ tei_list =
      (tei_model.divBottom, tei_model.global*)*)
     >> sch:pattern [
          id =
-           "BasNumDU-list-gloss-list-must-have-labels-constraint-rule-11"
+           "BasNumDU-list-gloss-list-must-have-labels-constraint-rule-10"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -2931,7 +2739,7 @@ tei_relatedItem =
     ((tei_model.biblLike | tei_model.ptrLike)?)
     >> sch:pattern [
          id =
-           "BasNumDU-relatedItem-targetorcontent1-constraint-report-9"
+           "BasNumDU-relatedItem-targetorcontent1-constraint-report-8"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -2989,8 +2797,7 @@ tei_l =
       | tei_model.inter
       | tei_model.global)*)
     >> sch:pattern [
-         id =
-           "BasNumDU-l-abstractModel-structure-l-constraint-report-10"
+         id = "BasNumDU-l-abstractModel-structure-l-constraint-report-9"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -3051,7 +2858,7 @@ tei_lg =
        ]
     >> sch:pattern [
          id =
-           "BasNumDU-lg-abstractModel-structure-l-constraint-report-11"
+           "BasNumDU-lg-abstractModel-structure-l-constraint-report-10"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -3410,7 +3217,7 @@ tei_quotation =
     (tei_model.pLike*)
     >> sch:pattern [
          id =
-           "BasNumDU-quotation-quotationContents-constraint-report-12"
+           "BasNumDU-quotation-quotationContents-constraint-report-11"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -3893,7 +3700,7 @@ tei_div =
       (tei_model.divBottom, tei_model.global*)*)?)
     >> sch:pattern [
          id =
-           "BasNumDU-div-abstractModel-structure-l-constraint-report-13"
+           "BasNumDU-div-abstractModel-structure-l-constraint-report-12"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -3914,7 +3721,7 @@ tei_div =
        ]
     >> sch:pattern [
          id =
-           "BasNumDU-div-abstractModel-structure-p-constraint-report-14"
+           "BasNumDU-div-abstractModel-structure-p-constraint-report-13"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -4386,6 +4193,9 @@ tei_gen =
       | 
         ##
         " Feminin"
+      | 
+        ##
+        " Masculin Feminin"
     }?,
     empty
   }
@@ -4464,9 +4274,6 @@ tei_pos =
       | 
         ##
         " Conjonction"
-      | 
-        ##
-        " "
     }?,
     empty
   }
@@ -4500,9 +4307,6 @@ tei_subc =
       | 
         ##
         " pl"
-      | 
-        ##
-        " Reduplicatif"
     }?,
     empty
   }
@@ -5330,7 +5134,7 @@ tei_relation =
          "         "
        ]
     >> sch:pattern [
-         id = "BasNumDU-relation-activemutual-constraint-report-15"
+         id = "BasNumDU-relation-activemutual-constraint-report-14"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -5348,7 +5152,7 @@ tei_relation =
          "         "
        ]
     >> sch:pattern [
-         id = "BasNumDU-relation-activepassive-constraint-report-16"
+         id = "BasNumDU-relation-activepassive-constraint-report-15"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -5530,7 +5334,7 @@ tei_objectIdentifier =
       | tei_address)*)
     >> sch:pattern [
          id =
-           "BasNumDU-objectIdentifier-objectIdentifier_minimal-constraint-report-17"
+           "BasNumDU-objectIdentifier-objectIdentifier_minimal-constraint-report-16"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -5606,7 +5410,7 @@ tei_ab =
     tei_macro.paraContent
     >> sch:pattern [
          id =
-           "BasNumDU-ab-abstractModel-structure-ab-constraint-report-18"
+           "BasNumDU-ab-abstractModel-structure-ab-constraint-report-17"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -5628,7 +5432,7 @@ tei_ab =
        ]
     >> sch:pattern [
          id =
-           "BasNumDU-ab-abstractModel-structure-l-constraint-report-19"
+           "BasNumDU-ab-abstractModel-structure-l-constraint-report-18"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -5660,6 +5464,7 @@ tei_seg =
   element seg {
     tei_macro.paraContent,
     tei_att.global.rendition.attribute.rendition,
+    tei_att.global.analytic.attribute.ana,
     
     ## characterizes the element in some sense, using any convenient classification scheme or typology.
     attribute type {
@@ -5724,800 +5529,6 @@ tei_join =
       | 
         ## the children of the subtrees indicated by the target attribute become the children of the virtual element (i.e. the roots of the subtrees are discarded)
         "branches"
-    }?,
-    empty
-  }
-tei_att.tableDecoration.attributes =
-  tei_att.tableDecoration.attribute.role,
-  tei_att.tableDecoration.attribute.rows,
-  tei_att.tableDecoration.attribute.cols
-tei_att.tableDecoration.attribute.role =
-  
-  ## indicates the kind of information held in this cell or in each cell of this row.
-  ## Suggested values include: 1] label; 2] data
-  [ a:defaultValue = "data" ]
-  attribute role {
-    
-    ## labelling or descriptive information only.
-    "label"
-    | 
-      ## data values.
-      "data"
-    | xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
-  }?
-tei_att.tableDecoration.attribute.rows =
-  
-  ## indicates the number of rows occupied by this cell or row.
-  [ a:defaultValue = "1" ] attribute rows { xsd:nonNegativeInteger }?
-tei_att.tableDecoration.attribute.cols =
-  
-  ## (columns) indicates the number of columns occupied by this cell or row.
-  [ a:defaultValue = "1" ] attribute cols { xsd:nonNegativeInteger }?
-tei_table =
-  
-  ## contains text displayed in tabular form, in rows and columns. [14.1.1. TEI Tables]
-  element table {
-    ((tei_model.headLike | tei_model.global)*,
-     ((tei_row, tei_model.global*)+
-      | (tei_model.graphicLike, tei_model.global*)+),
-     (tei_model.divBottom, tei_model.global*)*),
-    tei_att.global.attributes,
-    tei_att.typed.attributes,
-    
-    ## indicates the number of rows in the table.
-    attribute rows { xsd:nonNegativeInteger }?,
-    
-    ## (columns) indicates the number of columns in each row of the table.
-    attribute cols { xsd:nonNegativeInteger }?,
-    empty
-  }
-tei_row =
-  
-  ## contains one row of a table. [14.1.1. TEI Tables]
-  element row {
-    tei_cell+,
-    tei_att.global.attributes,
-    tei_att.tableDecoration.attributes,
-    empty
-  }
-tei_cell =
-  
-  ## contains one cell of a table. [14.1.1. TEI Tables]
-  element cell {
-    tei_macro.specialPara,
-    tei_att.global.attributes,
-    tei_att.tableDecoration.attributes,
-    empty
-  }
-tei_formula =
-  
-  ## contains a mathematical or other formula. [14.2. Formulæ and Mathematical Expressions]
-  element formula {
-    (text | tei_model.graphicLike | tei_model.hiLike)*,
-    tei_att.global.attributes,
-    tei_att.notated.attributes,
-    empty
-  }
-tei_notatedMusic =
-  
-  ## encodes the presence of music notation in a text [14.3. Notated Music in Written Text]
-  element notatedMusic {
-    (tei_model.labelLike | tei_model.ptrLike | tei_graphic | tei_seg)*,
-    tei_att.global.attributes,
-    tei_att.placement.attributes,
-    tei_att.typed.attributes,
-    empty
-  }
-tei_figure =
-  
-  ## groups elements representing or containing graphic information such as an illustration, formula, or figure. [14.4. Specific Elements for Graphic Images]
-  element figure {
-    (tei_model.headLike
-     | tei_model.common
-     | tei_figDesc
-     | tei_model.graphicLike
-     | tei_model.global
-     | tei_model.divBottom)*,
-    tei_att.global.attributes,
-    tei_att.placement.attributes,
-    tei_att.typed.attributes,
-    tei_att.written.attributes,
-    empty
-  }
-tei_figDesc =
-  
-  ## (description of figure) contains a brief prose description of the appearance or content of a graphic figure, for use when documenting an image without displaying it. [14.4. Specific Elements for Graphic Images]
-  element figDesc {
-    tei_macro.limitedContent, tei_att.global.attributes, empty
-  }
-tei_att.global.facs.attributes = tei_att.global.facs.attribute.facs
-tei_att.global.facs.attribute.facs =
-  
-  ## (facsimile) points to all or part of an image which corresponds with the content of the element.
-  attribute facs {
-    list { xsd:anyURI+ }
-  }?
-tei_att.global.change.attributes =
-  tei_att.global.change.attribute.change
-tei_att.global.change.attribute.change =
-  
-  ## points to one or more change elements documenting a state or revision campaign to which the element bearing this attribute and its children have been assigned by the encoder.
-  attribute change {
-    list { xsd:anyURI+ }
-  }?
-tei_att.coordinated.attributes =
-  tei_att.coordinated.attribute.start,
-  tei_att.coordinated.attribute.ulx,
-  tei_att.coordinated.attribute.uly,
-  tei_att.coordinated.attribute.lrx,
-  tei_att.coordinated.attribute.lry,
-  tei_att.coordinated.attribute.points
-tei_att.coordinated.attribute.start =
-  
-  ## indicates the element within a transcription of the text containing at least the start of the writing represented by this zone or surface.
-  attribute start { xsd:anyURI }?
-tei_att.coordinated.attribute.ulx =
-  
-  ## gives the x coordinate value for the upper left corner of a rectangular space.
-  attribute ulx {
-    xsd:double
-    | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
-    | xsd:decimal
-  }?
-tei_att.coordinated.attribute.uly =
-  
-  ## gives the y coordinate value for the upper left corner of a rectangular space.
-  attribute uly {
-    xsd:double
-    | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
-    | xsd:decimal
-  }?
-tei_att.coordinated.attribute.lrx =
-  
-  ## gives the x coordinate value for the lower right corner of a rectangular space.
-  attribute lrx {
-    xsd:double
-    | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
-    | xsd:decimal
-  }?
-tei_att.coordinated.attribute.lry =
-  
-  ## gives the y coordinate value for the lower right corner of a rectangular space.
-  attribute lry {
-    xsd:double
-    | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
-    | xsd:decimal
-  }?
-tei_att.coordinated.attribute.points =
-  
-  ## identifies a two dimensional area within the bounding box specified by the other attributes by means of a series of pairs of numbers, each of which gives the x,y coordinates of a point on a line enclosing the area.
-  attribute points {
-    list {
-      xsd:token { pattern = "(\-?[0-9]+\.?[0-9]*,\-?[0-9]+\.?[0-9]*)" },
-      xsd:token { pattern = "(\-?[0-9]+\.?[0-9]*,\-?[0-9]+\.?[0-9]*)" },
-      xsd:token { pattern = "(\-?[0-9]+\.?[0-9]*,\-?[0-9]+\.?[0-9]*)" },
-      xsd:token { pattern = "(\-?[0-9]+\.?[0-9]*,\-?[0-9]+\.?[0-9]*)" }*
-    }
-  }?
-tei_facsimile =
-  
-  ## contains a representation of some written source in the form of a set of images rather than as transcribed or encoded text. [11.1. Digital Facsimiles]
-  element facsimile {
-    (tei_front?,
-     (tei_model.graphicLike | tei_surface | tei_surfaceGrp)+,
-     tei_back?),
-    tei_att.global.attributes,
-    tei_att.declaring.attributes,
-    empty
-  }
-tei_sourceDoc =
-  
-  ## contains a transcription or other representation of a single source document potentially forming part of a dossier génétique or collection of sources. [11.1. Digital Facsimiles 11.2.2. Embedded Transcription]
-  element sourceDoc {
-    (tei_model.global
-     | tei_model.graphicLike
-     | tei_surface
-     | tei_surfaceGrp)+,
-    tei_att.global.attributes,
-    tei_att.declaring.attributes,
-    empty
-  }
-tei_surface =
-  
-  ## defines a written surface as a two-dimensional coordinate space, optionally grouping one or more graphic representations of that space, zones of interest within that space, and transcriptions of the writing within them. [11.1. Digital Facsimiles 11.2.2. Embedded Transcription]
-  element surface {
-    ((tei_model.global | tei_model.labelLike | tei_model.graphicLike)*,
-     ((tei_zone | tei_line | tei_path | tei_surface | tei_surfaceGrp),
-      tei_model.global*)*),
-    tei_att.global.attributes,
-    tei_att.coordinated.attributes,
-    tei_att.declaring.attributes,
-    tei_att.typed.attributes,
-    
-    ## describes the method by which this surface is or was connected to the main surface
-    ## Sample values include: 1] glued; 2] pinned; 3] sewn
-    attribute attachment {
-      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
-    }?,
-    
-    ## indicates whether the surface is attached and folded in such a way as to provide two writing surfaces
-    attribute flipping { xsd:boolean }?,
-    empty
-  }
-tei_surfaceGrp =
-  
-  ## defines any kind of useful grouping of written surfaces, for example the recto and verso of a single leaf, which the encoder wishes to treat as a single unit. [11.1. Digital Facsimiles]
-  element surfaceGrp {
-    (tei_model.global | tei_surface | tei_surfaceGrp)+,
-    tei_att.global.attributes,
-    tei_att.declaring.attributes,
-    tei_att.typed.attributes,
-    empty
-  }
-tei_zone =
-  
-  ## defines any two-dimensional area within a surface element. [11.1. Digital Facsimiles 11.2.2. Embedded Transcription]
-  element zone {
-    (text
-     | tei_model.graphicLike
-     | tei_model.global
-     | tei_surface
-     | tei_model.linePart)*,
-    tei_att.global.attributes,
-    tei_att.coordinated.attributes,
-    tei_att.typed.attributes,
-    tei_att.written.attributes,
-    
-    ## indicates the amount by which this zone has been rotated clockwise, with respect to the normal orientation of the parent surface element as implied by the dimensions given in the msDesc element or by the coordinates of the surface itself. The orientation is expressed in arc degrees.
-    [ a:defaultValue = "0" ]
-    attribute rotate { xsd:nonNegativeInteger }?,
-    empty
-  }
-tei_path =
-  
-  ## defines any line passing through two or more points within a surface element. [11.1. Digital Facsimiles 11.2.2. Embedded Transcription]
-  element path {
-    empty
-    >> sch:pattern [
-         id = "BasNumDU-path-pathmustnotbeclosed-constraint-rule-12"
-         "\x{a}" ~
-         "            "
-         sch:rule [
-           context = "tei:path[@points]"
-           "\x{a}" ~
-           "        \x{a}" ~
-           "               "
-           sch:let [
-             name = "firstPair"
-             value = "tokenize( normalize-space( @points ), ' ')[1]"
-           ]
-           "\x{a}" ~
-           "               "
-           sch:let [
-             name = "lastPair"
-             value =
-               "tokenize( normalize-space( @points ), ' ')[last()]"
-           ]
-           "\x{a}" ~
-           "               "
-           sch:let [
-             name = "firstX"
-             value = "xs:float( substring-before( $firstPair, ',') )"
-           ]
-           "\x{a}" ~
-           "               "
-           sch:let [
-             name = "firstY"
-             value = "xs:float( substring-after( $firstPair, ',') )"
-           ]
-           "\x{a}" ~
-           "               "
-           sch:let [
-             name = "lastX"
-             value = "xs:float( substring-before( $lastPair, ',') )"
-           ]
-           "\x{a}" ~
-           "               "
-           sch:let [
-             name = "lastY"
-             value = "xs:float( substring-after( $lastPair, ',') )"
-           ]
-           "\x{a}" ~
-           "               "
-           sch:report [
-             test = "$firstX eq $lastX  and  $firstY eq $lastY"
-             "The first and\x{a}" ~
-             "          last elements of this path are the same. To specify a closed polygon, use\x{a}" ~
-             "          the zone element rather than the path element. "
-           ]
-           "\x{a}" ~
-           "            "
-         ]
-         "\x{a}" ~
-         "         "
-       ],
-    tei_att.global.attributes,
-    tei_att.coordinated.attribute.start,
-    tei_att.coordinated.attribute.ulx,
-    tei_att.coordinated.attribute.uly,
-    tei_att.coordinated.attribute.lrx,
-    tei_att.coordinated.attribute.lry,
-    tei_att.typed.attributes,
-    tei_att.written.attributes,
-    
-    ## identifies a line within the container or bounding box specified by the parent element by means of a series of two or more pairs of numbers, each of which gives the x,y coordinates of a point on the line.
-    attribute points {
-      list {
-        xsd:token {
-          pattern = "(\-?[0-9]+\.?[0-9]*,\-?[0-9]+\.?[0-9]*)"
-        },
-        xsd:token {
-          pattern = "(\-?[0-9]+\.?[0-9]*,\-?[0-9]+\.?[0-9]*)"
-        },
-        xsd:token {
-          pattern = "(\-?[0-9]+\.?[0-9]*,\-?[0-9]+\.?[0-9]*)"
-        }*
-      }
-    }?,
-    empty
-  }
-tei_addSpan =
-  
-  ## (added span of text) marks the beginning of a longer sequence of text added by an author, scribe, annotator or corrector (see also add). [11.3.1.4. Additions and Deletions]
-  element addSpan {
-    empty
-    >> sch:pattern [
-         id = "BasNumDU-addSpan-spanTo-constraint-assert-12"
-         "\x{a}" ~
-         "            "
-         sch:rule [
-           context = "tei:addSpan"
-           "\x{a}" ~
-           "               "
-           sch:assert [
-             test = "@spanTo"
-             "The @spanTo attribute of "
-             sch:name [ ]
-             " is required."
-           ]
-           "\x{a}" ~
-           "            "
-         ]
-         "\x{a}" ~
-         "         "
-       ]
-    >> sch:pattern [
-         id = "BasNumDU-addSpan-spanTo_fr-constraint-assert-13"
-         "\x{a}" ~
-         "            "
-         sch:rule [
-           context = "tei:addSpan"
-           "\x{a}" ~
-           "               "
-           sch:assert [
-             test = "@spanTo"
-             "L'attribut spanTo est requis."
-           ]
-           "\x{a}" ~
-           "            "
-         ]
-         "\x{a}" ~
-         "         "
-       ],
-    tei_att.global.attributes,
-    tei_att.transcriptional.attributes,
-    tei_att.placement.attributes,
-    tei_att.typed.attributes,
-    tei_att.spanning.attributes,
-    tei_att.dimensions.attributes,
-    empty
-  }
-tei_damage =
-  
-  ## contains an area of damage to the text witness. [11.3.3.1. Damage, Illegibility, and Supplied Text]
-  element damage {
-    tei_macro.paraContent,
-    tei_att.global.attributes,
-    tei_att.typed.attributes,
-    tei_att.damaged.attributes,
-    empty
-  }
-tei_damageSpan =
-  
-  ## (damaged span of text) marks the beginning of a longer sequence of text which is damaged in some way but still legible. [11.3.3.1. Damage, Illegibility, and Supplied Text]
-  element damageSpan {
-    empty
-    >> sch:pattern [
-         id = "BasNumDU-damageSpan-spanTo-constraint-assert-14"
-         "\x{a}" ~
-         "            "
-         sch:rule [
-           context = "tei:damageSpan"
-           "\x{a}" ~
-           "               "
-           sch:assert [
-             test = "@spanTo"
-             "\x{a}" ~
-             "The @spanTo attribute of "
-             sch:name [ ]
-             " is required."
-           ]
-           "\x{a}" ~
-           "            "
-         ]
-         "\x{a}" ~
-         "         "
-       ]
-    >> sch:pattern [
-         id = "BasNumDU-damageSpan-spanTo_fr-constraint-assert-15"
-         "\x{a}" ~
-         "            "
-         sch:rule [
-           context = "tei:damageSpan"
-           "\x{a}" ~
-           "               "
-           sch:assert [
-             test = "@spanTo"
-             "L'attribut spanTo est requis."
-           ]
-           "\x{a}" ~
-           "            "
-         ]
-         "\x{a}" ~
-         "         "
-       ],
-    tei_att.global.attributes,
-    tei_att.damaged.attributes,
-    tei_att.typed.attributes,
-    tei_att.spanning.attributes,
-    empty
-  }
-tei_delSpan =
-  
-  ## (deleted span of text) marks the beginning of a longer sequence of text deleted, marked as deleted, or otherwise signaled as superfluous or spurious by an author, scribe, annotator, or corrector. [11.3.1.4. Additions and Deletions]
-  element delSpan {
-    empty
-    >> sch:pattern [
-         id = "BasNumDU-delSpan-spanTo-constraint-assert-16"
-         "\x{a}" ~
-         "            "
-         sch:rule [
-           context = "tei:delSpan"
-           "\x{a}" ~
-           "               "
-           sch:assert [
-             test = "@spanTo"
-             "The @spanTo attribute of "
-             sch:name [ ]
-             " is required."
-           ]
-           "\x{a}" ~
-           "            "
-         ]
-         "\x{a}" ~
-         "         "
-       ]
-    >> sch:pattern [
-         id = "BasNumDU-delSpan-spanTo_fr-constraint-assert-17"
-         "\x{a}" ~
-         "            "
-         sch:rule [
-           context = "tei:delSpan"
-           "\x{a}" ~
-           "               "
-           sch:assert [
-             test = "@spanTo"
-             "L'attribut spanTo est requis."
-           ]
-           "\x{a}" ~
-           "            "
-         ]
-         "\x{a}" ~
-         "         "
-       ],
-    tei_att.global.attributes,
-    tei_att.transcriptional.attributes,
-    tei_att.typed.attributes,
-    tei_att.spanning.attributes,
-    tei_att.dimensions.attributes,
-    empty
-  }
-tei_ex =
-  
-  ## (editorial expansion) contains a sequence of letters added by an editor or transcriber when expanding an abbreviation. [11.3.1.2. Abbreviation and Expansion]
-  element ex {
-    tei_macro.xtext,
-    tei_att.global.attributes,
-    tei_att.editLike.attributes,
-    tei_att.dimensions.attributes,
-    empty
-  }
-tei_fw =
-  
-  ## (forme work) contains a running head (e.g. a header, footer), catchword, or similar material appearing on the current page. [11.6. Headers, Footers, and Similar Matter]
-  element fw {
-    tei_macro.phraseSeq,
-    tei_att.global.attributes,
-    tei_att.placement.attributes,
-    tei_att.written.attributes,
-    
-    ## classifies the material encoded according to some useful typology.
-    ## Sample values include: 1] header; 2] footer; 3] pageNum (page number) ; 4] lineNum (line number) ; 5] sig (signature) ; 6] catch (catchword) 
-    attribute type {
-      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
-    }?,
-    empty
-  }
-tei_handNotes =
-  
-  ## contains one or more handNote elements documenting the different hands identified within the source texts. [11.3.2.1. Document Hands]
-  element handNotes { tei_att.global.attributes, empty }
-tei_handShift =
-  
-  ## marks the beginning of a sequence of text written in a new hand, or the beginning of a scribal stint. [11.3.2.1. Document Hands]
-  element handShift {
-    empty,
-    tei_att.global.attributes,
-    tei_att.handFeatures.attributes,
-    
-    ## indicates a handNote element describing the hand concerned.
-    attribute new { xsd:anyURI }?,
-    empty
-  }
-tei_am =
-  
-  ## (abbreviation marker) contains a sequence of letters or signs present in an abbreviation which are omitted or replaced in the expanded form of the abbreviation. [11.3.1.2. Abbreviation and Expansion]
-  element am {
-    (text | tei_model.gLike | tei_model.pPart.transcriptional)*,
-    tei_att.global.attributes,
-    tei_att.typed.attributes,
-    tei_att.editLike.attributes,
-    empty
-  }
-tei_restore =
-  
-  ## indicates restoration of text to an earlier state by cancellation of an editorial or authorial marking or instruction. [11.3.1.6. Cancellation of Deletions and Other Markings]
-  element restore {
-    tei_macro.paraContent,
-    tei_att.global.attributes,
-    tei_att.transcriptional.attributes,
-    tei_att.typed.attributes,
-    tei_att.dimensions.attributes,
-    empty
-  }
-tei_space =
-  
-  ## indicates the location of a significant space in the text. [11.5.1. Space]
-  element space {
-    (tei_model.descLike | tei_model.certLike)*,
-    tei_att.global.attribute.xmlid,
-    tei_att.global.attribute.n,
-    tei_att.global.attribute.xmllang,
-    tei_att.global.attribute.xmlbase,
-    tei_att.global.attribute.xmlspace,
-    tei_att.global.rendition.attribute.rend,
-    tei_att.global.rendition.attribute.style,
-    tei_att.global.rendition.attribute.rendition,
-    tei_att.global.linking.attribute.corresp,
-    tei_att.global.linking.attribute.synch,
-    tei_att.global.linking.attribute.sameAs,
-    tei_att.global.linking.attribute.copyOf,
-    tei_att.global.linking.attribute.next,
-    tei_att.global.linking.attribute.prev,
-    tei_att.global.linking.attribute.exclude,
-    tei_att.global.linking.attribute.select,
-    tei_att.global.analytic.attribute.ana,
-    tei_att.global.facs.attribute.facs,
-    tei_att.global.change.attribute.change,
-    tei_att.global.responsibility.attribute.cert,
-    tei_att.global.source.attribute.source,
-    tei_att.typed.attributes,
-    tei_att.dimensions.attributes,
-    
-    ## (responsible party) (responsible party) indicates the individual responsible for identifying and measuring the space
-    attribute resp {
-      list { xsd:anyURI+ }
-    }?,
-    
-    ## (dimension) indicates whether the space is horizontal or vertical.
-    attribute dim {
-      
-      ## the space is horizontal.
-      "horizontal"
-      | 
-        ## the space is vertical.
-        "vertical"
-    }?,
-    empty
-  }
-tei_subst =
-  
-  ## (substitution) groups one or more deletions with one or more additions when the combination is to be regarded as a single intervention in the text. [11.3.1.5. Substitutions]
-  element subst {
-    ((tei_add | tei_del | tei_model.milestoneLike)+)
-    >> sch:pattern [
-         id = "BasNumDU-subst-substContents1-constraint-assert-18"
-         "\x{a}" ~
-         "            "
-         sch:rule [
-           context = "tei:subst"
-           "\x{a}" ~
-           "               "
-           sch:assert [
-             test = "child::tei:add and child::tei:del"
-             "\x{a}" ~
-             "                  "
-             sch:name [ ]
-             " must have at least one child add and at least one child del"
-           ]
-           "\x{a}" ~
-           "            "
-         ]
-         "\x{a}" ~
-         "         "
-       ],
-    tei_att.global.attributes,
-    tei_att.transcriptional.attributes,
-    tei_att.dimensions.attributes,
-    empty
-  }
-tei_substJoin =
-  
-  ## (substitution join) identifies a series of possibly fragmented additions, deletions or other revisions on a manuscript that combine to make up a single intervention in the text [11.3.1.5. Substitutions]
-  element substJoin {
-    (tei_model.descLike | tei_model.certLike)*,
-    tei_att.global.attributes,
-    tei_att.pointing.attributes,
-    tei_att.transcriptional.attributes,
-    tei_att.dimensions.attributes,
-    empty
-  }
-tei_supplied =
-  
-  ## signifies text supplied by the transcriber or editor for any reason; for example because the original cannot be read due to physical damage, or because of an obvious omission by the author or scribe. [11.3.3.1. Damage, Illegibility, and Supplied Text]
-  element supplied {
-    tei_macro.paraContent,
-    tei_att.global.attributes,
-    tei_att.editLike.attributes,
-    tei_att.dimensions.attributes,
-    
-    ## one or more words indicating why the text has had to be supplied, e.g. overbinding, faded-ink, lost-folio, omitted-in-original.
-    attribute reason {
-      list {
-        xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
-      }
-    }?,
-    empty
-  }
-tei_surplus =
-  
-  ## marks text present in the source which the editor believes to be superfluous or redundant. [11.3.3.1. Damage, Illegibility, and Supplied Text]
-  element surplus {
-    tei_macro.paraContent,
-    tei_att.global.attributes,
-    tei_att.editLike.attributes,
-    tei_att.dimensions.attributes,
-    
-    ## one or more words indicating why this text is believed to be superfluous, e.g. repeated, interpolated etc.
-    attribute reason {
-      list {
-        xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
-      }
-    }?,
-    empty
-  }
-tei_secl =
-  
-  ## (secluded text) Secluded. Marks text present in the source which the editor believes to be genuine but out of its original place (which is unknown). [11.3.1.7. Text Omitted from or Supplied in the Transcription]
-  element secl {
-    tei_macro.paraContent,
-    tei_att.global.attributes,
-    tei_att.editLike.attributes,
-    tei_att.dimensions.attributes,
-    
-    ## one or more words indicating why this text has been secluded, e.g. interpolated etc.
-    attribute reason {
-      list {
-        xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
-      }
-    }?,
-    empty
-  }
-tei_line =
-  
-  ## contains the transcription of a topographic line in the source document [11.2.2. Embedded Transcription]
-  element line {
-    (text | tei_model.global | tei_model.gLike | tei_model.linePart)*,
-    tei_att.typed.attributes,
-    tei_att.global.attributes,
-    tei_att.coordinated.attributes,
-    tei_att.written.attributes,
-    empty
-  }
-tei_listTranspose =
-  
-  ## supplies a list of transpositions, each of which is indicated at some point in a document typically by means of metamarks. [11.3.4.5. Transpositions]
-  element listTranspose {
-    tei_transpose+, tei_att.global.attributes, empty
-  }
-tei_metamark =
-  
-  ## contains or describes any kind of graphic or written signal within a document the function of which is to determine how it should be read rather than forming part of the actual content of the document. [11.3.4.2. Metamarks]
-  element metamark {
-    tei_macro.specialPara,
-    tei_att.spanning.attributes,
-    tei_att.placement.attributes,
-    tei_att.global.attributes,
-    
-    ## describes the function (for example status, insertion, deletion, transposition) of the metamark.
-    attribute function {
-      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
-    }?,
-    
-    ## identifies one or more elements to which the metamark applies.
-    attribute target {
-      list { xsd:anyURI+ }
-    }?,
-    empty
-  }
-tei_mod =
-  
-  ## represents any kind of modification identified within a single document. [11.3.4.1. Generic Modification]
-  element mod {
-    tei_macro.paraContent,
-    tei_att.global.attributes,
-    tei_att.transcriptional.attributes,
-    tei_att.typed.attributes,
-    tei_att.spanning.attributes,
-    tei_att.dimensions.attributes,
-    empty
-  }
-tei_redo =
-  
-  ## indicates one or more cancelled interventions in a document which have subsequently been marked as reaffirmed or repeated. [11.3.4.4. Confirmation, Cancellation, and Reinstatement of Modifications]
-  element redo {
-    empty,
-    tei_att.global.attributes,
-    tei_att.spanning.attributes,
-    tei_att.transcriptional.attributes,
-    tei_att.dimensions.attributes,
-    
-    ## points to one or more elements representing the interventions which are being reasserted.
-    attribute target {
-      list { xsd:anyURI+ }
-    }?,
-    empty
-  }
-tei_retrace =
-  
-  ## contains a sequence of writing which has been retraced, for example by over-inking, to clarify or fix it. [11.3.4.3. Fixation and Clarification]
-  element retrace {
-    tei_macro.paraContent,
-    tei_att.global.attributes,
-    tei_att.spanning.attributes,
-    tei_att.transcriptional.attributes,
-    tei_att.dimensions.attributes,
-    empty
-  }
-tei_transpose =
-  
-  ## describes a single textual transposition as an ordered list of at least two pointers specifying the order in which the elements indicated should be re-combined. [11.3.4.5. Transpositions]
-  element transpose {
-    (tei_ptr, tei_ptr+), tei_att.global.attributes, empty
-  }
-tei_undo =
-  
-  ## indicates one or more marked-up interventions in a document which have subsequently been marked for cancellation. [11.3.4.4. Confirmation, Cancellation, and Reinstatement of Modifications]
-  element undo {
-    empty,
-    tei_att.global.attributes,
-    tei_att.spanning.attributes,
-    tei_att.transcriptional.attributes,
-    tei_att.dimensions.attributes,
-    
-    ## points to one or more elements representing the interventions which are to be reverted or undone.
-    attribute target {
-      list { xsd:anyURI+ }
     }?,
     empty
   }
