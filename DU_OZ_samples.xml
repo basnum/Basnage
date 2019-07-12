@@ -4361,6 +4361,31 @@
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Jean_Duvergier_de_Hauranne</idno>
                     </person>
+                    
+                    <person xml:id="Fatio_ISN000000002518197X">
+                        <persName>
+                            <forename>Nicolas</forename>
+                            <surname>Fatio</surname>
+                            <roleName>Fatio de Duillier</roleName>
+                            <addName>Faccio, Facio</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1664-02-16">Né le 16 février 1664 à <placeName>Bâle</placeName><country corresp="CHE">Suisse</country></birth>
+                        <death when="1753-05-12">Mort le 12 mai 1753 à <placeName>Madresfield, </placeName><country corresp="#GBR">England</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Suisse</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation/>
+                        <affiliation>Royal Society</affiliation>
+                        <socecStatus/>
+                        <note>mathematician, natural philosopher, inventor, and religious campaigner</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/000000002518197X</idno>
+                        <idno type="URI">https://en.wikipedia.org/wiki/Nicolas_Fatio_de_Duillier</idno>
+                    </person>
 
 
                     <person xml:id="Fevret_ISN0000000061226944">
@@ -4932,13 +4957,39 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000122827058 </idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Anne_Dacier</idno>
                     </person>
+                    
+                    <person xml:id="Le_Notre_ISN0000000121318665">
+                        <persName>
+                            <forename>André</forename>
+                            <surname>Le Nôtre</surname>
+                            <roleName/>
+                            <addName>Bonhomme le Nôtre, Le Nostre</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1613-03-12">Né le 12 mars 1613 à <placeName>Paris </placeName><country  corresp="#FRE">France</country></birth>
+                        <death when="1700-09-12">Mort le 15 septembre  1700 à <placeName>Paris </placeName><country  corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Jardinier Paysagiste</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000121318665</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/André_Le_Nôtre</idno>
+                    </person>
+                    
                     <person xml:id="Le_P_Mab_ISN0000000121416396">
                         <persName>
                             <forename>Jean</forename>
                             <surname> Mabillon</surname>
                             <roleName/>
                             <addName/>
-                            <abbr/>
+                            <abbr>Le P Mab</abbr>
                         </persName>
                         <birth when="1632-11-23">né le 23 novembre 1632 à
                                 <placeName>Saint-Pierremont</placeName><country corresp="#FRE"
@@ -5993,6 +6044,39 @@
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Joseph_Pitton_de_Tournefort</idno>
                     </person>
+
+                    <person xml:id="Varenne_ISN0000000107185739">
+                        <persName>
+                            <forename>François Pierre</forename>
+                            <surname>de la Varenne</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1618">Né en 1618 à <placeName>Dijon</placeName><country>France</country></birth>
+                        <death when="1678">Mort en 1678 à<placeName>Dijon</placeName><country>France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Cuisinier</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>un cuisinier français.  Cuisinier du marquis d’Uxelles, gouverneur de Chalon-sur-Saône, </note>
+                        <event>
+                            <desc>Le Cuisinier françois, enseignant la maniere de bien apprester
+                                &amp; assaisonner toutes sortes de viandes, grasses &amp; maigres,
+                                legumes, &amp; patisseries en perfection, &amp;c. Reveu, corrigé,
+                                &amp; &amp;augmenté d'un traitté de confitures seiches &amp;
+                                liquides, &amp; autres delicatesses de bouche. Ensemble d'une table
+                                alphabetique des matieres qui sont traittées dans tout le livre,
+                                1651 ; réédité sous le titre : Le Cuisinier françois, préface de
+                                Mary et Philip Hyman, Orthez, Éditions Manucius, 2001.<date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000107185739</idno>
+                        <idno type="URI"
+                            >https://fr.wikipedia.org/wiki/François_Pierre_de_La_Varenne</idno>
+                    </person>
                     <person xml:id="Villars_ISN0000000121185233">
                         <persName><name>Abbé de Villars</name><abbr>Ab de Vilars></abbr></persName>
                         <idno type="URI"
@@ -6924,6 +7008,26 @@
         <body>
 
             <div type="dossier">
+
+                <div type="OCT">
+                    <entry xml:id="Octaedre">
+                        <form><orth rendition="#uc">OCTAEDRE</orth>
+                            <gramGrp><pos expand="Substantif">subst.</pos>
+                                <gen expand="Masculin">masc.</gen></gramGrp></form>
+                        <sense>
+                            <usg type="term" ana="#geometrie">Terme de Geometrie</usg>
+                            <cit type="exemple">
+                                <quote/>
+                            </cit>
+                            <cit type="citation">
+                                <quote/>
+                                <bibl><author ref="#Mol_ISN0000000123197131">Mol.</author></bibl>
+                            </cit>
+                        </sense>
+
+                    </entry>
+
+                </div>
 
                 <div type="ORL">
                     <pb n="78"/>
@@ -14570,16 +14674,17 @@
                                     >s.</pos>
                                 <gen expand="Feminin">f.</gen></gramGrp>
                         </form>
-                        <sense><def>C’e$t le plus connu de tous les fruits qui e$t rond &amp; à pepin,
-                            qui vient en été &amp; en au- tomne, qui e$t bon a manger &amp; à faire
-                            du $idre. Il y a d’ordinaire dans les <hi rendition="#i">pommes</hi>
-                            quinze gro$$es fibres, dont dix $ont di$tribuées dans toute l’étenduë de
-                            la pulpe, &amp; enfin s’accrochent &amp; ;$e joignent en$emble vers le
-                            nom ril ou œil de la <hi rendition="#i">pomme</hi> ; &amp; les cinq
-                            autres pa$$ent en ligne droite du pedicule ou de la queuë ju$qu’à cet
-                            œil où elles $e mêlent &amp; s’uni$$ent avec les dix premieres.
-                            Celles-ci $ont principalement de$tinées à nourrir les pepins ou la
-                            graine.</def> <lb/>
+                        <sense><def>C’e$t le plus connu de tous les fruits qui e$t rond &amp; à
+                                pepin, qui vient en été &amp; en au- tomne, qui e$t bon a manger
+                                &amp; à faire du $idre. Il y a d’ordinaire dans les <hi
+                                    rendition="#i">pommes</hi> quinze gro$$es fibres, dont dix $ont
+                                di$tribuées dans toute l’étenduë de la pulpe, &amp; enfin
+                                s’accrochent &amp; ;$e joignent en$emble vers le nom ril ou œil de
+                                la <hi rendition="#i">pomme</hi> ; &amp; les cinq autres pa$$ent en
+                                ligne droite du pedicule ou de la queuë ju$qu’à cet œil où elles $e
+                                mêlent &amp; s’uni$$ent avec les dix premieres. Celles-ci $ont
+                                principalement de$tinées à nourrir les pepins ou la graine.</def>
+                            <lb/>
                             <note>y a un très-grand nombre d’e$peces de <hi rendition="#i"
                                     >pommes</hi>, dont voici les principales. Les <hi rendition="#i"
                                     >pa$$e-pommes</hi> $ont les premie- es de l’année, dont il y en
@@ -14723,15 +14828,18 @@
                                 ou <hi rendition="#i">morceau d’Adam</hi>, une partie du cartilage
                                 du larinx, nommée $cutiforme, &amp; qui avance en dehors dans le cou
                                 des hommes</note></sense>
-                        <sense></sense>
-                        <sense></sense>
+                        <sense/>
+                        <sense/>
                     </entry>
-                    <entry xml:id="Pommé"><form><orth rendition="#uc">pommé</orth><gramGrp><pos expand="Substantif">s.</pos> <gen expand="Masculin">m.</gen></gramGrp></form>
-                        <sense><def>Sidre fait de jus de pommes. On
-                            e$time plus le <hi rendition="#i">pommé</hi> que le poiré.</def></sense>
+                    <entry xml:id="Pommé">
+                        <form><orth rendition="#uc">pommé</orth><gramGrp><pos expand="Substantif"
+                                    >s.</pos>
+                                <gen expand="Masculin">m.</gen></gramGrp></form>
+                        <sense><def>Sidre fait de jus de pommes. On e$time plus le <hi
+                                    rendition="#i">pommé</hi> que le poiré.</def></sense>
                     </entry>
-                    
-             
+
+
                 </div>
 
                 <div type="POI">
@@ -14740,79 +14848,99 @@
                             <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
                                 >f.</gen></gramGrp>
                         </form>
-                        <sense>Fruit à pepins d’été &amp; d’hiver, de figure oblongue, &amp; plus
-                            menu vers la queuë que vers la tête. Il y en a une infinité de $ortes.
+                        <sense><def>Fruit à pepins d’été &amp; d’hiver, de figure oblongue, &amp; plus
+                            menu vers la queuë que vers la tête.</def> <note>Il y en a une infinité de $ortes.
                             Voici la li$te des recherchées par les curieux, di$tribuées $elon les
-                            temps qu’elles meuri$$ent, ou qu’on les mange. <note>Premiere Au mois de
-                                Juillet, le <hi>petit mu$cat</hi>, ou <hi>$epi en gueule</hi>, qui
-                                vient en crochets, &amp; qui e$t fort petite. Le <hi>gros
-                                    mu$cat</hi> qui e$t une fois plus gros, &amp; ne vient pas par
-                                bouquets. Le <hi>petit mu$cat bâtard</hi>. Le <hi>mu$cat à longue
-                                    quete</hi>. Le <hi>bourden mu$qué</hi>, qui e$t un gros mu$cat
-                                hâtif. Le <hi>gros hativeau à troche</hi> : c’e$t une <hi>poire</hi>
-                                precoce qui e$t pre$ que rone, jaune, &amp; de bon goût, qui veut
-                                êtr mangée verdelerte. Le <hi>hâtiveau blanc</hi>, ou le <hi>milan
-                                    d'été</hi> qu’on nomme <hi>au$$i beurré dété</hi>. La <hi>poire
-                                    de la Magdelaine</hi>. La<hi> belli$$ime</hi>, on <hi>figue
-                                    mu$quée</hi>, qu’on appelle au$$i <hi>bonne deux fois l’an</hi>,
-                                parcequ’elle fleurit deux fois l’an. La <hi>$uprême</hi>, ou
-                                    <hi>poire de figue</hi>. La <hi>cui$$e Madame</hi>, qui e$t une
-                                    <hi>poire</hi> fort e$timée, menue &amp; longue d’un rouge gris,
-                                dont la chair e$t ferme, &amp; l’eau for $ucrée. </note><note>Au
-                                mois d’Août, la <hi>poire de ja$min</hi>, ou <hi>vilaine de la
-                                    reale</hi>. La <hi>poire d’épargne</hi>, ou de <hi>St.
-                                    Sam$on.</hi> La <hi>jargonelle</hi> : c’e$t une poire longue,
-                                rouge, un peu pointue, $eche &amp; pierreu$e, &amp; qui a de l’eau
-                                fort $ucrée. La <hi>gro$$e mouillebouche</hi>, ou
-                                    <hi>coule$oif,</hi> ou le floreal d été c’e$t une gro$$e
-                                    <hi>poire</hi> ronde, verdatre, fondante, &amp; de bon goût. La
-                                    <hi>chair-à- Dame</hi>, ou la <hi>poire de Prince</hi>. La
-                                    <hi>vallée</hi>, ou <hi>poire de liquet</hi>. La <hi>poire à
-                                    deux têtes.</hi> Le <hi>gros</hi>, &amp; le <hi>petit
-                                    oignonnet</hi>, fait en oignon. La <hi>poire de Cypre</hi>, qui
-                                e$t une e$pece d’oignonnet. Le <hi>gros rou$$elet de Rheims</hi>. La
-                                    <hi>poire $anguinole</hi>. La<hi> poire de frangipane</hi>. La
-                                    <hi>ca$$ollete</hi>, ou <hi>friolet mu$cat,</hi> qu’on appell en
-                                Poitou <hi>des pots de $illery</hi>, &amp; en Anjou la
-                                    <hi>verdette</hi>, ou la poire de <hi>tâteribaut</hi>. La
-                                    <hi>poire d'amiral</hi>. La<hi> poire d Lombardie</hi>, ou
-                                    <hi>de Milan</hi>. Le gros blanc. L’<hi>odorante mu$- quée</hi>
-                                dite de <hi>baume</hi>, <hi>d'amidon</hi>, de <hi>fourmi</hi>, ou
-                                    <hi>verge d'or.</hi> La <hi>brutte-bonne</hi> : c’e$t une gro$$e
-                                    <hi>poire</hi> verte, beurrée &amp; fondante. La <hi>bergamotte
-                                    d’été,</hi> ou <hi>milan de la bevriere</hi>. La <hi>fau$$e
-                                    mu$quée</hi>, ou la <hi>bergamatte Grecque</hi>, &amp; en Anjou
-                                    <hi>violine</hi>. L'<hi>inconnuë-cheneau</hi>, ou la
-                                    <hi>fondante de Bre$t</hi> Le <hi>certeau d’été</hi> e$t une
-                                    <hi>poire</hi> longue, &amp; belle à peindre. La
-                                    <hi>gri$e-bonne</hi>, ou la <hi>poire de forêt</hi>, la
-                                    <hi>crapaudine</hi>, <hi>l'ambrete d’étë</hi>, ou la <hi>rude
-                                    épée</hi>. Le <hi>mu$que d’été</hi>, espece d’orange. La
-                                    <hi>poire d'orange commune</hi>. L’<hi>orange royale</hi>, &amp;
-                                    l'<hi>orange mu$quée</hi>, le <hi>fran$oreau</hi>. La <hi>poire
-                                    de li$cefrosn</hi>, la <hi>poire d'eau ro$e</hi>, ou <hi>caillot
-                                    ro$at</hi>, de <hi>mu$cat doux</hi>, ou la <hi>poire
-                                    d’averat</hi>, ou la <hi>robine gro$$e</hi>, <hi>petite</hi>, ou
-                                la <hi>poire de la boneville</hi>, ou <hi>la Royale</hi>. Le
-                                    <hi>perfum doux</hi>, dite <hi>berni</hi>. La
-                                    <hi>cramoifine</hi>. Le <hi>bon Chretien mu$qué</hi> : $a peau
-                                e$t jaune &amp; li$$ée, &amp; a une eau $ucré &amp;
-                                excellente</note>
-                            <note>En Septembre, le <hi>bon Chretien d’été</hi>, ou
-                                <hi>gratioli</hi>, ain$i nommé à cau$e qu’il a été apporté en France
-                                par St François de Paule. La <hi>poire de Salviati</hi>. La
-                                    <hi>poire d'Ange</hi>, <hi>poire de mondieu</hi>. <hi>La poire
-                                    ro$e</hi>. La vere-ronde, ou l mouillebouche d'amomne : elle e$t
-                                fort bturrée &amp; fon dante, &amp; d’une eau très-relevée, qui e$t
-                                verte, quoy- ue meure. La poire d'angleterre, le beurré ronge, d
-                                d'anjou, ou la poire d’Amboi$e ; en Normandie iambert le bon : elle
-                                e$t gro$$e, longue, fort colorée, &amp; $i eurrée &amp; fondante,
-                                qu’elle en porte le nom par exce lence. Le beurré gris. Le beurré
-                                blan, ou à court iuë, dit le Doyemé de St. Michel. La poire de nige,
-                                o a bomne-ente : elle a la couleur d’un citron, &amp; e$t très-
-                                fondante. La poire de finoin, ou de Je$eph. La poire te- ipée, ou la
-                                bigarrade, ou la vilaine d'anjou, caillas re- $axi, ou toute-bmne
-                                d'automn</note>
+                            temps qu’elles meuri$$ent, ou qu’on les mange. </note><note>Premiere Au mois de
+                                Juillet, le <seg ana="poire">petit mu$cat</seg>, ou <seg ana="poire"
+                                    >$epi en gueule</seg>, qui vient en crochets, &amp; qui e$t fort
+                                petite. Le <seg ana="poire">gros mu$cat</seg> qui e$t une fois plus
+                                gros, &amp; ne vient pas par bouquets. Le <seg ana="poire">petit
+                                    mu$cat bâtard</seg>. Le <seg ana="poire">mu$cat à longue
+                                    quete</seg>. Le <seg ana="poire">bourden mu$qué</seg>, qui e$t
+                                un gros mu$cat hâtif. Le <seg ana="poire">gros hativeau à
+                                    troche</seg> : c’e$t une <seg ana="poire">poire</seg> precoce
+                                qui e$t pre$ que rone, jaune, &amp; de bon goût, qui veut êtr mangée
+                                verdelerte. Le <seg ana="poire">hâtiveau blanc</seg>, ou le <seg
+                                    ana="poire">milan d'été</seg> qu’on nomme <seg ana="poire">au$$i
+                                    beurré dété</seg>. La <seg ana="poire">poire de la
+                                    Magdelaine</seg>. La<seg ana="poire"> belli$$ime</seg>, on <seg
+                                    ana="poire">figue mu$quée</seg>, qu’on appelle au$$i <seg
+                                    ana="poire">bonne deux fois l’an</seg>, parcequ’elle fleurit
+                                deux fois l’an. La <seg ana="poire">$uprême</seg>, ou <seg
+                                    ana="poire">poire de figue</seg>. La <seg ana="poire">cui$$e
+                                    Madame</seg>, qui e$t une <seg ana="poire">poire</seg> fort
+                                e$timée, menue &amp; longue d’un rouge gris, dont la chair e$t
+                                ferme, &amp; l’eau for $ucrée. </note><note>Au mois d’Août, la <seg
+                                    ana="poire">poire de ja$min</seg>, ou <seg ana="poire">vilaine
+                                    de la reale</seg>. La <seg ana="poire">poire d’épargne</seg>, ou
+                                de <seg ana="poire">St. Sam$on.</seg> La <seg ana="poire"
+                                    >jargonelle</seg> : c’e$t une poire longue, rouge, un peu
+                                pointue, $eche &amp; pierreu$e, &amp; qui a de l’eau fort $ucrée. La
+                                    <seg ana="poire">gro$$e mouillebouche</seg>, ou <seg ana="poire"
+                                    >coule$oif,</seg> ou le floreal d été c’e$t une gro$$e <seg
+                                    ana="poire">poire</seg> ronde, verdatre, fondante, &amp; de bon
+                                goût. La <seg ana="poire">chair-à- Dame</seg>, ou la <seg
+                                    ana="poire">poire de Prince</seg>. La <seg ana="poire"
+                                    >vallée</seg>, ou <seg ana="poire">poire de liquet</seg>. La
+                                    <seg ana="poire">poire à deux têtes.</seg> Le <seg ana="poire"
+                                    >gros</seg>, &amp; le <seg ana="poire">petit oignonnet</seg>,
+                                fait en oignon. La <seg ana="poire">poire de Cypre</seg>, qui e$t
+                                une e$pece d’oignonnet. Le <seg ana="poire">gros rou$$elet de
+                                    Rheims</seg>. La <seg ana="poire">poire $anguinole</seg>. La<seg
+                                    ana="poire"> poire de frangipane</seg>. La <seg ana="poire"
+                                    >ca$$ollete</seg>, ou <seg ana="poire">friolet mu$cat,</seg>
+                                qu’on appell en Poitou <seg ana="poire">des pots de $illery</seg>,
+                                &amp; en Anjou la <seg ana="poire">verdette</seg>, ou la poire de
+                                    <seg ana="poire">tâteribaut</seg>. La <seg ana="poire">poire
+                                    d'amiral</seg>. La<seg ana="poire"> poire d Lombardie</seg>, ou
+                                    <seg ana="poire">de Milan</seg>. Le gros blanc. L’<seg
+                                    ana="poire">odorante mu$- quée</seg> dite de <seg ana="poire"
+                                    >baume</seg>, <seg ana="poire">d'amidon</seg>, de <seg
+                                    ana="poire">fourmi</seg>, ou <seg ana="poire">verge d'or.</seg>
+                                La <seg ana="poire">brutte-bonne</seg> : c’e$t une gro$$e <seg
+                                    ana="poire">poire</seg> verte, beurrée &amp; fondante. La <seg
+                                    ana="poire">bergamotte d’été,</seg> ou <seg ana="poire">milan de
+                                    la bevriere</seg>. La <seg ana="poire">fau$$e mu$quée</seg>, ou
+                                la <seg ana="poire">bergamatte Grecque</seg>, &amp; en Anjou <seg
+                                    ana="poire">violine</seg>. L'<seg ana="poire"
+                                    >inconnuë-cheneau</seg>, ou la <seg ana="poire">fondante de
+                                    Bre$t</seg> Le <seg ana="poire">certeau d’été</seg> e$t une <seg
+                                    ana="poire">poire</seg> longue, &amp; belle à peindre. La <seg
+                                    ana="poire">gri$e-bonne</seg>, ou la <seg ana="poire">poire de
+                                    forêt</seg>, la <seg ana="poire">crapaudine</seg>, <seg
+                                    ana="poire">l'ambrete d’étë</seg>, ou la <seg ana="poire">rude
+                                    épée</seg>. Le <seg ana="poire">mu$que d’été</seg>, espece
+                                d’orange. La <seg ana="poire">poire d'orange commune</seg>. L’<seg
+                                    ana="poire">orange royale</seg>, &amp; l'<seg ana="poire">orange
+                                    mu$quée</seg>, le <seg ana="poire">fran$oreau</seg>. La <seg
+                                    ana="poire">poire de li$cefrosn</seg>, la <seg ana="poire">poire
+                                    d'eau ro$e</seg>, ou <seg ana="poire">caillot ro$at</seg>, de
+                                    <seg ana="poire">mu$cat doux</seg>, ou la <seg ana="poire">poire
+                                    d’averat</seg>, ou la <seg ana="poire">robine gro$$e</seg>, <seg
+                                    ana="poire">petite</seg>, ou la <seg ana="poire">poire de la
+                                    boneville</seg>, ou <seg ana="poire">la Royale</seg>. Le <seg
+                                    ana="poire">perfum doux</seg>, dite <seg ana="poire"
+                                >berni</seg>. La <seg ana="poire">cramoifine</seg>. Le <seg
+                                    ana="poire">bon Chretien mu$qué</seg> : $a peau e$t jaune &amp;
+                                li$$ée, &amp; a une eau $ucré &amp; excellente</note>
+                            <note>En Septembre, le <seg ana="poire">bon Chretien d’été</seg>, ou
+                                    <seg ana="poire">gratioli</seg>, ain$i nommé à cau$e qu’il a été
+                                apporté en France par St François de Paule. La <seg ana="poire"
+                                    >poire de Salviati</seg>. La <seg ana="poire">poire
+                                d'Ange</seg>, <seg ana="poire">poire de mondieu</seg>. <seg
+                                    ana="poire">La poire ro$e</seg>. <seg/>La vere-ronde, ou l
+                                mouillebouche d'amomne : elle e$t fort bturrée &amp; fon dante,
+                                &amp; d’une eau très-relevée, qui e$t verte, quoy- ue meure. La
+                                poire d'angleterre, le beurré ronge, d d'anjou, ou la poire
+                                d’Amboi$e ; en Normandie iambert le bon : elle e$t gro$$e, longue,
+                                fort colorée, &amp; $i eurrée &amp; fondante, qu’elle en porte le
+                                nom par exce lence. Le<seg> beurré gris</seg>. Le <seg>beurré
+                                    blan</seg>, ou à court iuë, dit le <seg>Doyemé de St.
+                                    Michel</seg>. La poire de nige, o a bomne-ente : elle a la
+                                couleur d’un citron, &amp; e$t très- fondante. La poire de finoin,
+                                ou de Je$eph. La poire te- ipée, ou la bigarrade, ou la vilaine
+                                d'anjou, caillas re- $axi, ou toute-bmne d'automn</note>
                             <note>Au mois d’Octobre, le me$$ire-Jean. Il y a le blanc, le de ré,
                                 &amp; le gris. Le blanc e$t le plus htif. Le doré e$t e$t plus
                                 tardif, mais l’eau en e$t plus $ucrée. C’e$t un les meilleurs fruits
