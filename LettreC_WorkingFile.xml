@@ -115,7 +115,7 @@
                             <addName/>
                             <abbr/>
                         </persName>
-                        <birth when-custom="-320"><placeName/><country/></birth>
+                        <birth><placeName/><country/></birth>
                         <death><placeName/><country/></death>
                         <sex/>
                         <nationality/>
@@ -2935,7 +2935,7 @@
                             <forename/>
                             <surname>de Sevigni, </surname>
                             <roleName/>
-                            <addName>Madame de Sévigné, M de S</addName>
+                            <addName>Madame de Sévigné</addName>
                             <abbr>M de S.</abbr></persName>
                         <birth>née le 5 février 1626 à <placeName>Paris</placeName><country
                                 corresp="#FRE">France</country></birth>
@@ -3595,7 +3595,7 @@
                         <note>. Frère de <persName corresp="#BauhinJ_ISN0000000115786382">Jean
                                 Bauhin</persName>, Naturaliste, classification des plantes</note>
                         <event>
-                            <desc>Theatrum Botanicum, Theatrum Anatomicum
+                            <desc>Theatrum BotanicumTheatrum Anatomicum
                                 [http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fbildsuche.digitale-sammlungen.de%2Findex.html%3Fc%3Dviewer%26bandnummer%3Dbsb00080026%26pimage%3D7%26v%3D2p%26nav%3D%26l%3Dde],
                                 Francfort-sur-le-Main, .<date>1605</date></desc>
                         </event>
@@ -4365,27 +4365,27 @@
                     
                     <person xml:id="Fatio_ISN000000002518197X">
                         <persName>
-                            <forename>Nicholas</forename>
-                            <surname>Fatio de Duillier</surname>
-                            <roleName/>
+                            <forename>Nicolas</forename>
+                            <surname>Fatio</surname>
+                            <roleName>Fatio de Duillier</roleName>
                             <addName>Faccio, Facio</addName>
-                            <abbr>Fatio</abbr>
+                            <abbr/>
                         </persName>
-                        <birth when="1664-02-16">Né le 16 Février 1664 à <placeName>Bâle</placeName><country>Suisse</country></birth>
-                        <death><placeName/><country/></death>
-                        <sex/>
-                        <nationality/>
-                        <faith/>
+                        <birth when="1664-02-16">Né le 16 février 1664 à <placeName>Bâle</placeName><country corresp="CHE">Suisse</country></birth>
+                        <death when="1753-05-12">Mort le 12 mai 1753 à <placeName>Madresfield, </placeName><country corresp="#GBR">England</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Suisse</nationality>
+                        <faith>Protestant</faith>
                         <education/>
                         <occupation/>
-                        <affiliation/>
+                        <affiliation>Royal Society</affiliation>
                         <socecStatus/>
-                        <note/>
+                        <note>mathematician, natural philosopher, inventor, and religious campaigner</note>
                         <event>
                             <desc><date/></desc>
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/000000002518197X</idno>
-                        <idno type="URI"/>
+                        <idno type="URI">https://en.wikipedia.org/wiki/Nicolas_Fatio_de_Duillier</idno>
                     </person>
 
 
@@ -4958,13 +4958,39 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000122827058 </idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Anne_Dacier</idno>
                     </person>
+                    
+                    <person xml:id="Le_Notre_ISN0000000121318665">
+                        <persName>
+                            <forename>André</forename>
+                            <surname>Le Nôtre</surname>
+                            <roleName/>
+                            <addName>Bonhomme le Nôtre, Le Nostre</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1613-03-12">Né le 12 mars 1613 à <placeName>Paris </placeName><country  corresp="#FRE">France</country></birth>
+                        <death when="1700-09-12">Mort le 15 septembre  1700 à <placeName>Paris </placeName><country  corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Jardinier Paysagiste</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000121318665</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/André_Le_Nôtre</idno>
+                    </person>
+                    
                     <person xml:id="Le_P_Mab_ISN0000000121416396">
                         <persName>
                             <forename>Jean</forename>
                             <surname> Mabillon</surname>
                             <roleName/>
                             <addName/>
-                            <abbr/>
+                            <abbr>Le P Mab</abbr>
                         </persName>
                         <birth when="1632-11-23">né le 23 novembre 1632 à
                                 <placeName>Saint-Pierremont</placeName><country corresp="#FRE"
@@ -6022,27 +6048,31 @@
 
                     <person xml:id="Varenne_ISN0000000107185739">
                         <persName>
-                            <forename>François-Pierre</forename>
+                            <forename>François Pierre</forename>
                             <surname>de la Varenne</surname>
                             <roleName/>
                             <addName/>
                             <abbr/>
                         </persName>
-                        <birth when="1618"> Né en 1618 à <placeName>Dijon</placeName><country
-                                corresp="#FRE">France</country></birth>
-                        <death when="1678">Mort en 1678 à <placeName>Dijon</placeName><country
-                                corresp="#FRE">France</country></death>
+                        <birth when="1618">Né en 1618 à <placeName>Dijon</placeName><country>France</country></birth>
+                        <death when="1678">Mort en 1678 à<placeName>Dijon</placeName><country>France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
                         <education/>
-                        <occupation/>
+                        <occupation>Cuisinier</occupation>
                         <affiliation/>
                         <socecStatus/>
-                        <note> cuisinier français.</note>
+                        <note>un cuisinier français.  Cuisinier du marquis d’Uxelles, gouverneur de Chalon-sur-Saône, </note>
                         <event>
-                            <desc>Le Cuisinier françois <date>1651</date></desc>
-                            <desc>Le Pâtissier françois, <date>1653.</date></desc>
+                            <desc>Le Cuisinier françois, enseignant la maniere de bien apprester
+                                &amp; assaisonner toutes sortes de viandes, grasses &amp; maigres,
+                                legumes, &amp; patisseries en perfection, &amp;c. Reveu, corrigé,
+                                &amp; &amp;augmenté d'un traitté de confitures seiches &amp;
+                                liquides, &amp; autres delicatesses de bouche. Ensemble d'une table
+                                alphabetique des matieres qui sont traittées dans tout le livre,
+                                1651 ; réédité sous le titre : Le Cuisinier françois, préface de
+                                Mary et Philip Hyman, Orthez, Éditions Manucius, 2001.<date/></desc>
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000107185739</idno>
                         <idno type="URI"
@@ -6478,23 +6508,6 @@
                             xml:id="De_historia_piscium"><title>De historia piscium (History of
                                 Fish) - </title><author ref="#Willughbi_ISN0000000081566452">Francis
                                 Willughbi</author><date when="1686">1686</date></bibl>
-                        <biblStruct type="book" xml:id="Le_Noble1690"
-                            corresp="http://zotero.org/users/1449659/items/AYRHFXTV">
-                            <monogr>
-                                <title level="m">L'allée de la seringue ou Les noyers : poème
-                                    hérosatyrique en quatre chants ([Reprod.]) / [par Eustache
-                                    Lenoble]</title>
-                                <title type="short">L'allée de la seringue ou Les noyers</title>
-                                <author><forename>Eustache (1643-1711) Auteur du
-                                        texte</forename><surname>Le Noble</surname></author>
-                                <imprint>
-                                    <date>1690</date>
-                                    <note type="accessed">2019-05-08T13:41:01Z</note>
-                                    <note type="url"
-                                        >https://gallica.bnf.fr/ark:/12148/bpt6k57627c</note>
-                                </imprint>
-                            </monogr>
-                        </biblStruct>
 
                         <bibl xml:base="https://fr.wikipedia.org/wiki/Le_Comte_de_Gabalis"
                             corresp="http://catalogue.bnf.fr/ark:/12148/cb37280623n"
@@ -6525,7 +6538,6 @@
                                 Canonique</title><author ref="#Louis_Dubois_avocat">Louis
                                 Dubois</author><note corresp="#Simon_ISN0000000015276078">réédite
                                 Denis Simon</note></bibl>
-
                         <biblStruct xml:id="Parfait_Negociant">
                             <monogr>
                                 <title>Le Parfait négociant, ou Instruction générale pour ce qui
@@ -6642,9 +6654,8 @@
                                     <publisher>A Paris, chez Jean Camusat. M.DC.XXXIX</publisher>
                                     <date>1639</date>
                                     <note type="accessed">2018-01-05T17:07:00Z</note>
-                                    <note type="url">http://gallica.bnf.fr/ark:/12148/bpt6k55303536,
-                                        also at
-                                        http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/DESMARETS_VISIONNAIRES.xml</note>
+                                    <note type="url"
+                                        >http://gallica.bnf.fr/ark:/12148/bpt6k55303536</note>
                                 </imprint>
                             </monogr>
                         </biblStruct>
@@ -6744,7 +6755,6 @@
                     <gloss xml:id="coutelier"><name>coutelier</name></gloss>
                     <gloss xml:id="coutume"><name>coutume / coutumes</name></gloss>
                     <gloss xml:id="couture"><name>couture</name></gloss>
-                    <gloss xml:id="cuisinier"><name>cuisinier</name></gloss>
                     <gloss xml:id="degraisseur"><name>degraisseur</name></gloss>
                     <gloss xml:id="devotion"><name>devotion</name></gloss>
                     <gloss xml:id="droit"><name>droit</name></gloss>
@@ -6817,7 +6827,6 @@
                     <gloss xml:id="relations"><name>relations</name></gloss>
                     <gloss xml:id="relieur"><name>relieur</name></gloss>
                     <gloss xml:id="rhetorique"><name>rhetorique</name></gloss>
-                    <gloss xml:id="rotisseur"><name>rotisseur</name></gloss>
                     <gloss xml:id="societe"><name>societe</name></gloss>
                     <gloss xml:id="sorbonne"><name>Sorbonne</name></gloss>
                     <gloss xml:id="taillandier"><name>taillandier</name></gloss>
@@ -6838,7 +6847,6 @@
                     <gloss xml:id="bas"><name>bas</name></gloss>
                     <gloss xml:id="burlesque"><name>burlesque</name></gloss>
                     <gloss xml:id="populaire"><name>populaire</name></gloss>
-                    <gloss xml:id="vieux"><name>vieux</name></gloss>
                 </taxonomy>
             </classDecl>
 
