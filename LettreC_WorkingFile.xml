@@ -3747,6 +3747,31 @@
                             >https://fr.wikipedia.org/wiki/Brant%C3%B4me_(%C3%A9crivain)</idno>
                     </person>
 
+                    <person xml:id="Brutel_ISN0000000080021848">
+                        <persName>
+                            <forename>Jean-Baptiste</forename>
+                            <surname>Brutel de la Rivière</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1669-08-17">né le 17 aout 1669 à  <placeName>Montpellier</placeName><country corresp="#FRE"> France</country></birth>
+                        <death  when="1742-08-14">mort le 14 août 1742 à <placeName>Amsterdam</placeName><country corresp="#NLD"> Pays Bas</country></death>
+                        <sex>Masculin</sex>
+                        <nationality> Française</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>	
+                            Lexicographe, linguiste, traducteur</note>
+                        <event>
+                            <desc>Il compléta et corrigea, à la suite de Henri Basnage de Beauval le Dictionnaire universel de Antoine Furetière, en <date when="1727">1727</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000080021848</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Jean-Baptiste_Brutel_de_la_Rivière</idno>
+                    </person>
 
                     <person xml:id="CHdeM_ISN0000000115877807">
                         <persName>
