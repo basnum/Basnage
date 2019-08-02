@@ -3464,7 +3464,31 @@
                     <head>Personnes citées mais non indexés en tête du dictionnaire</head>
 
 
-
+                    <person xml:id="TEMPLATE2_ISN">
+                        <persName>
+                            <forename/>
+                            <surname>Zosime</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth><placeName/><country/></birth>
+                        <death><placeName/><country/></death>
+                        <sex/>
+                        <nationality/>
+                        <faith/>
+                        <education/>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/</idno>
+                        <idno type="URI"/>
+                    </person>
+                    
                     <person xml:id="Ab_de_SR_ISN0000000110500672">
                         <persName>
                             <forename>César</forename>
@@ -3717,6 +3741,31 @@
                         <idno>ISN:0000000061242370</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Laurent_Bouchel</idno>
                     </person>
+                    
+                    <person xml:id="Boursault_ISN0000000083429101">
+                        <persName>
+                            <forename>Esme</forename>
+                            <surname>Boursault</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1638-10-06">né le 6 octobre 1638 à<placeName> Mussy l’Évêque, </placeName><country corresp="#FRE">France</country></birth>
+                        <death when="1701-09-15">mort le 15 septembre 1701 à <placeName>Montluçon, </placeName><country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education>autodidacte</education>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>Dramaturge</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000083429101</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Edme_Boursault</idno>
+                    </person>
                     <person xml:id="Brantome_ISN0000000121024739">
                         <persName>
                             <forename>Pierre</forename>
@@ -3746,31 +3795,7 @@
                             >https://fr.wikipedia.org/wiki/Brant%C3%B4me_(%C3%A9crivain)</idno>
                     </person>
 
-                    <person xml:id="Brutel_ISN0000000080021848">
-                        <persName>
-                            <forename>Jean-Baptiste</forename>
-                            <surname>Brutel de la Rivière</surname>
-                            <roleName/>
-                            <addName/>
-                            <abbr/>
-                        </persName>
-                        <birth when="1669-08-17">né le 17 aout 1669 à  <placeName>Montpellier</placeName><country corresp="#FRE"> France</country></birth>
-                        <death  when="1742-08-14">mort le 14 août 1742 à <placeName>Amsterdam</placeName><country corresp="#NLD"> Pays Bas</country></death>
-                        <sex>Masculin</sex>
-                        <nationality> Française</nationality>
-                        <faith>Protestant</faith>
-                        <education/>
-                        <occupation/>
-                        <affiliation/>
-                        <socecStatus/>
-                        <note>	
-                            Lexicographe, linguiste, traducteur</note>
-                        <event>
-                            <desc>Il compléta et corrigea, à la suite de Henri Basnage de Beauval le Dictionnaire universel de Antoine Furetière, en <date when="1727">1727</date></desc>
-                        </event>
-                        <idno type="ISNI">http://www.isni.org/isni/0000000080021848</idno>
-                        <idno type="URI">https://fr.wikipedia.org/wiki/Jean-Baptiste_Brutel_de_la_Rivière</idno>
-                    </person>
+                    
 
                     <person xml:id="CHdeM_ISN0000000115877807">
                         <persName>
@@ -4076,9 +4101,9 @@
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Protestant</faith>
-                        <education/>
+                        <education>Académie de Saumur</education>
                         <occupation>Pasteur</occupation>
-                        <affiliation/>
+                        <affiliation>Académie de Saumur, </affiliation>
                         <socecStatus/>
                         <note>Pasteur, théologien protestant</note>
                         <event>
@@ -5039,29 +5064,7 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jean_Mabillon</idno>
                     </person>
 
-                    <person xml:id="LeersA_ISN0000000109088641">
-                        <persName>
-                            <forename>Arnout</forename>
-                            <surname>Leers</surname>
-                            <roleName/>
-                            <addName>de jonge, le fils</addName>
-                            <abbr/>
-                        </persName>
-                        <birth when="1643-10">Octobre 1643</birth>
-                        <death>1701</death>
-                        <sex>Masculin</sex>
-                        <nationality>Pays bas</nationality>
-                        <faith>Protestant</faith>
-                        <education/>
-                        <occupation>Libraire</occupation>
-                        <affiliation/>
-                        <socecStatus/>
-                        <note/>
-                        <event>
-                            <desc><date/></desc>
-                        </event>
-                        <idno/>
-                    </person>
+                    
 
 
 
@@ -6259,6 +6262,139 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000115727294</idno>
                         <idno type="URI">https://catalogue.bnf.fr/ark:/12148/cb12080231x</idno>
                     </person>
+                   
+                </listPerson>
+                <listPerson type="Related">
+                    
+                    <person xml:id="Brutel_ISN0000000080021848">
+                        <persName>
+                            <forename>Jean-Baptiste</forename>
+                            <surname>Brutel de la Rivière</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1669-08-17">né le 17 aout 1669 à  <placeName>Montpellier</placeName><country corresp="#FRE"> France</country></birth>
+                        <death  when="1742-08-14">mort le 14 août 1742 à <placeName>Amsterdam</placeName><country corresp="#NLD"> Pays Bas</country></death>
+                        <sex>Masculin</sex>
+                        <nationality> Française</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>	
+                            Lexicographe, linguiste, traducteur</note>
+                        <event>
+                            <desc>Il compléta et corrigea, à la suite de Henri Basnage de Beauval le Dictionnaire universel de Antoine Furetière, en <date when="1727">1727</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000080021848</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Jean-Baptiste_Brutel_de_la_Rivière</idno>
+                    </person>
+                    
+                    
+                    
+                    <person xml:id="Desbordes_ISN0000000116490022">
+                        <persName>
+                            <forename>Henri</forename>
+                            <surname> Desbordes</surname>
+                            <roleName/>
+                            <addName>Bordesius</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1649">1649 <placeName>Saumur</placeName><country corresp="#FRE">France</country></birth>
+                        <death when="1722">circa 1722<placeName>Amsterdam</placeName><country corresp="#NLD">Netherlands</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation>Imprimeur, libraire</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>Imprimeur, fils d'Isaac Desbordes de Saumur. Imprisonné en 1682 à cause de la publication d'un ouvrage de Jurrieu. Partie à Amsterdam an 1682. Imprimeur des 'Nouvelles de la république des lettres' de Bayle.</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000116490022</idno>
+                        <idno type="URI">https://en.wikipedia.org/wiki/Henri_Desbordes</idno>
+                    </person>
+                    
+                    <person xml:id="LeersA_ISN0000000109088641">
+                        <persName>
+                            <forename>Arnout</forename>
+                            <surname>Leers</surname>
+                            <roleName/>
+                            <addName>de jonge, le fils</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1643"> 1643</birth>
+                        <death>1701</death>
+                        <sex>Masculin</sex>
+                        <nationality>Pays bas</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation>Imprimeur, Libraire</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="BNF">https://data.bnf.fr/atelier/12255993/arnout_leers/</idno>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000109088641</idno>
+                    </person>
+                    
+                    <person xml:id="LeersR_ISN0000000108710486">
+                        <persName>
+                            <forename>Reinier</forename>
+                            <surname>Leers</surname>
+                            <roleName/>
+                            <addName></addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1654"> 1654</birth>
+                        <death when="1714">1714</death>
+                        <sex>Masculin</sex>
+                        <nationality>Pays bas</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation>Imprimeur, Libraire</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>publisher in Rotterdam, whose works included the journal Histoire des Ouvrages des Savans.</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="BNF">https://data.bnf.fr/fr/search?term=Reinier+Leers</idno>
+                        <idno type="URI">https://en.wikipedia.org/wiki/Reinier_Leers</idno>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000108710486</idno>
+                    </person>
+                    
+                    <person xml:id="Rochefort_ISN0000000109290866">
+                        <persName>
+                            <forename>César</forename>
+                            <surname>de Rochefort</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1630">Né 1630 à <placeName>Bellay</placeName><country corresp="#FRE">France</country></birth>
+                        <death when="1691">Mort en 1691 à<placeName>Bellay</placeName><country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Cathilique</faith>
+                        <education>Sapienza, Rome</education>
+                        <occupation>Avocat</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note> juriste, un lexicographe et un essayiste</note>
+                        <event>
+                            <desc>Dictionnaire général des mots les plus usités de la langue française, avec les étymologies, etc. <placeName>Lyon, </placeName><date>1685</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000109290866</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/César_de_Rochefort</idno>
+                    </person>
+                    
                 </listPerson>
                 <listOrg>
                     <head>Institutions</head>
