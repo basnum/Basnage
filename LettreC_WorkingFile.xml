@@ -3489,7 +3489,7 @@
                         <idno type="ISNI">http://www.isni.org/isni/</idno>
                         <idno type="URI"/>
                     </person>
-                    
+
                     <person xml:id="Ab_de_SR_ISN0000000110500672">
                         <persName>
                             <forename>César</forename>
@@ -3742,7 +3742,7 @@
                         <idno>ISN:0000000061242370</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Laurent_Bouchel</idno>
                     </person>
-                    
+
                     <person xml:id="Boursault_ISN0000000083429101">
                         <persName>
                             <forename>Esme</forename>
@@ -3751,8 +3751,10 @@
                             <addName/>
                             <abbr/>
                         </persName>
-                        <birth when="1638-10-06">né le 6 octobre 1638 à<placeName> Mussy l’Évêque, </placeName><country corresp="#FRE">France</country></birth>
-                        <death when="1701-09-15">mort le 15 septembre 1701 à <placeName>Montluçon, </placeName><country corresp="#FRE">France</country></death>
+                        <birth when="1638-10-06">né le 6 octobre 1638 à<placeName> Mussy l’Évêque,
+                                </placeName><country corresp="#FRE">France</country></birth>
+                        <death when="1701-09-15">mort le 15 septembre 1701 à <placeName>Montluçon,
+                                </placeName><country corresp="#FRE">France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -3796,7 +3798,7 @@
                             >https://fr.wikipedia.org/wiki/Brant%C3%B4me_(%C3%A9crivain)</idno>
                     </person>
 
-                    
+
 
                     <person xml:id="CHdeM_ISN0000000115877807">
                         <persName>
@@ -3969,6 +3971,35 @@
                         </event>
                         <idno>ISN 0000 0001 0877 1393</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Paul_Colomiès</idno>
+                    </person>
+
+                    <person xml:id="Commire_ISN0000000061242442">
+                        <persName>
+                            <forename>Jean</forename>
+                            <surname>Commire</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr>COM</abbr>
+                        </persName>
+                        <birth when="1625-03-25">né le 25 mars 1625 à
+                                <placeName>Amboise</placeName><country corresp="#FRE"
+                                >France</country></birth>
+                        <death when="1702-12-25">mort le 25 décembre 1702
+                                à<placeName>Paris</placeName><country corresp="#FRE"
+                                >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education>Jésuite</education>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>écrivain</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000061242442</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Jean_Commire</idno>
                     </person>
 
                     <person xml:id="Cousin_ISN0000000107730362">
@@ -4412,7 +4443,7 @@
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Jean_Duvergier_de_Hauranne</idno>
                     </person>
-                    
+
                     <person xml:id="Fatio_ISN000000002518197X">
                         <persName>
                             <forename>Nicolas</forename>
@@ -4421,8 +4452,11 @@
                             <addName>Faccio, Facio</addName>
                             <abbr/>
                         </persName>
-                        <birth when="1664-02-16">Né le 16 février 1664 à <placeName>Bâle</placeName><country corresp="CHE">Suisse</country></birth>
-                        <death when="1753-05-12">Mort le 12 mai 1753 à <placeName>Madresfield, </placeName><country corresp="#GBR">England</country></death>
+                        <birth when="1664-02-16">Né le 16 février 1664 à
+                                <placeName>Bâle</placeName><country corresp="CHE"
+                            >Suisse</country></birth>
+                        <death when="1753-05-12">Mort le 12 mai 1753 à <placeName>Madresfield,
+                                </placeName><country corresp="#GBR">England</country></death>
                         <sex>Masculin</sex>
                         <nationality>Suisse</nationality>
                         <faith>Protestant</faith>
@@ -4430,12 +4464,14 @@
                         <occupation/>
                         <affiliation>Royal Society</affiliation>
                         <socecStatus/>
-                        <note>mathematician, natural philosopher, inventor, and religious campaigner</note>
+                        <note>mathematician, natural philosopher, inventor, and religious
+                            campaigner</note>
                         <event>
                             <desc><date/></desc>
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/000000002518197X</idno>
-                        <idno type="URI">https://en.wikipedia.org/wiki/Nicolas_Fatio_de_Duillier</idno>
+                        <idno type="URI"
+                            >https://en.wikipedia.org/wiki/Nicolas_Fatio_de_Duillier</idno>
                     </person>
 
 
@@ -5008,7 +5044,7 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000122827058 </idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Anne_Dacier</idno>
                     </person>
-                    
+
                     <person xml:id="Le_Notre_ISN0000000121318665">
                         <persName>
                             <forename>André</forename>
@@ -5017,8 +5053,10 @@
                             <addName>Bonhomme le Nôtre, Le Nostre</addName>
                             <abbr/>
                         </persName>
-                        <birth when="1613-03-12">Né le 12 mars 1613 à <placeName>Paris </placeName><country  corresp="#FRE">France</country></birth>
-                        <death when="1700-09-12">Mort le 15 septembre  1700 à <placeName>Paris </placeName><country  corresp="#FRE">France</country></death>
+                        <birth when="1613-03-12">Né le 12 mars 1613 à <placeName>Paris
+                                </placeName><country corresp="#FRE">France</country></birth>
+                        <death when="1700-09-12">Mort le 15 septembre 1700 à <placeName>Paris
+                                </placeName><country corresp="#FRE">France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -5033,7 +5071,7 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000121318665</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/André_Le_Nôtre</idno>
                     </person>
-                    
+
                     <person xml:id="Le_P_Mab_ISN0000000121416396">
                         <persName>
                             <forename>Jean</forename>
@@ -5065,7 +5103,7 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jean_Mabillon</idno>
                     </person>
 
-                    
+
 
 
 
@@ -5586,6 +5624,37 @@
                         <idno>http://www.isni.org/isni/0000000090998097</idno>
                         <idno type="URI">https://de.wikipedia.org/wiki/François-Antoine_Pomey</idno>
                     </person>
+
+                    <person xml:id="Postel_ISN0000000121364266">
+                        <persName>
+                            <forename>Guillaume</forename>
+                            <surname>Postel</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1510-03-25">né le 25 mars 1510 dans <placeName>le hameau de la
+                                Dolerie sur la paroisse de Barenton</placeName><country
+                                corresp="#FRE">France</country></birth>
+                        <death when="1581-09-06">Mort le 6 septembre 1581 à<placeName>Paris, ou plus
+                                probabalement Trappes</placeName><country corresp="#FRE"
+                                >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education>Collège Ste Barbe</education>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>un orientaliste, un philologue et un théosophe français de confession
+                            catholique. Esprit universel et cosmopolite, Postel est le représentant
+                            français le plus caractéristique de la kabbale chrétienne.</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000121364266</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Guillaume_Postel</idno>
+                    </person>
                     <person xml:id="Pufendorf_ISN0000000121033328">
                         <persName>
                             <forename>Sebastien</forename>
@@ -6082,8 +6151,10 @@
                             <addName/>
                             <abbr/>
                         </persName>
-                        <birth when="1618">Né en 1618 à <placeName>Dijon</placeName><country>France</country></birth>
-                        <death when="1678">Mort en 1678 à<placeName>Dijon</placeName><country>France</country></death>
+                        <birth when="1618">Né en 1618 à
+                                <placeName>Dijon</placeName><country>France</country></birth>
+                        <death when="1678">Mort en 1678
+                                à<placeName>Dijon</placeName><country>France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -6091,7 +6162,8 @@
                         <occupation>Cuisinier</occupation>
                         <affiliation/>
                         <socecStatus/>
-                        <note>un cuisinier français.  Cuisinier du marquis d’Uxelles, gouverneur de Chalon-sur-Saône, </note>
+                        <note>un cuisinier français. Cuisinier du marquis d’Uxelles, gouverneur de
+                            Chalon-sur-Saône, </note>
                         <event>
                             <desc>Le Cuisinier françois, enseignant la maniere de bien apprester
                                 &amp; assaisonner toutes sortes de viandes, grasses &amp; maigres,
@@ -6263,10 +6335,10 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000115727294</idno>
                         <idno type="URI">https://catalogue.bnf.fr/ark:/12148/cb12080231x</idno>
                     </person>
-                   
+
                 </listPerson>
                 <listPerson type="Related">
-                    
+
                     <person xml:id="Brutel_ISN0000000080021848">
                         <persName>
                             <forename>Jean-Baptiste</forename>
@@ -6275,8 +6347,12 @@
                             <addName/>
                             <abbr/>
                         </persName>
-                        <birth when="1669-08-17">né le 17 aout 1669 à  <placeName>Montpellier</placeName><country corresp="#FRE"> France</country></birth>
-                        <death  when="1742-08-14">mort le 14 août 1742 à <placeName>Amsterdam</placeName><country corresp="#NLD"> Pays Bas</country></death>
+                        <birth when="1669-08-17">né le 17 aout 1669 à
+                                <placeName>Montpellier</placeName><country corresp="#FRE">
+                                France</country></birth>
+                        <death when="1742-08-14">mort le 14 août 1742 à
+                                <placeName>Amsterdam</placeName><country corresp="#NLD"> Pays
+                                Bas</country></death>
                         <sex>Masculin</sex>
                         <nationality> Française</nationality>
                         <faith>Protestant</faith>
@@ -6284,17 +6360,19 @@
                         <occupation/>
                         <affiliation/>
                         <socecStatus/>
-                        <note>	
-                            Lexicographe, linguiste, traducteur</note>
+                        <note> Lexicographe, linguiste, traducteur</note>
                         <event>
-                            <desc>Il compléta et corrigea, à la suite de Henri Basnage de Beauval le Dictionnaire universel de Antoine Furetière, en <date when="1727">1727</date></desc>
+                            <desc>Il compléta et corrigea, à la suite de Henri Basnage de Beauval le
+                                Dictionnaire universel de Antoine Furetière, en <date when="1727"
+                                    >1727</date></desc>
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000080021848</idno>
-                        <idno type="URI">https://fr.wikipedia.org/wiki/Jean-Baptiste_Brutel_de_la_Rivière</idno>
+                        <idno type="URI"
+                            >https://fr.wikipedia.org/wiki/Jean-Baptiste_Brutel_de_la_Rivière</idno>
                     </person>
-                    
-                    
-                    
+
+
+
                     <person xml:id="Desbordes_ISN0000000116490022">
                         <persName>
                             <forename>Henri</forename>
@@ -6303,8 +6381,10 @@
                             <addName>Bordesius</addName>
                             <abbr/>
                         </persName>
-                        <birth when="1649">1649 <placeName>Saumur</placeName><country corresp="#FRE">France</country></birth>
-                        <death when="1722">circa 1722<placeName>Amsterdam</placeName><country corresp="#NLD">Netherlands</country></death>
+                        <birth when="1649">1649 <placeName>Saumur</placeName><country corresp="#FRE"
+                                >France</country></birth>
+                        <death when="1722">circa 1722<placeName>Amsterdam</placeName><country
+                                corresp="#NLD">Netherlands</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Protestant</faith>
@@ -6312,14 +6392,17 @@
                         <occupation>Imprimeur, libraire</occupation>
                         <affiliation/>
                         <socecStatus/>
-                        <note>Imprimeur, fils d'Isaac Desbordes de Saumur. Imprisonné en 1682 à cause de la publication d'un ouvrage de Jurrieu. Partie à Amsterdam an 1682. Imprimeur des 'Nouvelles de la république des lettres' de Bayle.</note>
+                        <note>Imprimeur, fils d'Isaac Desbordes de Saumur. Imprisonné en 1682 à
+                            cause de la publication d'un ouvrage de Jurrieu. Partie à Amsterdam an
+                            1682. Imprimeur des 'Nouvelles de la république des lettres' de
+                            Bayle.</note>
                         <event>
                             <desc><date/></desc>
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000116490022</idno>
                         <idno type="URI">https://en.wikipedia.org/wiki/Henri_Desbordes</idno>
                     </person>
-                    
+
                     <person xml:id="LeersA_ISN0000000109088641">
                         <persName>
                             <forename>Arnout</forename>
@@ -6344,13 +6427,13 @@
                         <idno type="BNF">https://data.bnf.fr/atelier/12255993/arnout_leers/</idno>
                         <idno type="ISNI">http://www.isni.org/isni/0000000109088641</idno>
                     </person>
-                    
+
                     <person xml:id="LeersR_ISN0000000108710486">
                         <persName>
                             <forename>Reinier</forename>
                             <surname>Leers</surname>
                             <roleName/>
-                            <addName></addName>
+                            <addName/>
                             <abbr/>
                         </persName>
                         <birth when="1654"> 1654</birth>
@@ -6362,7 +6445,8 @@
                         <occupation>Imprimeur, Libraire</occupation>
                         <affiliation/>
                         <socecStatus/>
-                        <note>publisher in Rotterdam, whose works included the journal Histoire des Ouvrages des Savans.</note>
+                        <note>publisher in Rotterdam, whose works included the journal Histoire des
+                            Ouvrages des Savans.</note>
                         <event>
                             <desc><date/></desc>
                         </event>
@@ -6370,7 +6454,7 @@
                         <idno type="URI">https://en.wikipedia.org/wiki/Reinier_Leers</idno>
                         <idno type="ISNI">http://www.isni.org/isni/0000000108710486</idno>
                     </person>
-                    
+
                     <person xml:id="Rochefort_ISN0000000109290866">
                         <persName>
                             <forename>César</forename>
@@ -6379,8 +6463,10 @@
                             <addName/>
                             <abbr/>
                         </persName>
-                        <birth when="1630">Né 1630 à <placeName>Bellay</placeName><country corresp="#FRE">France</country></birth>
-                        <death when="1691">Mort en 1691 à<placeName>Bellay</placeName><country corresp="#FRE">France</country></death>
+                        <birth when="1630">Né 1630 à <placeName>Bellay</placeName><country
+                                corresp="#FRE">France</country></birth>
+                        <death when="1691">Mort en 1691 à<placeName>Bellay</placeName><country
+                                corresp="#FRE">France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Cathilique</faith>
@@ -6390,12 +6476,14 @@
                         <socecStatus/>
                         <note> juriste, un lexicographe et un essayiste</note>
                         <event>
-                            <desc>Dictionnaire général des mots les plus usités de la langue française, avec les étymologies, etc. <placeName>Lyon, </placeName><date>1685</date></desc>
+                            <desc>Dictionnaire général des mots les plus usités de la langue
+                                française, avec les étymologies, etc. <placeName>Lyon,
+                                    </placeName><date>1685</date></desc>
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000109290866</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/César_de_Rochefort</idno>
                     </person>
-                    
+
                 </listPerson>
                 <listOrg>
                     <head>Institutions</head>
