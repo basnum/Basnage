@@ -6338,6 +6338,31 @@
 
                 </listPerson>
                 <listPerson type="Related">
+                    
+                    <person xml:id="Guyillaume_ISN">
+                        <persName>
+                            <forename/>
+                            <surname>Hesse-Cassel</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth><placeName/><country/></birth>
+                        <death><placeName/><country/></death>
+                        <sex/>
+                        <nationality/>
+                        <faith/>
+                        <education/>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/</idno>
+                        <idno type="URI"/>
+                    </person>
 
                     <person xml:id="Brutel_ISN0000000080021848">
                         <persName>
@@ -21024,7 +21049,7 @@
                                     sert souvent de ce mot pour exprimer, une premiere dignité. Ii
                                     appelle l'Archevêque de Naples, <hi rendition="#i">Evêque
                                         Cardinal</hi> , parcequ'à cause de sa dignité, it étoit l'un
-                                    des premiers entre les Evêques de la Pouille. Sous ce Pape les
+                                    des premiers entre les <seg>Evêques de la Pouille</seg>. Sous ce Pape les
                                         <hi rendition="#i">Cardinaux</hi> Prêtres &amp; les <hi
                                         rendition="#i">Cardinaux</hi> Diacres n'étoient autre chose
                                     que les Prêtres ou les Diacres qui avoient une Eglise, ou une
