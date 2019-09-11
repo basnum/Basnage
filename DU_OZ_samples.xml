@@ -7,7 +7,7 @@
         <fileDesc>
             <titleStmt>
 
-                <title type="main" xml:lang="fre">Dictionnaire universel contenant généralement tous
+                <title type="main" xml:lang="fra">Dictionnaire universel contenant généralement tous
                     les mots françois tant vieux que modernes et les termes des sciences et des
                     arts,.... 1701. - Une édition numérique</title>
                 <title type="sub">Lettre C</title>
@@ -10695,7 +10695,7 @@
 
                     <pb n="144"/>
 
-                    <entry xml:id="Paroxisme" xml:lang="fre">
+                    <entry xml:id="Paroxisme" xml:lang="fra">
                         <form>
                             <orth rendition="#uc">paroxisme.</orth>
                             <gramGrp>
@@ -10714,7 +10714,7 @@
                         </sense>
                     </entry>
 
-                    <entry xml:id="Paroy" xml:lang="fre">
+                    <entry xml:id="Paroy" xml:lang="fra">
                         <form>
                             <orth rendition="#uc">paroy.</orth>
                             <gramGrp>
@@ -10783,7 +10783,7 @@
                         </sense>
                     </entry>
 
-                    <entry xml:id="Parpaillot" xml:lang="fre">
+                    <entry xml:id="Parpaillot" xml:lang="fra">
                         <form>
                             <orth rendition="#uc">parpaillot.</orth>
                             <gramGrp>
@@ -10820,7 +10820,7 @@
                         </sense>
                     </entry>
 
-                    <entry xml:id="Parpain" xml:lang="fre">
+                    <entry xml:id="Parpain" xml:lang="fra">
                         <form>
                             <orth rendition="#uc" extent="full">parpain,</orth>
                             <lbl>ou</lbl>
@@ -10845,7 +10845,7 @@
                         </sense>
                     </entry>
 
-                    <entry xml:id="Parpaye" xml:lang="fre">
+                    <entry xml:id="Parpaye" xml:lang="fra">
                         <form>
                             <orth rendition="#uc">parpaye.</orth>
                             <gramGrp>
@@ -10859,7 +10859,7 @@
                         </sense>
                     </entry>
 
-                    <entry xml:id="Parpayer" xml:lang="fre">
+                    <entry xml:id="Parpayer" xml:lang="fra">
                         <form>
                             <orth rendition="#uc">parpayer.</orth>
                             <gramGrp>
@@ -10873,7 +10873,7 @@
                         </sense>
                     </entry>
 
-                    <entry xml:id="Parque" xml:lang="fre">
+                    <entry xml:id="Parque" xml:lang="fra">
                         <form>
                             <orth rendition="#uc">parque.</orth>
                             <gramGrp>
@@ -10942,7 +10942,7 @@
                         </sense>
                     </entry>
 
-                    <entry xml:id="Parquer" xml:lang="fre">
+                    <entry xml:id="Parquer" xml:lang="fra">
                         <form>
                             <orth rendition="#uc">parquer.</orth>
                             <gramGrp>
@@ -10999,7 +10999,7 @@
                         </sense>
                     </entry>
 
-                    <entry xml:id="Parquet" xml:lang="fre">
+                    <entry xml:id="Parquet" xml:lang="fra">
                         <form>
                             <orth rendition="#uc">parquet.</orth>
                             <gramGrp>
@@ -11076,7 +11076,7 @@
                         </sense>
                     </entry>
 
-                    <entry xml:id="Parquetage" xml:lang="fre">
+                    <entry xml:id="Parquetage" xml:lang="fra">
                         <form>
                             <orth rendition="#uc">parquetage.</orth>
                             <gramGrp>
@@ -11092,7 +11092,7 @@
                         </sense>
                     </entry>
 
-                    <entry xml:id="Parqueter" xml:lang="fre">
+                    <entry xml:id="Parqueter" xml:lang="fra">
                         <form>
                             <orth rendition="#uc">parqueter.</orth>
                             <gramGrp>
@@ -11111,7 +11111,7 @@
                         </sense>
                     </entry>
 
-                    <entry xml:id="Parquoy" xml:lang="fre">
+                    <entry xml:id="Parquoy" xml:lang="fra">
                         <form>
                             <orth rendition="#uc">parquoy.</orth>
                             <gramGrp>
@@ -11133,7 +11133,7 @@
                         </sense>
                     </entry>
 
-                    <entry xml:id="Parrein" xml:lang="fre">
+                    <entry xml:id="Parrein" xml:lang="fra">
                         <form>
                             <orth rendition="#uc" extent="full">parrein,</orth>
                             <lbl>ou</lbl>
@@ -11227,7 +11227,7 @@
                             des Saints.</note>
                     </entry>
 
-                    <entry xml:id="Parricide" xml:lang="fre">
+                    <entry xml:id="Parricide" xml:lang="fra">
                         <form>
                             <orth rendition="#uc">parricide.</orth>
                             <gramGrp>
@@ -11285,7 +11285,7 @@
                     </entry>
 
 
-                    <entry xml:id="Parroisse" xml:lang="fre">
+                    <entry xml:id="Parroisse" xml:lang="fra">
                         <form>
                             <orth rendition="#uc">paroisse.</orth>
                             <gramGrp>
@@ -11409,7 +11409,7 @@
                         </sense>
                     </entry>
 
-                    <entry xml:id="Parroissial" xml:lang="fre">
+                    <entry xml:id="Parroissial" xml:lang="fra">
                         <form>
                             <orth rendition="#uc" extent="full">paroissial,</orth>
                             <orth rendition="#sc" extent="part">ale.</orth>
@@ -11437,7 +11437,7 @@
                         </sense>
                     </entry>
 
-                    <entry xml:id="Parroissien" xml:lang="fre">
+                    <entry xml:id="Parroissien" xml:lang="fra">
                         <form>
                             <orth rendition="#uc" extent="full">paroissien,</orth>
                             <orth rendition="#sc" extent="part">enne.</orth>
