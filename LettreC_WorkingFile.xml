@@ -7653,7 +7653,7 @@
                                 </cit>
                                 <etym>Ce mot vient de l'Italien <lang xml:lang="ita">cappana</lang>
                                     qui signifie petite maison de chaume, qui a été fait du Grec
-                                        <lang xml:lang="gre">kabané</lang>, signifiant creche. <name
+                                        <lang xml:lang="ell">kabané</lang>, signifiant creche. <name
                                         ref="#Men_ISN0000000080815971"/>MEN. <name
                                         ref="#Isidore_ISN0000000122756296">Isidore</name> dit que le
                                     mot de <lang xml:lang="ita">capanna</lang> vient <lang
@@ -7730,7 +7730,7 @@
                                 <etym><bibl><author ref="#Men_ISN0000000080815971"
                                         >Menage</author></bibl> croit que ce mot vient de<lang
                                         xml:lang="lat"> caparetum,</lang>qui a été fait du Grec
-                                        <lang xml:lang="gre">kapi</lang>,qui signifie <hi
+                                        <lang xml:lang="ell">kapi</lang>,qui signifie <hi
                                         rendition="#i">lieu où l'on mange.</hi>
                                 </etym></sense>
 
@@ -9036,7 +9036,7 @@
                                         </quote>
                                     </cit>
                                 </cit>
-                                <etym>Ce mot vient du Grec <lang xml:lang="grc" rendition="#i"
+                                <etym>Ce mot vient du Grec <lang xml:lang="ell" rendition="#i"
                                     />kakos, malus, pravus, &amp; chymos, saccus</etym>
                             </sense>
 
@@ -9061,7 +9061,7 @@
                                 <def>C'est une épithete que les Medecins donnent aux ulceres
                                     malins</def>
                                 <note>Voyez <ref corresp="#Ulcere">ulcere</ref></note>
-                                <etym>Ce mot vient de <lang xml:lang="grc" rendition="#i">kakon
+                                <etym>Ce mot vient de <lang xml:lang="ell" rendition="#i">kakon
                                         &amp; de ithos</lang>, <lang xml:lang="lat" rendition="#i"
                                         >consuetudo mala</lang>, mauvaise coutume. Ensuite il se
                                     prend pour une mauvaise disposition du corps tellement enracinee
@@ -9088,7 +9088,7 @@
                                     <bibl><author ref="#Mol_ISN0000000123197131" rendition="#sc"
                                             >mol.</author></bibl>
                                 </cit>
-                                <etym>Ce mot vient du Grec <lang xml:lang="gre" rendition="#i">kakos,
+                                <etym>Ce mot vient du Grec <lang xml:lang="ell" rendition="#i">kakos,
                                         pravus &amp;c phoneo, sono</lang></etym>
                             </sense>
                         </entry>
@@ -9477,7 +9477,7 @@
                             <sense n="1">
                                 <def>Chaîn à laquelle est attaché un galerien.</def>
                                 <etym>Ce mot vient de <lang xml:lang="lat">catena</lang> Latin, d'ou
-                                    les Espagnols ont fait aussi <lang xml:lang="esp"
+                                    les Espagnols ont fait aussi <lang xml:lang="spa"
                                         >cadena</lang><name ref="#Men_ISN0000000080815971"
                                         >Menage</name></etym>
                                 <note>On appelle aussi <hi rendition="#i">cadene</hi> de haubans, la
@@ -9829,8 +9829,8 @@
                                         rendition="#i">Feciales</hi>, &amp; ceux qui alloient
                                     demander la paix s'appelloient <hi rendition="#i"
                                         >Caduceatores</hi>. II seroit plus à-propos de faire venir
-                                    ce mot du Grec<lang xml:lang="gre"> kirukeion </lang>, qui
-                                    signifie le même &amp; qui vient de <lang xml:lang="gre">kirus
+                                    ce mot du Grec<lang xml:lang="ell"> kirukeion </lang>, qui
+                                    signifie le même &amp; qui vient de <lang xml:lang="ell">kirus
                                     </lang>, un <hi>heraut</hi>.</etym>
                                 <note>Le caducée qui se marque sur diverses médailles, est un
                                     symbole commun: il signifie la bonne conduite, la paix &amp; la
@@ -9941,7 +9941,7 @@
                                     arbrisseau. Ce fruit est de la grosseur de nos plus petits
                                     haricots, rond d'un côté, &amp; plat de l'autre; avec une fente
                                     au milieu, d'une couleur entre le blanc, &amp; le jaune
-                                    obscur.Les Turcs le nomment <hi rendition="#i">cahué</hi> ou <hi
+                                    obscur. Les Turcs le nomment <hi rendition="#i">cahué</hi> ou <hi
                                         rendition="#i">caoua</hi>. Elle est fort estimée par tout
                                     l'Orient, &amp; l'usage n'en est devenu commun en Occident que
                                     depuis environ 40 ans. Il y a en Turquie des cabarets exprès
@@ -11293,10 +11293,10 @@
                                 <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
                                         >m.</gen></gramGrp></form>
                             <sense n="1"><def> Plante qui est de deux sortes. Il y a le vrai
-                                        <foreign rendition="#i">calamus aromaticus</foreign> des
+                                        <foreign rendition="#i" xml:lang="lat">calamus aromaticus</foreign> des
                                     Anciens, qui vient dans les <name>Indes Orientales</name> &amp;
                                     qui est une espèce de roseau ; &amp; celui des boutiques. Le
-                                        <foreign rendition="#i">calamus aromaticus</foreign> des
+                                        <foreign rendition="#i" xml:lang="lat">calamus aromaticus</foreign> des
                                     boutiques est bien différent du premier ; il a une racine qui
                                     rampe presqu'à fleur de terre, &amp; qui jette beaucoup de
                                     filamens : elle est fort nouëe, de la grosseur du doigt, blanche
@@ -11458,7 +11458,7 @@
                                         >immersive</hi>. </note>
                                 <etym>Ce mot vient du Latin <lang rendition="#i" xml:lang="lat"
                                         >calx</lang>, qui vient du Grec <lang rendition="#i"
-                                        xml:lang="grc">calix</lang>, qui selon le <bibl><title
+                                        xml:lang="ell">calix</lang>, qui selon le <bibl><title
                                             ref="#Glossaire_Grec_Latin">Glossaire
                                         Grec-Latin</title></bibl> signifie <hi>pierre, ciment</hi>.
                                 </etym></sense>
@@ -12041,7 +12041,7 @@
                                     Botanique.</usg><def>Plante qu'on appelle autrement <hi
                                         rendition="#i">soucy</hi>, &amp; en Latin <foreign
                                         rendition="#i" xml:lang="latin">calendula </foreign> ou
-                                        <foreign rendition="#i" xml:lang="latin"
+                                        <foreign rendition="#i" xml:lang="lat"
                                     >caltha.</foreign></def>
                                 <xr>Voyez <ref rendition="#sc" corresp="#Soucy"
                                 >SOUCY.</ref></xr></sense>
@@ -12948,7 +12948,7 @@
                                 </cit>
                                 <note>Les Turcs donnent aussi quelque fois le nom de Caloyers à
                                     leurs Dervis ou Religieux Turcs.</note>
-                                <etym>Ce mot vient du <lang rendition="#i" xml:lang="grec"> kalos,
+                                <etym>Ce mot vient du <lang rendition="#i" xml:lang="ell"> kalos,
                                         bonus, &amp; biereus , Prêtre.</lang></etym>
                             </sense>
                         </entry>
@@ -13613,7 +13613,7 @@
                                         >firatakacin</foreign>, c'est-à-dire, queuë menuë. Les
                                     Italiens le nomment <foreign rendition="#i" xml:lang="ita"
                                         >giraffa</foreign>, de l'Arabe <foreign rendition="#i"
-                                        xml:lang="ar">Zurafa</foreign>. Quelques-uns veulent que le
+                                        xml:lang="ara">Zurafa</foreign>. Quelques-uns veulent que le
                                         <hi rendition="#i">cameleopard</hi> soit le méme animal ,
                                     que la girafe: mais cela ne se peut, puis que la girafe n'est
                                     pas plus grande qu'un veau.</note>
@@ -14384,7 +14384,7 @@
                                     xml:lang="lat" rendition="#i">curvus</lang> ou <hi>courbé</hi>
                                 par <name type="person">Servius</name>. <bibl><author
                                         ref="#Men_ISN0000000080815971"/>Menage</bibl> dit qu'il
-                                vient du Grec <lang xml:lang="gre" rendition="#i"
+                                vient du Grec <lang xml:lang="ell" rendition="#i"
                                 >kampi.</lang></etym>
 
                             <sense n="2"><usg>On dit proverbialement, qu'un homme est bien <hi
@@ -14804,7 +14804,7 @@
                                     nomment <lang rendition="#i" xml:lang="lat"
                                     >cancelli.</lang></def>
                             </sense>
-                            <etym>Ce mot vient du Grec <lang xml:lang="gre"
+                            <etym>Ce mot vient du Grec <lang xml:lang="ell"
                                         ><unclear>kinglizo</unclear></lang> qui signifie proprement,
                                 Environner une chose de quelque treillis, afin qu’on n’en puisse pas
                                 approcher</etym>
@@ -15265,8 +15265,8 @@
                                     ensorte que si on n’y met ordre, elle se mortifiera jusqu’à
                                     l’os. </def>
                                 <note> Quand cette mortification est parfaite, les Grecs l’appellent
-                                        <foreign rendition="#i" xml:lang="gre">sphakelos</foreign> ,
-                                    ou <foreign xml:lang="gre">nekrosis</foreign>, les Latins
+                                        <foreign rendition="#i" xml:lang="ell">sphakelos</foreign> ,
+                                    ou <foreign xml:lang="ell">nekrosis</foreign>, les Latins
                                         <foreign xml:lang="lat" rendition="#i">sideratio</foreign>,
                                     les Arabes <foreign rendition="#i" xml:lang="ara"
                                         >estiomenos</foreign>, &amp; le vulgaire le <hi
@@ -15295,7 +15295,7 @@
                                         >cangraine</hi>.</note>
                             </sense>
                             <etym>Ce mot de <hi rendition="#i">cangraine</hi> vient du Grec <lang
-                                    rendition="#i" xml:lang="gre">gangraina</lang>, qui signifie le
+                                    rendition="#i" xml:lang="ell">gangraina</lang>, qui signifie le
                                 meme, &amp; qui vient du verbe <lang>grao,manduco,
                                 absumo.</lang></etym>
                             <sense n="2"><form><orth rendition="#sc">cangraine</orth></form>
@@ -15380,7 +15380,7 @@
                                     <bibl><author ref="#Mol_ISN0000000123197131" rendition="#sc"
                                             >mol.</author></bibl>
                                 </cit>
-                                <note>Les Grecs l’appellent <foreign rendition="#i" xml:lang="gre"
+                                <note>Les Grecs l’appellent <foreign rendition="#i" xml:lang="ell"
                                         >prokyon</foreign>, les Latins <foreign rendition="#i"
                                         xml:lang="lat">antecanis</foreign>, parcequ’elle est proche
                                     du grand Chien, mais un peu plus septentrionale. </note>
@@ -16700,7 +16700,7 @@
                                     le <hi rendition="#i">petit canthus</hi>, l'<hi rendition="#i"
                                         >externe</hi> ou le <hi rendition="#i">sauvage</hi>. Ce mot
                                     est <lang>Grec</lang>, &amp; est dérivé par Du Laurens du verbe
-                                        <foreign xml:lang="grec"><hi rendition="#i"
+                                        <foreign xml:lang="ell"><hi rendition="#i"
                                         >knithestai</hi></foreign>, qui signifie <hi rendition="#i"
                                         >demanger</hi> parcequ'on sent d'ordinaire de la
                                     demangeaison en ces endroits-là.</note></sense>
@@ -17418,7 +17418,7 @@
                                     autrefois une armure de fer, dont on couvrait le cheval de
                                     bataille </note></sense>
                             <etym>Ce mot est un mot Espagnol augmentatif de <lang rendition="#i"
-                                    xml:lang="esp">cape</lang>, comme qui dirait <hi rendition="#i"
+                                    xml:lang="spa">cape</lang>, comme qui dirait <hi rendition="#i"
                                     >grande cape</hi></etym>
                         </entry>
 
@@ -18011,7 +18011,7 @@
                                 <note>En matiere d’arrerages, il les faut payer avant que de rien
                                     imputer sur le <hi>capital</hi>. On en use au contraire pour les
                                     interêts d'une obligation.</note>
-                                <etym>Ce mot vient du Latin <foreign rendition="#i" xml:lang="latin"
+                                <etym>Ce mot vient du Latin <foreign rendition="#i" xml:lang="lat"
                                         >caput</foreign>, &amp; capitale.</etym>
                             </sense>
 
@@ -18179,7 +18179,7 @@
                                         seulement differentes par la grosseur, mais la plupart le
                                         sont aussi par leur figure. On les appelle aussi <hi
                                             rendition="#i">majuscules</hi>.</note></sense>
-                                <etym>En latin <foreign rendition="#i" xml:lang="latin">littera
+                                <etym>En latin <foreign rendition="#i" xml:lang="lat">littera
                                         unciales</foreign>.</etym>
                             </re>
                         </entry>
@@ -19673,7 +19673,7 @@
                             <etym>
                                 <name>Gaja</name> dans son <title>Traité des armes</title>, croit
                                 que le mot de <hi rendition="#i">Carabin</hi> vient du mot Espagnol
-                                    <lang xml:lang="esp">cara</lang> &amp; du mot Latin <lang
+                                    <lang xml:lang="spa">cara</lang> &amp; du mot Latin <lang
                                     xml:lang="lat">binns</lang> qui signifie double, comme qui
                                 diroit gens à deux visages,à cause de leur maniere de combattre
                                 tantôt en fuyant, &amp; tantôt en faisant volte-face. </etym>
@@ -19778,9 +19778,9 @@
                                     quand on fait le demi-tour pour defiler, ou pour se faire voir
                                     plusieurs fois aux Princes, ou aux Officiers.</def>
                                 <etym>Ce mot est pris de l'Arabe, &amp; l'Arabe de l'Hebreu <foreign
-                                        xml:lang="Heb">carac</foreign>qui signifie <hi
+                                        xml:lang="heb">carac</foreign>qui signifie <hi
                                         rendition="#i">involvere</hi>
-                                    <name ref="#MEN_0000 0000 8081 5971  ">MEN</name>Mais il nous
+                                    <bibl><author ref="#MEN_0000 0000 8081 5971  ">men.</author></bibl>Mais il nous
                                     vient immediatement de l'Espagnol, où il signifie au propre un
                                         <hi rendition="#i">limaçon</hi>,&amp; au figuré les
                                     mouvements militaires qui viennent d'être expliquez.</etym>
@@ -20461,10 +20461,10 @@
                                         >Caravannes</hi> d'Alep, du Caire &amp; d'autres lieux tous
                                     les ans pour aller en Perse, à la Mecque, au Thibet, &amp;c.
                                     comme aussi des vaisseaux de Constantinople à Alexandrie</note>
-                                <etym>Ce mot vient de <hi rendition="i"><foreign xml:lang="Arabe"
+                                <etym>Ce mot vient de <hi rendition="i"><foreign xml:lang="ara"
                                             >Cairavan</foreign></hi>, qui en Arabe signifie la même
-                                    chose. <name ref="#D_Herb_ISN0000000110219020"
-                                    >D'HERB.</name></etym>
+                                    chose. <bibl><author rendition="#sc" ref="#D_Herb_ISN0000000110219020"
+                                    >d'herb.</author></bibl></etym>
                             </sense>
                             <sense n="2">
                                 <usg>On appelle aussi <hi rendition="i">Caravanne</hi>, les
@@ -20539,7 +20539,7 @@
                                     servit pour les Indes &amp; l'Ethiopie fut <name>Vasco de
                                         Gama</name>.</note>
                                 <etym> Ce mot vient du Latin <lang xml:lang="lat" rendition="#i"
-                                        >carabio</lang>, du Grec <lang xml:lang="gre"
+                                        >carabio</lang>, du Grec <lang xml:lang="ell"
                                     >karabion</lang>, <lang xml:lang="lat" rendition="#i"
                                         >savigium</lang>, <hi rendition="i">vaisseau</hi>, espece de
                                     vaisseau. </etym>
@@ -20646,7 +20646,7 @@
                                     un poteau dans une place publique, afin qu'ils soient exposez à
                                     la risée publique.</def>
                                 <note>On appelle cela en Espagnol <foreign rendition="#i"
-                                        xml:lang="Espagnol">poner a la verguença</foreign>. On l'a
+                                        xml:lang="spa">poner a la verguença</foreign>. On l'a
                                     aussi appellé <foreign xml:lang="lat" rendition="#i"
                                         >carcanuum</foreign> dans la basse Latinité, ou <foreign
                                         xml:lang="lat">collistrigium</foreign>.</note>
@@ -20901,7 +20901,7 @@
                                         <quote>Le vin est un grand <hi rendition="#i"
                                             >cardiaque</hi>.</quote>
                                     </cit>
-                                    <etym>Ce mot vient du Grec <lang rendition="#i" xml:lang="grc"
+                                    <etym>Ce mot vient du Grec <lang rendition="#i" xml:lang="ell"
                                             >kardia , coeur</lang>
                                     </etym>
                                 </sense>
@@ -21177,7 +21177,7 @@
                                             vieille </quote>
                                     </cit>
                                 </def>
-                                <etym> il venoit du mot <foreign xml:lang="esp">espagnol <hi
+                                <etym> il venoit du mot <foreign xml:lang="spa">espagnol <hi
                                             rendition="#i">cara</hi>
                                     </foreign>
                                 </etym>
@@ -21732,8 +21732,8 @@
                                         >act.absolu.</subc></gramGrp></form>
                             <sense n="1">
                                 <def>Sonner les cloches en maniere de carillon. </def>
-                                <etym>Ce mot vient de <lang xml:lang="esp">quadrillonar</lang>, qui
-                                    a été fait de <lang xml:lang="esp">quadrilla</lang>, mot
+                                <etym>Ce mot vient de <lang xml:lang="spa">quadrillonar</lang>, qui
+                                    a été fait de <lang xml:lang="spa">quadrilla</lang>, mot
                                     Espagnol qui signifie un <hi rendition="#i">petit escadron</hi>,
                                     diminutif de <lang xml:lang="lat"><hi rendition="#i"
                                         >quadra</hi></lang>, à cause que les carillons se font
@@ -22077,7 +22077,7 @@
                                     &amp; dit qu'en la basse Latinité on l'a appellé<foreign
                                         xml:lang="lat">
                                         <hi>car-nelevamen</hi> , <hi>caruisprivium</hi></foreign> ;
-                                    &amp; les Espagnols <foreign xml:lang="esp"><hi>carnes
+                                    &amp; les Espagnols <foreign xml:lang="spa"><hi>carnes
                                             tollendas</hi></foreign></etym>. </sense>
                         </entry>
 
@@ -22333,7 +22333,7 @@
                                     &amp; la gauche de l'artere aorte immediatement. </def>
                                 <etym> Les Anciens mettoient le siege de l'assoupissement dans ces
                                     arteres, d'où vient qu'ils lui ont donné ce nom <foreign
-                                        xml:lang="grc">caros</foreign> étant un mot Grec qui
+                                        xml:lang="ell">caros</foreign> étant un mot Grec qui
                                     signifie assoupissernent. Par la même raison on les a appellées
                                     , <hi rendition="#i">lethargiques &amp; apoplectiques.</hi>
                                 </etym>
@@ -22442,7 +22442,7 @@
                                     ressemblance des noms, que ce mot vient du Latin <lang
                                         xml:lang="lat">tarpia</lang>, qui est un paon qu'on trouve
                                     dans un lac d'Italie: mais il est tout différent. Les Grecs
-                                    appellent la carpe, <lang xml:lang="grc">kyprinos</lang>, les
+                                    appellent la carpe, <lang xml:lang="ell">kyprinos</lang>, les
                                     Latins <foreign xml:lang="lat">cyprinus</foreign>. On dit aussi
                                     en Latin <foreign xml:lang="lat">carpie</foreign>.</etym>
                                 <note> On appelle le saut de la carpe, le saut que font les baladins
@@ -22536,8 +22536,8 @@
                                         rendition="#i">carpobalsame</hi>, est le même que celui des
                                     Anciens, n'ayant pas les mêmes marques, on a accoutume de lui
                                     substituer les cubebes , qui ont les mêmes qualitez.</note>
-                                <etym>Ce mot vient de deux mots Grecs <foreign xml:lang="grc"
-                                        >carpos</foreign>, fruit, et <foreign xml:lang="grc"
+                                <etym>Ce mot vient de deux mots Grecs <foreign xml:lang="ell"
+                                        >carpos</foreign>, fruit, et <foreign xml:lang="ell"
                                         >balsamos</foreign>, baume.</etym></sense>
                         </entry>
                         <entry xml:lang="fra" xml:id="Carquese">
@@ -22580,7 +22580,7 @@
                             </sense>
                             <note><name ref="#Men_ISN0000000080815971">Menage</name> après <name
                                     ref="#Lipse_ISN000000012132706X">Lipse</name> tient que ce mot
-                                vient de l'Allemand <foreign xml:lang="de">leder</foreign> ,
+                                vient de l'Allemand <foreign xml:lang="deu">leder</foreign> ,
                                 signifiant la même chose. </note>
                             <note><name ref="#Du_Cange_ISN0000000121021239">Du Cange</name> le
                                 derive de <foreign xml:lang="lat">carcaissum</foreign>, mot de la
@@ -23572,7 +23572,7 @@
                                     officinarum</lang>.</note>
                                 <etym> Ce mot vient de <lang rendition="#i" xml:lang="lat"
                                         >Karten</lang>, qui chez les <name>Mores</name> signifie la
-                                    même plante; ou bien du Grec <lang rendition="#i" xml:lang="grc"
+                                    même plante; ou bien du Grec <lang rendition="#i" xml:lang="ell"
                                         > cathairein</lang> , <hi rendition="#i">purger</hi> ; car
                                     cette plante est purgative.</etym>
                             </sense>
@@ -24550,7 +24550,7 @@
                                     <name n="personne">Menage</name> après <name n="personne"
                                         >Saumaise</name> tient que ce mot vient de <lang
                                         xml:lang="lat">cassa</lang> ou <lang xml:lang="lat"
-                                        >capsa</lang>, qui vient du Grec <lang xml:lang="grc"
+                                        >capsa</lang>, qui vient du Grec <lang xml:lang="ell"
                                         >kapsa</lang>, qui signifie la même chose. </etym>
                             </sense>
                             <sense n="3">
@@ -25623,15 +25623,15 @@
                                         n="505"/> une odeur fœtide &amp; fort attachée : &amp; c'est
                                     là le castereum dont on parle tant.</note>
                                 <etym>On l'appelle en Latin <foreign xml:lang="lat">fiber</foreign>,
-                                    en Grec <foreign xml:lang="grec">kastor</foreign>. On l'appelle
+                                    en Grec <foreign xml:lang="ell">kastor</foreign>. On l'appelle
                                     aussi en François <hi rendition="#i">bièvre</hi></etym>
                                 <note>. Il s'en trouva plus grande abondance en Canada qu'en aucun
                                     autre lieu du monde. Matthiole dit pourtant qu'il y en a
                                     beaucoup en Alle¬magne, Autriche &amp; Hongrie. Quelques-uns
-                                    tirent ce mot du Grec <foreign xml:lang="grec"
+                                    tirent ce mot du Grec <foreign xml:lang="ell"
                                         >gastir</foreign>,<hi rendition="#i">ventre</hi>, parceque
                                     cet animal est fort ventru. D'autres aiment mieux le faire venir
-                                    de <foreign>castrare</foreign>, à cause qu'il se coupe ses
+                                    de <foreign xml:lang="lat">castrare</foreign>, à cause qu'il se coupe ses
                                     genitoires quand il est poursuivi , suivant l'erreur commune.
                                 </note>
                             </sense>
@@ -25890,7 +25890,7 @@
                                     si on appelle parricide celui qui a tué sa mere, son frere, son
                                     maître, son Prince, quoyqu'au propre il ne signifie que le
                                     meurtrier d'un pere. </note></sense>
-                            <etym>Ce mot vient du Grec<lang xml:lang="grc"
+                            <etym>Ce mot vient du Grec<lang xml:lang="ell"
                                     ><hi>katachraomai</hi></lang> , qui signifie, abuser. </etym>
                         </entry>
 
@@ -25965,7 +25965,7 @@
                                 <note> Ces medicamens font le bol d'Armenie, la gomme tragacanthe,
                                     l'osteocolle , les . noix de cyprés , l'encens , la farine
                                     folle, l’aloës &amp; l'acacia.</note></sense>
-                            <etym>Ce mot vient du Grec <lang xml:lang="grc">catagma</lang>,
+                            <etym>Ce mot vient du Grec <lang xml:lang="ell">catagma</lang>,
                                 fracture. </etym>
                         </entry>
 
@@ -25977,7 +25977,7 @@
                                         <hi>catalectiques</hi>, ceux à qui il manquoit quelques
                                     pieds, ou quelques syllabes; &amp; <hi>acatalectiques</hi>, les
                                     vers parfaits ausquels il ne manque rien. </def>
-                                <etym>Ce mot vient du Grec <lang xml:lang="grc">kataliktos</lang> .
+                                <etym>Ce mot vient du Grec <lang xml:lang="ell">kataliktos</lang> .
                                 </etym></sense>
                         </entry>
 
@@ -26000,7 +26000,7 @@
                                     fortement attachez à quelque objet qui les occupe , qu'ils ne
                                     pensent en aucune maniere à ce que se passe hors
                                     d'eux¬-mêmes.</note></sense>
-                            <etym>Ce mot vient du Grec<foreign xml:lang="grec">katalipsis</foreign>
+                            <etym>Ce mot vient du Grec<foreign xml:lang="ell">katalipsis</foreign>
                                 , qui signifie la même chose. </etym>
                             <note>Cette maladie s'appelle autrement <hi>catoche</hi> ou
                                     <hi>congelation</hi>.</note>
@@ -26042,9 +26042,9 @@
                             <etym>
                                 <bibl><author>Du Cange</author></bibl> derive ce mot de
                                     <lang>catalago</lang> , qu'on a dit dans la basse Latinité pour
-                                signifier <hi>collectio</hi>, du Grec <lang xml:lang="grc"
-                                    >katalogos</lang> , de <lang>katalego</lang>,
-                                    <foreign>recenfeo</foreign>. </etym>
+                                signifier <hi>collectio</hi>, du Grec <lang xml:lang="ell"
+                                    >katalogos</lang> , de <lang xml:lang="ell">katalego</lang>,
+                                    <lang xml:lang="lat">recenfeo</lang>. </etym>
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Catalotique">
@@ -26121,7 +26121,7 @@
                                     blanc , le lait, quelques jaunes d'œufs , le safran &amp;
                                     l’huile rosat. </note>
                             </sense>
-                            <etym>Ce mot vient du verbe Grec , <lang xml:lang="grc"
+                            <etym>Ce mot vient du verbe Grec , <lang xml:lang="ell"
                                     >cataplasse</lang> , c'est-à-dire,<lang xml:id="gre">illino ,
                                     oblino ,</lang>
                                 <hi>j'enduis, j'applique par dessus.</hi>
@@ -26204,7 +26204,7 @@
                                     n'arrivoit qu'à un des yeux, <hi>vairon</hi> ou <hi>
                                         bigarré</hi> : mais tous ces termes ne sont plus en usage.
                                     On la nomme en Latin <foreign xml:lang="lat" rendition="#i"
-                                        >suffusio</foreign>, &amp; en Grec <foreign xml:lang="grec"
+                                        >suffusio</foreign>, &amp; en Grec <foreign xml:lang="ell"
                                         rendition="#i">hypochyme</foreign></note></sense>
 
                             <sense n="2"><form><orth rendition="#sc">CATARACTES</orth></form>
@@ -26215,7 +26215,7 @@
                                         envoya le Deluge</quote>
                                 </cit>
                                 <etym>Ce mot de <hi>cataractes</hi> vient du Grec <lang
-                                        xml:lang="grc" rendition="#i">katarrbasso, </lang>
+                                        xml:lang="ell" rendition="#i">katarrbasso, </lang>
                                     <lang xml:lang="lat">cum impetu decido</lang>.</etym></sense>
 
                             <sense n="3"><def>On appelle aussi les <hi>cataractes</hi> du Nil, deux
@@ -26257,7 +26257,7 @@
                                         malheureuse, pour la Tragedie.<bibl><author
                                                 ref="#LePlB_ISN0000000081107707">Le P. le
                                                 B.</author></bibl></quote>
-                                </cit><etym>Ce mot vient du Grec <lang xml:lang="grc"
+                                </cit><etym>Ce mot vient du Grec <lang xml:lang="ell"
                                         >katastrophi</lang>, <hi>subversio, renversement,
                                         bouleversement, l’issue d’une affaire</hi>.</etym></sense>
                             <sense n="2"><form><orth rendition="#sc">CATASTROPHE</orth></form><def>,
@@ -26303,7 +26303,7 @@
                                     <quote> St. Cyrille a convolé de savants
                                         <hi>catecheses</hi>.</quote>
                                 </cit>
-                                <etym>Ce mot vient du Grec <foreign xml:lang="grec" rendition="#i"
+                                <etym>Ce mot vient du Grec <foreign xml:lang="ell" rendition="#i"
                                         >catachesis</foreign>, instruction.</etym>
                             </sense>
                         </entry>
@@ -26337,9 +26337,9 @@
                                     <quote>Le Concile de Trente ordonne au Curez de faire tous les
                                         Dimanches des<hi> catechismes</hi> dans leurs Parroisses. Le
                                             <hi>Catechisme</hi> de Bellarmin, de Casinius.</quote>
-                                    <etym>Ce mot vient du Grec <lang xml:lang="grc" rendition="#i"
-                                            >katichifis</lang>, <lang xml:lang="grc" rendition="#i"
-                                            >katichismos</lang>, <lang xml:lang="grc" rendition="#i"
+                                    <etym>Ce mot vient du Grec <lang xml:lang="ell" rendition="#i"
+                                            >katichifis</lang>, <lang xml:lang="ell" rendition="#i"
+                                            >katichismos</lang>, <lang xml:lang="ell" rendition="#i"
                                             >institutio</lang>, instruction.</etym>
                                 </cit>
                             </sense>
@@ -26528,7 +26528,7 @@
                                     diaphoretiques, &amp; par des remèdes somniferes, &amp;
                                     diuretiques. <bibl><author ref="#Helmont_ISN0000000116168850"
                                             >Van Hel.</author></bibl></note>
-                                <etym>Ce mot vient du grec <lang xml:lang="grc" rendition="#i"
+                                <etym>Ce mot vient du grec <lang xml:lang="ell" rendition="#i"
                                         >catarreo</lang>, qui signifie <lang xml:lang="lat"
                                         >defluo</lang>.</etym></sense>
                         </entry>
@@ -26548,7 +26548,7 @@
                             <sense><def>Sorte de medicamens qui sont propres a consumer les chairs
                                     baveuses &amp; les excroissances qui viennent dans les playes,
                                     tels sont le precipité rouge, l'alun brûlé &amp;c.</def>
-                                <etym>Ce mot vient du Grec <lang xml:lang="grc" rendition="#i"
+                                <etym>Ce mot vient du Grec <lang xml:lang="ell" rendition="#i"
                                         >cathaireticos</lang>, qui reprime, qui renverse.
                                     Quelques-uns les appellent <hi>sarcophages</hi>, c'est¬à-dire,
                                     qui mangent la chair.</etym></sense>
@@ -26572,7 +26572,7 @@
                                     pretend , purgent la bile ; les phlegmagogues la pituite : les
                                     melanagogues la melancholie, &amp; les hydragogues les
                                     serositez. </note>
-                                <etym>Ce mot vient du Grec <lang xml:lang="grc" rendition="#i"
+                                <etym>Ce mot vient du Grec <lang xml:lang="ell" rendition="#i"
                                         >catbairo, purgo</lang>.</etym>
                             </sense>
                         </entry>
@@ -26585,7 +26585,7 @@
                             <note> C'est toujours la principale de la ville où elle est
                                 bâtie.</note>
                             <cb n="2"/>
-                            <etym>Ce mot vient du Grec <lang xml:lang="grc" rendition="#i"
+                            <etym>Ce mot vient du Grec <lang xml:lang="ell" rendition="#i"
                                     >cathedra</lang>, <hi>chaise</hi> qui vient de <foreign
                                     xml:lang="grec" rendition="#i">kathezomai,
                                 jedeo</foreign>.</etym>
@@ -26719,9 +26719,9 @@
                                 </cit>
                                 <cit type="exemple">
                                     <quote>Un <hi>Catholique</hi> Romain.</quote>
-                                    <etym>Ce mot vient du Grec <lang xml:lang="grc">katholou</lang>,
+                                    <etym>Ce mot vient du Grec <lang xml:lang="ell">katholou</lang>,
                                         qui signifie <hi rendition="#i">universellement</hi>, d'où
-                                        vient <lang xml:lang="grc" rendition="#i">katholikos</lang>,
+                                        vient <lang xml:lang="ell" rendition="#i">katholikos</lang>,
                                             <hi rendition="#i">universel</hi>.</etym>
                                 </cit>
                             </sense>
@@ -26796,7 +26796,7 @@
                                     catoptrique, celui qui marque les heures par un rayon reflechi,
                                     soit dans une chambre, soit ailleurs.</def>
                                 <note><name>Euclide</name> a écrit de la catoptrique.
-                                    </note><etym>Ce mot vient du verbe Grec <lang xml:lang="grc"
+                                    </note><etym>Ce mot vient du verbe Grec <lang xml:lang="ell"
                                         >kutoptomai</lang>.</etym>
                             </sense>
                         </entry>
@@ -27129,7 +27129,7 @@
                                 Plusieurs croyent avec fondement, qu’elle est encore produite par la
                                 convulsion des muscles de la respiration.</note>
                             <etym>On l’appelle en Latin, <lang xml:lang="lat">incubus</lang>, &amp;
-                                en Grec <foreign xml:lang="grc">ephialtes</foreign>.</etym>
+                                en Grec <foreign xml:lang="ell">ephialtes</foreign>.</etym>
                         </entry>
                         <entry xml:id="Caudataire" xml:lang="fra">
                             <form><orth>CAUDATAIRE.</orth>
@@ -27349,7 +27349,7 @@
                                 <usg type="terme" ana="#manege">Terme de manege.</usg>
                                 <note> C'est la même chose que <ref rendition="#i"
                                         corresp="Cap_de_more">Cap de More</ref> expliqué ci-dessus. </note>
-                                <etym>Ce mot vient de l'Espagnol <lang rendition="#i" xml:lang="esp"
+                                <etym>Ce mot vient de l'Espagnol <lang rendition="#i" xml:lang="spa"
                                         >cabeça</lang>, qui signifie <hi rendition="#i"
                                     >tête</hi>.</etym></sense>
                         </entry>
@@ -27379,7 +27379,7 @@
                                     cheval. Tous <hi rendition="#i">cavessons</hi> sont montez de
                                     têtiere, de sougorge, &amp; de deux longes.</note></sense>
                             <etym>Ce mot peut venir de l'Espagnol <lang rendition="#i"
-                                    xml:lang="esp">cabeça</lang>, qui signifie <hi rendition="#i"
+                                    xml:lang="spa">cabeça</lang>, qui signifie <hi rendition="#i"
                                     >tête</hi>.</etym>
                         </entry>
 
@@ -28210,7 +28210,7 @@
                                     velours</hi>, qu'il a ainsi nommez, à cause qu'ils ne font point
                                     de douleur, sur tout quand ils font appliquez sur des parties
                                     exemptes d'inflammation.</note>
-                                <etym>Ce mot vient du Grec <lang xml:lang="grc" rendition="#i">kaio,
+                                <etym>Ce mot vient du Grec <lang xml:lang="ell" rendition="#i">kaio,
                                         uro </lang></etym>
                             </sense>
 
@@ -30226,7 +30226,7 @@
                                         rendition="#i">tendre</hi> de <lang xml:lang="lat"
                                         >tener</lang>.<bibl><author ref="#Men_ISN0000000080815971"
                                             >MEN.</author></bibl> Le mot <lang xml:lang="lat"
-                                        >cinis</lang> en Latin vient du Grec <lang xml:lang="gre"
+                                        >cinis</lang> en Latin vient du Grec <lang xml:lang="ell"
                                         >konis</lang>, qui signifie <hi rendition="#i"
                                         >poussiere</hi>; ou de <lang xml:lang="lat">candeo</lang> en
                                     Latin, d'où viennent les verbes <lang xml:lang="lat"
@@ -30483,7 +30483,7 @@
                                             ref="Jesus_Christ_ISN0000000120370699">Nôtre
                                             Seigneur.</name></quote>
                                 </cit>
-                                <etym>Ce mot vient du Grec <lang xml:lang="gre" rendition="#i"
+                                <etym>Ce mot vient du Grec <lang xml:lang="ell" rendition="#i"
                                         >konios</lang>, qui signifie commun.</etym>
                             </sense>
                             <sense n="2">
@@ -30525,9 +30525,9 @@
                                     lieu que le Couvent ne se dit que de plusieurs Religieux
                                     habitans ensemble, &amp; vivans en communauté;</note>
                                 <etym>comme le porte la signification du mot Grec <lang
-                                        xml:lang="gre">koinobitis</lang>, de <lang xml:lang="gre"
+                                        xml:lang="ell">koinobitis</lang>, de <lang xml:lang="ell"
                                         >koinos</lang>, <lang xml:lang="lat">communis</lang>, &amp;
-                                        <lang xml:lang="gre">bios</lang>, <lang xml:lang="lat"
+                                        <lang xml:lang="ell">bios</lang>, <lang xml:lang="lat"
                                         >vita</lang>.</etym>
                             </sense>
                         </entry>
@@ -30556,8 +30556,8 @@
                                 <def>Tombeau vuide; monument dressé à la gloire de quelque mort
                                     illustre, dont on n'a pas pû trouver le corps après une
                                     bataille, ou un naufrage, pour l'y pouvoir inhumer.</def>
-                                <etym>Ce mot vient de <lang xml:lang="gre">kenos</lang>, vuidc, &amp;
-                                        <lang xml:lang="gre">taphos</lang>, sepulcre. </etym>
+                                <etym>Ce mot vient de <lang xml:lang="ell">kenos</lang>, vuidc, &amp;
+                                        <lang xml:lang="ell">taphos</lang>, sepulcre. </etym>
                             </sense>
                         </entry>
                         <entry xml:lang="fr" xml:id="Cens">
