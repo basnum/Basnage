@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
-<?xml-model href="../../../../TEIM12018_19/BasNumDU.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="BasNumDU.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
         <fileDesc>
@@ -7512,7 +7511,7 @@
                         </cit>
                         <cit type="citation">
                            <quote>
-                              <bibl ana="#Abl">ABL.</bibl>
+                              <bibl><author rendition="#sc" ref="#Abl_ISN0000000107866286">abl.</author></bibl>
                               <name>Saint Pierre</name> abatit l&apos;oreille de
                                  <name>Malchus</name>.</quote>
                         </cit>
@@ -7530,7 +7529,7 @@
                               vieillesse.</quote>
                         </cit>
                         <cit type="citation">
-                           <quote><bibl ana="#Oe_M">Oe. M.</bibl> On dit aussi que <seg
+                           <quote><bibl><title rendition="#sc" ref="#Oeuvres_melees">oe. m.</title></bibl> On dit aussi que <seg
                                  type="collocation">le caffé <hi rend="italic">abat</hi> les fumées
                                  du vin, les vapeurs</seg> ;</quote>
                         </cit>
@@ -7551,7 +7550,7 @@
                                     rend="italic">Abatre</hi> du bois</seg>,</quote>
                         </cit>
                         <def>pour dire, <hi rend="italic">abatre</hi> des Dames afin de caser.</def>
-                        <etym><name ana="#Nic">Nicod</name> derive ce mot de <hi rend="italic">à
+                        <etym><bibl><author ref="#Nicot_ISN000000011856542X">Nicod</author></bibl> derive ce mot de <hi rend="italic">à
                               bas</hi>, adverbe local composé de <hi rend="italic">à</hi> &amp; de
                               <hi rend="italic">bas</hi>. </etym>
                      </sense>
