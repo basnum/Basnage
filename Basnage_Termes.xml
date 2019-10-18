@@ -6920,7 +6920,7 @@
             <div n="A">
                <div n="ABA">
                   <entry xml:id="Abadir">
-                     <form><orth rendition="#uc">ABADIR</orth><gramGrp><pos expand="Substantif"/>
+                     <form type="lemma"><orth rendition="#uc">ABADIR</orth><gramGrp><pos expand="Substantif"/>
                         </gramGrp></form>
                      <sense><usg type="terme" ana="#mythologie">Terme de Mythologie.</usg>
                         <def> C'eſt le nom d'une pierre que Saturne devora.</def>
@@ -6934,7 +6934,7 @@
                   </entry>
 
                   <entry xml:id="Abajour">
-                     <form><orth rendition="#uc">ABAJOUR</orth><gramGrp><pos expand="Substantif">
+                     <form type="lemma"><orth rendition="#uc">ABAJOUR</orth><gramGrp><pos expand="Substantif">
                               ſ. </pos><gen expand="Masculin">m.</gen></gramGrp></form>
                      <sense><usg type="terme" ana="#architecture">Terme d'Architecture.</usg>
                         <def> Eſpece de fenêtre en forme de grand soupirail, dont l'embrasement de
@@ -6950,7 +6950,7 @@
                   </entry>
 
                   <entry xml:id="Abaisse">
-                     <form><orth rendition="#uc">ABAISSE</orth><gramGrp><pos expand="Substantif">
+                     <form type="lemma"><orth rendition="#uc">ABAISSE</orth><gramGrp><pos expand="Substantif">
                               s.</pos><gen expand="Masculin">m.</gen></gramGrp></form>
                      <sense><usg type="terme" ana="#patissier">Terme de Pâtissier.</usg>
                         <def> C'est la pâte qui fait le dessous d'une piece de
@@ -6958,7 +6958,7 @@
                   </entry>
 
                   <entry xml:id="Abaisser">
-                     <form><orth rendition="#uc">ABAISSER</orth></form>
+                     <form type="lemma"><orth rendition="#uc">ABAISSER</orth></form>
                         <gramGrp><pos expand="Verbe"> verbe </pos><subc expand="Actif">actif</subc></gramGrp>
 
                      <sense level="1" n="1"><def>Faire descendre en bas, ou diminuer de la
@@ -6999,7 +6999,7 @@
                            </cit></sense></sense>
 
                      <sense level="2" n="2">
-                        <form><orth>ABAISSER</orth></form>
+                        <form type="lemma"><orth>ABAISSER</orth></form>
                         <usg>signifie aussi,</usg>
                         <def>Diminuer le prix. </def>
                         <cit type="exemple">
@@ -7062,12 +7062,12 @@
                            lorsqu'ayant trop d'embonpoint, on lui ôte quelque chose de son pát
                            ordinaire, pour le mettre en état de bien voler.</def></sense>
 
-                     <sense level="2" n="5"><form><orth>ABAISSER</orth></form>
+                     <sense level="2" n="5"><form type="lemma"><orth>ABAISSER</orth></form>
                         <usg type="terme" ana="#jardinage">en termes de Jardinage, signifie,
                            </usg><def>Couper une branche près du tronc.</def></sense>
 
                      <sense level="2" n="6">
-                        <form><orth>ABAISSER</orth></form>
+                        <form type="lemma"><orth>ABAISSER</orth></form>
                         <usg>se dit aussi avec le pronom personnel, &amp; signifie alors, </usg>
                         <def><ref type="syn" corresp="#Humilier">s'Humilier,</ref>
                            <ref type="syn" corresp="#Soumettre">se soumettre,</ref>
@@ -7112,7 +7112,7 @@
                               >ABAISSÉ</orth><orth extent="part" type="fem">EE.</orth>
                            <gramGrp><pos expand="Adjectif">participe passif &amp;
                            adjectif.</pos></gramGrp></form>
-                        <sense><form><orth>ABAISSÉ</orth></form>
+                        <sense><form type="lemma"><orth>ABAISSÉ</orth></form>
                            <usg type="terme" ana="#blason">en termes de Blason,</usg>
                            <def>,se dit du vol des aigles, &amp; du vol en general des oiseaux, dont
                               la representation ordinaire est d'être ouvert &amp; étendu, en forte
@@ -7134,7 +7134,7 @@
                   </entry>
 
                   <entry xml:id="Abandonner">
-                     <form><orth rendition="#uc">ABANDONNER.</orth>
+                     <form type="lemma"><orth rendition="#uc">ABANDONNER.</orth>
                         <gramGrp><pos expand="Verbe">verb.</pos><subc>act.</subc></gramGrp></form>
 
                      <sense><def>Laisser à l'abandon. </def>
@@ -7229,7 +7229,7 @@
 
 
 
-                     <sense><form><orth rendition="#sc">ABANDONNER</orth></form>
+                     <sense><form type="lemma"><orth rendition="#sc">ABANDONNER</orth></form>
                         <usg>au bras seculier,</usg><def> c'est Renvoyer un Ecclesiastique devant
                            des Juges laïques, pour donner une sentence de condamnation à peine
                            afflictive sur un cas privilegié.</def></sense>
@@ -7243,21 +7243,21 @@
                         seculier.</note></sense>
 
 
-                     <sense><form><orth rendition="#sc">ABANDONNER,</orth></form><def>, signifie
+                     <sense><form type="lemma"><orth rendition="#sc">ABANDONNER,</orth></form><def>, signifie
                            encore, <ref type="syn" corresp="#Quitter">Quitter</ref>, jetter
                            là.</def>
                         <cit type="exemple">
                            <quote>Il <hi rendition="#sc">abandonna</hi> ses armes.</quote>
                         </cit></sense>
 
-                     <sense><form><orth rendition="#sc">ABANDONNER</orth></form><def>, signifie
+                     <sense><form type="lemma"><orth rendition="#sc">ABANDONNER</orth></form><def>, signifie
                            encore, Quitter un lieu, en sortir.</def>
                         <cit type="exemple">
                            <quote>Il a <hi rendition="#sc">abandonné</hi> le païs. On lui fit <hi
                                  rend="italic">abandonner</hi> la ville.</quote>
                         </cit></sense>
 
-                     <sense><form><orth rendition="#sc">ABANDONNER</orth></form><sense n="5"><def>,
+                     <sense><form type="lemma"><orth rendition="#sc">ABANDONNER</orth></form><sense n="5"><def>,
                               signifie encore, <ref type="syn" corresp="#Laisser">Laisser</ref>,
                                  <ref type="syn" corresp="#Donner"/>donner. </def>
                            <cit type="exemple">
@@ -7275,7 +7275,7 @@
                                  vôtre propre conduite.</quote>
                            </cit></sense></sense>
 
-                     <sense><form><orth rendition="#sc">ABANDONNER</orth></form><def>, signifie
+                     <sense><form type="lemma"><orth rendition="#sc">ABANDONNER</orth></form><def>, signifie
                            encore, Exposer, commettre à. </def>
                         <cit type="exemple">
                            <quote><hi>Abandonner</hi> quelqu'un à la haine publique. </quote>
@@ -7285,7 +7285,7 @@
                               pour la Religion.</quote>
                         </cit></sense>
 
-                     <sense><form><orth rendition="#sc">ABANDONNER</orth></form><def>, signifie
+                     <sense><form type="lemma"><orth rendition="#sc">ABANDONNER</orth></form><def>, signifie
                            aussi simplement, <ref type="syn" corresp="#Quitter">Quiter</ref>, <ref
                               type="syn" corresp="#Laisser">laisser</ref>, renoncer à quelque
                            profession, ou à quelque personne. </def>
@@ -7382,7 +7382,7 @@
                   </entry>
 
                   <entry xml:id="Abaque">
-                     <form><orth rendition="#uc">ABAQUE.</orth>
+                     <form type="lemma"><orth rendition="#uc">ABAQUE.</orth>
                         <gramGrp><pos expand="Substantif"> s.</pos><gen expand="Masculin">m.</gen></gramGrp></form>
                      <sense><usg type="terme" ana="#architecture"> Terme d'Architecture.
                            </usg><def>C'est la partie superieure, ou le couronnement du chapiteau de
@@ -7400,7 +7400,7 @@
                   </entry>
 
                   <entry xml:id="Abatant">
-                     <form><orth rendition="#uc">ABATANT</orth>
+                     <form type="lemma"><orth rendition="#uc">ABATANT</orth>
                         <gramGrp><pos> f.m.</pos></gramGrp></form>
                      <sense><usg type="terme" ana="#marchand_de_drap">Terme de Marchand de drap.
                            </usg><def> Espece de dessus de table qu'on éleve au fond d'une boutique,
@@ -7410,7 +7410,7 @@
                   </entry>
 
                   <entry xml:id="Abatee">
-                     <form><orth rendition="#uc">ABATEE,</orth>
+                     <form type="lemma"><orth rendition="#uc">ABATEE,</orth>
                         <gramGrp><pos></pos></gramGrp></form>
                      <sense><usg type="terme" ana="#marine"> en termes de Marine, </usg>
                         <def>se dit du Mouvement d'un vaisseau en pane, qui arrive de lui-même
@@ -7418,7 +7418,7 @@
                   </entry>
 
                   <entry xml:id="Abatis">
-                     <form><orth rendition="#uc">ABATIS, </orth>
+                     <form type="lemma"><orth rendition="#uc">ABATIS, </orth>
                         <gramGrp><pos expand="Substantif"> s.</pos><gen expand="Masculin">m.</gen></gramGrp></form>
                      <sense><def> Demolition, renversement, ruine.</def>
                         <cit type="exemple">
@@ -7436,12 +7436,12 @@
                               cette forêt par la tempête.</quote>
                         </cit></sense>
 
-                     <sense><form><orth rendition="#sc">ABATIS</orth></form><usg type="terme"
+                     <sense><form type="lemma"><orth rendition="#sc">ABATIS</orth></form><usg type="terme"
                            ana="#venerie">signifie en termes de Venerie,</usg><def> le chemin que se
                            font les jeunes loups, lors qu'en allant souvent au lieu où ils ont été
                            nourris, ils abatent l'herbe.</def></sense>
 
-                     <sense><form><orth rendition="#sc">ABATIS</orth></form>
+                     <sense><form type="lemma"><orth rendition="#sc">ABATIS</orth></form>
                         <sense>
                            <def>, se dit aussi d'une grande tuerie de bêtes. </def>
                            <cit type="exemple">
@@ -7464,7 +7464,7 @@
                   </entry>
 
                   <entry xml:id="Abatre">
-                     <form><orth rendition="#uc">ABATRE.</orth>
+                     <form type="lemma"><orth rendition="#uc">ABATRE.</orth>
                         <gramGrp>
                            <pos expand="Verbe">verb.</pos><subc expand="Actif">act.</subc>
                         </gramGrp></form>
@@ -7611,7 +7611,7 @@
 
                      <sense n="4">
                         <sense n="4a">
-                           <oRef corresp="#abatre"/><form><orth rendition="#sc"></orth>ABATRE,</form>
+                           <oRef corresp="#abatre"/><form type="lemma"><orth rendition="#sc"></orth>ABATRE,</form>
                            <usg>se dit figurément en Morale,</usg>
                            <def> pour vaincre, dompter, renverser.</def>
                            <cit type="exemple">
@@ -7676,7 +7676,7 @@
                         </cit>
                      </sense>
 
-                     <sense n="7"><form><orth extent="full">ABATU</orth><orth extent="part"
+                     <sense n="7"><form type="lemma"><orth extent="full">ABATU</orth><orth extent="part"
                               >UË</orth><gramGrp><pos>part pass et adj</pos></gramGrp></form>
                         <cit type="exemple">
                            <quote>Maison <hi rend="italics">abatuë.</hi></quote>
@@ -7713,7 +7713,7 @@
                   </entry>
 
                   <entry xml:id="Abatures">
-                     <form><orth rendition="#uc">ABATURES.</orth>
+                     <form type="lemma"><orth rendition="#uc">ABATURES.</orth>
                         <gramGrp>
                            <pos expand="Substantif">s.</pos><gen expand="Feminin">f.</gen><number>plur.</number>
                         </gramGrp></form>
@@ -7730,7 +7730,7 @@
                <div n="ABB">
                   <entry xml:id="Abbreuver">
                      <sense n="a">
-                        <form><orth rendition="#uc">ABBREUVER </orth> ou <orth rendition="#uc"
+                        <form type="lemma"><orth rendition="#uc">ABBREUVER </orth> ou <orth rendition="#uc"
                                  >abreuver.
                            </orth>
                            <gramGrp><pos>v. </pos><subc>act.</subc></gramGrp>
@@ -7756,7 +7756,7 @@
 
 
                      <sense n="b">
-                        <form><orth rendition="#sc">ABBREUVER</orth>,</form>
+                        <form type="lemma"><orth rendition="#sc">ABBREUVER</orth>,</form>
                         <sense n="1">
                            <def>signifie aussi, Humecter &amp; imbiber d&apos;eau.</def>
                            <cit type="exemple">
@@ -7787,7 +7787,7 @@
                      </sense>
 
                      <sense n="c">
-                        <form><orth rendition="#sc">ABBREUVER,</orth></form>
+                        <form type="lemma"><orth rendition="#sc">ABBREUVER,</orth></form>
                         <def> se joint avec le pronom personnel. En ce cas il signifie, Boire,
                            s&apos;enyvrer.</def>
                         <cit type="exemple">
@@ -7797,7 +7797,7 @@
                      </sense>
 
                      <sense>
-                        <form><orth rendition="#sc">ABBREUVER,</orth>
+                        <form type="lemma"><orth rendition="#sc">ABBREUVER,</orth>
                            <gramGrp>
                               <pos>v. act.</pos>
                            </gramGrp>
@@ -7811,7 +7811,7 @@
                      </sense>
 
                      <sense n="e">
-                        <form><orth rendition="#sc">ABBREUVER,</orth></form>
+                        <form type="lemma"><orth rendition="#sc">ABBREUVER,</orth></form>
                         <def>signifie figurément, Instruire, prevenir quelqu&apos;un par quelque
                            chose, &amp; l&apos;en remplir.</def>
                         <cit type="exemple">
@@ -7834,7 +7834,7 @@
                      </sense>
 
                      <re n="f">
-                        <form><orth extent="full" rendition="#sc">ABBREUVÉ,</orth><orth extent="part" rendition="#sc">ÉE</orth>. <gramGrp>
+                        <form type="lemma"><orth extent="full" rendition="#sc">ABBREUVÉ,</orth><orth extent="part" rendition="#sc">ÉE</orth>. <gramGrp>
                               <pos>part. pass. &amp; adj.</pos>
                            </gramGrp>
                         </form>
@@ -7850,7 +7850,7 @@
 
                   <entry xml:id="Abbrevoir">
                      <sense n="1">
-                        <form><orth rendition="#uc">ABBREUVOIR.</orth><gramGrp><pos>s. </pos>
+                        <form type="lemma"><orth rendition="#uc">ABBREUVOIR.</orth><gramGrp><pos>s. </pos>
                               <gen>m.</gen>
                            </gramGrp>
                         </form>
@@ -7867,7 +7867,7 @@
                         </note>
                      </sense>
                      <sense>
-                        <form><orth rendition="#sc">ABBREUVOIR</orth></form>
+                        <form type="lemma"><orth rendition="#sc">ABBREUVOIR</orth></form>
                         <usg ana="#maconnerie">, en termes de Maçonnerie,</usg>
                         <def>se dit des intervalles que les Maçons laissent entre les joints des
                            pierres, pour y faire entrer du mortier.</def>
@@ -7905,7 +7905,7 @@
 
                <div n="ABD">
                   <entry xml:id="Abdomen">
-                     <form><orth rendition="#uc"> ABDOMEN.</orth>
+                     <form type="lemma"><orth rendition="#uc"> ABDOMEN.</orth>
                         <gramGrp>
                            <pos expand="Substantif">s. </pos><gen expand="Masculin">m.</gen>
                         </gramGrp></form>
@@ -7928,7 +7928,7 @@
                </div>
                <div n="ABI">
                   <entry xml:id="Ab-intestat">
-                     <form><orth rendition="#uc">AB-INTEsTAT.</orth>
+                     <form type="lemma"><orth rendition="#uc">AB-INTEsTAT.</orth>
                         <gramGrp><pos expand="Substantif"/></gramGrp></form>
                      <usg type="terme" ana="#jurisprudence">Terme de Jurisprudence,</usg>
                      <def>qui se dit de celui qui herite de droit d&apos;un homme qui n&apos;a point
@@ -7947,7 +7947,7 @@
                </div>
                <div n="ABL">
                   <entry xml:id="Ablais">
-                     <form><orth rendition="#uc"> ABLAIS.</orth>
+                     <form type="lemma"><orth rendition="#uc"> ABLAIS.</orth>
                         <gramGrp>
                            <pos expand="Substantif">s.</pos><gen expand="Masculin">m.</gen>
                         </gramGrp></form>
@@ -7963,7 +7963,7 @@
 
 
                   <entry xml:id="Ablatif">
-                     <form><orth rendition="#uc">ABLATIF.</orth>
+                     <form type="lemma"><orth rendition="#uc">ABLATIF.</orth>
                         <gramGrp>
                            <pos>s.</pos><gen expand="Masculin">m.</gen>
                         </gramGrp></form>
@@ -7991,7 +7991,7 @@
 
 
                   <entry xml:id="Ablreret">
-                     <form><orth rendition="#uc"> ABLERET.</orth><gramGrp><pos expand="Substantif"
+                     <form type="lemma"><orth rendition="#uc"> ABLERET.</orth><gramGrp><pos expand="Substantif"
                            /></gramGrp></form>
                      <usg type="terme" ana="#peche">Terme de pêche.</usg>
                      <def>C&apos;est une espece de filet carré attaché au bout d&apos;une perche
@@ -8004,7 +8004,7 @@
                </div>
                <div n="ABN">
                   <entry xml:id="Abnegation">
-                     <form><orth rendition="#uc">ABNEGATION.</orth>
+                     <form type="lemma"><orth rendition="#uc">ABNEGATION.</orth>
                         <gramGrp>
                            <pos expand="Substantif">s.</pos><gen expand="Feminin">f.</gen>
                         </gramGrp></form>
@@ -8031,7 +8031,7 @@
 
                <div n="ABO">
                   <entry xml:id="Abolition">
-                     <form><orth rendition="#uc">ABOLITION. </orth>
+                     <form type="lemma"><orth rendition="#uc">ABOLITION. </orth>
                         <gramGrp><pos expand="Substantif"> s. </pos><gen expand="Masculin"
                         >m.</gen></gramGrp></form>
                      <sense>
@@ -8056,7 +8056,7 @@
                               absolution.</quote>
                         </cit></sense>
 
-                     <sense><form><orth rendition="#uc">ABOLITION, </orth></form>
+                     <sense><form type="lemma"><orth rendition="#uc">ABOLITION, </orth></form>
                         <def>signifie aussi, la destruction d'une loi, d'une coutume. </def>
                         <cit type="exemple">
                            <quote>On a eu bien de la peine a faire une entiere <hi rend="italic"
@@ -8068,7 +8068,7 @@
                   </entry>
 
                   <entry xml:id="Abordage">
-                     <form>ABORDAGE</form>
+                     <form type="lemma">ABORDAGE</form>
                      <sense>
                         <usg type="terme" ana="#marine">Terme de Marine,</usg><def> qui se dit lors
                            que de vaisseaux se heurtent, ou s’accrochent pour le combattre.</def>
@@ -8078,7 +8078,7 @@
                            qui se fait par le devant, &amp; en droiture, pour s’enferrer par les
                            éperons. L’abordage debout au corps, c’est mettre l’éperon dans le
                            flanc.</note></sense>
-                     <sense><form><orth>ABORDAGE</orth></form>
+                     <sense><form type="lemma"><orth>ABORDAGE</orth></form>
                         <def>se dit aussi du choc de deux vaisseaux du même party, soit lors qu’ils
                            vont en flotte, soits lors qu’ils font en même mouillage; ce qui arrive
                            par la violence des vents ou de flot ou des vents qui les portent, &amp;
@@ -8086,7 +8086,7 @@
                   </entry>
 
                   <entry xml:id="Aborder">
-                     <sense><form>
+                     <sense><form type="lemma">
                            <seg type="collocation">ABORDER <hi rend="italic">la remise. </hi>
                            </seg></form>
                         <usg type="terme" ana="#fauconnerie">Terme de Fauconnerie</usg><def>, qui se
@@ -8100,14 +8100,14 @@
                   </entry>
 
                   <entry xml:id="Aborner">
-                     <form><orth rendition="#uc">ABORNER. </orth></form>
+                     <form type="lemma"><orth rendition="#uc">ABORNER. </orth></form>
                      <gramGrp><pos expand="Verbe"> v. </pos><subc>act.</subc></gramGrp>
                      <sense><usg type="terme" ana="#geometrie">Terme de Geometrie. </usg>
                         <def>Donner des bornes à une terre. </def></sense>
                   </entry>
 
                   <entry xml:id="Abouchement">
-                     <form><orth rendition="#uc">ABOUCHEMENT. </orth>
+                     <form type="lemma"><orth rendition="#uc">ABOUCHEMENT. </orth>
                         <gramGrp><pos> s.m. </pos></gramGrp></form>
                      <sense><def>Entretien de bouche, de vive voix, conference. </def>
                         <cit type="exemple">
@@ -8119,14 +8119,14 @@
                         </cit></sense>
 
 
-                     <sense><form><orth rendition="#sc">ABOUCHEMENT. </orth></form>
+                     <sense><form type="lemma"><orth rendition="#sc">ABOUCHEMENT. </orth></form>
                         <usg type="terme" ana="#anatomie">Terme d'Anatomie. </usg>
                         <def>La rencontre &amp; l'union de deux vaisseaux, des veines et des
                            arteres.</def></sense>
                   </entry>
 
                   <entry xml:id="Abouement">
-                     <form><orth rendition="#uc">ABOUEMENT</orth>, ou plutôt <form><orth>
+                     <form type="lemma"><orth rendition="#uc">ABOUEMENT</orth>, ou plutôt <form type="lemma"><orth>
                               <ref corresp="#Bouement">BOUEMENT</ref></orth></form></form>
                      <gramGrp><pos expand="Substantif"> s.</pos><gen expand="Masculin">m. </gen></gramGrp>
                      <sense><usg type="terme" ana="#menuiserie">Terme de Menuiserie. </usg>
@@ -8136,7 +8136,7 @@
                   </entry>
 
                   <entry xml:id="Abougri">
-                     <form><orth rendition="#uc">ABOUGRI</orth>, ou plutôt <form><orth><ref
+                     <form type="lemma"><orth rendition="#uc">ABOUGRI</orth>, ou plutôt <form type="lemma"><orth><ref
                                  corresp="#Rabougri">RABOUGRI</ref></orth></form></form>
                      <sense><usg type="terme" ana="#forets">Terme dont on se sert dans les
                            forêts</usg><def>, pour signifier des bois de mauvaise venuë, dont le
@@ -8149,7 +8149,7 @@
                   </entry>
 
                   <entry xml:id="Aboute">
-                     <form><orth rendition="#uc">ABOUTÉ. </orth>
+                     <form type="lemma"><orth rendition="#uc">ABOUTÉ. </orth>
                         <gramGrp><pos expand="Adjectif">adj.</pos>
                         </gramGrp></form>
                      <sense><usg type="terme" ana="#blason">Terme de Blason</usg><def>, qui se dit de
@@ -8158,7 +8158,7 @@
                   </entry>
 
                   <entry xml:id="Aboutir">
-                     <form><orth rendition="#uc">ABOUTIR. </orth></form>
+                     <form type="lemma"><orth rendition="#uc">ABOUTIR. </orth></form>
                      <gramGrp><pos expand="Verbe">v. </pos><subc>n.</subc></gramGrp>
                      <sense><def>Finir, tendre, se rendre, se terminer à un certain endroit, en
                            toucher un bout. </def>
@@ -8170,7 +8170,7 @@
                            </quote>
                         </cit></sense>
 
-                     <sense><form><orth rendition="#sc">ABOUTIR, </orth></form>
+                     <sense><form type="lemma"><orth rendition="#sc">ABOUTIR, </orth></form>
                         <sense><usg>se dit figurément en Morale, </usg><def>de la fin que les choses
                               peuvent avoir. </def>
                            <cit type="exemple">
@@ -8188,7 +8188,7 @@
                               </cit>
                            </cit></sense>
                      </sense>
-                     <sense><form><orth rendition="#sc">ABOUTIR, </orth></form>
+                     <sense><form type="lemma"><orth rendition="#sc">ABOUTIR, </orth></form>
                         <sense><usg ana="#medecine">se dit aussi en Medecine,</usg><def>d'une playe
                               qui vient à suppuration. </def>
                            <cit type="exemple">
@@ -8197,7 +8197,7 @@
                                  des tumeurs. </quote>
                            </cit></sense>
                      </sense>
-                     <sense><form><orth rendition="#sc">ABOUTIR, </orth></form>
+                     <sense><form type="lemma"><orth rendition="#sc">ABOUTIR, </orth></form>
                         <usg type="terme" ana="#plombier">en termes de Plombier, </usg>
                         <def>signifie, Revêtir de tables minces de plomb blanchi, une corniche, un
                            ornement, ou tout autre saillie d'Architecture, rendition="#sc"&amp;de Sculpture
@@ -8208,7 +8208,7 @@
                      </sense>
                   </entry>
                   <entry xml:id="Aboutissement">
-                     <form><orth rendition="#uc">ABOUTISSEMENT. </orth></form>
+                     <form type="lemma"><orth rendition="#uc">ABOUTISSEMENT. </orth></form>
                      <gramGrp><pos expand="Substantif">s.</pos><gen>m. </gen></gramGrp>
                      <sense><usg type="terme" ana="#couture">Terme de couture. </usg>
                         <def>C,est une piece d'étoffe que l'on coud avec une autre qui n'est pas
@@ -8220,7 +8220,7 @@
                   </entry>
 
                   <entry xml:id="Abouts">
-                     <form><orth rendition="#uc">ABOUTS</orth>, au lieu de <form
+                     <form type="lemma"><orth rendition="#uc">ABOUTS</orth>, au lieu de <form
                               ><orth>BOUTS.</orth></form></form>
                      <gramGrp><pos expand="Substantif">s. </pos><gen expand="Masculin">m.</gen></gramGrp>
                      <sense><usg type="terme" ana="#charpenterie">Terme de Charpenterie</usg>
@@ -8235,11 +8235,11 @@
 
                <div n="ABR">
                   <entry xml:id="Abrege">
-                     <form><orth>ABREGE</orth></form>
+                     <form type="lemma"><orth>ABREGE</orth></form>
                   </entry>
                   <entry xml:id="Abreger">
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#uc">ABREGER. </orth></form>
                         <gramGrp><pos expand="Verbe">v.</pos><subc expand="Actif"> act.</subc>
                         </gramGrp>
@@ -8264,7 +8264,7 @@
                               <bibl ana="#Nic">NICOD.</bibl></etym></sense>
                      </sense>
                      <re type="terme">
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#uc" type="pp" extent="full">ABREGE, </orth><orth
                               extent="part" type="f">EE.</orth>
                         </form>
@@ -8285,7 +8285,7 @@
                      </sense>
                   </entry>
                   <entry xml:id="Abreviateur">
-                     <form>
+                     <form type="lemma">
                         <orth rendition="#uc">ABREVIATEUR </orth>
                      </form>
                      <gramGrp><pos expand="Substantif">s. </pos><gen expand="Masculin">m.</gen></gramGrp>
@@ -8301,7 +8301,7 @@
                      </sense>
 
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">ABREVIATEUR </orth>
                         </form>
                         <usg type="terme" ana="#banque">est aussi un terme de Banque.</usg>
@@ -8311,7 +8311,7 @@
                      </sense>
                   </entry>
                   <entry xml:id="Abri">
-                     <form>
+                     <form type="lemma">
                         <orth rendition="#uc">ABRI </orth></form>
                      <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"> m.</gen>
                      </gramGrp>
@@ -8344,7 +8344,7 @@
 
 
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">ABRI </orth>
                         </form>
                         <sense n="2">
@@ -8419,7 +8419,7 @@
                   </entry>
                   <entry xml:id="Absides">
 
-                     <form>
+                     <form type="lemma">
                         <orth rendition="#uc">ABSIDES </orth>
                      </form>
                      <sense>
@@ -8453,7 +8453,7 @@
                </div>
                <div n="ABS">
                   <entry xml:id="Absurde">
-                     <form><orth rendition="#uc">ABSURDE</orth>
+                     <form type="lemma"><orth rendition="#uc">ABSURDE</orth>
                         <gramGrp><pos>adj.male.&amp;fem.</pos></gramGrp></form>
                      <usg type="terme" ana="#philosophie">Terme de Philosophie.</usg>
                      <sense>
@@ -8472,13 +8472,13 @@
                </div>
                <div n="ABU">
                   <entry xml:id="Abuser">
-                     <form><orth></orth></form>
+                     <form type="lemma"><orth></orth></form>
                      <sense n="1"></sense>
                      <sense n="2"></sense>
                      <sense n="3"></sense>
                      <sense n="4"></sense>
                      <re>
-                        <form><orth extent="full" rendition="#sc">abusée</orth><pc>,</pc> <orth extent="part" rendition="#sc">ée</orth>
+                        <form type="lemma"><orth extent="full" rendition="#sc">abusée</orth><pc>,</pc> <orth extent="part" rendition="#sc">ée</orth>
                         <gramGrp><pos expand="Participe_passe">part.</pos><lbl>&amp;</lbl> <pos expand="Adjectif">adj</pos></gramGrp></form>
                      </re>
                   </entry>
@@ -8486,7 +8486,7 @@
                </div>
                <div n="ABY">
                   <entry xml:id="Abysme">
-                     <form><orth rendition="#uc">abysme</orth><lbl>ou</lbl>
+                     <form type="lemma"><orth rendition="#uc">abysme</orth><lbl>ou</lbl>
                         <orth rendition="#uc">abime</orth><gramGrp><pos expand="Substantif">f. </pos><gen expand="Masculin">m.</gen></gramGrp></form>
                      <sense n="1"><def>Gouffre profond où on se perd, d'où on ne peut sortir.</def>
                         <cit type="exemple">
@@ -8506,7 +8506,7 @@
                            <hi>d'abyssus</hi> Latin, ou du Grec unclear, qui signifie la même
                            chose.</etym></sense>
 
-                     <sense><form><orth rendition="#sc">ABYSME</orth>,</form>
+                     <sense><form type="lemma"><orth rendition="#sc">ABYSME</orth>,</form>
                         <sense n="2"><def>se dit figurément en Morale des choses immenses, &amp;
                               infinies, &amp; où l'esprit humain se perd quand il raisonne. </def>
                            <cit type="exemple">
@@ -8549,7 +8549,7 @@
                                  PORT-R.</quote>
                            </cit>
                         </sense></sense>
-                     <sense><form><orth rendition="#sc">ABYSME</orth>,</form>
+                     <sense><form type="lemma"><orth rendition="#sc">ABYSME</orth>,</form>
                         <sense n="3"><def>se dit absoluement des enfers.</def>
                            <cit type="exemple">
                               <quote> La rebellion des Anges les fit precipiter dans
@@ -8558,7 +8558,7 @@
                                  de souffrances, de malheurs.</quote>
                            </cit>
                         </sense></sense>
-                     <sense><form><orth rendition="#sc">ABYSME</orth>,</form>
+                     <sense><form type="lemma"><orth rendition="#sc">ABYSME</orth>,</form>
                         <sense n="4"><def>se dit aussi de ces depenses excessives dont on ne peut
                               juger avec certitude.</def>
                            <cit type="exemple">
@@ -8568,7 +8568,7 @@
                                  l'autre, quand d'un mal on tombe en un plus grand.</quote>
                            </cit>
                         </sense></sense>
-                     <sense><form><orth rendition="#sc">ABYSME</orth>,</form>
+                     <sense><form type="lemma"><orth rendition="#sc">ABYSME</orth>,</form>
                         <sense n="5"><usg type="terme" ana="#blason">Terme de Blason.</usg>
                            <def> C'est le centre, ou le mileu de l'Ecu, ensorte sue la piece qu'on y
                               met ne touche &amp; ne charge aucune autre piece.</def>
@@ -8593,7 +8593,7 @@
                               relatif &amp; suppose d'autres pieces, au mileu desquelles une plus
                               petite est abîmée.</def>
                         </sense></sense>
-                     <sense><form><orth rendition="#sc">ABYSME</orth>,</form>
+                     <sense><form type="lemma"><orth rendition="#sc">ABYSME</orth>,</form>
                         <sense n="6"><def>est aussi un vaisseau fait en prîme triangulaire reversé,
                               qui sert aux Chandeliers à fondre lui suif, &amp; à faire leur
                               chandelle, en y trempant plusieurs fois leur méche. </def>
@@ -8602,7 +8602,7 @@
                </div>
                <div n="ACA">
                   <entry xml:id="Acacia">
-                     <form><orth rendition="#uc">ACACIA</orth>,</form>
+                     <form type="lemma"><orth rendition="#uc">ACACIA</orth>,</form>
                      <gramGrp><pos>f.m.</pos></gramGrp>
                      <sense>
                         <usg type="terme" ana="#botanique">Terme de Botanique,</usg><def>qu'on donne
@@ -8651,7 +8651,7 @@
                                  </choice>.MEN.</quote>
                            </cit></def>
                      </sense>
-                     <sense><form><orth rendition="#sc">ACACIA</orth></form>
+                     <sense><form type="lemma"><orth rendition="#sc">ACACIA</orth></form>
                         <def><hi>vera</hi>, le vrai <hi>acacia, </hi></def><usg type="terme"
                            ana="#pharmacie">en termes de Pharmacie,</usg><def> est le suc épaissi de
                            l'arbre qu'on appelle <hi>acacia</hi>, ou cassie. Ce suc qu'on tire du
@@ -8662,7 +8662,7 @@
                               <reg>styptique</reg>
                            </choice>, &amp; tant soit peu piquant, mais assez agréable.</def>
                      </sense>
-                     <sense><form><orth rendition="#sc">ACACIA</orth><hi>(Germanica)</hi>
+                     <sense><form type="lemma"><orth rendition="#sc">ACACIA</orth><hi>(Germanica)</hi>
                            d'Allemagne,</form>
                         <def>est le suc tiré par expression du fruit du prunier sauvage, qu'on cuit
                            en <choice>
@@ -8677,7 +8677,7 @@
 
                <div n="ACC">
                   <entry xml:id="Accession">
-                     <form><orth rendition="#uc"
+                     <form type="lemma"><orth rendition="#uc"
                            >ACCESSION.</orth><gramGrp><pos>s</pos>.<gen>f</gen></gramGrp></form>
 
                      <sense><usg type="terme" ana="#pratique">Terme de pratique.</usg>
@@ -8702,7 +8702,7 @@
                   </entry>
 
                   <entry xml:id="Accessit">
-                     <form><orth rendition="#uc">ACCESSIT.</orth></form>
+                     <form type="lemma"><orth rendition="#uc">ACCESSIT.</orth></form>
 
                      <sense><usg type="terme" ana="#college">Terme de College.</usg>
                         <def>Récompense qu'on donne aux écoliers qui ont composé aussi bien que
@@ -8718,7 +8718,7 @@
                   </entry>
 
                   <entry xml:id="Accident">
-                     <form><orth rendition="#uc"> ACCIDENT.</orth><gramGrp><pos>s</pos>.<gen>m</gen>
+                     <form type="lemma"><orth rendition="#uc"> ACCIDENT.</orth><gramGrp><pos>s</pos>.<gen>m</gen>
                         </gramGrp></form>
 
                      <sense><usg type="terme" ana="#philosophie">Terme de Philosophie</usg>
@@ -8750,7 +8750,7 @@
                               >st</c>ance ? <bibl> CI.</bibl></quote>
                         </cit></sense>
 
-                     <sense><form><orth rendition="#sc"> ACCIDENT,</orth></form>
+                     <sense><form type="lemma"><orth rendition="#sc"> ACCIDENT,</orth></form>
                         <usg type="terme" ana="#medecine"> en termes de Medecine</usg>
                         <def> e<c rend="stlig">st</c> la même chose que <rs corresp="symptome"
                               type="syn"> Symptome</rs> &amp; se dit de tout ce qui arrive de
@@ -8769,7 +8769,7 @@
                   </entry>
 
                   <entry xml:id="Accise">
-                     <form><orth rendition="#uc"> ACCISE</orth><gramGrp><pos> s.f</pos></gramGrp></form>
+                     <form type="lemma"><orth rendition="#uc"> ACCISE</orth><gramGrp><pos> s.f</pos></gramGrp></form>
                      <sense><usg type="terme" ana="#relations">Terme de relations.</usg>
                         <def> C'e<c rend="stlig">st</c> une certaine taxe, ou impôt qu'on leve dans
                            les Provinces Unies sur le vin, la biere, &amp; sur la plûpart des choses
@@ -8778,7 +8778,7 @@
                   </entry>
 
                   <entry xml:id="Acclamper">
-                     <form><orth rendition="#uc">ACCLAMPER</orth>
+                     <form type="lemma"><orth rendition="#uc">ACCLAMPER</orth>
                         <gramGrp><pos>v.a<c rend="ctlig">ct</c></pos></gramGrp></form>
                      <sense><usg type="terme" ana="#marine">Terme de Marine.</usg>
                         <def>C'e<c rend="stlig">st</c> fortifier un mât par des calmps ou des
@@ -8787,7 +8787,7 @@
                   </entry>
 
                   <entry xml:id="Accoler">
-                     <form><orth rendition="#uc">ACCOLER,</orth>ou<orth rendition="#uc"
+                     <form type="lemma"><orth rendition="#uc">ACCOLER,</orth>ou<orth rendition="#uc"
                                  >ACOLER</orth><gramGrp><pos>v.a<c rend="ctlig"
                            >ct</c></pos></gramGrp></form>
                      <sense><def>Embrasser quelqu'un en lui mettant les bras sur le cou pour le
@@ -8798,7 +8798,7 @@
                                  >collum.</foreign></etym></dictScrap>
                         <usg> Il se dit le plus souvent en riant.</usg></sense>
 
-                     <sense><form><orth rendition="#sc">ACCOLER</orth></form>
+                     <sense><form type="lemma"><orth rendition="#sc">ACCOLER</orth></form>
                         <seg> la cuisse, <hi rend="italic">acoler</hi> la botte,</seg>
                         <def>signifie, Saluer quelcun avec grande soumission, avec respect,</def>
                         <cit type="exemple">
@@ -8806,24 +8806,24 @@
                                  rend="stlig">st</c> une marque d'infériorité.</quote>
                         </cit></sense>
 
-                     <sense><form><orth rendition="#sc">ACCOLER,</orth></form>
+                     <sense><form type="lemma"><orth rendition="#sc">ACCOLER,</orth></form>
                         <sense><usg type="terme" ana="#pratique"> en termes de Pratique,</usg>
                            <def>signifie Faire un trait de plume en marge d'un compte, d'un memoire
                               d'une declaration de dépens, qui marque qu'il faut comprendre
                               plusieurs articles sous un même jugement, &amp; les comprendre dans
                               une même supputation pour n'en faire qu'un seul.</def></sense></sense>
 
-                     <sense><form><orth rendition="#sc">ACCOLER,</orth></form>
+                     <sense><form type="lemma"><orth rendition="#sc">ACCOLER,</orth></form>
                         <sense><usg type="terme" ana="#jardinage">en termes de Jardinage,</usg>
                            <def>se dit des branches d'arbres, des seps de vigne qu'on attache à des
                               espaliers, à des échalas.</def></sense></sense>
 
-                     <sense><form><orth rendition="#sc">ACCOLER</orth></form>
+                     <sense><form type="lemma"><orth rendition="#sc">ACCOLER</orth></form>
                         <sense n="2"> signifie aussi, Joindre deux lapereaux ensemble pour en
                               <seg>servir une <hi rend="italic">acolade</hi>.</seg></sense></sense>
 
 
-                     <sense><form><orth rendition="#sc">ACCOLÉ, ÉE</orth><gramGrp><pos>part. &amp;
+                     <sense><form type="lemma"><orth rendition="#sc">ACCOLÉ, ÉE</orth><gramGrp><pos>part. &amp;
                                  adj.</pos></gramGrp></form>
                         <usg type="terme" ana="#blason">En termes de Blason se prend en quatre sens
                            differents :</usg>
@@ -8838,7 +8838,7 @@
                            pomettez d'or.</sense>
                      </sense>
 
-                     <sense><form><orth rendition="#sc">ACCOLÉ,</orth></form>
+                     <sense><form type="lemma"><orth rendition="#sc">ACCOLÉ,</orth></form>
                         <def>se dit aussi des choses entortillées à d'autres : </def>
                         <cit type="exemple">
                            <quote> comme d'un serpent à un arbre, ou à une colonne, ou de toute
@@ -8846,7 +8846,7 @@
                               de vigne à un échalas : d'une givre &amp;c</quote>
                         </cit></sense>
 
-                     <sense><form><orth rendition="#sc">ACCOLÉE,</orth></form>
+                     <sense><form type="lemma"><orth rendition="#sc">ACCOLÉE,</orth></form>
                         <def>se dit encore de deux Ecus qui sont joints ensemble, &amp; attachez par
                            les côtez.</def>
                         <cit type="exemple">
@@ -8867,7 +8867,7 @@
                         passe en sautoir derriere l'Ecu.</sense>
                   </entry>
                   <entry xml:id="Accomodation">
-                     <form><orth rendition="#uc"
+                     <form type="lemma"><orth rendition="#uc"
                         >ACCOMODATION</orth><gramGrp><pos>s.f</pos></gramGrp></form>
                      <sense n="1"><usg type="terme" ana="#palais"> Terme de Palais.</usg>
                         <def>Accord qui se fait à l'amiable.</def>
@@ -8884,7 +8884,7 @@
                               contrarient. Conciliation e<c rend="stlig"> st</c> meilleur. </quote>
                         </cit></sense>
 
-                     <sense><form><orth rendition="#sc"
+                     <sense><form type="lemma"><orth rendition="#sc"
                                  >ACCOMODATION</orth><gramGrp><pos>s</pos>.<gen>f</gen></gramGrp></form>
                         <usg> type="terme" ana="#philosophie" Terme de Philosophie.</usg>
                         <def><seg>Connoitre par accomodation</seg>,c'e<c rend="stlig">st</c>
@@ -8893,7 +8893,7 @@
 
 
                   <entry xml:id="Accoter">
-                     <form>
+                     <form type="lemma">
                         <orth rendition="#uc">ACCOTER</orth>
                      </form>
 
@@ -8911,7 +8911,7 @@
                      </sense>
                   </entry>
                   <entry xml:id="Accote">
-                     <form>
+                     <form type="lemma">
                         <orth rendition="#uc">ACCOTE</orth>
                      </form>
 
@@ -8943,7 +8943,7 @@
                      </sense>
                   </entry>
                   <entry xml:id="Accotar">
-                     <form>
+                     <form type="lemma">
                         <orth rendition="#uc">ACCOTAR</orth>
                         <gramGrp>
                            <pos>subst.</pos>
@@ -8959,7 +8959,7 @@
                      </sense>
                   </entry>
                   <entry xml:id="Accoursie">
-                     <form>
+                     <form type="lemma">
                         <orth rendition="#uc">ACCOURSIE</orth>
                         <gramGrp>
                            <pos>s.</pos>
@@ -8975,7 +8975,7 @@
                   </entry>
 
                   <entry xml:id="Accrocher">
-                     <form><orth rendition="#uc">ACCROCHER</orth>
+                     <form type="lemma"><orth rendition="#uc">ACCROCHER</orth>
                         <gramGrp>
                            <pos>v.act.</pos>
                         </gramGrp>
@@ -8998,7 +8998,7 @@
                      </sense>
 
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">ACCROCHER</orth>
                         </form>
                         <def>signifie aussi, Attacher à quelque chose de ferme. </def>
@@ -9018,7 +9018,7 @@
                         </cit>
                      </sense>
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">ACCROCHER</orth>
                         </form>
                         <usg type="terme" ana="#marine">en terme de Marine </usg>
@@ -9030,7 +9030,7 @@
                         </cit>
                      </sense>
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">ACCROCHER</orth>
                         </form>
                         <usg type="terme" ana="#morale"> se dit sigurément en choses morales, &amp;
@@ -9061,7 +9061,7 @@
                         </note>
                      </sense>
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">ACCROCHER</orth>
                         </form>
                         <usg>se dit proverbialement en cette phrase.</usg>
@@ -9148,7 +9148,7 @@
                         </cit>
                      </sense>
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth  rendition="#sc">ACCROISSEMENT</orth>
                         </form>
                         <sense>
@@ -9179,7 +9179,7 @@
 
                   <entry xml:id="Accoistre">
 
-                     <form>
+                     <form type="lemma">
                         <orth rendition="#uc">ACCROISTRE, ou ACCROITRE</orth>
                         <gramGrp>
                            <pos>v. act. &amp; n. avec le pronom pers.</pos>
@@ -9211,7 +9211,7 @@
                      </sense>
 
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">ACCROISTRE</orth>
                         </form>
                         <sense n="2">
@@ -9252,7 +9252,7 @@
                         </cit>
                      </sense>
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">ACCROISTRE</orth>
                         </form>
                         <sense n="3">
@@ -9276,7 +9276,7 @@
 
                   <entry xml:id="Accroupir">
 
-                     <form>
+                     <form type="lemma">
                         <orth rendition="#uc">ACCROUPIR</orth>
                         <gramGrp>
                            <pos> v. act. qui ne se dit qu’avec le pronom personnel,
@@ -9300,7 +9300,7 @@
                      </sense>
 
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">ACCROUPI, IE</orth>
                         </form>
                         <sense n="2">
@@ -9316,7 +9316,7 @@
 
 
                   <entry xml:id="Acculement">
-                     <form><orth rendition="#uc"
+                     <form type="lemma"><orth rendition="#uc"
                         >ACCULEMENT</orth><gramGrp><gen>f.m.</gen></gramGrp></form>
                      <sense><usg type="terme" ana="#marine">Terme de Marine</usg>,<def> qui se dit de
                            la concavité &amp; rondeur de quelques membres qui se placent à l'avant,
@@ -9329,10 +9329,10 @@
                            </cit></dictScrap></sense>
                   </entry>
                   <entry xml:id="Acculer">
-                     <form>ACCULER</form>
+                     <form type="lemma">ACCULER</form>
 
                      <sense>
-                        <form><orth rendition="#uc">ACCULÉ, ÉE.</orth><gramGrp><pos>part. &amp;
+                        <form type="lemma"><orth rendition="#uc">ACCULÉ, ÉE.</orth><gramGrp><pos>part. &amp;
                                  adj.</pos></gramGrp></form>
                         <sense><usg type="terme" ana="#blason">En termes de Blason</usg><def> on
                               appelle un cheval acculé, quand il est cabré en arrière &amp; sur le
@@ -9346,7 +9346,7 @@
                      </sense>
                   </entry>
                   <entry xml:id="Accusatif">
-                     <form><orth rendition="#uc"
+                     <form type="lemma"><orth rendition="#uc"
                         >ACCUSATIF.</orth><gramGrp><gen>f.m.</gen></gramGrp></form>
                      <sense><usg type="terme" ana="#grammaire">Terme de Grammaire.</usg><num>C'est le
                            quatriéme cas des noms qui se declinent.</num>
@@ -9360,7 +9360,7 @@
                </div>
                <div n="ACE">
                   <entry xml:id="Acerer">
-                     <form><orth rendition="#uc"
+                     <form type="lemma"><orth rendition="#uc"
                         >ACERER.</orth><gramGrp><pos>v.act.</pos></gramGrp></form>
                      <sense><usg type="terme" ana="#taillandier">Terme de
                            Taillandier.</usg><def>Garnir d'acier un outil de fer; y
@@ -9375,7 +9375,7 @@
                   </entry>
 
                   <entry xml:id="Acetabule">
-                     <form><orth rendition="#uc"
+                     <form type="lemma"><orth rendition="#uc"
                         >ACETABULE.</orth>><gramGrp><gen>f.m.</gen></gramGrp></form>
                      <sense><usg type="terme" ana="#anatomie">Terme d'Anatomie.</usg>
                         <def>Il a differentes significations. Il se dit des cavitez
@@ -9388,7 +9388,7 @@
                </div>
                <div n="ACH">
                   <entry xml:id="Achement">
-                     <form><orth rendition="#uc">ACHEMENT.</orth>
+                     <form type="lemma"><orth rendition="#uc">ACHEMENT.</orth>
                         <gramGrp><gen>f.m.</gen></gramGrp></form>
                      <sense><usg type="terme" ana="#blason">Terme de Blason;</usg><def> se dit des
                            lambrequins, ou chaperons, qui enveloppent le casque, &amp;
@@ -9404,7 +9404,7 @@
 
                   <entry xml:id="Achevement">
 
-                     <form><orth rendition="#uc"
+                     <form type="lemma"><orth rendition="#uc"
                         >ACHEVEMENT.</orth><gramGrp><gen>f.m.</gen></gramGrp></form>
                      <sense><usg>Fin d'un ouvrage, d'un terme;</usg>
                         <def>la perfection qu'on donne à une chose.</def>
@@ -9418,7 +9418,7 @@
                         BOI.</dictScrap></sense>
 
                      <sense>
-                        <form><orth  rendition="#sc">ACHEVEMENT.</orth></form>
+                        <form type="lemma"><orth  rendition="#sc">ACHEVEMENT.</orth></form>
                         <sense><usg type="terme" ana="#poetique">Terme de Poëtique.</usg>
                            <def>C'est dans le poëme épique le dernier passage de l'agitation, &amp;
                               du trouble au repos, &amp; à la tranquillité.</def><note> Il y a
@@ -9442,7 +9442,7 @@
 
                   <entry xml:id="Achille">
 
-                     <form><orth rendition="#uc"
+                     <form type="lemma"><orth rendition="#uc"
                         >ACHILLE.</orth><gramGrp><gen>f.m.</gen></gramGrp></form>
                      <sense><usg type="terme" ana="#anatomie">Terme d'Anatomie.</usg>
                         <def>C'est le nom qu'on donne à un gros tendon qui se rend à la plante du
@@ -9467,7 +9467,7 @@
                   </entry>
 
                   <entry xml:id="Achronique">
-                     <form><orth rendition="#uc">ACHRONIQUE.</orth>
+                     <form type="lemma"><orth rendition="#uc">ACHRONIQUE.</orth>
                         <gramGrp><pos>adj.</pos></gramGrp>
                      </form>
                      <sense><usg type="terme" ana="#astrologie">Terme d'Astrologie</usg>
@@ -9487,7 +9487,7 @@
                <div n="ACI">
                   <entry xml:id="Acide">
 
-                     <form>
+                     <form type="lemma">
                         <orth rendition="#uc">ACIDE</orth>
                         <gramGrp><pos>adj.</pos>
                            <gen>m. &amp;f.</gen></gramGrp></form>
@@ -9507,7 +9507,7 @@
 
 
                      <sense>
-                        <form><orth rendition="#sc">ACIDE.</orth>
+                        <form type="lemma"><orth rendition="#sc">ACIDE.</orth>
                            <gramGrp><gen>f.m.</gen></gramGrp></form>
                         <sense><usg type="terme" ana="#chymie">Terme de Chymie;</usg>
                            <def>Sel piquant, &amp; dissolvant. Il est en ce sens opposé à
@@ -9550,7 +9550,7 @@
                </div>
                <div n="ACO">
                   <entry xml:id="Acolythe">
-                     <form><orth rendition="#uc">ACOLYTHE. </orth></form>
+                     <form type="lemma"><orth rendition="#uc">ACOLYTHE. </orth></form>
                      <gramGrp><pos>s.m. </pos>
                      </gramGrp>
                      <usg type="terme" ana="Eclesiastique">Terme Eclesiastique.</usg>
@@ -9585,7 +9585,7 @@
                   </entry>
 
                   <entry xml:id="Acorus">
-                     <form>
+                     <form type="lemma">
                         <orth rendition="#uc">ACORUS. </orth></form>
                      <gramGrp><pos>s.m. </pos>
                      </gramGrp>
@@ -9607,7 +9607,7 @@
                   </entry>
 
                   <entry xml:id="Acoustique">
-                     <form><orth rendition="#uc">ACOUSTIQUE. </orth></form>
+                     <form type="lemma"><orth rendition="#uc">ACOUSTIQUE. </orth></form>
                      <gramGrp><pos>adj. </pos>
                      </gramGrp>
                      <usg type="terme" ana="#medecine">Terme de Medecine</usg>
@@ -9615,14 +9615,14 @@
                         incommoditez de l'ouïe.</def>
                      <etym><term xml:lang="gr"><hi>ακοή</hi></term> est un mot Grec, qui signifie,
                            <hi>ouïe</hi>. </etym>
-                     <sense><form><orth rendition="#sc">Acoustique,</orth></form><def> se dit aussi
+                     <sense><form type="lemma"><orth rendition="#sc">Acoustique,</orth></form><def> se dit aussi
                            du nerf qui va s'inserer dans l'oreille, qu'on appelle, nerf
                               <hi>acoustique</hi>; &amp; du conduit externe de l'oreille
                            qui se nomme , le conduit <hi>acoustique</hi>. </def></sense>
                   </entry>
 
                   <entry xml:id="Acquest">
-                     <form><orth rendition="#uc">ACQUEST. </orth></form>
+                     <form type="lemma"><orth rendition="#uc">ACQUEST. </orth></form>
                      <gramGrp><pos>s.m. </pos></gramGrp>
                      <def>Bien immeuble qu'on ne tient pas par succession; qu'on a acquis, ou par
                         achat, ou par donation. Le Droit civil ne fait point de distinction entre
@@ -9634,20 +9634,20 @@
                               <hi>acquêts</hi>; mais il ne peut disposer par testament que du quint
                            de ses propres. </quote>
                      </cit>
-                     <sense><form><orth rendition="#sc">ACQUEST,</orth></form><def> signifie aussi,
+                     <sense><form type="lemma"><orth rendition="#sc">ACQUEST,</orth></form><def> signifie aussi,
                            Avantage, profit, menage qu'on trouve a faire quelque chose. </def><cit
                            type="exemple">
                            <quote>Il n'y a pas d'<hi>acquêt</hi> à acheter de mauvaise
                               marchandise. Il n'y a point d'<hi>acquêts</hi> à plaider; on se ruine
                               de part &amp; d'autre. </quote>
                         </cit><usg>On ne s'en sert que dans le langage commun. </usg></sense>
-                     <sense><form><orth rendition="#sc">ACQUEST,</orth></form><def> signifie aussi
+                     <sense><form type="lemma"><orth rendition="#sc">ACQUEST,</orth></form><def> signifie aussi
                            quelquefois, Achat. </def><cit type="exemple">
                            <quote>C'est un bon <hi>acquêt</hi> que vous avez fait. L'<hi>acquêt</hi>
                               de cette maison n'est pas seur, si on ne la passer par
                               decret. </quote>
                         </cit></sense>
-                     <sense><form><term>Nouveaux <hi>acquest. </hi></term></form><usg type="terme"
+                     <sense><form type="lemma"><term>Nouveaux <hi>acquest. </hi></term></form><usg type="terme"
                            ana="#finance">Terme de finance qui se joint d'ordinaire avec
                            francs fiefs.</usg><def> C'est un droit dû au Roi, &amp; au
                            Seigneur par les roturiers qui ont acquis nouvellement des
@@ -9663,7 +9663,7 @@
                   </entry>
 
                   <entry xml:id="Acquiescement">
-                     <form><orth rendition="#uc">ACQUIESCEMENT. </orth></form>
+                     <form type="lemma"><orth rendition="#uc">ACQUIESCEMENT. </orth></form>
                      <gramGrp>
                         <pos>s.m. </pos></gramGrp>
                      <usg type="terme" ana="#jurisprudence">Terme de Jurisprudence. </usg>
@@ -9675,7 +9675,7 @@
                            jugement, d'un contrat, est un vrai
                            <hi>acquiescement</hi>.</quote>
                      </cit>
-                     <sense><form><orth rendition="#sc">ACQUIESCEMENT</orth></form><def> se dit
+                     <sense><form type="lemma"><orth rendition="#sc">ACQUIESCEMENT</orth></form><def> se dit
                            aussi du consentement à une opinion; de la deference, &amp; de la
                            complaisance qu'on a pour quelqu'un : de l'acte par lequel on se soumet à
                            une personne ou à sa volonté. </def>
@@ -9692,14 +9692,14 @@
                   </entry>
 
                   <entry xml:id="Acromion">
-                     <form><orth rendition="#uc">ACROMION. </orth></form>
+                     <form type="lemma"><orth rendition="#uc">ACROMION. </orth></form>
                      <gramGrp>s.m. </gramGrp>
                      <usg type="terme" ana="#anatomie">Terme d'Anatomie.</usg>
                      <def> C'est l'extremité de l'épine de l'omoplate.</def>
                   </entry>
 
                   <entry xml:id="Acroteres">
-                     <form><orth rendition="#uc">ACROTERES.</orth></form>
+                     <form type="lemma"><orth rendition="#uc">ACROTERES.</orth></form>
                      <gramGrp> s.m. </gramGrp>
                      <sense><usg type="terme" ana="#architecture">Terme d'Architecture,</usg><def>
                            qui se dit des petits piedestaux qui sont au milieu, &amp; aux deux
@@ -9708,19 +9708,19 @@
                            moitié de celle du celle du fronton, &amp; celui du milieu une huitiéme
                            partie de plus, selon <name role="architecte" type="person"
                               >Vitruve</name>.</usg></sense>
-                     <sense><form><orth rendition="#sc">ACROTERES,</orth></form><def> signifie
+                     <sense><form type="lemma"><orth rendition="#sc">ACROTERES,</orth></form><def> signifie
                            quelquefois, les extremitez ou le faîtes des bâtimen>s, <term
                               xml:lang="la"><hi>sastigia.</hi></term> Ce mot vient aussi du Grec
                               <term xml:lang="gr"><unclear reason="intranscriptible"><hi>κάθε
                                     άκροqui</hi></unclear></term> veut dire generalement toute
                            extremité.</def></sense>
-                     <sense><form><orth rendition="#sc">ACROTERES,</orth></form><def> sont certains
+                     <sense><form type="lemma"><orth rendition="#sc">ACROTERES,</orth></form><def> sont certains
                            promontoires, ou lieux elevez qu'on voit de loin sur la
                         mer.</def></sense>
                   </entry>
 
                   <entry type="terme">
-                     <form><orth rendition="#uc">ACROTERIA</orth>.</form>
+                     <form type="lemma"><orth rendition="#uc">ACROTERIA</orth>.</form>
                      <gramGrp> s. masc.</gramGrp>
                      <usg>Terme purement Grec ; </usg>
                      <def><term xml:lang="gr"><hi>ακρωτήρια</hi> : </term>on ne s'en sert qu'en
@@ -9731,7 +9731,7 @@
 
                <div n="ACT">
                   <entry xml:id="Acte">
-                     <form><orth rendition="#uc">ACTE</orth>.</form>
+                     <form type="lemma"><orth rendition="#uc">ACTE</orth>.</form>
                      <gramGrp> s.m. </gramGrp>
                      <sense><usg type="terme" ana="#physique">Terme de Physique.</usg><def>Action,
                            effet de la cause qui agit : exercice effectif d'une puissance, ou d'une
@@ -9753,7 +9753,7 @@
 
                   <entry xml:id="Action">
 
-                     <form>
+                     <form type="lemma">
                         <orth rendition="#uc">ACTION</orth>
                         <gramGrp>
                            <pos>s.</pos>
@@ -9797,7 +9797,7 @@
                      </sense>
 
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">ACTION</orth>
                         </form>
                         <sense n="2">
@@ -9849,7 +9849,7 @@
                         </sense>
                      </sense>
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">ACTION</orth>
                         </form>
                         <sense n="3">
@@ -9861,7 +9861,7 @@
                         </sense>
                      </sense>
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">ACTION</orth>
                         </form>
                         <sense n="4">
@@ -9878,7 +9878,7 @@
                         </sense>
                      </sense>
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">ACTION</orth>
                         </form>
                         <sense n="5">
@@ -9914,7 +9914,7 @@
                         </sense>
                      </sense>
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">ACTION</orth>
                         </form>
                         <sense n="6">
@@ -9965,7 +9965,7 @@
                         </sense>
                      </sense>
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">ACTION</orth>
                         </form>
                         <sense n="8">
@@ -10017,7 +10017,7 @@
                         </sense>
                      </sense>
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">ACTION</orth>
                         </form>
                         <sense n="9">
@@ -10047,7 +10047,7 @@
                         </sense>
                      </sense>
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">ACTION</orth>
                         </form>
                         <sense n="11">
@@ -10071,7 +10071,7 @@
                         </sense>
                      </sense>
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">ACTION</orth>
                         </form>
                         <sense n="13">
@@ -10084,7 +10084,7 @@
                         </sense>
                      </sense>
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">ACTION</orth>
                         </form>
                         <sense n="14">
@@ -10162,7 +10162,7 @@
                </div>
                <div n="ACU">
                   <entry xml:id="Acut">
-                     <form>
+                     <form type="lemma">
                         <orth rendition="#uc">ACUT</orth>
                         <gramGrp>
                            <pos>s.</pos>
@@ -10182,7 +10182,7 @@
                </div>
                <div n="ADD">
                   <entry xml:id="Addition">
-                     <form><orth rendition="#uc">ADDITION, </orth>
+                     <form type="lemma"><orth rendition="#uc">ADDITION, </orth>
                         <gramGrp><pos>s. </pos><gen>f.</gen></gramGrp></form>
                      <sense><def>Augmentation , adjonction, supplément ; action par laquelle on
                            ajoûte une chose à une autre. </def>
@@ -10191,7 +10191,7 @@
                            Physique, que tous les corps naturels se forment par addition de parties.
                         </note></sense>
 
-                     <sense><form>ADDITION<orth/></form><c>,</c><def> se dit aussi de la chose
+                     <sense><form type="lemma">ADDITION<orth/></form><c>,</c><def> se dit aussi de la chose
                            ajoutée qui sert à en amplifier une autre. </def>
                         <note>Les <hi rend="italic">additions</hi> marginales d'un tel livre sont
                            excellentes. La plupart des Auteurs qui font reimprimer leurs livre», y
@@ -10200,7 +10200,7 @@
                            l'inutile.</note>
                      </sense>
                      <sense>
-                        <form><orth>ADDITION,</orth></form>
+                        <form type="lemma"><orth>ADDITION,</orth></form>
                         <usg type="terme" ana="#arithmetique #algebre">en termes d'Arithmétique, &amp;d'Algèbre </usg>
                         <def>est la première des quatre règles fondamentales de ces sciences : elle
                            fait trouver la somme totale que composent plusieurs nombres, ou
@@ -10227,7 +10227,7 @@
                   </entry>
 
                   <entry xml:id="Additionner">
-                     <form><orth  rendition="#uc">ADDITIONNER. </orth>
+                     <form type="lemma"><orth  rendition="#uc">ADDITIONNER. </orth>
                         <gramGrp><pos>v. </pos></gramGrp></form>
                      <sense><usg type="terme" ana="#architecture">Terme d'Arithmetique.</usg><def>
                            Assembler plusieurs sommes pour en savoir le total. </def></sense>
@@ -10235,7 +10235,7 @@
                </div>
                <div n="ADE">
                   <entry xml:id="Ademption">
-                     <form><orth rendition="#uc">ADEMPTION. </orth>
+                     <form type="lemma"><orth rendition="#uc">ADEMPTION. </orth>
                         <gramGrp><pos>s. </pos><gen>m.</gen></gramGrp></form>
                      <sense><usg type="terme" ana="#jurisprudence">Terme de Jurisprudence. </usg>
                         <def>Revocation, retranchement.</def>
@@ -10245,7 +10245,7 @@
                   </entry>
 
                   <entry xml:id="Adent">
-                     <form><orth  rendition="#uc">ADENT. </orth></form>
+                     <form type="lemma"><orth  rendition="#uc">ADENT. </orth></form>
                      <gramGrp><pos>s.m. </pos></gramGrp>
                      <sense><usg type="terme" ana="#charpenterie #menuiserie">Terme de Charpenterie
                            et Menuiserie.</usg>
@@ -10273,7 +10273,7 @@
 
                <div n="ADH">
                   <entry xml:id="Adherence">
-                     <form><orth  rendition="#uc">ADHERENCE. </orth>
+                     <form type="lemma"><orth  rendition="#uc">ADHERENCE. </orth>
                         <gramGrp><pos>s.m. </pos></gramGrp>
                      </form>
                      <sense><usg type="terme" ana="#philosophie">Terme de Philosophie.</usg>
@@ -10287,7 +10287,7 @@
                <div n="ADI">
 
                   <entry xml:id="Adieu">
-                     <form><orth rendition="#uc" >ADIEU. </orth>
+                     <form type="lemma"><orth rendition="#uc" >ADIEU. </orth>
                         <gramGrp><pos>adv. </pos></gramGrp></form>
                      <sense><usg type="terme" ana="#compliment">Terme de compliment,</usg>
                         <def> dont on se sert quand deux personnes amies se separent, ou lors qu'on
@@ -10305,13 +10305,13 @@
                            mot.</def></sense>
 
                      <sense>
-                        <form><orth>ADIEU,</orth></form>
+                        <form type="lemma"><orth>ADIEU,</orth></form>
                         <def>est aussi un terme de commandement, de chagrin ou de refus, lors qu'on
                            chasse, ou qu'on congedie quelcun.</def>
                         <note>
                            <hi rend="italic">Adieu</hi>, vous m'importunez trop. <hi rend="italic"
                               >Adieu</hi>, en voilà assez ; j'entends vôtre affaire.</note></sense>
-                     <sense><form><orth>ADIEU,</orth></form>
+                     <sense><form type="lemma"><orth>ADIEU,</orth></form>
                         <def>se dit aussi des choses cheries qui passent,&amp; qui nous
                            échapent.</def><note>Dès que la St. Martin est venuë, <hi rend="italic"
                               >adieu</hi> les beaux jours. Quand on a passé 60. ans, il faut dire
@@ -10352,7 +10352,7 @@
 
                   </entry>
                   <entry xml:id="Adipeux">
-                     <form><orth rendition="#uc">ADIPEUX</orth>, <orth rendition="#sc"
+                     <form type="lemma"><orth rendition="#uc">ADIPEUX</orth>, <orth rendition="#sc"
                            >EUSE</orth>.</form>
                      <sense>
                         <usg type="terme" ana="#medecine"> Terme de Medecine,</usg>
@@ -10371,7 +10371,7 @@
                      </sense>
                   </entry>
                   <entry xml:id="Adirer">
-                     <form><orth rendition="#uc">ADIRER</orth>
+                     <form type="lemma"><orth rendition="#uc">ADIRER</orth>
                         <gramGrp>
                            <pos>v.</pos>
                            <gen>n.</gen>
@@ -10394,7 +10394,7 @@
                      </sense>
                   </entry>
                   <entry xml:id="Adition">
-                     <form><orth rendition="#uc">ADITION</orth>
+                     <form type="lemma"><orth rendition="#uc">ADITION</orth>
                         <gramGrp>
                            <pos>s.</pos>
                            <gen>f.</gen>
@@ -10467,7 +10467,7 @@
 
                   <entry xml:id="Adjoint">
 
-                     <form><orth rendition="#uc">ADJOINT</orth>, ou <orth rendition="#uc">AJOINT</orth>. <gramGrp>
+                     <form type="lemma"><orth rendition="#uc">ADJOINT</orth>, ou <orth rendition="#uc">AJOINT</orth>. <gramGrp>
                            <pos>s.</pos>
                            <gen>m.</gen>
                         </gramGrp></form>
@@ -10492,7 +10492,7 @@
                      </sense>
 
                      <sense>
-                        <form><orth rendition="#sc">ADJOINTS</orth></form>
+                        <form type="lemma"><orth rendition="#sc">ADJOINTS</orth></form>
                         <usg type="terme" ana="#grammaire #rhetorique">en termes de Rhetorique
                            </usg><usg> et de Grammaire,</usg>
                         <def> se dit des mots, ou des choses, qu'on joint à d'autres pour en
@@ -10506,7 +10506,7 @@
                   </entry>
 
                   <entry xml:id="Adjoustee">
-                     <form><orth rendition="#uc">ADJOUSTEE.</orth>
+                     <form type="lemma"><orth rendition="#uc">ADJOUSTEE.</orth>
                         <gramGrp>
                            <pos>s.</pos>
                            <gen>f.</gen>
@@ -10533,7 +10533,7 @@
                </div>
                <div n="ADM">
                   <entry xml:id="Adminicule">
-                     <form><orth rendition="#uc">ADMINICULE</orth>
+                     <form type="lemma"><orth rendition="#uc">ADMINICULE</orth>
                         <gramGrp>
                            <pos>s.</pos>
                            <gen>f.</gen>
@@ -10563,7 +10563,7 @@
                   </entry>
 
                   <entry xml:id="Admiratif">
-                     <form><orth rendition="#uc">ADMIRATIF</orth>
+                     <form type="lemma"><orth rendition="#uc">ADMIRATIF</orth>
                         <gramGrp>
                            <pos>s.</pos>
                            <gen>m.</gen>
@@ -10582,7 +10582,7 @@
                      </sense>
                   </entry>
                   <entry xml:id="Admonester">
-                     <form><orth rendition="#uc">ADMONESTER</orth>
+                     <form type="lemma"><orth rendition="#uc">ADMONESTER</orth>
                         <gramGrp>
                            <pos>v.</pos><gen>act.</gen>
                         </gramGrp>
@@ -10607,7 +10607,7 @@
                      </sense>
 
                      <sense>
-                        <form><orth rendition="#sc">ADMONESTÉ</orth>,<orth
+                        <form type="lemma"><orth rendition="#sc">ADMONESTÉ</orth>,<orth
                               rendition="#sc">ÉE</orth>. <gramGrp>
                               <pos>part. pass. &amp; adj.</pos>
                            </gramGrp>
@@ -10616,7 +10616,7 @@
                   </entry>
                </div>
                <div n="ADO">
-                  <entry xml:lang="fra" xml:id="Adonique"><form><orth>ADONIQUE</orth></form>
+                  <entry xml:lang="fra" xml:id="Adonique"><form type="lemma"><orth>ADONIQUE</orth></form>
          <gramGrp><pos expand="Adjectif">adj</pos></gramGrp>
                      <usg type="terme" ana="#poetique">Terme de Poësie.</usg>
                      <def>C'est un vers en usage chez les Grecs et
@@ -10627,7 +10627,7 @@
                         </quote><bibl>HOR</bibl></cit></note>
                   </entry>
                   <entry xml:id="Adoucir">
-                     <form><orth>ADOUCIR</orth><gramGrp><pos>v. act.</pos></gramGrp></form>
+                     <form type="lemma"><orth>ADOUCIR</orth><gramGrp><pos>v. act.</pos></gramGrp></form>
                      <sense><def>Rendre le plus doux, moins acre, moins rude, ou moins amer, etc. On
                            a trouvé le secret d'adoucir l'eau de la mer. Adoucir l'acrété
                            des humeurs. on adoucit la voix. le son des instruments, en les
@@ -10700,7 +10700,7 @@
                         </cit></sense>
 
 
-                     <sense><form><orth rendition="#uc">ADOUCIR</orth><gramGrp><pos/></gramGrp></form>
+                     <sense><form type="lemma"><orth rendition="#uc">ADOUCIR</orth><gramGrp><pos/></gramGrp></form>
                         <usg type="terme" ana="#peinture"/>terme de peinture. Méler les couleurs avec
                         la brosse, ou le pinceau. On dit aussi adoucir les teins lavez et
                         faits avec la plume : c'est-à-dire en unclear la teinte. <cit
@@ -10716,14 +10716,14 @@
 
 
                   <entry xml:id="Adoucissement">
-                     <form><orth>ADOUCISSEMENT</orth><gramGrp><pos>v. act.</pos></gramGrp></form>
+                     <form type="lemma"><orth>ADOUCISSEMENT</orth><gramGrp><pos>v. act.</pos></gramGrp></form>
                      <sense><def>L'action d'adoucir, ou ce qui sert à adoucir; état de la chose
                            adoucie. <cit type="exemple">
                               <quote>Ce malade a senti beaucoup d'adoucissement par ce reméde.
                                  L'adoussicement de la bile, et des humeurs.</quote>
                            </cit></def></sense>
 
-                     <sense><form><orth>ADOUCISSEMENT</orth><gramGrp><pos/></gramGrp></form>
+                     <sense><form type="lemma"><orth>ADOUCISSEMENT</orth><gramGrp><pos/></gramGrp></form>
                         <sense><def>Signifie figure,soulagement, diminution de peine et de
                               douleur. Rien ne peut apporter d'adoussissement a mes déplaisirs. Il
                               signifie aussi accommodement, temperament, correctif. Ne
@@ -10750,14 +10750,14 @@
                               </cit>
                            </def></sense></sense>
 
-                     <sense><form><orth>ADOUCISSEMENT</orth><gramGrp><pos>v.
+                     <sense><form type="lemma"><orth>ADOUCISSEMENT</orth><gramGrp><pos>v.
                            act.</pos></gramGrp></form>
                         <usg type="terme" ana="#peinture">Terme de Peinture. </usg><def> On s'en sert
                            pour exprimer,que les couleurs font bien noyées; que les traits ne sont
                            pas tranchez, et qu'il n'ya rien de rude.L'adoucissement des couleurs
                            rend la peinture plus tendre, et plus fine</def></sense>
 
-                     <sense><form><orth>ADOUCISSEMENT</orth><gramGrp><pos>v. act.</pos></gramGrp>
+                     <sense><form type="lemma"><orth>ADOUCISSEMENT</orth><gramGrp><pos>v. act.</pos></gramGrp>
                         </form>
                         <usg type="terme" ana="#architecture">Terme d'architecture.</usg><def> C'est
                            le racordement qui se fait d'un corps avec un autre pas un chamfrain, ou
@@ -10767,14 +10767,14 @@
                   </entry>
 
                   <entry xml:id="Adouees">
-                     <form><orth rendition="#uc">ADOUEES</orth><gramGrp><pos/></gramGrp></form>
-                     <form><orth>ADOUEES</orth><gramGrp><pos>v. act.</pos></gramGrp></form>
+                     <form type="lemma"><orth rendition="#uc">ADOUEES</orth><gramGrp><pos/></gramGrp></form>
+                     <form type="lemma"><orth>ADOUEES</orth><gramGrp><pos>v. act.</pos></gramGrp></form>
                      <sense><usg type="terme" ana="#fauconnerie">Terme de Fauconnerie</usg><def> qui
                            se dit des pedrix qui font pariés et accouplées</def></sense>
                   </entry>
 
                   <entry xml:id="Adrogation">
-                     <form><orth>ADROGATION</orth><gramGrp><pos>f.f.</pos></gramGrp></form>
+                     <form type="lemma"><orth>ADROGATION</orth><gramGrp><pos>f.f.</pos></gramGrp></form>
                      <sense><usg type="terme" ana="#jurisprudence">Terme de
                            jurisprudence,</usg><def>espece d'adoption; elle n'était différente de
                            l'adoption que parce qu'il s'agissait d'une personne libre qui
@@ -10787,7 +10787,7 @@
                   </entry>
 
                   <entry xml:id="Adversatif">
-                     <form><orth>ADVERSATIF</orth><gramGrp><pos>JVE. adject.</pos></gramGrp></form>
+                     <form type="lemma"><orth>ADVERSATIF</orth><gramGrp><pos>JVE. adject.</pos></gramGrp></form>
                      <sense><usg type="terme" ana="#grammaire">Terme de grammaire,</usg><def> se dit
                            d'une particule, ou conjonction adversative, laquelle marque
                            quelque difference, ou quelque opposition entre ce qui la fuit, et ce qui
@@ -10797,7 +10797,7 @@
                   </entry>
 
                   <entry xml:id="Adverse">
-                     <form><orth>ADVERSE</orth><gramGrp><pos>adj.f.</pos></gramGrp>
+                     <form type="lemma"><orth>ADVERSE</orth><gramGrp><pos>adj.f.</pos></gramGrp>
                         <pron>Le d ne se prononce point selon le plus grand nombre.</pron></form>
                      <sense>
                         <usg type="terme" ana="#palais">Terme de Palais.</usg>
@@ -10815,7 +10815,7 @@
                <div n="AFF">
 
                   <entry xml:id="Affier">
-                     <form>
+                     <form type="lemma">
                         <orth rendition="#uc">AFFIER</orth>
                      </form>
                      <sense>
@@ -10825,7 +10825,7 @@
                            quelqu'un. </def>
                      </sense>
                      <sense corresp="#Affier">
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">AFFIER </orth>
                            <gramGrp><pos> v.act</pos></gramGrp></form>
                         <usg type="terme" ana="#agriculture"> Terme d'agriculture.
@@ -10838,7 +10838,7 @@
 
 
                   <entry xml:id="Affiler">
-                     <form><orth rendition="#uc">AFFILER
+                     <form type="lemma"><orth rendition="#uc">AFFILER
                         </orth><gramGrp><pos>v.act.</pos></gramGrp></form>
                      <sense><usg type="terme" ana="#coutelier">, Terme de Coutelier.</usg><def>
                            Donner le fil a un couteau, a une epee, a une faux, a une cognee, &amp; a
@@ -10848,7 +10848,7 @@
                            <quote><hi>Affiler un rasoir.</hi></quote>
                         </cit></sense>
                      <sense>
-                        <form><orth  rendition="#sc"></orth>AFFILER</form><sense><usg type="terme"
+                        <form type="lemma"><orth  rendition="#sc"></orth>AFFILER</form><sense><usg type="terme"
                               ana="#tireur_d_or"> ,est aussi un terme de Tireur d'or.</usg>
                            <def>Il signifie, Mettre le lingot d'or dans ou d'argent dans la filiere.
                                  <cit type="exemple">
@@ -10858,7 +10858,7 @@
                         </sense>
                      </sense>
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc">AFFILER</orth>
                         </form><sense><usg type="terme" ana="#jardinier">, est encore un terme de
                               Jardinier.</usg><def> Il signifie planter a la ligne. </def>
@@ -10876,7 +10876,7 @@
 
 
                   <entry xml:id="Affiner">
-                     <form>
+                     <form type="lemma">
                         <orth rendition="#uc">AFFINER</orth><gramGrp><pos>v.act</pos></gramGrp></form>
                      <sense><def> Rendre plus pur, plus fin, plus excellent, &amp; de plus haut
                            prix. On <hi>affine</hi> l'or &amp; l'argent par la coupelle, par
@@ -10891,13 +10891,13 @@
                            &amp; de la lie, pour le rendre plus fort &amp; plus piquant.</def>
                      </sense>
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#sc"> AFFINER </orth></form><sense><def>, se dit aussi
                               du ciment, &amp; c'est le rendre plus fin, plus delie, &amp; le
                               reduire en une poudre presqu'impalpable. </def>
                         </sense>
                         <sense>
-                           <form>
+                           <form type="lemma">
                               <orth rendition="#sc">AFFINER </orth>
                            </form><usg type="terme" ana="#cordier">,est aussi un terme de
                               Cordier,</usg></sense></sense>
@@ -10907,13 +10907,13 @@
                               <quote><hi>Affiner</hi> du carton. </quote>
                            </cit></def>
                         <sense>
-                           <form>
+                           <form type="lemma">
                               <orth rendition="#sc">AFFINER</orth></form><sense><def>&amp; signifie
                                     <unclear reason="illisible">paffer</unclear> le chanvre ou le
                                  lin par l'affinoir, pour le rendre meilleur &amp; plus fin. </def>
                            </sense>
                            <sense>
-                              <form>
+                              <form type="lemma">
                                  <orth rendition="#sc">AFFINER</orth></form><sense><def>,se dit
                                     aussi figurement en Morale des niais, qu'on rend plus fins, en
                                     leur faisant quelque tromperie. <cit type="exemple">
@@ -10931,7 +10931,7 @@
                                  temps devient plus beau; &amp; alors il se prend dans un sens
                                  neutre.</sense>
                               <sense>
-                                 <form><orth rendition="#sc">AFFINÉ,ÉE,</orth><gramGrp><pos>part.
+                                 <form type="lemma"><orth rendition="#sc">AFFINÉ,ÉE,</orth><gramGrp><pos>part.
                                           pass. &amp; adj.</pos></gramGrp></form>
                                  <sense><def/></sense></sense></sense></sense></sense>
                   </entry>
@@ -10941,7 +10941,7 @@
 
                   <entry xml:id="Affinerie">
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#uc"
                            >AFFINERIE</orth><gramGrp><pos>f.f</pos></gramGrp></form>
                         <sense><usg type="terme" ana="#forges"> C'est un terme de gens qui
@@ -10951,7 +10951,7 @@
                               <quote>Porter le fer à l'<hi>affinerie</hi>.</quote>
                            </cit></sense>
                         <sense>
-                           <form>
+                           <form type="lemma">
                               <orth rendition="#sc"> AFFINERIE</orth>,</form><def> signifie du fer
                               rafiné &amp; mis en rouleaux, pour faire divers ouvrages. <cit
                                  type="exemple">
@@ -10964,7 +10964,7 @@
 
 
                   <entry xml:id="Affinoir">
-                     <form><orth rendition="#uc">AFFINOIR</orth><gramGrp><pos>,
+                     <form type="lemma"><orth rendition="#uc">AFFINOIR</orth><gramGrp><pos>,
                         f.m.</pos></gramGrp></form>
                      <sense><usg type="terme" ana="#cordier">C'est un terme de Cordier </usg><def>,
                            qui signifie un espece de seran dont les broches sont petites &amp;
@@ -10978,7 +10978,7 @@
 
 
                   <entry xml:id="Affirmant">
-                     <form><orth rendition="#uc"
+                     <form type="lemma"><orth rendition="#uc"
                         >AFFIRMANT</orth><gramGrp><pos>ANTE.</pos></gramGrp></form>
                      <sense><usg type="terme" ana="#logique">Terme de Logique.</usg><def> Il y a des
                            propositions universelles <hi>affirmantes</hi>, qui font d'ordinaire les
@@ -10988,14 +10988,14 @@
 
                   <entry xml:id="Affirmation">
                      <sense>
-                        <form><orth rendition="#uc"
+                        <form type="lemma"><orth rendition="#uc"
                            >AFFIRMATION</orth><gramGrp><pos>f.f.</pos></gramGrp></form><sense><def>
                               Témoignage qu'on donne qu'une chose est vraye. Ce mot, qui vient du
                                  <term xml:lang="la">Latin <hi>affirmatio</hi></term>, n'a guere
                               d'usage que dans le Barreau.</def></sense>
                      </sense>
                      <sense>
-                        <form><orth rendition="#sc">AFFIRMATION</orth></form><sense><def>, en
+                        <form type="lemma"><orth rendition="#sc">AFFIRMATION</orth></form><sense><def>, en
                               Justice, c'est le serment qu'on prête, &amp; l'assurance qu'on donne
                               de la verite de quelque fait: ce qui se passe en presence du Juge,
                               lequel fait lever la main, &amp; jurer que la chose affirmée est
@@ -11015,7 +11015,7 @@
                      </sense>
 
                      <sense>
-                        <form>
+                        <form type="lemma">
                            <orth rendition="#uc">AFFIRMATIONS</orth><gramGrp><pos> au
                               pluriel</pos></gramGrp></form><sense><def>, se dit en parlant du
                               greffe des <hi>affirmations</hi>. Par l'Ordonnance de 1667, il y a un
@@ -11027,7 +11027,7 @@
                      </sense>
 
                      <sense>
-                        <form><orth rendition="#sc">Affirmation</orth></form><sense><usg
+                        <form type="lemma"><orth rendition="#sc">Affirmation</orth></form><sense><usg
                               type="terme" ana="#logique">, est aussi un terme de
                               Logique</usg><def>,qui signifie l'expression par laquelle une
                               proposition affirme,&amp; dit d'une chose, qu'elle est. Cette
@@ -11038,7 +11038,7 @@
                   </entry>
 
                   <entry xml:id="Affleurer">
-                     <form><orth rendition="#uc">AFFLEURER</orth><gramGrp><pos>,
+                     <form type="lemma"><orth rendition="#uc">AFFLEURER</orth><gramGrp><pos>,
                         v.act.</pos></gramGrp></form>
                      <sense><usg type="terme" ana="#architecture"> Terme d'Architecture.</usg><def>
                            Reduire deux corps, qui sont proches, à une même saillie. <cit
@@ -11050,7 +11050,7 @@
 
                   <entry xml:id="Afforage">
                      <sense>
-                        <form><orth rendition="#uc">AFFORAGE</orth><gramGrp><pos>
+                        <form type="lemma"><orth rendition="#uc">AFFORAGE</orth><gramGrp><pos>
                            f.m.</pos></gramGrp></form><sense><def>Droit seigneurial qu'on paye au
                               Seigneur, pour avoir permission de vendre du vin, ou autre liqueur
                               dans son fief, &amp; suivant la taxe qui en sera faite par ses
@@ -11058,7 +11058,7 @@
                            </def></sense>
                      </sense>
                      <sense>
-                        <form><orth rendition="#sc">Afforage</orth></form><sense><def>, est aussi
+                        <form type="lemma"><orth rendition="#sc">Afforage</orth></form><sense><def>, est aussi
                               employé dans la derniere Ordonnance de la ville de Paris du mois de
                               Decembre 1672, pour dire, le prix d'une chose venale mis par
                               l'autorité de Justice. On ne peut vendre des vins étrangers, que le
@@ -11079,7 +11079,7 @@
 
                   <entry xml:id="Affourcher">
                      <sense>
-                        <form><orth rendition="#uc">AFFOURCHER.</orth><gramGrp><pos> v.act.
+                        <form type="lemma"><orth rendition="#uc">AFFOURCHER.</orth><gramGrp><pos> v.act.
                               </pos></gramGrp></form><sense><usg type="terme" ana="#marine">Terme de
                               Marine.</usg>
                            <def>C'est mouiller une seconde ancre éloignée de l'autre, ensorte que
@@ -11089,7 +11089,7 @@
                      </sense>
 
                      <sense>
-                        <form><orth rendition="#sc">Affourcher</orth></form><sense><def><hi> à la
+                        <form type="lemma"><orth rendition="#sc">Affourcher</orth></form><sense><def><hi> à la
                                  voile</hi> : c'est porter l'ancre d'affourche avec le vaisseau,
                               lorsqu'il est encore à la voile.</def></sense>
                      </sense>
@@ -11097,7 +11097,7 @@
 
                   <entry xml:id="Affaiter">
                      <sense>
-                        <form><orth rendition="#uc"
+                        <form type="lemma"><orth rendition="#uc"
                                  >AFFAITER</orth><gramGrp><pos>verb.</pos><subc>act.</subc></gramGrp></form>
                         <usg type="terme" ana="#fauconnerie">Terme de Fauconnerie</usg>
                         <sense n="1">
@@ -11121,19 +11121,19 @@
                            </cit>
                         </sense>
                      </sense>
-                     <sense n="b"><form><seg type="collocation"><hi rendition="#sc">AFFAITER
+                     <sense n="b"><form type="lemma"><seg type="collocation"><hi rendition="#sc">AFFAITER
                               </hi> des peaux;</seg></form>
                         <def>c&apos;est les façonner à la Tannerie.</def>
                      </sense>
                   </entry>
 
                   <entry xml:id="Affalé">
-                     <sense n="a"><form><orth rendition="#uc">AFFALE</orth></form>
+                     <sense n="a"><form type="lemma"><orth rendition="#uc">AFFALE</orth></form>
                         <def>C&apos;est le commandement aux gens de mer pour faire baisser quelque
                            chose.</def>
                      </sense>
                      <sense>
-                        <form><orth rendition="#uc"
+                        <form type="lemma"><orth rendition="#uc"
                            >AFFALE</orth><gramGrp><pos>adj.masc.</pos></gramGrp></form>
                         <usg type="terme" ana="#marine">Terme de Marine;</usg>
                         <sense n="1">
@@ -11145,7 +11145,7 @@
                   </entry>
 
                   <entry xml:id="Affectation">
-                     <sense n="a"><form><orth rendition="#uc"
+                     <sense n="a"><form type="lemma"><orth rendition="#uc"
                                  >AFFECTATION.</orth><gramGrp><pos>s.f.</pos></gramGrp></form>
                         <sense n="1">
                            <def>Désir <choice>
@@ -11165,7 +11165,7 @@
                            </cit>
                         </sense>
                      </sense>
-                     <sense n="b"><form><orth rendition="#sc">AFFECTATION,</orth></form>
+                     <sense n="b"><form type="lemma"><orth rendition="#sc">AFFECTATION,</orth></form>
                         <sense n="1">
                            <def>se dit aussi de certaine <choice>
                                  <orig>maniere</orig>
@@ -11274,7 +11274,7 @@
                               ridicules.</quote>
                         </cit>
                      </sense>
-                     <sense n="c"><form><orth rendition="#sc">AFFECTATION,</orth></form>
+                     <sense n="c"><form type="lemma"><orth rendition="#sc">AFFECTATION,</orth></form>
                         <sense n="1">
                            <def> signifie aussi, Hypothèque, ou autre obligation dont un <choice>
                                  <orig>heritage</orig>
@@ -11300,7 +11300,7 @@
                         </sense>
                      </sense>
                      <sense>
-                        <form><orth rendition="#sc">AFFECTATION,</orth></form>
+                        <form type="lemma"><orth rendition="#sc">AFFECTATION,</orth></form>
                         <usg type="terme" ana="#medecine">Terme de medecine,</usg>
                         <def>se dit de la disposition d&apos;un membre à l&apos;égard des maladies,
                            ou des blessures qui l&apos;incommodent.</def>
@@ -11318,7 +11318,7 @@
                   </entry>
 
                   <entry xml:id="Affecter">
-                     <sense n="a"><form><orth rendition="#uc"
+                     <sense n="a"><form type="lemma"><orth rendition="#uc"
                                  >AFFECTER.</orth><gramGrp><pos>verb.</pos><subc>act.</subc></gramGrp></form>
                         <def>Aimer, souhaiter quelque chose avec empressement &amp; avec
                            ostentation, la rechercher avec trop de soin.</def>
@@ -11360,7 +11360,7 @@
                                     ><author>LA ROCH.</author></bibl></quote>
                         </cit>
                      </sense>
-                     <sense n="b"><form><orth rendition="#sc">AFFECTER,</orth></form>
+                     <sense n="b"><form type="lemma"><orth rendition="#sc">AFFECTER,</orth></form>
                         <def>signifie encore plus <choice>
                               <orig>specialement</orig>
                               <reg>spécialement</reg>
@@ -11394,7 +11394,7 @@
                               voir que nous <hi rend="italic">affections</hi> ce Tribunal.</quote>
                         </cit>
                      </sense>
-                     <sense n="c"><form><orth rendition="#sc">AFFECTER,</orth></form>
+                     <sense n="c"><form type="lemma"><orth rendition="#sc">AFFECTER,</orth></form>
                         <def> signifie encore, Feindre, contrefaire.</def>
                         <cit type="citation">
                            <quote>Il y a un certain âge où il faut <hi rend="italic">affecter</hi>
@@ -11419,20 +11419,20 @@
                                     ><author>BOI.</author></bibl></quote>
                         </cit>
                      </sense>
-                     <sense n="d"><form><orth rendition="#sc">AFFECTER,</orth></form>
+                     <sense n="d"><form type="lemma"><orth rendition="#sc">AFFECTER,</orth></form>
                         <def> signifie encore, Toucher.</def>
                         <cit type="exemple">
                            <quote>Cela m&apos;<hi rendition="#sc">affecte</hi> fort : mais il a
                               vieilli en ce sens</quote>
                         </cit>
                      </sense>
-                     <sense n="e"><form><orth rendition="#sc">AFFECTER,</orth></form>
+                     <sense n="e"><form type="lemma"><orth rendition="#sc">AFFECTER,</orth></form>
                         <def>signifie aussi, Attacher, joindre.</def>
                         <cit type="exemple">
                            <quote>On a <hi rend="italic">attaché</hi> ce droit à la charge.</quote>
                         </cit>
                      </sense>
-                     <sense n="f"><form><orth rendition="#sc">AFFECTER,</orth></form>
+                     <sense n="f"><form type="lemma"><orth rendition="#sc">AFFECTER,</orth></form>
                         <def> signifie aussi, Obliger, hypothequer au payement de quelque rente, ou
                            de quelques charges ou devoirs.</def>
                         <cit type="exemple">
@@ -11454,7 +11454,7 @@
                               </choice>.</quote>
                         </cit>
                      </sense>
-                     <sense n="g"><form><orth extent="full" rendition="#sc">AFFECTÉ </orth>,<orth extent="part" rendition="#sc"
+                     <sense n="g"><form type="lemma"><orth extent="full" rendition="#sc">AFFECTÉ </orth>,<orth extent="part" rendition="#sc"
                            >ÉE</orth><gramGrp><pos>part.</pos></gramGrp></form>
                         <def>Qui a de l&apos;affectation, qui <choice>
                               <orig>paroît</orig>
@@ -11575,7 +11575,7 @@
 
                   <entry xml:id="Afferente">
                      <sense>
-                        <form><orth rendition="#uc">AFFERENTE</orth><gramGrp><pos>adj.
+                        <form type="lemma"><orth rendition="#uc">AFFERENTE</orth><gramGrp><pos>adj.
                               fem.</pos></gramGrp></form>
                         <usg type="terme" ana="#palais">Terme de Palais,</usg>
                         <def>qui se dit en cette phrase :<cit type="exemple">
@@ -11596,7 +11596,7 @@
                   
 
                   <entry xml:id="Affirmatif">
-                     <sense><form><orth rendition="#uc">AFFIRMATIF,</orth><orth rendition="#sc" extent="part">IVE</orth><gramGrp><pos>adj.</pos></gramGrp></form>
+                     <sense><form type="lemma"><orth rendition="#uc">AFFIRMATIF,</orth><orth rendition="#sc" extent="part">IVE</orth><gramGrp><pos>adj.</pos></gramGrp></form>
                         <def>Terme qui affirme.</def>
                         <cit type="exemple">
                            <quote>Vous soutenez que cela est ainsi d&apos;une maniere si <hi
@@ -11616,7 +11616,7 @@
                                  >affirmative</hi></quote>
                         </cit>
                      </sense>
-                     <sense n="b"><form><orth rendition="#sc">AFFIRMATIVE,</orth><gramGrp><pos>est
+                     <sense n="b"><form type="lemma"><orth rendition="#sc">AFFIRMATIVE,</orth><gramGrp><pos>est
                                  aussu quelquefois substantif,</pos></gramGrp></form>
                         <def>&amp; signifie une opinion, un sentiment qui affirme.</def>
                         <cit type="exemple">
@@ -11641,7 +11641,7 @@
                   </entry>
 
                   <entry xml:id="Affranchir">
-                     <sense n="a"><form><orth rendition="#uc"
+                     <sense n="a"><form type="lemma"><orth rendition="#uc"
                                  >AFFRANCHIR</orth><gramGrp><pos>v.</pos><subc>act.</subc></gramGrp></form>
                         <def>Mettre quelcun en liberté, hors de servitude; le délivrer de quelques
                            devoirs, d&apos;engagement ; l&apos;exempter d&apos;une sujettion
@@ -11674,7 +11674,7 @@
                               secoüant le joug de la tyrannie Espagnole.</quote>
                         </cit>
                      </sense>
-                     <sense n="b"><form><orth rendition="#sc">AFFRANCHIR,</orth></form>
+                     <sense n="b"><form type="lemma"><orth rendition="#sc">AFFRANCHIR,</orth></form>
                         <def>signifie aussi, Delivrer.</def>
                         <cit type="exemple">
                            <quote>St.Paul souhaittoit de mourir pour être affranchi des miseres de
@@ -11685,7 +11685,7 @@
                               par la viduité.</quote>
                         </cit>
                      </sense>
-                     <sense n="c"><form><orth rendition="#sc">AFFRANCHIR,</orth></form>
+                     <sense n="c"><form type="lemma"><orth rendition="#sc">AFFRANCHIR,</orth></form>
                         <def>se dit aussi au figuré en parlant des diverses passions qui nous
                            agitent, &amp; qui nous tiennent dans une espece d&apos;esclavage.</def>
                         <cit type="exemple">
@@ -11715,7 +11715,7 @@
                            qu&apos;il trouve dans la basse Latinité, signifiant la même
                            chose.</dictScrap>
                      </sense>
-                     <sense><form><seg type="collocation"><hi rendition="#sc">AFFRANCHIR </hi>la
+                     <sense><form type="lemma"><seg type="collocation"><hi rendition="#sc">AFFRANCHIR </hi>la
                               pompe;</seg></form>
                         <usg type="terme" ana="#marine">se dit en terme de Marine</usg>
                         <def>lorsqu&apos;on jette, &amp; qu&apos;on tire plus d&apos;eau par la
@@ -11725,7 +11725,7 @@
                               dans le vaisseau.</quote>
                         </cit>
                      </sense>
-                     <sense n="e"><form><orth rendition="#sc">AFFRANCHI,
+                     <sense n="e"><form type="lemma"><orth rendition="#sc">AFFRANCHI,
                                  IE.</orth><gramGrp><pos>part. &amp; adj.</pos></gramGrp></form>
                         <def>On appeloit autrefois <hi rend="italic">Affranchi</hi>, un esclave mis
                            en liberté.</def>
@@ -11755,7 +11755,7 @@
                   </entry>
 
                   <entry xml:id="Affretement">
-                     <sense><form><orth rendition="#uc"
+                     <sense><form type="lemma"><orth rendition="#uc"
                               >AFFRETEMENT.</orth><gramGrp><pos>s.m.</pos></gramGrp></form>
                         <usg type="terme" ana="#marine">Terme de Marine.</usg>
                         <def>C&apos;est la convention pour le loüage d&apos;un vaisseau. Ce mot se
@@ -11766,7 +11766,7 @@
                   </entry>
 
                   <entry xml:id="Affrioler">
-                     <sense><form><orth rendition="#uc"
+                     <sense><form type="lemma"><orth rendition="#uc"
                                  >AFFRIOLER</orth><gramGrp><pos>v.</pos><subc>act.</subc></gramGrp></form>
                         <usg type="terme" ana="#populaire">Terme populaire.</usg>
                         <def>affriander, attirer par quelque amorce de plaisir.</def>
@@ -11785,7 +11785,7 @@
                <div type="AGR">
                   <entry xml:id="Agriculture">
 
-                     <form><orth rendition="#uc">AGRICULTURE.</orth>
+                     <form type="lemma"><orth rendition="#uc">AGRICULTURE.</orth>
                         <gramGrp>
                            <pos>s.</pos><subc>f.</subc>
                         </gramGrp>
@@ -11821,7 +11821,7 @@
 
                   </entry>
                   <entry xml:id="Agrier">
-                     <form><orth rendition="#uc">AGRIER.</orth>
+                     <form type="lemma"><orth rendition="#uc">AGRIER.</orth>
                         <gramGrp>
                            <pos>s.</pos><subc>m.</subc>
                         </gramGrp>
@@ -11835,7 +11835,7 @@
                   </entry>
                   <entry xml:id="Agripper">
 
-                     <form><orth rendition="#uc">AGRIPPER.</orth>
+                     <form type="lemma"><orth rendition="#uc">AGRIPPER.</orth>
                         <gramGrp>
                            <pos>v.</pos><subc>act.</subc>
                         </gramGrp>
@@ -11851,7 +11851,7 @@
                      </sense>
 
                      <sense>
-                       <form><orth rendition="#sc">AGRIPPÉ,</orth><orth type="part"
+                       <form type="lemma"><orth rendition="#sc">AGRIPPÉ,</orth><orth type="part"
                            >ÉE.</orth>
                         <gramGrp>
                            <pos>part.</pos>
@@ -11870,7 +11870,7 @@
                </div>
                <div n="AID">
                   <entry xml:lang="fra" xml:id="Aide">
-                     <form><orth>AIDE,</orth><gramGrp><pos expand="Substantif">s</pos><gen expand="Feminin"
+                     <form type="lemma"><orth>AIDE,</orth><gramGrp><pos expand="Substantif">s</pos><gen expand="Feminin"
                            >f</gen></gramGrp></form>
                      <sense><def>Assisance, secours qu’on prête à quelcun» quand il n’a pas assez de
                            force pour faire quelque chose, ou éviter quelque mal. </def>
@@ -11896,7 +11896,7 @@
                            <bibl ana="#M_Sc_ISN0000000121214284">MLE. SCU.</bibl>
                         </cit>
                      </sense>
-                     <sense><form><orth>AIDE</orth></form><def>signifie quelquefois, Faveur,
+                     <sense><form type="lemma"><orth>AIDE</orth></form><def>signifie quelquefois, Faveur,
                            support, protection.</def>
                         <cit type="exemple">
                            <quote>Il a à la Cour un patron qui lui a offert toute forte
@@ -11911,7 +11911,7 @@
                               appui.</quote>
                         </cit>
                      </sense>
-                     <sense><form><orth>AIDE</orth></form><def> se dit quelquefois des choses
+                     <sense><form type="lemma"><orth>AIDE</orth></form><def> se dit quelquefois des choses
                            inanimées, &amp; des causes instrumentales.</def>
                         <cit type="exemple">
                            <quote>On ne peut appercevoir les satellites de Saturne sans
@@ -11927,7 +11927,7 @@
                               dérobez à notre vuë.</quote>
                         </cit>
                      </sense>
-                     <sense><form><orth>AIDE</orth></form>
+                     <sense><form type="lemma"><orth>AIDE</orth></form>
                         <def>eft auflî quelquefois subst. masc. &amp; fem. &amp; signifie la
                            personne qui prête ce secours.</def>
                         <cit type="exemple">
@@ -11936,7 +11936,7 @@
                               besoins.</quote>
                         </cit>
                      </sense>
-                     <re><form><orth>AIDE DE CAMP.</orth><gramGrp><pos expand="Substantif">s.</pos><gen
+                     <re><form type="lemma"><orth>AIDE DE CAMP.</orth><gramGrp><pos expand="Substantif">s.</pos><gen
                              expand="Feminin">f.</gen></gramGrp></form>
                         <usg corresp="#guerre">C’est un terme de guerre</usg><def>qui signifie, Un
                            Officier d’armée qui porte les ordres des Officiers Generaux par tout où
@@ -11952,7 +11952,7 @@
                </div>
                <div n="ARC">
                   <entry xml:lang="fra" xml:id="Architecture">
-                     <form><orth>ARCHITECTURE</orth></form>
+                     <form type="lemma"><orth>ARCHITECTURE</orth></form>
                      <sense><def>L’art de bien bâtir.</def>
                         <sense><usg>L'<hi>Architecture civile</hi>,</usg><def>est la science de bâtir pour
                            la necessité des particuliers, ou pour l’ornement des villes. </def>
@@ -12016,7 +12016,7 @@
                         </list>
                         </note>
                      </sense>
-                     <sense><form>ARCHITECTURE,</form><def>se dit aussi de la maniere de bâtir, et des
+                     <sense><form type="lemma">ARCHITECTURE,</form><def>se dit aussi de la maniere de bâtir, et des
                         ornements qu'on y employe. </def>
                         <note>On distingue cinq Ordres d'<hi>Architecture</hi>, le Toscan, le Dorique,
                            l'Ionique, le Corinthien, le Composé ou le Composite. Le Toscan et le Composite
@@ -12072,32 +12072,32 @@
             </div>
             <div n="B">
                <entry xml:id="Badiner">
-                  <form><orth>BADINER</orth></form>
+                  <form type="lemma"><orth>BADINER</orth></form>
                </entry>
                <entry xml:id="Bouement">
-                  <form><orth>BOUEMENT</orth></form>
+                  <form type="lemma"><orth>BOUEMENT</orth></form>
                </entry>
             </div>
             <div n="C">
                <div n="CAY">
                   <entry xml:id="Cayer">
-                     <form><orth>CAYER</orth></form>
+                     <form type="lemma"><orth>CAYER</orth></form>
                   </entry>
                   <entry xml:id="Cayes">
-                     <form><orth>CAYES</orth></form>
+                     <form type="lemma"><orth>CAYES</orth></form>
                   </entry>
                   <entry xml:id="Cayeu">
-                     <form><orth>CAYEU</orth></form>
+                     <form type="lemma"><orth>CAYEU</orth></form>
                   </entry>
                </div>
                <div n="CHA">
                   <entry xml:id="Chaos">
-                     <form><orth>CHAOS</orth></form>
+                     <form type="lemma"><orth>CHAOS</orth></form>
                   </entry>
                </div>
                <div n="COL">
                   <entry xml:id="Colline">
-                     <form><orth>COLLINE</orth><gramGrp><pos expand="Substantif">s</pos><gen expand="Feminin"
+                     <form type="lemma"><orth>COLLINE</orth><gramGrp><pos expand="Substantif">s</pos><gen expand="Feminin"
                               >f</gen>
                         </gramGrp><pron>Ne prononcez point la double <hi>l</hi></pron></form>
                      <def>Petite côte élevée au dessus de la plaine.</def>
@@ -12123,27 +12123,27 @@
             </div>
             <div n="D">
                <entry xml:id="Dissenterie">
-                  <form><orth>DISSENTERIE</orth></form>
+                  <form type="lemma"><orth>DISSENTERIE</orth></form>
                </entry>
                <entry xml:id="Divertir">
-                  <form><orth>DIVERTIR</orth></form>
+                  <form type="lemma"><orth>DIVERTIR</orth></form>
                </entry>
             </div>
          </div>
          <div type="tome2_E-N">
             <div n="E">
                <entry xml:id="Epanouir">
-                  <form><orth>EPANOUIR</orth></form>
+                  <form type="lemma"><orth>EPANOUIR</orth></form>
                </entry>
                <entry xml:id="Etaler">
-                  <form><orth>ETALER</orth></form>
+                  <form type="lemma"><orth>ETALER</orth></form>
                </entry>
             </div>
             <div n="F"/>
             <div n="G"/>
             <div n="H">
                <entry xml:id="Humilier">
-                  <form><orth>HUMILIER</orth></form>
+                  <form type="lemma"><orth>HUMILIER</orth></form>
                </entry>
             </div>
             <div n="I"/>
@@ -12151,15 +12151,15 @@
             <div n="K"/>
             <div n="L">
                <entry xml:id="Laisser">
-                  <form><orth>LAISSER</orth></form>
+                  <form type="lemma"><orth>LAISSER</orth></form>
                </entry>
             </div>
             <div n="M">
                <entry xml:id="Mespriser">
-                  <form><orth>MEPRISER</orth></form>
+                  <form type="lemma"><orth>MEPRISER</orth></form>
                </entry>
                <entry xml:id="Moquer">
-                  <form><orth>MOQUER</orth></form>
+                  <form type="lemma"><orth>MOQUER</orth></form>
                </entry>
             </div>
             <div n="N"/>
@@ -12170,7 +12170,7 @@
             <div n="P">
                <div n="pai">
                   <entry xml:id="paisage">
-                     <form><orth rendition="#uc">PAISAGE</orth><gramGrp><pos>s.
+                     <form type="lemma"><orth rendition="#uc">PAISAGE</orth><gramGrp><pos>s.
                            m.</pos></gramGrp><pron>Prononcez <hi rend="italics">peïsage,</hi> de
                            quatres syllabes</pron></form>
                      <sense><def>Aspect d'un païs; le territoire qui s'étend jusqu'où la vuë peut
@@ -12183,7 +12183,7 @@
                            a de ces divers objets dans un <hi rend="italics">païsage,</hi> &amp;
                            plus il est beau</dictScrap></sense>
 
-                     <sense><form><orth rendition="#sc">PAÏSAGE,</orth></form><usg> se dit aussi
+                     <sense><form type="lemma"><orth rendition="#sc">PAÏSAGE,</orth></form><usg> se dit aussi
                            des tableaux</usg><def> où sont representées quelques vuës de maisons, ou
                            de campagnes. </def>
                         <cit type="exemple">
@@ -12192,7 +12192,7 @@
                         </cit></sense>
                   </entry>
                   <entry>
-                     <form><orth rendition="#sc">PAISAGISTE</orth><gramGrp><pos>s.
+                     <form type="lemma"><orth rendition="#sc">PAISAGISTE</orth><gramGrp><pos>s.
                            m.</pos></gramGrp></form>
                      <usg type="terme" ana="#peinture">Terme de Peinture</usg>
                      <def>Peintre qui s'attache particulierement à peindre des païsages.</def>
@@ -12208,7 +12208,7 @@
                </div>
                <div n="PRE">
                   <entry xml:id="Presure">
-                     <form><orth>Presure</orth></form>
+                     <form type="lemma"><orth>Presure</orth></form>
                   </entry>
                </div>
 
@@ -12220,39 +12220,39 @@
             </div>
             <div n="R">
                <entry xml:id="Rabaisser">
-                  <form><orth>RABAISSER</orth></form>
+                  <form type="lemma"><orth>RABAISSER</orth></form>
                </entry>
                <entry xml:id="Rabrougri">
-                  <form><orth>RABOUGRI</orth></form>
+                  <form type="lemma"><orth>RABOUGRI</orth></form>
                </entry>
                <entry xml:id="Reccourci">
-                  <form>RACCOURCI</form>
+                  <form type="lemma">RACCOURCI</form>
                </entry>
                <entry xml:id="Railler">
-                  <form><orth>RAILLER</orth></form>
+                  <form type="lemma"><orth>RAILLER</orth></form>
                </entry>
                <entry xml:id="Ravaller">
-                  <form><orth>RAVALLER</orth></form>
+                  <form type="lemma"><orth>RAVALLER</orth></form>
                </entry>
                <entry xml:id="Rejouir">
-                  <form><orth>REJOUIR</orth></form>
+                  <form type="lemma"><orth>REJOUIR</orth></form>
                </entry>
 
                
             </div>
             <div n="S">
                <entry xml:id="Soumettre">
-                  <form><orth>SOUMETTRE</orth></form>
+                  <form type="lemma"><orth>SOUMETTRE</orth></form>
                </entry>
             </div>
             <div n="T">
                <entry xml:id="Talloir">
-                  <form><orth>TAILLOIR</orth></form>
+                  <form type="lemma"><orth>TAILLOIR</orth></form>
                </entry>
             </div>
             <div n="V">
                <entry xml:id="Val" corresp="#Vallee">
-                  <form><orth>VAL</orth><gramGrp><pos>s</pos><gen>m</gen></gramGrp>
+                  <form type="lemma"><orth>VAL</orth><gramGrp><pos>s</pos><gen>m</gen></gramGrp>
                      <w>ou</w>
                      <orth>VALEE</orth><gramGrp><pos>s</pos><gen>f</gen></gramGrp></form>
                   <sense><def>s. M. ou VALEE s.f. Espace creux enfermé entre des montagnes. Le mot
