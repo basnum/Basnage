@@ -7286,6 +7286,35 @@
 
 
                 </div>
+                
+                <div type="ORF">
+                    <entry xml:id="Orfelin">
+                        <form type="lemma"><form type="variant">ORFELIN </form><lbl>ou </lbl><form type="variant">ORPHELIN,</form><form type="inflected">INE</form> 
+                            <gramGrp><pos>adj.</pos><lbl> &amp;</lbl><pos>subst.</pos></gramGrp> </form>
+                        <sense><def>Enfant mineur qui a perdu son pere, ou qui n’a
+                            ni pere ni mere qui puissent avoir soin de sa nourriture,
+                            de son éducation. </def>
+                            <cit type="exemple"><quote>Ce pauvre garçon est orphelin de pe-
+                            re &amp; de mere. </quote></cit>
+                            <cit type="exemple"><quote>Cette veuve à la mort de son mari s’ est
+                            trouvée chargée de six orphelins. </quote></cit>
+                            <cit type="exemple"><quote>Dieu s’est declaré
+                            protecteur des veuves &amp; des orphelins. </quote></cit>
+                            <cit type="exemple"><quote>Il faut donner
+                            aux hôpitaux où l’on reçoit les enfans orphelins.</quote></cit>
+                            <cit type="exemple"><quote>C’est
+                            une chose execrable de s’enrichir aux depens de la veu-
+                            ve &amp; de l'orphelin, <gloss>c’est-à-dire en general, du bien
+                            des pauvres, des foibles, de ceux qui n’ont point de
+                            protection.</gloss></quote></cit>
+                            <cit type="exemple"><quote>Saint Jaques dit que la veritable Religion
+                            consiste à visiter les veuves &amp; les orphelins, &amp; à se gar-
+                            der des souillures du monde.</quote></cit>
+                         </sense>
+                    </entry>
+                    
+                    
+                </div>
 
                 <div type="ORL">
                     <pb n="78"/>
@@ -7332,7 +7361,7 @@
                                 <pos expand="Substantif"> s.</pos>
                                 <gen expand="Feminin">fem.</gen>
                             </gramGrp>
-                            <lbl> L'Académie dit <hi rendition="#i">Ormoye.</hi></lbl>
+                            <mentioned> L'Académie dit <hi rendition="#i">Ormoye.</hi></mentioned>
                         </form>
                         <sense n="1">
                             <def>Lieu planté d'ormes.</def>
@@ -7784,13 +7813,13 @@
 
                     <entry xml:id="Ornithogale">
                         <form type="lemma">
-                            <orth rendition="#uc">ornithogale </orth>
+                            <form type="variant"><orth rendition="#uc">ornithogale </orth></form>
                             <gramGrp>
                                 <pos expand="Substantif"> s.</pos>
                                 <gen expand="Feminin">fem.</gen>
                             </gramGrp>
                             <lbl>ou</lbl>
-                            <orth rendition="#uc">ornithogalon </orth>
+                            <form type="variant"><orth rendition="#uc">ornithogalon </orth></form>
                             <gramGrp>
                                 <pos expand="Substantif"> s.</pos>
                                 <gen expand="Masculin">m.</gen>
@@ -7860,9 +7889,9 @@
                 <div type="ORP">
                     <entry xml:id="Orphelin">
                         <form type="lemma">
-                            <orth rendition="#uc">orphelin </orth>
+                            <form type="variant"><orth rendition="#uc">orphelin </orth></form>
                             <lbl>ou</lbl>
-                            <orth rendition="#uc">orpheline </orth>
+                           <form type="variant"> <orth rendition="#uc">orpheline </orth></form>
                         </form>
 
                         <sense n="1">
@@ -7872,13 +7901,13 @@
                     </entry>
                     <entry xml:id="Orpiment">
                         <form type="lemma">
-                            <orth rendition="#uc">orpiment </orth>
+                           <form type="variant"><orth rendition="#uc">orpiment </orth></form> 
                             <gramGrp>
                                 <pos expand="Substantif"> s.</pos>
                                 <gen expand="Masculin">m.</gen>
                             </gramGrp>
                             <lbl>ou</lbl>
-                            <orth rendition="#uc">orpin </orth>
+                            <form type="variant"><orth rendition="#uc">orpin </orth></form>
                         </form>
                         <sense n="1">
                             <def>C'est un mineral jaune tirant sur le brun.</def>
