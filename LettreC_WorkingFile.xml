@@ -3518,6 +3518,31 @@
                             >https://fr.wikipedia.org/wiki/César_Vichard_de_Saint-Réal</idno>
                     </person>
 
+
+                    <person xml:id="Andry_ISN0000000080761619">
+                        <persName>
+                            <forename>Nicolas</forename>
+                            <surname>Andry de Boisregard</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1658">Né au mois d'août 1658 à <placeName>Lyon,</placeName><country corresp="#FRE">France</country></birth>
+                        <death when="1742-05-13">Mort le 13 mai 1742 à <placeName>Paris,</placeName><country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education>Université de Paris</education>
+                        <occupation>médecin</occupation>
+                        <affiliation>Collège de France</affiliation>
+                        <socecStatus/>
+                        <note>Médecin écrivain, professeur, parasitologue</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000080761619</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Nicolas_Andry_de_Boisregard</idno>
+                    </person>
                     <person xml:id="Bartholin_ISN0000000115636261">
                         <persName>
                             <forename>Thomas</forename>
@@ -4680,6 +4705,31 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000081527306</idno>
                         <idno type="URI">https://en.wikipedia.org/wiki/Nehemiah_Grew</idno>
+                    </person>
+                    
+                    <person xml:id="Guyet_ISN0000000079712289">
+                        <persName>
+                            <forename>François</forename>
+                            <surname>Guyet</surname>
+                            <roleName>Abbé</roleName>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1575">Né en 1575 à<placeName>Angers, </placeName><country corresp="#FRE">France</country></birth>
+                        <death when="1655-04-12">Mort le 12 avril 1655 à <placeName>Paris,</placeName><country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>précepteur</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>poète néo-latin et philologue français.</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000079712289</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/François_Guyet</idno>
                     </person>
 
                     <person xml:id="Habert_G_ISN0000000061273679">
@@ -6338,31 +6388,6 @@
 
                 </listPerson>
                 <listPerson type="Related">
-                    
-                    <person xml:id="Guillaume_ISN">
-                        <persName>
-                            <forename/>
-                            <surname>Hesse-Cassel</surname>
-                            <roleName/>
-                            <addName/>
-                            <abbr/>
-                        </persName>
-                        <birth><placeName/><country/></birth>
-                        <death><placeName/><country/></death>
-                        <sex/>
-                        <nationality/>
-                        <faith/>
-                        <education/>
-                        <occupation/>
-                        <affiliation/>
-                        <socecStatus/>
-                        <note/>
-                        <event>
-                            <desc><date/></desc>
-                        </event>
-                        <idno type="ISNI">http://www.isni.org/isni/</idno>
-                        <idno type="URI"/>
-                    </person>
 
                     <person xml:id="Brutel_ISN0000000080021848">
                         <persName>
@@ -6759,7 +6784,7 @@
                                 <title type="short">Réflexions sur l'usage présent de la langue
                                     françoise ou Remarques nouvelles et critiques touchant la
                                     politesse du langage...</title>
-                                <author><forename>Nicolas (1658-1742) Auteur du
+                                <author ref="#Andry_ISN0000000080761619"><forename>Nicolas (1658-1742) Auteur du
                                         texte</forename><surname>Andry de
                                     Boisregard</surname></author>
                                 <imprint>
@@ -7345,8 +7370,8 @@
                     <div type="CA">
                         <head>CA</head>
                         <entry xml:lang="fra" xml:id="Ca">
-                            <form type="lemma"><orth rendition="#uc">ça</orth>
-                                <gramGrp><pos expand="Adverbe"> adv.</pos></gramGrp></form>
+                            <form type="lemma"><orth rendition="#uc">ça</orth></form>
+                                <gramGrp><pos expand="Adverbe"> adv.</pos></gramGrp>
                             <sense n="1">
                                 <def>qui designe quelque sorte de commandement, qui marque le temps
                                     &amp;amp; le lieu, Ici au temps présent.</def>
@@ -7413,9 +7438,9 @@
                         <head>CAA</head>
                         <entry xml:lang="fra" xml:id="Caaobetinga">
                             <pb/>
-                            <form type="lemma"><orth rendition="#uc">caaobetinga</orth>
+                            <form type="lemma"><orth rendition="#uc">caaobetinga</orth></form>
                                 <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
-                                        >f.</gen></gramGrp></form>
+                                        >f.</gen></gramGrp>
                             <sense n="1"><def>Petite herbe qui se trouve au Bresil. Il sort des
                                     feuilles de la racine même qui sont blancheâtres par dessous,
                                     &amp;amp; vertes par dessus. Sa racine &amp;amp; ses feuilles
@@ -7424,9 +7449,9 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Caaroba">
-                            <form type="lemma"><orth rendition="#uc">caaroba</orth>
+                            <form type="lemma"><orth rendition="#uc">caaroba</orth></form>
                                 <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
-                                        >f.</gen></gramGrp></form>
+                                        >f.</gen></gramGrp>
                             <sense n="1"><def>Arbre fort commun dans les Indes
                                 Occidentales.</def></sense>
                         </entry>
@@ -7502,14 +7527,7 @@
                                     <persName ref="#Flud_ISN0000000089224510">Robert Flud
                                     </persName>Anglois en a fait d'amples Traités &amp;amp;
                                     Apologies dans ses neuf grands Volumes. </note>
-                                <etym>Ce mot vient de l'Hebreu <lang xml:lang="heb">cabala</lang>,
-                                    qui signifie reception, comme de <hi>massora,</hi>
-                                    <hi>traditio</hi>.<bibl><author ref="#Men_ISN0000000080815971"
-                                            rendition="#sc">men</author></bibl>Ou de <lang
-                                        xml:lang="heb">Kibbel, </lang> qui signifie, j'ay enseigné.
-                                        <xr>Voyez <ref><name ref="#Kircher_ISN0000000121266092"
-                                                rendition="#sc">le p.
-                                    kircher</name></ref></xr></etym>
+                                
                             </sense>
                             <sense n="2"><form type="lemma"><orth rendition="#sc">cabale,</orth></form>
                                 <def> signifie figurément, une société de personne qui font dans la
@@ -7619,8 +7637,8 @@
                                         >m.</gen></gramGrp></form>
                             <sense n="1"><usg>Vieux mot.</usg><def> Manteau de pluye avec des
                                     manches, qu'on porte à cheval. </def>
-                                <etym><bibl><author ref="#Men_ISN0000000080815971"
-                                        >Menage</author></bibl> le fait venir de <lang>cappa,</lang>
+                                <etym><ref><persName ref="#Men_ISN0000000080815971"
+                                        >Menage</persName></ref> le fait venir de <mentioned xml:lang="lat">cappa</mentioned><pc>,</pc>
                                     cappe.</etym>
                             </sense>
                         </entry>
@@ -7632,30 +7650,29 @@
                             <sense n="1"><def>Petit toit ou maisonette bâtie de bauge &amp;amp;
                                     couverte de chaume, où logent les pauvres gens, &amp;amp; sur
                                     tout à la campagne. </def>
-                                <cit type="exemple">
+                                <cit type="citation">
                                     <quote>Les solitaires meprisoient le sejour des villes, pour
                                         aller dans les deserts habiter <pb/> des
                                         <hi>cabanes</hi></quote>
-                                    <bibl><author ref="#Dupin_ISN0000000107826807" rendition="#sc"
-                                            >du pin.</author></bibl>
+                                   <bibl> <persName ref="#Dupin_ISN0000000107826807" rendition="#sc"
+                                            >du pin.</persName></bibl>
                                 </cit>
                                 <cit type="citation">
-                                    <quote><bibl><author ref="#Malherbe_ISN0000000110606733"
-                                                >Malherbe</author></bibl> a dit en parlant de la
-                                        mort</quote>
-                                    <cit type="exemple">
-                                        <quote><lg rendition="#i">
-                                                <l>Le pauvre en ca <hi rendition="#n"/>cabane où le
+                                    <lbl><ref><persName ref="#Malherbe_ISN0000000110606733"
+                                                >Malherbe</persName></ref>a dit en parlant de la
+                                        mort</lbl> 
+                                      <quote><lg rendition="#i">
+                                                <l>Le pauvre en ca <hi rendition="#n">cabane</hi> où le
                                                   chanoine le couvre,</l>
                                                 <l>Est sujet à ses loix, &amp;c</l>
                                             </lg></quote>
-                                    </cit>
+                                    
                                 </cit>
                                 <etym>Ce mot vient de l'Italien <lang xml:lang="ita">cappana</lang>
                                     qui signifie petite maison de chaume, qui a été fait du Grec
-                                        <lang xml:lang="ell">kabané</lang>, signifiant creche. <name
-                                        ref="#Men_ISN0000000080815971"/>MEN. <name
-                                        ref="#Isidore_ISN0000000122756296">Isidore</name> dit que le
+                                        <lang xml:lang="ell">kabané</lang>, signifiant creche. <bibl><author
+                                        ref="#Men_ISN0000000080815971">men.</author> </bibl><bibl><author
+                                        ref="#Isidore_ISN0000000122756296">Isidore</author> </bibl>dit que le
                                     mot de <lang xml:lang="ita">capanna</lang> vient <lang
                                         xml:lang="lat">ex co qued unum tantium hominen
                                         capiat.</lang>. Les Espagnols disent aussi cabana.</etym>
@@ -7728,7 +7745,7 @@
                                     ;la loi n'a pas jugé qu'une personne d'une condition si vile,
                                     fût digne de ses soins. </note>
                                 <etym><bibl><author ref="#Men_ISN0000000080815971"
-                                        >Menage</author></bibl> croit que ce mot vient de<lang
+                                        >Menage</author></bibl> croit que ce mot vient de <lang
                                         xml:lang="lat"> caparetum,</lang>qui a été fait du Grec
                                         <lang xml:lang="ell">kapi</lang>,qui signifie <hi
                                         rendition="#i">lieu où l'on mange.</hi>
@@ -7796,7 +7813,7 @@
                                     <quote>Ce Marchand a fait venir deux cent <hi rendition="#i"
                                             >cabas</hi> de figues.</quote>
                                 </cit>
-                                <etym><name ref="#Men_ISN0000000080815971">Menage</name>derive ce
+                                <etym><bibl><author ref="#Men_ISN0000000080815971">Menage</author></bibl>derive ce
                                     mot de l'Italien<lang rendition="#i" xml:lang="ita"
                                         >cabaco,</lang> qu'il dit avoir été fait de <lang
                                         rendition="#i" xml:lang="lat">cabaccus</lang> Latin.
@@ -7833,9 +7850,9 @@
                                 <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
                                         >m.</gen></gramGrp></form>
                             <sense n="1"><def>Vieux mot qui signifioit autrefois une arme deffensive
-                                    qui couvroit la tête</def>
-                                <etym>ce mot, selon <name ref="#Nicot_ISN000000011856542X"
-                                        >Nicod,</name> vient de l'Hebreu <lang xml:lang="he"
+                                    qui couvroit la tête.</def>
+                                <etym>Ce mot, selon <persName ref="#Nicot_ISN000000011856542X"
+                                        >Nicod</persName><pc>,</pc> vient de l'Hebreu <lang xml:lang="he"
                                         >coba,</lang>qui signifie un calque, ou <hi rendition="#i"
                                         >haume;</hi>ou de l'Espagnol <lang xml:lang="spa"
                                         >cabeça,</lang><hi rendition="#i">tête</hi> L'Espagnol dit
@@ -7933,9 +7950,8 @@
                                 <note>Ces Tribu ou <hi>cabilles</hi>sont independantes, &amp; ne
                                     reconoissent aucun Souverain. Ce sont des troupes de vagabonds
                                     qui marchent sous un chef qu'ils appellent <hi>Cacique.</hi> On
-                                    compte 80. de ces Tribus parmi les Arabes.<bibl><author
-                                            ref="#D_Herb_ISN0000000110219020" rendition="#sc"
-                                            >d'herb.</author></bibl><bibl><author
+                                    compte 80. de ces Tribus parmi les Arabes.<ref target="#D_Herb_ISN0000000110219020"><persName
+                                            rendition="#sc" ><abbr>d'herb.</abbr></persName></ref><bibl><author
                                             ref="#Ozanam_ISN0000000108562428" rendition="#sc"
                                             >ozanam.</author></bibl>
                                 </note></sense>
@@ -7972,7 +7988,7 @@
                                             <hi>cabinet.</hi>
                                     </quote>
                                 </cit>
-                                <etym><name type="personne">Menage</name> derive ce mot de <lang
+                                <etym><bibl><author ref="#Men_ISN0000000080815971">Menage</author> </bibl>derive ce mot de <lang
                                         rendition="#i" xml:lang="lat">cavinettum</lang></etym>
                             </sense>
                             <sense n="2"><form type="lemma"><orth rendition="#sc">cabinet</orth></form>
@@ -7984,12 +8000,12 @@
                                         rendition="#i">cabinet.</hi></note>
                                 <cit type="exemple">
                                     <quote>Ce Sçavant est toûjours enfermé dans son <hi
-                                            rendition="#i">cabinet.</hi></quote>
-                                    <quote>Il y a des gens qui écrivent bien, &amp; qui parlent mal;
+                                            rendition="#i">cabinet.</hi></quote></cit>
+                                <cit type="citation">  <quote>Il y a des gens qui écrivent bien, &amp; qui parlent mal;
                                         la raison est qu'ils ont besoin de tout le calme du <hi
                                             rendition="#i">cabinet</hi>pour bien arranger leurs
                                         pensées.</quote>
-                                    <bibl><title ref="#Oeuvres_melees">OE.M.</title></bibl>
+                                    <bibl><title ref="#Oeuvres_melees"><abbr>oe.m.</abbr></title></bibl>
                                 </cit>
                                 <cit type="citation">
                                     <quote>On ne perd que dans le commerce du monde cette contenance
@@ -8001,8 +8017,8 @@
                                 <cit type="citation">
                                     <quote> Il faut s'abstenir des débauches d'esprit, &amp; des
                                         excès de <hi rendition="#i">cabinet</hi>
-                                        <bibl><author ref="#La_Guill_ISN0000000079760360"
-                                                rendition="#sc">la guill.</author></bibl>
+                                        <ref target="#La_Guill_ISN0000000079760360"><persName
+                                                rendition="#sc">la guill.</persName></ref>
                                     </quote>
                                 </cit>
                             </sense>
@@ -8168,9 +8184,9 @@
                             <sense n="2">
                                 <etym>Ce mot vient de l'Hebreu <lang rendition="#i" xml:lang="He"
                                         >chebel,</lang> ou de son pluriel <lang rendition="#i"
-                                        xml:lang="He">chebalim,</lang>qui signifie corde. <name
-                                        ref="#Nicot_ISN000000011856542X">NICOD.</name>
-                                    <name ref="#Du_Cange_ISN0000000121021239">Du Cange</name>croit
+                                        xml:lang="He">chebalim,</lang>qui signifie corde. <bibl><author
+                                        ref="#Nicot_ISN000000011856542X">nicod</author><pc>.</pc></bibl>
+                                   <bibl> <author ref="#Du_Cange_ISN0000000121021239">Du Cange</author></bibl>croit
                                     qu'il vient de l'Arabe <lang rendition="#i" xml:lang="Ar"
                                         >habl,</lang> qui signifie <hi>corde,</hi> ou de <lang
                                         rendition="#i" xml:lang="Ar">habala,</lang><hi>vincire</hi>
@@ -8265,8 +8281,8 @@
                                             <hi>caboche</hi></quote>
                                     <usg>Ce mot est vieux et populaire.</usg>
                                     <etym>
-                                        <name type="personne" ref="#Men_ISN0000000080815971"
-                                            >Ménage</name> le fait venir de <lang xml:lang="lat"
+                                        <bibl><author ref="#Men_ISN0000000080815971"
+                                            >Ménage</author></bibl> le fait venir de <lang xml:lang="lat"
                                             >caput,</lang> la tête. </etym>
                                 </cit></sense>
                             <pb/>
@@ -8378,12 +8394,12 @@
                                         type="terme_variant" rendition="#i">demi-cabriole</seg> est
                                     lorsqu'on ne retombe que sur l'un des pieds.</note>
                                 <etym>
-                                    <bibl>L’Auteur des <title ref="#ReflexUsgFr">Réflexions sur
-                                            l'usage de la langue Françoise</title></bibl> déclare
-                                    pour <hi>capriole</hi>, &amp; quelques autres avec lui. <name
-                                        ref="#Ac">Mrs. de l'Acad.</name> semble le preferer aussi.
-                                    L'usage le plus général, est pour <hi>cabriole</hi>.<name
-                                        ref="#Men_ISN0000000080815971">MEN.</name></etym></sense>
+                                    <bibl><rs ref="#Andry_ISN0000000080761619">L’Auteur des <title ref="#ReflexUsgFr">Réflexions sur
+                                            l'usage de la langue Françoise</title></rs></bibl> déclare
+                                    pour <hi>capriole</hi>, &amp; quelques autres avec lui. <rs
+                                        ref="#Ac">Mrs. de l'Acad.</rs> semble le preferer aussi.
+                                    L'usage le plus général, est pour <hi>cabriole</hi>.<persName
+                                        ref="#Men_ISN0000000080815971" rendition="#sc">men.</persName></etym></sense>
                             <sense n="2"><usg type="terme" ana="#manege">en termes de Manège,</usg>
                                 <def>se dit lorsque le cheval étant en l’air, avant que de tomber à
                                     terre, épare entièrement du derriere, c’est-à-dire, ruë en
@@ -8444,8 +8460,8 @@
                                         rendition="#i">cabus</hi>. </note>
                                 <etym>Ce mot vient de <lang><hi rendition="#i"
                                     >capitatus</hi></lang>, ou bien de <lang><hi rendition="#i"
-                                            >caputus</hi></lang>, selon <name
-                                        ref="#Men_ISN0000000080815971">Menage.</name> Les Allemands
+                                            >caputus</hi></lang>, selon <bibl><author
+                                        ref="#Men_ISN0000000080815971">Menage.</author> </bibl>Les Allemands
                                     les appellent <lang><hi rendition="#i">kabskraut</hi></lang>,
                                     c’est-à-dire, <hi rendition="#i">herbe à
                                 tête</hi>.</etym></sense>
@@ -8599,7 +8615,7 @@
                                         afin que les soldats ne le puissent trouver.</quote>
                                 </cit>
                                 <etym><bibl><author ref="#Men_ISN0000000080815971"
-                                        >Menage</author></bibl> après <name>Guyet</name> derive ce
+                                        >Menage</author></bibl> après <persName ref="#Guyet_ISN0000000079712289">Guyet</persName> derive ce
                                     mot de <lang>caciare</lang>, qui signifie <hi>chasser</hi>,
                                         <hi>pousser</hi>.</etym>
                                 <note>On dit en ce sens , que <cit type="exemple">
@@ -9100,7 +9116,7 @@
                             <sense n="1">
                                 <def>Vieux mot qui signifioit autrefois une zêle indiscret &amp;
                                     trop ardent.</def>
-                                <etym>. <name ref="#Balzac_ISN0000000114443046">Balzac</name> raille
+                                <etym>. <bibl><author ref="#Balzac_ISN0000000114443046">Balzac</author></bibl> raille
                                     dans ses lettres quelques Auteurs de I'avoir employé. </etym>
                                 <etym>Ce mot est derivé de <lang xml:lang="grec">kakos, &amp;c
                                         zilos, </lang><gloss>zêle</gloss>, >autrement <hi
@@ -9121,18 +9137,18 @@
                                     proprietaires des fonds de chaque Communauté ou Parroisse. Les
                                     Romains faisoient la même chose pour leurs Cens. </note>
                                 <etym>
-                                    <name ref="#Men_ISN0000000080815971">Menage</name> derive ce mot
+                                    <bibl><author ref="#Men_ISN0000000080815971">Menage</author></bibl> derive ce mot
                                     de l'Italien <lang xml:lang="ita">catasto</lang>, &amp; de <lang
                                         xml:lang="ita">avattare</lang>, qui à été fait de <lang
                                         xml:lang="lat">ad &amp; de quotus </lang>, parcequ'il sert a
                                     quottiser. Regulierement on devroit ecrire <hi>capdastre</hi>.
-                                        <name ref="#Borel_ISN0000000457851471">Borel</name> le
+                                        <bibl><author ref="#Borel_ISN0000000457851471">Borel</author></bibl> le
                                     derive de <lang>cadun</lang>, qui signifie chacun en Languedoc,
                                     où prncipalement la chose est en usage. <name>Ragueu</name> le
                                     derivie de <lang>capitularium</lang>, qui est le nom qu'on a
                                     donné au regîstre qui contenoit les <hi>capdastres</hi>
                                 </etym>
-                                <note><name ref="#Borel_ISN0000000457851471">Borel</name> fait
+                                <note><bibl><author ref="#Borel_ISN0000000457851471">Borel</author></bibl> fait
                                     remarquer qu'anciennement la taille &amp; les <hi>cadastres</hi>
                                     ne s'écrivoient que sur des verges ou pieces de bois marquées
                                     avec un couteau, comme les tailles que l'on fait aujourd'huy
@@ -9193,8 +9209,8 @@
                                 <note> On le dit aussi des figures qu'on trace sur les cendres, ou
                                     sur le sable, quand on rêve, ou quand on badine.</note>
                                 <etym>Ce mot vient de <lang xml:lang="lat">catellum</lang>, qui a
-                                    eté fait de <lang xml:lang="lat">catena</lang>. <name
-                                        ref="#Men_ISN0000000080815971">MEN </name> D'autres le
+                                    eté fait de <lang xml:lang="lat">catena</lang>. <bibl><author
+                                        ref="#Men_ISN0000000080815971">MEN </author></bibl>. D'autres le
                                     derivent de <lang xml:lang="lat">caducée</lang>,parcequ'avec une
                                     baguette ou caducée on trace des <hi>cadeaux </hi>sur le sable,
                                     sur la poussiere.</etym>
@@ -30083,11 +30099,11 @@
                         <head>CEM</head>
                         <entry xml:lang="fr" xml:id="Cement">
                             <form type="lemma">
-                                <orth rendition="#uc">cement,</orth>
+                                <orth rendition="#uc">cement,</orth></form>
                                 <lbl>ou</lbl>
-                                <orth rendition="#uc">ciment.</orth>
+                               <form> <orth rendition="#uc">ciment.</orth></form>
                                 <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                                        >m.</gen></gramGrp>
                             <sense n="1">
                                 <usg type="terme" ana="#chymie">Terme de Chymie.</usg>
                                 <def>C'est une composition qu'on fait pour purifier l'or. Il y a
