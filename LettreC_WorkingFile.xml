@@ -8251,8 +8251,8 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cableau">
-                            <form type="lemma"><orth rendition="#uc">cableau</orth></form>
-                            <sense n="1"><usg>Diminutif de cable : </usg>
+                            <form type="lemma"><orth rendition="#uc">cableau</orth></form><usg>Diminutif de cable </usg><pc>:</pc>
+                            <sense n="1">
                                 <def>C'est le petit cable qui sert ordinairement d'amarre à la
                                     chaloup du navire.</def></sense>
                         </entry>
@@ -17841,7 +17841,7 @@
                                         >Chef</hi>: ce qui a donné lieu au surnom de <name
                                         type="personne">Hugues <hi rendition="#i">Capet</hi></name>,
                                     suivant l'opinion de Cenalis.</etym>
-                            </sense>
+                            
                             <re><form corresp="#Capitaine"><orth rendition="#sc"
                                         >capitaine-lieutenant</orth></form>
                                 <sense n="1"><def>est celui qui commande une compagnie d'Ordonnance
@@ -17907,7 +17907,7 @@
                                             guides.</hi></note>
                                 </sense>
                             </re>
-
+                            </sense>
                             <sense n="3"><form type="lemma"><orth rendition="#sc">capitaine</orth></form><def>est
                                     aussi un Officier de mer qui commande dans un vaisseau, dans une
                                     galere,un brûlot, ou autre bâtiment.</def>
@@ -17919,8 +17919,8 @@
                                     que des Lieutenants, qui servent à soulager les <seg
                                         type="terme_variant" rendition="#i">Capitaines en
                                         pied.</seg></note>
-                            </sense>
-
+                            
+                            
                             <re><form type="lemma"><orth rendition="#sc">capitaine de port</orth></form>
                                 <sense n="1"><def>est un Officier de Marine établi dans les ports où
                                         il y a un arsenal, qui a soin de garder le port &amp;les
@@ -17931,6 +17931,8 @@
                                         pour garder les côtes &amp; empêcher les descentes.</def>
                                 </sense>
                             </re>
+                            </sense>
+
 
 
                             <sense n="4"><form type="lemma">
@@ -17970,10 +17972,10 @@
                                     Bohemiens, de filous, de couppeurs de bourse.</def>
                             </sense>
 
-                            <re>
+                            <sense n="8">
                                 <form type="lemma">
                                     <orth rendition="#sc">capitaine</orth></form>
-                                <sense n="1">
+                              
                                     <def>Sorte de poisson qui se pêche le long des côtes de
                                         l'Amerique.</def>
                                     <etym> On l'appelle ainsi parcequ'il est fort rouge,&amp; qu'il
@@ -17983,8 +17985,8 @@
                                         forme dont il se sert pour se battre contre les autres
                                         poissons. Il a du rapport avec la carpe; mais il est plus
                                         grand,&amp; plus gros. Sa chair est de bon goût. </etym>
-                                </sense>
-                            </re>
+                                
+                            </sense>
                         </entry>
                         <entry xml:lang="fra" xml:id="Capitainerie">
                             <form type="lemma">
