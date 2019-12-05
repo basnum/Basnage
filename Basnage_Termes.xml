@@ -33,13 +33,13 @@
 
                 <respStmt>
 
-                    <name xml:id="Williams_ISN0000000459351809"><forename>Geoffrey</forename>
-                        <surname>Williams</surname></name>
+                    <persName xml:id="Williams_ISN0000000459351809"><forename>Geoffrey</forename>
+                        <surname>Williams</surname></persName>
                     <resp>Responsable projet</resp>
                 </respStmt>
 
                 <respStmt>
-                    <name>Master Métiers du Livre et de l'Édition </name>
+                    <persName>Master Métiers du Livre et de l'Édition </persName>
                     <resp>Numérisation des données</resp>
                 </respStmt>
             </editionStmt>
@@ -71,7 +71,7 @@
                         <author>Antoine Furetière, Abbé de Chalivoi</author>
                         <respStmt>
                             <resp>Seconde édition par</resp>
-                            <name>Basnage de Beauval</name>
+                            <persName>Basnage de Beauval</persName>
                         </respStmt>
                     </titleStmt>
                     <publicationStmt>
@@ -136,7 +136,7 @@
                             <surname>Abbadie</surname>
                             <roleName>Mr.</roleName>
                             <addName>Abadie</addName>
-                            <abbr> ab ou abs</abbr></persName>
+                            <abbr>ab ou abs</abbr></persName>
                         <birth when="1654">né en 1654 à <placeName>Nay</placeName><country
                                 corresp="#FRE">France</country></birth>
                         <death when="1727-09-25">mort le 25 septembre 1727 à <placeName>Marylebone
@@ -161,8 +161,8 @@
                             <forename>Nicolas</forename>
                             <surname>Perrot d'Ablancourt</surname>
                             <roleName/>
-                            <addName>Mr.</addName></persName>
-                        <persName type="abbr"> Abl</persName>
+                            <addName>Mr.</addName>
+                            <abbr>Abl</abbr></persName>
                         <birth when="1606-04-06">Né le 6 April 1606 à
                                 <placeName>Châlons-en-Champagne</placeName><country corresp="#FRE"
                                 >France</country></birth>
@@ -1699,7 +1699,7 @@
                             <roleName>Sieur de La Guilletière</roleName>
                             <abbr>La Guill, G de G</abbr>
                         </persName>
-                        <persName><name>Lettres du Chevalier d'Her...</name><abbr>Le Ch
+                        <persName><persName>Lettres du Chevalier d'Her...</persName><abbr>Le Ch
                             d'H</abbr></persName>
                         <birth when="1624">né en 1624 à <placeName>Thiers</placeName><country
                                 corresp="#FRE">France</country></birth>
@@ -2665,7 +2665,7 @@
                     <person xml:id="Regn_ISN0000000108814744">
                         <persName>
                             <forename>Mathurin</forename>
-                            <name>Regnier</name><abbr>Regn</abbr></persName>
+                            <persName>Regnier</persName><abbr>Regn</abbr></persName>
                         <birth when="1573-12-21">21 décembre 1573 à
                                 <placeName>Chartres</placeName><country corresp="#FRE"
                                 >France</country>
@@ -3865,7 +3865,7 @@
                     </person>
 
                     <person xml:id="Casimir_ISN0000000109907053">
-                        <persName xml:base=""><name>Casimir Siemienowicz, Polonais</name><date>c.
+                        <persName xml:base=""><persName>Casimir Siemienowicz, Polonais</persName><date>c.
                                 1600-1651</date><country>Lithuania</country></persName>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Kazimierz_Siemienowicz</idno>
                     </person>
@@ -5695,8 +5695,8 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/François_Rabelais</idno>
                     </person>
                     <person xml:id="Rondelet_ISN000000010855716X">
-                        <persName xml:base=""><name>Guillaume
-                                Rondelet</name><abbr/><date>1507-1566</date><country>France</country><note>Botaniste,
+                        <persName xml:base=""><persName>Guillaume
+                                Rondelet</persName><abbr/><date>1507-1566</date><country>France</country><note>Botaniste,
                                 médecin, ichtyologiste, naturaliste, professeur
                             d'université</note></persName>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Guillaume_Rondelet</idno>
@@ -5760,8 +5760,8 @@
                             >https://fr.wikipedia.org/wiki/Charles_de_La_Rue_(jésuite)</idno>
                     </person>
                     <person xml:id="Saum_ISN0000000108910154">
-                        <persName><name>Claude
-                                Saumaise</name><date>1588-1653</date><abbr>Saum</abbr></persName>
+                        <persName><persName>Claude
+                                Saumaise</persName><date>1588-1653</date><abbr>Saum</abbr></persName>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Claude_Saumaise</idno>
                     </person>
                     <person xml:id="Savary_ISN0000000080889049 ">
@@ -5857,8 +5857,8 @@
                         <idno type="URI">http://data.bnf.fr/12001338/denis_simon/</idno>
                     </person>
                     <person xml:id="Sirmond_ISN000000011020016X">
-                        <persName><name>Jacques
-                                Sirmond</name><date>1559-1651</date><country>France</country><note>prêtre
+                        <persName><persName>Jacques
+                                Sirmond</persName><date>1559-1651</date><country>France</country><note>prêtre
                                 jésuite français, historien et patrologue</note></persName>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jacques_Sirmond</idno>
                     </person>
@@ -5970,21 +5970,21 @@
                             >https://fr.wikipedia.org/wiki/Marc-Antoine_Girard_de_Saint-Amant</idno>
                     </person>
                     <person xml:id="Tachard_ISN0000000115571939">
-                        <persName xml:base=""><name>Guy
-                                Tachard</name><date>1648-1712</date><country>France</country><note>mathématicien
+                        <persName xml:base=""><persName>Guy
+                                Tachard</persName><date>1648-1712</date><country>France</country><note>mathématicien
                                 et diplomate.</note></persName>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Guy_Tachard</idno>
                     </person>
                     <person xml:id="Tav_ISN0000000121451888">
                         <persName>
-                            <name>Jean-Baptiste
-                                Tavernier</name><date>1605-1689</date><country>France</country><note>Explorateur,
+                            <persName>Jean-Baptiste
+                                Tavernier</persName><date>1605-1689</date><country>France</country><note>Explorateur,
                                 marchand, écrivain, vendeur</note></persName>
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Jean-Baptiste_Tavernier</idno>
                     </person>
                     <person xml:id="Testu_ISN0000000366594668">
-                        <persName><name>Jacques Testu de Belval (Tetu tais-toi)</name><abbr>Ab.
+                        <persName><persName>Jacques Testu de Belval (Tetu tais-toi)</persName><abbr>Ab.
                                 Tetu</abbr></persName>
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Jacques_Testu_de_Belval</idno>
@@ -6174,16 +6174,16 @@
                             >https://fr.wikipedia.org/wiki/François_Pierre_de_La_Varenne</idno>
                     </person>
                     <person xml:id="Villars_ISN0000000121185233">
-                        <persName><name>Abbé de Villars</name><abbr>Ab de Vilars></abbr></persName>
+                        <persName><persName>Abbé de Villars</persName><abbr>Ab de Vilars></abbr></persName>
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Nicolas-Pierre-Henri_de_Montfaucon_de_Villars</idno>
                     </person>
                     <person xml:id="Villon_ISN0000000121192791">
-                        <persName><name>François Villon</name></persName>
+                        <persName><persName>François Villon</persName></persName>
                         <idno type="URI">https://fr.wikipedia.org/wiki/François_Villon</idno>
                     </person>
                     <person xml:id="Vlaq_ISN0000000070518316">
-                        <persName><name>Adrian Vlaq</name><date>17th c</date><country>Pays
+                        <persName><persName>Adrian Vlaq</persName><date>17th c</date><country>Pays
                                 Bas</country><note>publisher</note></persName>
                     </person>
                     <person xml:id="Wern_VIAF309698078">
@@ -6514,14 +6514,14 @@
                     <head>Personnes mentionnées mais pas citées</head>
                     <person n="Saint_Pacöme">
                         <persName xml:base="https://fr.wikipedia.org/wiki/Pac%C3%B4me_le_Grand"
-                            xml:id="Pacôme_ISN0000000118565307"><name>Saint Pacôme</name><date>
+                            xml:id="Pacôme_ISN0000000118565307"><persName>Saint Pacôme</persName><date>
                                 (290-346)</date><note>généralement considéré comme le fondateur du
                                 cénobitisme chrétien</note></persName>
                     </person>
                     <person n="Quintillian">
                         <persName xml:base="https://en.wikipedia.org/wiki/Quintilian"
-                            xml:id="Quint_ISN0000000121271967"><name>Quintillian, Marcus Fabius
-                                Quintilianus</name>
+                            xml:id="Quint_ISN0000000121271967"><persName>Quintillian, Marcus Fabius
+                                Quintilianus</persName>
                             <abbr/><date>35 – c. 100 AD</date><country>Empire Romain,
                                 Hispania</country><note>rhétorician</note></persName>
                     </person>
@@ -6601,55 +6601,55 @@
                     </person>
                     <person n="Horace">
                         <persName xml:base="https://fr.wikipedia.org/wiki/Horace"
-                            xml:id="Horace_ISN0000000121452178"><name>Horace, Quintus Horatius
-                                Flaccus</name><abbr/><date>v08.12.65.-v27.11.08</date><country>Empire
+                            xml:id="Horace_ISN0000000121452178"><persName>Horace, Quintus Horatius
+                                Flaccus</persName><abbr/><date>v08.12.65.-v27.11.08</date><country>Empire
                                 Romain</country><note>Poere latin</note></persName>
                     </person>
                     <person n="Magnus">
                         <persName xml:base="http://viaf.org/viaf/12358154"
-                            xml:id="Ola_ISN0000000122764659"><name>Olaus Magnus</name></persName>
+                            xml:id="Ola_ISN0000000122764659"><persName>Olaus Magnus</persName></persName>
                     </person>
                     <person n="César">
                         <persName xml:base="https://fr.wikipedia.org/wiki/Jules_César"
-                            xml:id="Cesar_ISN0000000382473815"><name>Jules César</name></persName>
+                            xml:id="Cesar_ISN0000000382473815"><persName>Jules César</persName></persName>
                     </person>
 
                     <person n="Cassien">
                         <persName xml:base="https://fr.wikipedia.org/wiki/Jean_Cassien"
-                            xml:id="Cassien_ISN0000000117810585"><name>Jean Cassien</name><date>
+                            xml:id="Cassien_ISN0000000117810585"><persName>Jean Cassien</persName><date>
                                 (360-435)</date><country>France</country><note>moine</note></persName>
                     </person>
 
                     <person n="Jesus_Christ">
                         <persName xml:base="https://fr.wikipedia.org/wiki/J%C3%A9sus-Christ"
                             xml:id="Jesus_Christ_ISN0000000120370699"
-                                ><name>Jésus-Christ</name><date> (4avJ.-C.-29)</date><note>Messie
+                                ><persName>Jésus-Christ</persName><date> (4avJ.-C.-29)</date><note>Messie
                                 des chrétiens (aussi J.Christ, Christ, le Christ, Notre Seigneur, le
                                 Sauveur)</note></persName>
                     </person>
 
                     <person n="Véronèse">
                         <persName xml:base="https://fr.wikipedia.org/wiki/Paul_V%C3%A9ron%C3%A8se"
-                            xml:id="Veronese_ISN0000000120966716"><name>Paul Véronèse</name><date>
+                            xml:id="Veronese_ISN0000000120966716"><persName>Paul Véronèse</persName><date>
                                 (1528-1588)</date><note>Peintre vénitien</note></persName>
                     </person>
 
                     <person n="Dioscorides">
                         <persName xml:base="https://fr.wikipedia.org/wiki/Paul_V%C3%A9ron%C3%A8se"
-                            xml:id="Dioscoride_ISN0000000094803939"><name>Pedanius
-                                Dioscorides</name><date> (ca40-ca90)</date><note>Médecin,
+                            xml:id="Dioscoride_ISN0000000094803939"><persName>Pedanius
+                                Dioscorides</persName><date> (ca40-ca90)</date><note>Médecin,
                                 pharmacologue, botaniste</note></persName>
                     </person>
 
                     <person n="Abelard">
                         <persName xml:base="https://fr.wikipedia.org/wiki/Pierre_Abélard"
-                            xml:id="Abelard_ISN000000012102945X"><name>Pierre
-                                Abelard</name><date>1079-1142</date></persName>
+                            xml:id="Abelard_ISN000000012102945X"><persName>Pierre
+                                Abelard</persName><date>1079-1142</date></persName>
                     </person>
                     <person n="Héloise">
                         <persName xml:base="https://fr.wikipedia.org/wiki/Héloïse_d%27Argenteuil"
-                            xml:id="Heloise_ISN0000000121386094"><name>Héloise
-                                d'Argentueil</name><date>1095-1163 or 1164</date></persName>
+                            xml:id="Heloise_ISN0000000121386094"><persName>Héloise
+                                d'Argentueil</persName><date>1095-1163 or 1164</date></persName>
                     </person>
 
                     <person n="Juvénal">
@@ -6940,7 +6940,7 @@
                             corresp="http://zotero.org/users/1449659/items/X5QDVZ4M">
                             <monogr>
                                 <title level="m">Vocabolario degli Accademici della Crusca</title>
-                                <author><name>Accademia della Crusca</name></author>
+                                <author><orgName>Accademia della Crusca</orgName></author>
                                 <imprint>
                                     <pubPlace>Venezia</pubPlace>
                                     <publisher>Giouvanni Alberti</publisher>
@@ -6962,125 +6962,125 @@
                 <taxonomy n="domains">
                     <desc>Domains et métiers designés par des termes</desc>
 
-                    <gloss xml:id="agriculture"><name>agriculture</name></gloss>
-                    <gloss xml:id="algebre"><name>algebre</name></gloss>
-                    <gloss xml:id="anatomie"><name>anatomie</name></gloss>
-                    <gloss xml:id="architecture"><name>architecture</name></gloss>
-                    <gloss xml:id="arithmetique"><name>arithmetique</name></gloss>
-                    <gloss xml:id="arquebusier"><name>arquebusier</name></gloss>
-                    <gloss xml:id="artisans"><name>artisans</name></gloss>
-                    <gloss xml:id="astrologie"><name>astrologie</name></gloss>
-                    <gloss xml:id="astrologie_judiciaire"><name>astrologie judiciaire</name></gloss>
-                    <gloss xml:id="astronomie"><name>astronomie</name></gloss>
-                    <gloss xml:id="banque"><name>banque</name></gloss>
-                    <gloss xml:id="barbare"><name>barbare</name></gloss>
-                    <gloss xml:id="blason"><name>blason</name></gloss>
-                    <gloss xml:id="bonnetier"><name>bonnetier</name></gloss>
-                    <gloss xml:id="botanique"><name>botanique</name></gloss>
-                    <gloss xml:id="bouquetiere"><name>bouquetiere</name></gloss>
-                    <gloss xml:id="bourrelier"><name>bourrelier</name></gloss>
-                    <gloss xml:id="breviaire"><name>breviaire</name></gloss>
-                    <gloss xml:id="broderie"><name>broderie</name></gloss>
-                    <gloss xml:id="cartier"><name>cartier</name></gloss>
-                    <gloss xml:id="chancellerie"><name>chancellerie</name></gloss>
-                    <gloss xml:id="charcuterie"><name>charcuterie</name></gloss>
-                    <gloss xml:id="charpenterie"><name>charpenterie</name></gloss>
-                    <gloss xml:id="chasse"><name>chasse</name></gloss>
-                    <gloss xml:id="chiromancie"><name>chiromancie</name></gloss>
-                    <gloss xml:id="chirugerie"><name>chirugerie</name></gloss>
-                    <gloss xml:id="chronologie"><note>chronologie</note></gloss>
-                    <gloss xml:id="chymie"><name>chymie</name></gloss>
-                    <gloss xml:id="collectif"><name>collectif</name></gloss>
-                    <gloss xml:id="college"><name>college</name></gloss>
-                    <gloss xml:id="complement"><name>complement</name></gloss>
-                    <gloss xml:id="confiseur"><name>confiseur</name></gloss>
-                    <gloss xml:id="cordier"><name>cordier</name></gloss>
-                    <gloss xml:id="cordonnier"><name>cordonnier</name></gloss>
-                    <gloss xml:id="coutelier"><name>coutelier</name></gloss>
-                    <gloss xml:id="coutume"><name>coutume / coutumes</name></gloss>
-                    <gloss xml:id="couture"><name>couture</name></gloss>
-                    <gloss xml:id="degraisseur"><name>degraisseur</name></gloss>
-                    <gloss xml:id="devotion"><name>devotion</name></gloss>
-                    <gloss xml:id="droit"><name>droit</name></gloss>
-                    <gloss xml:id="dogmatique"><name>dogmatique</name></gloss>
-                    <gloss xml:id="eclesiastique"><name>eclesiastique</name></gloss>
-                    <gloss xml:id="drapppier"><name>drappier</name></gloss>
-                    <gloss xml:id="ecole"><name>école</name></gloss>
-                    <gloss xml:id="eaux_et_forets"><name>eaux et forêts</name></gloss>
-                    <gloss xml:id="fauconnerie"><name>fauconnerie</name></gloss>
-                    <gloss xml:id="finance"><name>finance</name></gloss>
-                    <gloss xml:id="fleuriste"><name>fleuriste</name></gloss>
-                    <gloss xml:id="forets"><name>forets</name></gloss>
-                    <gloss xml:id="forges"><name>forges</name></gloss>
-                    <gloss xml:id="formier"><name>formier</name></gloss>
-                    <gloss xml:id="fortification"><name>fortification</name></gloss>
-                    <gloss xml:id="gantier"><name>gantier</name></gloss>
-                    <gloss xml:id="geographie"><name>geographie</name></gloss>
-                    <gloss xml:id="geometrie"><name>geometrie</name></gloss>
-                    <gloss xml:id="grammaire"><name>grammaire</name></gloss>
-                    <gloss xml:id="graveur"><name>graveur</name></gloss>
-                    <gloss xml:id="guerre"><name>guerre</name></gloss>
-                    <gloss xml:id="histoire_eclesiastique"><name>histoire
-                        eclesiastique</name></gloss>
-                    <gloss xml:id="histoire_romaine"><name>histoire romaine</name></gloss>
-                    <gloss xml:id="imprimerie"><name>imprimerie</name></gloss>
-                    <gloss xml:id="indeclinable"><name>indeclinable</name></gloss>
-                    <gloss xml:id="injurieux">injurieux</gloss>
-                    <gloss xml:id="jardinage"><name>jardinage</name></gloss>
-                    <gloss xml:id="jardinier"><name>jardinier</name></gloss>
-                    <gloss xml:id="jeu_des_cartes"><name>jeu des cartes</name></gloss>
-                    <gloss xml:id="jeu_d_echecs"><name>jeu d'échecs</name></gloss>
-                    <gloss xml:id="jouaillier"><name>jouaillier</name></gloss>
-                    <gloss xml:id="jurisprudence"><name>jurisprudence</name></gloss>
-                    <gloss xml:id="laboureur"><name>laboureur</name></gloss>
-                    <gloss xml:id="logique"><name>logique</name></gloss>
-                    <gloss xml:id="macon"><name>maçon</name></gloss>
-                    <gloss xml:id="maconnerie"><name>maconnerie</name></gloss>
-                    <gloss xml:id="manege"><name>manege</name></gloss>
-                    <gloss xml:id="manufactures"><name>manufactures</name></gloss>
-                    <gloss xml:id="marchand"><name>marchand</name></gloss>
-                    <gloss xml:id="marchand_de_drap"><name>marchand_de_drap</name></gloss>
-                    <gloss xml:id="marchands_de_poisson"><name>Marchand de poisson</name></gloss>
-                    <gloss xml:id="marine"><name>Marine</name></gloss>
-                    <gloss xml:id="medailliste"><name>medailliste </name></gloss>
-                    <gloss xml:id="medecine"><name>medecine</name></gloss>
-                    <gloss xml:id="menuiserie"><name>menuiserie</name></gloss>
-                    <gloss xml:id="mer"><name>mer</name></gloss>
-                    <gloss xml:id="monnoyes"><name>monnoyes</name></gloss>
-                    <gloss xml:id="morale"><name>morale</name></gloss>
-                    <gloss xml:id="musique"><name>musique</name></gloss>
-                    <gloss xml:id="mythologie"><name>mythologie</name></gloss>
-                    <gloss xml:id="negoce"><name>negoce</name></gloss>
-                    <gloss xml:id="ouvrage"><name>ouvrage</name></gloss>
-                    <gloss xml:id="palais"><name>palais</name></gloss>
-                    <gloss xml:id="patissier"><name>patissier</name></gloss>
-                    <gloss xml:id="peche"><name>peche</name></gloss>
-                    <gloss xml:id="peintre"><name>peintre</name></gloss>
-                    <gloss xml:id="peinture"><name>peinture</name></gloss>
-                    <gloss xml:id="pharmacie"><name>pharmacie</name></gloss>
-                    <gloss xml:id="philosophie"><name>philosophie</name></gloss>
-                    <gloss xml:id="physique"><name>physique</name></gloss>
-                    <gloss xml:id="picquet"><name>Jeu de Picquet</name></gloss>
-                    <gloss xml:id="plombier"><name>plombier</name></gloss>
-                    <gloss xml:id="poesie"><name>poesie</name></gloss>
-                    <gloss xml:id="poetique"><name>poetique</name></gloss>
-                    <gloss xml:id="pratique"><name>pratique</name></gloss>
-                    <gloss xml:id="prosodie"><name>prosodie</name></gloss>
-                    <gloss xml:id="prosodie_latine"><name>prosodie latine</name></gloss>
-                    <gloss xml:id="quincaillerie"><name>quincaillerie</name></gloss>
-                    <gloss xml:id="relations"><name>relations</name></gloss>
-                    <gloss xml:id="relieur"><name>relieur</name></gloss>
-                    <gloss xml:id="rhetorique"><name>rhetorique</name></gloss>
-                    <gloss xml:id="societe"><name>societe</name></gloss>
-                    <gloss xml:id="sorbonne"><name>Sorbonne</name></gloss>
-                    <gloss xml:id="taillandier"><name>taillandier</name></gloss>
-                    <gloss xml:id="theatre"><name>theatre</name></gloss>
-                    <gloss xml:id="theologie"><name>théologie</name></gloss>
-                    <gloss xml:id="tireur_d_or"><name>tireur_d_or</name></gloss>
-                    <gloss xml:id="tueur_de_cochons"><name>tueur de cochons</name></gloss>
-                    <gloss xml:id="venerie"><name>venerie</name></gloss>
-                    <gloss xml:id="vernisseur"><name>vernisseur</name></gloss>
-                    <gloss xml:id="verrerie"><name>verrerie</name></gloss>
+                    <gloss xml:id="agriculture"><term>agriculture</term><persName></persName></gloss>
+                    <gloss xml:id="algebre"><term>algebre</term></gloss>
+                    <gloss xml:id="anatomie"><term>anatomie</term></gloss>
+                    <gloss xml:id="architecture"><term>architecture</term></gloss>
+                    <gloss xml:id="arithmetique"><term>arithmetique</term></gloss>
+                    <gloss xml:id="arquebusier"><term>arquebusier</term></gloss>
+                    <gloss xml:id="artisans"><term>artisans</term></gloss>
+                    <gloss xml:id="astrologie"><term>astrologie</term></gloss>
+                    <gloss xml:id="astrologie_judiciaire"><term>astrologie judiciaire</term></gloss>
+                    <gloss xml:id="astronomie"><term>astronomie</term></gloss>
+                    <gloss xml:id="banque"><term>banque</term></gloss>
+                    <gloss xml:id="barbare"><term>barbare</term></gloss>
+                    <gloss xml:id="blason"><term>blason</term></gloss>
+                    <gloss xml:id="bonnetier"><term>bonnetier</term></gloss>
+                    <gloss xml:id="botanique"><term>botanique</term></gloss>
+                    <gloss xml:id="bouquetiere"><term>bouquetiere</term></gloss>
+                    <gloss xml:id="bourrelier"><term>bourrelier</term></gloss>
+                    <gloss xml:id="breviaire"><term>breviaire</term></gloss>
+                    <gloss xml:id="broderie"><term>broderie</term></gloss>
+                    <gloss xml:id="cartier"><term>cartier</term></gloss>
+                    <gloss xml:id="chancellerie"><term>chancellerie</term></gloss>
+                    <gloss xml:id="charcuterie"><term>charcuterie</term></gloss>
+                    <gloss xml:id="charpenterie"><term>charpenterie</term></gloss>
+                    <gloss xml:id="chasse"><term>chasse</term></gloss>
+                    <gloss xml:id="chiromancie"><term>chiromancie</term></gloss>
+                    <gloss xml:id="chirugerie"><term>chirugerie</term></gloss>
+                    <gloss xml:id="chronologie"><term>chronologie</term></gloss>
+                    <gloss xml:id="chymie"><term>chymie</term></gloss>
+                    <gloss xml:id="collectif"><term>collectif</term></gloss>
+                    <gloss xml:id="college"><term>college</term></gloss>
+                    <gloss xml:id="complement"><term>complement</term></gloss>
+                    <gloss xml:id="confiseur"><term>confiseur</term></gloss>
+                    <gloss xml:id="cordier"><term>cordier</term></gloss>
+                    <gloss xml:id="cordonnier"><term>cordonnier</term></gloss>
+                    <gloss xml:id="coutelier"><term>coutelier</term></gloss>
+                    <gloss xml:id="coutume"><term>coutume / coutumes</term></gloss>
+                    <gloss xml:id="couture"><term>couture</term></gloss>
+                    <gloss xml:id="degraisseur"><term>degraisseur</term></gloss>
+                    <gloss xml:id="devotion"><term>devotion</term></gloss>
+                    <gloss xml:id="droit"><term>droit</term></gloss>
+                    <gloss xml:id="dogmatique"><term>dogmatique</term></gloss>
+                    <gloss xml:id="eclesiastique"><term>eclesiastique</term></gloss>
+                    <gloss xml:id="drapppier"><term>drappier</term></gloss>
+                    <gloss xml:id="ecole"><term>école</term></gloss>
+                    <gloss xml:id="eaux_et_forets"><term>eaux et forêts</term></gloss>
+                    <gloss xml:id="fauconnerie"><term>fauconnerie</term></gloss>
+                    <gloss xml:id="finance"><term>finance</term></gloss>
+                    <gloss xml:id="fleuriste"><term>fleuriste</term></gloss>
+                    <gloss xml:id="forets"><term>forets</term></gloss>
+                    <gloss xml:id="forges"><term>forges</term></gloss>
+                    <gloss xml:id="formier"><term>formier</term></gloss>
+                    <gloss xml:id="fortification"><term>fortification</term></gloss>
+                    <gloss xml:id="gantier"><term>gantier</term></gloss>
+                    <gloss xml:id="geographie"><term>geographie</term></gloss>
+                    <gloss xml:id="geometrie"><term>geometrie</term></gloss>
+                    <gloss xml:id="grammaire"><term>grammaire</term></gloss>
+                    <gloss xml:id="graveur"><term>graveur</term></gloss>
+                    <gloss xml:id="guerre"><term>guerre</term></gloss>
+                    <gloss xml:id="histoire_eclesiastique"><term>histoire
+                        eclesiastique</term></gloss>
+                    <gloss xml:id="histoire_romaine"><term>histoire romaine</term></gloss>
+                    <gloss xml:id="imprimerie"><term>imprimerie</term></gloss>
+                    <gloss xml:id="indeclinable"><term>indeclinable</term></gloss>
+                    <gloss xml:id="injurieux"><term>injurieux</term></gloss>
+                    <gloss xml:id="jardinage"><term>jardinage</term></gloss>
+                    <gloss xml:id="jardinier"><term>jardinier</term></gloss>
+                    <gloss xml:id="jeu_des_cartes"><term>jeu des cartes</term></gloss>
+                    <gloss xml:id="jeu_d_echecs"><term>jeu d'échecs</term></gloss>
+                    <gloss xml:id="jouaillier"><term>jouaillier</term></gloss>
+                    <gloss xml:id="jurisprudence"><term>jurisprudence</term></gloss>
+                    <gloss xml:id="laboureur"><term>laboureur</term></gloss>
+                    <gloss xml:id="logique"><term>logique</term></gloss>
+                    <gloss xml:id="macon"><term>maçon</term></gloss>
+                    <gloss xml:id="maconnerie"><term>maconnerie</term></gloss>
+                    <gloss xml:id="manege"><term>manege</term></gloss>
+                    <gloss xml:id="manufactures"><term>manufactures</term></gloss>
+                    <gloss xml:id="marchand"><term>marchand</term></gloss>
+                    <gloss xml:id="marchand_de_drap"><term>marchand_de_drap</term></gloss>
+                    <gloss xml:id="marchands_de_poisson"><term>Marchand de poisson</term></gloss>
+                    <gloss xml:id="marine"><term>Marine</term></gloss>
+                    <gloss xml:id="medailliste"><term>medailliste </term></gloss>
+                    <gloss xml:id="medecine"><term>medecine</term></gloss>
+                    <gloss xml:id="menuiserie"><term>menuiserie</term></gloss>
+                    <gloss xml:id="mer"><term>mer</term></gloss>
+                    <gloss xml:id="monnoyes"><term>monnoyes</term></gloss>
+                    <gloss xml:id="morale"><term>morale</term></gloss>
+                    <gloss xml:id="musique"><term>musique</term></gloss>
+                    <gloss xml:id="mythologie"><term>mythologie</term></gloss>
+                    <gloss xml:id="negoce"><term>negoce</term></gloss>
+                    <gloss xml:id="ouvrage"><term>ouvrage</term></gloss>
+                    <gloss xml:id="palais"><term>palais</term></gloss>
+                    <gloss xml:id="patissier"><term>patissier</term></gloss>
+                    <gloss xml:id="peche"><term>peche</term></gloss>
+                    <gloss xml:id="peintre"><term>peintre</term></gloss>
+                    <gloss xml:id="peinture"><term>peinture</term></gloss>
+                    <gloss xml:id="pharmacie"><term>pharmacie</term></gloss>
+                    <gloss xml:id="philosophie"><term>philosophie</term></gloss>
+                    <gloss xml:id="physique"><term>physique</term></gloss>
+                    <gloss xml:id="picquet"><term>Jeu de Picquet</term></gloss>
+                    <gloss xml:id="plombier"><term>plombier</term></gloss>
+                    <gloss xml:id="poesie"><term>poesie</term></gloss>
+                    <gloss xml:id="poetique"><term>poetique</term></gloss>
+                    <gloss xml:id="pratique"><term>pratique</term></gloss>
+                    <gloss xml:id="prosodie"><term>prosodie</term></gloss>
+                    <gloss xml:id="prosodie_latine"><term>prosodie latine</term></gloss>
+                    <gloss xml:id="quincaillerie"><term>quincaillerie</term></gloss>
+                    <gloss xml:id="relations"><term>relations</term></gloss>
+                    <gloss xml:id="relieur"><term>relieur</term></gloss>
+                    <gloss xml:id="rhetorique"><term>rhetorique</term></gloss>
+                    <gloss xml:id="societe"><term>societe</term></gloss>
+                    <gloss xml:id="sorbonne"><term>Sorbonne</term></gloss>
+                    <gloss xml:id="taillandier"><term>taillandier</term></gloss>
+                    <gloss xml:id="theatre"><term>theatre</term></gloss>
+                    <gloss xml:id="theologie"><term>théologie</term></gloss>
+                    <gloss xml:id="tireur_d_or"><term>tireur_d_or</term></gloss>
+                    <gloss xml:id="tueur_de_cochons"><term>tueur de cochons</term></gloss>
+                    <gloss xml:id="venerie"><term>venerie</term></gloss>
+                    <gloss xml:id="vernisseur"><term>vernisseur</term></gloss>
+                    <gloss xml:id="verrerie"><term>verrerie</term></gloss>
 
                 </taxonomy>
             </classDecl>
@@ -7088,15 +7088,15 @@
             <classDecl>
                 <taxonomy>
                     <desc>Registre</desc>
-                    <gloss xml:id="bas"><name>bas</name></gloss>
-                    <gloss xml:id="burlesque"><name>burlesque</name></gloss>
-                    <gloss xml:id="populaire"><name>populaire</name></gloss>
+                    <gloss xml:id="bas"><term>bas</term></gloss>
+                    <gloss xml:id="burlesque"><term>burlesque</term></gloss>
+                    <gloss xml:id="populaire"><term>populaire</term></gloss>
                 </taxonomy>
             </classDecl>
 
             <classDecl n="country">
                 <taxonomy>
-                    <desc>Country codes for countries that have changed name or geographic
+                    <desc>Country codes for countries that have changed persName or geographic
                         extent</desc>
                     <gloss xml:id="DNK"><country>Danemark</country></gloss>
                     <gloss xml:id="DEU"><country>Allemagne</country></gloss>
