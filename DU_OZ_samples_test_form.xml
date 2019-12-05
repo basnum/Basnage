@@ -137,7 +137,7 @@
                             <surname>Abbadie</surname>
                             <roleName>Mr.</roleName>
                             <addName>Abadie</addName>
-                            <abbr>abbrévié comme ab ou abs</abbr></persName>
+                            <abbr>ab ou abs</abbr></persName>
                         <birth when="1654">né en 1654 à <placeName>Nay</placeName><country
                                 corresp="#FRE">France</country></birth>
                         <death when="1727-09-25">mort le 25 septembre 1727 à <placeName>Marylebone
@@ -3517,31 +3517,6 @@
                             >https://fr.wikipedia.org/wiki/César_Vichard_de_Saint-Réal</idno>
                     </person>
 
-
-                    <person xml:id="Andry_ISN0000000080761619">
-                        <persName>
-                            <forename>Nicolas</forename>
-                            <surname>Andry de Boisregard</surname>
-                            <roleName/>
-                            <addName/>
-                            <abbr/>
-                        </persName>
-                        <birth when="1658">Né au mois d'août 1658 à <placeName>Lyon,</placeName><country corresp="#FRE">France</country></birth>
-                        <death when="1742-05-13">Mort le 13 mai 1742 à <placeName>Paris,</placeName><country corresp="#FRE">France</country></death>
-                        <sex>Masculin</sex>
-                        <nationality>Française</nationality>
-                        <faith>Catholique</faith>
-                        <education>Université de Paris</education>
-                        <occupation>médecin</occupation>
-                        <affiliation>Collège de France</affiliation>
-                        <socecStatus/>
-                        <note>Médecin écrivain, professeur, parasitologue</note>
-                        <event>
-                            <desc><date/></desc>
-                        </event>
-                        <idno type="ISNI">http://www.isni.org/isni/0000000080761619</idno>
-                        <idno type="URI">https://fr.wikipedia.org/wiki/Nicolas_Andry_de_Boisregard</idno>
-                    </person>
                     <person xml:id="Bartholin_ISN0000000115636261">
                         <persName>
                             <forename>Thomas</forename>
@@ -3657,7 +3632,7 @@
                             <surname>Bauhin</surname>
                             <roleName/>
                             <addName/>
-                            <abbr>Bauh.J</abbr>
+                            <abbr/>
                         </persName>
                         <birth when="1541-12-12">Né le 12 décembre 1541 à <placeName>Bâle,
                                 </placeName><country>Switzerland</country></birth>
@@ -4705,31 +4680,6 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000081527306</idno>
                         <idno type="URI">https://en.wikipedia.org/wiki/Nehemiah_Grew</idno>
                     </person>
-                    
-                    <person xml:id="Guyet_ISN0000000079712289">
-                        <persName>
-                            <forename>François</forename>
-                            <surname>Guyet</surname>
-                            <roleName>Abbé</roleName>
-                            <addName/>
-                            <abbr/>
-                        </persName>
-                        <birth when="1575">Né en 1575 à<placeName>Angers, </placeName><country corresp="#FRE">France</country></birth>
-                        <death when="1655-04-12">Mort le 12 avril 1655 à <placeName>Paris,</placeName><country corresp="#FRE">France</country></death>
-                        <sex>Masculin</sex>
-                        <nationality>Française</nationality>
-                        <faith>Catholique</faith>
-                        <education/>
-                        <occupation>précepteur</occupation>
-                        <affiliation/>
-                        <socecStatus/>
-                        <note>poète néo-latin et philologue français.</note>
-                        <event>
-                            <desc><date/></desc>
-                        </event>
-                        <idno type="ISNI">http://www.isni.org/isni/0000000079712289</idno>
-                        <idno type="URI">https://fr.wikipedia.org/wiki/François_Guyet</idno>
-                    </person>
 
                     <person xml:id="Habert_G_ISN0000000061273679">
                         <persName>
@@ -5141,7 +5091,7 @@
                         <education>1644 : Collège des Bons Enfants à Reims 1650 : Séminaire
                             diocésain de Reims</education>
                         <occupation>archiviste</occupation>
-                        <affiliation/>
+                        <affiliation>congrégation réformée de Saint-Maur</affiliation>
                         <socecStatus>Moine</socecStatus>
                         <note>historien et érudit</note>
                         <event>
@@ -5151,9 +5101,6 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000121416396</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jean_Mabillon</idno>
                     </person>
-
-
-
 
 
                     <person xml:id="Lucien_ISN0000000449276796">
@@ -6783,7 +6730,7 @@
                                 <title type="short">Réflexions sur l'usage présent de la langue
                                     françoise ou Remarques nouvelles et critiques touchant la
                                     politesse du langage...</title>
-                                <author ref="#Andry_ISN0000000080761619"><forename>Nicolas (1658-1742) Auteur du
+                                <author><forename>Nicolas (1658-1742) Auteur du
                                         texte</forename><surname>Andry de
                                     Boisregard</surname></author>
                                 <imprint>
@@ -7307,174 +7254,153 @@
         <body>
 
             <div type="dossier">
-                <div><entry><form>ABBE. s.m. ABBESSE. s. f. </form>
-                   <sense></sense> 
-                    <dictScrap>Superienr ou Supe-
-                    rieure d’une A BBAYE d’hommes ou de filles. Mr.
-                    Pinsson dit que l'Abbe possede la septiéme dignité de
-                    l’Eglise, &amp; celle qui est immediatement au dessous de
-                    l’Fvêque. Ils ont jurisdiction sur leurs Religieux priva-
-                    tivement aux Evêques, &amp; la correction leur appartient.
-                    Bouchel. Il y a trois sortes d'Abbez ; Regulier,
-                    Seculier, Commendataire. L'abbe Regulier est celui
-                    qui est aussi Religieux, &amp; qui a la direction du spirituel,
-                    &amp; du temporel : c’est pourquoi il doit être Prêtre.
-                    L'Abbé seculier est seulement Prêtre seculier, &amp; non
-                    Religieux. Lors que les Moines n’étoient point du
-                    corps du Clergé, les Abbez étoient de condition laïque:
-                    mais depuis que cette qualité a été érigée en dignité par
-                    l’ambition, ils ont été promus à l’Ordre de Prêtrise.
-                    L'Abbé commendataire n’a point de jurisdiction sur les
-                    Moines. Il ne peut instituer, ni destituer un Prieur
-                    claustral, ni recevoir à la profession monastique. Quel-
-                    ques-uns pretendent seulement, que si un Abbé com-
-                    mendataire est Cardinal, il peut admettre un Reli-
-                    gieux à faire profession. Pendant que la Discipline
-                    a été en vigueur, l’on ne pouvoit être élu Abbe sans
-                    être Religieux profés : mais par le relâchement de la
-                    Discipline, l’on a confcré plusieurs Abbayes à une
-                    personne ; de là vient l’usage des Commendes. On
-                    distingue trois puissances dans l'Abbé. La puissance
-                    conomique, pour gouverner les biens temporels de
-                    son Abbaye. La puissance d’ordre &amp; de dignité, en
-                    vertu de laquelle il ordonne du service divin, confere
-                    la tonsure a ses Religieux, &amp;c. La puissance de la
-                    jurisdiction, qui comprend la correction, l’excom-
-                    munication, &amp; la suspension. Bouchel. L'abbé 
-                    differe du Prieur, en ce qu’il est mis au rang des Pre-
-                    lats, &amp; officie pontificalement &amp; avec des marques de
-                    dignité, qui lui ont été accordées par les Papes au tems
-                    de la fondation du Monastere, ou par quelque pri-
-                    vilege particulier, comme la mitre, la crosse. Ce mot
-                    vient de ce que les premiers Moines appellerent leur 
-                    Superieur Abbot, qui en langue Syriaque signifie pere.
-                    Ainsi ces mots de Abba, pater, qu’on trouve dans les
-                    Epîtres aux Romains &amp; aux Galates, &amp; ailleurs, qui
-                    semblent dire la même chose, ne font pas pourtant un
-                    pleonasme, comme dit St. Augustin, puis que l’un est
-                    un nom de nature, &amp; l’autre de dignité. D’autres di-
-                    sent qu’il vient du mot Hebreu aba, qui signifie aimer,
-                    vouloir du bien. Covarruvias. Dans la primi-
-                    tive Eglise on appelloit Cnobiarcha, le Superieur d’un
-                    Monastere où les Religieux vivoient en commun ; &amp;
-                    celui qui étoit reconnu pour Chef par
-                    des Hermites qui vivoient dans les deserts &amp; dans les
-                    cavernes, à cause que le mot de uzrôgg en Grec signi-
-                    fie caverne : tels étoient les premiers Peres de la The-
-                    baïde.
+                <div>
+                    <entry>
+                        <form>ABBE. s.m. ABBESSE. s. f. </form>
+                        <sense/>
+                        <dictScrap>Superienr ou Supe- rieure d’une A BBAYE d’hommes ou de filles.
+                            Mr. Pinsson dit que l'Abbe possede la septiéme dignité de l’Eglise,
+                            &amp; celle qui est immediatement au dessous de l’Fvêque. Ils ont
+                            jurisdiction sur leurs Religieux priva- tivement aux Evêques, &amp; la
+                            correction leur appartient. Bouchel. Il y a trois sortes d'Abbez ;
+                            Regulier, Seculier, Commendataire. L'abbe Regulier est celui qui est
+                            aussi Religieux, &amp; qui a la direction du spirituel, &amp; du
+                            temporel : c’est pourquoi il doit être Prêtre. L'Abbé seculier est
+                            seulement Prêtre seculier, &amp; non Religieux. Lors que les Moines
+                            n’étoient point du corps du Clergé, les Abbez étoient de condition
+                            laïque: mais depuis que cette qualité a été érigée en dignité par
+                            l’ambition, ils ont été promus à l’Ordre de Prêtrise. L'Abbé
+                            commendataire n’a point de jurisdiction sur les Moines. Il ne peut
+                            instituer, ni destituer un Prieur claustral, ni recevoir à la profession
+                            monastique. Quel- ques-uns pretendent seulement, que si un Abbé com-
+                            mendataire est Cardinal, il peut admettre un Reli- gieux à faire
+                            profession. Pendant que la Discipline a été en vigueur, l’on ne pouvoit
+                            être élu Abbe sans être Religieux profés : mais par le relâchement de la
+                            Discipline, l’on a confcré plusieurs Abbayes à une personne ; de là
+                            vient l’usage des Commendes. On distingue trois puissances dans l'Abbé.
+                            La puissance conomique, pour gouverner les biens temporels de son
+                            Abbaye. La puissance d’ordre &amp; de dignité, en vertu de laquelle il
+                            ordonne du service divin, confere la tonsure a ses Religieux, &amp;c. La
+                            puissance de la jurisdiction, qui comprend la correction, l’excom-
+                            munication, &amp; la suspension. Bouchel. L'abbé differe du Prieur, en
+                            ce qu’il est mis au rang des Pre- lats, &amp; officie pontificalement
+                            &amp; avec des marques de dignité, qui lui ont été accordées par les
+                            Papes au tems de la fondation du Monastere, ou par quelque pri- vilege
+                            particulier, comme la mitre, la crosse. Ce mot vient de ce que les
+                            premiers Moines appellerent leur Superieur Abbot, qui en langue Syriaque
+                            signifie pere. Ainsi ces mots de Abba, pater, qu’on trouve dans les
+                            Epîtres aux Romains &amp; aux Galates, &amp; ailleurs, qui semblent dire
+                            la même chose, ne font pas pourtant un pleonasme, comme dit St.
+                            Augustin, puis que l’un est un nom de nature, &amp; l’autre de dignité.
+                            D’autres di- sent qu’il vient du mot Hebreu aba, qui signifie aimer,
+                            vouloir du bien. Covarruvias. Dans la primi- tive Eglise on appelloit
+                            Cnobiarcha, le Superieur d’un Monastere où les Religieux vivoient en
+                            commun ; &amp; celui qui étoit reconnu pour Chef par des Hermites qui
+                            vivoient dans les deserts &amp; dans les cavernes, à cause que le mot de
+                            uzrôgg en Grec signi- fie caverne : tels étoient les premiers Peres de
+                            la The- baïde. Chez les Ecrivains Grecs &amp; Latins on appelloit Abbez,
+                            ceux que nous appellons maintenant Peres, qui étoient venerables par
+                            leur age &amp; par leur saintété. On a aussi compris sous ce nom
+                            generalement tous les Moines. Ani il est dit dans la Regle de St.
+                            Colomban, qu’il y avoit mille Abbez sous un Chef : &amp; St. Epiphane
+                            fait mention d’un Monastere où il y avoit mille Abbez &amp; mille
+                            cellules. On a appellé aussi Abbé second, le Prieur d’un Monastere, qui
+                            est le Lieutenant de l'Abbé. On a appellé aussi en Sicilce des Evêques
+                            Abbez ; &amp; très-sou- vent les Curez primitifs de France. On a appellé
+                            aussi, Abbé du Palais, le Maître de la Chapelle du Roi. Voyez Du Cange.
+                            Les Abbez mitrez sont ceux qui ont droit de porter les ornemens
+                            Episcopaux, comme la mitre, les sandales, les gans, l’anneau &amp; la
+                            crosse : &amp; pour les distinguer des Lvêques, Clement IV ordonna que
+                            les Abbez exemts porteroient des mitres brodées, mais sans pierreries,
+                            &amp; sans lames d’or &amp; d’argent ; &amp; les non-exemts des mitres
+                            blanches &amp; toutes unies. Abbé de Cour. On entend par là un jeune
+                            Eccle- siastique poli &amp; dans les manieres, &amp; dans les habits :
+                            cela marque du dereglement, &amp; quelque chose de pro- fane. Bou. On y
+                            joint une idée de delicatesse, de volupté &amp; de galanterie. On
+                            suppose d’ordinaire plus de science du monde dans un Abbe de Cour, que
+                            d’étu- de de la Theologie. Abbé, s’est dit aussi de quelques Magistrats
+                            ou personnes laïques &amp; seculieres. Chez les Genois il y avoit un
+                            principal Magistrat qu’on appelloit Abbé du peuple. En France il y a eu
+                            plusieurs Seigneurs, sur tout du tems de Charlemagne, à qui on donnoit
+                            le soin &amp; la garde des Abbayes, qu’on appelloit Abbacomites. Dans
+                            les anciens titres on trouve que les Ducs &amp; les Com- tes ont été
+                            appellez Abbez, &amp; les Duchez &amp; Comtez Abbayes : &amp; plusieurs
+                            Seigneurs &amp; Gentilshommes, qui n’étoient aucunement Religieux, ont
+                            aussi pris ce nom, comme remarque Menage après Fauchet, &amp; autres. On
+                            apelle aussi Abbé, celui qu’on élit en certaines Con- frairies &amp;
+                            Communautez, particulierement entre les Ecoliers &amp; les Garçons
+                            Chirurgiens, pour comman- der aux autres pendant un certain tems. A
+                            Milan dans toutes les Communautez de Marchands &amp; d’Artisans, il y en
+                            a de preposez qu’on appelle Abbez. Et c’est de là apparemment qu’est
+                            venu le jeu de l'Abbé, dont la regle est, que quand le premier a fait
+                            quelque chose, il faut que tous ceux qui le suivent fassent de même.
+                            Abbé, se dit proverbialement en ces phrases. On vous attendra comme les
+                            Moines font l'Abbé, c’est-à-dire en mangeant toûjours ; en commençant à
+                            diner. On dit encore, Pour un Moine on ne laisse pas de faire un Abbé,
+                            pour dire, que l’opposition d’un particulier n’em- pêche pas la
+                            deliberation d’une Compagnie, ou la con- clusion d’une affaire. On dit
+                            en proverbe Espagnol, Coino canta el Asa d responde el Monazillo ; &amp;
+                            en Fran- çois, Le Moine repond comme l'Abbé chante, pour ABB. dire, que
+                            les inferieurs tiennent le même langage, ou sont de même avs que leurs
+                            superieurs. On appelle par raillerie, Abbez de Ste. Esperance, ceux qui
+                            prennent la qualité d'Abbez sans avoir d’Abbaye, &amp; quelquefois même
+                            de Bencfice.</dictScrap>
+                    </entry>
+                </div>
+
+
+
+                <div type="COQ">
+                    <entry>
+                        <form>coq</form>
+                    </entry>
+                </div>
+
+                <div type="DIM">
+                    <entry>
+                        <form type="lemma"><orth>diminutif,</orth></form>
+                        <form type="inflected"><orth>ive</orth></form>
+                        <gramGrp><pos>adj.</pos></gramGrp>
+                        <usg>Terme de Grammaire,</usg>
+                        <def> se dit d’un mot qui adoucit, ou affoiblit la force de son primitif :
+                            comme bovillon est diminutif de beœuf, pochette de poche, maisonnette de
+                            maison. </def>
+                        <note>Les diminutifs qui étoient des delicatesses dans le stile de nos vieux
+                            Auteurs, ne se peuvent supporter dans le langage d’aujourd’huy. Nous
+                            n’avons pas la liberté d’en faire selon nôtre ca- price, comme les
+                            Italiens, qui en font autant qu’il leur plaît, &amp; l’on se moqueroit
+                            presentement d’un Poëte qui diroit avec <persName>Belleau</persName> :
+                                <cit type="citation">
+                                <quote>Le gentil rossignolet,</quote>
+                            </cit>
+                        </note>
+                    </entry>
+                </div>
+
+                <div type="FRA">
+                    <entry xml:id="Frangier">
+                        <form type="lemmaGrp">
+                        <form type="lemma"><orth>frangier</orth>
+                        </form>
+                        <usg>l'Academie dit </usg> <form type="variant"><orth type="variant">franger</orth></form>
+                        <gramGrp/></form>
+                    </entry>
                     
                     
-                    Chez les Ecrivains Grecs &amp; Latins on appelloit Abbez,
-                    ceux que nous appellons maintenant Peres, qui étoient
-                    venerables par leur age &amp; par leur saintété. On a aussi
-                    compris sous ce nom generalement tous les Moines.
-                    Ani il est dit dans la Regle de St. Colomban, qu’il y
-                    avoit mille Abbez sous un Chef : &amp; St. Epiphane fait
-                    mention d’un Monastere où il y avoit mille Abbez &amp;
-                    mille cellules. On a appellé aussi Abbé second, le Prieur
-                    d’un Monastere, qui est le Lieutenant de l'Abbé. On a
-                    appellé aussi en Sicilce des Evêques Abbez ; &amp; très-sou-
-                    vent les Curez primitifs de France. On a appellé aussi,
-                    Abbé du Palais, le Maître de la Chapelle du Roi. Voyez
-                    Du Cange. Les Abbez mitrez sont ceux qui ont droit
-                    de porter les ornemens Episcopaux, comme la mitre,
-                    les sandales, les gans, l’anneau &amp; la crosse : &amp; pour
-                    les distinguer des Lvêques, Clement IV ordonna que
-                    les Abbez exemts porteroient des mitres brodées, mais
-                    sans pierreries, &amp; sans lames d’or &amp; d’argent ; &amp; les
-                    non-exemts des mitres blanches &amp; toutes unies.
-                    
-                    
-                    Abbé de Cour. On entend par là un jeune Eccle-
-                    siastique poli &amp; dans les manieres, &amp; dans les habits :
-                    cela marque du dereglement, &amp; quelque chose de pro-
-                    fane. Bou. On y joint une idée de delicatesse, de
-                    volupté &amp; de galanterie. On suppose d’ordinaire plus
-                    de science du monde dans un Abbe de Cour, que d’étu-
-                    de de la Theologie.
-                    
-                    
-                    Abbé, s’est dit aussi de quelques Magistrats ou personnes
-                    laïques &amp; seculieres. Chez les Genois il y avoit un
-                    principal Magistrat qu’on appelloit Abbé du peuple. En
-                    France il y a eu plusieurs Seigneurs, sur tout du tems de
-                    Charlemagne, à qui on donnoit le soin &amp; la garde des
-                    Abbayes, qu’on appelloit Abbacomites.
-                    
-                    
-                    Dans les anciens titres on trouve que les Ducs &amp; les Com-
-                    tes ont été appellez Abbez, &amp; les Duchez &amp; Comtez
-                    Abbayes : &amp; plusieurs Seigneurs &amp; Gentilshommes,
-                    qui n’étoient aucunement Religieux, ont aussi pris ce
-                    nom, comme remarque Menage après Fauchet, &amp;
-                    autres.
-                    
-                    
-                    On apelle aussi Abbé, celui qu’on élit en certaines Con-
-                    frairies &amp; Communautez, particulierement entre les
-                    Ecoliers &amp; les Garçons Chirurgiens, pour comman-
-                    der aux autres pendant un certain tems. A Milan dans
-                    toutes les Communautez de Marchands &amp; d’Artisans,
-                    il y en a de preposez qu’on appelle Abbez. Et c’est de là
-                    apparemment qu’est venu le jeu de l'Abbé, dont la regle
-                    est, que quand le premier a fait quelque chose, il faut
-                    que tous ceux qui le suivent fassent de même.
-                    
-                    
-                    Abbé, se dit proverbialement en ces phrases. On vous
-                    attendra comme les Moines font l'Abbé, c’est-à-dire
-                    en mangeant toûjours ; en commençant à diner. On
-                    dit encore, Pour un Moine on ne laisse pas de faire un
-                    Abbé, pour dire, que l’opposition d’un particulier n’em-
-                    pêche pas la deliberation d’une Compagnie, ou la con-
-                    clusion d’une affaire. On dit en proverbe Espagnol,
-                    Coino canta el Asa d responde el Monazillo ; &amp; en Fran-
-                    çois, Le Moine repond comme l'Abbé chante, pour
-                    
-                    
-                    ABB.
-                    
-                    
-                    dire, que les inferieurs tiennent le même langage, ou
-                    sont de même avs que leurs superieurs. On appelle par
-                    raillerie, Abbez de Ste. Esperance, ceux qui prennent
-                    la qualité d'Abbez sans avoir d’Abbaye, &amp; quelquefois
-                    même de Bencfice.</dictScrap></entry></div>
-                
-         
-                
-                <div type="COQ"><entry><form>coq</form></entry></div>
-                
-                <div type="DIM"><entry>
-                    <form type="lemma"><orth>diminutif,</orth></form> <form type="inflected"><orth>ive</orth></form>
-                    <gramGrp><pos>adj.</pos></gramGrp>
-                    <usg>Terme de Grammaire,</usg><def> se dit d’un mot qui adoucit, ou affoiblit la force de son
-                        primitif : comme bovillon est diminutif de beœuf, pochette
-                        de poche, maisonnette de maison. </def>
-                    <note>Les diminutifs qui
-                        étoient des delicatesses dans le stile de nos vieux Auteurs,
-                        ne se peuvent supporter dans le langage d’aujourd’huy.
-                        Nous n’avons pas la liberté d’en faire selon nôtre ca-
-                        price, comme les Italiens, qui en font autant qu’il leur
-                        plaît, &amp; l’on se moqueroit presentement d’un Poëte
-                        qui diroit avec <persName>Belleau</persName> :
-                        
-                        <cit type="citation"><quote>Le gentil rossignolet,</quote></cit>
-                        
-                    </note></entry></div>
-                
-                <div type="FRA"><entry>
-                    <form type="lemma"><orth>frangier</orth> </form><usg>l'Academie dit <oRef type="variant">franger</oRef></usg><gramGrp></gramGrp>
-                </entry></div>
-                
-                <div type="FRI"><entry><form>frileux</form></entry></div>
-                
+                </div>
+
+                <div type="FRI">
+                    <entry>
+                        <form>frileux</form>
+                    </entry>
+                </div>
+
 
                 <div type="OCT">
                     <entry xml:id="Octaedre">
                         <form type="lemma"><orth rendition="#uc">OCTAEDRE</orth></form>
-                            <gramGrp><pos expand="Substantif">subst.</pos>
-                                <gen expand="Masculin">masc.</gen></gramGrp>
+                        <gramGrp><pos expand="Substantif">subst.</pos>
+                            <gen expand="Masculin">masc.</gen></gramGrp>
                         <sense>
                             <usg type="term" ana="#geometrie">Terme de Geometrie</usg>
                             <cit type="exemple">
@@ -7489,74 +7415,97 @@
                     </entry>
 
                 </div>
-                
+
 
                 <div type="ORE">
+                  
                     <entry xml:id="Orenge">
-                        <form type="lemma">ORENGE </form><lbl>ou plutôt</lbl><usg><oRef type="variant">ORANGE</oRef><pc>,</pc> <mentioned>ainsi que
-                                l’écrit l’Academie.</mentioned></usg> <gramGrp><pos>subst</pos><gen>fem.</gen></gramGrp>
+                       <form type="lemmaGrp"> <form type="lemma"><orth>ORENGE</orth> </form>
+                            <lbl>ou plutôt</lbl>
+                            <form type="variant"><orth>ORANGE</orth></form><pc>,</pc>
+                                <mentioned>ainsi que l’écrit l’Academie.</mentioned>
+                            <gramGrp><pos>subst</pos><gen>fem.</gen></gramGrp></form>
                     </entry>
-
 
                 </div>
-                
+
                 <div type="ORF">
                     <entry xml:id="Orfelin">
-                        <form type="lemma">ORFELIN </form><lbl>ou </lbl><form type="variant">ORPHELIN,</form><form type="inflected">INE</form> 
-                            <gramGrp><pos>adj.</pos><lbl> &amp;</lbl><pos>subst.</pos></gramGrp> 
-                        <sense><def>Enfant mineur qui a perdu son pere, ou qui n’a
-                            ni pere ni mere qui puissent avoir soin de sa nourriture,
-                            de son éducation. </def>
-                            <cit type="exemple"><quote>Ce pauvre garçon est orphelin de pe-
-                            re &amp; de mere. </quote></cit>
-                            <cit type="exemple"><quote>Cette veuve à la mort de son mari s’ est
-                            trouvée chargée de six orphelins. </quote></cit>
-                            <cit type="exemple"><quote>Dieu s’est declaré
-                            protecteur des veuves &amp; des orphelins. </quote></cit>
-                            <cit type="exemple"><quote>Il faut donner
-                            aux hôpitaux où l’on reçoit les enfans orphelins.</quote></cit>
-                            <cit type="exemple"><quote>C’est
-                            une chose execrable de s’enrichir aux depens de la veu-
-                            ve &amp; de l'orphelin, <gloss>c’est-à-dire en general, du bien
-                            des pauvres, des foibles, de ceux qui n’ont point de
-                            protection.</gloss></quote></cit>
-                            <cit type="exemple"><quote>Saint Jaques dit que la veritable Religion
-                            consiste à visiter les veuves &amp; les orphelins, &amp; à se gar-
-                            der des souillures du monde.</quote></cit>
-                         </sense>
+                      <form type="lemmaGrp">
+                        <form type="lemma">orfelin </form>
+                        <lbl>ou </lbl>
+                        <form type="variant">orphelin,</form>
+                        <form type="inflected">ine</form>
+                        <gramGrp><pos>adj.</pos><lbl> &amp;</lbl><pos>subst.</pos></gramGrp></form>
+                        <sense><def>Enfant mineur qui a perdu son pere, ou qui n’a ni pere ni mere
+                                qui puissent avoir soin de sa nourriture, de son éducation. </def>
+                            <cit type="exemple">
+                                <quote>Ce pauvre garçon est orphelin de pe- re &amp; de mere.
+                                </quote>
+                            </cit>
+                            <cit type="exemple">
+                                <quote>Cette veuve à la mort de son mari s’ est trouvée chargée de
+                                    six orphelins. </quote>
+                            </cit>
+                            <cit type="exemple">
+                                <quote>Dieu s’est declaré protecteur des veuves &amp; des orphelins.
+                                </quote>
+                            </cit>
+                            <cit type="exemple">
+                                <quote>Il faut donner aux hôpitaux où l’on reçoit les enfans
+                                    orphelins.</quote>
+                            </cit>
+                            <cit type="exemple">
+                                <quote>C’est une chose execrable de s’enrichir aux depens de la veu-
+                                    ve &amp; de l'orphelin, <gloss>c’est-à-dire en general, du bien
+                                        des pauvres, des foibles, de ceux qui n’ont point de
+                                        protection.</gloss></quote>
+                            </cit>
+                            <cit type="exemple">
+                                <quote>Saint Jaques dit que la veritable Religion consiste à visiter
+                                    les veuves &amp; les orphelins, &amp; à se gar- der des
+                                    souillures du monde.</quote>
+                            </cit>
+                        </sense>
                     </entry>
-                    
-                    
+
+
                 </div>
 
                 <div type="ORL">
                     <pb n="78"/>
                     <entry xml:id="Orler">
-                        <form type="lemma">
-                            <orth rendition="#uc"> orler </orth></form>
+                        <form type="meta">
+                            <form type="lemma">
+                                <orth rendition="#uc"> orler </orth></form>
                             <lbl> ou</lbl>
-                           <form type="variant"> <orth rendition="#uc">ourler</orth></form>
+                            <form type="variant">
+                                <orth rendition="#uc">ourler</orth></form>
                             <gramGrp>
                                 <pos expand="Verbe"> v.</pos>
                                 <subc expand="Actif">act.</subc>
-                                
                             </gramGrp><usg>
-                                    <hi rendition="#i">Ourler </hi> est le plus usité</usg>
-                        
+                                <hi rendition="#i">Ourler </hi> est le plus usité</usg>
+                        </form>
+
                         <sense n="1">
                             <def> Faire des ourlets à du linge, à des étoffes.</def></sense>
-                        <sense n="2">   <usg type="terme" ana="#blason"> On dit en termes de blason, un Ecu de
+                        <sense n="2">
+                            <usg type="terme" ana="#blason"> On dit en termes de blason, un Ecu de
                                     gueules<hi rendition="#i">orlé</hi> d'or.</usg>
-                        </sense> 
-                            <sense n="3">
-                                <cit type="exemple"><lbl>On dit proverbialement,</lbl> <quote>il n'y a que le bec à <hi
-                                        rendition="#i">ourler </hi>  &amp; c'est une canne, <gloss>pour se
-                                    moquer de ceux qui croyent que les affaires le sont fort
-                                    facilement.</gloss> </quote>
-                                </cit></sense>
-                       
-                    </entry>
+                        </sense>
+                        <sense n="3">
+                            <cit type="exemple">
+                                <lbl>On dit proverbialement,</lbl>
+                                <quote>il n'y a que le bec à <hi rendition="#i">ourler </hi> &amp;
+                                    c'est une canne, <gloss>pour se moquer de ceux qui croyent que
+                                        les affaires le sont fort facilement.</gloss>
+                                </quote>
+                            </cit></sense>
 
+                    </entry>
+                    
+                 
                     <entry xml:id="Orlet">
                         <form type="lemma">
                             <orth rendition="#uc"> orler </orth>
@@ -7573,12 +7522,12 @@
                     <entry xml:id="ormaye">
                         <form type="lemma">
                             <orth rendition="#uc">ormaye </orth></form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Feminin">fem.</gen>
-                            </gramGrp>
-                            <usg> L'Academie dit <oRef type="variant" rendition="#i">Ormoye</oRef><pc>.</pc></usg>
-                    
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Feminin">fem.</gen>
+                        </gramGrp>
+                        <usg> L'Academie dit </usg><form type="variant"><orth rendition="#i">Ormoye</orth><pc>.</pc></form>
+
                         <sense n="1">
                             <def>Lieu planté d'ormes.</def>
                             <cit type="exemple">
@@ -7590,12 +7539,13 @@
 
                     <entry xml:id="Orme">
                         <form type="lemma">
-                            <orth rendition="#uc">orme </orth> </form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Masculin">m.</gen>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">orme </orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Masculin">m.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Arbre de haute fûtaye qui sert à faire des allées dans les jardins,
                                 &amp; des avenues. </def>
@@ -7648,12 +7598,13 @@
                     </entry>
                     <entry xml:id="Ormeau">
                         <form type="lemma">
-                            <orth rendition="#uc">ormeau </orth>    </form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Masculin">m.</gen>
-                            </gramGrp>
-                    
+                            <orth rendition="#uc">ormeau </orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Masculin">m.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Orme ou petite orme.</def>
                             <cit type="citation">
@@ -7670,12 +7621,13 @@
 
                     <entry xml:id="Ormin">
                         <form type="lemma">
-                            <orth rendition="#uc">ormin </orth> </form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Masculin">m.</gen>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">ormin </orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Masculin">m.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def> Plante dont les tiges sont rougeâtres, <cb n="2"/>quarrées, hautes
                                 d'environ un pied,lanugineuses. Ses feuilles sont semblables à
@@ -7708,12 +7660,13 @@
                 <div type="ORN">
                     <entry xml:id="Orne">
                         <form type="lemma">
-                            <orth rendition="#uc">orne </orth> </form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Masculin">masc.</gen>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">orne </orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Masculin">masc.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Arbre qui est une espece de frêne: quelques-uns l'appellent <hi
                                     rendition="#i">frêne sauvage. </hi>
@@ -7731,12 +7684,13 @@
 
                     <entry xml:id="Ornement">
                         <form type="lemma">
-                            <orth rendition="#uc">ornement </orth>  </form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Masculin">masc.</gen>
-                            </gramGrp>
-                      
+                            <orth rendition="#uc">ornement </orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Masculin">masc.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Parure, embellissement; ce qui orne, ce qui pare quelque chose, ce
                                 qui la rend plus belle, plus agreable.</def>
@@ -7878,12 +7832,13 @@
 
                     <entry xml:id="Orner">
                         <form type="lemma">
-                            <orth rendition="#uc"> orner </orth> </form>
-                            <gramGrp>
-                                <pos expand="Verbe"> v.</pos>
-                                <subc expand="Actif">act.</subc>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc"> orner </orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Verbe"> v.</pos>
+                            <subc expand="Actif">act.</subc>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Embellir, parer; rendre une chose plus belle, plus agreable, plus
                                 riche, lui donner plus d'éclat &amp; plus d'agrément. </def>
@@ -7993,12 +7948,13 @@
 
                     <entry xml:id="Orniere">
                         <form type="lemma">
-                            <orth rendition="#uc">orniere </orth> </form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Feminin">fem.</gen>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">orniere </orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Feminin">fem.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>La trace que les rouës des harnois font dans les chemins qui sont
                                 des terres molles, ou grasses, ou qui ne sont point payez. </def>
@@ -8028,19 +7984,19 @@
                     </entry>
 
                     <entry xml:id="Ornithogale">
-                       
-                            <form type="lemma"><orth rendition="#uc">ornithogale </orth></form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Feminin">fem.</gen>
-                            </gramGrp>
-                            <lbl>ou</lbl>
-                            <form type="variant"><orth rendition="#uc">ornithogalon </orth></form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Masculin">m.</gen>
-                            </gramGrp>
-                        
+
+                        <form type="lemma"><orth rendition="#uc">ornithogale </orth></form>
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Feminin">fem.</gen>
+                        </gramGrp>
+                        <lbl>ou</lbl>
+                        <form type="variant"><orth rendition="#uc">ornithogalon </orth></form>
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Masculin">m.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def> Sorte de fleur blanche en forme de grappe, qui fleurit en Juin,
                                 &amp; qui commence par le pied. </def>
@@ -8070,12 +8026,13 @@
                 <div type="ORO">
                     <entry xml:id="Orobanche">
                         <form type="lemma">
-                            <orth rendition="#uc">orobanche </orth> </form>
-                            <gramGrp>
-                                <pos expand="Substantif"> subst.</pos>
-                                <gen expand="Feminin">fem.</gen>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">orobanche </orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif"> subst.</pos>
+                            <gen expand="Feminin">fem.</gen>
+                        </gramGrp>
+
 
                         <sense n="1">
                             <def>Plante qui pousse une tige haute d'environ un pied &amp; demi,
@@ -8104,11 +8061,12 @@
 
                 <div type="ORP">
                     <entry xml:id="Orphelin">
-                     
-                            <form type="lemma"><orth rendition="#uc">orphelin </orth></form>
-                            <lbl>ou</lbl>
-                           <form type="variant"> <orth rendition="#uc">orpheline </orth></form>
-                        
+
+                        <form type="lemma"><orth rendition="#uc">orphelin </orth></form>
+                        <lbl>ou</lbl>
+                        <form type="variant">
+                            <orth rendition="#uc">orpheline </orth></form>
+
 
                         <sense n="1">
                             <xr> Voyez <ref corresp="#Orfelin" rendition="#sc">Orfelin.</ref></xr>
@@ -8116,15 +8074,15 @@
 
                     </entry>
                     <entry xml:id="Orpiment">
-                 
-                           <form type="lemma"><orth rendition="#uc">orpiment </orth></form> 
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Masculin">m.</gen>
-                            </gramGrp>
-                            <lbl>ou</lbl>
-                            <form type="variant"><orth rendition="#uc">orpin </orth></form>
-                        
+
+                        <form type="lemma"><orth rendition="#uc">orpiment </orth></form>
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Masculin">m.</gen>
+                        </gramGrp>
+                        <lbl>ou</lbl>
+                        <form type="variant"><orth rendition="#uc">orpin </orth></form>
+
                         <sense n="1">
                             <def>C'est un mineral jaune tirant sur le brun.</def>
                             <note>Les latins l'appellent <lang xml:lang="lat" rendition="#i"
@@ -8171,12 +8129,13 @@
                     </entry>
                     <entry xml:id="Orque">
                         <form type="lemma">
-                            <orth rendition="#uc">orque </orth> </form>
-                            <gramGrp>
-                                <pos expand="Substantif"> subst.</pos>
-                                <gen expand="Feminin">fem.</gen>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">orque </orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif"> subst.</pos>
+                            <gen expand="Feminin">fem.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Monstre marin. </def>
                         </sense>
@@ -8201,12 +8160,13 @@
                 <div type="OTA">
                     <entry xml:id="Otalgie">
                         <form type="lemma">
-                            <orth rendition="#uc">otalgie</orth>   </form>
-                            <gramGrp>
-                                <pos expand="Substantif">subst.</pos>
-                                <gen expand="Feminin">fem.</gen>
-                            </gramGrp>
-                     
+                            <orth rendition="#uc">otalgie</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif">subst.</pos>
+                            <gen expand="Feminin">fem.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <usg type="terme" ana="#medecine">Terme de Medecine</usg>
                             <def>qui signifie douleur d'oreille. <note>L'<hi rendition="#i"
@@ -8224,12 +8184,13 @@
                 <div type="OTE">
                     <entry xml:id="Otelle">
                         <form type="lemma">
-                            <orth rendition="#uc">otelle</orth>   </form>
-                            <gramGrp>
-                                <pos expand="Substantif">subst.</pos>
-                                <gen expand="Feminin">fem.</gen>
-                            </gramGrp>
-                     
+                            <orth rendition="#uc">otelle</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif">subst.</pos>
+                            <gen expand="Feminin">fem.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <usg type="terme" ana="#blason">Terme de Blason</usg>
                             <def>qui se dit de certaines figures dont on charge l'Ecu, qui ont
@@ -8247,12 +8208,13 @@
                     </entry>
                     <entry xml:id="Otenchytes">
                         <form type="lemma">
-                            <orth rendition="#uc">otenchytes</orth>  </form>
-                            <gramGrp>
-                                <pos expand="Substantif">subst.</pos>
-                                <gen expand="Masculin">masc.</gen>
-                            </gramGrp>
-                      
+                            <orth rendition="#uc">otenchytes</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif">subst.</pos>
+                            <gen expand="Masculin">masc.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <usg type="terme" ana="#chirugerie">Terme de Chirurgie</usg>
                             <def>Sorte d'instrument dont les chirurgiens se servent pour jetter ou
@@ -8266,12 +8228,13 @@
                 <div type="OTH">
                     <entry xml:id="Othonna">
                         <form type="lemma">
-                            <orth rendition="#uc">othonna</orth>   </form>
-                            <gramGrp>
-                                <pos expand="Substantif">subst. </pos>
-                                <gen expand="Feminin">fem. </gen>
-                            </gramGrp>
-                     
+                            <orth rendition="#uc">othonna</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif">subst. </pos>
+                            <gen expand="Feminin">fem. </gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Plante dont parle Dioscoride, &amp; qui selon quelques botanistes
                                 est une espèce d'oeillet d'Inde, qu'on appelle <foreign
@@ -8287,9 +8250,9 @@
                 </div>
                 <div type="OU">
                     <entry xml:id="Ou">
-                        <form type="lemma"><orth rendition="#uc">ou</orth><lbl>sans accent</lbl><gramGrp><pos
-                                    expand="Conjonction">Conjonction disjonctive &amp;
-                                    alternative</pos></gramGrp></form>
+                        <form type="lemma"><orth rendition="#uc">ou</orth><lbl>sans
+                                    accent</lbl><gramGrp><pos expand="Conjonction">Conjonction
+                                    disjonctive &amp; alternative</pos></gramGrp></form>
                         <usg>Il faut faire l'un <hi rendition="#i">ou</hi> l'autre, sortir <hi
                                 rendition="#i">ou</hi> demeurer; dire ouï <hi rendition="#i">ou</hi>
                             non; payer <hi rendition="#i">ou</hi> agréer, &amp;c.</usg>
@@ -8316,8 +8279,9 @@
                     </entry>
 
                     <entry xml:id="Ou2">
-                        <form type="lemma"><orth rendition="#uc">ou</orth><mentioned>avec un accent grave. </mentioned></form>
-                        
+                        <form type="lemma"><orth rendition="#uc">ou</orth><mentioned>avec un accent
+                                grave. </mentioned></form>
+
                         <gramGrp><pos expand="Adverbe">Adverbe de lieu</pos></gramGrp>
                         <usg>
                             <cit type="exemple">
@@ -8347,8 +8311,8 @@
                         <form type="lemma"><orth rendition="#uc">ou</orth></form>
                         <gramGrp><lbl>se met élegamment pour le </lbl><pos expand="Pronom">Pronom
                                 relatif</pos>
-                            <mentioned>lequel ou laquele, tant au singulier qu'au plurier, en y joignant
-                                quelque preposition.</mentioned>
+                            <mentioned>lequel ou laquele, tant au singulier qu'au plurier, en y
+                                joignant quelque preposition.</mentioned>
                         </gramGrp>
                         <cit type="citation">
                             <quote>La haine et la flatterie sont les écueils <hi rendition="#i"
@@ -8367,8 +8331,8 @@
 
                     <entry xml:id="Ou_Que">
                         <form type="lemma"><orth rendition="#uc">ou que</orth></form>
-                        <note>pour dire, en quelque lieu que, se trouve en plusieurs Auteurs
-                            anciens &amp; modernes. <cit type="citation">
+                        <note>pour dire, en quelque lieu que, se trouve en plusieurs Auteurs anciens
+                            &amp; modernes. <cit type="citation">
                                 <lbl><bibl><author ref="#Marot_ISN0000000121016421"
                                         >Marot</author></bibl> a dit</lbl>
                                 <quote><lg rendition="#i">
@@ -8435,12 +8399,13 @@
 
                     <entry xml:id="Ouaille">
                         <form type="lemma">
-                            <orth rendition="#uc">Ouaille</orth> </form>
-                            <gramGrp>
-                                <pos expand="Substantif">s.</pos>
-                                <gen expand="Feminin">f.</gen>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">Ouaille</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif">s.</pos>
+                            <gen expand="Feminin">f.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Brebis. </def>
                             <cit type="exemple">
@@ -8495,14 +8460,15 @@
                     </entry>
                     <entry xml:id="Ovale">
                         <form type="lemma">
-                            <orth rendition="#uc">Ovale</orth> </form>
-                            <gramGrp>
-                                <pos expand="Substantif">Subst</pos>
-                                <gen expand="Masculin">masc.</gen><lbl>&amp;</lbl>
-                                <gen expand="Feminin">fem.</gen>
-                                <mentioned>L'académie le fait masc.</mentioned>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">Ovale</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif">Subst</pos>
+                            <gen expand="Masculin">masc.</gen><lbl>&amp;</lbl>
+                            <gen expand="Feminin">fem.</gen>
+                            <mentioned>L'académie le fait masc.</mentioned>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Figure enfermée par une seule ligne courbe &amp; ronde
                                 imparfaitement, dont les diamètres sont inégaux, elle représente un
@@ -8562,12 +8528,13 @@
 
                     <entry xml:id="Ouate">
                         <form type="lemma">
-                            <orth rendition="#uc">ouate</orth>  </form>
-                            <gramGrp>
-                                <pos expand="Substantif">subst</pos>
-                                <gen expand="Feminin">fem</gen>
-                            </gramGrp>
-                      
+                            <orth rendition="#uc">ouate</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif">subst</pos>
+                            <gen expand="Feminin">fem</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>C'est en sa propre signification une espèce de coton qui croît
                                 autour de quelques fruits d'Orient : mais en France c'est le premier
@@ -8593,12 +8560,13 @@
                     </entry>
                     <entry xml:id="Ovation">
                         <form type="lemma">
-                            <orth rendition="#uc">Ovation</orth>  </form>
-                            <gramGrp>
-                                <pos expand="Substantif">subst</pos>
-                                <gen expand="Feminin">fem</gen>
-                            </gramGrp>
-                      
+                            <orth rendition="#uc">Ovation</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif">subst</pos>
+                            <gen expand="Feminin">fem</gen>
+                        </gramGrp>
+
                         <sense n="1"><usg type="terme" ana="#histoire_romaine">Terme de l'Histoire
                                 Romaine,</usg>
                             <def> qui se dit des petits triomphes accordez à des Capitaines qui
@@ -8623,12 +8591,13 @@
                     <entry xml:id="Paillard">
                         <form type="lemma">
                             <orth rendition="#uc" extent="full">Paillard</orth><pc>, </pc><orth
-                                extent="part" rendition="#sc">arde</orth><pc>, </pc> </form>
-                            <gramGrp>
-                                <pos expand="Adjectif">adj. </pos><lbl>&amp; </lbl>
-                                <pos expand="Substantif">subst. </pos>
-                            </gramGrp>
-                       
+                                extent="part" rendition="#sc">arde</orth><pc>, </pc>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Adjectif">adj. </pos><lbl>&amp; </lbl>
+                            <pos expand="Substantif">subst. </pos>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Lascif, luxurieux, impudique; qui est fort adonné à la volupté, aux
                                 plaisirs charnels. </def>
@@ -8686,11 +8655,13 @@
 
                     <entry xml:id="Paillardement">
                         <form type="lemma">
-                            <orth rendition="#uc">Paillardement</orth>   </form><pc>. </pc>
-                            <gramGrp>
-                                <pos expand="Adverbe">adv. </pos>
-                            </gramGrp>
-                     
+                            <orth rendition="#uc">Paillardement</orth>
+                        </form>
+                        <pc>. </pc>
+                        <gramGrp>
+                            <pos expand="Adverbe">adv. </pos>
+                        </gramGrp>
+
                         <sense>
                             <def>D'une maniere paillarde. </def>
                             <cit type="citation">
@@ -8704,12 +8675,13 @@
                     </entry>
                     <entry xml:id="Paillarder">
                         <form type="lemma">
-                            <orth rendition="#uc">paillarder</orth></form> <pc>. </pc>
-                            <gramGrp>
-                                <pos expand="Verbe">v. </pos>
-                                <subc expand="Neutre">n. </subc>
-                            </gramGrp>
-                        
+                            <orth rendition="#uc">paillarder</orth></form>
+                        <pc>. </pc>
+                        <gramGrp>
+                            <pos expand="Verbe">v. </pos>
+                            <subc expand="Neutre">n. </subc>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Commettre le péché charnel, le péché de luxure, &amp; sur tout
                                 l'adultere. </def>
@@ -8747,12 +8719,14 @@
                     </entry>
                     <entry xml:id="Paillardise">
                         <form type="lemma">
-                            <orth rendition="#uc">paillardise</orth>  </form><pc>. </pc>
-                            <gramGrp>
-                                <pos expand="Substantif">s. </pos>
-                                <gen expand="Feminin">f. </gen>
-                            </gramGrp>
-                      
+                            <orth rendition="#uc">paillardise</orth>
+                        </form>
+                        <pc>. </pc>
+                        <gramGrp>
+                            <pos expand="Substantif">s. </pos>
+                            <gen expand="Feminin">f. </gen>
+                        </gramGrp>
+
                         <def>Impudicité, luxure, impureté; peché de la chair. </def>
                         <note>La <hi rendition="#i">paillardise</hi> est le peché qui damne le plus
                             de monde, qui nous éloigne le plus de Dieu. Il n'est plus guere en
@@ -8760,12 +8734,13 @@
                     </entry>
                     <entry xml:id="Paillasse">
                         <form type="lemma">
-                            <orth rendition="#uc">paillasse</orth></form><pc>. </pc>
-                            <gramGrp>
-                                <pos expand="Substantif">s. </pos>
-                                <gen expand="Feminin">f. </gen>
-                            </gramGrp>
-                        
+                            <orth rendition="#uc">paillasse</orth></form>
+                        <pc>. </pc>
+                        <gramGrp>
+                            <pos expand="Substantif">s. </pos>
+                            <gen expand="Feminin">f. </gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>La plus basse garniture d'un lit, fait de paille enfermée dans de
                                 la toile, qui n'est ouverte que par le milieu.</def>
@@ -8809,12 +8784,14 @@
                     </entry>
                     <entry xml:id="Paillasson">
                         <form type="lemma">
-                            <orth rendition="#uc">paillasson</orth>  </form><pc>. </pc>
-                            <gramGrp>
-                                <pos expand="Substantif">s. </pos>
-                                <gen expand="Masculin">m. </gen>
-                            </gramGrp>
-                      
+                            <orth rendition="#uc">paillasson</orth>
+                        </form>
+                        <pc>. </pc>
+                        <gramGrp>
+                            <pos expand="Substantif">s. </pos>
+                            <gen expand="Masculin">m. </gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Grosse couverture de paille soutenuë par des bâtons, &amp;
                                 entrelacée avec des cordes, du plion, ou de l'osier, dont se servent
@@ -8838,12 +8815,14 @@
                     <cb n="2"/>
                     <entry xml:id="Paille">
                         <form type="lemma">
-                            <orth rendition="#uc">paille</orth>  </form><pc>. </pc>
-                            <gramGrp>
-                                <pos expand="Substantif">s. </pos>
-                                <gen expand="Feminin">f. </gen>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">paille</orth>
+                        </form>
+                        <pc>. </pc>
+                        <gramGrp>
+                            <pos expand="Substantif">s. </pos>
+                            <gen expand="Feminin">f. </gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Le tuyau &amp; l'épi des gros &amp; menus blez.</def>
                             <note>La <hi rendition="#i">paille</hi> de segle est longue, &amp; sert
@@ -9035,12 +9014,14 @@
                     </entry>
                     <entry xml:id="Paillé">
                         <form type="lemma">
-                            <orth rendition="#uc">paillé</orth > </form><pc>. </pc>
-                            <gramGrp>
-                                <pos expand="Adjectif">adj. </pos>
-                                <gen expand="Masculin">masc. </gen>
-                            </gramGrp>
-                      
+                            <orth rendition="#uc">paillé</orth>
+                        </form>
+                        <pc>. </pc>
+                        <gramGrp>
+                            <pos expand="Adjectif">adj. </pos>
+                            <gen expand="Masculin">masc. </gen>
+                        </gramGrp>
+
                         <sense>
                             <usg type="terme" ana="#blason">Terme de Blason</usg><pc>, </pc>
                             <def>qui signifie la même chose que <hi rendition="#i">diapré</hi>. Il
@@ -9054,13 +9035,16 @@
                     </entry>
 
                     <entry xml:id="Paillet">
-                     
-                            <form type="lemma"><orth rendition="#uc">paillet</orth></form><pc>, </pc><form type="inflected"><orth extent="part"
-                                rendition="#sc">ette</orth></form><pc>. </pc>
-                            <gramGrp>
-                                <pos expand="Adjectif">adj. </pos>
-                            </gramGrp>
-                        
+
+                        <form type="lemma"><orth rendition="#uc">paillet</orth></form>
+                        <pc>, </pc>
+                        <form type="inflected"><orth extent="part" rendition="#sc"
+                            >ette</orth></form>
+                        <pc>. </pc>
+                        <gramGrp>
+                            <pos expand="Adjectif">adj. </pos>
+                        </gramGrp>
+
                         <sense>
                             <note>Qui n'est en usage qu'au masculin,</note><lbl> &amp; qui
                                 signifie,</lbl>
@@ -9076,12 +9060,14 @@
                     </entry>
                     <entry xml:id="Paillette">
                         <form type="lemma">
-                            <orth rendition="#uc">Paillette</orth>  </form><pc>. </pc>
-                            <gramGrp>
-                                <pos expand="Substantif">s. </pos>
-                                <gen expand="Feminin">f. </gen>
-                            </gramGrp>
-                      
+                            <orth rendition="#uc">Paillette</orth>
+                        </form>
+                        <pc>. </pc>
+                        <gramGrp>
+                            <pos expand="Substantif">s. </pos>
+                            <gen expand="Feminin">f. </gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Petite partie, ou grain d'or ou d'argent qu'on trouve dans les
                                 rivieres, dans des lieux où il y a des mines, &amp; qui est ramassée
@@ -9098,25 +9084,27 @@
                     </entry>
                     <entry xml:id="Pailleur">
                         <form type="lemma">
-                            <orth rendition="#uc">pailleur</orth></form><pc>, </pc>
-                            <gramGrp>
-                                <pos expand="Substantif">subst. </pos>
-                                <gen expand="Masculin">masc. </gen>
-                            </gramGrp>
-                            <usg>L'Académie dit <hi rendition="#i">Pailleux.</hi> )</usg>
-                        
+                            <orth rendition="#uc">pailleur</orth></form>
+                        <pc>, </pc>
+                        <gramGrp>
+                            <pos expand="Substantif">subst. </pos>
+                            <gen expand="Masculin">masc. </gen>
+                        </gramGrp>
+                        <usg>L'Académie dit <hi rendition="#i">Pailleux.</hi> )</usg>
+
                         <sense>
                             <def>Homme qui vend &amp; porte de la paille dans les maisons où il y a
                                 équipage. </def>
                         </sense>
                     </entry>
                     <entry xml:id="Pailleux">
-                     
-                           <form type="lemma"><orth rendition="#uc">pailleux</orth></form> <pc>. </pc>
-                            <gramGrp>
-                                <pos expand="Adjectif">adj. </pos>
-                            </gramGrp>
-                        
+
+                        <form type="lemma"><orth rendition="#uc">pailleux</orth></form>
+                        <pc>. </pc>
+                        <gramGrp>
+                            <pos expand="Adjectif">adj. </pos>
+                        </gramGrp>
+
                         <sense>
                             <note>On dit du fer <hi rendition="#i">pailleux</hi>; </note>
                             <def>c'est-à-dire, <gloss>qui a des pailles, ou filamens qui le rendent
@@ -9125,12 +9113,14 @@
                     </entry>
                     <entry xml:id="Paillier">
                         <form type="lemma">
-                            <orth rendition="#uc">paillier</orth> </form><pc>. </pc>
-                            <gramGrp>
-                                <pos expand="Substantif">subt. </pos>
-                                <gen expand="Masculin">masc. </gen>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">paillier</orth>
+                        </form>
+                        <pc>. </pc>
+                        <gramGrp>
+                            <pos expand="Substantif">subt. </pos>
+                            <gen expand="Masculin">masc. </gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Paille fourragée par les moutons, ou autres bestiaux, qui ont mangé
                                 l'épi &amp; le grain qui étoit resté dedans, ensorte qu'elle ne vaut
@@ -9188,12 +9178,13 @@
                     </entry>
                     <entry xml:id="Paillo">
                         <form type="lemma">
-                            <orth rendition="#uc">paillo</orth></form><pc>. </pc>
-                            <gramGrp>
-                                <pos expand="Substantif">s. </pos>
-                                <gen expand="Masculin">m. </gen>
-                            </gramGrp>
-                        
+                            <orth rendition="#uc">paillo</orth></form>
+                        <pc>. </pc>
+                        <gramGrp>
+                            <pos expand="Substantif">s. </pos>
+                            <gen expand="Masculin">m. </gen>
+                        </gramGrp>
+
                         <sense>
                             <usg type="terme" ana="#marine">Terme de Marine</usg><pc>. </pc>
                             <def>On appelle le <hi rendition="#i">paillo</hi> d'une galere, la
@@ -9202,12 +9193,14 @@
                     </entry>
                     <entry xml:id="Paillondesoudure">
                         <form type="compound">
-                            <orth rendition="#uc">paillon de soudure</orth> </form><pc>. </pc>
-                            <gramGrp>
-                                <pos expand="Substantif">s. </pos>
-                                <gen expand="Masculin">m. </gen>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">paillon de soudure</orth>
+                        </form>
+                        <pc>. </pc>
+                        <gramGrp>
+                            <pos expand="Substantif">s. </pos>
+                            <gen expand="Masculin">m. </gen>
+                        </gramGrp>
+
                         <sense>
                             <usg type="terme" ana="#orfevre">Terme d'Orfevre</usg><pc>. </pc>
                             <def>C'est un petit morceau de soudure, un petit morceau de metal mince
@@ -9231,12 +9224,14 @@
                     </entry>
                     <entry xml:id="Pain">
                         <form type="lemma">
-                            <orth rendition="#uc">pain</orth>   </form> <pc>. </pc>
-                            <gramGrp>
-                                <pos expand="Substantif">subst. </pos>
-                                <gen expand="Masculin">masc. </gen>
-                            </gramGrp>
-                     
+                            <orth rendition="#uc">pain</orth>
+                        </form>
+                        <pc>. </pc>
+                        <gramGrp>
+                            <pos expand="Substantif">subst. </pos>
+                            <gen expand="Masculin">masc. </gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Masse de pâte cuite qui sert de principale nourriture à l'homme, ou
                                 aliment ordinaire de l'homme, fait de farine petrie &amp; cuite; ou
@@ -9323,19 +9318,19 @@
 
                 <div type="PAN">
                     <entry xml:id="Panchant">
-                        
-                            <form type="lemma"><orth rendition="#uc">panchant,</orth>
+
+                        <form type="lemma"><orth rendition="#uc">panchant,</orth>
                             <lbl>ou</lbl></form>
-                            <form type="variant"><orth rendition="#uc">penchant,</orth></form>
-                            <form type="inflected"><orth extent="part">ante.</orth></form>
-                            <gramGrp>
-                                <pos expand="Adjectif">adj.</pos>
-                            </gramGrp>
-                            <lbl>&amp;</lbl>
-                            <gramGrp>
-                                <pos expand="Substantif">subst.</pos>
-                            </gramGrp>
-                        
+                        <form type="variant"><orth rendition="#uc">penchant,</orth></form>
+                        <form type="inflected"><orth extent="part">ante.</orth></form>
+                        <gramGrp>
+                            <pos expand="Adjectif">adj.</pos>
+                        </gramGrp>
+                        <lbl>&amp;</lbl>
+                        <gramGrp>
+                            <pos expand="Substantif">subst.</pos>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Qui n'est pas droit, ou posé à plomb, ou perpendiculairement ; qui
                                 est incliné.</def>
@@ -9447,12 +9442,13 @@
                     </entry>
                     <entry xml:id="Panchement">
                         <form type="lemma">
-                            <orth rendition="#uc">panchement.</orth> </form>
-                            <gramGrp>
-                                <pos expand="Substantif">s.</pos>
-                                <gen expand="Masculin">m.</gen>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">panchement.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif">s.</pos>
+                            <gen expand="Masculin">m.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Action par laquelle une chose est panchée.</def>
                             <cit type="exemple">
@@ -9467,17 +9463,19 @@
                         </sense>
                     </entry>
                     <entry xml:id="Pancher">
-                        
-                           <form type="lemma"> <orth rendition="#uc" extent="full">pancher,</orth></form>
-                            <lbl>ou</lbl>
-                            <form type="variant"><orth rendition="#uc" extent="full">pencher.</orth></form>
-                            <gramGrp>
-                                <pos expand="Verbe">v.</pos>
-                                <subc expand="Actif">act.</subc>
-                                <lbl>&amp;</lbl>
-                                <subc expand="Neutre">neut.</subc>
-                            </gramGrp>
-                        
+
+                        <form type="lemma">
+                            <orth rendition="#uc" extent="full">pancher,</orth></form>
+                        <lbl>ou</lbl>
+                        <form type="variant"><orth rendition="#uc" extent="full"
+                            >pencher.</orth></form>
+                        <gramGrp>
+                            <pos expand="Verbe">v.</pos>
+                            <subc expand="Actif">act.</subc>
+                            <lbl>&amp;</lbl>
+                            <subc expand="Neutre">neut.</subc>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Incliner ; tirer quelque chose de sa situation
                                 perpendiculaire.</def>
@@ -9570,8 +9568,9 @@
                             <def>C'est un remede ou extraitd'aloës, de rhubarbe, de sené, de
                                 scamonée, de jalap, d'agaric, de coloquinte, &amp; d'ellebore noir. </def>
                             <note>Son nom vient de ce qu'il a la vertu de purger generalement toutes
-                                les mauvaises humeurs du corps. On le donne en pilules enveloppées.</note>
-                               <etym> Ce mot est composé de trois mots Grecs, <lang xml:lang="ell"
+                                les mauvaises humeurs du corps. On le donne en pilules
+                                enveloppées.</note>
+                            <etym> Ce mot est composé de trois mots Grecs, <lang xml:lang="ell"
                                     >pan</lang>, <hi rendition="#i">tout</hi>, <lang xml:lang="ell"
                                     >chumos</lang>, <hi rendition="#i">fac</hi>, &amp;<lang
                                     xml:lang="ell">agein</lang>, <hi rendition="#i"
@@ -9580,12 +9579,13 @@
 
                     <entry xml:id="Panchreste">
                         <form type="lemma">
-                            <orth rendition="#uc">panchreste.</orth>   </form>
-                            <gramGrp>
-                                <pos expand="Substantif">s.</pos>
-                                <gen expand="Masculin">m.</gen>
-                            </gramGrp>
-                     
+                            <orth rendition="#uc">panchreste.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif">s.</pos>
+                            <gen expand="Masculin">m.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Medicament propre pour toutes fortes de maladies.</def>
                         </sense>
@@ -9595,12 +9595,13 @@
                     </entry>
                     <entry xml:id="Pancratium">
                         <form type="lemma">
-                            <orth rendition="#uc">pancratium.</orth> </form>
-                            <gramGrp>
-                                <pos expand="Substantif">s.</pos>
-                                <gen expand="Masculin">m.</gen>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">pancratium.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif">s.</pos>
+                            <gen expand="Masculin">m.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Plante qu'on appelle autrement scille rouge.</def>
                             <xr>Voyez <ref corresp="#Scille" rendition="#sc">Scille</ref>.</xr>
@@ -9609,12 +9610,13 @@
                     </entry>
                     <entry xml:id="Pancreas">
                         <form type="lemma">
-                            <orth rendition="#uc">pancreas.</orth>    </form>
-                            <gramGrp>
-                                <pos expand="Substantif">s.</pos>
-                                <gen expand="Masculin">m.</gen>
-                            </gramGrp>
-                    
+                            <orth rendition="#uc">pancreas.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif">s.</pos>
+                            <gen expand="Masculin">m.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <usg type="terme" ana="#anatomie">Terme d'Anatomie.</usg>
                             <def>C'est un corps composé d'une grande quantité de glandes enveloppées
@@ -9656,13 +9658,14 @@
                     </entry>
                     <entry xml:id="Pandectes">
                         <form type="lemma">
-                            <orth rendition="#uc">pandectes.</orth>   </form>
-                            <gramGrp>
-                                <pos expand="Substantif">s.</pos>
-                                <gen expand="Feminin">fem.</gen>
-                                <number expand="Pluriel">plur.</number>
-                            </gramGrp>
-                     
+                            <orth rendition="#uc">pandectes.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif">s.</pos>
+                            <gen expand="Feminin">fem.</gen>
+                            <number expand="Pluriel">plur.</number>
+                        </gramGrp>
+
                         <sense n="1">
                             <usg ana="#jurisprudence">Terme de Jurisprudence.</usg>
                             <def>C'est le Digeste ; ou la compilation, ou collection faite du temps
@@ -9710,16 +9713,18 @@
                     </entry>
                     <entry xml:id="Pandeloque">
                         <form type="lemma">
-                            <orth rendition="#uc">pandeloque.</orth>   </form>
-                          <form type="variant">  <orth rendition="#uc">pandre.</orth></form>
-                     
+                            <orth rendition="#uc">pandeloque.</orth>
+                        </form>
+                        <form type="variant">
+                            <orth rendition="#uc">pandre.</orth></form>
+
                         <xr>Voyez <ref corresp="#Pendeloque" rendition="#sc">Pendeloque.</ref><ref
                                 corresp="#Pendre" rendition="#sc">Pendre.</ref></xr>
                     </entry>
                     <entry xml:id="Pandore">
                         <form type="lemma">
                             <orth rendition="#uc">pandore.</orth></form>
-                        
+
                         <gramGrp>
                             <pos expand="Substantif">s.</pos>
                             <gen expand="Feminin">f.</gen>
@@ -9760,13 +9765,14 @@
                     <entry xml:id="Paneau">
                         <form type="lemma">
                             <orth rendition="#uc">paneau,</orth></form>
-                            <lbl>ou</lbl>
-                            <form><orth rendition="#uc">panneau.</orth> </form>
-                            <gramGrp>
-                                <pos expand="Substantif">s.</pos>
-                                <gen expand="Masculin">m.</gen>
-                            </gramGrp>
-                      
+                        <lbl>ou</lbl>
+                        <form><orth rendition="#uc">panneau.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif">s.</pos>
+                            <gen expand="Masculin">m.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <usg ana="#menuiserie">Terme de Menuiserie. </usg><def>C'est un quarré
                                 de bois mince, &amp; quelquefois ouvragé, qu'on enchasse dans les
@@ -9868,12 +9874,13 @@
                     </entry>
                     <entry xml:id="Panee">
                         <form type="lemma">
-                            <orth rendition="#uc">panee.</orth> </form>
-                            <gramGrp>
-                                <pos expand="Adjectif">adj.</pos>
-                                <gen expand="Feminin">fem.</gen>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">panee.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Adjectif">adj.</pos>
+                            <gen expand="Feminin">fem.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>qui se dit de l'eau dasn laquelle on a fait tremper du pain, pour
                                 en ôter la trop grande crudité.</def>
@@ -9883,12 +9890,13 @@
                     </entry>
                     <entry xml:id="Panegyrique">
                         <form type="lemma">
-                            <orth rendition="#uc">panegyrique.</orth> </form>
-                            <gramGrp>
-                                <pos expand="Substantif">s.</pos>
-                                <gen expand="Masculin">m.</gen>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">panegyrique.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif">s.</pos>
+                            <gen expand="Masculin">m.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Discours d'un Orateur fait à la loüange d'une personne, ou d'une
                                 vertu extraordinaire, ou qu'on veut faire passer pour telle.</def>
@@ -9995,12 +10003,13 @@
                     </entry>
                     <entry xml:id="Panegyriste">
                         <form type="lemma">
-                            <orth rendition="#uc">panegyriste</orth>  </form>
-                            <gramGrp>
-                                <pos expand="Substantif">s.</pos>
-                                <gen expand="Masculin">m.</gen>
-                            </gramGrp>
-                      
+                            <orth rendition="#uc">panegyriste</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif">s.</pos>
+                            <gen expand="Masculin">m.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Orateur, ou Ecrivain qui fait un Panegyrique.</def>
                             <cit type="exemple">
@@ -10030,12 +10039,13 @@
                     </entry>
                     <entry xml:id="Paneree">
                         <form type="lemma">
-                            <orth rendition="#uc">paneree.</orth>   </form>
-                            <gramGrp>
-                                <pos expand="Substantif">s.</pos>
-                                <gen expand="Feminin">f.</gen>
-                            </gramGrp>
-                     
+                            <orth rendition="#uc">paneree.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif">s.</pos>
+                            <gen expand="Feminin">f.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Plein un panier.</def>
                             <cit type="exemple">
@@ -10046,12 +10056,13 @@
                     </entry>
                     <entry xml:id="Panesse">
                         <form type="lemma">
-                            <orth rendition="#uc">panesse.</orth>  </form>
-                            <gramGrp>
-                                <pos expand="Substantif">s.</pos>
-                                <gen expand="Feminin">fem.</gen>
-                            </gramGrp>
-                      
+                            <orth rendition="#uc">panesse.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif">s.</pos>
+                            <gen expand="Feminin">fem.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>La femelle du paon.</def>
                             <cit type="citation">
@@ -10062,12 +10073,13 @@
                     </entry>
                     <entry xml:id="Paneterie">
                         <form type="lemma">
-                            <orth rendition="#uc">paneterie.</orth>  </form>
-                            <gramGrp>
-                                <pos expand="Substantif">s.</pos>
-                                <gen expand="Feminin">fem.</gen>
-                            </gramGrp>
-                      
+                            <orth rendition="#uc">paneterie.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif">s.</pos>
+                            <gen expand="Feminin">fem.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Le lieu où on distribue le pain chez le Roi, &amp; l'office de
                                 celui qui le distribue.</def>
@@ -10098,12 +10110,13 @@
                     <pb rendition="130"/>
                     <entry xml:id="Paratitlaire">
                         <form type="lemma">
-                            <orth rendition="#uc">paratitlaire.</orth> </form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Masculin"> m.</gen>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">paratitlaire.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Masculin"> m.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Docteur ou Sifleur qui enseigne les paratitles. </def>
                             <note> Il se dit aussi de celui qui apprend les paratitles sous quelque
@@ -10112,13 +10125,14 @@
                     </entry>
                     <entry xml:id="Paratitles">
                         <form type="lemma">
-                            <orth rendition="#uc">paratitles.</orth> </form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Feminin"> f.</gen>
-                                <subc expand="pl"> plur.</subc>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">paratitles.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Feminin"> f.</gen>
+                            <subc expand="pl"> plur.</subc>
+                        </gramGrp>
+
                         <sense n="1">
                             <usg ana="#jurisprudence">Terme de Jurisprudence.</usg>
                             <def>Notes courtes; explication sommaire, qu'ont faites quelques
@@ -10134,12 +10148,13 @@
                     </entry>
                     <entry xml:id="Paravent">
                         <form type="lemma">
-                            <orth rendition="#uc">paravent.</orth>  </form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Masculin"> m.</gen>
-                            </gramGrp>
-                      
+                            <orth rendition="#uc">paravent.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Masculin"> m.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Grand volet de bois qu'on met en dehors des fenêtres aux maisons de
                                 campagne, pour deffendre les vitres des orages &amp; des vents,
@@ -10167,11 +10182,12 @@
                     </entry>
                     <entry xml:id="Paraventure">
                         <form type="lemma">
-                            <orth rendition="#uc">paraventure.</orth> </form>
-                            <gramGrp>
-                                <pos expand="Adverbe"> adv.</pos>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">paraventure.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Adverbe"> adv.</pos>
+                        </gramGrp>
+
                         <xr> Voyez <hi rendition="#sc"><ref corresp="#Paradventure"
                                     >paradventure.</ref></hi></xr>
 
@@ -10180,12 +10196,13 @@
                     </entry>
                     <entry xml:id="Parazonium">
                         <form type="lemma">
-                            <orth rendition="#uc">parazonium.</orth> </form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Masculin"> m.</gen>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">parazonium.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Masculin"> m.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <usg type="terme" ana="#medailliste">Terme de Medailliste.</usg>
                             <def>Sceptre arrondi par les deux bouts, comme un bâton de commandement
@@ -10236,12 +10253,13 @@
                     </entry>
                     <entry xml:id="Parbouillir">
                         <form type="lemma">
-                            <orth rendition="#uc" extent="full">parbouillir.</orth> </form>
-                            <gramGrp>
-                                <pos expand="Verbe"> v.</pos>
-                                <subc expand="Neutre"> n.</subc>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc" extent="full">parbouillir.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Verbe"> v.</pos>
+                            <subc expand="Neutre"> n.</subc>
+                        </gramGrp>
+
                         <sense n="1">
                             <usg type="terme" ana="#medecine">Terme de Medecine,</usg>
                             <def>qui se dit des herbes qu'on fait bouillir quelque peu de temps pour
@@ -10263,11 +10281,11 @@
                     <entry xml:id="Parc">
                         <form type="lemma">
                             <orth rendition="#uc">parc.</orth></form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Masculin"> m.</gen>
-                            </gramGrp>
-                        
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Masculin"> m.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def> Palissade mobile qu'on fait dans les champs pour enfermer les
                                 moutons qu'on mene paître en été dans les lieux éloignez où ils
@@ -10380,12 +10398,13 @@
                     </entry>
                     <entry xml:id="Parcelle">
                         <form type="lemma">
-                            <orth rendition="#uc">parcelle.</orth>   </form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Feminin"> f.</gen>
-                            </gramGrp>
-                     
+                            <orth rendition="#uc">parcelle.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Feminin"> f.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def> Petite partie d'un tout. </def>
                             <cit type="exemple">
@@ -10417,12 +10436,12 @@
                     <entry xml:id="Parceque">
                         <form type="lemma">
                             <orth rendition="#uc">parceque.</orth></form>
-                            <gramGrp>
-                                <pos expand="Conjonction">Conjonction causative, </pos>
-                                <lbl>&amp;</lbl>
-                                <pos expand="Adverbe"> adverbe.</pos>
-                            </gramGrp>
-                        
+                        <gramGrp>
+                            <pos expand="Conjonction">Conjonction causative, </pos>
+                            <lbl>&amp;</lbl>
+                            <pos expand="Adverbe"> adverbe.</pos>
+                        </gramGrp>
+
                         <sense n="1">
                             <def> A cause, Vû que, D'autant que. On le dit pour expliquer la raison
                                 qui nous oblige à faire ou à dire quelque chose. </def>
@@ -10446,11 +10465,11 @@
                     <entry xml:id="Parchasser">
                         <form type="lemma">
                             <orth rendition="#uc">parchasser.</orth></form>
-                            <gramGrp>
-                                <pos expand="Verbe"> v.</pos>
-                                <subc expand="Neutre"> n.</subc>
-                            </gramGrp>
-                        
+                        <gramGrp>
+                            <pos expand="Verbe"> v.</pos>
+                            <subc expand="Neutre"> n.</subc>
+                        </gramGrp>
+
                         <sense n="1">
                             <usg ana="#chasse">Terme de Chasse,</usg>
                             <def>qui signifie, Finir la chasse par la prise de la bête chassée.
@@ -10459,12 +10478,13 @@
                     </entry>
                     <entry xml:id="Parchemin">
                         <form type="lemma">
-                            <orth rendition="#uc">parchemin.</orth> </form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Masculin"> m.</gen>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc">parchemin.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Masculin"> m.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def> Peau preparée pour écrire, qui sert aussi à quelques autres
                                 usages. </def>
@@ -10527,12 +10547,13 @@
                     </entry>
                     <entry xml:id="Parcheminerie">
                         <form type="lemma">
-                            <orth rendition="#uc">parcheminerie.</orth>  </form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Feminin"> f.</gen>
-                            </gramGrp>
-                      
+                            <orth rendition="#uc">parcheminerie.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Feminin"> f.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Lieu où se vend le parchemin, &amp; l'art de le preparer.</def>
                             <cit type="exemple">
@@ -10543,11 +10564,11 @@
                     <entry xml:id="Parcheminier">
                         <form type="lemma">
                             <orth rendition="#uc">parcheminier.</orth></form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Masculin"> m.</gen>
-                            </gramGrp>
-                        
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Masculin"> m.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Marchand, ou Ouvrier qui vend, ou qui prepare le parchemin.</def>
                         </sense>
@@ -10566,12 +10587,13 @@
                     </entry>
                     <entry xml:id="Parcourir">
                         <form type="lemma">
-                            <orth rendition="#uc" extent="full">parcourir.</orth>     </form>
-                            <gramGrp>
-                                <pos expand="Verbe"> v.</pos>
-                                <subc expand="Actif"> act.</subc>
-                            </gramGrp>
-                   
+                            <orth rendition="#uc" extent="full">parcourir.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Verbe"> v.</pos>
+                            <subc expand="Actif"> act.</subc>
+                        </gramGrp>
+
                         <sense n="1">
                             <def> Voyager, aller en divers lieux, &amp; y faire peu de sejour. </def>
                             <cit type="exemple">
@@ -10629,11 +10651,12 @@
                     </entry>
                     <entry xml:id="Parderriere">
                         <form type="lemma">
-                            <orth rendition="#uc" extent="full">parderriere.</orth>   </form>
-                            <gramGrp>
-                                <pos expand="Adverbe"> adv.</pos>
-                            </gramGrp>
-                     
+                            <orth rendition="#uc" extent="full">parderriere.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Adverbe"> adv.</pos>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Par la partie de derriere.</def>
                             <cit type="exemple">
@@ -10649,8 +10672,9 @@
                     </entry>
                     <entry xml:id="Pardessous">
                         <form type="lemma">
-                            <orth rendition="#uc" extent="full">pardessous.</orth> </form>
-                       
+                            <orth rendition="#uc" extent="full">pardessous.</orth>
+                        </form>
+
                         <sense n="1">
                             <def>Preposition qui se dit de ce qui est inferieur.</def>
                             <cit type="exemple">
@@ -10670,12 +10694,13 @@
                     </entry>
                     <entry xml:id="Pardessus">
                         <form type="lemma">
-                            <orth rendition="#uc" extent="full">pardessus.</orth>  </form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Masculin"> m.</gen>
-                            </gramGrp>
-                      
+                            <orth rendition="#uc" extent="full">pardessus.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Masculin"> m.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def> Ce qu'on donne par gratification au delà du prix dont on est
                                 convenu, ou de la mesure ordinaire.</def><cit type="exemple">
@@ -10726,11 +10751,12 @@
                     </entry>
                     <entry xml:id="Pardevant">
                         <form type="lemma">
-                            <orth rendition="#uc">pardevant.</orth>    </form>
-                            <gramGrp>
-                                <pos expand="Preposition"> Preposition</pos>
-                            </gramGrp>
-                    
+                            <orth rendition="#uc">pardevant.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Preposition"> Preposition</pos>
+                        </gramGrp>
+
                         <sense n="1">
                             <usg ana="#palais">Terme de Palais,</usg>
                             <def> qui se dit de la comparution qu'on fait devant une personne
@@ -10787,12 +10813,13 @@
                     </entry>
                     <entry xml:id="Pardon">
                         <form type="lemma">
-                            <orth rendition="#uc" extent="full">pardon.</orth> </form>
-                            <gramGrp>
-                                <pos expand="Substantif"> s.</pos>
-                                <gen expand="Masculin"> m.</gen>
-                            </gramGrp>
-                       
+                            <orth rendition="#uc" extent="full">pardon.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Substantif"> s.</pos>
+                            <gen expand="Masculin"> m.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def>Grace &amp; remission que Dieu par sa misericorde accorde aux
                                 pecheurs pour les pechez qu'ils ont commis.</def>
@@ -10899,14 +10926,15 @@
                     </entry>
                     <entry xml:id="Pardonnable">
                         <form type="lemma">
-                            <orth rendition="#uc" extent="full">pardonnable.</orth>   </form>
-                            <gramGrp>
-                                <pos expand="Adjectif"> adj.</pos>
-                                <gen expand="Masculin"> m.</gen>
-                                <lbl>&amp;</lbl>
-                                <gen expand="Feminin">f.</gen>
-                            </gramGrp>
-                     
+                            <orth rendition="#uc" extent="full">pardonnable.</orth>
+                        </form>
+                        <gramGrp>
+                            <pos expand="Adjectif"> adj.</pos>
+                            <gen expand="Masculin"> m.</gen>
+                            <lbl>&amp;</lbl>
+                            <gen expand="Feminin">f.</gen>
+                        </gramGrp>
+
                         <sense n="1">
                             <def> Qui merite grace &amp; remission.</def><cit type="exemple">
                                 <quote>Les fautes de fragilité, d'accident, sont <hi rendition="#i"
@@ -11904,7 +11932,7 @@
                             <orth rendition="#uc">pastis,</orth>
                             <lbl>ou</lbl>
                             <orth rendition="#uc">pastis</orth>
-                            <pron>(Prnoncez l's.)</pron>
+                            <pron>(Prononcez l's.)</pron>
                             <gramGrp>
                                 <pos expand="Substantif"> s.</pos>
                                 <gen expand="Masculin"> m.</gen>
@@ -15172,8 +15200,8 @@
                 </div>
                 <div type="POM">
                     <entry xml:id="Pomme">
-                        <form type="lemma"><orth rendition="#uc">pomme</orth><gramGrp><pos expand="Substantif"
-                                    >s.</pos>
+                        <form type="lemma"><orth rendition="#uc">pomme</orth><gramGrp><pos
+                                    expand="Substantif">s.</pos>
                                 <gen expand="Feminin">f.</gen></gramGrp>
                         </form>
                         <sense><def>C’e$t le plus connu de tous les fruits qui e$t rond &amp; à
@@ -15288,23 +15316,23 @@
                                 >stramonium</ref></xr></re>
 
                         <re><form type="lemma"><orth rendition="#sc">pomme de
-                                    merveille</orth></form><sense><def>C’e$t une plante qui pou$$e
-                                    des tiges à la hauteur de deux ou trois pieds, meiës,
-                                    $armenteu$es, s’attachant par des filets qu’elles rodui$ent, à
-                                    des bâtons qu’on met auprès pour les $outenir. Ses feuilles $ont
-                                    $emblables à celles de la coleuvrée, ou plutôt de la vigne, mais
-                                    plus petites, dl’un verd agreable. Ses fleurs $ortent des
-                                    ai$$elles des <pb n="296"/> feuilles ; elles $ont formées en
-                                    ba$$ins tailez en cina quartiers, de couleur jaune blanchâtre.
-                                    Il leur $ucccede un fruit long, formé à-peu-près comme un
-                                    concombre, plus ou moins renflé vers le miieu, prenant en
-                                    meuri$$ant une couleur rouge, ou quelquefois jaune rougéâtre,
-                                    par$emé en $a $urface de tubercules épineux. Ce fruit n’e$t
-                                    point charu, il s’ouvre de lui- même comme par une maniere de
-                                    re$$ort, &amp; il n’a qu’une cavité qui renferme plu$ieurs
-                                    $emences grandes comme celles de la citrouille, rougeâtres,
-                                    enveloppées d’une coiffe, Sa racine e$t petite &amp; fibreu$e.
-                                    En Latin <foreign xml:lang="lat">momordica vulgari.</foreign>
+                                merveille</orth></form><sense><def>C’e$t une plante qui pou$$e des
+                                    tiges à la hauteur de deux ou trois pieds, meiës, $armenteu$es,
+                                    s’attachant par des filets qu’elles rodui$ent, à des bâtons
+                                    qu’on met auprès pour les $outenir. Ses feuilles $ont $emblables
+                                    à celles de la coleuvrée, ou plutôt de la vigne, mais plus
+                                    petites, dl’un verd agreable. Ses fleurs $ortent des ai$$elles
+                                    des <pb n="296"/> feuilles ; elles $ont formées en ba$$ins
+                                    tailez en cina quartiers, de couleur jaune blanchâtre. Il leur
+                                    $ucccede un fruit long, formé à-peu-près comme un concombre,
+                                    plus ou moins renflé vers le miieu, prenant en meuri$$ant une
+                                    couleur rouge, ou quelquefois jaune rougéâtre, par$emé en $a
+                                    $urface de tubercules épineux. Ce fruit n’e$t point charu, il
+                                    s’ouvre de lui- même comme par une maniere de re$$ort, &amp; il
+                                    n’a qu’une cavité qui renferme plu$ieurs $emences grandes comme
+                                    celles de la citrouille, rougeâtres, enveloppées d’une coiffe,
+                                    Sa racine e$t petite &amp; fibreu$e. En Latin <foreign
+                                        xml:lang="lat">momordica vulgari.</foreign>
                                     <bibl><author ref="#Tournefort_ISN0000000120999374"
                                             rendition="#sc">p. tournefort</author></bibl>. On $e
                                     $ert en Medecine de $es feuilles &amp; de $on fruit, qu’on
@@ -15334,8 +15362,8 @@
                         <sense/>
                     </entry>
                     <entry xml:id="Pommé">
-                        <form type="lemma"><orth rendition="#uc">pommé</orth><gramGrp><pos expand="Substantif"
-                                    >s.</pos>
+                        <form type="lemma"><orth rendition="#uc">pommé</orth><gramGrp><pos
+                                    expand="Substantif">s.</pos>
                                 <gen expand="Masculin">m.</gen></gramGrp></form>
                         <sense><def>Sidre fait de jus de pommes. On e$time plus le <hi
                                     rendition="#i">pommé</hi> que le poiré.</def></sense>
@@ -15943,7 +15971,8 @@
                             </cit>
                         </sense>
 
-                        <sense n="2"><form type="lemma"><orth rendition="#sc">populaire</orth></form>
+                        <sense n="2"><form type="lemma"><orth rendition="#sc"
+                                >populaire</orth></form>
                             <def>signifie aussi, Affable; qui a des manières honnêtes &amp;
                                 caressantes pour gagner la faveur et l'affection du peuple.</def>
                             <cit type="exemple">
@@ -16247,13 +16276,18 @@
                         </sense>
                     </entry>
                 </div>
-                
+
                 <div type="POU">
-                    <entry xml:id="Poutrelle"><form type="lemma"><orth>POUTRELLE</orth></form><pc>.</pc>
-                       <gramGrp><pos>s. </pos><gen>f.</gen></gramGrp><xr type="diminutif"><lbl>diminutif de</lbl> <ref target="#Poutre">poutre</ref></xr><pc>.</pc>
-                        <sense><def>Piece de
-                        bois mediocre pour soutenir un plancher leger.</def></sense>
-                     </entry>
+                    <entry xml:id="Poutrelle">
+                        <form type="lemma"><orth>POUTRELLE</orth></form>
+                        <pc>.</pc>
+                        <gramGrp><pos>s. </pos><gen>f.</gen></gramGrp>
+                        <xr type="diminutif"><lbl>diminutif de</lbl>
+                            <ref target="#Poutre">poutre</ref></xr>
+                        <pc>.</pc>
+                        <sense><def>Piece de bois mediocre pour soutenir un plancher
+                            leger.</def></sense>
+                    </entry>
                 </div>
 
                 <div type="RAT">
@@ -17153,10 +17187,10 @@
                                         ref="#BauhinC_ISN0000000121246403" rendition="#sc"
                                         >id.</persName></ref><ref><persName
                                         ref="#Mattioli_ISN0000000109069133"
-                                    >Matthiole</persName></ref> dit qu'il a vu des <hi rendition="#i"
-                                    >raves</hi> qui pesoient trente livres, &amp; même cent en
-                                quelques lieux. L'Histoire des Incas nous assûre qu'il s'est trouvé
-                                au Perou dans la vallée de Cusapa une si prodigieuse <hi
+                                    >Matthiole</persName></ref> dit qu'il a vu des <hi
+                                    rendition="#i">raves</hi> qui pesoient trente livres, &amp; même
+                                cent en quelques lieux. L'Histoire des Incas nous assûre qu'il s'est
+                                trouvé au Perou dans la vallée de Cusapa une si prodigieuse <hi
                                     rendition="#i">rave</hi>, qu'il fallut attacher cinq chevaux au
                                 bout de ses feuilles pour la transporter d'un lieu en un autre. Sa
                                 tige avoit deux aunes &amp; demie de long, &amp; à peine un homme
@@ -17968,15 +18002,15 @@
                 <div type="VED">
                     <pb n="1006"/>
                     <entry xml:id="Vedasse">
-                        <form type="lemma"><orth rendition="#uc">vedasse</orth><gramGrp><pos expand="Substantif"
-                                    >s</pos><gen>f</gen></gramGrp></form>
+                        <form type="lemma"><orth rendition="#uc">vedasse</orth><gramGrp><pos
+                                    expand="Substantif">s</pos><gen>f</gen></gramGrp></form>
                         <sense n="1"><def>Espece de cendre gravelée qui est propre pour la teinture,
                                 &amp; qu'on nous apporte de Pologne, de Dantzic, de
                                 Moscovie.</def><note>On l'appelle autrement potasse.</note></sense>
                     </entry>
                     <entry xml:id="Vedette">
-                        <form type="lemma"><orth rendition="#uc">vedette</orth><gramGrp><pos expand="Substantif"
-                                    >s</pos><gen>f</gen></gramGrp></form>
+                        <form type="lemma"><orth rendition="#uc">vedette</orth><gramGrp><pos
+                                    expand="Substantif">s</pos><gen>f</gen></gramGrp></form>
                         <sense>n=1<def>Sentinelle à cheval.</def><note>On met des <hi rendition="#i"
                                     >vedettes</hi> avancées pour découvrir les ennemis. Tous les
                                 corps de garde de cavalerie ont des <hi rendition="#i"
@@ -17985,15 +18019,15 @@
                 </div>
                 <div type="VEE">
                     <entry xml:id="Veeler">
-                        <form type="lemma"><orth rendition="#uc">veeler</orth><gramGrp><pos expand="Verbe"
-                                    >v</pos></gramGrp></form>
+                        <form type="lemma"><orth rendition="#uc">veeler</orth><gramGrp><pos
+                                    expand="Verbe">v</pos></gramGrp></form>
                         <xr> Voyez <ref corresp="#Vesler" rendition="#sc">vesler</ref></xr>
                     </entry>
                 </div>
                 <div type="VEF">
                     <entry xml:id="Vef">
-                        <form type="lemma"><orth rendition="#uc">vef</orth><gramGrp><pos expand="Substantif"
-                                    >s</pos><gen>m</gen></gramGrp></form>
+                        <form type="lemma"><orth rendition="#uc">vef</orth><gramGrp><pos
+                                    expand="Substantif">s</pos><gen>m</gen></gramGrp></form>
                         <sense n="1"><note>Quelques gens parlent ainsi: pour dire, <hi
                                     rendition="#i">vef</hi> mais mal.</note></sense>
                         <xr> Voyez <ref corresp="#Veuf" rendition="#sc">veuf</ref></xr>
@@ -18001,8 +18035,8 @@
                 </div>
                 <div type="VEG">
                     <entry xml:id="Vegetable">
-                        <form type="lemma"><orth rendition="#uc">vegetable</orth><gramGrp><pos expand="Adjectif"
-                                    >adj</pos></gramGrp></form>
+                        <form type="lemma"><orth rendition="#uc">vegetable</orth><gramGrp><pos
+                                    expand="Adjectif">adj</pos></gramGrp></form>
                         <sense n="1"><def>Qui peut croître, qui peut végéter.</def>
                             <cit type="exemple">
                                 <quote>Cette plante n'a plus rien de <hi rendition="#i"
@@ -18051,17 +18085,17 @@
                                 lequel on en a fait l'observation.</note></sense>
                     </entry>
                     <entry xml:id="Vegetaux">
-                        <form type="lemma"><orth rendition="#uc">vegetaux</orth><gramGrp><pos expand="Substantif"
-                                    >s</pos><gen>m</gen><subc expand="pl">plurier
-                            </subc></gramGrp></form>
+                        <form type="lemma"><orth rendition="#uc">vegetaux</orth><gramGrp><pos
+                                    expand="Substantif">s</pos><gen>m</gen><subc expand="pl">plurier
+                                </subc></gramGrp></form>
                         <sense n="1"><def>Nom collectif sous lequel sont compristous les
                                 arbres,&amp; les plantes.</def><note>On divise les corps naturels
                                 sublunaires en metaux, mineraux,<hi rendition="#i">vegetaux</hi>
                                 &amp; animaux.</note></sense>
                     </entry>
                     <entry xml:id="Vegeter">
-                        <form type="lemma"><orth rendition="#uc">vegeter</orth><gramGrp><pos expand="Verbe"
-                                    >v</pos></gramGrp></form>
+                        <form type="lemma"><orth rendition="#uc">vegeter</orth><gramGrp><pos
+                                    expand="Verbe">v</pos></gramGrp></form>
                         <sense n="1"><def>Prendre nourriture, &amp; accroissement par la racine. Il
                                 ne se dit que des arbres &amp; des plantes. </def>
                             <etym> Ce mot vient du Latin <lang xml:lang="lat" rendition="#i"
@@ -18109,7 +18143,8 @@
                                 <quote> La <hi rendition="#i">vehe<cb/>mence</hi> de cet ouragan a
                                     déraciné beaucoup d'arbres dans la forêt.</quote>
                             </cit></sense>
-                        <sense n="2"><form type="lemma"><orth rendition="#sc">vehemence</orth></form>
+                        <sense n="2"><form type="lemma"><orth rendition="#sc"
+                                >vehemence</orth></form>
                             <def>se dit figurément des choses morales</def>
                             <cit type="exemple">
                                 <quote>La <hi rendition="#i">vehemence</hi> des désirs, des
@@ -18173,8 +18208,9 @@
                                 </quote>
                             </cit>
                         </sense>
-                        <sense n="2"><form type="lemma"><orth rendition="#sc">vehement</orth></form><def>se dit
-                                figurément en choses morales, &amp; des passions.</def>
+                        <sense n="2"><form type="lemma"><orth rendition="#sc"
+                                >vehement</orth></form><def>se dit figurément en choses morales,
+                                &amp; des passions.</def>
                             <cit type="exemple">
                                 <quote>Son amour est fort <hi rendition="#i">vehement</hi>; sa
                                     douleur est fort <hi rendition="#i">vehemente</hi>. cet Avocat
@@ -18185,8 +18221,9 @@
                         </sense>
                     </entry>
                     <entry xml:id="Vehicule">
-                        <form type="lemma"><orth rendition="#uc">vehicule</orth><gramGrp><pos expand="Substantif"
-                                    >s</pos><gen expand="Masculin">masc.</gen></gramGrp></form>
+                        <form type="lemma"><orth rendition="#uc">vehicule</orth><gramGrp><pos
+                                    expand="Substantif">s</pos><gen expand="Masculin"
+                                >masc.</gen></gramGrp></form>
                         <sense n="1"><usg type="terme" ana="#physique #medecine">Terme de Physique
                                 &amp; de Medecine.</usg><def> ce qui sert à conduire, à pousser, à
                                 chasser, à faire passer plus facilement</def>
@@ -18227,8 +18264,9 @@
                         </sense>
                     </entry>
                     <entry xml:id="Veille">
-                        <form type="lemma"><orth rendition="#uc">veille</orth><gramGrp><pos expand="Substantif"
-                                    >s</pos><gen expand="Feminin">f.</gen></gramGrp></form>
+                        <form type="lemma"><orth rendition="#uc">veille</orth><gramGrp><pos
+                                    expand="Substantif">s</pos><gen expand="Feminin"
+                                >f.</gen></gramGrp></form>
                         <sense n="1"><def>Privation du sommeil dans le temps qui est destiné à
                                 dormir, &amp; où l'on conserve la libre fonction de tous ses
                                 sens.</def><note>La <hi rendition="#i">veille</hi>consiste en ce que
@@ -18248,9 +18286,9 @@
                                         rendition="#i">veilles</hi>.</quote>
                             </cit>
                         </sense>
-                        <sense n="2"><form type="lemma"><orth rendition="#sc">veilles</orth></form><pc>,
-                                </pc><def> au plurier, se dit pour la grande application qu'on donne
-                                à l'étude, aux affaire &amp;c.</def>
+                        <sense n="2"><form type="lemma"><orth rendition="#sc"
+                                >veilles</orth></form><pc>, </pc><def> au plurier, se dit pour la
+                                grande application qu'on donne à l'étude, aux affaire &amp;c.</def>
                             <cit type="citation">
                                 <quote>Le bonheur de l'Etat est le fruit des veilles du
                                             Prince.<bibl><author
@@ -18284,15 +18322,15 @@
                                     chandelle qui peut durer toute la nuit.</gloss></note>
                         </sense>
                         <pb n="1007"/>
-                        <sense n="4"><form type="lemma"><orth rendition="#sc">veille</orth></form><def>est aussi
-                                le jour qui précede celui dont on parle.</def><note>La <hi
-                                    rendition="#i">veille</hi>d'une Fête, est le jour d'auparavant.
-                                Autrefois on passait la nuit en oraison pour se préparer à la
-                                célébration de la Fête. L'Office des Fêtes doubles commence des la
-                                    <hi rendition="#i">veille</hi>. On fait aussi l'Office de la <hi
-                                    rendition="#i">veille</hi>. Saint Jean, Saint Laurens ont des
-                                    <hi rendition="#i">veilles</hi>, &amp; des octaves. Depuis ce
-                                nom a passé aux autres jours remarquables.</note>
+                        <sense n="4"><form type="lemma"><orth rendition="#sc"
+                                >veille</orth></form><def>est aussi le jour qui précede celui dont
+                                on parle.</def><note>La <hi rendition="#i">veille</hi>d'une Fête,
+                                est le jour d'auparavant. Autrefois on passait la nuit en oraison
+                                pour se préparer à la célébration de la Fête. L'Office des Fêtes
+                                doubles commence des la <hi rendition="#i">veille</hi>. On fait
+                                aussi l'Office de la <hi rendition="#i">veille</hi>. Saint Jean,
+                                Saint Laurens ont des <hi rendition="#i">veilles</hi>, &amp; des
+                                octaves. Depuis ce nom a passé aux autres jours remarquables.</note>
                             <cit type="exemple">
                                 <quote> La <hi rendition="#i">veille</hi> de l'entrée du Roi. La <hi
                                         rendition="#i">veille</hi> de mon départ.</quote>
@@ -18328,17 +18366,18 @@
                             n'y avait plus rien à gagner. </sense>
                     </entry>
                     <entry xml:id="Veillée">
-                        <form type="lemma"><orth rendition="#uc">veillée</orth><gramGrp><pos expand="Substantif"
-                                    >s</pos><gen expand="Feminin">f.</gen></gramGrp></form>
+                        <form type="lemma"><orth rendition="#uc">veillée</orth><gramGrp><pos
+                                    expand="Substantif">s</pos><gen expand="Feminin"
+                                >f.</gen></gramGrp></form>
                         <sense n="1"><def>Temps de la nuit qu'on passe à veiller.</def>
                             <cit type="exemple">
                                 <quote>On doit à cette garde quatre <hi rendition="#i">veillées</hi>
                                     de ce malade.</quote>
                             </cit>
                         </sense>
-                        <sense n="2"><form type="lemma"><orth>veillée</orth></form><def>se dit aussi des
-                                assemblées qu'on fait pour se divertir, ou pour travailler le soir,
-                                ou bien avant dans la nuit.</def>
+                        <sense n="2"><form type="lemma"><orth>veillée</orth></form><def>se dit aussi
+                                des assemblées qu'on fait pour se divertir, ou pour travailler le
+                                soir, ou bien avant dans la nuit.</def>
                             <cit type="exemple">
                                 <quote>Ils sont allez à la <hi rendition="#i">veillée</hi> en un tel
                                     lieu pour jouer, pour danser.</quote>
@@ -18356,8 +18395,8 @@
                                 hiver, &amp; à travailler le soir.</note></sense>
                     </entry>
                     <entry xml:id="Veiller">
-                        <form type="lemma"><orth rendition="#uc">veiller</orth><gramGrp><pos expand="Verbe"
-                                    >v</pos></gramGrp></form>
+                        <form type="lemma"><orth rendition="#uc">veiller</orth><gramGrp><pos
+                                    expand="Verbe">v</pos></gramGrp></form>
                         <sense n="1"><def>S'abstenir, s'empêcher de dormir.</def>
                             <cit type="exemple">
                                 <quote>Le Seigneur dit à ses Apôtres, <hi rendition="#i"
@@ -18373,8 +18412,9 @@
                                     jusqu'à ce qu'ils soient mis en sépulture.</quote>
                             </cit>
                         </sense>
-                        <sense n="2"><form type="lemma"><orth rendition="#sc">veiller</orth></form><def>se dit
-                                aussi absolument, pour ne point dormir, ne pouvoir dormir.</def>
+                        <sense n="2"><form type="lemma"><orth rendition="#sc"
+                                >veiller</orth></form><def>se dit aussi absolument, pour ne point
+                                dormir, ne pouvoir dormir.</def>
                             <cit type="exemple">
                                 <quote>Soit que je dorme, soit que je <hi rendition="#i"
                                     >veille</hi>.</quote>
@@ -18387,9 +18427,9 @@
                                         >veiller</hi> pour faire un si grand Ouvrage.</quote>
                             </cit>
                         </sense>
-                        <sense n="3"><form type="lemma"><orth rendition="#sc">veiller</orth></form><def>signifie
-                                aussi, Passer la soirée, &amp; bien avant dans la nuit, pour se
-                                réjouir, ou pour travailler.</def>
+                        <sense n="3"><form type="lemma"><orth rendition="#sc"
+                                >veiller</orth></form><def>signifie aussi, Passer la soirée, &amp;
+                                bien avant dans la nuit, pour se réjouir, ou pour travailler.</def>
                             <cit type="exemple">
                                 <quote>On va ce soir <hi rendition="#i">veiller</hi> chez un tel, on
                                     y jouera, on y dansera. </quote>
@@ -18488,8 +18528,9 @@
                                 dormir : c'est un moyen qu'on a trouvé pour le
                             dresser.</usg></sense>
 
-                        <sense n="9"><form type="lemma"><orth rendition="#sc">veiller</orth></form><def>signifie
-                                aussi, Avoir soin de la conduite d'autrui.</def>
+                        <sense n="9"><form type="lemma"><orth rendition="#sc"
+                                >veiller</orth></form><def>signifie aussi, Avoir soin de la conduite
+                                d'autrui.</def>
                             <cit type="exemple">
                                 <quote>Un Pasteur doit <hi rendition="#i">veiller</hi> au salut de
                                     son troupeau. </quote>
@@ -18529,8 +18570,8 @@
 
                     </entry>
                     <entry xml:id="Veilleur">
-                        <form type="lemma"><orth rendition="#uc">veilleur</orth><gramGrp><pos expand="Substantif"
-                                    >s</pos><gen>m</gen></gramGrp></form>
+                        <form type="lemma"><orth rendition="#uc">veilleur</orth><gramGrp><pos
+                                    expand="Substantif">s</pos><gen>m</gen></gramGrp></form>
                         <sense n="1"><def>C'est ainsi qu'on appelle à Paris l'Ecclesiastique qui
                                 veille auprès d'un corps mort.</def>
                             <cit type="exemple">
@@ -18540,8 +18581,8 @@
                         </sense>
                     </entry>
                     <entry xml:id="Veilloir">
-                        <form type="lemma"><orth rendition="#uc">veilloir</orth><gramGrp><pos expand="Substantif"
-                                    >s</pos><gen>masc</gen></gramGrp></form>
+                        <form type="lemma"><orth rendition="#uc">veilloir</orth><gramGrp><pos
+                                    expand="Substantif">s</pos><gen>masc</gen></gramGrp></form>
                         <sense n="1"><usg type="terme" ana="#bourrelier #cordonnier">Terme de
                                 Bourrelier &amp; de Cordonnier.</usg><def> C'est une manière de
                                 petite table, ces sortes d'Artisans mettent la chandelle &amp; les
@@ -18556,8 +18597,8 @@
                         </sense>
                     </entry>
                     <entry xml:id="Veillote">
-                        <form type="lemma"><orth rendition="#uc">veillote</orth><gramGrp><pos expand="Substantif"
-                                    >s</pos><gen>f</gen></gramGrp></form>
+                        <form type="lemma"><orth rendition="#uc">veillote</orth><gramGrp><pos
+                                    expand="Substantif">s</pos><gen>f</gen></gramGrp></form>
                         <sense n="1"><usg type="terme" ana="#agriculture">Terme
                                 d'Agriculture.</usg><def> C'est un petit tas de foin qu'on ramasse
                                 avec la fourche, quand il est fané, &amp; qu'on laisse encore
@@ -18570,8 +18611,8 @@
                         </sense>
                     </entry>
                     <entry xml:id="Veine">
-                        <form type="lemma"><orth rendition="#uc">veine</orth><gramGrp><pos expand="Substantif"
-                                    >s</pos><gen>fem.</gen></gramGrp></form>
+                        <form type="lemma"><orth rendition="#uc">veine</orth><gramGrp><pos
+                                    expand="Substantif">s</pos><gen>fem.</gen></gramGrp></form>
                         <sense n="1"><usg type="terme" ana="#anatomie">Terme d'Anatomie.</usg><def>
                                 C'est un nom qu'on donne a des vaisseaux qui reçoivent de toutes les
                                 parties du corps le sang que les artères y ont porté du coeur, &amp;
@@ -19135,7 +19176,7 @@
                     <entry xml:id="Vergeure">
                         <form>
                             <form type="lemma">
-                            <orth rendition="#uc">vergeure</orth></form>
+                                <orth rendition="#uc">vergeure</orth></form>
                             <gramGrp>
                                 <pos expand="Substantif">s.</pos>
                                 <gen expand="Feminin">f.</gen>
