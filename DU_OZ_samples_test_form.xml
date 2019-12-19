@@ -2382,9 +2382,9 @@
                         <education/>
                         <affiliation/>
                         <socecStatus/>
-                        <note>mathématicien français.</note>
+                        <note>mathématicien français. lexicographe</note>
                         <event>
-                            <desc><date/></desc>
+                           <desc>Dictionnaire mathématique ou idée générale des mathématiques. Amsterdam : Huguetan,  <date>1691</date><idno type="URI">https://www.dicopathe.com/livre/dictionaire-mathematique-ou-idee-generale-des-mathematiques/</idno></desc>
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000108562428</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jacques_Ozanam</idno>
@@ -7212,6 +7212,7 @@
         </encodingDesc>
 
         <profileDesc>
+          
 
             <creation>
                 <!-- <dc:date>, obligatoire, unique

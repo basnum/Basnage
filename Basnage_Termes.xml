@@ -2381,9 +2381,9 @@
                         <education/>
                         <affiliation/>
                         <socecStatus/>
-                        <note>mathématicien français.</note>
+                        <note>mathématicien français. lexicographe</note>
                         <event>
-                            <desc><date/></desc>
+                           <desc>Dictionnaire mathématique ou idée générale des mathématiques. Amsterdam : Huguetan,  <date>1691</date><idno type="URI">https://www.dicopathe.com/livre/dictionaire-mathematique-ou-idee-generale-des-mathematiques/</idno></desc>
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000108562428</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jacques_Ozanam</idno>
@@ -3000,11 +3000,11 @@
                         <sex>Masculin</sex>
                         <nationality>Anglaise</nationality>
                         <faith>Protestant</faith>
-                        <education/>
+                        <education>Trinity College, Cambridge</education>
                         <occupation/>
                         <affiliation/>
                         <socecStatus/>
-                        <note>English antiquary</note>
+                        <note>English antiquary, historien et pholologue</note>
                         <event>
                             <desc><date/></desc>
                         </event>
@@ -5894,6 +5894,9 @@
                         <idno type="ISNI">ISSN">http://www.isni.org/isni/0000000072448067</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jacques_de_Solleysel</idno>
                     </person>
+                   
+                   
+                   
                     <person xml:id="Spon_ISN0000000121320124">
                         <persName>
                             <forename>Jacob</forename>
@@ -7211,6 +7214,7 @@
         </encodingDesc>
 
         <profileDesc>
+          
 
             <creation>
                 <!-- <dc:date>, obligatoire, unique
@@ -7845,236 +7849,218 @@
                         </entry>
 
                         <entry xml:id="Abatre">
-                            <form type="lemma"><orth rendition="#uc">ABATRE.</orth>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">ABATRE.</orth></form>
                                 <gramGrp>
                                     <pos expand="Verbe">verb.</pos><subc expand="Actif">act.</subc>
                                 </gramGrp></form>
-
+                            
+                            
                             <sense n="1">
-                                <def><seg>Renverser</seg>, <seg>demolir</seg>, <seg
-                                        type="collocation">faire tomber</seg>, <seg
-                                        type="collocation">coucher par terre</seg>.</def>
-                                <cit type="exemple">
-                                    <quote><hi rendition="#i">Abbatre</hi> une maison pour la
-                                        rebâtir.</quote>
-                                </cit>
-                                <cit type="exemple">
-                                    <quote ana="#renverser #faire_tomber #coucher_par_terre"> Ce
-                                        Luiteur a <hi rend="italic">abatu</hi> son homme sous
-                                        lui.</quote>
-                                </cit>
-                                <cit type="exemple">
-                                    <quote> Ce Chasseur <hi rend="italic">abat</hi> bien du
-                                        gibier.</quote>
-                                </cit>
-                                <cit type="exemple">
-                                    <quote> On <hi rend="italic">abat</hi> les noix avec la
-                                        gaule.</quote>
-                                </cit>
-                                <cit type="exemple">
-                                    <quote> On dit qu&apos;il <hi rend="italic">abatit</hi> avec sa
-                                        baguette la tête des pavots. </quote>
-                                </cit>
-                                <cit type="citation">
-                                    <quote><bibl><author ref="#Abl_ISN0000000107866286"
-                                                rendition="#sc">abl.</author></bibl> Les
-                                        Moissonneurs ont <hi rend="italic">abatu</hi> trois arpens
-                                        de blé aujourd&apos;huy.</quote>
-                                </cit>
-                                <cit type="exemple">
-                                    <quote> Les Bouchers disent <seg type="collocation"><hi
-                                                rend="italic">abatre</hi> le cuir d&apos;un
-                                            boeuf</seg>, pour l&apos;écorcher.</quote>
-                                </cit>
-                                <cit type="exemple">
-                                    <quote>Les ennemis se retirant ont <hi rend="italic">abatu</hi>
-                                        le château, &amp; les fortifications de la place.</quote>
-                                </cit>
-                                <cit type="exemple">
-                                    <quote>Il lui <hi rend="italic">abatit</hi> l&apos;épaule
-                                        d&apos;un coup de hache.</quote>
-                                </cit>
-                                <cit type="citation">
-                                    <quote>
-                                        <bibl><author rendition="#sc" ref="#Abl_ISN0000000107866286"
+                                <sense n="1.1">
+                                    <def><seg>Renverser</seg>, <seg>demolir</seg>, <seg type="collocation">faire
+                                        tomber</seg>, <seg type="collocation">coucher par terre</seg>.</def>
+                                    <cit type="exemple">
+                                        <quote><hi rendition="#i">Abbatre</hi> une maison pour la rebâtir.</quote>
+                                    </cit>
+                                    <cit type="exemple">
+                                        <quote ana="#renverser #faire_tomber #coucher_par_terre"> Ce Luiteur a <hi
+                                            rend="italic">abatu</hi> son homme sous lui.</quote>
+                                    </cit>
+                                    <cit type="exemple">
+                                        <quote> Ce Chasseur <hi rend="italic">abat</hi> bien du gibier.</quote>
+                                    </cit>
+                                    <cit type="exemple">
+                                        <quote> On <hi rend="italic">abat</hi> les noix avec la gaule.</quote>
+                                    </cit>
+                                    <cit type="exemple">
+                                        <quote> On dit qu&apos;il <hi rend="italic">abatit</hi> avec sa baguette la
+                                            tête des pavots. </quote>
+                                    </cit>
+                                    <cit type="citation">
+                                        <quote><bibl><author ref="#Abl_ISN0000000107866286" rendition="#sc"
+                                            >abl.</author></bibl> Les Moissonneurs ont <hi rend="italic"
+                                                >abatu</hi> trois arpens de blé aujourd&apos;huy.</quote>
+                                    </cit>
+                                    <cit type="exemple">
+                                        <quote> Les Bouchers disent <seg type="collocation"><hi rend="italic"
+                                            >abatre</hi> le cuir d&apos;un boeuf</seg>, pour
+                                            l&apos;écorcher.</quote>
+                                    </cit>
+                                    <cit type="exemple">
+                                        <quote>Les ennemis se retirant ont <hi rend="italic">abatu</hi> le château,
+                                            &amp; les fortifications de la place.</quote>
+                                    </cit>
+                                    <cit type="exemple">
+                                        <quote>Il lui <hi rend="italic">abatit</hi> l&apos;épaule d&apos;un coup de
+                                            hache.</quote>
+                                    </cit>
+                                    <cit type="citation">
+                                        <quote>
+                                            <bibl><author rendition="#sc" ref="#Abl_ISN0000000107866286"
                                                 >abl.</author></bibl>
-                                        <name>Saint Pierre</name> abatit l&apos;oreille de
+                                            <name>Saint Pierre</name> abatit l&apos;oreille de
                                             <name>Malchus</name>.</quote>
-                                </cit>
-                                <cit type="exemple">
-                                    <quote>Un habile Oculiste a <hi rend="italic">abatu</hi> la
-                                        cataracte qui me couvroit l&apos;oeil.</quote>
-                                </cit>
+                                    </cit>
+                                    <cit type="exemple">
+                                        <quote>Un habile Oculiste a <hi rend="italic">abatu</hi> la cataracte qui me
+                                            couvroit l&apos;oeil.</quote>
+                                    </cit>
+                                </sense>
+                                <sense n="1.2">
+                                    <def>Il signifie quelquefois, affoiblir, debiliter.</def>
+                                    <cit type="exemple">
+                                        <quote>Son corps est attenué, &amp; <hi rend="italic">abatu</hi> par la
+                                            vieillesse.</quote>
+                                    </cit>
+                                    <cit type="citation">
+                                        <quote><bibl><title rendition="#sc" ref="#Oeuvres_melees">oe. m.</title></bibl>
+                                            On dit aussi que <seg type="collocation">le caffé <hi rend="italic"
+                                                >abat</hi> les fumées du vin, les vapeurs</seg> ;</quote>
+                                    </cit>
+                                    <def>pour dire, les rabaisse, les dissipe.</def>
+                                    <cit type="exemple">
+                                        <quote> On dit aussi que <seg type="collocation">la chaleur, le vent &amp; la
+                                            poussiere s&apos;<hi rend="italic">abatent</hi></seg>,</quote>
+                                    </cit>
+                                    <def>pour dire, cessent, tombent, diminuent.</def>
+                                    <cit type="exemple">
+                                        <quote> On dit <seg type="collocation">qu&apos;un cheval est sujet à s&apos;<hi
+                                            rend="italic">abatre</hi></seg>,</quote>
+                                    </cit>
+                                    <def>pour dire, à broncher, à tomber.</def>
+                                    <cit type="exemple">
+                                        <quote> On dit au jeu du Trictrac, <seg type="collocation"><hi rend="italic"
+                                            >Abatre</hi> du bois</seg>,</quote>
+                                    </cit>
+                                    <def>pour dire, <hi rend="italic">abatre</hi> des Dames afin de caser.</def>
+                                    <etym><bibl><author ref="#Nicot_ISN000000011856542X">Nicod</author></bibl> derive
+                                        ce mot de <hi rend="italic">à bas</hi>, adverbe local composé de <hi
+                                            rend="italic">à</hi> &amp; de <hi rend="italic">bas</hi>. </etym>
+                                </sense>
                             </sense>
-
-
-                            <sense n="1b">
-                                <def>Il signifie quelquefois, affoiblir, debiliter.</def>
+                            
+                            
+                            
+                            
+                            <sense n="2"><usg type="terme" ana="#marine"><oRef corresp="#abatre"/>ABATRE en
+                                termes de Marine,</usg>
+                                <def>signifie,Decheoir, deriver, s&apos;écarter de la vraye route: ce qui se fait
+                                    par la force des courants,ou des marées, ou par les erreurs du pointage, ou du
+                                    mauvais gouvernement du timonier</def>. <cit type="exemple">
+                                        <quote>On dit aussi, qu&apos;<seg type="collocation">un Pilote <hi
+                                            rend="italic"> abat</hi> son vaisseau d&apos;un quart de Rumb ou
+                                            d&apos;un autre aire de vent</seg>,</quote>
+                                    </cit>
+                                <def>quand il vire ou change sa course, &amp; gouverne sur une autre Rumb de celui
+                                    de sa route.</def>
                                 <cit type="exemple">
-                                    <quote>Son corps est attenué, &amp; <hi rend="italic">abatu</hi>
-                                        par la vieillesse.</quote>
+                                    <quote>On dit, <seg type="collocation"><hi rend="italic">Abatre</hi> un
+                                        navire</seg></quote>
                                 </cit>
-                                <cit type="citation">
-                                    <quote><bibl><title rendition="#sc" ref="#Oeuvres_melees">oe.
-                                                m.</title></bibl> On dit aussi que <seg
-                                            type="collocation">le caffé <hi rend="italic">abat</hi>
-                                            les fumées du vin, les vapeurs</seg> ;</quote>
-                                </cit>
-                                <def>pour dire, les rabaisse, les dissipe.</def>
+                                <def>pour dire, le faire obeïr au vent lors qu&apos;il est sur les voiles, ou
+                                    qu&apos;il presente trop l&apos;avant au lieu d&apos;où vient le vent.</def>
                                 <cit type="exemple">
-                                    <quote> On dit aussi que <seg type="collocation">la chaleur, le
-                                            vent &amp; la poussiere s&apos;<hi rend="italic"
-                                                >abatent</hi></seg>,</quote>
+                                    <quote>On dit, <seg type="collocation">Le navire <hi rend="italic"
+                                        >abat</hi></seg>,</quote>
                                 </cit>
-                                <def>pour dire, cessent, tombent, diminuent.</def>
+                                <def>lors que l&apos;ancre a quitté le fond, &amp; que le vaisseau obeït au vent
+                                    pour arriver.</def>
                                 <cit type="exemple">
-                                    <quote> On dit <seg type="collocation">qu&apos;un cheval est
-                                            sujet à s&apos;<hi rend="italic"
-                                        >abatre</hi></seg>,</quote>
+                                    <quote><seg type="collocation"><hi rend="italic">Aller à la derive</hi></seg>
+                                        s&apos;apelle aussi <hi rend="italic">abatre</hi>:</quote>
                                 </cit>
-                                <def>pour dire, à broncher, à tomber.</def>
+                                <def>c&apos;est quand on va de côté au gré du vent &amp; de la marée, au lieu
+                                    d&apos;aller en droiture.</def>
                                 <cit type="exemple">
-                                    <quote> On dit au jeu du Trictrac, <seg type="collocation"><hi
-                                                rend="italic">Abatre</hi> du bois</seg>,</quote>
+                                    <quote>On dit aussi, <seg type="collocation"><hi rend="italic">Abatre</hi> un
+                                        vaisseau sur le côté</seg>,</quote>
                                 </cit>
-                                <def>pour dire, <hi rend="italic">abatre</hi> des Dames afin de
-                                    caser.</def>
-                                <etym><bibl><author ref="#Nicot_ISN000000011856542X"
-                                        >Nicod</author></bibl> derive ce mot de <hi rend="italic">à
-                                        bas</hi>, adverbe local composé de <hi rend="italic">à</hi>
-                                    &amp; de <hi rend="italic">bas</hi>. </etym>
-                            </sense>
-
-                            <sense n="2"><usg type="terme" ana="#marine"><oRef corresp="#abatre"
-                                    />ABATRE en termes de Marine,</usg>
-                                <def>signifie,Decheoir, deriver, s&apos;écarter de la vraye route:
-                                    ce qui se fait par la force des courants,ou des marées, ou par
-                                    les erreurs du pointage, ou du mauvais gouvernement du
-                                    timonier</def>. <cit type="exemple">
-                                    <quote>On dit aussi, qu&apos;<seg type="collocation">un Pilote
-                                                <hi rend="italic"> abat</hi> son vaisseau d&apos;un
-                                            quart de Rumb ou d&apos;un autre aire de
-                                        vent</seg>,</quote>
-                                </cit>
-                                <def>quand il vire ou change sa course, &amp; gouverne sur une autre
-                                    Rumb de celui de sa route.</def>
-                                <cit type="exemple">
-                                    <quote>On dit, <seg type="collocation"><hi rend="italic"
-                                                >Abatre</hi> un navire</seg></quote>
-                                </cit>
-                                <def>pour dire, le faire obeïr au vent lors qu&apos;il est sur les
-                                    voiles, ou qu&apos;il presente trop l&apos;avant au lieu
-                                    d&apos;où vient le vent.</def>
-                                <cit type="exemple">
-                                    <quote>On dit, <seg type="collocation">Le navire <hi
-                                                rend="italic">abat</hi></seg>,</quote>
-                                </cit>
-                                <def>lors que l&apos;ancre a quitté le fond, &amp; que le vaisseau
-                                    obeït au vent pour arriver.</def>
-                                <cit type="exemple">
-                                    <quote><seg type="collocation"><hi rend="italic">Aller à la
-                                                derive</hi></seg> s&apos;apelle aussi <hi
-                                            rend="italic">abatre</hi>:</quote>
-                                </cit>
-                                <def>c&apos;est quand on va de côté au gré du vent &amp; de la
-                                    marée, au lieu d&apos;aller en droiture.</def>
-                                <cit type="exemple">
-                                    <quote>On dit aussi, <seg type="collocation"><hi rend="italic"
-                                                >Abatre</hi> un vaisseau sur le côté</seg>,</quote>
-                                </cit>
-                                <def>lors qu&apos;on veut travailler à la carene, ou en quelque
-                                    endroit des oeuvres vives.</def></sense>
-
+                                <def>lors qu&apos;on veut travailler à la carene, ou en quelque endroit des
+                                    oeuvres vives.</def></sense>
+                            
                             <sense n="3" ana="#fauconnerie"><oRef corresp="#abatre"/>
                                 <usg type="terme" ana="#fauconnerie">En termes de Fauconnerie</usg>
                                 <cit type="exemple">
-                                    <quote>on dit, <seg type="collocation"><hi rend="italic"
-                                                >Abatre</hi> l&apos;oiseau</seg>,</quote>
+                                    <quote>on dit, <seg type="collocation"><hi rend="italic">Abatre</hi>
+                                        l&apos;oiseau</seg>,</quote>
                                 </cit>
-                                <def>pour dire, le tenir &amp; serrer entre deux mains pour le
-                                    garnir de gets, le poivrer ou lui donner quelque medicament par
-                                    force.</def>
+                                <def>pour dire, le tenir &amp; serrer entre deux mains pour le garnir de gets, le
+                                    poivrer ou lui donner quelque medicament par force.</def>
                                 <cit type="exemple">
-                                    <quote>On dit encore, que <seg type="collocation">l&apos;oiseau
-                                            de proye s&apos;<hi rend="italic"
-                                        >abat</hi></seg>,</quote>
+                                    <quote>On dit encore, que <seg type="collocation">l&apos;oiseau de proye
+                                        s&apos;<hi rend="italic">abat</hi></seg>,</quote>
                                 </cit>
                                 <def>lorsqu&apos;il s&apos;abaisse vers terre.</def>
                             </sense>
-
+                            
                             <sense n="4">
                                 <sense n="4a">
-                                    <oRef corresp="#abatre"/><form type="lemma"><orth
-                                            rendition="#sc"/>ABATRE,</form>
+                                    <oRef corresp="#abatre"/><form type="lemma"><orth rendition="#sc"
+                                    />ABATRE,</form>
                                     <usg>se dit figurément en Morale,</usg>
                                     <def> pour vaincre, dompter, renverser.</def>
                                     <cit type="exemple">
-                                        <quote><seg type="collocation"><hi rend="italic">Abatre</hi>
-                                                l&apos;orgueil de quelqu&apos;un.</seg></quote>
+                                        <quote><seg type="collocation"><hi rend="italic">Abatre</hi> l&apos;orgueil
+                                            de quelqu&apos;un.</seg></quote>
                                     </cit>
                                     <cit type="exemple">
-                                        <quote> Quand la mort <hi rend="italic">abat</hi> la plus
-                                            florisssante jeunesse, alors on reconnoit la vanité des
-                                            attraits du monde.</quote>
+                                        <quote> Quand la mort <hi rend="italic">abat</hi> la plus florisssante
+                                            jeunesse, alors on reconnoit la vanité des attraits du monde.</quote>
                                     </cit></sense>
                                 <sense n="4b">
-                                    <def>Il signifie aussi accabler,&amp; se dit des troubles &amp;
-                                        des afflictions de l&apos;ame &amp; du corps.</def>
+                                    <def>Il signifie aussi accabler,&amp; se dit des troubles &amp; des afflictions
+                                        de l&apos;ame &amp; du corps.</def>
                                     <cit type="exemple">
-                                        <quote> Ce changement de fortune lui a <hi rend="italic"
-                                                >abatu</hi> l&apos;esprit &amp; le courage.</quote>
+                                        <quote> Ce changement de fortune lui a <hi rend="italic">abatu</hi>
+                                            l&apos;esprit &amp; le courage.</quote>
                                     </cit>
                                     <cit type="exemple">
-                                        <quote> Il s&apos;est laissé vaincre &amp; <hi rend="italic"
-                                                >abatre</hi> à la douleur.</quote>
+                                        <quote> Il s&apos;est laissé vaincre &amp; <hi rend="italic">abatre</hi> à
+                                            la douleur.</quote>
                                     </cit>
                                 </sense>
                                 <sense n="4c">
-                                    <def>Quand il se met avec le pronom personnel il signifie,Perdre
-                                        courage.</def>
+                                    <def>Quand il se met avec le pronom personnel il signifie,Perdre courage.</def>
                                     <cit type="exemple">
                                         <quote>Il ne s&apos;<hi rend="italic">abat</hi>point dans
                                             l&apos;adversité.</quote>
                                     </cit>
                                     <cit type="exemple">
                                         <quote>
-                                            <seg type="collocation">Se laisser <hi rend="italic"
-                                                  >abatre</hi></seg> à la moindre
-                                            affliction.</quote>
+                                            <seg type="collocation">Se laisser <hi rend="italic">abatre</hi></seg> à
+                                            la moindre affliction.</quote>
                                     </cit>
                                 </sense>
                             </sense>
-
-
-
+                            
+                            
+                            
                             <sense n="5"><oRef corresp="#abatre"/><usg>On dit dans la conversation, </usg>
                                 <cit type="exemple">
                                     <quote><seg type="collocation"><hi rend="italic">Abatre</hi> le
-                                            caquet</seg>,</quote>
+                                        caquet</seg>,</quote>
                                 </cit>
-                                <def>pour dire, reprimer la fierté &amp; la pressomption de
-                                    quelqu&apos;un, le faire taire.</def>
+                                <def>pour dire, reprimer la fierté &amp; la pressomption de quelqu&apos;un, le
+                                    faire taire.</def>
                             </sense>
-
+                            
                             <sense n="6"><oRef corresp="#abatre"/><usg>On dit proverbialement,</usg>
                                 <cit type="exemple">
-                                    <quote><seg type="proverbe"> Petite pluye <hi rend="italic"
-                                                >abat</hi> grand vent,</seg>
+                                    <quote><seg type="proverbe"> Petite pluye <hi rend="italic">abat</hi> grand
+                                        vent,</seg>
                                     </quote>
                                 </cit>
                                 <def>pour exprimer que quelques paroles flateuses apaisent un grand
                                     emportement.</def>
                                 <cit type="exemple">
-                                    <quote>On dit d&apos;un homme qui fait de la besongne, &amp;
-                                        d'un Juge qui expedie beaucoup de procés, qu&apos;ils <seg
-                                            type="collocation"><hi rend="italic">abatent</hi> bien
-                                            du bois.</seg></quote>
+                                    <quote>On dit d&apos;un homme qui fait de la besongne, &amp; d'un Juge qui
+                                        expedie beaucoup de procés, qu&apos;ils <seg type="collocation"><hi
+                                            rend="italic">abatent</hi> bien du bois.</seg></quote>
                                 </cit>
                             </sense>
-
-                            <sense n="7"><form type="lemma"><orth extent="full">ABATU</orth><orth
-                                        extent="part">UË</orth><gramGrp><pos>part pass et
-                                        adj</pos></gramGrp></form>
+                            
+                            <sense n="7"><form type="lemma"><orth extent="full">ABATU</orth><orth extent="part"
+                                >UË</orth><gramGrp><pos>part pass et adj</pos></gramGrp></form>
                                 <cit type="exemple">
                                     <quote>Maison <hi rend="italics">abatuë.</hi></quote>
                                 </cit>
@@ -8082,32 +8068,27 @@
                                     <quote>Bois <hi rend="italics">abatus</hi>.</quote>
                                 </cit>
                                 <sense n="7a">
-                                    <usg>Figurement</usg> il signifie, <def>Accablé, vaincu,
-                                        terrassé</def>
+                                    <usg>Figurement</usg> il signifie, <def>Accablé, vaincu, terrassé</def>
                                     <cit type="citation">
-                                        <quote><name>Jupiter</name> ne puvait rien voir de plus beau
-                                            que <name>Caron</name>, se soutenant dans un party <hi
-                                                rend="italics"> abatu, </hi>&amp; demeurant ferme
-                                            parmi les ruines de la Republique <bibl ana="#Bou"> BOU
-                                            </bibl>
+                                        <quote><name>Jupiter</name> ne puvait rien voir de plus beau que
+                                            <name>Caron</name>, se soutenant dans un party <hi rend="italics">
+                                                abatu, </hi>&amp; demeurant ferme parmi les ruines de la Republique
+                                            <bibl ana="#Bou"> BOU </bibl>
                                         </quote>
                                     </cit>
                                     <cit type="citation">
-                                        <quote>L'esprit <hi rend="italics">abatu </hi> par les soins
-                                            rongeans de la pauvrété, n'est guere capable de
-                                            mouvemens nobles &amp; élever <bibl ana="#Oe_M">OE.
-                                                M.</bibl></quote>
+                                        <quote>L'esprit <hi rend="italics">abatu </hi> par les soins rongeans de la
+                                            pauvrété, n'est guere capable de mouvemens nobles &amp; élever <bibl
+                                                ana="#Oe_M">OE. M.</bibl></quote>
                                     </cit>
                                     <cit type="citation">
-                                        <quote>On voit l'orgueil à ses pieds <hi rend="italics"
-                                                >abatu.</hi><bibl ana="#Gom">GOM</bibl></quote>
+                                        <quote>On voit l'orgueil à ses pieds <hi rend="italics">abatu.</hi><bibl
+                                            ana="#Gom">GOM</bibl></quote>
                                     </cit>
                                 </sense>
-                                <sense n="7b">Il signifie encore, <def>Etre languissant &amp; sans
-                                        courage</def>
+                                <sense n="7b">Il signifie encore, <def>Etre languissant &amp; sans courage</def>
                                     <cit type="exemple">
-                                        <quote>Je me sens tout <hi rend="italics"
-                                            >abatu.</hi></quote>
+                                        <quote>Je me sens tout <hi rend="italics">abatu.</hi></quote>
                                     </cit></sense>
                             </sense>
                         </entry>

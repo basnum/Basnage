@@ -8,7 +8,7 @@ namespace teix = "http://www.tei-c.org/ns/Examples"
 namespace xi = "http://www.w3.org/2001/XInclude"
 namespace xlink = "http://www.w3.org/1999/xlink"
 
-# Schema generated from ODD source 2019-12-02T19:38:02Z. .
+# Schema generated from ODD source 2019-12-19T18:14:03Z. .
 # TEI Edition: Version 3.6.0. Last updated on
 #	16th July 2019, revision daa3cc0b9
 # TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.6.0/
@@ -1255,7 +1255,7 @@ tei_model.egLike_sequence = empty
 tei_model.egLike_sequenceOptional = empty
 tei_model.egLike_sequenceOptionalRepeatable = empty
 tei_model.egLike_sequenceRepeatable = notAllowed
-tei_model.graphicLike = tei_graphic
+tei_model.graphicLike = tei_graphic | tei_formula
 tei_model.offsetLike = notAllowed
 tei_model.offsetLike_alternation = notAllowed
 tei_model.offsetLike_sequence = empty
@@ -1363,6 +1363,7 @@ tei_model.listLike =
   | tei_listPlace
   | tei_listRelation
   | tei_listObject
+  | tei_table
 tei_model.listLike_alternation =
   tei_list
   | tei_listOrg
@@ -1371,6 +1372,7 @@ tei_model.listLike_alternation =
   | tei_listPlace
   | tei_listRelation
   | tei_listObject
+  | tei_table
 tei_model.listLike_sequence =
   tei_list,
   tei_listOrg,
@@ -1378,7 +1380,8 @@ tei_model.listLike_sequence =
   tei_listPerson,
   tei_listPlace,
   tei_listRelation,
-  tei_listObject
+  tei_listObject,
+  tei_table
 tei_model.listLike_sequenceOptional =
   tei_list?,
   tei_listOrg?,
@@ -1386,7 +1389,8 @@ tei_model.listLike_sequenceOptional =
   tei_listPerson?,
   tei_listPlace?,
   tei_listRelation?,
-  tei_listObject?
+  tei_listObject?,
+  tei_table?
 tei_model.listLike_sequenceOptionalRepeatable =
   tei_list*,
   tei_listOrg*,
@@ -1394,7 +1398,8 @@ tei_model.listLike_sequenceOptionalRepeatable =
   tei_listPerson*,
   tei_listPlace*,
   tei_listRelation*,
-  tei_listObject*
+  tei_listObject*,
+  tei_table*
 tei_model.listLike_sequenceRepeatable =
   tei_list+,
   tei_listOrg+,
@@ -1402,7 +1407,8 @@ tei_model.listLike_sequenceRepeatable =
   tei_listPerson+,
   tei_listPlace+,
   tei_listRelation+,
-  tei_listObject+
+  tei_listObject+,
+  tei_table+
 tei_model.noteLike = tei_note
 tei_model.lLike = tei_l
 tei_model.lLike_alternation = tei_l
@@ -1625,6 +1631,7 @@ tei_model.global =
   | tei_model.milestoneLike
   | tei_model.noteLike
   | tei_model.global.edit
+  | tei_figure
 tei_model.biblPart =
   tei_model.respLike
   | tei_model.imprintPart
@@ -4268,16 +4275,18 @@ tei_att.lexicographic.attribute.opt =
   
   ## (facultatif) indique si l'élément est facultatif ou pas.
   [ a:defaultValue = "false" ] attribute opt { xsd:boolean }?
-tei_model.morphLike = tei_gram | tei_gen | tei_number | tei_tns
+tei_model.morphLike =
+  tei_gram | tei_gen | tei_number | tei_per | tei_tns
 tei_model.morphLike_alternation =
-  tei_gram | tei_gen | tei_number | tei_tns
-tei_model.morphLike_sequence = tei_gram, tei_gen, tei_number, tei_tns
+  tei_gram | tei_gen | tei_number | tei_per | tei_tns
+tei_model.morphLike_sequence =
+  tei_gram, tei_gen, tei_number, tei_per, tei_tns
 tei_model.morphLike_sequenceOptional =
-  tei_gram?, tei_gen?, tei_number?, tei_tns?
+  tei_gram?, tei_gen?, tei_number?, tei_per?, tei_tns?
 tei_model.morphLike_sequenceOptionalRepeatable =
-  tei_gram*, tei_gen*, tei_number*, tei_tns*
+  tei_gram*, tei_gen*, tei_number*, tei_per*, tei_tns*
 tei_model.morphLike_sequenceRepeatable =
-  tei_gram+, tei_gen+, tei_number+, tei_tns+
+  tei_gram+, tei_gen+, tei_number+, tei_per+, tei_tns+
 tei_model.lexicalRefinement =
   tei_gramGrp | tei_pos | tei_subc | tei_usg | tei_lbl
 tei_model.lexicalRefinement_alternation =
@@ -4481,6 +4490,15 @@ tei_number =
       ##
       "Pluriel"
     }?,
+    empty
+  }
+tei_per =
+  
+  ## (personne) contient des indications sur la personne grammaticale (1re, 2e, 3e, etc.) liée à une forme fléchie donnée dans un dictionnaire. [9.3.1. Information on Written and Spoken Forms]
+  element per {
+    tei_macro.paraContent,
+    tei_att.global.attributes,
+    tei_att.lexicographic.attributes,
     empty
   }
 tei_tns =
@@ -5857,5 +5875,98 @@ tei_join =
         "branches"
     }?,
     empty
+  }
+tei_att.tableDecoration.attributes =
+  tei_att.tableDecoration.attribute.role,
+  tei_att.tableDecoration.attribute.rows,
+  tei_att.tableDecoration.attribute.cols
+tei_att.tableDecoration.attribute.role =
+  
+  ## (rôle) indique le type des informations contenues dans cette cellule ou dans chaque cellule de cette ligne.
+  ## Les valeurs suggérées comprennent: 1] label; 2] data
+  [ a:defaultValue = "data" ]
+  attribute role {
+    
+    ## uniquement des informations relatives au codage ou à la description
+    "label"
+    | 
+      ## valeurs de données
+      "data"
+    | xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
+  }?
+tei_att.tableDecoration.attribute.rows =
+  
+  ## (lignes) indique le nombre de lignes occupées par la cellule ou la ligne en question.
+  [ a:defaultValue = "1" ] attribute rows { xsd:nonNegativeInteger }?
+tei_att.tableDecoration.attribute.cols =
+  
+  ## (colonnes) indique le nombre de colonnes occupées par cette cellule ou cette ligne.
+  [ a:defaultValue = "1" ] attribute cols { xsd:nonNegativeInteger }?
+tei_table =
+  
+  ## (tableau) contient du texte affiché sous forme de tableau, en rangées et colonnes. [14.1.1. TEI Tables]
+  element table {
+    ((tei_model.headLike | tei_model.global)*,
+     ((tei_row, tei_model.global*)+
+      | (tei_model.graphicLike, tei_model.global*)+),
+     (tei_model.divBottom, tei_model.global*)*),
+    tei_att.global.attributes,
+    tei_att.typed.attributes,
+    
+    ## indique le nombre de rangées dans le tableau.
+    attribute rows { xsd:nonNegativeInteger }?,
+    
+    ## (colonnes) indique le nombre de colonnes dans chaque rangée du tableau.
+    attribute cols { xsd:nonNegativeInteger }?,
+    empty
+  }
+tei_row =
+  
+  ## (rangée) contient une rangée d'un tableau. [14.1.1. TEI Tables]
+  element row {
+    tei_cell+,
+    tei_att.global.attributes,
+    tei_att.tableDecoration.attributes,
+    empty
+  }
+tei_cell =
+  
+  ## (cellule) contient une cellule d'un tableau. [14.1.1. TEI Tables]
+  element cell {
+    tei_macro.specialPara,
+    tei_att.global.attributes,
+    tei_att.tableDecoration.attributes,
+    empty
+  }
+tei_formula =
+  
+  ## (formule) contient une formule mathématique ou tout autre type de formule [14.2. Formulæ and Mathematical Expressions]
+  element formula {
+    (text | tei_model.graphicLike | tei_model.hiLike)*,
+    tei_att.global.attributes,
+    tei_att.notated.attributes,
+    empty
+  }
+tei_figure =
+  
+  ## (figure) regroupe des éléments représentant ou contenant une information graphique comme une illustration ou une figure. [14.4. Specific Elements for Graphic Images]
+  element figure {
+    (tei_model.headLike
+     | tei_model.common
+     | tei_figDesc
+     | tei_model.graphicLike
+     | tei_model.global
+     | tei_model.divBottom)*,
+    tei_att.global.attributes,
+    tei_att.placement.attributes,
+    tei_att.typed.attributes,
+    tei_att.written.attributes,
+    empty
+  }
+tei_figDesc =
+  
+  ## (description d'une figure) contient une brève description de l'apparence ou du contenu d'une représentation graphique, pour documenter une image sans avoir à l'afficher [14.4. Specific Elements for Graphic Images]
+  element figDesc {
+    tei_macro.limitedContent, tei_att.global.attributes, empty
   }
 start = tei_TEI

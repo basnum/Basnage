@@ -2383,9 +2383,9 @@
                         <education/>
                         <affiliation/>
                         <socecStatus/>
-                        <note>mathématicien français.</note>
+                        <note>mathématicien français. lexicographe</note>
                         <event>
-                            <desc><date/></desc>
+                           <desc>Dictionnaire mathématique ou idée générale des mathématiques. Amsterdam : Huguetan,  <date>1691</date><idno type="URI">https://www.dicopathe.com/livre/dictionaire-mathematique-ou-idee-generale-des-mathematiques/</idno></desc>
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000108562428</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jacques_Ozanam</idno>
@@ -3002,11 +3002,11 @@
                         <sex>Masculin</sex>
                         <nationality>Anglaise</nationality>
                         <faith>Protestant</faith>
-                        <education/>
+                        <education>Trinity College, Cambridge</education>
                         <occupation/>
                         <affiliation/>
                         <socecStatus/>
-                        <note>English antiquary</note>
+                        <note>English antiquary, historien et pholologue</note>
                         <event>
                             <desc><date/></desc>
                         </event>
@@ -5896,6 +5896,9 @@
                         <idno type="ISNI">ISSN">http://www.isni.org/isni/0000000072448067</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jacques_de_Solleysel</idno>
                     </person>
+                   
+                   
+                   
                     <person xml:id="Spon_ISN0000000121320124">
                         <persName>
                             <forename>Jacob</forename>
@@ -7213,6 +7216,7 @@
         </encodingDesc>
 
         <profileDesc>
+          
 
             <creation>
                 <!-- <dc:date>, obligatoire, unique
