@@ -7360,9 +7360,7 @@
 
         <revisionDesc>
             <change who="#GCW" when="2018-06-26">révision de l'entête pour la mise aux norme CAHIER </change>
-            <change who="#GCW" when="2018-06-25">révision de l'encodage de C à CEN</change>
-            <change who="#GCW" when="2018-07-06">rnc revisé et les corrections dû au changements en
-                seg réalisé</change>
+            
 
 
         </revisionDesc>

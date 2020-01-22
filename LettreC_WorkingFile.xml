@@ -9541,8 +9541,8 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cadenasser">
-                            <form type="lemma"><orth rendition="#uc">cadenasser</orth><lbl>D'autres
-                                    écrivent</lbl><orth rendition="#uc">cadenacer</orth>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">cadenasser</orth></form><lbl>D'autres
+                                    écrivent</lbl><form type="variant"><orth rendition="#uc">cadenacer</orth></form>
                                 <gramGrp><pos expand="Verbe">v. </pos><subc expand="Actif"
                                         >act.</subc></gramGrp></form>
                             <sense n="1"><def> Mettre, appliquer un cadenas.</def>
