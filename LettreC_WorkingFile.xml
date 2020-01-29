@@ -9565,7 +9565,7 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cadence">
-                            <form type="lemma"><orth rendition="#uc">cadence</orth>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">cadence</orth></form>
                                 <gramGrp><pos expand="Substantif">s</pos><gen expand="Feminin"
                                         >f.</gen></gramGrp></form>
                             <sense n="1"><def>suivant les anciens Musiciens qui ont écrit de la
@@ -9620,8 +9620,8 @@
                                 <cit type="citation">
                                     <quote>Les <hi rendition="#i">cadences</hi>font au chant ce que
                                         les points &amp; les virgules font au discours. </quote>
-                                    <bibl><author ref="#Nivers_ISN0000000121204270" rendition="#sc"
-                                            >niver. </author></bibl>
+                                    <ref target="#Nivers_ISN0000000121204270"><persName rendition="#sc"
+                                            >niver. </persName></ref>
                                 </cit>. <note>Les Maîtres à chanter disent que la <hi rendition="#i"
                                         >cadence</hi>est un don de nature qui est propre à faire les
                                     tremblemens delicatement. Quand les voix sont trop promptes,
@@ -9631,8 +9631,8 @@
                                     composée &amp; l'une après l'autre, de même que sur le
                                     clavessin, en battant des deux doigts les deux touches qui font
                                     le tremblement. </note>
-                                <etym>Ce mot vient de <lang xml:lang="lat">cadentia</lang></etym> . </sense>
-                            <sense n="2"><form type="lemma"><orth rendition="#sc"
+                                <etym>Ce mot vient de <foreign xml:lang="lat">cadentia</foreign></etym> . </sense>
+                            <sense n="2"><form><orth rendition="#sc"
                                     >cadence</orth></form><def> est aussi l'observation des même
                                     mesures, qui se fait en dansant , lorsque les pas &amp; le
                                     mouventent du corps suivent les notes , &amp; les mesures des
@@ -9651,31 +9651,31 @@
                                 </cit>. <persName type="person">Isocrate</persName> fut le premier
                                 qui reconnut qu'on devoit gander quelque <hi>cadence</hi> dans la
                                 prose même. <cit type="citation">
-                                    <bibl><title ref="#Oeuvres_melees">Oe. M.</title></bibl>
+                                    <ref target="#Oeuvres_melees"><title rendition="#sc">Oe. M.</title></ref>
                                     <quote>C'est un vice dans le discours que de faire trop sentir
                                         la <hi rendition="#i">cadence</hi> mesurée des
                                         periodes</quote>
                                 </cit>. <cit type="citation">
                                     <quote>. Une <hi rendition="#i">cadence</hi> trop harmnonieuse ,
                                         &amp; trop regulière ennuye enfin l'Auditeur. </quote>
-                                    <bibl><author ref="#Rapin_ISN0000000108610290" rendition="#sc"
-                                            >le p. ra.</author></bibl>
+                                    <ref target="#Rapin_ISN0000000108610290"><persName rendition="#sc"
+                                            >le p. ra.</persName></ref>
                                 </cit>
                             </sense>
                             <sense n="3"><form type="lemma"><orth rendition="#sc"
                                     >cadence</orth></form><usg type="terme" corresp="#poetique">en
-                                    termes de Poésie signifie une certaine mesure de vers. </usg>
-                                <note>Il y en a de plusieurs sortes. La <hi rendition="#i"
+                                    termes de Poésie </usg><def>signifie une certaine mesure de vers. Il y en a de plusieurs sortes. La <hi rendition="#i"
                                         >cadence</hi> des vers Saphiques est bien differente de
-                                    celle des vers Heroiques ou lambiques </note>. <cit
+                                    celle des vers Heroiques ou lambiques </def>
+                                <cit
                                     type="citation">
 
                                     <quote><lg rendition="#i">
                                             <l>Ayez pour la cadence une oreille severe</l>
                                         </lg>.</quote>
-                                    <bibl>
-                                        <author ref="#Boileau_ISN0000000121185604" rendition="#sc"
-                                            >boi.</author></bibl>
+                                    <ref target="#Boileau_ISN0000000121185604" >
+                                        <persNamerendition="#sc"
+                                            >boi.</persName></ref>
                                     <cit type="citation">
                                         <quote><lg rendition="#i">
                                                 <l>Enfin <persName
@@ -9685,9 +9685,9 @@
                                                 <l> fit sentir dans les vers une juste <hi
                                                   rendition="#n">cadence</hi>.</l>
                                             </lg></quote>
-                                        <bibl><author ref="#Boileau_ISN0000000121185604"><abbr
+                                        <ref target="#Boileau_ISN0000000121185604"><persName><abbr
                                                   type="idem" rendition="#sc"
-                                            >id</abbr></author></bibl>
+                                            >id</abbr></persName></ref>
                                     </cit>
 
                                 </cit>
