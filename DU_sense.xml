@@ -344,8 +344,9 @@
                             <abbr>Bell</abbr></persName>
                         <birth when="1648-08-30">Né le 30 aôut 1648, à <placeName>Nantes / Piriac
                                 sur Mer</placeName><country corresp="#FRE">France</country></birth>
-                        <death when="1734-04-26">Mort le 26 avril 1734, à <placeName>inconnu</placeName><country
-                                corresp="#FRE">France</country></death>
+                        <death when="1734-04-26">Mort le 26 avril 1734, à
+                                <placeName>inconnu</placeName><country corresp="#FRE"
+                                >France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -481,8 +482,10 @@
                             <roleName/>
                             <addName/>
                             <abbr>Bi</abbr></persName>
-                        <birth when="1630">Né le 1630 à <placeName>inconnu</placeName><country>inconnu</country></birth>
-                        <death when="1696">Mort le 1696 à <placeName>inconnu</placeName><country>inconnu</country></death>
+                        <birth when="1630">Né le 1630 à
+                                <placeName>inconnu</placeName><country>inconnu</country></birth>
+                        <death when="1696">Mort le 1696 à
+                                <placeName>inconnu</placeName><country>inconnu</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Incertain</faith>
@@ -1002,8 +1005,10 @@
                             <roleName/>
                             <addName/>
                             <abbr>Le Bl</abbr></persName>
-                        <birth>Né le 1630 <placeName>inconnu</placeName><country>inconnu</country></birth>
-                        <death>Mort le 1698 <placeName>inconnu</placeName><country>inconnu</country></death>
+                        <birth>Né le 1630
+                            <placeName>inconnu</placeName><country>inconnu</country></birth>
+                        <death>Mort le 1698
+                            <placeName>inconnu</placeName><country>inconnu</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Incertain</faith>
@@ -1036,7 +1041,8 @@
                                 <placeName>Genève</placeName><country corresp="#CHE"
                                 >Suisse</country></birth>
                         <death when="1736-01-08">mort le 8 janvier 1736 à
-                                <placeName>Amsterdam</placeName><country corresp="#NLD">Pays Bas</country></death>
+                                <placeName>Amsterdam</placeName><country corresp="#NLD">Pays
+                                Bas</country></death>
                         <sex>Masculin</sex>
                         <nationality>Suisse</nationality>
                         <faith>Protestant</faith>
@@ -1871,8 +1877,8 @@
                         </persName>
                         <birth when="1640">1640? à <placeName>Lyon</placeName><country
                                 corresp="#FRE">France</country></birth>
-                        <death when="1715">1715? <placeName>inconnu</placeName><country corresp="#FRE"
-                                >France</country></death>
+                        <death when="1715">1715? <placeName>inconnu</placeName><country
+                                corresp="#FRE">France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -1892,7 +1898,7 @@
                         <idno type="URI">http://catalogue.bnf.fr/ark:/12148/cb12105564f</idno>
                     </person>
 
-                    
+
                     <person xml:id="Larrey_ISN0000000079702056">
                         <persName>
                             <forename>Isaac</forename>
@@ -2058,7 +2064,8 @@
                     </person>
 
                     <person xml:id="Malherbe_ISN0000000110606733">
-                        <persName><forename>François</forename><surname> de Malherbe</surname></persName>
+                        <persName><forename>François</forename><surname> de
+                            Malherbe</surname></persName>
                         <birth>Né vers 1555 à <placeName>Caen</placeName><country corresp="#FRE"
                                 >France</country></birth>
                         <death>mortle 16 octobre 1628 à <placeName>Paris </placeName><country
@@ -2747,7 +2754,8 @@
                             <abbr>Sa</abbr></persName>
                         <birth>né le 29 mars 1613, à <placeName>Paris</placeName><country
                                 corresp="#FRE">France</country></birth>
-                        <death>mortle 4 janvier 1684 au <placeName>Château de Pomponne</placeName><country corresp="#FRE">France</country></death>
+                        <death>mortle 4 janvier 1684 au <placeName>Château de
+                                Pomponne</placeName><country corresp="#FRE">France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -2772,9 +2780,10 @@
                             <addName>Antoine de Rambouillet</addName>
                             <abbr>La Sabl</abbr>
                         </persName>
-                        <birth when="1624"> 17 juin 1624 à <placeName>inconnu</placeName><country corresp="#FRE"
-                                >France</country></birth>
-                        <death when="1679-05-03">03 mai 1679 à <placeName>inconnu</placeName><country corresp="#FRE"
+                        <birth when="1624"> 17 juin 1624 à <placeName>inconnu</placeName><country
+                                corresp="#FRE">France</country></birth>
+                        <death when="1679-05-03">03 mai 1679 à
+                                <placeName>inconnu</placeName><country corresp="#FRE"
                                 >France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
@@ -2801,8 +2810,8 @@
                             <abbr>Saln</abbr></persName>
                         <birth>né vers 1597 à <placeName>Luçon</placeName><country corresp="#FRE"
                                 >France</country></birth>
-                        <death>morts vers 1670 <placeName>Bassevelle en Brie.</placeName><country corresp="#FRE"
-                            >France</country></death>
+                        <death>morts vers 1670 <placeName>Bassevelle en Brie.</placeName><country
+                                corresp="#FRE">France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -2962,7 +2971,7 @@
                         </persName>
                         <birth when-custom="circa1562"><placeName>Congham,
                                 Norfolk,</placeName><country corresp="#GBR"
-                                    >Angleterre</country></birth>
+                            >Angleterre</country></birth>
                         <death when-custom="1641-10"><placeName>Londres</placeName><country
                                 corresp="#GBR">Angleeterre</country></death>
                         <sex>Masculin</sex>
@@ -3126,8 +3135,12 @@
                             <roleName/>
                             <addName/>
                             <abbr>Till</abbr></persName>
-                        <birth when="1637-11-30">Né le  30 novembre 1637 à <placeName>Paris</placeName><country corresp="#FRE">France</country></birth>
-                        <death when="1698-01-10">mort le 10 janvier 1698 à <placeName>Paris</placeName><country corresp="#FRE">France</country></death>
+                        <birth when="1637-11-30">Né le 30 novembre 1637 à
+                                <placeName>Paris</placeName><country corresp="#FRE"
+                            >France</country></birth>
+                        <death when="1698-01-10">mort le 10 janvier 1698 à
+                                <placeName>Paris</placeName><country corresp="#FRE"
+                            >France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -3135,7 +3148,8 @@
                         <occupation/>
                         <affiliation/>
                         <socecStatus/>
-                        <note>un prêtre catholique et historien français, proche des jansenistes</note>
+                        <note>un prêtre catholique et historien français, proche des
+                            jansenistes</note>
                         <event>
                             <desc><date/></desc>
                         </event>
@@ -3465,10 +3479,10 @@
                             <addName>Saint Réal</addName>
                             <abbr>Ab de S.R.</abbr>
                         </persName>
-                        <birth when="1643-04-09">9 avril 1643
-                            <placeName>Chambéry</placeName> <country>Savoie</country></birth>
-                        <death when="1692-09-13">13 septembre 1692
-                            <placeName>Chambéry</placeName> <country>Savoie</country></death>
+                        <birth when="1643-04-09">9 avril 1643 <placeName>Chambéry</placeName>
+                            <country>Savoie</country></birth>
+                        <death when="1692-09-13">13 septembre 1692 <placeName>Chambéry</placeName>
+                            <country>Savoie</country></death>
                         <sex>Masculin</sex>
                         <nationality>Savoyarde</nationality>
                         <faith>Catholique</faith>
@@ -3495,8 +3509,8 @@
                         </persName>
                         <birth>né en 1658 à<placeName>Lyon </placeName><country corresp="#FRE"
                                 >France</country></birth>
-                        <death>mort le 13 mai 1742 <placeName>Paris</placeName><country corresp="#FRE"
-                                >France</country></death>
+                        <death>mort le 13 mai 1742 <placeName>Paris</placeName><country
+                                corresp="#FRE">France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Francaise</nationality>
                         <faith>Catholique</faith>
@@ -3634,7 +3648,8 @@
                         <birth when="1541-12-12">Né le 12 décembre 1541 à <placeName>Bâle,
                                 </placeName><country>Suisse</country></birth>
                         <death when="1612-10-26">Mort le 26 octobre 1612 à
-                                <placeName>Montbéliard</placeName><country>Principauté de Montbéliard</country></death>
+                                <placeName>Montbéliard</placeName><country>Principauté de
+                                Montbéliard</country></death>
                         <sex/>
                         <nationality>Suisse</nationality>
                         <faith>Protestant</faith>
@@ -3723,7 +3738,7 @@
                         <birth when="1588-07-07"> le 7 juillet 1588 à
                                 <placeName>Crépy-en-Valois</placeName><country>France</country></birth>
                         <death when="1629-04-19">le 19 avril 1629 à
-                            <placeName>Paris</placeName><country>France</country></death>
+                                <placeName>Paris</placeName><country>France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -3773,7 +3788,7 @@
                             <addName>de Bourdeille</addName>
                             <abbr>Brantôme</abbr>
                         </persName>
-                        <birth when="1537">vers 1537  à <placeName>Bourdeilles, en
+                        <birth when="1537">vers 1537 à <placeName>Bourdeilles, en
                                 Périgord</placeName><country corresp="#FRE">France</country></birth>
                         <death when="1614"><placeName>dans son château de Richemont à
                                 Saint-Crépin-de-Richemont</placeName><country corresp="#FRE"
@@ -3802,8 +3817,10 @@
                             <addName/>
                             <abbr/>
                         </persName>
-                        <birth when="1627-01-27">Né le 25 janvier 1627,<placeName>Chateau de Lismore</placeName><country>Irlande</country></birth>
-                        <death>Mort le 31 décembre 1691 à <placeName>Londres</placeName> <country>Angleterre</country></death>
+                        <birth when="1627-01-27">Né le 25 janvier 1627,<placeName>Chateau de
+                                Lismore</placeName><country>Irlande</country></birth>
+                        <death>Mort le 31 décembre 1691 à <placeName>Londres</placeName>
+                            <country>Angleterre</country></death>
                         <sex>Masculin</sex>
                         <nationality>Irlandaise</nationality>
                         <faith>Protestant</faith>
@@ -3827,7 +3844,8 @@
                             <addName/>
                             <abbr>CH de M</abbr>
                         </persName>
-                        <birth when="1607"> 1607 en <placeName>Angoumois</placeName> <country>France</country></birth>
+                        <birth when="1607"> 1607 en <placeName>Angoumois</placeName>
+                            <country>France</country></birth>
                         <death when="1684-12-29">29 décembre 1684 au <placeName>château de
                                 Beaussais.</placeName>> <country>France</country></death>
                         <sex>Masculin</sex>
@@ -3854,8 +3872,10 @@
                             <addName/>
                             <abbr/>
                         </persName>
-                        <birth when="1435">Né en 1435, à <placeName>Calepio</placeName><country>Italie</country></birth>
-                        <death when="1511">Mort en 1511 à <placeName>Bergame</placeName> <country>Italie</country></death>
+                        <birth when="1435">Né en 1435, à
+                                <placeName>Calepio</placeName><country>Italie</country></birth>
+                        <death when="1511">Mort en 1511 à <placeName>Bergame</placeName>
+                            <country>Italie</country></death>
                         <sex>Masculin</sex>
                         <nationality>Italien</nationality>
                         <faith>Catholique</faith>
@@ -3959,9 +3979,9 @@
                             <abbr/>
                         </persName>
                         <birth when="1683"><placeName>inconnu</placeName><country corresp="#FRE"
-                            >France</country></birth>
+                                >France</country></birth>
                         <death when="1657"><placeName>inconnu</placeName><country corresp="#FRE"
-                            >France</country></death>
+                                >France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -3987,8 +4007,10 @@
                             <abbr/>
                         </persName>
                         <birth when="1638-12-02">Né le 2 décembre 1638 à <placeName>La
-                            Rochelle</placeName> <country>France </country></birth>
-                        <death when="1692-01-04">1692 <placeName>Londres</placeName> <country>Angleterre</country></death>
+                                Rochelle</placeName>
+                            <country>France </country></birth>
+                        <death when="1692-01-04">1692 <placeName>Londres</placeName>
+                            <country>Angleterre</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française <note>naturalisé Anglais
                             <date>1688</date></note></nationality>
@@ -4112,8 +4134,10 @@
                             <addName/>
                             <abbr>Darcons</abbr>
                         </persName>
-                        <birth>16?<placeName>inconnu</placeName><country corresp="#FRE">France</country></birth>
-                        <death>1681<placeName>inconnu</placeName><country corresp="#FRE">France</country></death>
+                        <birth>16?<placeName>inconnu</placeName><country corresp="#FRE"
+                                >France</country></birth>
+                        <death>1681<placeName>inconnu</placeName><country corresp="#FRE"
+                                >France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -4188,7 +4212,7 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jean_Daillé</idno>
                     </person>
 
-                    
+
 
                     <person xml:id="Daviler_ISN0000000108671587">
                         <persName>
@@ -4202,12 +4226,12 @@
                                 corresp="#FRE">France</country></birth>
                         <death when="1701-06-23">mort le 23 juin 1701 à
                                 <placeName>Montpellier</placeName><country corresp="#FRE"
-                            >France</country></death>
+                                >France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
-                        <education> Académie royale de peinture et de sculpture
-                            Académie de France à Rome</education>
+                        <education> Académie royale de peinture et de sculpture Académie de France à
+                            Rome</education>
                         <occupation/>
                         <affiliation/>
                         <socecStatus/>
@@ -4292,9 +4316,10 @@
                             <addName/>
                             <abbr/>
                         </persName>
-                        <birth when="1595">Né en 1595 à <placeName>Paris</placeName> <country>France</country></birth>
+                        <birth when="1595">Né en 1595 à <placeName>Paris</placeName>
+                            <country>France</country></birth>
                         <death when="1676-10-28">Mort le 28 octobre 1676 à
-                            <placeName>Paris</placeName><country>France</country></death>
+                                <placeName>Paris</placeName><country>France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -4472,10 +4497,11 @@
                             <addName/>
                             <abbr>S. Cyran</abbr>
                         </persName>
-                        <birth when="1581">né en 1581<placeName>Bayonne, rue Vieille-Boucherie 
+                        <birth when="1581">né en 1581<placeName>Bayonne, rue Vieille-Boucherie
                                 </placeName><country>France</country></birth>
-                        <death when="1643-10-06">mort le 6 octobre 1643 à<placeName>Paris</placeName><country
-                                corresp="#FRE">France</country></death>
+                        <death when="1643-10-06">mort le 6 octobre 1643
+                                à<placeName>Paris</placeName><country corresp="#FRE"
+                                >France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -4566,10 +4592,10 @@
                         </persName>
                         <birth when="1574">1574 à Milgate house dans le
                                 <placeName>Kent</placeName><country corresp="#GBR"
-                            >Angleterre</country></birth>
+                                >Angleterre</country></birth>
                         <death when="1637-09-08">mort le 8 septembre 1637 à
                                 <placeName>Londres</placeName><country corresp="#GBR"
-                                    >Angleterre</country></death>
+                                >Angleterre</country></death>
                         <sex>Masculin</sex>
                         <nationality>Anglaise</nationality>
                         <faith>Protestant</faith>
@@ -4744,7 +4770,8 @@
                         </persName>
                         <birth>né le 15 novembre 1596 à <placeName>Haraucourt</placeName><country
                                 corresp="#FRE">Lorraine</country></birth>
-                        <death>1647 <placeName>inconnu</placeName><country corresp="#ITA">Italie</country>?</death>
+                        <death>1647 <placeName>inconnu</placeName><country corresp="#ITA"
+                                >Italie</country>?</death>
                         <sex>Masculin</sex>
                         <nationality>Lorrain</nationality>
                         <faith>Incertain</faith>
@@ -4767,10 +4794,10 @@
                             <addName>Henri II de Rohan</addName>
                             <abbr/>
                         </persName>
-                        <birth when="1579-08-21">le 21 août 1579 à <placeName>Blain
-                            </placeName> <country>France</country></birth>
-                        <death when="1638-04-13">13 avril 1638 à
-                            <placeName>Königsfelden</placeName> <country>Allemagne</country></death>
+                        <birth when="1579-08-21">le 21 août 1579 à <placeName>Blain </placeName>
+                            <country>France</country></birth>
+                        <death when="1638-04-13">13 avril 1638 à <placeName>Königsfelden</placeName>
+                            <country>Allemagne</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Protestant</faith>
@@ -4848,9 +4875,10 @@
                             <abbr>Van Hel</abbr>
                         </persName>
                         <birth when="1579-01-12">12 Janvier 1579 <placeName>Bruxelles
-                                (Belgique)</placeName> <country>Pays Bas Espagnols</country></birth>
-                        <death when="1644-12-30">30 décembre 1644
-                            <placeName>Vilvorde</placeName> <country>Pays Bas Espagnols</country></death>
+                                (Belgique)</placeName>
+                            <country>Pays Bas Espagnols</country></birth>
+                        <death when="1644-12-30">30 décembre 1644 <placeName>Vilvorde</placeName>
+                            <country>Pays Bas Espagnols</country></death>
                         <sex>Masculin</sex>
                         <faith>Catholique</faith>
                         <nationality>Pays bas espagnols</nationality>
@@ -4864,7 +4892,7 @@
 
                     <person xml:id="Isidore_ISN0000000122756296">
                         <persName>
-                            <forename></forename>
+                            <forename/>
                             <surname>Isidore de Seville</surname>
                             <roleName/>
                             <addName>Isidorus Hispalensis</addName>
@@ -4897,8 +4925,10 @@
                             <roleName/>
                             <addName/>
                         </persName>
-                        <birth>2 mai 1602 Geisa, en Thuringe, <country corresp="#DEU">Allemagne</country></birth>
-                        <death>27 novembre 1680, <placeName>Rome</placeName>, <country>Italie</country></death>
+                        <birth>2 mai 1602 Geisa, en Thuringe, <country corresp="#DEU"
+                                >Allemagne</country></birth>
+                        <death>27 novembre 1680, <placeName>Rome</placeName>,
+                                <country>Italie</country></death>
                         <sex>Masculin</sex>
                         <nationality>Allemande</nationality>
                         <faith>Catholique</faith>
@@ -4920,7 +4950,8 @@
                             <addName>Comtesse de La Suze</addName>
                             <abbr>La Suze</abbr>
                         </persName>
-                        <birth when="1618">Né en 1618<placeName>inconnu</placeName><country>France</country></birth>
+                        <birth when="1618">Né en
+                                1618<placeName>inconnu</placeName><country>France</country></birth>
                         <death when="1673-03-10">Mort le 10 mars 1673
                                 <placeName/><country>France</country></death>
                         <sex>Féminin</sex>
@@ -5138,9 +5169,11 @@
                             <abbr/>
                         </persName>
                         <birth when="1547-11-18"> né le 18 octobre 1547 à <placeName>Overijse (Duché
-                            de Brabant) </placeName> <country>Pays Bas Espagnols</country></birth>
+                                de Brabant) </placeName>
+                            <country>Pays Bas Espagnols</country></birth>
                         <death when="1606-03-23">Mort le 23 mars 1606 à
-                            <placeName>Louvain</placeName> <country>Pays Bas Espagnols</country></death>
+                                <placeName>Louvain</placeName>
+                            <country>Pays Bas Espagnols</country></death>
                         <nationality>Pays bas Espagnols</nationality>
                         <faith>Catholique</faith>
                         <education>Bruxelles, à Ath et au collège des Jésuites de
@@ -5156,7 +5189,7 @@
                         <idno type="ISNI">http://www.isni.org/isni/000000012132706X</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Juste_Lipse</idno>
                     </person>
-                    
+
                     <person xml:id="Lucien_ISN0000000449276796">
                         <persName>
                             <forename/>
@@ -5250,7 +5283,8 @@
                         </persName>
                         <birth when="1609">1609<placeName>Paris</placeName><country corresp="#FRE"
                                 >France</country></birth>
-                        <death when="1693-10-31">31-10-1693<placeName>inconnu</placeName><country>inconnu</country></death>
+                        <death when="1693-10-31"
+                                >31-10-1693<placeName>inconnu</placeName><country>inconnu</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>inconnu</faith>
@@ -5393,8 +5427,9 @@
                         <birth when="1583-02-23">né le 23 février 1583 à
                                 <placeName>Villefranche-sur-Saône,</placeName><country
                                 corresp="#FRE">France</country></birth>
-                        <death when="1656-11-06">mort le 6 novembre 1656<placeName>Paris</placeName><country
-                                corresp="#FRE">France</country></death>
+                        <death when="1656-11-06">mort le 6 novembre
+                                1656<placeName>Paris</placeName><country corresp="#FRE"
+                                >France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -5502,8 +5537,10 @@
                             <surname>Oudin</surname>
                             <abbr>Oudin</abbr>
                         </persName>
-                        <birth>1595 à <placeName>inconnu</placeName> <country>inconnu</country></birth>
-                        <death>1653 <placeName>inconnu</placeName> <country>inconnu</country></death>
+                        <birth>1595 à <placeName>inconnu</placeName>
+                            <country>inconnu</country></birth>
+                        <death>1653 <placeName>inconnu</placeName>
+                            <country>inconnu</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Protestant <note>incertain</note></faith>
@@ -5533,7 +5570,9 @@
                         <!-- Check whether references point to father or son, ostensibly both but mostly the son. Check dates of realavant dictionaries -->
                         <birth when="1560">né vers 1560 <placeName>Champagne</placeName>
                             <country corresp="#FRE">France</country></birth>
-                        <death when="1625-10-01">mort le 1er octobre 1625 <placeName>inconnu</placeName> <country>inconnu</country></death>
+                        <death when="1625-10-01">mort le 1er octobre 1625
+                                <placeName>inconnu</placeName>
+                            <country>inconnu</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Protestant</faith>
@@ -5587,8 +5626,9 @@
                             <addName> Guy </addName>
                             <abbr/>
                         </persName>
-                        <birth when="1601-08-31">né le 31 août 1601 à <placeName>Hodenc-en-Bray</placeName><country corresp="#FRE"
-                            >France</country></birth>
+                        <birth when="1601-08-31">né le 31 août 1601 à
+                                <placeName>Hodenc-en-Bray</placeName><country corresp="#FRE"
+                                >France</country></birth>
                         <death when="1672-03-30"> mort le 30 mars 1672
                                 à<placeName>Paris</placeName><country corresp="#FRE"
                                 >France</country></death>
@@ -5620,7 +5660,7 @@
                             <abbr/>
                         </persName>
                         <birth when="1630"><placeName>inconnu</placeName><country corresp="#FRE"
-                            >France</country></birth>
+                                >France</country></birth>
                         <death when="1690-05-10">mort le 9 ou le 10 mai 1690 à
                                 <placeName>Paris</placeName><country corresp="#FRE"
                             >France</country></death>
@@ -5682,9 +5722,9 @@
                             <addName/>
                             <abbr/>
                         </persName>
-                        <birth when="1510-03-25">né le 25 mars 1510 dans <placeName>Barenton, le hameau de la
-                                Dolerie </placeName><country
-                                corresp="#FRE">France</country></birth>
+                        <birth when="1510-03-25">né le 25 mars 1510 dans <placeName>Barenton, le
+                                hameau de la Dolerie </placeName><country corresp="#FRE"
+                                >France</country></birth>
                         <death when="1581-09-06">Mort le 6 septembre 1581 à<placeName>Paris, ou plus
                                 probabalement Trappes</placeName><country corresp="#FRE"
                                 >France</country></death>
@@ -5736,10 +5776,11 @@
                     <person xml:id="Pyrard_ISN0000000114486329">
                         <persName>
                             <forename>François</forename>
-                            <surname> Pyrard de
-                                Laval</surname><abbr>Pyrard</abbr></persName>
-                        <birth when-custom="circa 1570">Né en 1570 à <placeName>Laval</placeName><country>France</country></birth>
-                        <death when-custom="circa 1621">Mort en 1621 à <placeName>Laval</placeName><country>France</country></death>
+                            <surname> Pyrard de Laval</surname><abbr>Pyrard</abbr></persName>
+                        <birth when-custom="circa 1570">Né en 1570 à
+                                <placeName>Laval</placeName><country>France</country></birth>
+                        <death when-custom="circa 1621">Mort en 1621 à
+                                <placeName>Laval</placeName><country>France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -5765,7 +5806,39 @@
                         <idno type="ISNI">http://www.isni.org/isni/000000012277506</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/François_Rabelais</idno>
                     </person>
-
+                    <person xml:id="Ricaut_ISN0000000110197685">
+                        <persName>
+                            <forename>Paul</forename>
+                            <surname>Ricaut</surname>
+                            <roleName/>
+                            <addName>Rycaut</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1629-12-23">né en 1629 à
+                                <placeName>Londres</placeName><country>Angleterre</country></birth>
+                        <death when="1700-11-16">mort le 16 décembre 1700 à
+                                <placeName>Londres</placeName><country>Angleterre</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Anglaise</nationality>
+                        <faith>Protestant</faith>
+                        <education>Cambridge</education>
+                        <occupation>Diplomate</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note> Diplomate, historien, traducteur</note>
+                        <event>
+                            <desc>The Present state of the Ottoman Empire, containing the maxims of
+                                the Turkish politie, the most material points of the Mahometan
+                                religion, their sects and heresies, their convents and religious
+                                votaries, their military discipline, with an exact computation of
+                                their forces both by land and sea, illustrated with divers pieces of
+                                sculpture, representing the variety of habits among the Turks,
+                                Londres, J. Starkey &amp; H. Brome, 1668, in-fol., fig. et pl.
+                                    gr.<date>1668</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000110197685</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Paul_Rycaut</idno>
+                    </person>
 
                     <person xml:id="Rondelet_ISN000000010855716X">
                         <persName xml:base="">
@@ -5889,8 +5962,10 @@
                             <forename>Louis</forename>
                             <surname>Savot</surname>
                         </persName>
-                        <birth>Né en 1570 à <placeName>Saulieu, Côte d'Or</placeName> <country>France</country></birth>
-                        <death>Mort en 1640 à <placeName>Paris</placeName> <country>France</country></death>
+                        <birth>Né en 1570 à <placeName>Saulieu, Côte d'Or</placeName>
+                            <country>France</country></birth>
+                        <death>Mort en 1640 à <placeName>Paris</placeName>
+                            <country>France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -5898,15 +5973,17 @@
                         <idno type="ISNI">SN:0000000122796634</idno>
                         <idno type="URI">http://data.bnf.fr/11923862/louis_savot/</idno>
                     </person>
-                   
+
                     <person xml:id="Sherlock_ISN0000000108038853">
                         <persName>
                             <forename>William</forename>
                             <surname>Sherlock</surname>
                             <abbr>Sherlock</abbr>
                         </persName>
-                        <birth when="1641">c. 1641 <placeName>Southwark</placeName> <country>Angleterre</country></birth>
-                        <death when="1707">1707 <placeName>Hampstead</placeName> <country>Angleterre</country></death>
+                        <birth when="1641">c. 1641 <placeName>Southwark</placeName>
+                            <country>Angleterre</country></birth>
+                        <death when="1707">1707 <placeName>Hampstead</placeName>
+                            <country>Angleterre</country></death>
                         <sex>Masculin</sex>
                         <nationality>Anglaise</nationality>
                         <faith>Protestant</faith>
@@ -5931,8 +6008,8 @@
                         </persName>
                         <birth when="1660">1660 à <placeName>Beauvais</placeName><country
                                 corresp="#FRE">France</country></birth>
-                        <death when="1731">1731<placeName>Beauvais</placeName><country corresp="#FRE"
-                            >France</country></death>
+                        <death when="1731">1731<placeName>Beauvais</placeName><country
+                                corresp="#FRE">France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -5960,11 +6037,13 @@
                             <roleName>seigneur du Clapier et de la Bérardière</roleName>
                             <addName>de Solleysel de la Bessée, </addName>
                             <abbr>Soleisel</abbr>
-                           </persName>
+                        </persName>
                         <birth when="1617">Né en 1617 dans le <placeName> province du
-                                Forez</placeName> <country>France</country></birth>
+                                Forez</placeName>
+                            <country>France</country></birth>
                         <death when="1680-01-30">Mort le 30 janvier 1680 à
-                                <placeName>Paris</placeName> <country>France</country></death>
+                                <placeName>Paris</placeName>
+                            <country>France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -6022,8 +6101,11 @@
                             <forename>Marc Antoine</forename>
                             <surname>Girard de Saint Amant</surname>
                             <abbr>St Amant</abbr></persName>
-                        <birth when="1594-09">septembre 1594 <placeName>Rouen,banlieu </placeName> <country>France</country></birth>
-                        <death when="1661-12">Mort au  mois de décembre 1661 à <placeName>Paris</placeName> <country>France</country></death>
+                        <birth when="1594-09">septembre 1594 <placeName>Rouen,banlieu </placeName>
+                            <country>France</country></birth>
+                        <death when="1661-12">Mort au mois de décembre 1661 à
+                                <placeName>Paris</placeName>
+                            <country>France</country></death>
                         <sex>Masculin</sex>
                         <faith>Catholique</faith>
                         <note>Protestant converti</note>
@@ -6035,12 +6117,11 @@
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Marc-Antoine_Girard_de_Saint-Amant</idno>
                     </person>
-                    
+
                     <person xml:id="Tachard_ISN0000000115571939">
                         <persName xml:base="">
                             <forename>Guy</forename>
-                            <surname>
-                                Tachard</surname>
+                            <surname> Tachard</surname>
                         </persName>
                         <birth when="1648">né en 1648 à <placeName>Marthon,</placeName>
                             <country>France</country></birth>
@@ -6067,45 +6148,51 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000115571939</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Guy_Tachard</idno>
                     </person>
-                    
+
                     <person xml:id="Tav_ISN0000000121451888">
                         <persName>
                             <forename>Jean-Baptiste</forename>
                             <surname> Tavernier</surname>
                             <date>1605-1689</date><country>France</country>
                         </persName>
-                        <birth when="1605">né en 1605 à <placeName>Paris</placeName> <country>France</country> </birth>
-                        <death when="1689">mort le 1 juillet 1689 à <placeName>Moscou</placeName> <country>Russie</country></death>
+                        <birth when="1605">né en 1605 à <placeName>Paris</placeName>
+                            <country>France</country>
+                        </birth>
+                        <death when="1689">mort le 1 juillet 1689 à <placeName>Moscou</placeName>
+                            <country>Russie</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Protestant</faith>
-                        <education></education>
-                        <affiliation></affiliation>
+                        <education/>
+                        <affiliation/>
                         <note>Explorateur, marchand, écrivain, vendeur</note>
                         <idno type="ISNI">http://www.isni.org/isni/0000000121451888</idno>
-                        <idno type="URI">https://fr.wikipedia.org/wiki/Jean-Baptiste_Tavernier</idno>
+                        <idno type="URI"
+                            >https://fr.wikipedia.org/wiki/Jean-Baptiste_Tavernier</idno>
                     </person>
-                  
-                    
+
+
                     <person xml:id="Testu_ISN0000000366594668">
                         <persName>
                             <forename>Jacques</forename>
                             <persName> Testu de Belval </persName>
                             <addName>Tetu tais-toi</addName>
                             <abbr>Ab. Tetu</abbr></persName>
-                        <birth when-custom="circa1626">Né vers 1626 à <placeName>Paris</placeName> <country>France</country></birth>
+                        <birth when-custom="circa1626">Né vers 1626 à <placeName>Paris</placeName>
+                            <country>France</country></birth>
                         <death when="1706-06">Mort en juin 1706 <placeName>Paris</placeName></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
-                        <education></education>
+                        <education/>
                         <affiliation>Académie française <date>1685</date></affiliation>
                         <note>Poète, religieux, prédicateur, traducteur</note>
                         <idno type="ISNI">http://www.isni.org/isni/0000000366594668</idno>
-                        <idno type="URI">https://fr.wikipedia.org/wiki/Jacques_Testu_de_Belval</idno>
+                        <idno type="URI"
+                            >https://fr.wikipedia.org/wiki/Jacques_Testu_de_Belval</idno>
                     </person>
-                    
-                    
+
+
                     <person xml:id="Thevenot_ISN000000012284515X">
                         <persName>
                             <forename>Jean</forename>
@@ -6114,9 +6201,11 @@
                             <addName/>
                             <abbr>Thevenot</abbr>
                         </persName>
-                        <birth>Né le 16 juin 1633, à <placeName>Paris.</placeName> <country>France</country></birth>
+                        <birth>Né le 16 juin 1633, à <placeName>Paris.</placeName>
+                            <country>France</country></birth>
                         <death>Mort le le 28 novembre 1667, à <placeName>Mianeh (Perse
-                                séfévide)</placeName> <country>Perse</country></death>
+                                séfévide)</placeName>
+                            <country>Perse</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -6164,7 +6253,7 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000108644060</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jean-Baptiste_Thiers</idno>
                     </person>
-                    
+
                     <person xml:id="Tonti_ISN000000036158329X">
                         <persName>
                             <forename>Lorenzo</forename>
@@ -6200,10 +6289,10 @@
                             <addName>Tournefort</addName>
                             <abbr>Tournefort</abbr>
                         </persName>
-                        <birth when="1656-06-03">3 juin 1656,
-                            <placeName>Aix-en-Provence</placeName> <country>France</country></birth>
-                        <death when="1708-12-28">28 décembre 1708,
-                            <placeName>Paris</placeName> <country>France</country></death>
+                        <birth when="1656-06-03">3 juin 1656, <placeName>Aix-en-Provence</placeName>
+                            <country>France</country></birth>
+                        <death when="1708-12-28">28 décembre 1708, <placeName>Paris</placeName>
+                            <country>France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -6266,64 +6355,79 @@
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/François_Pierre_de_La_Varenne</idno>
                     </person>
-                    
+
                     <person xml:id="Villars_ISN0000000121185233">
                         <persName>
                             <forename>Henri</forename>
                             <surname>de Montfaucon de Villars</surname>
                             <roleName>Abbé de Villars</roleName>
-                            <addName></addName>
-                            <abbr>Ab de  Vilars></abbr></persName>
-                        <birth when-custom="1635/1638">Né en 1635 ou 1638 à <placeName> Alet-les-Bains</placeName> <country>France</country> </birth>
-                        <death when="1673">Mort en 1673 à <placeName>Lyon</placeName> <country>France</country></death>
+                            <addName/>
+                            <abbr>Ab de Vilars></abbr></persName>
+                        <birth when-custom="1635/1638">Né en 1635 ou 1638 à <placeName>
+                                Alet-les-Bains</placeName>
+                            <country>France</country>
+                        </birth>
+                        <death when="1673">Mort en 1673 à <placeName>Lyon</placeName>
+                            <country>France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
-                        <education></education>
-                        <affiliation></affiliation>
-                        <event><desc><ref target="#Comte_de_Gabalis">Le comte de Gabalis, ou Entretiens sur les sciences secrètes</ref><date>1670</date></desc></event>
+                        <education/>
+                        <affiliation/>
+                        <event>
+                            <desc><ref target="#Comte_de_Gabalis">Le comte de Gabalis, ou Entretiens
+                                    sur les sciences secrètes</ref><date>1670</date></desc>
+                        </event>
                         <note>Écrivain</note>
                         <idno type="ISNI">http://www.isni.org/isni/0000000121185233</idno>
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Nicolas-Pierre-Henri_de_Montfaucon_de_Villars</idno>
                     </person>
-                    
+
                     <person xml:id="Villon_ISN0000000121192791">
                         <persName>
                             <forename>François</forename>
                             <surname> de Montcorbie </surname>
                             <addName>Villon</addName>
                         </persName>
-                        <birth>né en 1431 à <placeName >Paris</placeName>?) <country>France</country> </birth>
-                        <death when-custom="after1643 ">Mort après 1643 à <placeName> inconnu</placeName> <country>France</country></death>
+                        <birth>né en 1431 à <placeName>Paris</placeName>?) <country>France</country>
+                        </birth>
+                        <death when-custom="after1643 ">Mort après 1643 à <placeName>
+                                inconnu</placeName>
+                            <country>France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
                         <education>Université de Paris</education>
-                        <affiliation></affiliation>
+                        <affiliation/>
                         <idno type="ISNI">http://www.isni.org/isni/0000000121192791</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/François_Villon</idno>
                     </person>
-                    
+
                     <person xml:id="Vlaq_ISN0000000070518316">
                         <persName>
                             <forename>Adrian</forename>
                             <surname> Vlaq</surname>
-                            </persName>
-                        <birth when-custom="circa 1600">Né vers 1600 à <placeName>Gouda</placeName> <country>Pays bas</country></birth>
-                        <death>Mort en 1667 à <placeName>La Haye</placeName>  <country>Pays bas</country></death>
+                        </persName>
+                        <birth when-custom="circa 1600">Né vers 1600 à <placeName>Gouda</placeName>
+                            <country>Pays bas</country></birth>
+                        <death>Mort en 1667 à <placeName>La Haye</placeName>
+                            <country>Pays bas</country></death>
                         <sex>Masculin</sex>
                         <nationality>Pays Bas</nationality>
                         <faith>Protestant</faith>
-                        <education></education>
-                        <affiliation></affiliation>
-                        <event><desc>Éditeur De Haegsche Vrijdaeghse Post-Tijdingen</desc></event>
-                        <note>imprimeur, mathématicien connu pour ses travaux sur les logarithmes et auteur d'ouvrages d'astronomie </note>
+                        <education/>
+                        <affiliation/>
+                        <event>
+                            <desc>Éditeur De Haegsche Vrijdaeghse Post-Tijdingen</desc>
+                        </event>
+                        <note>imprimeur, mathématicien connu pour ses travaux sur les logarithmes et
+                            auteur d'ouvrages d'astronomie </note>
                         <idno type="ISNI">http://www.isni.org/isni/0000000070518316</idno>
                         <idno type="URI">https://data.cerl.org/thesaurus/cnp00064282</idno>
-                        
+
                     </person>
-                    
+
                     <person xml:id="Wern_VIAF309698078">
                         <persName>
                             <forename>André</forename>
@@ -6331,10 +6435,10 @@
                             <roleName>de Liancour</roleName>
                             <addName/>
                             <abbr>WERN</abbr></persName>
-                        <birth>Né en inconnu
-                            <placeName>
-                               Paris </placeName>? <country>France</country></birth>
-                        <death when="1732">Mort en 1732 <placeName>inconnu</placeName><country>France</country></death>
+                        <birth>Né en inconnu <placeName> Paris </placeName>?
+                                <country>France</country></birth>
+                        <death when="1732">Mort en 1732
+                                <placeName>inconnu</placeName><country>France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -6350,9 +6454,10 @@
                                     </title><bibl>http://catalogue.bnf.fr/ark:/12148/cb39317261s</bibl></desc>
                         </event>
                         <idno>VIAF309698078</idno>
-                        <idno type="URI" >https://www.ffamhe.fr/wiki/André_Wernesson_de_Liancour</idno>
+                        <idno type="URI"
+                            >https://www.ffamhe.fr/wiki/André_Wernesson_de_Liancour</idno>
                     </person>
-                    
+
                     <person xml:id="Willughbi_ISN0000000081566452">
                         <persName>
                             <forename>Francis</forename>
@@ -6362,9 +6467,11 @@
                             <abbr/>
                         </persName>
                         <birth when="1635-11-22">22 novembre 1635 à <placeName>Middleton
-                                Hall,Warwickshire</placeName> <country>Angleterre</country></birth>
+                                Hall,Warwickshire</placeName>
+                            <country>Angleterre</country></birth>
                         <death when="1672-07-03">3 juillet 1672 à <placeName>Wollaton Hall,
-                                Nottinghamshire</placeName> <country>Angleterre</country></death>
+                                Nottinghamshire</placeName>
+                            <country>Angleterre</country></death>
                         <sex>Masculin</sex>
                         <nationality>Anglaise</nationality>
                         <faith>Protestant</faith>
@@ -6379,7 +6486,7 @@
                         <idno>ISN:0000000081566452</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Francis_Willughby</idno>
                     </person>
-                    
+
                     <person xml:id="degorris_ISN0000000115727294">
                         <persName>
                             <forename>Jean</forename>
@@ -6389,10 +6496,10 @@
                             <addName>l'ainé</addName>
                             <abbr/>
                         </persName>
-                        <birth when="1505">1505<placeName>inconnu</placeName><country corresp="#FRE"> France
-                            </country></birth>
+                        <birth when="1505">1505<placeName>inconnu</placeName><country corresp="#FRE"
+                                > France </country></birth>
                         <death when="1577">1577<placeName>inconnu</placeName><country corresp="#FRE"
-                            >France</country></death>
+                                >France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -6424,10 +6531,10 @@
                             <addName/>
                             <abbr/>
                         </persName>
-                        <birth when="1580" cert="unknown">1580<placeName>inconnu</placeName><country corresp="#FRE">
-                                France </country></birth>
+                        <birth when="1580" cert="unknown">1580<placeName>inconnu</placeName><country
+                                corresp="#FRE"> France </country></birth>
                         <death when="1662">1662<placeName>inconnu</placeName><country corresp="#FRE"
-                            >France</country></death>
+                                >France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -6520,8 +6627,10 @@
                             <addName>de jonge, le fils</addName>
                             <abbr/>
                         </persName>
-                        <birth when="1643"> 1643  à <placeName>inconnu</placeName> <country>Pays Bas</country></birth>
-                        <death>1701  à <placeName>inconnu</placeName> <country>Pays Bas</country></death>
+                        <birth when="1643"> 1643 à <placeName>inconnu</placeName>
+                            <country>Pays Bas</country></birth>
+                        <death>1701 à <placeName>inconnu</placeName>
+                            <country>Pays Bas</country></death>
                         <sex>Masculin</sex>
                         <nationality>Pays bas</nationality>
                         <faith>Protestant</faith>
@@ -6545,8 +6654,10 @@
                             <addName/>
                             <abbr/>
                         </persName>
-                        <birth when="1654"> 1654 à <placeName>inconnu</placeName> <country>Pays Bas</country></birth>
-                        <death when="1714">1714 à <placeName>inconnu</placeName> <country>Pays Bas</country></death>
+                        <birth when="1654"> 1654 à <placeName>inconnu</placeName>
+                            <country>Pays Bas</country></birth>
+                        <death when="1714">1714 à <placeName>inconnu</placeName>
+                            <country>Pays Bas</country></death>
                         <sex>Masculin</sex>
                         <nationality>Pays bas</nationality>
                         <faith>Protestant</faith>
@@ -6686,8 +6797,8 @@
                         <idno type="ISNI">Galien_ISN0000000121302401</idno>
                         <idno type="URI"/>
                     </person>
-                    
-                    
+
+
                     <person xml:id="Zosime_ISN0000000371217816">
                         <persName>
                             <forename/>
