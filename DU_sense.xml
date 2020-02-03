@@ -7830,7 +7830,10 @@
                         <cit type="exemple">
                             <quote>On <hi rendition="#i">bat</hi> les noyers avec la gaule pour en
                                 re-cueillir les noix.</quote>
-                        </cit> On le dit au$$i des plus legeres agita-tions. <cit type="citation">
+                        </cit> 
+                        <!-- Ne faut-il pas avoir un subsense ici? -->
+                        On le dit au$$i des plus legeres agita-tions. 
+                        <cit type="citation">
                             <quote><lg rendition="#i">
                                     <l>Phaëton au$$i-tôt prend les rênes en main ;</l>
                                     <l>De $es chevaux ailez, il <hi rendition="#n">bat</hi> les
@@ -7845,7 +7848,9 @@
                         </cit>
                         <cit type="exemple">
                             <quote>Le coeur bat étant hors du corps de l'animal. </quote>
-                        </cit> On dit même dans un $ens figuré, que <seg type="collocation">le coeur
+                        </cit> 
+                        <!-- autre sense? -->
+                        On dit même dans un $ens figuré, que <seg type="collocation">le coeur
                                 <hi rendition="#i">bat</hi>
                         </seg>; <gloss>pour dire, qu'on trem-ble de peur.</gloss>
                         <cit type="citation">
@@ -7855,7 +7860,9 @@
                                 </lg></quote>
                             <ref target="#Voit_ISN0000000115879407"><persName rendition="#sc"
                                     >voit.</persName></ref>
-                        </cit> On dit au$$i qu'un cheval <seg type="collocation">bat du flanc, </seg>
+                        </cit> 
+                        <!-- autre subsense -->
+                        On dit au$$i qu'un cheval <seg type="collocation">bat du flanc, </seg>
                         <gloss>quand il e$t pou$-$if ;</gloss>
                         <seg type="collocation">qu'une montre bat encore,</seg>
                         <gloss>lor$que la fu$ée n'e$t pas encore à bout.</gloss>
