@@ -5471,7 +5471,7 @@
                         <socecStatus/>
                         <note>Pretre et érudit. A introduit le terme 'romantique' en litterature.
                             Correspondence avec Leibniz, Pierre-Daniel Huet, <ref
-                                corresp="#Bay_ISN0000000122807284">Bayle ...</ref></note>
+                                target="#Bay_ISN0000000122807284">Bayle ...</ref></note>
                         <event>
                             <desc><date/></desc>
                         </event>
@@ -7521,9 +7521,10 @@
                                         rendition="#i">q</hi> comme le <hi rendition="#i">c,</hi>
                                     &amp;amp; qu'ils prononçoient le <hi rendition="#i">c</hi> comme
                                     nous prononçons le <hi rendition="#i">k,</hi>
-                                    <ref target="#Men_ISN0000000080815971"><abbr>men.</abbr></ref>
-                                    Le <ref target="#Le_P_Mab_ISN0000000121416396"><persName>P.
-                                            Mabillon</persName></ref> a observé que <persName
+                                    <persName ref="#Men_ISN0000000080815971"
+                                        ><abbr>men.</abbr></persName> Le <persName
+                                        ref="#Le_P_Mab_ISN0000000121416396"><persName>P.
+                                            Mabillon</persName></persName> a observé que <persName
                                         xml:id="Charlemagne">Charle-Magne</persName> a toûjours
                                     écrit son nom avec la lettre <hi rendition="#i">c :</hi> au lieu
                                     que les autres Rois de la 2. Race qui portent le nom de <hi
@@ -7567,14 +7568,14 @@
                                 <cit type="citation">
                                     <quote><hi rendition="#i">Cà</hi> la main droite : <hi
                                             rendition="#i">çà</hi> la main gauche, qu'on l'attache. </quote>
-                                    <ref target="#Abl_ISN0000000107866286"><persName rendition="sc"
+                                    <ref><persName ref="#Abl_ISN0000000107866286" rendition="sc"
                                             >abl. </persName>.</ref>
                                 </cit>
-                                <cit type="exemple">
+                                <cit type="citation">
                                     <quote><hi rendition="#i">Cà</hi> qu'on mette la main à
                                         l'oeuvre.</quote>
-                                    <ref target="#Scarron_ISN0000000120990126"><persName
-                                            rendition="#sc">scar.</persName></ref>
+                                    <ref><persName ref="Scarron_ISN0000000120990126" rendition="#sc"
+                                            >scar.</persName></ref>
                                 </cit>
                                 <cit type="exemple">
                                     <quote>Depuis deux ans en <hi rendition="#i">çà,</hi>
@@ -7663,17 +7664,17 @@
                                     fabuleuses touchant le Musulmanisme. </def>
                                 <note>On trouve dans ce livre dont l'Auteur est inconnu, plusieurs
                                     traditions anciennes du Christiannisme, &amp;amp; entr'autres,
-                                    celles des Anges Gardiens.<ref
-                                        target="#D_Herb_ISN0000000110219020"><persName
-                                            rendition="#sc">d'herb.</persName></ref></note>
+                                    celles des Anges Gardiens.<ref><persName
+                                            ref="#D_Herb_ISN0000000110219020" rendition="#sc"
+                                            >d'herb.</persName></ref></note>
                             </sense>
                         </entry>
                         <cb n="2"/>
 
                         <entry xml:lang="fra" xml:id="cabale">
                             <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">cabale
-                                        </orth><lbl>ou </lbl><orth rendition="#uc" type="variant"
-                                        >cabbale</orth>
+                                    </orth></form><lbl>ou </lbl><form><orth rendition="#uc"
+                                        type="variant">cabbale</orth>
                                     <gramGrp><pos expand="Substantif"> s.</pos><gen expand="Feminin"
                                             >f.</gen>
                                     </gramGrp></form></form>
@@ -7686,8 +7687,8 @@
                                     &amp;amp; en des rappors mysterieux qu'ils font des choses aux
                                     lettres de l'Alphabet Hébraïque. </def>
                                 <note>On y voit beaucoup d'esprit &amp;amp; de subtilité; mais bien
-                                    de la vanité &amp;amp; de la superstition. <ref
-                                        target="#Villars_ISN0000000121185233"><persName>L'Abbé de
+                                    de la vanité &amp;amp; de la superstition. <ref><persName
+                                            ref="#Villars_ISN0000000121185233">L'Abbé de
                                             Villars</persName></ref> a exposé les ridicules secrets
                                     de la <hi rendition="#i">cabale</hi>, que les Cabalistes
                                     appellent la <hi rendition="#i">Sacrée cabale.</hi> Ils
@@ -7702,25 +7703,25 @@
                                     dire qu'ils ont deferé à <persName>Paracelse</persName> le
                                     sceptre de la Monarchie Cabalistique. </note>
                                 <xr>
-                                    <lbl>Voyez le </lbl><ref target="#Comte_de_Gabalis"> C. de
-                                        Gabalis </ref></xr>
+                                    <lbl>Voyez le </lbl><ref>
+                                        <title ref="#Comte_de_Gabalis"/>C. de Gabalis </ref></xr>
                                 <cit type="citation">
                                     <quote>La <hi rendition="#i">cabale</hi> est une science
                                         sérieuse, &amp;amp; il n'y a que les mélancoliques qui s'y
                                         adonnent.</quote>
-                                    <ref target="#Villars_ISN0000000121185233"><persName
+                                    <ref><persName ref="#Villars_ISN0000000121185233"
                                             rendition="#sc">ab de vilars</persName></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote>La <hi rendition="#i">cabale</hi> est une de ces chimeres
                                         qu'on autorise quand on les combat gravement , &amp;amp;
                                         qu'on ne doit entreprendre de détruire qu'en se joüant. </quote>
-                                    <ref target="#Villars_ISN0000000121185233"><persName><abbr
+                                    <ref><persName ref="#Villars_ISN0000000121185233"><abbr
                                                 type="idem" rendition="#sc"
                                         >id</abbr></persName></ref>
                                 </cit>
                                 <note>
-                                    <ref target="#Flud_ISN0000000089224510"><persName>Robert
+                                    <ref><persName ref="#Flud_ISN0000000089224510">Robert
                                             Flud</persName>
                                     </ref>Anglois en a fait d'amples Traités &amp;amp; Apologies
                                     dans ses neuf grands Volumes. </note>
@@ -7728,7 +7729,7 @@
                                     <foreign rendition="#i">cabala</foreign>, qui signifie
                                     reception, comme de massora, traditio. Men. Ou de kibbel, qui
                                     signifie, j’ay enseigné. <xr><lbl>Voyez</lbl>
-                                        <ref target="#Kircher_ISN0000000121266092"><persName> le P.
+                                        <ref><persName ref="#Kircher_ISN0000000121266092"> le P.
                                                 Kircher.</persName></ref></xr></etym>
                             </sense>
                             <sense n="2"><form><orth rendition="#sc">cabale,</orth></form>
@@ -7750,7 +7751,7 @@
                                     <quote>A Rome, comme aujourd'huy, la <hi rendition="#i">cabale
                                         </hi>l'emportoit souvent sur le merite, &amp;amp; decidoit
                                         du sort des Ouvrages.</quote>
-                                    <ref target="#Dac_ISN0000000121251069"><persName rendition="sc"
+                                    <ref><persName ref="#Dac_ISN0000000121251069" rendition="sc"
                                             >dac.</persName></ref>
                                 </cit>
                             </sense>
@@ -7797,20 +7798,20 @@
                                             >Sepher-Jezirah </hi>et d'un grand poids chez les <hi
                                             rendition="#i">Cabalistes;</hi> ils s'en servent à faire
                                         des miracles.</quote>
-                                    <ref target="#Bay_ISN0000000122807284"><persName rendition="#sc"
+                                    <ref><persName ref="#Bay_ISN0000000122807284" rendition="#sc"
                                             >bay.</persName></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote>Le <hi rendition="#i">Cabaliste</hi> n'agit que par les
                                         principes de la nature.</quote>
-                                    <ref target="#Villars_ISN0000000121185233"><persName
+                                    <ref><persName ref="#Villars_ISN0000000121185233"
                                             rendition="#sc">de vill</persName></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote>Vouloir guérir les <hi rendition="#i">Cabalistes</hi> par
                                         raison, c'est entreprendre l'impossible. Ce sont des
                                         visionnaires sérieux qu'on ne ramene guere.</quote>
-                                    <ref target="#Villars_ISN0000000121185233"><persName><abbr
+                                    <ref><persName ref="#Villars_ISN0000000121185233"><abbr
                                                 type="idem" rendition="#sc"
                                         >id.</abbr></persName></ref>
                                 </cit>
@@ -7829,7 +7830,7 @@
                                     <quote>Les subtilitez <hi rendition="#i">cabalistiques</hi> sont
                                         de pures visions &amp;amp; superstitions. Tâchez de vous
                                         rendre digne de recevoir les lumieres cabalistiques.</quote>
-                                    <ref target="#Villars_ISN0000000121185233"><persName
+                                    <ref><persName ref="#Villars_ISN0000000121185233"
                                             rendition="#sc">ab de vilars. </persName></ref>
                                 </cit>
                             </sense>
@@ -7842,10 +7843,9 @@
                                             >m.</gen></gramGrp></form></form>
                             <sense n="1"><usg>Vieux mot.</usg><def> Manteau de pluye avec des
                                     manches, qu'on porte à cheval. </def>
-                                <etym><ref target="#Men_ISN0000000080815971"
-                                            ><persName>Menage</persName></ref> le fait venir de
-                                        <foreign xml:lang="lat">cappa</foreign><pc>,</pc>
-                                    cappe.</etym>
+                                <etym><ref><persName ref="#Men_ISN0000000080815971"
+                                            >Menage</persName></ref> le fait venir de <foreign
+                                        xml:lang="lat">cappa</foreign><pc>,</pc> cappe.</etym>
                             </sense>
                         </entry>
 
@@ -7861,13 +7861,14 @@
                                     <quote>Les solitaires meprisoient le sejour des villes, pour
                                         aller dans les deserts habiter <pb/> des
                                         <hi>cabanes</hi></quote>
-                                    <ref target="#Dupin_ISN0000000107826807">
-                                        <persName rendition="#sc">du pin.</persName></ref>
+                                    <ref>
+                                        <persName ref="#Dupin_ISN0000000107826807" rendition="#sc"
+                                            >du pin.</persName></ref>
                                 </cit>
                                 <cit type="citation">
-                                    <lbl><ref target="#Malherbe_ISN0000000110606733"
-                                                ><persName>Malherbe</persName></ref>a dit en parlant
-                                        de la mort</lbl>
+                                    <lbl><ref><persName ref="#Malherbe_ISN0000000110606733"
+                                                >Malherbe</persName></ref>a dit en parlant de la
+                                        mort</lbl>
                                     <quote><lg rendition="#i">
                                             <l>Le pauvre en ca <hi rendition="#n">cabane</hi> où le
                                                 chanoine le couvre,</l>
@@ -7878,10 +7879,10 @@
                                 <etym>Ce mot vient de l'<lang xml:lang="ita">Italien</lang>
                                     <foreign>cappana</foreign> qui signifie petite maison de chaume,
                                     qui a été fait du <lang xml:lang="ell">Grec</lang>
-                                    <foreign>kabané</foreign>, signifiant creche. <ref
-                                        target="#Men_ISN0000000080815971"><persName>men.</persName>
-                                    </ref><ref target="#Isidore_ISN0000000122756296"
-                                            ><persName>Isidore</persName>
+                                    <foreign>kabané</foreign>, signifiant creche. <ref><persName
+                                            ref="#Men_ISN0000000080815971">men.</persName>
+                                    </ref><ref><persName ref="#Isidore_ISN0000000122756296"
+                                            >Isidore</persName>
                                     </ref>dit que le mot de <foreign xml:lang="ita"
                                         >capanna</foreign> vient <foreign xml:lang="lat">ex co qued
                                         unum tantium hominen capiat.</foreign>. Les Espagnols disent
@@ -7958,10 +7959,10 @@
                                         >cabaret</hi> n'a point d'action contre celui qui en a abusé
                                     ;la loi n'a pas jugé qu'une personne d'une condition si vile,
                                     fût digne de ses soins. </note>
-                                <etym><ref target="#Men_ISN0000000080815971"
-                                            ><persName>Menage</persName></ref> croit que ce mot
-                                    vient de <foreign xml:lang="lat"> caparetum,</foreign>qui a été
-                                    fait du <lang xml:lang="ell">Grec</lang>
+                                <etym><ref><persName ref="#Men_ISN0000000080815971"
+                                            >Menage</persName></ref> croit que ce mot vient de
+                                        <foreign xml:lang="lat"> caparetum,</foreign>qui a été fait
+                                    du <lang xml:lang="ell">Grec</lang>
                                     <foreign xml:lang="ell">kapi</foreign>,qui signifie <hi
                                         rendition="#i">lieu où l'on mange.</hi>
                                 </etym></sense>
@@ -8032,9 +8033,9 @@
                                     <quote>Ce Marchand a fait venir deux cent <hi rendition="#i"
                                             >cabas</hi> de figues.</quote>
                                 </cit>
-                                <etym><ref target="#Men_ISN0000000080815971"
-                                            ><persName>Menage</persName></ref>derive ce mot de
-                                        l'<lang xml:lang="ita">Italien</lang><foreign rendition="#i"
+                                <etym><ref><persName ref="#Men_ISN0000000080815971"
+                                            >Menage</persName></ref>derive ce mot de l'<lang
+                                        xml:lang="ita">Italien</lang><foreign rendition="#i"
                                         xml:lang="ita">cabaco,</foreign> qu'il dit avoir été fait de
                                         <foreign rendition="#i" xml:lang="lat">cabaccus</foreign>
                                     <lang xml:lang="lat">Latin</lang> . D'autres disent que c'est un
@@ -8077,8 +8078,8 @@
                             <sense n="1"><usg ana="#vieux">Vieux mot qui signifioit
                                     autrefois</usg><def> une arme deffensive qui couvroit la
                                     tête.</def>
-                                <etym>Ce mot, selon <ref target="#Nicot_ISN000000011856542X"
-                                        /><persName>Nicod</persName><pc>,</pc> vient de l'<lang
+                                <etym>Ce mot, selon <ref><persName ref="#Nicot_ISN000000011856542X"
+                                            >Nicod</persName></ref><pc>,</pc> vient de l'<lang
                                         xml:lang="heb">Hebreu</lang>
                                     <foreign xml:lang="heb">coba,</foreign>qui signifie un calque,
                                     ou <hi rendition="#i">haume;</hi>ou de l'<lang xml:lang="spa"
@@ -8185,11 +8186,11 @@
                                 <note>Ces Tribu ou <hi>cabilles</hi>sont independantes, &amp; ne
                                     reconoissent aucun Souverain. Ce sont des troupes de vagabonds
                                     qui marchent sous un chef qu'ils appellent <hi>Cacique.</hi> On
-                                    compte 80. de ces Tribus parmi les Arabes.<ref
-                                        target="#D_Herb_ISN0000000110219020"><persName
-                                            rendition="#sc">d'herb.</persName></ref><ref
-                                        target="#Ozanam_ISN0000000108562428"><persName
-                                            rendition="#sc">ozanam.</persName></ref>
+                                    compte 80. de ces Tribus parmi les Arabes.<ref><persName
+                                            ref="#D_Herb_ISN0000000110219020" rendition="#sc"
+                                            >d'herb.</persName></ref><ref><persName
+                                            ref="#Ozanam_ISN0000000108562428" rendition="#sc"
+                                            >ozanam.</persName></ref>
                                 </note></sense>
                         </entry>
 
@@ -8225,8 +8226,8 @@
                                             <hi>cabinet.</hi>
                                     </quote>
                                 </cit>
-                                <etym><ref target="#Men_ISN0000000080815971"
-                                            ><persName>Menage</persName>
+                                <etym><ref><persName ref="#Men_ISN0000000080815971"
+                                            >Menage</persName>
                                     </ref>derive ce mot de <foreign rendition="#i" xml:lang="lat"
                                         >cavinettum</foreign></etym>
                             </sense>
@@ -8246,19 +8247,19 @@
                                         la raison est qu'ils ont besoin de tout le calme du <hi
                                             rendition="#i">cabinet</hi>pour bien arranger leurs
                                         pensées.</quote>
-                                    <ref target="#Oeuvres_melees"><title>oe.m.</title></ref>
+                                    <ref><title ref="#Oeuvres_melees">oe.m.</title></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote>On ne perd que dans le commerce du monde cette contenance
                                         embarassée, &amp; cet air sombre qu'on acquiert dans le <hi
-                                            rendition="#i">cabinet,</hi>&amp;dans la solitude. <ref
-                                            target="#Oeuvres_melees"><title><abbr type="idem"
+                                            rendition="#i">cabinet,</hi>&amp;dans la solitude.
+                                                <ref><title ref="#Oeuvres_melees"><abbr type="idem"
                                                   rendition="#sc">id.</abbr></title></ref></quote>
                                 </cit>
                                 <cit type="citation">
                                     <quote> Il faut s'abstenir des débauches d'esprit, &amp; des
                                         excès de <hi rendition="#i">cabinet</hi>
-                                        <ref target="#La_Guill_ISN0000000079760360"><persName
+                                        <ref><persName ref="#La_Guill_ISN0000000079760360"
                                                 rendition="#sc">la guill.</persName></ref>
                                     </quote>
                                 </cit>
@@ -8358,7 +8359,7 @@
                                             >cabinet</hi></quote>
                                 </seg>
                                 <cit type="citation">
-                                    <ref target="#De_la_Roch_ISN0000000121010804"><persName
+                                    <ref><persName ref="#De_la_Roch_ISN0000000121010804"
                                             rendition="#sc">la rochef.</persName></ref>
                                     <quote><persName type="personne">Charles V.</persName>Empereur
                                         n'étoit pas grand Capitaine, mais c'étoit un grand homme de
@@ -8388,9 +8389,8 @@
                                             de Monsieur <persName>de Thou</persName></rs></quote>
                                 </cit>
                                 <cit type="exemple">
-                                    <quote><ref target="#Men_ISN0000000080815971">Monsieur<persName
-                                                ref="#Men_ISN0000000080815971"
-                                            >Menage</persName></ref>tenoit souvent <hi
+                                    <quote><ref>Monsieur<persName ref="#Men_ISN0000000080815971"
+                                                >Menage</persName></ref>tenoit souvent <hi
                                             rendition="#i">cabinet</hi>chez lui.</quote>
                                 </cit>
                             </sense>
@@ -8431,19 +8431,19 @@
                                 <etym>Ce mot vient de l'<lang xml:lang="heb">Hebreu</lang>
                                     <foreign rendition="#i" xml:lang="heb">chebel,</foreign> ou de
                                     son pluriel <foreign rendition="#i" xml:lang="heb"
-                                        >chebalim,</foreign>qui signifie corde. <ref
-                                        target="#Nicot_ISN000000011856542X"
-                                            ><persName>nicod</persName><pc>.</pc></ref>
-                                    <ref target="#Du_Cange_ISN0000000121021239">
-                                        <persName>Du Cange</persName></ref>croit qu'il vient de
-                                        l'<lang xml:lang="ara">Arabe</lang>
-                                    <foreign rendition="#i" xml:lang="Ar">habl,</foreign> qui
+                                        >chebalim,</foreign>qui signifie corde. <ref><persName
+                                            ref="#Nicot_ISN000000011856542X"
+                                            >nicod</persName><pc>.</pc></ref>
+                                    <ref>
+                                        <persName ref="#Du_Cange_ISN0000000121021239">Du
+                                            Cange</persName></ref>croit qu'il vient de l'<lang
+                                        xml:lang="ara">Arabe</lang>
+                                    <foreign rendition="#i" xml:lang="ara">habl,</foreign> qui
                                     signifie <hi>corde,</hi> ou de <foreign rendition="#i"
-                                        xml:lang="Ar">habala,</foreign><hi>vincire</hi>
-                                    <ref target="#Men_ISN0000000080815971"
-                                            ><persName>Ménage</persName></ref>aprés <ref
-                                        target="#Isidore_ISN0000000122756296"
-                                            ><persName>Isidore</persName>
+                                        xml:lang="ara">habala,</foreign><hi>vincire</hi>
+                                    <ref><persName ref="#Men_ISN0000000080815971"
+                                        >Ménage</persName></ref>aprés <ref><persName
+                                            ref="#Isidore_ISN0000000122756296">Isidore</persName>
                                     </ref> le dérive de <foreign rendition="#i" xml:lang="lat"
                                         >capulum</foreign> ou <foreign rendition="#i" xml:lang="Lat"
                                         >cabulum</foreign> qu'il fait venir du <lang xml:lang="ell"
@@ -8452,9 +8452,9 @@
                                         <lang xml:lang="lat">Latin</lang>
                                     <foreign rendition="#i" xml:lang="Lat">camelus.</foreign>
                                     <note>On dit aussi <foreign rendition="#i" xml:lang="lat"
-                                            >caplum</foreign>dans la basse Latinité, que <ref
-                                            target="#Papias_ISN0000000071399590"
-                                                ><persName>Papias</persName></ref> derive à <foreign
+                                            >caplum</foreign>dans la basse Latinité, que
+                                                <ref><persName ref="#Papias_ISN0000000071399590"
+                                                >Papias</persName></ref> derive à <foreign
                                             rendition="#i" xml:lang="lat">capiendo</foreign> qui
                                         signifie une <hi rendition="#i">corde de navire</hi>
                                     </note>
@@ -8464,19 +8464,19 @@
                             <etym>Ce mot vient de l'<lang xml:lang="heb">Hebreu</lang>
                                 <foreign rendition="#i" xml:lang="heb">chebel,</foreign> ou de son
                                 pluriel <foreign rendition="#i" xml:lang="heb"
-                                >chebalim,</foreign>qui signifie corde. <ref
-                                    target="#Nicot_ISN000000011856542X"
-                                        ><persName>nicod</persName><pc>.</pc></ref>
-                                <ref target="#Du_Cange_ISN0000000121021239">
-                                    <persName>Du Cange</persName></ref>croit qu'il vient de l'<lang
+                                >chebalim,</foreign>qui signifie corde. <ref><persName
+                                        ref="#Nicot_ISN000000011856542X"
+                                    >nicod</persName><pc>.</pc></ref>
+                                <ref>
+                                    <persName ref="#Du_Cange_ISN0000000121021239">Du
+                                        Cange</persName></ref>croit qu'il vient de l'<lang
                                     xml:lang="ara">Arabe</lang>
                                 <foreign rendition="#i" xml:lang="Ar">habl,</foreign> qui signifie
                                     <hi>corde,</hi> ou de <foreign rendition="#i" xml:lang="Ar"
                                     >habala,</foreign><hi>vincire</hi>
-                                <ref target="#Men_ISN0000000080815971"
-                                    ><persName>Ménage</persName></ref>aprés <ref
-                                    target="#Isidore_ISN0000000122756296"
-                                        ><persName>Isidore</persName>
+                                <ref><persName ref="#Men_ISN0000000080815971">
+                                    Ménage</persName></ref>aprés <ref><persName
+                                        ref="#Isidore_ISN0000000122756296">Isidore</persName>
                                 </ref> le dérive de <foreign rendition="#i" xml:lang="lat"
                                     >capulum</foreign> ou <foreign rendition="#i" xml:lang="Lat"
                                     >cabulum</foreign> qu'il fait venir du <lang xml:lang="ell"
@@ -8485,11 +8485,11 @@
                                     xml:lang="lat">Latin</lang>
                                 <foreign rendition="#i" xml:lang="Lat">camelus.</foreign>
                                 <note>On dit aussi <foreign rendition="#i" xml:lang="lat"
-                                        >caplum</foreign>dans la basse Latinité, que <ref
-                                        target="#Papias_ISN0000000071399590"
-                                            ><persName>Papias</persName></ref> derive à <foreign
-                                        rendition="#i" xml:lang="lat">capiendo</foreign> qui
-                                    signifie une <hi rendition="#i">corde de navire</hi>
+                                        >caplum</foreign>dans la basse Latinité, que <ref><persName
+                                            ref="#Papias_ISN0000000071399590"
+                                        >Papias</persName></ref> derive à <foreign rendition="#i"
+                                        xml:lang="lat">capiendo</foreign> qui signifie une <hi
+                                        rendition="#i">corde de navire</hi>
                                 </note>
                             </etym>
 
@@ -8844,9 +8844,9 @@
                                 <form type="lemma"><orth rendition="#uc">cacao</orth>
                                     <pc>(</pc><lbl> D'autres disent </lbl>
                                     <form><orth type="variant">cacaoyer</orth></form>
-                                    <lbl>pour l'arbre &amp;</lbl>
-                                    <form><orth/>cacao</form><lbl>pour le
-                                    fruit.</lbl><pc>)</pc></form>
+                                    <usg>pour l'arbre &amp;</usg>
+                                    <form><orth/>cacao</form><usg>pour le
+                                    fruit.</usg><pc>)</pc></form>
                                 <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
                                         >m.</gen></gramGrp></form>
 
@@ -8943,7 +8943,7 @@
                                         afin que les soldats ne le puissent trouver.</quote>
                                 </cit>
                                 <etym><ref><persName ref="#Men_ISN0000000080815971"
-                                        >Menage</persName></ref> après <persName
+                                            >Menage</persName></ref> après <persName
                                         ref="#Guyet_ISN0000000079712289">Guyet</persName> derive ce
                                     mot de <lang>caciare</lang>, qui signifie <hi>chasser</hi>,
                                         <hi>pousser</hi>.</etym>
@@ -9044,7 +9044,7 @@
                                         d'épaisses tenebres , &amp; se rit de nos craintes injustes
                                         &amp; deraisonnables.</quote>
                                     <ref><persName ref="#Port_Royal" rendition="#sc"
-                                        >port-r.</persName></ref>
+                                            >port-r.</persName></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote>Il a de l’adresse à bien <hi rendition="#i">cacher</hi>
@@ -9106,7 +9106,7 @@
                                     <quote>Le peché que l'on cache est demi pardonné</quote>
                                     <lbl>, dit </lbl>
                                     <ref><persName ref="#Regn_ISN0000000108814744"
-                                        >Regnier.</persName></ref>
+                                            >Regnier.</persName></ref>
                                 </cit></sense>
                             <re><form type="lemma"><orth rendition="#sc" extent="full"
                                         >caché</orth><orth rendition="#sc" type="variant"
@@ -10055,7 +10055,8 @@
 
 
                         <entry xml:lang="fra" xml:id="Cadmie">
-                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">cadmie</orth></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >cadmie</orth></form>
                                 <gramGrp><pos expand="Substantif">s</pos><gen expand="Feminin"
                                         >f</gen></gramGrp></form>
                             <sense n="1"><usg type="terme" ana="#pharmacie">Terme de
@@ -10101,7 +10102,8 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cadole">
-                           <form type="lemmaGrp"> <form type="lemma"><orth rendition="#uc">cadole</orth></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc">cadole</orth></form>
                                 <gramGrp><pos expand="Substantif">s</pos><gen expand="Masculin"
                                         >m</gen></gramGrp></form>
                             <sense n="1"><def>C'est le nom que les Serruriers donnent au loquet
@@ -10112,7 +10114,8 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cadran">
-                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">cadran</orth></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >cadran</orth></form>
                                 <gramGrp><pos expand="Substantif">s</pos><gen expand="Masculin"
                                         >m</gen></gramGrp></form>
                             <sense n="1"><usg type="terme" ana="#jouaillier">Terme de
@@ -10132,20 +10135,23 @@
 
                         <entry xml:lang="fra" xml:id="Cadre">
                             <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
-                                    >cadre</orth>&amp;<orth>cadran</orth></form></form>
+                                        >cadre</orth>&amp;<orth>cadran</orth></form></form>
                             <xr><lbl> Voyez </lbl><ref rendition="#sc" type="syn" corresp="#quadre"
                                     >quadre</ref><pc>.</pc></xr>
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cadrille">
-                          <form type="lemmaGrp"> <form type="lemma"><orth rendition="#uc">cadrille</orth></form></form> 
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc"
+                                >cadrille</orth></form></form>
                             <xr><lbl> Voyez </lbl>
                                 <ref rendition="#sc" type="syn" corresp="#quadrille"
                                     >quadrille</ref><pc>.</pc></xr>
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cadruple">
-                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">cadruple</orth></form></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >cadruple</orth></form></form>
                             <xr><lbl> Voyez </lbl>
                                 <ref rendition="#sc" type="syn" corresp="#quadruple"
                                     >quadruple.</ref></xr>
@@ -10267,8 +10273,8 @@
                                 <cit type="citation">
                                     <quote>La mort qui prévient la <hi rendition="#i">caducité</hi>
                                         arrive plus à-propos que celle qui la termine. </quote>
-                                    <ref><persName ref="#Bruyere_ISN0000000121009707" rendition="#sc"
-                                            >la.br.</persName></ref>
+                                    <ref><persName ref="#Bruyere_ISN0000000121009707"
+                                            rendition="#sc">la.br.</persName></ref>
                                 </cit>
                             </sense>
                         </entry>
@@ -10411,9 +10417,12 @@
 
 
                         <entry xml:id="Cage" xml:lang="fra">
-                            <form type="lemma"><orth rendition="#uc">cage</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
-                                        >f.</gen></gramGrp></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma">
+                                    <orth rendition="#uc">cage</orth></form>
+                                <gramGrp>
+                                    <pos expand="Substantif">s.</pos>
+                                    <gen expand="Feminin">f.</gen></gramGrp></form>
                             <sense n="1">
                                 <def>Petit vaisseau fermé et à claires voyes, &amp; portatif, fait
                                     d'osier, ou de fil de fer, où on nourrit des oiseaux. </def>
@@ -10775,8 +10784,8 @@
                                     <quote>La mode de porter de grands canons étoit fort favorable
                                         aux <hi>cagneux</hi>. Sa ringrave étoit courte , &amp; sou
                                         genou cagneux.</quote>
-                                    <ref><persName ref="#Scarron_ISN0000000120990126" rendition="#sc"
-                                            >scar.</persName></ref>
+                                    <ref><persName ref="#Scarron_ISN0000000120990126"
+                                            rendition="#sc">scar.</persName></ref>
                                 </cit>
                                 <etym>Ce mot vient apparemment de <hi rendition="#i">chien</hi>,
                                     parcequ'il pas les jambes droites; &amp; ainsi il a été fait de
@@ -11206,7 +11215,8 @@
                                         rendition="#i">caillement</hi> de lait &amp; pour
                                     l'empecher, il faut se faire téter, &amp; vider ses mamelles.
                                             <ref><persName ref="#Mauriceau_ISN0000000081280032"
-                                            rendition="#sc">mauriceau</persName></ref></note></sense>
+                                            rendition="#sc"
+                                >mauriceau</persName></ref></note></sense>
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cailleteau">
@@ -11233,8 +11243,9 @@
                                     feuillets ont cela de particulier qu'ils enferment outre les
                                     membranes, dont ils sont composez, plusieurs glandes qui ne
                                     trouvent point dans les trois autres ventricules. </note>
-                                <etym> En latin <lang rendition="#i" xml:lang="lat"
-                                    >abomasum</lang>.</etym>
+                                <etym> En <lang xml:lang="lat">latin</lang>
+                                    <foreign rendition="#i" xml:lang="lat"
+                                        >abomasum</foreign><pc>.</pc></etym>
                             </sense>
                             <sense n="2"><form type="lemma"><orth>caillette</orth></form>
                                 <def>Se dit figurément d'un homme sans coeur, &amp; sans vigueur,
@@ -11701,10 +11712,12 @@
 
                         </entry>
                         <entry xml:lang="fra" xml:id="Calamiteux">
-                            <form type="lemma"><orth rendition="#uc" extent="full"
-                                    >CALAMITEUX</orth><orth rendition="#sc" extent="part"
-                                    >EUSE</orth>
-                                <gramGrp><pos expand="Adjectif">adj.</pos></gramGrp></form>
+                            <form type="lemmaGrp"/>
+                            <form type="lemma"><orth extent="full">calamiteux</orth></form>
+                            <form><orth rendition="#sc" extent="part">euse</orth>
+                                <gramGrp>
+                                    <pos expand="Adjectif">adj.</pos>
+                                </gramGrp></form>
                             <sense n="1">
                                 <def>Infortuné, misérable.</def>
                                 <note> Il ne se dit gueres que des temps de trouble &amp; de guerre,
@@ -12126,13 +12139,13 @@
                                     <quote><persName>Voiture</persName> avoit aimé depuis le sceptre
                                         jusqu'à la houlette, &amp; depuis la couronne jusqu'à la <hi
                                             rendition="#i">cale</hi>.</quote>
-                                    <ref><persName ref="#Sarasin_ISN0000000396445268" rendition="#sc"
-                                            >sar.</persName></ref>
+                                    <ref><persName ref="#Sarasin_ISN0000000396445268"
+                                            rendition="#sc">sar.</persName></ref>
                                 </cit>
                                 <etym><ref><persName ref="#Borel_ISN0000000457851471"
-                                        >Borel</persName></ref> derive ce mot d'<hi rendition="#i"
-                                        >écaille</hi>, aussi-bien que celui de <hi rendition="#i"
-                                        >calotte</hi>.</etym>
+                                            >Borel</persName></ref> derive ce mot d'<hi
+                                        rendition="#i">écaille</hi>, aussi-bien que celui de <hi
+                                        rendition="#i">calotte</hi>.</etym>
                             </sense>
                             <sense n="8"><form type="lemma"><orth rendition="#sc">CALE</orth>,
                                     </form><usg>chez les Artisans,</usg><def> est une piece de bois
@@ -12839,8 +12852,7 @@
                                     stile serieux:</usg><cit type="exemple">
                                     <quote>le <hi rendition="#i">calice</hi>des Saints se boit avec
                                         amertume: il afflige, il revolte la nature.</quote>
-                                    <ref><title ref="#Lettres_d_Abelard"
-                                        >L.D'ABELARD.</title></ref>
+                                    <ref><title ref="#Lettres_d_Abelard">L.D'ABELARD.</title></ref>
                                 </cit>
                                 <sense n="3">On dit aussi des gens fort braves &amp; fort lestes,
                                     qu'ils sont dorez comme des <hi rendition="#i"
@@ -13066,16 +13078,15 @@
                                     <quote> Fatigué du monde il s'est jette dans un Monastere, pour
                                         y jouïr du <hi rendition="#i">calme</hi> heureux d'une
                                         pieuse oiseveté.</quote>
-                                    <ref><title ref="#Disc_d_El" rendition="#sc">disc.
-                                            d'el.</title>
+                                    <ref><title ref="#Disc_d_El" rendition="#sc">disc. d'el.</title>
                                     </ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote>Un Solitaire qui ne connoît d'autres vicissitudes que le
                                         changement des saisons jouït d'un calme profond que rien ne
                                         sçauroit troubler. </quote>
-                                    <ref><persName ref="#M_Sc_ISN0000000121214284" rendition="#sc">Mm
-                                            sc.</persName></ref>
+                                    <ref><persName ref="#M_Sc_ISN0000000121214284" rendition="#sc"
+                                            >Mm sc.</persName></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote>La vigueur de l'esprit se relâche, &amp; la vertu
@@ -13207,10 +13218,9 @@
                                         <pb/> que l'accusé eût soufferte, s'il eût été convaincu du
                                         crime qu'on lui imposait. Aujourd'huy cette exacte justice
                                         n'est pas observée. On modere la peine par rapport aux
-                                        personnes, &amp; à la nature de la calomnie.
-                                            <ref>C.B.</ref> Le nom que les Grecs ont donné au
-                                        Diable, c'st celui de <hi rendition="#i"
-                                        >Calomniateur</hi>.</quote>
+                                        personnes, &amp; à la nature de la calomnie. <ref>C.B.</ref>
+                                        Le nom que les Grecs ont donné au Diable, c'st celui de <hi
+                                            rendition="#i">Calomniateur</hi>.</quote>
                                 </cit></sense>
                         </entry>
 
@@ -13865,14 +13875,14 @@
                                 <def>Chez les Artisans , signifie aussi , Ce qui est creux ou
                                     concave, ce qu'on a creusé par art , qui n'est plus uni.</def>
                                 <etym><ref><persName ref="#Men_ISN0000000080815971"
-                                        >Menage</persName></ref> derive ce mot de <hi rendition="#i"
-                                        >camarains</hi>, qui a été fait de <hi rendition="#i"
-                                        >camurus</hi>, qui signifie <hi rendition="#i">curvus</hi>,
-                                    comme a remarqué <persName type="person">Servius</persName>.
-                                    D'autres le dérivent de <hi rendition="#i">camera</hi>, qui
-                                    signifioit <hi>voute</hi>, dont on a fait aussi <hi
-                                        rendition="#i">chambre</hi>, parce-qu'elles étoient
-                                    autrefois faites en voute. <ref><persName
+                                            >Menage</persName></ref> derive ce mot de <hi
+                                        rendition="#i">camarains</hi>, qui a été fait de <hi
+                                        rendition="#i">camurus</hi>, qui signifie <hi rendition="#i"
+                                        >curvus</hi>, comme a remarqué <persName type="person"
+                                        >Servius</persName>. D'autres le dérivent de <hi
+                                        rendition="#i">camera</hi>, qui signifioit <hi>voute</hi>,
+                                    dont on a fait aussi <hi rendition="#i">chambre</hi>,
+                                    parce-qu'elles étoient autrefois faites en voute. <ref><persName
                                             ref="#Du_Cange_ISN0000000121021239">Du
                                         Cange</persName></ref> derive ce mot de <hi rendition="#i"
                                         >camberta</hi>, qui est une espece d'arbrisseau qui vient
@@ -14022,8 +14032,8 @@
                                     <quote> Un Ministre d'Etat est un <hi>cameleon</hi>, un Prothée
                                         , qui feint toutes sortes de caracteres selon les vuës ,
                                         &amp; les interêts.</quote>
-                                    <ref><persName ref="#Bruyere_ISN0000000121009707" rendition="#sc"
-                                            >la br.</persName></ref>
+                                    <ref><persName ref="#Bruyere_ISN0000000121009707"
+                                            rendition="#sc">la br.</persName></ref>
                                 </cit>
                                 <persName ref="#LaFontaine_ISN0000000120958636">La
                                     Fontaine</persName>
@@ -14142,7 +14152,7 @@
                                         ondé, sans ondes. </seg><seg type="terme_variant">Camelot à
                                         eau, ou avec apprêt, sans eau, ou sans apprêt.</seg></note>
                                 <etym><ref><persName ref="#Men_ISN0000000080815971"
-                                        >Menage</persName></ref> tient que ce mot vient de <lang
+                                            >Menage</persName></ref> tient que ce mot vient de <lang
                                         rendition="#i" xml:lang="levant">zambelot</lang>, qui est un
                                     mot Levantin qui se dit des étoffes faites d'un poil fort délié,
                                     qui se tire de certaines chevres qu'on trouve en quelques
@@ -14894,9 +14904,8 @@
                                     rendition="#i">camurus</lang>, qui est interpreté <lang
                                     xml:lang="lat" rendition="#i">curvus</lang> ou <hi>courbé</hi>
                                 par <persName type="person">Servius</persName>. <ref><persName
-                                        ref="#Men_ISN0000000080815971"/>Menage</ref> dit qu'il
-                                vient du Grec <lang xml:lang="ell" rendition="#i"
-                                >kampi.</lang></etym>
+                                        ref="#Men_ISN0000000080815971"/>Menage</ref> dit qu'il vient
+                                du Grec <lang xml:lang="ell" rendition="#i">kampi.</lang></etym>
 
                             <sense n="2"><usg>On dit proverbialement, qu'un homme est bien <hi
                                         rendition="#i">camus</hi>, qu'on l'a rendu bien <hi
@@ -15142,9 +15151,9 @@
                                         >canal</hi>, le tuyau de plomb qui fert à conduire les eaux
                                     pluviales depuis le toit jusqu’en bas. Ils appellent <seg
                                         type="terme_variant"><hi rendition="#i">canal</hi> de
-                                        cheminée</seg>, le tuyau par où sort la fumée. <ref><persName
-                                            ref="#Pomey_ISN0000000090998097"
-                                    >Pomey</persName>.</ref></def></sense>
+                                        cheminée</seg>, le tuyau par où sort la fumée.
+                                            <ref><persName ref="#Pomey_ISN0000000090998097"
+                                            >Pomey</persName>.</ref></def></sense>
 
                             <sense n="16"><form type="lemma"><orth>canal </orth></form><usg
                                     type="terme" ana="#arquebusier">est aussî en termes
@@ -15252,26 +15261,32 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Canarie">
-                            <sense n="1"><form type="lemma"><orth rendition="#uc"
-                                            >canarie</orth><gramGrp><pos expand="Substantif"
-                                            >s.</pos><gen expand="Feminin">f.</gen></gramGrp></form>
-                                <def>Espece d’ancienne danse que quelques-uns croyent venir des
-                                    Isles Canaries, &amp;. qui, selon d’autres, vient d’un balet ou
-                                    mascarade dont les Danseurs etoient habillez en Rois de
-                                    Mauritaine, ou Sauvages.</def>
-                                <note>En cette danse on s’approche , &amp; on se recule les uns des
-                                    autres, en faisant plusieurs partages gaillards , étranges &amp;
-                                    bizarres qui representent des Sauvages,</note></sense>
-                            <sense n="2"><form type="lemma"><orth rendition="#sc"
-                                            >canarie</orth><gramGrp><pos expand="Substantif"
-                                            >s.</pos><gen expand="Masculin"
-                                    >m.</gen></gramGrp></form>
-                                <def>Sorte de petit oiseau qui chante bien qu’on apporte
-                                    ordinairement des Isles Canaries. </def>
-                                <note>On l’appelle autrement <hi rendition="#i">ferin</hi>. Un <hi
-                                        rendition="#i">canarie</hi> mâle, un <hi rendition="#i"
-                                        >canarie</hi> femelle.</note>
-                            </sense>
+                            <hom>
+                                <sense n="1"><form type="lemma"><orth rendition="#uc"
+                                                >canarie</orth><gramGrp><pos expand="Substantif"
+                                                >s.</pos><gen expand="Feminin"
+                                        >f.</gen></gramGrp></form>
+                                    <def>Espece d’ancienne danse que quelques-uns croyent venir des
+                                        Isles Canaries, &amp;. qui, selon d’autres, vient d’un balet
+                                        ou mascarade dont les Danseurs etoient habillez en Rois de
+                                        Mauritaine, ou Sauvages.</def>
+                                    <note>En cette danse on s’approche , &amp; on se recule les uns
+                                        des autres, en faisant plusieurs partages gaillards ,
+                                        étranges &amp; bizarres qui representent des
+                                        Sauvages,</note></sense>
+                            </hom>
+                            <hom>
+                                <sense n="1"><form type="lemma"><orth rendition="#sc"
+                                                >canarie</orth><gramGrp><pos expand="Substantif"
+                                                >s.</pos><gen expand="Masculin"
+                                        >m.</gen></gramGrp></form>
+                                    <def>Sorte de petit oiseau qui chante bien qu’on apporte
+                                        ordinairement des Isles Canaries. </def>
+                                    <note>On l’appelle autrement <hi rendition="#i">ferin</hi>. Un
+                                            <hi rendition="#i">canarie</hi> mâle, un <hi
+                                            rendition="#i">canarie</hi> femelle.</note>
+                                </sense>
+                            </hom>
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Canarin">
@@ -15472,7 +15487,7 @@
                                             <hi rendition="#i">candeur</hi>, dont il de sert pour
                                         les rafinemens de sa dissimulation, </quote>
                                     <ref><persName ref="#Port_Royal" rendition="#sc"
-                                        >port-r.</persName></ref>
+                                            >port-r.</persName></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote>Les âmes pleines de <hi rendition="#i">candeur</hi>, sont
@@ -15491,8 +15506,8 @@
                                 <cit type="citation">
                                     <quote>Je veux dans la satire un esprit de <hi rendition="#i"
                                             >candeur</hi>.</quote>
-                                    <ref><persName ref="#Boileau_ISN0000000121185604" rendition="#sc"
-                                            >boi.</persName></ref>
+                                    <ref><persName ref="#Boileau_ISN0000000121185604"
+                                            rendition="#sc">boi.</persName></ref>
                                 </cit>
                                 <etym>Ce mot vient du Latin <lang rendition="#i" xml:lang="lat"
                                         >cander</lang>.</etym>
@@ -15751,7 +15766,7 @@
                             <etym>Ce mot vient de <hi>cannabaceus</hi>, qui a été fait de <hi
                                     rendition="#i">cannabis</hi>.<ref><persName
                                         ref="#Men_ISN0000000080815971" rendition="#sc"
-                                    >men.</persName>.</ref> A Lyon on appelle encore <hi
+                                        >men.</persName>.</ref> A Lyon on appelle encore <hi
                                     rendition="#i">Marchands Cannebassiers,</hi> les Marchands de
                                 grosse toile.</etym>
                             <sense n="2"><form type="lemma"><orth rendition="#sc"
@@ -16694,9 +16709,9 @@
                                             >cannone</lang> Italien augmentatif de <lang
                                             xml:lang="ita" rendition="#i">canna</lang>, à cause que
                                         le <hi rendition="#i">canon</hi> est long , droit &amp;
-                                        creux comme une <hi rendition="#i">canne</hi>. <ref><persName
-                                                ref="#Men_ISN0000000080815971"
-                                        >MEN</persName></ref></etym>
+                                        creux comme une <hi rendition="#i">canne</hi>.
+                                                <ref><persName ref="#Men_ISN0000000080815971"
+                                                >MEN</persName></ref></etym>
                                 </sense>
 
 
@@ -16744,9 +16759,9 @@
                                             <hi rendition="#i">coches</hi> , sur lesquels le
                                         Canonier pose le coin de mire pour tirer. <ref><persName
                                                 ref="#D_Arcons_ISN0000000066474082"
-                                            >Darcons</persName></ref> dit avoir inventé une maniere
-                                        de suspendre le <hi rendition="#i">canon</hi> dans un
-                                        vaisseau qui le fait demeurer dans son point de mire
+                                                >Darcons</persName></ref> dit avoir inventé une
+                                        maniere de suspendre le <hi rendition="#i">canon</hi> dans
+                                        un vaisseau qui le fait demeurer dans son point de mire
                                         nonobstant l'agitation de la mer.</note>
                                     <!-- it makes sense that poudre à canon is related to artillery, but it coukd be realted easily to other senses. In many ways, we need to have all the religious cannons in a hom and everything armament in another. -->
                                     <re corresp="#Canon"><form type="lemma"><orth rendition="#sc">la
@@ -17210,7 +17225,7 @@
                                                 >Rome</persName> pour encourager le zêle des Moines
                                             &amp; des devôts. </quote>
                                         <ref><persName ref="#Claude_ISN0000000062993950"
-                                            >CL</persName>.</ref>
+                                                >CL</persName>.</ref>
                                     </cit></note></sense>
 
                             <sense n="2"><form type="lemma"><orth>canonisation</orth></form>
@@ -17233,8 +17248,9 @@
                                     &amp; l'on en faisoit commemoration, afin qu'ils priassent pour
                                     le peuple. Mr Simon a fait <hi rendition="#i">canoniser</hi> son
                                     nom en se faisant appeller. de St Simon. <ref><persName
-                                            ref="#Cail_ISN0000000108820706">CAIL</persName></ref>Dans
-                                    ce sens il ne se dit que par raillerie</etym></sense>
+                                            ref="#Cail_ISN0000000108820706"
+                                    >CAIL</persName></ref>Dans ce sens il ne se dit que par
+                                    raillerie</etym></sense>
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Canoniste" corresp="#religious">
@@ -17433,7 +17449,7 @@
                                             rendition="#i">cantiques</hi> de louanges, &amp;
                                         d'actions de grâces. </quote>
                                     <ref><persName ref="#Flechier_ISN0000000108744010"
-                                        >FL.</persName></ref>
+                                            >FL.</persName></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote>Dans les Couvens on chante des <hi rendition="#i"
@@ -17752,14 +17768,14 @@
                                     <quote>Une ame ambitieuse n'est pas d'ordinaire <hi
                                             rendition="#i">capable</hi> de modération.</quote>
                                     <ref><persName ref="#St_Ev_ISN0000000356744298">ST.
-                                        Ev.</persName></ref>
+                                            Ev.</persName></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote>Choisissez du moins un Amant dont le mérite soít <hi
                                             rendition="#i">capable</hi> d'excuser les foíblesses de
                                         l'amour.</quote>
                                     <ref><persName ref="#Villars_ISN0000000121185233"
-                                        >VILL.</persName></ref>
+                                            >VILL.</persName></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote>Le Prédicateur ne doit rien laisser échapper qui ne soit
@@ -17780,8 +17796,9 @@
                                         admirable pour raconter les choses avec dignité, &amp; pour
                                         donner à la raison tout le poids dont elle est <hi
                                             rendition="#i">capable.</hi></quote>
-                                    <ref><persName ref="#Rapin_ISN0000000108610290"><abbr type="idem"
-                                                rendition="#sc">id.</abbr></persName></ref>
+                                    <ref><persName ref="#Rapin_ISN0000000108610290"><abbr
+                                                type="idem" rendition="#sc"
+                                        >id.</abbr></persName></ref>
                                 </cit>
                             </sense>
 
@@ -17821,8 +17838,8 @@
                                             entreprise sur entreprise, &amp; qui veulent tout faire,
                                             parce qu'ils se croyent <hi rendition="#i">capables</hi>
                                             de tout.</quote>
-                                        <ref><persName ref="#Nic_ISN0000000122796589" rendition="#sc"
-                                                >nic..</persName></ref>
+                                        <ref><persName ref="#Nic_ISN0000000122796589"
+                                                rendition="#sc">nic..</persName></ref>
                                     </cit>
                                     <cit type="citation">
                                         <quote>
@@ -17973,8 +17990,7 @@
                                         servent les Mathématiques, &amp; les autres sciences
                                         difficiles, qui donnent une certaine étendue à l'esprit et
                                         l'exercent à s'appliquer davantage.</quote>
-                                    <ref><title ref="#Log_ark_12148_bpt6k133688c"
-                                        >LOG</title></ref>
+                                    <ref><title ref="#Log_ark_12148_bpt6k133688c">LOG</title></ref>
                                 </cit></sense>
 
                             <sense n="4"><def>Il signifie aussi, habileté.</def>
@@ -17987,7 +18003,7 @@
                                         vaste <hi rendition="#i">capacité</hi> que <persName
                                             type="person">Ciceron</persName>.</quote>
                                     <ref><persName ref="#Rapin_ISN0000000108610290">LE P.
-                                        RA</persName></ref>
+                                            RA</persName></ref>
                                 </cit>
                                 <cit type="exemple">
                                     <quote>Les entreprises d'Alexandre ont quelque chose de plus
@@ -17996,7 +18012,7 @@
                                             rendition="#i">capacité</hi> ne paraissent pas y avoir
                                         eu la même part.</quote>
                                     <ref><persName ref="#St_Ev_ISN0000000356744298">ST
-                                        EV.</persName></ref>
+                                            EV.</persName></ref>
                                 </cit>
                                 <cit type="exemple">
                                     <quote>Il n'y a pas de plus notable folie au monde que de
@@ -18009,7 +18025,7 @@
                                     <quote>Il est certain qu'Annibal avait une merveilleuse capacité
                                         dans la guerre.</quote>
                                     <ref><persName ref="#St_Ev_ISN0000000356744298">ST
-                                        EV.</persName></ref>
+                                            EV.</persName></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote>Tant qu'on ne voit pas le fond, &amp; les bornes de la
@@ -18133,7 +18149,7 @@
                                         magnifiquement masquées.</quote>
                                 </cit>
                                 <etym><ref><persName ref="#Men_ISN0000000080815971"
-                                        >Menage</persName></ref> après <persName type="person"
+                                            >Menage</persName></ref> après <persName type="person"
                                         >Vossius</persName> dérive ce mot de <lang xml:lang="de"
                                         >cape</lang> Allemand, qu'il fait venir ensuite de <lang
                                         rendition="#i">caput</lang>. Il cite aussi le <persName
@@ -18756,8 +18772,8 @@
                                 <cit type="citation">
                                     <quote>Le point <hi rendition="#i">capital</hi> de l'affaire,
                                         c’est &amp;c</quote>
-                                    <ref><persName ref="#Le_Mai_ISN0000000080934647" rendition="#sc">
-                                            le mai</persName></ref>
+                                    <ref><persName ref="#Le_Mai_ISN0000000080934647" rendition="#sc"
+                                            > le mai</persName></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote>Dessein <hi rendition="#i">capital.</hi></quote>
@@ -18860,7 +18876,7 @@
                                 l'Italienne.</note>
                             <cit type="citation">
                                 <lbl><ref><persName ref="#Mol_ISN0000000123197131"
-                                        >Molière</persName></ref> a dit dans <ref><title
+                                            >Molière</persName></ref> a dit dans <ref><title
                                             ref="#les_Fâcheux">les Fâcheux,</title></ref></lbl>
                                 <quote><lg rendition="#i">
                                         <l> Je ne veux point icy faire le <hi rendition="#n"
@@ -19294,7 +19310,8 @@
                                             </l>
                                         </lg>
                                     </quote>
-                                    <ref><persName ref="#ISN0000000120960074">DES H.</persName></ref>
+                                    <ref><persName ref="#ISN0000000120960074">DES
+                                        H.</persName></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote><lg rendition="#i">
@@ -19383,8 +19400,8 @@
                                 <cit type="citation">
                                     <quote>On me faisoit redouter les <hi rendition="#i"
                                             >caprices</hi> de la multitude &amp; la legereté du
-                                        public. <ref><persName ref="#Bruyere_ISN0000000121009707">LA.
-                                                BR.</persName></ref>
+                                        public. <ref><persName ref="#Bruyere_ISN0000000121009707"
+                                                >LA. BR.</persName></ref>
                                     </quote>
                                 </cit>
                                 <cit type="citation">
@@ -19421,8 +19438,8 @@
                                                   rendition="#n">caprices.</hi>
                                             </l>
                                         </lg></quote>
-                                    <ref><persName ref="#Racine_ISN0000000123212338" rendition="#sc">
-                                            RAC. </persName></ref>
+                                    <ref><persName ref="#Racine_ISN0000000123212338" rendition="#sc"
+                                            > RAC. </persName></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote>
@@ -19435,7 +19452,8 @@
                                         </lg>
                                     </quote>
                                     <ref>
-                                        <persName ref="#Boileau_ISN0000000121185604"> BOI.</persName>
+                                        <persName ref="#Boileau_ISN0000000121185604">
+                                            BOI.</persName>
                                     </ref>
                                 </cit>
                                 <cit type="citation">
@@ -19862,7 +19880,8 @@
                                         son bonheur à traîner après elle une foule de <hi
                                             rendition="#i">captifs.</hi></quote>
                                     <ref>
-                                        <persName ref="#Voit_ISN0000000115879407">VOI.</persName></ref>
+                                        <persName ref="#Voit_ISN0000000115879407"
+                                        >VOI.</persName></ref>
                                 </cit>
                                 <cit type="exemple">
                                     <quote>Cette beauté a fait bien des captifs. </quote>
@@ -20214,7 +20233,7 @@
                                     <quote>A tous les sots <hi rendition="#i">caquets</hi> n'aynos
                                         jamais d'égard.</quote>
                                     <ref><persName ref="#Molière_ISN0000000123197131 "
-                                        >MOL</persName></ref>
+                                            >MOL</persName></ref>
                                 </cit></sense>
                             <sense n="2">
                                 <def>Se dit aussi d'une promesse sans effet.</def>
@@ -20673,7 +20692,7 @@
                                         l'impression que fait sur elle le <hi rendition="#i"
                                             >caractere</hi> d'<persName>Achille</persName>.</quote>
                                     <ref><persName ref="#St_Ev_ISN0000000356744298">ST.
-                                        Ev.</persName></ref>
+                                            Ev.</persName></ref>
                                 </cit><cit type="citation">
                                     <quote>La grandeur d'ame est le <hi rendition="#i"
                                             >caractere</hi> des Romains.</quote>
@@ -20690,7 +20709,7 @@
                                             >caractere</hi> de politesse qui manquoit à
                                             <persName>Demosthene.</persName></quote>
                                     <ref><persName ref="#P.RA_0000000108610290 ">Le P.
-                                        RA.</persName></ref>
+                                            RA.</persName></ref>
                                 </cit><cit type="citation">
                                     <quote>Celui qui s'accoutume à dire des plaisanteries a un
                                         mauvais <hi rendition="#i">caractere</hi> d'esprit.</quote>
@@ -20710,7 +20729,7 @@
                                             rendition="#i">caracteres</hi>doux sont souvent sans
                                         gloire, quoyqu'ils ayent le solide de la vertu.</quote>
                                     <ref><persName ref="#Bruyere_ISN0000000121009707">LA
-                                        BR.</persName></ref>
+                                            BR.</persName></ref>
                                 </cit><cit type="citation">
                                     <quote>Le <hi rendition="#i">caractere</hi> des devots de
                                         profession, c'est d'être implacables,
@@ -20772,15 +20791,17 @@
                                         uniforme, &amp; superieur, , ensorte que le <hi
                                             rendition="i">caractere</hi> des autres personnages soit
                                         toûjours soumis à celui du premier personnage. </quote>
-                                    <ref><persName ref="#LePlB_ISN0000000081107707"><abbr type="idem"
-                                                rendition="#sc">id.</abbr></persName></ref>
+                                    <ref><persName ref="#LePlB_ISN0000000081107707"><abbr
+                                                type="idem" rendition="#sc"
+                                        >id.</abbr></persName></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote> C'est le defaut de <persName>Claudien</persName>; vous y
                                         voyez tant de <hi rendition="i">caracteres</hi> dominans ,
                                         qu'on ne reconnoît plus le principal. </quote>
-                                    <ref><persName ref="#LePlB_ISN0000000081107707"><abbr type="idem"
-                                                rendition="#sc">id.</abbr></persName></ref>
+                                    <ref><persName ref="#LePlB_ISN0000000081107707"><abbr
+                                                type="idem" rendition="#sc"
+                                        >id.</abbr></persName></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote>Conservez à chacun son propre <hi rendition="i"
@@ -21700,12 +21721,13 @@
                                     discipline sur les Religieux. II peut même destituer un Prieur
                                     Claustral. <pb n="490"/>
                                     <ref><persName ref="#Fevret_ISN0000000061226944"
-                                        >FEVRET</persName></ref> Selon <persName>Onuphrius</persName>
-                                    en <date when="1562">1562</date>. le <persName>Pape Pie
-                                        IV.</persName> etablit que le Pape seroit fentement élû par
-                                    le Senat des <hi rendition="#i">cardinaux </hi>, au lieu qu'il
-                                    l'etoit auparavant par le Clergé de Rome. On pretend cependant
-                                    que dès le temps <persName type="person"
+                                            >FEVRET</persName></ref> Selon
+                                        <persName>Onuphrius</persName> en <date when="1562"
+                                        >1562</date>. le <persName>Pape Pie IV.</persName> etablit
+                                    que le Pape seroit fentement élû par le Senat des <hi
+                                        rendition="#i">cardinaux </hi>, au lieu qu'il l'etoit
+                                    auparavant par le Clergé de Rome. On pretend cependant que dès
+                                    le temps <persName type="person"
                                         ref="#ALEXANDRE_ISN0000000107853880">d'Alexandre
                                         III</persName>. en <date when="1160">1160</date>. les <hi
                                         rendition="#i">Cardinaux</hi> étoient dejà en possession
@@ -22032,7 +22054,7 @@
                                                   >Carême</hi></l>
                                         </lg></quote>
                                     <ref><persName ref="#Boileau_ISN0000000121185604"
-                                        >BOIL.</persName></ref>
+                                            >BOIL.</persName></ref>
                                 </cit>
                                 <lb/>
                                 <etym> Ce mot vient de <foreign xml:lang="lat"><hi rendition="#i"
@@ -22104,8 +22126,8 @@
                                         <quote>On dit que vous voulez donner vôtre fille à un <hi
                                                 rendition="#i">Carémes-prenans</hi>
                                         </quote>
-                                        <ref><persName rendition="#sc" ref="#Mol_ISN0000000123197131"
-                                                >MOL.</persName></ref>
+                                        <ref><persName rendition="#sc"
+                                                ref="#Mol_ISN0000000123197131">MOL.</persName></ref>
                                     </cit></sense>
                                 <sense n="4"><def>On dit proverbialement, qu'il faut faire son <hi
                                             rendition="#i">Carémes-prenans</hi> avec sa femme &amp;
@@ -22128,15 +22150,15 @@
                                 <quote>Vous n'êtes ni trop <hi rendition="#i">caressante</hi>, ni
                                     trop flatteuse.</quote>
                                 <ref><persName ref="#CHdeM_ISN0000000115877807">LE CH DE
-                                    M.</persName></ref>
+                                        M.</persName></ref>
                             </cit>
                             <cit type="citation">
 
                                 <quote>Remarquez dans Terence un vieillard avare, &amp;rebarbatif,
                                     qui s'avise tout-d'un-coup de devenir <hi rendition="#i"
                                         >caressant</hi>, &amp; liberal</quote>
-                                <ref><persName rendition="#sc" ref="#LePlB_ISN0000000081107707">Le P.
-                                        LE B</persName></ref>
+                                <ref><persName rendition="#sc" ref="#LePlB_ISN0000000081107707">Le
+                                        P. LE B</persName></ref>
                             </cit>
                             <cit type="exemple">
                                 <quote>Les petits chiens sont des animaux fort <hi rendition="#i"
@@ -22165,8 +22187,8 @@
                                 <cit type="citation">
                                     <quote>Remarquez le ris forcé, &amp; les caresses contrefaites
                                         d’un Courtisan.</quote>
-                                    <ref><persName ref="#Bruyere_ISN0000000121009707" rendition="#sc"
-                                            >LA BR .</persName></ref>
+                                    <ref><persName ref="#Bruyere_ISN0000000121009707"
+                                            rendition="#sc">LA BR .</persName></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote>Les caresses d’un vieillard sont bien degoutantes pour
@@ -22370,49 +22392,51 @@
                                     de rejouïssance aux jours des Fêtes de l'Eglise, ou de quelque
                                     joye publique.</def>
                                 <cit type="citation">
-
                                     <quote>
                                         <lg rendition="#i">
                                             <l>Le jour que nâquit Châtillon</l>
                                             <l>On sonna double<hi rendition="#n"> carillon</hi></l>
                                             <l>Par tous les clochers de Cythere</l>
                                         </lg></quote>
-                                    <ref><persName ref="#Voit_ISN0000000115879407"
-                                        >VOI.</persName></ref>
-                                </cit>
-                                <note>On appelle aussi un <hi rendition="#i">carillon</hi>, un bon
-                                    nombre de petits timbres de differentes grosseurs, ou de petites
-                                    cloches qu'on fait sonner avec un bouton de fer, ou avec un
-                                    clavier, soit qu'on le touche à la main, soit qu'il se meuve par
-                                    machine avec un tambour. <cit type="exemple">
-                                        <quote>Le carillon de la Samaritaine.</quote>
-                                    </cit> Les <seg type="terme_variant"><hi rendition="#i"
-                                            >carillons</hi> de Flandres</seg> sont composez de
-                                    trente ou quarante timbres qui sont les mêmes tons, degrez &amp;
-                                    intervalles de Musique que les tuyaux des orgues : aussi les
-                                    fait-on sonner en frappant fur les touches d'un gros clavier,
-                                    &amp; on en fait d'agreables concerts. Autrefois le <hi
-                                        rendition="#i">carillon</hi> étoit la même chose que le
-                                    tocsin ; car on sonnoit dans les rejouïssances de même que dans
-                                    les allarmes : d'où vient que quelques auteurs appellent le
-                                        <hi>carillon, pulsatio terroris</hi>.</note></sense>
-                            <sense n="2">
+                                    <ref><persName ref="#Voit_ISN0000000115879407" rendition="#sc"
+                                            >voi</persName><pc>.</pc></ref>
+                                </cit></sense>
+                            <sense n="2">On appelle aussi un <hi rendition="#i">carillon</hi>, un
+                                bon nombre de petits timbres de differentes grosseurs, ou de petites
+                                cloches qu'on fait sonner avec un bouton de fer, ou avec un clavier,
+                                soit qu'on le touche à la main, soit qu'il se meuve par machine avec
+                                un tambour. <cit type="exemple">
+                                    <quote>Le carillon de la Samaritaine.</quote>
+                                </cit> Les <seg type="terme_variant"><hi rendition="#i"
+                                        >carillons</hi> de Flandres</seg> sont composez de trente ou
+                                quarante timbres qui sont les mêmes tons, degrez &amp; intervalles
+                                de Musique que les tuyaux des orgues : aussi les fait-on sonner en
+                                frappant fur les touches d'un gros clavier, &amp; on en fait
+                                d'agreables concerts. Autrefois le <hi rendition="#i">carillon</hi>
+                                étoit la même chose que le tocsin ; car on sonnoit dans les
+                                rejouïssances de même que dans les allarmes : d'où vient que
+                                quelques auteurs appellent le <hi>carillon, pulsatio
+                                terroris</hi>.</sense>
+                            <sense n="3">
                                 <def>se dit aussi, mais bassement, des crieries que font les femmes
                                     de mauvaise humeur, ou les personnes du bas peuple, lorsqu'elles
-                                    querellent ou injurient quelcun. <cit type="exemple">
-                                        <quote>Quand ce mari va au cabaret, sa femme lui fait un
-                                            beau <hi rendition="#i">carillon</hi>. </quote>
-                                    </cit>
-                                    <cit type="exemple">
-                                        <lbl>On dit proverbialement, </lbl>
+                                    querellent ou injurient quelcun.</def>
+                                <cit type="exemple">
+                                    <quote>Quand ce mari va au cabaret, sa femme lui fait un beau
+                                            <hi rendition="#i">carillon</hi>. </quote>
+                                </cit></sense>
+                            <sense>
+                                <usg>On dit proverbialement, <cit type="exemple">
                                         <quote>qu'un homme a été battu, fouëtté, étrillé à double
                                                 <hi rendition="#i">carillon</hi> ; <gloss>pour dire,
                                                 fortement &amp; outrageusement.</gloss></quote>
                                     </cit>
-                                    <note> On appelle <seg rendition="#i" type="collocation">fer de
-                                            carillon</seg>, un petit fer qui n'a que 8. à 9. lignes
-                                        en quarré. </note></def>
+                                </usg>
                             </sense>
+                            <re><sense n="1"> On appelle <seg rendition="#i" type="collocation">fer
+                                        de carillon</seg>, un petit fer qui n'a que 8. à 9. lignes
+                                    en quarré. </sense></re>
+
                         </entry>
                         <entry xml:lang="fra" xml:id="Carillonner">
                             <form type="lemma"><orth rendition="#uc">carilloner</orth>
@@ -23969,7 +23993,7 @@
                                         esprit , &amp; employer l'art de persuader dans toute son
                                         étenduë. </quote>
                                     <ref><persName ref="Rapin_ISN0000000108610290">LE
-                                        P.R.A.</persName></ref>
+                                            P.R.A.</persName></ref>
                                     <cit type="exemple">
                                         <quote>L’Histoire du temps est une ample, &amp; vaste
                                                 <hi>carriere</hi> pour un Historien.</quote>
@@ -24872,8 +24896,9 @@
                                 <cit type="citation">
                                     <quote> En faisant trop de <hi>cas</hi> de soi-même, on ne peche
                                         pas moins contre la vraye modestie, qu'en s'estimant plus
-                                        qu'on ne doit. <ref><persName ref="#Méré_ISN0000000115877807"
-                                                rendition="#sc">le ch. de m.</persName></ref>
+                                        qu'on ne doit. <ref><persName
+                                                ref="#Méré_ISN0000000115877807" rendition="#sc">le
+                                                ch. de m.</persName></ref>
                                     </quote>
                                 </cit>
                                 <cit type="exemple">
@@ -24884,8 +24909,8 @@
                                     <quote> On fait des <hi rendition="#i">cas des gens heureux, qui
                                             peuvent servor, &amp; on meprisse les miserables</hi>
                                     </quote>
-                                    <ref><persName ref="#Méré_ISN0000000115877807" rendition="#sc">le
-                                            ch. de m.</persName></ref>
+                                    <ref><persName ref="#Méré_ISN0000000115877807" rendition="#sc"
+                                            >le ch. de m.</persName></ref>
 
                                 </cit>
                             </sense>
@@ -25862,7 +25887,7 @@
                                         <quote>Chanter d'un ton triste&amp;<hi rendition="#i"
                                                 >cassé</hi>.</quote>
                                         <ref><persName ref="#Voit_ISN0000000115879407"
-                                            >VOIT</persName></ref>
+                                                >VOIT</persName></ref>
                                     </cit>
                                 </sense>
                                 <sense n="9"><usg>On appelle en Musique un verre <hi rendition="#i"
@@ -25954,9 +25979,9 @@
                                 </cit>
                                 <etym>Ce mot vient de <lang><hi rendition="#i">cassetta</hi></lang>
                                     <ref><persName ref="#Men_ISN0000000080815971"
-                                        >MEN.&amp;</persName></ref>
+                                            >MEN.&amp;</persName></ref>
                                     <ref><persName ref="#Saum_ISN0000000108910154"
-                                        >SAUMAINE.</persName></ref>
+                                            >SAUMAINE.</persName></ref>
                                 </etym>
                             </sense>
                         </entry>
@@ -26176,8 +26201,9 @@
                                     &amp; signifie rupture.</def>
                                 <note>Si vous cassez une lame d'épée, &amp; que dans la cassure vous
                                     decouvriez la lame de couleur grise, la lame est
-                                            bonne.<ref><persName ref="#Wern_VIAF309698078">LEANCOURT,
-                                            MAÎTRE D’ARMES.</persName></ref></note></sense>
+                                            bonne.<ref><persName ref="#Wern_VIAF309698078"
+                                            >LEANCOURT, MAÎTRE
+                                D’ARMES.</persName></ref></note></sense>
 
                         </entry>
                         <entry xml:lang="fra" xml:id="castagnette">
@@ -26264,10 +26290,10 @@
                                     <gen expand="Feminin">f.</gen>
                                 </gramGrp></form>
                             <sense n="1"><def> Mineral qui se trouve mêlé avec le fer.</def></sense>
-                            <note><ref><persName>Coquille</persName></ref> rapporte que cette matiere
-                                abonde dans le Nivernois: &amp; qu'on s'en sert utilement pour
-                                fondre le fer. Il l'appelle <hi rendition="#i"
-                                >terre-pierre</hi>.</note>
+                            <note><ref><persName>Coquille</persName></ref> rapporte que cette
+                                matiere abonde dans le Nivernois: &amp; qu'on s'en sert utilement
+                                pour fondre le fer. Il l'appelle <hi rendition="#i"
+                                    >terre-pierre</hi>.</note>
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Castor">
@@ -26611,7 +26637,8 @@
                             <cit type="citation">
                                 <quote>Le discernement d'une bonne conscience est plus sûr que les
                                     decisions des casuistes </quote>
-                                <ref><persName ref="#LaPl_ISN000000011862192X">LA PL.</persName></ref>
+                                <ref><persName ref="#LaPl_ISN000000011862192X">LA
+                                    PL.</persName></ref>
                             </cit>
                             <note>
                                 <ref><persName ref="#Le_Fevre_ISN0000000122827058">Mr. Le
@@ -27005,8 +27032,9 @@
                                     type="citation">
                                     <quote> La plupart des pieces tragiques d'Euripide ont une
                                             <hi>catastrophe</hi> malheureuse et
-                                                funeste.<ref><persName ref="#Dac_ISN0000000121251069"
-                                                rendition="sc">dac.</persName>.</ref></quote>
+                                                funeste.<ref><persName
+                                                ref="#Dac_ISN0000000121251069" rendition="sc"
+                                                >dac.</persName>.</ref></quote>
                                     <quote>Aristote prefere une fin triste, une <hi>catastrophe</hi>
                                         malheureuse, pour la Tragedie.<ref><persName
                                                 ref="#LePlB_ISN0000000081107707">Le P. le
@@ -28029,7 +28057,7 @@
                                     Violons pour joüer &amp; chanter pendant qu’on prend du
                                     café.</quote>
                                 <ref><persName ref="#Thevenot_ISN000000012284515X"
-                                    >TEVENOT</persName></ref>
+                                        >TEVENOT</persName></ref>
                             </cit>
                         </entry>
                         <entry xml:id="Caver" xml:lang="fra">
@@ -28837,7 +28865,7 @@
                                 <cit type="citation">
                                     <quote>Efforçons nous de vivre avec toute innocence, Et laissons
                                         aux causeurs une pleine licence.
-                                            <ref><persName>MOL</persName></ref>.</quote>
+                                                <ref><persName>MOL</persName></ref>.</quote>
                                 </cit>
                             </sense>
 
@@ -28937,7 +28965,8 @@
                                                 >cauteleuse</hi>,</l>
                                             <l>Elle a part au larcin</l>
                                         </lg>
-                                        <ref><persName ref="#Voit_ISN0000000115879407">VOI</persName>
+                                        <ref><persName ref="#Voit_ISN0000000115879407"
+                                                >VOI</persName>
                                         </ref>
                                     </quote>
                                 </cit>
@@ -29133,8 +29162,9 @@
                                     <quote>Je veux <hi rendition="#i">caution</hi> bourgeoise que
                                         vos yeux ne me feront point de mal.</quote>
                                     <ref><persName>Jean-Baptiste Poquelin, dit Molière
-                                            </persName><ref/><persName ref="#Mol_ISN0000000123197131"
-                                            rendition="#sc">mol</persName></ref>
+                                            </persName><ref/><persName
+                                            ref="#Mol_ISN0000000123197131" rendition="#sc"
+                                            >mol</persName></ref>
                                 </cit>
                                 <sense n="3"><note> On dit proverbialement d'un grand hableur, que
                                         tout ce qu'il dit est <seg type="idiome">sujet à <hi
@@ -29187,11 +29217,12 @@
                         </entry>
 
                         <entry xml:lang="fr" xml:id="Cayer">
-                            <form type="lemma"><orth rendition="#uc">cayer</orth>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc">cayer</orth></form>
                                 <gramGrp><pos expand="Substantif"
                                 >s</pos><gen>m</gen></gramGrp></form>
-                            <lbl>Les Anciens écrivoient <hi rendition="#i">Cahier</hi>
-                            </lbl>
+                            <usg>Les Anciens écrivoient <hi rendition="#i">Cahier</hi>
+                            </usg>
                             <sense n="1"><def>Plusieurs feuillets attachez legerement, &amp; qui ne
                                     sont point reliez ensemble, ensorte qu'on les peut ôter ou
                                     transporter comme on veut. </def>
@@ -29447,7 +29478,8 @@
                                             <l><hi rendition="#i">Vienne usurpé ceans un pouvoir
                                                   tirannique.</hi></l>
                                         </lg></quote>
-                                    <ref><persName ref="#Mol_ISN0000000123197131">MOL</persName></ref>
+                                    <ref><persName ref="#Mol_ISN0000000123197131"
+                                        >MOL</persName></ref>
                                 </cit>
                             </sense>
                         </entry>
@@ -29907,7 +29939,7 @@
 
                                         </lg></quote>
                                     <ref><persName ref="#Malherbe_ISN0000000110606733"
-                                        >MALH.</persName></ref>
+                                            >MALH.</persName></ref>
                                 </cit>
                             </sense>
 
@@ -30002,7 +30034,7 @@
                                         renonça à sa succession , &amp; deposa sa <hi rendition="#i"
                                             >ceinture</hi> sur le tombeau du Duc. </quote>
                                     <ref><persName ref="#Pasquier_ISN000000010907010"
-                                        >PASQ.</persName></ref>
+                                            >PASQ.</persName></ref>
                                 </cit>
                             </sense>
                             <sense n="2">
@@ -30206,7 +30238,7 @@
                                     presente &amp; qui n'a point de pluriel.</def>
                                 <cit type="citation">
                                     <ref><persName ref="#Regn_ISN0000000108814744"
-                                        >Regnier</persName></ref>
+                                            >Regnier</persName></ref>
                                     <lbl>en parlant des Poëtes a dit, </lbl>
                                     <quote>
                                         <hi rendition="#i">Puis au partir de là, Vous disent, Mais,
@@ -30222,7 +30254,7 @@
                                             &amp;c. Je vous ay vû que vous n'étiez pas plus grand
                                             que <hi>cela</hi>. </quote>
                                         <ref><persName ref="#Mol_ISN0000000123197131"
-                                            >MOL.</persName></ref>
+                                                >MOL.</persName></ref>
                                         <lbl><gloss>C’est-à-dire, Petit, parce qu'alors la main de
                                                 celui qui parle montre la petite taille qu'il veut
                                                 designer.</gloss></lbl>
@@ -30310,7 +30342,8 @@
                                                 type="personne">Achille</persName></persName>, qui
                                         avoit trouvé un excellent Poëte pour <hi>celebrer</hi> ses
                                         loüanges. </quote>
-                                    <ref><persName ref="#Vau_ISN0000000110230502">VAU</persName></ref>
+                                    <ref><persName ref="#Vau_ISN0000000110230502"
+                                        >VAU</persName></ref>
                                 </cit>
                             </sense>
                             <form corresp="#Celebrer"><orth rendition="#sc">celebrer</orth></form>
@@ -30419,7 +30452,7 @@
                                     <quote>Soupirs d'autant plus doux qu'il les falloit
                                             <hi>celer</hi>. </quote>
                                     <ref><persName ref="#Racine_ISN0000000123212338">
-                                        RAC.</persName></ref>
+                                            RAC.</persName></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote>La coutume des Pertes est de <hi>celer</hi> le secret
@@ -30432,7 +30465,7 @@
                                         parler ; Vous avez des defauts que je ne puis
                                         <hi>celer</hi>. </quote>
                                     <ref><persName ref="#Boileau_ISN0000000121185604"
-                                        >BOIL.</persName></ref>
+                                            >BOIL.</persName></ref>
                                 </cit>
                                 <cit type="exemple">
                                     <quote>On dit aussi, qu'un homme se fait <hi>celer</hi>, quand
@@ -30582,13 +30615,15 @@
 
                                     <quote> C'est une beauté <hi rendition="#i">celeste</hi>, un
                                         esprit <hi rendition="#i">celeste</hi>.</quote>
-                                    <ref><persName ref="#Mol_ISN0000000123197131">Mol</persName></ref>
+                                    <ref><persName ref="#Mol_ISN0000000123197131"
+                                        >Mol</persName></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote>Et dès qu'on vient à voir vos <hi rendition="#i"
                                             >celestes</hi> appas, Un coeur se laisse prendre, &amp;
                                         ne raisonne pas. MOL.</quote>
-                                    <ref><persName ref="#Mol_ISN0000000123197131">Mol</persName></ref>
+                                    <ref><persName ref="#Mol_ISN0000000123197131"
+                                        >Mol</persName></ref>
                                 </cit>
                             </sense>
 
@@ -31349,7 +31384,7 @@
                                             rendition="#i">cenobitique</hi>, parceque c'est le
                                         premier qui forma des communautez reglées.</quote>
                                     <ref><persName ref="#Dupin_ISN0000000107826807">Du
-                                        PIN.</persName></ref>
+                                            PIN.</persName></ref>
                                 </cit>
                             </sense>
                         </entry>
@@ -31546,7 +31581,7 @@
                                         faut joindre à la superiorité du pouvoir, l'autorité des
                                         bonnes mœurs, &amp; des bons exemples. </quote>
                                     <ref><persName ref="#Vill_ISN000000010928276X">Dr.
-                                        VILL.</persName></ref>
+                                            VILL.</persName></ref>
                                 </cit>
                                 <cit type="citation">
                                     <quote> Un <hi rendition="#i">censeur</hi> indiscret, &amp;
@@ -31572,7 +31607,7 @@
                                         </lg>
                                     </quote>
                                     <ref><persName ref="#Boileau_ISN0000000121185604"
-                                        >BOI.</persName></ref>
+                                            >BOI.</persName></ref>
                                 </cit>
                                 <hi rendition="#i">censeur</hi></sense>
 

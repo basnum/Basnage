@@ -4921,6 +4921,31 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Isidore_de_Séville</idno>
                     </person>
 
+                    <person xml:id="Jonston_ISN000000011885001X">
+                        <persName>
+                            <forename>Jan</forename>
+                            <surname>Jonston</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr>Jonst</abbr>
+                        </persName>
+                        <birth when="1603-09-03">né le 3 septembre 1603 <placeName>Szamotuły</placeName>en <country>Pologne</country></birth>
+                        <death when="1675-06-08">mort le 8 juin 1675 à <placeName>Legnica</placeName> en <country>Pologne</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Polonais</nationality>
+                        <faith>Protestant</faith>
+                        <education>Universités de St Andrews, Cambridge, Lede</education>
+                        <occupation/>
+                        <affiliation></affiliation>
+                        <socecStatus/>
+                        <note>Botaniste, historien, entomologiste, médecin, ornithologue</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/000000011885001X</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Jan_Jonston</idno>
+                    </person>
+
                     <person xml:id="Kircher_ISN0000000121266092">
                         <persName>
                             <forename>Athanasius</forename>
@@ -10055,7 +10080,7 @@
 
 
                         <entry xml:lang="fra" xml:id="Cadmie">
-                            <form type="lemma"><orth rendition="#uc">cadmie</orth>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">cadmie</orth></form>
                                 <gramGrp><pos expand="Substantif">s</pos><gen expand="Feminin"
                                         >f</gen></gramGrp></form>
                             <sense n="1"><usg type="terme" ana="#pharmacie">Terme de
@@ -10101,7 +10126,7 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cadole">
-                            <form type="lemma"><orth rendition="#uc">cadole</orth>
+                           <form type="lemmaGrp"> <form type="lemma"><orth rendition="#uc">cadole</orth></form>
                                 <gramGrp><pos expand="Substantif">s</pos><gen expand="Masculin"
                                         >m</gen></gramGrp></form>
                             <sense n="1"><def>C'est le nom que les Serruriers donnent au loquet
@@ -10112,7 +10137,7 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cadran">
-                            <form type="lemma"><orth rendition="#uc">cadran</orth>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">cadran</orth></form>
                                 <gramGrp><pos expand="Substantif">s</pos><gen expand="Masculin"
                                         >m</gen></gramGrp></form>
                             <sense n="1"><usg type="terme" ana="#jouaillier">Terme de
@@ -10131,21 +10156,21 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cadre">
-                            <form type="lemma"><orth rendition="#uc"
-                                    >cadre</orth>&amp;<orth>cadran</orth></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                    >cadre</orth>&amp;<orth>cadran</orth></form></form>
                             <xr><lbl> Voyez </lbl><ref rendition="#sc" type="syn" corresp="#quadre"
-                                    >QUADRE.</ref></xr>
+                                    >quadre</ref><pc>.</pc></xr>
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cadrille">
-                            <form type="lemma"><orth rendition="#uc">cadrille</orth></form>
+                          <form type="lemmaGrp"> <form type="lemma"><orth rendition="#uc">cadrille</orth></form></form> 
                             <xr><lbl> Voyez </lbl>
                                 <ref rendition="#sc" type="syn" corresp="#quadrille"
-                                    >QUADRILLE.</ref></xr>
+                                    >quadrille</ref><pc>.</pc></xr>
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cadruple">
-                            <form type="lemma"><orth rendition="#uc">cadruple</orth></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">cadruple</orth></form></form>
                             <xr><lbl> Voyez </lbl>
                                 <ref rendition="#sc" type="syn" corresp="#quadruple"
                                     >quadruple.</ref></xr>
@@ -10155,7 +10180,7 @@
                         <entry xml:lang="fra" xml:id="Caduc">
                             <form type="lemma"><orth rendition="#uc">caduc</orth><lbl>il y en a qui
                                     écrivent <hi rendition="#i">caduque</hi> aussi bien pour le
-                                    masculin que pour le feminin.</lbl><form type="lemma"><orth
+                                    masculin que pour le feminin.</lbl><form type="variant"><orth
                                         rendition="#uc">caduque</orth></form>
                                 <gramGrp><pos expand="Adjectif"> adj.</pos></gramGrp></form>
                             <sense n="1">

@@ -8168,6 +8168,66 @@
                         </sense>
                     </entry>
                 </div>
+                <div type="CAD"><entry xml:lang="fra" xml:id="Caduc">
+                    <form type="lemma"><orth rendition="#uc">caduc</orth><lbl>il y en a qui
+                        écrivent <hi rendition="#i">caduque</hi> aussi bien pour le
+                        masculin que pour le feminin.</lbl><form type="variant"><orth
+                            rendition="#uc">caduque</orth></form>
+                        <gramGrp><pos expand="Adjectif"> adj.</pos></gramGrp></form>
+                    <sense n="1">
+                        <def>Qui a perdu ses forces, soit par l'âge, soit par les
+                            maladies.</def>
+                        <cit type="exemple">
+                            <quote>Quand on a passé 60 ans, on est dans un âge <hi
+                                rendition="#i">caduc</hi>.</quote>
+                        </cit>
+                        <etym>Ce mot vient du Latin <lang xml:lang="lat">caducus,
+                        </lang>sujet à cheoir, de <lang xml:lang="lat"
+                            >cadere</lang>.</etym>
+                    </sense>
+                    
+                    
+                    <sense n="2"><form type="lemma"><orth rendition="#sc"
+                        >caduc</orth>,</form><usg>se dit aussi des bâtimens qui menacent
+                            ruine.</usg>
+                        <cit type="exemple">
+                            <quote>Il faut étayer une maison <hi rendition="#i"
+                                >caduque</hi>, de peur qu'elle ne tombe.</quote>
+                        </cit>
+                    </sense>
+                    
+                    <sense n="3"><form type="lemma"><orth rendition="#sc"
+                        >caduc</orth>,</form>se dit figurément en choses morales. <cit
+                            type="exemple">
+                            <quote>La faveur de ce Courtisan est bien diminuée; sa fortune
+                                est fort <hi rendition="#i">caduque.</hi></quote>
+                        </cit>
+                    </sense>
+                    
+                    
+                    <sense n="4"><form type="lemma"><orth rendition="#sc"
+                        >caduc</orth></form>
+                        <usg type="terme" ana="#jurisprudence">Terme de Jurisprudence.</usg>
+                        <def>se dit d'un legs d'une institution d'héritier qui n'ont point
+                            d'effet.</def>
+                        <cit type="exemple">
+                            <quote>Ce legs est devenu <hi>caduc</hi> par la mort du
+                                legataire avant le testateur. Cette succession est devenue
+                                <hi rendition="#i">caduque</hi>, parce que personne ne
+                                s'est porté pour héritier.</quote>
+                        </cit>
+                        <note> Il y a un titre dans le Droit <hi rendition="#i">de caducis
+                            tollendis</hi>.</note></sense>
+                    <sense n="5">
+                        <usg type="terme" ana="#medecine">En termes de Medecine</usg>,
+                        <def>on appelle le mal <hi rendition="#i">caduc</hi>, le haut
+                            mal, le mal St. Jean, ou l'épilepsie: c'est une maladie qui fait
+                            tomber un homme quand l'accès lui prend &amp; qui le tourmente
+                            cruellement.</def>
+                        <xr><lbl> Voyez </lbl>
+                            <ref rendition="#sc" corresp="#Epilepsie"
+                                >EPILEPSIE</ref></xr></sense>
+                </entry></div>
                 <div type="CAN">
                     <entry xml:lang="fra" xml:id="Canon">
                         <form type="lemmaGrp">
@@ -9207,6 +9267,7 @@
                 </entry>
 
             </div>
+            
             <div type="ORF">
                 <entry xml:id="Orfelin">
                     <form type="lemmaGrp"><form type="lemma">orfelin </form><lbl>ou </lbl>
@@ -9245,6 +9306,14 @@
                 </entry>
 
 
+            </div>
+            
+            <div type="OUE">
+                <entry>
+                    <form><orth>ouest</orth></form>
+                    <sense><usg></usg><note></note></sense>
+                </entry>
+                
             </div>
             <div type="POR"><entry xml:id="Porques">
                 <form type="lemmaGrp">
