@@ -8822,7 +8822,7 @@
                                 <cit type="exemple">
                                     <quote>Il a fait la une vilaine <hi>cacade</hi>.</quote>
                                 </cit>
-                                <etym><usg ana="#bas">Ce mot est du style bas.</usg> Il vient de
+                                <usg ana="#bas">Ce mot est du style bas.</usg> <etym>Il vient de
                                         l'<lang xml:lang="ita">Italien</lang>
                                     <foreign xml:lang="ita">cagar, cagada,</foreign> qui signifie la
                                     même chose.</etym></sense>
