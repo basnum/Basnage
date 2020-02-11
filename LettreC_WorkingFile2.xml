@@ -4368,6 +4368,31 @@
                         <idno type="ISNI">http://www.isni.org/isni/</idno>
                         <idno type="URI"/>
                     </person>
+                    
+                    <person xml:id="Dominicus_ISN0000000110758796">
+                        <persName>
+                            <forename>Domingo</forename>
+                            <surname>de Soto</surname>
+                            <roleName/>
+                            <addName>Dominicus</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1479">Né 1479 à <placeName>Segovia</placeName> en <country corresp="#ESP">Espagne</country></birth>
+                        <death> Mort le 15 novembre 15, 1560 à <placeName>Salimanque</placeName> en <country corresp="#ESP">Espagne</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Espagnol</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Dominicaine</occupation>
+                        <affiliation>.Université de Salamanque</affiliation>
+                        <socecStatus/>
+                        <note>Théologien</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000110758796</idno>
+                        <idno type="URI">https://en.wikipedia.org/wiki/Domingo_de_Soto</idno>
+                    </person>
 
                     <person xml:id="Du_Cange_ISN0000000121021239">
                         <persName>
@@ -4921,6 +4946,31 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Isidore_de_Séville</idno>
                     </person>
 
+                    <person xml:id="Jonston_ISN000000011885001X">
+                        <persName>
+                            <forename>Jan</forename>
+                            <surname>Jonston</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr>Jonst</abbr>
+                        </persName>
+                        <birth when="1603-09-03">né le 3 septembre 1603 <placeName>Szamotuły</placeName>en <country>Pologne</country></birth>
+                        <death when="1675-06-08">mort le 8 juin 1675 à <placeName>Legnica</placeName> en <country>Pologne</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Polonais</nationality>
+                        <faith>Protestant</faith>
+                        <education>Universités de St Andrews, Cambridge, Lede</education>
+                        <occupation/>
+                        <affiliation></affiliation>
+                        <socecStatus/>
+                        <note>Botaniste, historien, entomologiste, médecin, ornithologue</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/000000011885001X</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Jan_Jonston</idno>
+                    </person>
+
                     <person xml:id="Kircher_ISN0000000121266092">
                         <persName>
                             <forename>Athanasius</forename>
@@ -5471,7 +5521,7 @@
                         <socecStatus/>
                         <note>Pretre et érudit. A introduit le terme 'romantique' en litterature.
                             Correspondence avec Leibniz, Pierre-Daniel Huet, <ref
-                                target="#Bay_ISN0000000122807284">Bayle ...</ref></note>
+                                corresp="#Bay_ISN0000000122807284">Bayle ...</ref></note>
                         <event>
                             <desc><date/></desc>
                         </event>
@@ -6099,6 +6149,32 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jacob_Spon</idno>
 
                     </person>
+                    
+                    <person xml:id="Surirey_ISN0000000066332981">
+                        <persName>
+                            <forename>Pierre</forename>
+                            <surname> Surirey de Saint-Remy</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1645">Né en 1645 à <placeName>Saint-Remy-sur-Orne</placeName><country corresp="#FRE">France</country></birth>
+                        <death when="1716">Mort en 1716 à <placeName>Paris </placeName><country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Militaire</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>général français, lieutenant du Grand maître de l'artillerie de France en 1703 et maréchal de camp.</note>
+                        <event>
+                            <desc>Mémoires d'artillerie<date>1697</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000066332981</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Pierre_Surirey_de_Saint-Remy</idno>
+                    </person>
+                    
                     <person xml:id="StAmant_ISN0000000121340352">
                         <persName xml:base="">
                             <forename>Marc Antoine</forename>
@@ -8461,40 +8537,10 @@
                                 </etym>
                             </sense>
 
-                            <etym>Ce mot vient de l'<lang xml:lang="heb">Hebreu</lang>
-                                <foreign rendition="#i" xml:lang="heb">chebel,</foreign> ou de son
-                                pluriel <foreign rendition="#i" xml:lang="heb"
-                                >chebalim,</foreign>qui signifie corde. <ref><persName
-                                        ref="#Nicot_ISN000000011856542X"
-                                    >nicod</persName><pc>.</pc></ref>
-                                <ref>
-                                    <persName ref="#Du_Cange_ISN0000000121021239">Du
-                                        Cange</persName></ref>croit qu'il vient de l'<lang
-                                    xml:lang="ara">Arabe</lang>
-                                <foreign rendition="#i" xml:lang="Ar">habl,</foreign> qui signifie
-                                    <hi>corde,</hi> ou de <foreign rendition="#i" xml:lang="Ar"
-                                    >habala,</foreign><hi>vincire</hi>
-                                <ref><persName ref="#Men_ISN0000000080815971">
-                                    Ménage</persName></ref>aprés <ref><persName
-                                        ref="#Isidore_ISN0000000122756296">Isidore</persName>
-                                </ref> le dérive de <foreign rendition="#i" xml:lang="lat"
-                                    >capulum</foreign> ou <foreign rendition="#i" xml:lang="Lat"
-                                    >cabulum</foreign> qu'il fait venir du <lang xml:lang="ell"
-                                    >Grec</lang>
-                                <foreign rendition="#i" xml:lang="Gr">camilos,</foreign> ou du <lang
-                                    xml:lang="lat">Latin</lang>
-                                <foreign rendition="#i" xml:lang="Lat">camelus.</foreign>
-                                <note>On dit aussi <foreign rendition="#i" xml:lang="lat"
-                                        >caplum</foreign>dans la basse Latinité, que <ref><persName
-                                            ref="#Papias_ISN0000000071399590"
-                                        >Papias</persName></ref> derive à <foreign rendition="#i"
-                                        xml:lang="lat">capiendo</foreign> qui signifie une <hi
-                                        rendition="#i">corde de navire</hi>
-                                </note>
-                            </etym>
+                            
 
 
-                            <sense n="3">
+                            <sense n="2">
                                 <usg> On dit, <seg type="collocation">Donner le <hi rendition="#i"
                                             >cable</hi> à un vaisseau</seg>, lorsqu'étant incommodé,
                                     on le remorgue avec un <hi>cable</hi> qu'on lui donne : ce qu'on
@@ -10159,7 +10205,8 @@
 
 
                         <entry xml:lang="fra" xml:id="Caduc">
-                            <form type="lemma"><orth rendition="#uc">caduc</orth><lbl>il y en a qui
+                            <form type="lemmaGrp">
+                            <form type="lemma"><orth rendition="#uc">caduc</orth></form><lbl>il y en a qui
                                     écrivent <hi rendition="#i">caduque</hi> aussi bien pour le
                                     masculin que pour le feminin.</lbl><form type="variant"><orth
                                         rendition="#uc">caduque</orth></form>

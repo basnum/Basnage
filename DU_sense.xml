@@ -4365,6 +4365,31 @@
                         <idno type="ISNI">http://www.isni.org/isni/</idno>
                         <idno type="URI"/>
                     </person>
+                    
+                    <person xml:id="Dominicus_ISN0000000110758796">
+                        <persName>
+                            <forename>Domingo</forename>
+                            <surname>de Soto</surname>
+                            <roleName/>
+                            <addName>Dominicus</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1479">Né 1479 à <placeName>Segovia</placeName> en <country corresp="#ESP">Espagne</country></birth>
+                        <death> Mort le 15 novembre 15, 1560 à <placeName>Salimanque</placeName> en <country corresp="#ESP">Espagne</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Espagnol</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Dominicaine</occupation>
+                        <affiliation>.Université de Salamanque</affiliation>
+                        <socecStatus/>
+                        <note>Théologien</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000110758796</idno>
+                        <idno type="URI">https://en.wikipedia.org/wiki/Domingo_de_Soto</idno>
+                    </person>
 
                     <person xml:id="Du_Cange_ISN0000000121021239">
                         <persName>
@@ -4916,6 +4941,31 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000122756296</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Isidore_de_Séville</idno>
+                    </person>
+
+                    <person xml:id="Jonston_ISN000000011885001X">
+                        <persName>
+                            <forename>Jan</forename>
+                            <surname>Jonston</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr>Jonst</abbr>
+                        </persName>
+                        <birth when="1603-09-03">né le 3 septembre 1603 <placeName>Szamotuły</placeName>en <country>Pologne</country></birth>
+                        <death when="1675-06-08">mort le 8 juin 1675 à <placeName>Legnica</placeName> en <country>Pologne</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Polonais</nationality>
+                        <faith>Protestant</faith>
+                        <education>Universités de St Andrews, Cambridge, Lede</education>
+                        <occupation/>
+                        <affiliation></affiliation>
+                        <socecStatus/>
+                        <note>Botaniste, historien, entomologiste, médecin, ornithologue</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/000000011885001X</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Jan_Jonston</idno>
                     </person>
 
                     <person xml:id="Kircher_ISN0000000121266092">
@@ -6096,6 +6146,32 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jacob_Spon</idno>
 
                     </person>
+                    
+                    <person xml:id="Surirey_ISN0000000066332981">
+                        <persName>
+                            <forename>Pierre</forename>
+                            <surname> Surirey de Saint-Remy</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1645">Né en 1645 à <placeName>Saint-Remy-sur-Orne</placeName><country corresp="#FRE">France</country></birth>
+                        <death when="1716">Mort en 1716 à <placeName>Paris </placeName><country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Militaire</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>général français, lieutenant du Grand maître de l'artillerie de France en 1703 et maréchal de camp.</note>
+                        <event>
+                            <desc>Mémoires d'artillerie<date>1697</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000066332981</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Pierre_Surirey_de_Saint-Remy</idno>
+                    </person>
+                    
                     <person xml:id="StAmant_ISN0000000121340352">
                         <persName xml:base="">
                             <forename>Marc Antoine</forename>
@@ -7806,7 +7882,8 @@
                                 target="#Du_Cange_ISN0000000121021239"><persName>Du
                                     Cange.</persName></ref></etym>
                     </sense>
-                    <sense>Battre, $ignifie au$$i, <def>Defaire des troupes a$$em-blées en un corps. </def>
+                    <sense><form><orth rendition="#sc">battre</orth></form><pc>,</pc>
+                        <def>$ignifie au$$i,Defaire des troupes a$$em-blées en un corps. </def>
                         <cit type="exemple">
                             <quote>Les petites armées battent bien $ou-vent les grandes.</quote>
                         </cit>
@@ -7860,37 +7937,76 @@
                         <seg type="collocation">qu'une montre bat encore,</seg>
                         <gloss>lor$que la fu$ée n'e$t pas encore à bout.</gloss>
                     </sense>
+                    <sense><form><orth rendition="#sc">battre</orth></form><pc>,</pc><lbl>s'employe
+                            aussi figurément en ces autres phrases. </lbl><seg type="collocation"
+                            >Battre froid à quelcun,</seg><gloss>c’est lui faire un mau-vais
+                            accueil, lui temoigner qu'on est mal satisfait de sa visite, de ses
+                            discours. </gloss>
+                        <lbl>On dit aussi,</lbl><seg type="collocation">Il l'a battu de cette
+                            raison, de cet argument ;</seg>
+                        <gloss> pour dire, Il lui a fait une telle objection, il l'a convaincu par
+                            cette raison.</gloss>
+                        <lbl>On dit aussi, </lbl><seg type="collocation">qu'un homme se bat en
+                            retraite ;</seg><gloss> pour dire, qu'il se retire des affaires, du
+                            commerce du monde.</gloss>
+                    </sense>
+                </entry>
+
+                <entry>
+                    <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                            >battologie</orth></form><gramGrp><pos expand="Substantif">s.</pos>
+                            <gen expand="Feminin">f.</gen></gramGrp></form>
+                    <sense><usg type="terme" ana="#chymie">Terme de Grammaire. </usg>
+                        <def>Multiplicité de paroles, affluence d’expressions superfluës ; vice du
+                            discours, qui arrive lorsqu’on repete plusieurs fois la même chose, ou
+                            qu’on dit plusieurs choses vaines, frivoles &amp; inutiles au
+                            sujet.</def>
+                        <etym>Ce mot vient de Battus Poëte ennuyeux, lequel par ses longueurs, &amp;
+                            ses repetitions fit inventer cette expression, laquelle a transmis le
+                            chagrin de ses auditeurs. Ovide raconte que Mercure ayant volé les bœufs
+                            du Roi Admete gardez par Apollon, donna à Battus une vache pour
+                            l’engager dans le secret. Mercure se deguisa pour l’éprouver, &amp; lui
+                            promit une double recompense ; aussi-tôt le babillard Battus lui revela
+                            tout, &amp; repeta même deux fois le lieu où Mercure avait caché son
+                            vol. De là est venu le mot de battologie.</etym></sense>
                 </entry>
 
             </div>
-            
+
             <div type="BAU">
-                
+
                 <entry xml:id="Bauge">
                     <form type="lemmaGrp">
                         <form type="lemma"><orth rendition="#uc">bauge</orth></form>
-                        <gramGrp><pos expand="Substantif">s. </pos><gen expand="Feminin">f.</gen></gramGrp>
+                        <gramGrp><pos expand="Substantif">s. </pos><gen expand="Feminin"
+                            >f.</gen></gramGrp>
                     </form>
-                    
+
                     <sense n="1">
                         <usg type="terme" ana="#chasse">Terme de Chasse. </usg>
-                        <def>Lieu où repose le
-                            sanglier, ou autres bêtes noires &amp; mordantes, qui est
-                            d’ordinaire sale &amp; bourbeux. </def>
-                        <cit type="exemple"><quote>Le sanglier fait sa <hi rendition="#i">bauge</hi>
-                            dans des lieux fourrez &amp; des épiniers.</quote></cit>
+                        <def>Lieu où repose le sanglier, ou autres bêtes noires &amp; mordantes, qui
+                            est d’ordinaire sale &amp; bourbeux. </def>
+                        <cit type="exemple">
+                            <quote>Le sanglier fait sa <hi rendition="#i">bauge</hi> dans des lieux
+                                fourrez &amp; des épiniers.</quote>
+                        </cit>
                     </sense>
-                    <sense n="2"><form><orth rendition="#sc">bauge</orth></form><pc>,</pc><usg> se dit aussi des murs qui ne sont bâtis que de
-                        cailloux, dont la liaison est faite de terre grasse humec-
-                        tée, &amp; mêlée avec de la paille &amp; du foin. </usg>
-                        <cit type="exemple"><quote>Presque tou-
-                        tes les cabanes de païsans n’ont que des murs de <hi rendition="#i">bauge</hi><pc>.</pc></quote></cit>
+                    <sense n="2"><form><orth rendition="#sc">bauge</orth></form><pc>,</pc><usg> se
+                            dit aussi des murs qui ne sont bâtis que de cailloux, dont la liaison
+                            est faite de terre grasse humec- tée, &amp; mêlée avec de la paille
+                            &amp; du foin. </usg>
+                        <cit type="exemple">
+                            <quote>Presque tou- tes les cabanes de païsans n’ont que des murs de <hi
+                                    rendition="#i">bauge</hi><pc>.</pc></quote>
+                        </cit>
                         <note>On dit quelquefois <oRef rendition="#i">bauche</oRef>.</note></sense>
-                    <sense n="3"><form><orth>Bauge</orth></form><pc>,</pc><usg> se dit proverbialement en cette phrase, 
-                        <cit type="exemple"><quote>Avoir
-                        tout à <hi rendition="#i">bauge</hi>, <gloss>pour signifier, Avoir en abondance </gloss></quote></cit> <pc>;</pc> &amp;
-                        se dit particulierement des valets à la discretion desquels
-                        on a abandonné les provisions d’une maison.</usg></sense>
+                    <sense n="3"><form><orth>Bauge</orth></form><pc>,</pc><usg> se dit
+                            proverbialement en cette phrase, <cit type="exemple">
+                                <quote>Avoir tout à <hi rendition="#i">bauge</hi>, <gloss>pour
+                                        signifier, Avoir en abondance </gloss></quote>
+                            </cit>
+                            <pc>;</pc> &amp; se dit particulierement des valets à la discretion
+                            desquels on a abandonné les provisions d’une maison.</usg></sense>
                 </entry>
             </div>
 
@@ -8161,66 +8277,64 @@
                         </sense>
                     </entry>
                 </div>
-                <div type="CAD"><entry xml:lang="fra" xml:id="Caduc">
-                    <form type="lemma"><orth rendition="#uc">caduc</orth><lbl>il y en a qui
-                        écrivent <hi rendition="#i">caduque</hi> aussi bien pour le
-                        masculin que pour le feminin.</lbl><form type="variant"><orth
-                            rendition="#uc">caduque</orth></form>
-                        <gramGrp><pos expand="Adjectif"> adj.</pos></gramGrp></form>
-                    <sense n="1">
-                        <def>Qui a perdu ses forces, soit par l'âge, soit par les
-                            maladies.</def>
-                        <cit type="exemple">
-                            <quote>Quand on a passé 60 ans, on est dans un âge <hi
-                                rendition="#i">caduc</hi>.</quote>
-                        </cit>
-                        <etym>Ce mot vient du Latin <lang xml:lang="lat">caducus,
-                        </lang>sujet à cheoir, de <lang xml:lang="lat"
-                            >cadere</lang>.</etym>
-                    </sense>
-                    
-                    
-                    <sense n="2"><form type="lemma"><orth rendition="#sc"
-                        >caduc</orth>,</form><usg>se dit aussi des bâtimens qui menacent
-                            ruine.</usg>
-                        <cit type="exemple">
-                            <quote>Il faut étayer une maison <hi rendition="#i"
-                                >caduque</hi>, de peur qu'elle ne tombe.</quote>
-                        </cit>
-                    </sense>
-                    
-                    <sense n="3"><form type="lemma"><orth rendition="#sc"
-                        >caduc</orth>,</form>se dit figurément en choses morales. <cit
-                            type="exemple">
-                            <quote>La faveur de ce Courtisan est bien diminuée; sa fortune
-                                est fort <hi rendition="#i">caduque.</hi></quote>
-                        </cit>
-                    </sense>
-                    
-                    
-                    <sense n="4"><form type="lemma"><orth rendition="#sc"
-                        >caduc</orth></form>
-                        <usg type="terme" ana="#jurisprudence">Terme de Jurisprudence.</usg>
-                        <def>se dit d'un legs d'une institution d'héritier qui n'ont point
-                            d'effet.</def>
-                        <cit type="exemple">
-                            <quote>Ce legs est devenu <hi>caduc</hi> par la mort du
-                                legataire avant le testateur. Cette succession est devenue
-                                <hi rendition="#i">caduque</hi>, parce que personne ne
-                                s'est porté pour héritier.</quote>
-                        </cit>
-                        <note> Il y a un titre dans le Droit <hi rendition="#i">de caducis
-                            tollendis</hi>.</note></sense>
-                    <sense n="5">
-                        <usg type="terme" ana="#medecine">En termes de Medecine</usg>,
-                        <def>on appelle le mal <hi rendition="#i">caduc</hi>, le haut
-                            mal, le mal St. Jean, ou l'épilepsie: c'est une maladie qui fait
-                            tomber un homme quand l'accès lui prend &amp; qui le tourmente
-                            cruellement.</def>
-                        <xr><lbl> Voyez </lbl>
-                            <ref rendition="#sc" corresp="#Epilepsie"
-                                >EPILEPSIE</ref></xr></sense>
-                </entry></div>
+                <div type="CAD">
+                    <entry xml:lang="fra" xml:id="Caduc">
+                        <form type="lemma"><orth rendition="#uc">caduc</orth><lbl>il y en a qui
+                                écrivent <hi rendition="#i">caduque</hi> aussi bien pour le masculin
+                                que pour le feminin.</lbl><form type="variant"><orth rendition="#uc"
+                                    >caduque</orth></form>
+                            <gramGrp><pos expand="Adjectif"> adj.</pos></gramGrp></form>
+                        <sense n="1">
+                            <def>Qui a perdu ses forces, soit par l'âge, soit par les
+                                maladies.</def>
+                            <cit type="exemple">
+                                <quote>Quand on a passé 60 ans, on est dans un âge <hi
+                                        rendition="#i">caduc</hi>.</quote>
+                            </cit>
+                            <etym>Ce mot vient du Latin <lang xml:lang="lat">caducus, </lang>sujet à
+                                cheoir, de <lang xml:lang="lat">cadere</lang>.</etym>
+                        </sense>
+
+
+                        <sense n="2"><form type="lemma"><orth rendition="#sc"
+                                >caduc</orth>,</form><usg>se dit aussi des bâtimens qui menacent
+                                ruine.</usg>
+                            <cit type="exemple">
+                                <quote>Il faut étayer une maison <hi rendition="#i">caduque</hi>, de
+                                    peur qu'elle ne tombe.</quote>
+                            </cit>
+                        </sense>
+
+                        <sense n="3"><form type="lemma"><orth rendition="#sc">caduc</orth>,</form>se
+                            dit figurément en choses morales. <cit type="exemple">
+                                <quote>La faveur de ce Courtisan est bien diminuée; sa fortune est
+                                    fort <hi rendition="#i">caduque.</hi></quote>
+                            </cit>
+                        </sense>
+
+
+                        <sense n="4"><form type="lemma"><orth rendition="#sc">caduc</orth></form>
+                            <usg type="terme" ana="#jurisprudence">Terme de Jurisprudence.</usg>
+                            <def>se dit d'un legs d'une institution d'héritier qui n'ont point
+                                d'effet.</def>
+                            <cit type="exemple">
+                                <quote>Ce legs est devenu <hi>caduc</hi> par la mort du legataire
+                                    avant le testateur. Cette succession est devenue <hi
+                                        rendition="#i">caduque</hi>, parce que personne ne s'est
+                                    porté pour héritier.</quote>
+                            </cit>
+                            <note> Il y a un titre dans le Droit <hi rendition="#i">de caducis
+                                    tollendis</hi>.</note></sense>
+                        <sense n="5">
+                            <usg type="terme" ana="#medecine">En termes de Medecine</usg>, <def>on
+                                appelle le mal <hi rendition="#i">caduc</hi>, le haut mal, le mal
+                                St. Jean, ou l'épilepsie: c'est une maladie qui fait tomber un homme
+                                quand l'accès lui prend &amp; qui le tourmente cruellement.</def>
+                            <xr><lbl> Voyez </lbl>
+                                <ref rendition="#sc" corresp="#Epilepsie"
+                            >EPILEPSIE</ref></xr></sense>
+                    </entry>
+                </div>
                 <div type="CAN">
                     <entry xml:lang="fra" xml:id="Canon">
                         <form type="lemmaGrp">
@@ -9017,12 +9131,12 @@
                                 droit, &amp; tantôt à l’angle gauche. Les espaces que laissent les
                                 croix &amp; les sautoirs entre leurs branches, sont aussi appellez
                                     <hi rendition="#i">cantons.</hi></note>
-                            </sense>
+                        </sense>
                         <etym>
-                                <bibl><author ref="#Martinius_ISN0000000120991823"
-                                        >Martinius</author></bibl> derive le mot de <hi>canton</hi>
-                                du Grec <lang xml:lang="grec">kanthos</lang>, qui signifie le
-                                    <hi>coin de l’oeil.</hi></etym>
+                            <bibl><author ref="#Martinius_ISN0000000120991823"
+                                >Martinius</author></bibl> derive le mot de <hi>canton</hi> du Grec
+                                <lang xml:lang="grec">kanthos</lang>, qui signifie le <hi>coin de
+                                l’oeil.</hi></etym>
                     </entry>
 
                 </div>
@@ -9247,20 +9361,25 @@
                         <form type="lemmaGrp"><form><orth rendition="#sc"
                                     >Decliner</orth></form><gramGrp><pos expand="Verbe">v.</pos>
                                 <subc expand="Actif">act. </subc></gramGrp></form>
-                   <sense n="1"><usg>$ignifie en Grammaire,</usg><def>Varier un nom par tous $es cas, $oit par le
-                        moyen de l'article, comme en François, $oit par le changement de
-                        termi-nai$on, comme en Latin.</def>
-                       <cit type="exemple"><quote>Il $çait <hi rendition="#i">decliner</hi> $on nom par regles.</quote></cit>
-                       <cit type="exemple"><quote>Cet homme ne $çait pas <hi rendition="#i">decliner</hi> $on nom ; <gloss>pour dire, Il e$t fort
-                        ignorant</gloss></quote></cit>
-                   </sense>
-                    
+                        <sense n="1"><usg>$ignifie en Grammaire,</usg><def>Varier un nom par tous
+                                $es cas, $oit par le moyen de l'article, comme en François, $oit par
+                                le changement de termi-nai$on, comme en Latin.</def>
+                            <cit type="exemple">
+                                <quote>Il $çait <hi rendition="#i">decliner</hi> $on nom par
+                                    regles.</quote>
+                            </cit>
+                            <cit type="exemple">
+                                <quote>Cet homme ne $çait pas <hi rendition="#i">decliner</hi> $on
+                                    nom ; <gloss>pour dire, Il e$t fort ignorant</gloss></quote>
+                            </cit>
+                        </sense>
+
                     </hom>
-                   
+
                 </entry>
 
             </div>
-            
+
             <div type="ORF">
                 <entry xml:id="Orfelin">
                     <form type="lemmaGrp"><form type="lemma">orfelin </form><lbl>ou </lbl>
@@ -9300,107 +9419,110 @@
 
 
             </div>
-            
+
             <div type="OUE">
                 <entry>
                     <form><orth>ouest</orth></form>
-                    <sense><usg></usg><note></note></sense>
+                    <sense><usg/><note/></sense>
                 </entry>
-                
+
             </div>
-            <div type="POR"><entry xml:id="Porques">
-                <form type="lemmaGrp">
-                    <form type="lemma"><orth rendition="#uc">porques</orth><pc>.</pc></form>
-                    <pc></pc>
-                </form>
-                
-                <sense><usg type="terme" ana="#marine">Terme de Marine. </usg> 
-                    <def>Ce sont des pieces
-                de charpenterie qui se mettent sur la carlingue, parallê-
-                les aux varangues, pour doubler les membres qui sont
-                au dedans du vaisseau, &amp; pour les fortifier depuis le bas
-                du fond de cale jusques dessous le premier pont, contre
-                lesquelles sont appuyez les bouts des faux baux. Il y en
-                a de deux sortes. Les porques de fond sont posées de tra-
-                vers au dessus des vaigres, &amp; parallêles aux varangues,
-                dans lesquelles il y a une entaille pour loger l’épaisseur
-                de la carlingue, mais ils sont plus éloignez les uns des
-                autres que les varangues. Les porques aculées sont pla-
-                cées à l’endroit des varangues &amp; fourcats les plus acu-
-                lez. On appelle gemux, alanges &amp; contrallonges de per-
-                ques, les pirces qu’on y ajoute coimme aux côtés du
-                navire.</def></sense></entry></div>
-            
+            <div type="POR">
+                <entry xml:id="Porques">
+                    <form type="lemmaGrp">
+                        <form type="lemma"><orth rendition="#uc">porques</orth><pc>.</pc></form>
+                        <pc/>
+                    </form>
+
+                    <sense><usg type="terme" ana="#marine">Terme de Marine. </usg>
+                        <def>Ce sont des pieces de charpenterie qui se mettent sur la carlingue,
+                            parallê- les aux varangues, pour doubler les membres qui sont au dedans
+                            du vaisseau, &amp; pour les fortifier depuis le bas du fond de cale
+                            jusques dessous le premier pont, contre lesquelles sont appuyez les
+                            bouts des faux baux. Il y en a de deux sortes. Les porques de fond sont
+                            posées de tra- vers au dessus des vaigres, &amp; parallêles aux
+                            varangues, dans lesquelles il y a une entaille pour loger l’épaisseur de
+                            la carlingue, mais ils sont plus éloignez les uns des autres que les
+                            varangues. Les porques aculées sont pla- cées à l’endroit des varangues
+                            &amp; fourcats les plus acu- lez. On appelle gemux, alanges &amp;
+                            contrallonges de per- ques, les pirces qu’on y ajoute coimme aux côtés
+                            du navire.</def></sense>
+                </entry>
+            </div>
+
             <div type="RAB">
-                <entry><dictScrap>Rable, se dit aussi des pieces de bois qui traversent le
-                    fond des bateaux, qui sont rangées comme des soli-
-                    ves, sur lesquelles on attache les semelles, planches
-                    ou bordages du fond. Dans les bâtimens de mer on les
-                    appelle varangues.</dictScrap></entry>
+                <entry>
+                    <dictScrap>Rable, se dit aussi des pieces de bois qui traversent le fond des
+                        bateaux, qui sont rangées comme des soli- ves, sur lesquelles on attache les
+                        semelles, planches ou bordages du fond. Dans les bâtimens de mer on les
+                        appelle varangues.</dictScrap>
+                </entry>
             </div>
-            
+
             <div type="SAN">
-                <entry><dictScrap>SANGLONS. s. m. Terme de Marine. Pieces de
-                    bois triangulaires qui se posent par l’une de leurs extre-
-                    mitez sur la troisiéme partie de la quille d’un vaisseau,
-                    vers l’arriere au lieu de varangues. L’autre extremité se
-                    joint avec des genoux qu’on appelle revers. On les ap-
-                    pelle aussi feurs.
-                </dictScrap></entry>
+                <entry>
+                    <dictScrap>SANGLONS. s. m. Terme de Marine. Pieces de bois triangulaires qui se
+                        posent par l’une de leurs extre- mitez sur la troisiéme partie de la quille
+                        d’un vaisseau, vers l’arriere au lieu de varangues. L’autre extremité se
+                        joint avec des genoux qu’on appelle revers. On les ap- pelle aussi feurs.
+                    </dictScrap>
+                </entry>
             </div>
-            
+
             <div type="SQU">
-                <entry><dictScrap>Squelete, se dit aussi d’un navire, quand il n’y a
-                    que les principales pieces assemblées, comme la quil-
-                    le, l’étambora, les varangues, les genoux, qui for-
-                    ment ses côtes, &amp; quand il n’est pas couvert de ses
-                    planches, &amp; de ses ornemens.</dictScrap></entry>
+                <entry>
+                    <dictScrap>Squelete, se dit aussi d’un navire, quand il n’y a que les
+                        principales pieces assemblées, comme la quil- le, l’étambora, les varangues,
+                        les genoux, qui for- ment ses côtes, &amp; quand il n’est pas couvert de ses
+                        planches, &amp; de ses ornemens.</dictScrap>
+                </entry>
             </div>
-            
+
             <div type="VAR">
-                <entry><dictScrap>VAIGRESs, ou VEGRES. s. f. Terme de Ma-
-                    rine. Ce sont les planches qui font le revetement inte-
-                    rieur, ou le lambris du vaisseau par dedans. On appelle
-                    vaigrer, ou lambrisser le vaisseau, lorsqu’on les atta-
-                    che, ou qu’on les pose en place. Celles qui sont po-
-                    sées tout joignant l’escarlingue de part &amp; d’autre se le-
-                    vent, quand on veut, pour voir s’il y a quelques or-
-                    dures dans la lumiere des varangues, qui empêchent
-                    de couler l’eau aux pompes. On les nomme aussi ser-
-                    res, contrecarlingues ou parcloses.</dictScrap></entry>
-                
-                <entry><form type="lemmaGrp">
-                    <form type="lemma"><orth rendition="#uc">varangue</orth></form>
-                    <gramGrp><pos expand="Substantif">s. </pos><gen expand="Feminin">f.</gen></gramGrp>
-                </form>
-                    
+                <entry>
+                    <dictScrap>VAIGRESs, ou VEGRES. s. f. Terme de Ma- rine. Ce sont les planches
+                        qui font le revetement inte- rieur, ou le lambris du vaisseau par dedans. On
+                        appelle vaigrer, ou lambrisser le vaisseau, lorsqu’on les atta- che, ou
+                        qu’on les pose en place. Celles qui sont po- sées tout joignant
+                        l’escarlingue de part &amp; d’autre se le- vent, quand on veut, pour voir
+                        s’il y a quelques or- dures dans la lumiere des varangues, qui empêchent de
+                        couler l’eau aux pompes. On les nomme aussi ser- res, contrecarlingues ou
+                        parcloses.</dictScrap>
+                </entry>
+
+                <entry>
+                    <form type="lemmaGrp">
+                        <form type="lemma"><orth rendition="#uc">varangue</orth></form>
+                        <gramGrp><pos expand="Substantif">s. </pos><gen expand="Feminin"
+                            >f.</gen></gramGrp>
+                    </form>
+
                     <sense n="1"><usg type="terme" ana="#marine">Terme de Marine.</usg>
-                        <def>C’est la
-                    premiere des trois pieces qui font la côte d’un nav-
-                    re, &amp; qui est entée dans la quille pour former le
-                    fond, ou le plat du vaisseau.</def> 
-                        <sense><seg type="terme_variant">Les varangues plattes</seg>
-                    sont les varangues de fond. </sense>
-                        <sense><seg type="terme_variant">La maîtresse varangue</seg>
-                    est la plus longue, &amp; celle qui est posée sous le maî-
-                    tre bau. On l’appelle autrement maitresse cête, ou premier gabarit sur l’Ocean, ou sur la Mediterranée
-                    madiere. Elles se mettent de travers à angle droit
-                    entre la quille &amp; la contrequille, autrement dite
-                    carlingue ou escarlingue. </sense>
-                        <sense> <seg type="terme_variant">Les varangues aculées</seg> sont
-                    celles qui sont rondes en dedans, &amp; qui ont plus d’é-
-                    paisseur, ou de hauteur que la quille, qui sont pla-
-                    cées en allant vers les deux extremitez du navire,
-                    qui augmentent toujours, jusqu’à ce que la trop
-                    grande hauteur du bois oblige de placer les fourcats.
-                    Les bâtimens courts de varangues sont ronds de ca-
-                    rene, &amp; tirent plus d’eau que ceux qui sont larges de
-                    varangues, &amp; qui ont les varangues plattes. </sense>
-                        <sense> <seg type="terme_variant">Les varangues plattes</seg> sont celles qui ont moins de rondeur
-                    que les autres. On appelle un vaisseau qui a le fond
-                    plat, un vaisseau à platte varangue.</sense></sense></entry>
-                
-                
+                        <def>C’est la premiere des trois pieces qui font la côte d’un nav- re, &amp;
+                            qui est entée dans la quille pour former le fond, ou le plat du
+                            vaisseau.</def>
+                        <sense><seg type="terme_variant">Les varangues plattes</seg> sont les
+                            varangues de fond. </sense>
+                        <sense><seg type="terme_variant">La maîtresse varangue</seg> est la plus
+                            longue, &amp; celle qui est posée sous le maî- tre bau. On l’appelle
+                            autrement maitresse cête, ou premier gabarit sur l’Ocean, ou sur la
+                            Mediterranée madiere. Elles se mettent de travers à angle droit entre la
+                            quille &amp; la contrequille, autrement dite carlingue ou escarlingue. </sense>
+                        <sense>
+                            <seg type="terme_variant">Les varangues aculées</seg> sont celles qui
+                            sont rondes en dedans, &amp; qui ont plus d’é- paisseur, ou de hauteur
+                            que la quille, qui sont pla- cées en allant vers les deux extremitez du
+                            navire, qui augmentent toujours, jusqu’à ce que la trop grande hauteur
+                            du bois oblige de placer les fourcats. Les bâtimens courts de varangues
+                            sont ronds de ca- rene, &amp; tirent plus d’eau que ceux qui sont larges
+                            de varangues, &amp; qui ont les varangues plattes. </sense>
+                        <sense>
+                            <seg type="terme_variant">Les varangues plattes</seg> sont celles qui
+                            ont moins de rondeur que les autres. On appelle un vaisseau qui a le
+                            fond plat, un vaisseau à platte varangue.</sense></sense>
+                </entry>
+
+
             </div>
         </body>
     </text>
