@@ -4366,6 +4366,31 @@
                         <idno type="ISNI">http://www.isni.org/isni/</idno>
                         <idno type="URI"/>
                     </person>
+                    
+                    <person xml:id="Dominicus_ISN0000000110758796">
+                        <persName>
+                            <forename>Domingo</forename>
+                            <surname>de Soto</surname>
+                            <roleName/>
+                            <addName>Dominicus</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1479">Né 1479 à <placeName>Segovia</placeName> en <country corresp="#ESP">Espagne</country></birth>
+                        <death> Mort le 15 novembre 15, 1560 à <placeName>Salimanque</placeName> en <country corresp="#ESP">Espagne</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Espagnole</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Dominicaine</occupation>
+                        <affiliation>.Université de Salamanque</affiliation>
+                        <socecStatus/>
+                        <note>Théologien</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000110758796</idno>
+                        <idno type="URI">https://en.wikipedia.org/wiki/Domingo_de_Soto</idno>
+                    </person>
 
                     <person xml:id="Du_Cange_ISN0000000121021239">
                         <persName>
@@ -4869,7 +4894,7 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Pierre-Daniel_Huet</idno>
                     </person>
 
-                    <person xml:id="ISN0000000116168850">
+                    <person xml:id="Van_Helmont_ISN0000000116168850">
                         <persName>
                             <forename>Jean-Baptiste</forename>
                             <surname> Van Helmont</surname>
@@ -6122,6 +6147,32 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jacob_Spon</idno>
 
                     </person>
+                    
+                    <person xml:id="Surirey_ISN0000000066332981">
+                        <persName>
+                            <forename>Pierre</forename>
+                            <surname> Surirey de Saint-Remy</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1645">Né en 1645 à <placeName>Saint-Remy-sur-Orne</placeName><country corresp="#FRE">France</country></birth>
+                        <death when="1716">Mort en 1716 à <placeName>Paris </placeName><country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Militaire</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>général français, lieutenant du Grand maître de l'artillerie de France en 1703 et maréchal de camp.</note>
+                        <event>
+                            <desc>Mémoires d'artillerie<date>1697</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000066332981</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Pierre_Surirey_de_Saint-Remy</idno>
+                    </person>
+                    
                     <person xml:id="StAmant_ISN0000000121340352">
                         <persName xml:base="">
                             <forename>Marc Antoine</forename>

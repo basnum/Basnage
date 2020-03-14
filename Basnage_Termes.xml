@@ -3701,6 +3701,38 @@
                             >http://siefar.org/dictionnaire/fr/Laurence_Gigault_de_Bellefonds</idno>
                     </person>
 
+                    <person xml:id="Bernier_ISN0000000110224698">
+                        <persName>
+                            <forename>François</forename>
+                            <surname>Bernier</surname>
+                            <roleName/>
+                            <addName>Bernier-Mogol</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1620-09-25">né le 25 septembre 1620 à
+                                <placeName>Joué</placeName><country corresp="#FRE"
+                            >France</country></birth>
+                        <death when="1688-09-22">mort le 22 septembre 1688 à
+                                <placeName>Paris</placeName><country corresp="#FRE"
+                            >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education>Lycée Louis-le-Grand</education>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note> Philosophe, médecin, écrivain, explorateur, anthropologue, ami et
+                            intime de <persName corresp="#Gassendi_ISN0000000122778567"
+                                >Gassendi</persName></note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000110224698</idno>
+                        <idno type="URI"
+                            >https://fr.wikipedia.org/wiki/François_Bernier_(philosophe)</idno>
+                    </person>
+
                     <person xml:id="Boate_ISN0000000063182535">
                         <persName>
                             <forename>Gerard</forename>
@@ -3837,6 +3869,39 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Robert_Boyle</idno>
                     </person>
 
+                    <person xml:id="Briot_ISN0000000066305692">
+                        <persName>
+                            <forename>Pierre</forename>
+                            <surname>Briot</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr>M.B.P</abbr>
+                        </persName>
+                        <birth when-custom="1600?"><placeName/><country corresp="#FRE"
+                                >France</country></birth>
+                        <death when="1679"><placeName/><country corresp="#FRE"
+                            >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith/>
+                        <education/>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>Traducteur, collaboration avec <persName
+                                ref="#Ricaut_ISN0000000110197685">Paul Rycault</persName></note>
+                        <event>
+                            <desc
+                                xml:base="https://archive.org/details/bub_gb_29hO1c1EkfkC/page/n8/mode/2up"
+                                >Histoire de l'état présent de l'Empire ottoman, contenant les
+                                maximes politiques des Turcs, les principaux points de la religion
+                                mahométane... leur discipline militaire... Traduite de l'anglois de
+                                Monsieur Ricaut... Par Monsieur Briot<date>1670</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000066305692</idno>
+                        <idno type="URI">https://data.bnf.fr/fr/16095025/pierre_briot/</idno>
+                    </person>
+
                     <person xml:id="CHdeM_ISN0000000115877807">
                         <persName>
                             <forename>Antoine</forename>
@@ -3904,13 +3969,68 @@
                         <idno>ISN:0000000121302882</idno>
                     </person>
 
+                    <person xml:id="Casaubon_ISN0000000121340643">
+                        <persName>
+                            <forename>Isaac</forename>
+                            <surname>Casaubon</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1559-02-18">Né le 18 février 1559 à
+                                <placeName>Genève</placeName><country corresp="#CHE"
+                                >Suisse</country></birth>
+                        <death when="1614-07-01">Mort le 1er juillet 1614 à
+                                <placeName>Londres</placeName><country corresp="#GBR"
+                                >Angleterre</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Suisse</nationality>
+                        <faith>Protestant</faith>
+                        <education>Université de Génève</education>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note> Bibliothécaire, professeur, philologue classique, écrivain </note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000121340643</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Isaac_Casaubon</idno>
+                    </person>
+
                     <person xml:id="Casimir_ISN0000000109907053">
                         <persName xml:base=""><persName>Casimir Siemienowicz,
                                 Polonais</persName><date>c.
                                 1600-1651</date><country>Lithuania</country></persName>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Kazimierz_Siemienowicz</idno>
                     </person>
-
+                    <person xml:id="Catharinot_ISN0000000119524566">
+                        <persName>
+                            <forename>Lancelotto</forename>
+                            <surname>Politi</surname>
+                            <roleName/>
+                            <addName>Ambrogio Catarino Politi</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1484">Né en 1484 à <placeName>Sienne </placeName><country
+                                corresp="#ITA">Italie</country></birth>
+                        <death when="1553">Mort en 1553 à <placeName>Rome</placeName><country
+                                corresp="#ITA">Italie</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Italian</nationality>
+                        <faith>Catholique</faith>
+                        <education>Université de Sienne</education>
+                        <occupation/>
+                        <affiliation>Ordre des Precheurs - Dominicain</affiliation>
+                        <socecStatus>Moine dominicain</socecStatus>
+                        <note>un frère dominicain italien, docteur en droit canon, qui a joué un
+                            rôle important dans le mouvement de la Contre-Réforme</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000119524566</idno>
+                        <idno type="URI"/>
+                    </person>
                     <person xml:id="Chevreau_ISN0000000083429427">
                         <persName>
                             <forename>Urbain</forename>
@@ -4068,6 +4188,33 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jean_Commire</idno>
                     </person>
 
+                    <person xml:id="Cotgrave_ISN0000000080775172">
+                        <persName>
+                            <forename>Randle</forename>
+                            <surname>Cotgrave</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when-custom="15siecle">Né au xvie siècle dans le <placeName>Cheshire
+                                </placeName><country corresp="#GBR">Angleterre</country></birth>
+                        <death when="1652">Mort en 1652 à <placeName>Londres</placeName><country
+                                corresp="#GBR">Angleterre</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Anglaise</nationality>
+                        <faith>Protestant</faith>
+                        <education>St Johns College, Cambridge</education>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>un romaniste et lexicographe anglais.</note>
+                        <event>
+                            <desc>A Dictionarie of the French and English Tongues,
+                                <date>1611</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000080775172</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Randle_Cotgrave</idno>
+                    </person>
                     <person xml:id="Cousin_ISN0000000107730362">
                         <persName>
                             <forename>Louis</forename>
@@ -4366,7 +4513,7 @@
                         <idno type="ISNI">http://www.isni.org/isni/</idno>
                         <idno type="URI"/>
                     </person>
-                    
+
                     <person xml:id="Dominicus_ISN0000000110758796">
                         <persName>
                             <forename>Domingo</forename>
@@ -4375,10 +4522,12 @@
                             <addName>Dominicus</addName>
                             <abbr/>
                         </persName>
-                        <birth when="1479">Né 1479 à <placeName>Segovia</placeName> en <country corresp="#ESP">Espagne</country></birth>
-                        <death> Mort le 15 novembre 15, 1560 à <placeName>Salimanque</placeName> en <country corresp="#ESP">Espagne</country></death>
+                        <birth when="1479">Né 1479 à <placeName>Segovia</placeName> en <country
+                                corresp="#ESP">Espagne</country></birth>
+                        <death> Mort le 15 novembre 15, 1560 à <placeName>Salimanque</placeName> en
+                                <country corresp="#ESP">Espagne</country></death>
                         <sex>Masculin</sex>
-                        <nationality>Espagnol</nationality>
+                        <nationality>Espagnole</nationality>
                         <faith>Catholique</faith>
                         <education/>
                         <occupation>Dominicaine</occupation>
@@ -4390,6 +4539,40 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000110758796</idno>
                         <idno type="URI">https://en.wikipedia.org/wiki/Domingo_de_Soto</idno>
+                    </person>
+
+                    <person xml:id="Donneau_ISN0000000108664651">
+                        <persName>
+                            <forename>Jean</forename>
+                            <surname>Donneau de Visé</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1638-12-03">né le 3 ou 4 décembre 1638 à
+                                <placeName>Paris</placeName><country corresp="#FRE"
+                            >France</country></birth>
+                        <death> Mort le 8 juillet 1710 à <placeName>Paris </placeName><country
+                                corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Écrivain</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>Journaliste, historien, critique littéraire, auteur de nouvelles et de
+                            comédies</note>
+                        <event>
+                            <desc>A crée le revue Le Mercure Galant<date>1672</date></desc>
+                        </event>
+                        <event>
+                            <desc>collabore au Grand Dictionnaire des précieuses, historique,
+                                poétique, géographique, cosmographique, chronologique et armoirique
+                                    d'<persName>Antoine Baudeau de Somaize</persName></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000108664651</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Jean_Donneau_de_Visé</idno>
                     </person>
 
                     <person xml:id="Du_Cange_ISN0000000121021239">
@@ -4543,7 +4726,40 @@
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Jean_Duvergier_de_Hauranne</idno>
                     </person>
-
+                    <person xml:id="EstienneHenriII_ISN">
+                        <persName>
+                            <forename>Henri</forename>
+                            <surname>Estienne</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth>Né en 1528 ou 1531 à <placeName>Paris</placeName><country
+                                corresp="#FRE">France</country></birth>
+                        <death>Mort en 1598 à <placeName>Lyon</placeName><country corresp="#FRE"
+                                >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Protestant</faith>
+                        <education>Université de Paris</education>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note> Lexicographe, imprimeur, traducteur, philologue classique. Fils de
+                            Robert Estienne, Beau père de <persName
+                                corresp="#Casaubon_ISN0000000121340643">Casaubon</persName></note>
+                        <event>
+                            <desc>Dictionnaire de la langue grecque, paru à Genève, en
+                                    <date>1572</date>, sous le titre de Thesaurus græcæ
+                                linguæ</desc>
+                        </event>
+                        <event>
+                            <desc>Traité de la conformité du langage français avec le grec, sans
+                                date, 8°. Seconde édition : Paris, 8°.<date>1565</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Henri_Estienne</idno>
+                    </person>
                     <person xml:id="Fatio_ISN000000002518197X">
                         <persName>
                             <forename>Nicolas</forename>
@@ -4728,6 +4944,34 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000122778567</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Pierre_Gassendi</idno>
                     </person>
+
+                    <person xml:id="Godefroy_ISN0000000109090047">
+                        <persName>
+                            <forename>Jacques</forename>
+                            <surname>Godefroy</surname>
+                            <roleName/>
+                            <addName>Iacubus Gothofredus</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1587-09-13">Né le 13 septembre 1587 à
+                                <placeName>Genève</placeName>
+                            <country corresp="#CHE">Suisse</country></birth>
+                        <death when="1652-06-22">Mort le 22 juin 1652 à <placeName>Genève
+                                </placeName><country corresp="#CHE">Suisse</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Suisse</nationality>
+                        <faith>Protestant</faith>
+                        <education>Bourges, Paris</education>
+                        <occupation>Syndic de Genève</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note> Historien du droit, juriste, homme politique, professeur</note>
+                        <event>
+                            <desc>Codex Theodosianus<date>1665</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000109090047</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Jacques_Godefroy</idno>
+                    </person>
                     <person xml:id="Grew_ISN0000000081527306">
                         <persName>
                             <forename>Nehemiah</forename>
@@ -4894,7 +5138,7 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Pierre-Daniel_Huet</idno>
                     </person>
 
-                    <person xml:id="ISN0000000116168850">
+                    <person xml:id="Van_Helmont_ISN0000000116168850">
                         <persName>
                             <forename>Jean-Baptiste</forename>
                             <surname> Van Helmont</surname>
@@ -4952,14 +5196,17 @@
                             <addName/>
                             <abbr>Jonst</abbr>
                         </persName>
-                        <birth when="1603-09-03">né le 3 septembre 1603 <placeName>Szamotuły</placeName>en <country>Pologne</country></birth>
-                        <death when="1675-06-08">mort le 8 juin 1675 à <placeName>Legnica</placeName> en <country>Pologne</country></death>
+                        <birth when="1603-09-03">né le 3 septembre 1603
+                                <placeName>Szamotuły</placeName>en
+                            <country>Pologne</country></birth>
+                        <death when="1675-06-08">mort le 8 juin 1675 à
+                                <placeName>Legnica</placeName> en <country>Pologne</country></death>
                         <sex>Masculin</sex>
                         <nationality>Polonais</nationality>
                         <faith>Protestant</faith>
                         <education>Universités de St Andrews, Cambridge, Lede</education>
                         <occupation/>
-                        <affiliation></affiliation>
+                        <affiliation/>
                         <socecStatus/>
                         <note>Botaniste, historien, entomologiste, médecin, ornithologue</note>
                         <event>
@@ -5435,6 +5682,34 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Marin_Mersenne</idno>
                     </person>
 
+                    <person xml:id="Monet_ISN0000000116343874">
+                        <persName>
+                            <forename>Philibert</forename>
+                            <surname>Monet</surname>
+                            <roleName>Le Père Monet</roleName>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1566">Né en 1566 à <placeName>Bonneville </placeName><country
+                                corresp="#FRE">France</country></birth>
+                        <death when="1643-03-31">Mort le 31 mars 1643 à <placeName>Lyon
+                                </placeName><country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education>Jésuite</education>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note> Lexicographe, latiniste, romaniste</note>
+                        <event>
+                            <desc xml:base="http://catalogue.bnf.fr/ark:/12148/cb35153891b"
+                                >Invantaire des deus langues latine et françoise, Lyon,
+                                    <date>1635</date>, in-fol. </desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000116343874</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Philibert_Monet</idno>
+                    </person>
 
                     <person xml:id="Moreri_ISN0000000097447837">
                         <persName>
@@ -5971,9 +6246,31 @@
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Charles_de_La_Rue_(jésuite)</idno>
                     </person>
+
                     <person xml:id="Saum_ISN0000000108910154">
-                        <persName><persName>Claude
-                                Saumaise</persName><date>1588-1653</date><abbr>Saum</abbr></persName>
+                        <persName>
+                            <forename>Claude</forename>
+                            <surname>Saumaise</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr>saum</abbr>
+                        </persName>
+                        <birth when="1588-04-15">Né le 15 avril 1588 à <placeName>Semur-en-Auxois
+                                </placeName><country corresp="#FRE">France</country></birth>
+                        <death when="1653-09-03">Mort le 3 septembre 1653 à <placeName>Spa
+                                </placeName><country>Pays bas espagnols</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Protestant</faith>
+                        <education>Université de Heidleburg</education>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>un humaniste et philologue français.</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000108910154</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Claude_Saumaise</idno>
                     </person>
                     <person xml:id="Savary_ISN0000000080889049 ">
@@ -6023,6 +6320,64 @@
                         <socecStatus>Médecine et écrivain</socecStatus>
                         <idno type="ISNI">SN:0000000122796634</idno>
                         <idno type="URI">http://data.bnf.fr/11923862/louis_savot/</idno>
+                    </person>
+
+                    <person xml:id="Scaliger_ISN0000000121258359">
+                        <persName>
+                            <forename>Joseph Juste</forename>
+                            <surname>Scaliger</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1540-08-05">Né le 5 août 1540 à
+                                <placeName>Agen</placeName><country>France</country></birth>
+                        <death when="1609-01-21">Mort le 21 janvier 1609 à <placeName>Leyde
+                                </placeName><country corresp="#NLD">Pays Bas</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Protestant</faith>
+                        <education>Collège de Guyenne, Université de Paris</education>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note> Historien, écrivain, archéologue, professeur, traducteur, professeur
+                            d'université, érudit classique, poète, numismate, philologue</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000121258359</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Joseph_Juste_Scaliger</idno>
+                    </person>
+
+                    <person xml:id="Scapula_ISN0000000354682310">
+                        <persName>
+                            <forename>Joannes</forename>
+                            <surname>Scapula</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1540">Né vers 1540 en <placeName/><country corresp="#DEU"
+                                >Allemagne</country></birth>
+                        <death when="1600">Mort en 1600 à <placeName>Paris </placeName><country
+                                corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Allemand</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>Lexicographe, il est chargé par Henri Estienne de la correction du
+                            Thesaurus Grecae Linguae. Il en profite pour en composer un abrégé qui,
+                            édité peu après la parution de l'ouvrage original et vendu moins cher,
+                            en ruine la commercialisation.</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000354682310</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Joannes_Scapula</idno>
                     </person>
 
                     <person xml:id="Sherlock_ISN0000000108038853">
@@ -6147,7 +6502,7 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jacob_Spon</idno>
 
                     </person>
-                    
+
                     <person xml:id="Surirey_ISN0000000066332981">
                         <persName>
                             <forename>Pierre</forename>
@@ -6156,8 +6511,11 @@
                             <addName/>
                             <abbr/>
                         </persName>
-                        <birth when="1645">Né en 1645 à <placeName>Saint-Remy-sur-Orne</placeName><country corresp="#FRE">France</country></birth>
-                        <death when="1716">Mort en 1716 à <placeName>Paris </placeName><country corresp="#FRE">France</country></death>
+                        <birth when="1645">Né en 1645 à
+                                <placeName>Saint-Remy-sur-Orne</placeName><country corresp="#FRE"
+                                >France</country></birth>
+                        <death when="1716">Mort en 1716 à <placeName>Paris </placeName><country
+                                corresp="#FRE">France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
@@ -6165,14 +6523,16 @@
                         <occupation>Militaire</occupation>
                         <affiliation/>
                         <socecStatus/>
-                        <note>général français, lieutenant du Grand maître de l'artillerie de France en 1703 et maréchal de camp.</note>
+                        <note>général français, lieutenant du Grand maître de l'artillerie de France
+                            en 1703 et maréchal de camp.</note>
                         <event>
                             <desc>Mémoires d'artillerie<date>1697</date></desc>
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000066332981</idno>
-                        <idno type="URI">https://fr.wikipedia.org/wiki/Pierre_Surirey_de_Saint-Remy</idno>
+                        <idno type="URI"
+                            >https://fr.wikipedia.org/wiki/Pierre_Surirey_de_Saint-Remy</idno>
                     </person>
-                    
+
                     <person xml:id="StAmant_ISN0000000121340352">
                         <persName xml:base="">
                             <forename>Marc Antoine</forename>
