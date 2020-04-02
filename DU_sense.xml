@@ -3758,6 +3758,32 @@
                         <idno type="ISSN">http://www.isni.org/isni/0000000063182535</idno>
                         <idno type="URI">https://en.wikipedia.org/wiki/Gerard_Boate</idno>
                     </person>
+                    <person xml:id="Bonnefons_ISN0000000062999455">
+                        <persName>
+                            <forename>Nicolas</forename>
+                            <surname>de Bonnefons</surname>
+                            <roleName/>
+                            <addName>de Bonnefonds</addName>
+                            <abbr/>
+                        </persName>
+                        <birth>Né au 17ème siècle <placeName/><country/></birth>
+                        <death>Mort au 17ème siècle<placeName/><country/></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Valet de chambre du Roi</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>Agronome, Jardinier</note>
+                        <event>
+                            <desc>Le jardinier françois, qui enseigne à cultiver les Arbres, et Herbes Potagères <date>1651</date></desc>
+                            <desc>Les délices de la campagne. Suitte du Jardinier françois, <date>1654</date></desc>
+                            <desc>raité des chasses, de la vénerie et fauconnerie <date>1681</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000062999455</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Nicolas_de_Bonnefons</idno>
+                    </person>
 
                     <person xml:id="Bouchel_ISN0000000061242370">
                         <persName>
@@ -4156,6 +4182,35 @@
                         </event>
                         <idno>ISN 0000 0001 0877 1393</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Paul_Colomiès</idno>
+                    </person>
+
+                    <person xml:id="Cotin_ISN0000000061254304">
+                        <persName>
+                            <forename>Charles</forename>
+                            <surname>Cotin</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1604">né vers 1604 à <placeName>Paris</placeName><country
+                                corresp="#FRE">France</country></birth>
+                        <death when="1681-12">mort en décembre 1681 à
+                                <placeName>Paris</placeName><country corresp="#FRE"
+                            >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>ecclésiastique</occupation>
+                        <affiliation>Académie française <date>7 janvier 1655</date></affiliation>
+                        <socecStatus/>
+                        <note>Essais philosophiques, politiques et religieux, pamphlets,
+                            poésie</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000061254304</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Charles_Cotin</idno>
                     </person>
 
                     <person xml:id="Commire_ISN0000000061242442">
@@ -5366,7 +5421,33 @@
                     </person>
 
 
-
+                    <person xml:id="Du_Laurens_ISN0000000121222524">
+                        <persName>
+                            <forename>André</forename>
+                            <surname>du Laurens</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1558-12-09">né le 9 décembre 1558 à
+                                <placeName>Tarascon</placeName>en <country>France</country></birth>
+                        <death when="1609-08-06">mort le 6 août 1609 à <placeName>Paris</placeName>
+                            en <country>France </country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>médecin</occupation>
+                        <affiliation/>
+                        <socecStatus>médecin du Roi Henri IV, chencellier de l'université de
+                            Montpellier</socecStatus>
+                        <note> Médecin, chirurgien, anatomiste</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000121222524</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/André_du_Laurens</idno>
+                    </person>
 
                     <person xml:id="Le_Fevre_ISN0000000122827058">
                         <persName>
@@ -5396,6 +5477,37 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000122827058 </idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Anne_Dacier</idno>
+                    </person>
+
+                    <person xml:id="Legendre_ISN0000000033429162">
+                        <persName>
+                            <forename>Antoine</forename>
+                            <surname>Legendre</surname>
+                            <roleName>Le Curé de Enonville, Le Cure de Hénouville</roleName>
+                            <addName>Le Gendre</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1590">Né en 1590<placeName/><country corresp="#FRE"
+                                >France</country></birth>
+                        <death when="1665-04-12">Mort le 12 avril 1665 à
+                                <placeName>Hénouville</placeName><country corresp="#FRE"
+                                >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Curé</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>aumônier et contrôleur des jardins fruitiers du roi Louis XIII, agronome, jardinier</note>
+                        <event>
+                            <desc xml:base="https://gallica.bnf.fr/ark:/12148/bpt6k58176347.texteImage">La Manière de cultiver les arbres fruitiers où il est traité des
+                                pépinières, des espaliers, des contre-espaliers, des arbres en
+                                buisson et à haute tige<date>1652</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000033429162</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Antoine_Legendre</idno>
+                        <idno type="URI">http://perso.numericable.fr/arnaudser/Henouville/Legendre.htm</idno>
                     </person>
 
                     <person xml:id="Le_Notre_ISN0000000121318665">
@@ -7347,6 +7459,7 @@
             </projectDesc>
 
 
+
             <classDecl n="ouvrages_indexés">
                 <taxonomy n="Ouvrages_indexés">
                     <listBibl>
@@ -8267,10 +8380,9 @@
                         <cit type="exemple">
                             <quote>On <hi rendition="#i">bat</hi> les noyers avec la gaule pour en
                                 re-cueillir les noix.</quote>
-                        </cit> 
-                        <!-- Ne faut-il pas avoir un subsense ici? -->
-                        On le dit au$$i des plus legeres agita-tions. 
-                        <cit type="citation">
+                        </cit>
+                        <!-- Ne faut-il pas avoir un subsense ici? --> On le dit au$$i des plus
+                        legeres agita-tions. <cit type="citation">
                             <quote><lg rendition="#i">
                                     <l>Phaëton au$$i-tôt prend les rênes en main ;</l>
                                     <l>De $es chevaux ailez, il <hi rendition="#n">bat</hi> les
@@ -8285,10 +8397,9 @@
                         </cit>
                         <cit type="exemple">
                             <quote>Le coeur bat étant hors du corps de l'animal. </quote>
-                        </cit> 
-                        <!-- autre sense? -->
-                        On dit même dans un $ens figuré, que <seg type="collocation">le coeur
-                                <hi rendition="#i">bat</hi>
+                        </cit>
+                        <!-- autre sense? --> On dit même dans un $ens figuré, que <seg
+                            type="collocation">le coeur <hi rendition="#i">bat</hi>
                         </seg>; <gloss>pour dire, qu'on trem-ble de peur.</gloss>
                         <cit type="citation">
                             <quote><lg rendition="#i">
@@ -8297,9 +8408,9 @@
                                 </lg></quote>
                             <ref target="#Voit_ISN0000000115879407"><persName rendition="#sc"
                                     >voit.</persName></ref>
-                        </cit> 
-                        <!-- autre subsense -->
-                        On dit au$$i qu'un cheval <seg type="collocation">bat du flanc, </seg>
+                        </cit>
+                        <!-- autre subsense --> On dit au$$i qu'un cheval <seg type="collocation"
+                            >bat du flanc, </seg>
                         <gloss>quand il e$t pou$-$if ;</gloss>
                         <seg type="collocation">qu'une montre bat encore,</seg>
                         <gloss>lor$que la fu$ée n'e$t pas encore à bout.</gloss>
@@ -9745,6 +9856,33 @@
 
                 </entry>
 
+            </div>
+
+            <div type="EPI">
+                <entry>
+                    <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"> epidemie
+                                </orth><pc>,</pc> <gramGrp><pos>n. </pos><gen>f.</gen></gramGrp></form>
+                        <lbl>ou </lbl>
+                        <form><orth type="variant">epidimie.</orth><pc>.</pc></form></form>
+                    <sense><def>Mal contagieux qui se communique de l’un à l’autre, comme la peste,
+                            le scorbut, la verole. </def>
+                        <note>On appelle propremont épidemie la peste, lorsqu’elle vient par la
+                            corruption de l’air, qui fait mourir bien du peuple en peu de temps. Ce
+                            nom vient de ce que ces maladies sont communes à toutes sortes de
+                            per$onnes, de quelque sexe, age &amp; qualité qu’elles $oient, provenant
+                            d’une cause genera- le. Les Latins les appellent populaires. Elles sont
+                            op- posées à celles que les Medecins appellent sporadiques, qui sont
+                            éparses çà &amp; là, &amp; qui ont des causes particulieres.</note>
+                        <etym>Ce mot vient d’<hi rendition="#i">epi</hi>, &amp; <hi rendition="#i"
+                                >dimos</hi>, <hi rendition="#i">populus</hi>, <hi rendition="#i"
+                                >peuple</hi>.</etym></sense>
+                </entry>
+                
+                <entry><form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">epidemique</orth><pc>.</pc></form><gramGrp><pos>adj</pos><pc>.</pc></gramGrp></form>
+                    <def>Mal contagieux qui court parmi le peuple. </def>
+                        <cit type="citation"><quote>Les esprits sont sujets aux maladies épide-
+                        miques comme les corps : un seul homme infatuë tout
+                        un païs en peu de temps. .</quote><ref><persName corresp="#Bay_ISN0000000122807284" rendition="#sc">Bay.</persName></ref></cit></entry>
             </div>
 
             <div type="ORF">

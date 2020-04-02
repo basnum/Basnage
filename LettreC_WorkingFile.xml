@@ -3761,6 +3761,32 @@
                         <idno type="ISSN">http://www.isni.org/isni/0000000063182535</idno>
                         <idno type="URI">https://en.wikipedia.org/wiki/Gerard_Boate</idno>
                     </person>
+                    <person xml:id="Bonnefons_ISN0000000062999455">
+                        <persName>
+                            <forename>Nicolas</forename>
+                            <surname>de Bonnefons</surname>
+                            <roleName/>
+                            <addName>de Bonnefonds</addName>
+                            <abbr/>
+                        </persName>
+                        <birth>Né au 17ème siècle <placeName/><country/></birth>
+                        <death>Mort au 17ème siècle<placeName/><country/></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Valet de chambre du Roi</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>Agronome, Jardinier</note>
+                        <event>
+                            <desc>Le jardinier françois, qui enseigne à cultiver les Arbres, et Herbes Potagères <date>1651</date></desc>
+                            <desc>Les délices de la campagne. Suitte du Jardinier françois, <date>1654</date></desc>
+                            <desc>raité des chasses, de la vénerie et fauconnerie <date>1681</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000062999455</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Nicolas_de_Bonnefons</idno>
+                    </person>
 
                     <person xml:id="Bouchel_ISN0000000061242370">
                         <persName>
@@ -4159,6 +4185,35 @@
                         </event>
                         <idno>ISN 0000 0001 0877 1393</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Paul_Colomiès</idno>
+                    </person>
+
+                    <person xml:id="Cotin_ISN0000000061254304">
+                        <persName>
+                            <forename>Charles</forename>
+                            <surname>Cotin</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1604">né vers 1604 à <placeName>Paris</placeName><country
+                                corresp="#FRE">France</country></birth>
+                        <death when="1681-12">mort en décembre 1681 à
+                                <placeName>Paris</placeName><country corresp="#FRE"
+                            >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>ecclésiastique</occupation>
+                        <affiliation>Académie française <date>7 janvier 1655</date></affiliation>
+                        <socecStatus/>
+                        <note>Essais philosophiques, politiques et religieux, pamphlets,
+                            poésie</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000061254304</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Charles_Cotin</idno>
                     </person>
 
                     <person xml:id="Commire_ISN0000000061242442">
@@ -5369,7 +5424,33 @@
                     </person>
 
 
-
+                    <person xml:id="Du_Laurens_ISN0000000121222524">
+                        <persName>
+                            <forename>André</forename>
+                            <surname>du Laurens</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1558-12-09">né le 9 décembre 1558 à
+                                <placeName>Tarascon</placeName>en <country>France</country></birth>
+                        <death when="1609-08-06">mort le 6 août 1609 à <placeName>Paris</placeName>
+                            en <country>France </country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>médecin</occupation>
+                        <affiliation/>
+                        <socecStatus>médecin du Roi Henri IV, chencellier de l'université de
+                            Montpellier</socecStatus>
+                        <note> Médecin, chirurgien, anatomiste</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000121222524</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/André_du_Laurens</idno>
+                    </person>
 
                     <person xml:id="Le_Fevre_ISN0000000122827058">
                         <persName>
@@ -5399,6 +5480,37 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000122827058 </idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Anne_Dacier</idno>
+                    </person>
+
+                    <person xml:id="Legendre_ISN0000000033429162">
+                        <persName>
+                            <forename>Antoine</forename>
+                            <surname>Legendre</surname>
+                            <roleName>Le Curé de Enonville, Le Cure de Hénouville</roleName>
+                            <addName>Le Gendre</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1590">Né en 1590<placeName/><country corresp="#FRE"
+                                >France</country></birth>
+                        <death when="1665-04-12">Mort le 12 avril 1665 à
+                                <placeName>Hénouville</placeName><country corresp="#FRE"
+                                >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Curé</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>aumônier et contrôleur des jardins fruitiers du roi Louis XIII, agronome, jardinier</note>
+                        <event>
+                            <desc xml:base="https://gallica.bnf.fr/ark:/12148/bpt6k58176347.texteImage">La Manière de cultiver les arbres fruitiers où il est traité des
+                                pépinières, des espaliers, des contre-espaliers, des arbres en
+                                buisson et à haute tige<date>1652</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000033429162</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Antoine_Legendre</idno>
+                        <idno type="URI">http://perso.numericable.fr/arnaudser/Henouville/Legendre.htm</idno>
                     </person>
 
                     <person xml:id="Le_Notre_ISN0000000121318665">
@@ -7348,6 +7460,7 @@
                     Métiers du livre et humanités numériques sans aucune aide financière </p>
 
             </projectDesc>
+
 
 
             <classDecl n="ouvrages_indexés">
@@ -11321,16 +11434,19 @@
                     <div type="CAH">
                         <head>CAH</head>
                         <entry xml:lang="fra" xml:id="Cahier">
-                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">cahier</orth></form> <lbl>ou</lbl><form><orth
-                                    rendition="#uc" type="variant">caier</orth></form></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >cahier</orth></form>
+                                <lbl>ou</lbl><form><orth rendition="#uc" type="variant"
+                                    >caier</orth></form></form>
                             <xr><lbl> Voyez </lbl>
                                 <ref rendition="#sc" type="variant" corresp="#Cayer"
                                 >cayer</ref></xr>
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cahieu">
-                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">cahieu</orth></form>ou <form><orth
-                                    rendition="#uc" type="variant">cajeu</orth></form></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >cahieu</orth></form>ou <form><orth rendition="#uc"
+                                        type="variant">cajeu</orth></form></form>
                             <xr><lbl> Voyez </lbl>
                                 <ref rendition="#sc" type="variant" corresp="#Cayeu"
                                 >CAYEU</ref></xr>
@@ -11346,12 +11462,13 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cahincaha">
-                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">cahincaha</orth></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >cahincaha</orth></form>
                                 <gramGrp><pos expand="Adjectif">adj.</pos></gramGrp></form>
                             <sense n="1">
-                                <usg ana="#bas #populaire">Terme bas &amp; proverbial,</usg><def>qui se dit des choses
-                                    qu'on fait avec peine, de mauvaise grace, &amp; à plusieurs
-                                    reprises.</def>
+                                <usg ana="#bas #populaire">Terme bas &amp; proverbial,</usg><def>qui
+                                    se dit des choses qu'on fait avec peine, de mauvaise grace,
+                                    &amp; à plusieurs reprises.</def>
                                 <cit type="exemple">
                                     <quote>Cet homme a fait pour moi quelques solticitaions, mais il
                                         les a faites <hi rendition="#i">cahincaha</hi>;
@@ -11367,14 +11484,16 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cahos">
-                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">cahos</orth></form></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >cahos</orth></form></form>
                             <xr><lbl> Voyez </lbl>
                                 <ref rendition="#sc" type="variant" corresp="#chaos"
                                 >chaos</ref></xr>
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cahot">
-                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">cahot</orth></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >cahot</orth></form>
                                 <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
                                         >m.</gen></gramGrp></form>
                             <sense n="1"><def>Choc; agitation violente qu'on ressent dans un
@@ -11395,7 +11514,8 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cahotage">
-                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">cahotage</orth></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >cahotage</orth></form>
                                 <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
                                         >m.</gen></gramGrp></form>
                             <sense n="1">
@@ -11412,7 +11532,8 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cahoter">
-                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">cahoter</orth></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >cahoter</orth></form>
                                 <gramGrp><pos expand="Verbe">v.</pos><subc expand="Actif">act.
                                         </subc><subc expand="Absolu">absolu.
                                 </subc></gramGrp></form>
@@ -11444,10 +11565,9 @@
                                         maudit chemin,</quote>
                                 </cit>
                             </sense>
-                            <re><form><orth rendition="#sc" extent="full">cahoté,
-                                        </orth><orth rendition="#sc" extent="part"
-                                            >ée</orth><gramGrp><pos expand="Participe_passe"
-                                            >part.</pos>
+                            <re><form><orth rendition="#sc" extent="full">cahoté, </orth><orth
+                                        rendition="#sc" extent="part">ée</orth><gramGrp><pos
+                                            expand="Participe_passe">part.</pos>
                                         <c>&amp;</c>
                                         <pos expand="Adjectif">adj.</pos></gramGrp></form>
                             </re>
@@ -11455,7 +11575,8 @@
 
 
                         <entry xml:lang="fra" xml:id="Cahuette">
-                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">cahuette</orth></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >cahuette</orth></form>
                                 <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
                                         >f.</gen></gramGrp></form>
                             <sense n="1"><def>Petite maison ou cabane de païsan, de berger, de
@@ -11466,7 +11587,8 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cahute">
-                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">cahute</orth></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >cahute</orth></form>
                                 <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
                                         >f.</gen></gramGrp></form>
                             <sense n="1"><def>C'est la même chose que <ref target="#Cahuette"

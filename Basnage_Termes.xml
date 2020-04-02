@@ -3759,6 +3759,32 @@
                         <idno type="ISSN">http://www.isni.org/isni/0000000063182535</idno>
                         <idno type="URI">https://en.wikipedia.org/wiki/Gerard_Boate</idno>
                     </person>
+                    <person xml:id="Bonnefons_ISN0000000062999455">
+                        <persName>
+                            <forename>Nicolas</forename>
+                            <surname>de Bonnefons</surname>
+                            <roleName/>
+                            <addName>de Bonnefonds</addName>
+                            <abbr/>
+                        </persName>
+                        <birth>Né au 17ème siècle <placeName/><country/></birth>
+                        <death>Mort au 17ème siècle<placeName/><country/></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Valet de chambre du Roi</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>Agronome, Jardinier</note>
+                        <event>
+                            <desc>Le jardinier françois, qui enseigne à cultiver les Arbres, et Herbes Potagères <date>1651</date></desc>
+                            <desc>Les délices de la campagne. Suitte du Jardinier françois, <date>1654</date></desc>
+                            <desc>raité des chasses, de la vénerie et fauconnerie <date>1681</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000062999455</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Nicolas_de_Bonnefons</idno>
+                    </person>
 
                     <person xml:id="Bouchel_ISN0000000061242370">
                         <persName>
@@ -4157,6 +4183,35 @@
                         </event>
                         <idno>ISN 0000 0001 0877 1393</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Paul_Colomiès</idno>
+                    </person>
+
+                    <person xml:id="Cotin_ISN0000000061254304">
+                        <persName>
+                            <forename>Charles</forename>
+                            <surname>Cotin</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1604">né vers 1604 à <placeName>Paris</placeName><country
+                                corresp="#FRE">France</country></birth>
+                        <death when="1681-12">mort en décembre 1681 à
+                                <placeName>Paris</placeName><country corresp="#FRE"
+                            >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>ecclésiastique</occupation>
+                        <affiliation>Académie française <date>7 janvier 1655</date></affiliation>
+                        <socecStatus/>
+                        <note>Essais philosophiques, politiques et religieux, pamphlets,
+                            poésie</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000061254304</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Charles_Cotin</idno>
                     </person>
 
                     <person xml:id="Commire_ISN0000000061242442">
@@ -5367,7 +5422,33 @@
                     </person>
 
 
-
+                    <person xml:id="Du_Laurens_ISN0000000121222524">
+                        <persName>
+                            <forename>André</forename>
+                            <surname>du Laurens</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1558-12-09">né le 9 décembre 1558 à
+                                <placeName>Tarascon</placeName>en <country>France</country></birth>
+                        <death when="1609-08-06">mort le 6 août 1609 à <placeName>Paris</placeName>
+                            en <country>France </country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>médecin</occupation>
+                        <affiliation/>
+                        <socecStatus>médecin du Roi Henri IV, chencellier de l'université de
+                            Montpellier</socecStatus>
+                        <note> Médecin, chirurgien, anatomiste</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000121222524</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/André_du_Laurens</idno>
+                    </person>
 
                     <person xml:id="Le_Fevre_ISN0000000122827058">
                         <persName>
@@ -5397,6 +5478,37 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000122827058 </idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Anne_Dacier</idno>
+                    </person>
+
+                    <person xml:id="Legendre_ISN0000000033429162">
+                        <persName>
+                            <forename>Antoine</forename>
+                            <surname>Legendre</surname>
+                            <roleName>Le Curé de Enonville, Le Cure de Hénouville</roleName>
+                            <addName>Le Gendre</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1590">Né en 1590<placeName/><country corresp="#FRE"
+                                >France</country></birth>
+                        <death when="1665-04-12">Mort le 12 avril 1665 à
+                                <placeName>Hénouville</placeName><country corresp="#FRE"
+                                >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Curé</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>aumônier et contrôleur des jardins fruitiers du roi Louis XIII, agronome, jardinier</note>
+                        <event>
+                            <desc xml:base="https://gallica.bnf.fr/ark:/12148/bpt6k58176347.texteImage">La Manière de cultiver les arbres fruitiers où il est traité des
+                                pépinières, des espaliers, des contre-espaliers, des arbres en
+                                buisson et à haute tige<date>1652</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000033429162</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Antoine_Legendre</idno>
+                        <idno type="URI">http://perso.numericable.fr/arnaudser/Henouville/Legendre.htm</idno>
                     </person>
 
                     <person xml:id="Le_Notre_ISN0000000121318665">
@@ -7346,6 +7458,7 @@
                     Métiers du livre et humanités numériques sans aucune aide financière </p>
 
             </projectDesc>
+
 
 
             <classDecl n="ouvrages_indexés">
