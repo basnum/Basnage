@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Basnage Test3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Test avec GROBID du 10 avril 2020</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Entraînement de subSense avec 38 fichiers: 28 entraînement, 10 évaluation.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+<entry>
+   <form type="lemmaGrp">
+ <orth type="lemma">ENRHUMER</orth>
+ <pc>,</pc>
+ <orth type="variant">ou ENRUMER</orth><pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+<pc>.</pc>
+<gramGrp>
+<pos>&amp;</pos>
+<subc>neut</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Qui cau$e, qui donne le rhume. Le pa$$age du froid au chaud e$t ce qui enrhume. Quand on $e degarnit trop tôt, on e$t en danger de s'enrhumer. Ce Predicateur s'e$t enrhumé à force de crier contre les vices. Le vent coulis enrhume les hommes</def>
+</sense>
+<pc>.</pc>
+
+<re>Enrhumé, ée. part. On e$t enrhumé tantôt de la gor- ge, tantôt du cerveau, tantôt de la poitrine. On dit au$$i en Mu$ique, un ton enrhume</re>
+
+<pc>.</pc>
+
+<etym><etym>Ces mots viennent du Grec rheuma, luxion</etym>
+</etym>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENRICHIR</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>verb</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Rendre riche. Le trafic des Indes a enrichi la Hollande. L'avidité des avares e$t in- genieu$e à inventer les moyens de s'enrichir. Les gran- des rivieres enrichi$$ent les Provinces qu'elles traver$ent. Les Fermiers du Roi s'enrichi$$ent en peu de temps. Il e$t impo$$ible d'enrichir ce prodigue</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<form>Enrichir</form>
+<pc>,</pc>
+<def>$ignifie au$$i, Rendre de plus grande va- leur. Il lui a donné $on portrait qu'il a fait enrichir de diamans. Ce livre e$t enrichi de figures</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<form>Enrichir</form>
+<pc>,</pc>
+<def>$e dit $igurément en cho$es morales ; &amp; $ignifie, Embellir, orner, rendre plus abondant. Il a enrichi $on e$prit de toutes $ortes de belles connoi$$an- ces. Elle n'a travaillé qu'à enrichir $on ame. Patru. Cet Ouvrage e$t enrichi de plu$ieurs nouveaux Traittez, pa$$ages, hi$toires ; &amp;c. On dit au$$i, qu'une Lan- gue s'enrichit, quand on y met de nouvelles expre$$ions en u$age</def>
+</sense>
+<pc>.</pc>
+
+<re>Enrichi, Ie. part</re>
+<pc>.</pc></entry>
+
+<entry><form type="lemmaGrp">
+<orth>ENRICHISSEMENT</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>$</pos>
+<pc>.</pc>
+<gen>m</gen>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>$e dit tant au pro- pre qu'au figuré, des embelli$$emens, des ornemens qu'on ajoute à quelque cho$e. Les dorures, les brode- ries $ont les enrichi$$emens qu'on met aux meubles, aux habits. Il y a des $ujets $i bas, $i $tériles, qu'ils ne peu- vent recevoir aucuns enrichi$$emens. Cette piece peut $ervir à l'enrichi$$ement de nôtre Hi$toire. Ablan</def>
+</sense>
+<pc>.</pc></entry>
+
+<entry><form type="lemmaGrp">
+<orth>ENROLLEMENT</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>$</pos>
+<pc>.</pc>
+<gen>m</gen>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Action par laquelle on enrôlle. Il s'e$t fait un grand enriollement de $oldats en telle Province</def>
+</sense>
+<pc>.</pc></entry>
+
+<entry><form type="lemmaGrp">
+<orth>ENROLLER</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Mettre $ur un rôlle, $ur un état, ou une li$te de plu$ieurs per$onnes de même con- dition, &amp; qui $ont dans le même engagement. On le dit particulierement des $oldats qui s'engagent à $ervir le Roi. Ce Capitaine leve des $oldats, il en a enrollé dix aujourd'huy. Il faut qu'un $oldat marche quand il e$t en- rillé. Les Romains ne s'enrilloient, &amp; n'entroient dans la milice qu'à l'âge de 17. ans</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<form>Enrôller</form>
+<pc>,</pc>
+<def>$e dit au$$i figurément des autres engage- mens que l'on prend. Vous êtes donc enrôllé au $ervice de cette belle. Souvenez-vous que vous êtes enrollé par le baptême dans la milice de J. Christ. Du Pin</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<def>On dit au$$i, qu'un homme s'e$t enrollé dans une Confrai- rie ; pour dire, qu'il e$t écrit $ur les regîtres. Gu$man d'Alfarache parle d'un regître où on enrolle les $ots qui ont fait quelque cho$e conforme à l'Edit des $otti$es qui y e$t mentionné. Ce mot e$t compo$é de rolle, &amp;</def>
+<etym>vient du Latin inrotulare</etym>
+<def>. Men</def>
+</sense>
+<pc>.</pc>
+
+<re>Enrôllé, ée. part. pa$$. &amp; adj. ENROuUEMENT. $. m. Difficulté de parler pro- venant de quelque fluxion. Il n'e$t pas encore gueri de $on enrouëment</re>
+
+<pc>.</pc></entry>
+
+<entry><form type="lemmaGrp">
+<orth>ENROUER</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<form>Gâter</form>
+<def>, alterer $a voix, &amp; la rendre plus rauque &amp; moins nette. Le brouillard, le $erein l'a enroüé. La contention avec laquelle il a di$pu- té, l'a $i fort eoé, qu'on ne l'entend plus. Il $e dit au$$i avec le pronom per$onnel. Il s'e$t enroïé à force de crier. Jamals Docteur armé d''un argument frivole Ne s'enroüa chez, eux $ur les bants de l'Ecole. Boi</def>
+</sense>
+<pc>.</pc>
+
+<re>Enroué, ée. part.</re>
+
+<etym><etym>Ce mot vient du Latin raucus, d'où vient le verbe raucire</etym>
+</etym>
+<pc>.</pc>
+
+<sense>
+<def>On dit proverbialement d'un homme enroé, qu'il a vu le loup</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENROUILLER</orth>
+<pc>,</pc>
+<orth type="variant">S'ENROUILLER</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<subc>act</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Faire venir de la rouille, $e charger de rouille. Le fer &amp; le cuivre s'enrouillent à l'eau. L'air humide en- rouille les armes</def>
+</sense>
+<pc>.</pc>
+
+<etym><etym>Ce mot vient du Latin rubigo, rubigino$us</etym>
+</etym>
+<pc>.</pc>
+
+<sense>
+<form>Enrouiller</form>
+<pc>,</pc>
+<def>$e dit figurément en Morale, du cou- rage, de l'e$prit, qui s'enrouillent dans la paix &amp; dans la faineanti$e, faute de leur donner de l'exercice ; c'e$t- à-dire, $e relachent &amp; s'abatardi$$ent. Je viens d'un païs où mon e$prit s'e$t fort enrouillé. Voi. L'imagi- nation s'enrouille aute d'exercice</def>
+</sense>
+<pc>.</pc>
+
+<re>Enrouillé, ée. part. pa$$</re>
+
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENROULEMENT</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>$</pos>
+<pc>.</pc>
+<gen>m</gen>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<usg>Terme d'Architectu-</usg>
+<def>re. Il $e dit de tout ce qui e$t contouiné en ligne $pirale ; comme l'enroulement d'un pilier butant en con$ole. Enroulemens de parterre, ce $ont des pla- tebandes de buis, ou de gazon contournées en ligne $pi- rale. Les Jardiniers les appellent rouleaux</def>
+</sense>
+<pc>.</pc></entry>
+         
+<ab>ENS<pc>.</pc></ab>
+
+<entry><form type="lemmaGrp">
+<orth>ENSABLER</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Faire échouer $ur le $able. Comme la riviere étoit ba$$e, le Batelier nous en$abloit à tous momens</def>
+</sense>
+<pc>.</pc>
+
+<re>Ensabler, e$t au$$i neut. pa$$. Nôtre bateau s'etoit en$ablé</re>
+
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSACHER</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Mettre dans un $ac, emplir un $ac. Chez les grands Thre$oriers on voit des écus en monceaux qui ne $ont point enachez. Il faut en$acher ce blé, ces poix, pour les porter vendre au marché</def>
+</sense>
+<pc>.</pc>
+
+<re>Ensaché, ée. part. pa$$. &amp; adj</re>
+
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSADE</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>$</pos>
+<pc>.</pc>
+<gen>m</gen>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Arbre qui $e trouve en l'I$le de Lo- vando dans la ba$$e Ethiopie, &amp; qui e$t une e$pece de figuier d'Inde que les Portugais appellent l'arvore de raix, c'e$t-à-dire l'arbre de racine. Son tronc qui e$t fort haut, &amp; ordinairement de trois bra$$es d'épai$$eur, pou$$e des rameaux de tous côtez, qui étant encore jeu- nes, $e divi$ent en plu$ieurs branches. Quelques-unes de ces branches tombant ju$qu'à terre y prennent raci- ne, &amp; pou$$ent un autre tronc, d'autres branches, d'</def>
+<usg>au</usg>
+<def>- tres filamens, ceux-ci d'autres &amp; ain$i de $uite ; en $or- te qu'un de ces arbres occupe quelquefois une étenduë de mille pas de circuit. Les plus hautes branches de mê- me que les plus ba$$es tiennent à la terre par ces $ortes de filamens, &amp; cela fait une touffe de bois &amp; de feuilles que le $oleil ne $çauroit percer, &amp; qui repou$$e la voix comme un écho. Les feuilles re$$emblent à celles du coigna$$ier, &amp; $ont vertes au dehors, blanches &amp; la- nugineu$es au dedans. Le fruit paroît lor$que la fleur e$t tombé, &amp; $ort d'entre les feuilles des jeunes ra- meaux, comme font les figues. Il e$t gros comme le pouce, &amp; rouge par dedans &amp; par dehors. Les paï$ans teillent la premiere écorce de cet arbre, &amp; en tirent une e$pece de chanvre, dont ils font des étoffes gro$- $ieres. L'en$ade croît au$$i fort bien aux environs de Goa, &amp; en d'autres endroits des Indes. On en fait des pavillons pour prendre le frais, en coupant les rejettons, &amp; les petites branches qui embarra$$ent la terre. Quel- ques-uns appellent cet arbre euxenda, ou en$andra, &amp; les Siamois co-paï</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSAFRANER</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Teindre en $afran. Po- mey. Il e$t effacé dans les additions du Dictionnaire de l'Acad</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSAISINEMENT</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>$</pos>
+<pc>.</pc>
+<gen>m</gen>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Forme de nanti$$e- ment ; notification qu'on fait au Seigneur feodal d'un I, contrat d'acqui$ition d'un heritage mouvant de lui. L'en- $ai$inemens $e met à la marge du contrat. On doit douze deniers pour cet en$ai$inement</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSAISINER</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Recevoir l'exhibition d'un contrat d'acqui$ition d'un heritage de pendant de $a Sei- gncurie. Un Seigneur ne peut plus pretendre de droits $eigneuriaux du pa$$é, depuis qu'il a en$aifiné un con- trat. Le Seigneur ne peut pas obliger à faire en$ai$mer un contrat. Autrefois en$ai$iner $ignifioit $eulement mettre en pe$$e$$ion</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSANGLANTER</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Rendre $anglant ; couvrir de $ang. Il lui e$t venu un $eignement de nea qui a en$anglanté $on linge, $es habits</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<form>Ensanglanter</form>
+<pc>,</pc>
+<def>$e dit au$$i en parlant des meur- tres, des carnages. Herode a en$anglanté $es mains du $ang des innocens. Ce Prince fut debonnaire, ne voulut point en$anglanter $on regne. La Reine Marie en$an- glanta l'Angleterre, &amp; $on hi$toire n'e$t compo$ée que de recits, &amp; d'aventures tragiques. Oe. M</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<form>Oui</form>
+<pc>,</pc>
+<def>$ans fremir, j'irai dans $on perfide cenr, Moi-même en$anglanter l'image de ma $oeur. Corn</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<form>Ensanglanter</form>
+<pc>.</pc>
+<def>Ce mot, quand il e$t que$tion de Tragedie, veut dire, Faire mourir $ur le theatre le He- ros de la piece. C'e$t une regle du Poëme Dramatique qu'il ne faut point en$anglanter la $cene</def>
+</sense>
+<pc>.</pc>
+
+<re>Ensanglanté, ée. part. pa$$. &amp; adj. E$$uyons ce fer en$anglanté, De crainte qu'il ne $oit gâté. Opera deCad</re>
+
+<pc>.</pc>
+
+<sense>
+<form>Ensanolanté</form>
+<pc>,</pc>
+<usg>en termes de Bla$on</usg>
+<def>$e dit du peli- can, &amp; autres animaux $anglans</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSEIGNE</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>$</pos>
+<pc>.</pc>
+<gen>f</gen>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Signe, marque publique &amp; éoi- dente qu'on met en quelque endroit pour trouver quel- que per$omne ou quelque cho$e. Les Marchands met- tent une en$eigne à leurs boutiques, afin qu'on les re- connoi$$e. Ils enveloppent leurs marchandi$es dans une image de leur en$eigne. Ils payent un droit au Voyer pour po$er leur en$eigne, pour changer d'en$cigne. Quand on vend un logis, pour le de$igner on dit, ou pend pour en$eigne. Il e$t deffendu aux Marchands &amp; aux Ar- ti$ans de changer ou d'u$urper les en$eignes ou les mar- ques les uns des autres</def>
+</sense>
+<pc>.</pc>
+
+<etym><etym>Ce mot vient de inigne. Nicod</etym>
+</etym>
+<pc>.</pc>
+
+<sense>
+<form>Enseigne</form>
+<pc>,</pc>
+<def>e$t au$$i un $igne militaire $ous lequel $e rangent les $oldats $elon les differens corps dont ils $ont, ou les differens partis qu'ils $uivent. Les en$cignes des Chinois $ont des queuës de cheval. Celles des Euro- peans font des drapeaux de taffetas marquez de diver$es figures, couleurs, armes &amp; devi$es. Xenophon dit que les Per$es portoient pour en$eigne une aigle d'or dans un drapeau blanc. Les Corinthiens portoient le cheval ailé ou Pega$e dans les leurs ; les Atheniens une choüette, les Me$$eniens la lettre Grecque M ; les La- cedemoniens le A. Les Romains ont eu diver$es eu$ei- gnes, de la louve, du Minotaure, d'un cheval, d'un $anglier, ju$qu'à ce qu'ils s'arrêterent à l'aigle la $e- conde année du Con$ulat de Marius. En ce $ens on dit qu'un homme combat $ous les en$eignes d'un autre ; pour dire, qu'il e$t de $on parti, qu'il marche $ous $es en$eignes. Cette garni$on e$t $ortie tambour battant, &amp; en$eignes deployées. Quand on remarque des en$eignes militaires $ur les medailles des Colonies Romaines, cela marque une Colonie peuplée vieux de $oldats</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<form>Enseigne</form>
+<pc>,</pc>
+<usg>en termes de Marine</usg>
+<pc>,</pc>
+<def>$e dit du pavillon que l'on arbore $ur la pouppe. L'en$eigne de pouppe des vai$$eaux de guerre e$t blanche, &amp; celle des vai$$eaux marchands e$t bleuë. En$eigne de pierreries, $e dit d'un ornement où plu$ieurs perreries $ont encha$$ées. C'étoit autrefois une e$pece d'aigrette qu'on portoit au chapeau. Enseignes, au pluriel, $e dit des preuves, des titres de quelque cho$e, du merite d'une affaire. Cet homme e$t oble à honnes en$riges, il a bien des titres pour cela. Si on l'a fait Marechal de Frace, c'e$t à bonnes on$eies, l la bien merité, l a bien $ervi</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<form>Enseignes</form>
+<pc>,</pc>
+<def>$e dit au$$i des marques qu'o $e donne reciproquement pour conmoître la verité d'une cho$e, pour n'être point trompé. Je vous ay vu en telle occa- $ion, aux en$cignes que vous y fûtes ble$$é. Ne donnez point ce depôt qu'à ceux qui le viendront demander à telles &amp; telles en$cignes. Je crains qu'on ne le vienne prendre à fau$$es en$cignes. Vous ne m'avez pas domné de bonnes en$eignes. Un homme inconnu me vient de- mander à fau$$es en$eigns. Bussi. Avec ces en$cignes je donnerai a$$ez à entendre qui elle e$t. Voit. Enseignes. Ce mot au plurier $e dit encore pour les armes d'un peuple, d'une nation. Il porta nos en$eignes au delà de l'Elbe. Ablan. Enseigne.</def>
+<form>$. m</form>
+<pc>.</pc>
+<def>$ignifie au$$i un Officier d'Infanterie qui porte l'en$eigne, le drapeau. Dans les Compagnies Sui$$es il y a un En$cigne, &amp; un Porte-en$oigne qui e$t $ous lui. Dans les autres corps il n'y a que deux En$cignes par Regiment. Un En$eigne Colonel. Dans le Regi- ment des Gardes il y a un En$cire par Compagne. Il y a au$$i des Enfcignes dans la Cavalerie. Dans les Gardes du Corps il y en a trois par Compagnie ; dans les Gendarmes un En$eigne &amp; un Guidon ; dans les Mou$quetaires un En$eigne &amp; un Cornette</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<form>Enseigne</form>
+<pc>,</pc>
+<def>$e dit au$$i de la charge, au$$i-bien que de l'Officier. Il a vendu $on en$eigne</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<form>Enseign</form>
+<pc>,</pc>
+<def>s'employe au$$i fgurément pour marquer la profe$$ion, ou l'occupation de quelcun. On ne pa$$e point dans le monde pour $e connoître en vers, $i l'on n'a mis l'en$cigne de Poëte ; ni pour habile en Mathe- matique, $i l'on n'a mis l'en$eigne de Mathematicien. Mais les honnêtes gens n'ont point d'en$cigne : ils $ons de tout. Le Ch. de M</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<form>Enseigne</form>
+<pc>,</pc>
+<def>$e dit proverbialement en ces phra$es. On dit qu'un homme e$t logé à l'en$eigne de la lune, qu'il a couché à l'en$eigne de la belle étoile ; pour dire, qu'il n'avoit point de logis, qu'il a couché dehors. On dit au$$i d'un mechant portrait, d'un mechant tableau, qu'il e$t bon à faire une en$eigne à biere</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSEIGNEMENT</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>$</pos>
+<pc>.</pc>
+<gen>m</gen>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Ce qu'on montre, ce qu'on apprend aux autres, in$truction que l'on don- ne ; precepte. Cet enfant a bien profité des en$eignemens de $on Maître, il a bien retenu $es en$eignemens. Il e un peu vieux</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<form>Enseignemens</form>
+<pc>,</pc>
+<def>$e dit au$$i des titres, des preuves, des marques qu'on donne de quelque cho$e. Cette par- tie a ju$tifié $on droit par de bons titres &amp; en$eignemons. On a fait un vol $ignalé, &amp; on a publié monitoire pour en avoir quelques preuves ou en$cignemens</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSEIGNER</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Indiquer, apprendre à quel- cun une cho$e qu'il ignoroit. Saul alla chercher Samuel, afin qu'il lui cn$cignât où il pourroit trouver les ane$$es de $on pere. L'étoile en$eigna aux Mages le chemin de Bethleem. Quand ils l'eurent perdu de vuë, ils s'adre$- $erent à Herodes, afin qu'il leur en$eignât où étoit le Roi des Juifs. Les Anciens nous ont en$eigné le chemin pour penetrer dans les $ciences. En$cignez aux vieillards à être $obres, honnêtes &amp; moderez. Port-R</def>
+</sense>
+<pc>.</pc>
+
+<etym><etym>Ce mot vient, $elon Saumai$e, de in$inuare, dont les La- tins $e $ont $ervis en cette $ignification. Menage croit qu'il vient de in$ignare, qu'on a fait de $ignum</etym>
+</etym>
+<pc>.</pc>
+
+<sense>
+<form>Enseigner</form>
+<pc>,</pc>
+<def>$ignifie au$$i, In$truire ; montrer quel- que art ou $cience qu'on $çait. Les Maîtres d'Ecole en- $eignent à lire &amp; à écrire aux enfans. Les Prêtres leur on$cignent le Catechi$me. Les Regens, les Profe$$eurs leur en$eignen les Humanitez, la Philo$ophie. Il y a des Maîtres qui en$eignent le Droit, les Mathematiques, les arts, à dan$er, à voltiger, à pindre, à chanter, &amp;c. C'e$t une bonne oeuvre d'en$eigner les ignorans</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<def>On dit au$i, Les Stoïques en$eigneu, c'e$t-à-dire, font profe$$ion d'une telle doctrine. En$eigner la vertu $ans la pratiquer, c'e$t une vanité de Philo$ophe : la pratiquer $ans l'en$cigner, c'e$t une devotion loüable ; mais $terile. Fl</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<def>On dit proverbialement, que les animeux nous en$eigent à vivre ; pour dire, que les Sçavans peuvent apprendre des ignorans. On dit au$$i, que la nature nous en$eigne nôtre devoir</def>
+</sense>
+<pc>.</pc>
+
+<re>Enseigné, ée. part. pa$$. &amp; adj</re>
+
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSELLL</orth>
+<pc>,</pc>
+<orth type="inflected">ée</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>adj</pos>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<usg>Terme de Mancge</usg>
+<pc>,</pc>
+<def>qui $e dit d'un cheval qui e$t difficile à bien $eller. Les chevaux en$ellez $ont relevez de cou &amp; de tête, &amp; ont les reins bas, c'e$t pourquoy ils couvrent bien leur homme</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSEMBLE</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>adv</pos>
+</gramGrp>
+<pc>.</pc>
+<pron>L'</pron>
+<pron>un avec l'autre</pron>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Aller tout en- $emble, c'e$t-à-dire, Aller de compagnie. On di$oit autrefois cni$emblement. Mêler tout en$emble, c'e$t-à- dire, Mêler l'un avec l'autre. Ce $ont des per$onnes di$cretes, &amp; vous pouvez ici vous expliquer en$emble. Mol. Ils $ont $ortis en$emble. Coen. Lai$$ons nous guider à nos de$irs, &amp; vous verrez que nous ne lai$$e- rons pas de pa$$er agreablement le temps que nous ne pouvons être en$emble. Let. Portug. Acheter tout en$emble, c'e$t-à-dire, en tâche &amp; en bloc. Ciceron e$t tout en$emble bon Orateur &amp; bon Philo$ophe. Il e$t difficile d'allier en$emble le monde, &amp; la vertu. Nic. Ces deux pieces vont en$emble, c'e$t-à-dire, ne $e $e- parent pas</def>
+</sense>
+<pc>.</pc>
+
+<etym><etym>Ce mot vient de in &amp; finul. Men</etym>
+</etym>
+<pc>.</pc>
+
+<sense>
+<form>Ensemble</form>
+<pc>,</pc>
+<usg>en termes de Manege</usg>
+<pc>,</pc>
+<def>$e dit d'un cheval qui en marchant approche $es pieds de derriere de ceux de devant, en$orte que le devant e$t leger, &amp; que les hanches $outiennent en quelque maniere $es épaules</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<def>On dit, Mettre bien en$emble un cheval, le mettre bien $ous lui, quand on le met $ur les hanches. Ensemble.</def>
+<form>$. m</form>
+<pc>.</pc>
+<def>On dit en Architecture, l'en$emble d'un bâtiment, pour en $ignifier la ma$$e ; &amp; quelque- fois au$$i pour marquer la proportion relative des par- ties au tout. Tous ces corps de logis font un très-bel en$emble</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSEMENCER</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Jeter de la $emence $ur des terres labourées, &amp; en $ai$on convenable, pour les faire rapporter. La recolte appartient à ceux qui ont en- $emencé les terres. Quelques Fermiers les reçoivent tont en$emencées</def>
+</sense>
+<pc>.</pc>
+
+<re>Ensemencé, ée. part. pa$$. &amp; adj. On dit au$$i au figuré de l'e$prit d'un jeune homme à qui on donne de bonnes in$tructions, que c'e$t une terre qui a été bien en$emencée</re>
+
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSERRER</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+<pc>.</pc>
+<orth>Ce</orth>
+<gramGrp>
+<pos>mot</pos>
+<subc>vieillit</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Il $ignifie, En- fermer, contenir dans quelque enceinte. La mer en- $erre tout le globe terre$tre. La terre en$erre dans $es flancs bien des tre$ors ; c'e$t-à-dire, ils y $ont enfermez. Ce divin E$prit, que rien n'en$erre, vole partout. Voit. De ce que le ciel en$erre il n'e$t rien qui $oit $ans amour. Id</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSEVELIR</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Envelopper un corps mort dans un drap, dans un $aaire, pour lui donner en$uite la $epulture dans la terre. C'e$t un acte d'humanité d'en$evelir les morts. Tobie &amp; quelques autres Hebreux ont montré un grand zêle pour en$évelir les morts. Lai$$ez aux morte le $oin d'en$evelir leurs morts. Port-R</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<form>Enseveli</form>
+<pc>,</pc>
+<def>$ignifie au$$i, Enterrer un mort. Les Chretiens en$eveli$em leurs morts, les enterrent. Les Romains &amp; les Orientaux les brûloient, au lieu de les en$eveir. On a dit autrefois en ce $ens, en$epulturer</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<form>Ensevelir</form>
+<pc>,</pc>
+<def>$e dit au$$i en parlant des corps abimez, ab$orbez ou peris. Tout cet équippage a été en$eveli dans les ondes avec le vai$$eau &amp; les marchandi$es. Cette ville a en$ereli tou $es habitans $ous $es ruine par un tremblement de terre. Un bon citoyen $e doit en$erelir $ou les ruines de $a patrie</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<form>Ensevelir</form>
+<pc>,</pc>
+<def>$e dit figurément en Morale, &amp; $ignifie, S'abolir, $e perdre, $e plonger. Les plus grandes ac- tions $ont avec le temps en$evelies dans un profond ou- bli. Sa gloire a été en$evelie avcc lu. Il faut en$evelir la memoire des grands crimes. La pieté e$t comme étouf- fée, &amp; en$evelie $ous la pompe des ceremonies. Cl. Sa rai$on étoit étouffée, &amp; en$evelie dans le vin. Com- bien y a-t-il de veritez qui $ont cachécs, &amp; comme en- $evelies dans l'Ecriture ? Nic. Ces tre$ors dont le Ciel voulut vous embelir, Les avez-vous recûs pour les en$evelir ? Rac</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<def>On dit au$$i qu'un homme e$t en$eveli dans un profond $ommeil, quand il dort profondément. On le dit au$$i dans une grande lethargie. On dit au$$i de celui qui s'enferme dans un hermitage, ou qui $e retire du mon- de, qu'il $e va en$evelir dans la $olitude. Ablan. Il ne faut pas en$cvelir un beau $ecret, le cacher $i bien, qu'on le lai$$e perdre</def>
+</sense>
+<pc>.</pc>
+
+<re>Enseveli, ie. part. pa$$. &amp; adj. Alors dansi le plai$ir $on coeur en$eveli, Ne prêtoit à $es yeux qu'un regard a$$aibli</re>
+
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSEVILLEMENT</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>$</pos>
+<pc>.</pc>
+<gen>m</gen>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<usg>Terme d'</usg>
+<def>Architec</def>
+<usg>-</usg>
+<def>ture</def>
+<pc>.</pc>
+<def>Ce mot $e prend pour l'appui d'une fenêtre au de$$us de trois pieds : c'e$t pourquoy on dit qu'une fe- nêtre e$t à 5 7. ou 9. pieds d'en$evillement</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSORCELEMENT</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>$</pos>
+<pc>.</pc>
+<gen>m</gen>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Charme, malefi- ce qu'on a jetté $ur quelcun par art magique, par $or- tilege. Les paï$ans appellent en$orcelemens, les mala- dies de langueur que les Medecins ne peuvent guerir</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSORCELER</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Jetter un $ort ou un male- fice $ur quelcun. Quand il arrive quelque maladie aux paï$ans, ou à leurs be$tiaux, dont on ne peut decou- vrir la cau$e, ils di$ent qu'ils ont été en$orcelez. Je vous prie, Madame, de ne point accabler un mi$era- ble de reproches ; a$$urément je $uis en$orcelé. B. Rab</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<def>On dit au$$i d'un homme qui e$t fort amoureux d'une fem- me, qui en e$t tellement coëffé, qu'elle le gouverne ab$olument, qu'elle l'a en$orcelé. Un $oir que j'attendois la belle, Qui depuis deux ans m'en$orcelle. Voit</def>
+</sense>
+<pc>.</pc>
+
+<re>Ensorcelé, ée. part. pa$$. &amp; adj</re>
+
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSORCELEUR</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>$</pos>
+<pc>.</pc>
+<gen>m</gen>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Qui en$orcele, qui en- chante. Les doux appas en$orceleurs. Voit. Cependant l'Academie efface ce mot dans $es Additions, après l'a- voir mis dans $a Table</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSOUFFRER</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Enduire de $ouffre quel- que vai$$eau. On en$ouffre les tonneaux, quand on veut tran$porter du vin par mer &amp; en des lieux éloignez</def>
+</sense>
+<pc>.</pc>
+
+<etym><etym>Ce mot vient de $ulphur, in$ulphurare</etym>
+</etym>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSOUPLE</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>$</pos>
+<pc>.</pc>
+<gen>f</gen>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>On dit plus communément en- $uble. Men. D'autres veulent qu'ils ne $oient tous deux en u$age, que par rapport à deux differentes $ortes d'Ouvriers : en$orte que les Ti$$erans di$ent en$ouple, &amp; les Ferandiniers en$uble. Quoyqu'il en $oit, c'e$t une partie du metier du Ti$$erand, ou d'autre Arti$an qui travaille en ti$$u. C'e$t le cylindre ou le rouleau autour duquel on roule le filet qui doit $ervir de chaîne ou de li$$e a la toile, ou à l'étoffe qu'il travaille. L'Ecri- ture Sainte nous dit que la hampe de la hallebarde de Goliath étoit gro$$e comme l'en$uble d'un Ti$$erand</def>
+<pc>.</pc>
+<def>L'en$oupleau e$t un rouleau oppo$é, $ur lequel il roule l'étoffe à me$ure qu'elle $e fait. Il faut que l'étoffe de- meure quelque temps $ur l'en$uble pour la rendre plus unie, &amp; empêcher qu'elle ne $e gripelle</def>
+</sense>
+<pc>.</pc>
+
+<etym><etym>Ce mot vient du Latin inubula $ignifiant la même cho$e, comme dit Menage après Cujas</etym>
+</etym>
+<pc>.</pc>
+
+<sense>
+<form>Ensouple</form>
+<pc>,</pc>
+<def>e$t au$$i</def>
+<usg>un terme de</usg>
+<def>Brodeur. On appelle ain$i ces colonnes de bois percées, au travers de$quelles pa$$ent des lattes, &amp; $ur quoy travaille le Brodeur. ENSOYER. v. act.</def>
+<usg>Terme de Cordonnier</usg>
+<pc>.</pc>
+<def>C'e$t, Attacher de la $oye au bout du fil pour le pa$$er plus fa- cilement dans le trou qu'on a fait avec l'alêne. En$oyer le fil. Du fil en$oyé</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENSUIVRE</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>neut</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Ce verbe n'e$t u$ité qu'en quel- ques temps. Il $ignifie, Etre en$uite, venir immediate- ment après. Il a appellé de cette $entence, de ce de- cret, &amp; de tout ce qui s</def>
+<usg>'</usg>
+<def>en e$t en$uivi. Ce Prince a prote$té n'être point re$pon$able de tous les malheurs qui s'en$uivroient de la rupture. La belle lui fit la re- pon$e qui s'en$uit. B. Rab. Les accidens qui s''en$uivi- rent fortifioient l'accu$ation. Vaug. Le $econd de Juin en$uivant elle fut couronnée. Mauc. Le compte de tutelle e$t rendu en vertu de la $entence d'un tel jour, dont la teneur s'en$ait. Après avoir reconnu nos $cellez, nous avons procedé à l'inventaire ain$i qu'il s'en$uit</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<def>On dit au Palais, qu'on produit en en$uivant l'appoin- tement d'un tel jour</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<form>Ensuivre</form>
+<pc>,</pc>
+<def>$e dit au$$i dans l'Ecole, des con$equen- ces qu'on pourroit tirer d'une propo$ition, des effets qui pourroient arriver d'une cau$e qu'on auroit $uppo$ée. Quand on po$e une cho$e ab$urde, mille ab$urditez s'en en$uivent. De ce principe il s'en$uivroit une contradic- tion</def>
+</sense>
+<pc>.</pc>
+
+<etym><etym>Ce mot vient du Latin in$equi</etym>
+</etym>
+<pc>.</pc></entry>
+<ab>ENT<pc>.</pc></ab>
+
+<entry><form type="lemmaGrp">
+<orth>ENTABLEMENT</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>$</pos>
+<pc>.</pc>
+<gen>m</gen>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<usg>Terme d'Architecture</usg>
+<pc>.</pc>
+<def>C'e$t le dernier rang de pierres qui e$t au haut d'un bâ- timent, $ur lequel po$e la charpente ou la couverture</def>
+</sense>
+<pc>.</pc>
+
+<etym><etym>Ce mot vient de tabulatum, intabulamentum. Quelques- uns appellent cette $orte d'entablement l'échapée de la pluye, &amp; le nomment en Latin $tillicidium. On dit donc, cet entablement n'a pas a$$ez de portée, car l'eau tombe $ur le pied de la muraille</etym>
+</etym>
+<pc>.</pc>
+
+<sense>
+<form>Entablement</form>
+<pc>,</pc>
+<def>$e dit au$$i à l'égard des colonnes de la partie qui e$t au de$$us du chapiteau, &amp; qui comprend l'architrave, la fri$e &amp; la corniche. Le mot d'entable- ment pris en ce $ens, s'appelle en Latin trabeati. L'en- tablement e$t different $elon les divers ordres d'Archi- tecture. On appelle entablement recoupé, celui qui fait retour par avant-corps $ur une colonne, ou pila$tre</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENTABLER</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>neut</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<usg>Terme de Manege</usg>
+<pc>,</pc>
+<def>qui $e dit d'un cheval, lor$que $a crouppe va avant $es épaules, lorsqu'il manie $ur les voltes, &amp; qu'il ne manie pas avec ju$te$$e</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENTACHER</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Infecter, gâter de quelque vice moral ou naturel. Il n'e$t gueres en u$age qu'au participe. Ils étoient entachez de lepre. Cet homme e$t fort entaché d'here$ie, d'avarice. Il étoit entaché d'un vilain mal dès le ventre de $a mere. La Vierge n'</def>
+<usg>a</usg>
+<def>point été entachée du peché originel. Ce mot ne doit guere $ortir de la conver$ation. Corn</def>
+</sense>
+<pc>.</pc>
+
+<re>Entaché, ée. part. pa$$. &amp; adj</re>
+
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENTAILLE</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>$</pos>
+<pc>.</pc>
+<gen>f</gen>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Ouverture qu'on fait en un corps, qu'on taille en un certain endroit, pour y en emboiter &amp; y en faire entrer un autre qu'on y veut joindre. Les entailles $e font quarrément, &amp; de la demi-pai$$eur du bois. On place des $olives dans les entailles des poutres. Les entailles à queuë d'aronde $ont les plus fortes. Il $ignifie quelquefois une $imple hoche, ou coche, qu'on fait dans le bois pour y faire quelques marques. Entaille pour limer les $cies. C'e$t un billot de bois fendu, dans lequel les Menui$iers font entrer le fer de leurs $cies quand ils veulent en limer les dens</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENTAILLER</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Faire une entaille, un trou, une ouverture dans un corps pour y en faire entrer un autre. Il faut entailler les pierres pour y mettre des in- cru$tations</def>
+</sense>
+<pc>.</pc>
+
+<re>Entaillé, ée. part. pa$$. &amp; adj</re>
+
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENTAILLURE</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>$</pos>
+<pc>.</pc>
+<gen>f</gen>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Inci$ion, entaille. Pomer</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENTALINGUER</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<usg>Terme de Marine</usg>
+<pc>.</pc>
+<def>C'e$t, Amarrer un cable à l'arganeau de l'ancre</def>
+</sense>
+<pc>.</pc></entry>
+         
+<entry><form type="lemmaGrp">
+<orth>ENTAMER</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Commencer à ôter, coupper, retrancher quelque partie d'un tout ; entrer, penetrer un peu dans la cho$e $ur laquelle on touche. Entamer une piece d'étoffe, entamer le pain, entamer un bateau de bois, de charbon, entamer la peau, entamer un ba- taillon. C'e$t un coup de hache qui n'a fait qu'entamer l'armet. Ablan</def>
+<pc>.</pc>
+<etym>Menage derive ce mot de entaimare</etym>
+<def>Latin, qui a été fait du Grec entamein</def>
+<etym>,</etym>
+<def>$</def>
+<etym>ignifiant la même</etym>
+<def>cho$e</def>
+<pc>.</pc>
+<etym>Borel dit qu</etym>
+<def>'il vient</def>
+<etym>d</etym>
+<def>'</def>
+<etym>un vieux</etym>
+<def>mot</def>
+<etym>François tamer, qui</etym>
+<def>vient du</def>
+<etym>Grec tamein,</etym>
+<def>$ignifiant di$$equer</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<usg>On dit en termes de Manege</usg>
+<pc>,</pc>
+<def>Entamer le chemin ; pout dire, Commencer à galoper. Entamer du pied droit, du pied gauche</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<form>Entamer</form>
+<pc>,</pc>
+<def>$e dit au$$i au figuré. Entamer un di$cours, entamer une que$tion, entamer une negociation. Ce Rapporteur a entamé ce matin mon procés, a com- mencé à po$er le fait</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<form>Entamer</form>
+<pc>,</pc>
+<def>$e dit encore figurément pour, Donner pri- $e, fournir occa$ion de trouver à redire. Ce n'e$t pas a$$ez qu'une femme n'ait rien à $e reprocher ; il faut que le public ne pui$$e entamer $a conduite par aucun en- droit. Bell. On dit élegamment, Il s'e$t lai$$é en- tamer ; pour dire, qu'on a decouvert $es $entimens, &amp; qu'on en a tiré avantage. Dès qu'un Amba$$adeur s'e$t lai$$é entamer, il e$t perdu : c'e$t-à-dire, des qu'il s'e$t- lai$$é penetrer, ou qu'il a $ouffert qu'on retranche les honneurs qui lui $ont dûs. Bou. Un homme qui parle peu, &amp; qui $e menage, ne donne point de pri$e aux plai$ans qui ne $çavent par où l'entamer. Bell. Les accidens du monde ne peuvent entamer l'ame d'un vrai Philo$ophe. Bal. L'unique $oin des enfans e$t de trou- ver l'endroit foible de leurs Maîtres, comme de tous ceux à qui ils $ont $oumis ; dès qu'ils ont pû les entamer, ils gagnent le de$$us. La Bruy</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENTAMURE</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>$</pos>
+<pc>.</pc>
+<gen>f</gen>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Le premier morceau qu'on coup- pe de quelque cho$e. Donnez-moi l'entamure du pain. L'entamure d'une piece d'étoffe n'e$t jamais bien belle. On dit au$$i, l'en amure de la peau, quand elle e$t $im- plement effleurée. Entamures de carriere, ce $ont les premieres pierres qu'on tire des carrieres</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENTANTQUE</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>adv</pos>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>qui $ert à di$tinguer ou à re$traindre quelque propo$ition. Jesus-Christ e$t con$ideré diver$ement, entant que Dieu, &amp; entant qu'homme. En Philo$ophie on con$idere les $ub$tances $elon leurs accidens, entant que longues, entant que chaudes, entant qu'animées, &amp;c. En Ju$tice on dit, Le Procureur du Roi joint entant que le fait le touche, ou peut toucher. Il e$t quelquefois conjonction, &amp; $ignifie, Parceque. Il me doit une rente, entant qu'il po$$ede mon heritage. Il a été a$$igné pour deguerpir, entant qus, ou parce- que cet heritage m'e$t hypothequé</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENTASSEMENT</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>$</pos>
+<pc>.</pc>
+<gen>m</gen>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Action par laquelle on met plu$ieurs cho$es en un tas les unes $ur les autres. Il faut prendre garde à bien faire l'enta$$ement des gerbes dans une grange</def>
+</sense>
+<pc>.</pc></entry>
+<entry><form type="lemmaGrp">
+<orth>ENTASSER</orth>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+</form>
+<pc>.</pc>
+
+<sense>
+<def>Mettre plu$ieurs cho$es les unes $ur les autres. La pre$$e étoit $i grande en cette ce- remonie, qu'on y étoit anta$$é les uns $ur les autres. Ce coche étoit $i plein, qu'on y étoit enta$$é comme des harengs dans une caque. Voilà un avare qui enta$$e, qui accumule tre$ors $ur tre$ors ; un $celerat qui emta$$e crime $ur crime. Les Poëtes di$ent que les Gean avoient enta$$é montagnes $ur montagnes pour detrô- ner les Dieux. Il faut avertir les hommes que tous ces biens qu'ils enta$$ent, n'ont pour ba$e qu'une vie peri$$able. Nic. Enta$$er crime $ur crime. Ema$$er pen-</def>
+</sense>
+</entry>
+		</body>
+  </text>
+</TEI>
