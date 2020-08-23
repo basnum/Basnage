@@ -103,9 +103,10 @@
                     <head>Personnes indexés par Basnage comme source de citations</head>
 
 
-
+<personGrp xml:id="jetonnier"><name>jetonnier <gloss></gloss></name></personGrp>
 
                     <person xml:id="TEMPLATE_ISN">
+                      
                         <persName>
                             <forename/>
                             <surname>Zosime</surname>

@@ -236,7 +236,8 @@
                         <faith>Catholique</faith>
                         <education> collège de Sorbonne.</education>
                         <occupation/>
-                        <affiliation/>
+                        <affiliation ref="#Port_Royal_Solitaires">Abbaye Port Royal des
+                            Champs</affiliation>
                         <socecStatus>Prètre</socecStatus>
                         <note>logique, philosophie du langage, théologie, mathématiques</note>
                         <event>
@@ -2002,7 +2003,8 @@
                         <faith>Catholique</faith>
                         <education/>
                         <occupation/>
-                        <affiliation/>
+                        <affiliation ref="#Port_Royal_Solitaires">Abbaye Port Royal des
+                            Champs</affiliation>
                         <socecStatus/>
                         <note>avocat, janséniste</note>
                         <event>
@@ -2297,7 +2299,8 @@
                         <faith>Catholique</faith>
                         <education/>
                         <occupation/>
-                        <affiliation>Port Royal</affiliation>
+                        <affiliation ref="#Port_Royal_Solitaires">Abbaye Port Royal des
+                            Champs</affiliation>
                         <socecStatus/>
                         <note>théologien,janseniste</note>
                         <event>
@@ -2764,7 +2767,8 @@
                         <faith>Catholique</faith>
                         <education/>
                         <occupation/>
-                        <affiliation/>
+                        <affiliation ref="#Port_Royal_Solitaires"> Abbaye Port Royal des
+                            Champs</affiliation>
                         <socecStatus/>
                         <note>un théologien, bibliste et humaniste français</note>
                         <event>
@@ -3780,9 +3784,12 @@
                         <socecStatus/>
                         <note>Agronome, Jardinier</note>
                         <event>
-                            <desc>Le jardinier françois, qui enseigne à cultiver les Arbres, et Herbes Potagères <date>1651</date></desc>
-                            <desc>Les délices de la campagne. Suitte du Jardinier françois, <date>1654</date></desc>
-                            <desc>raité des chasses, de la vénerie et fauconnerie <date>1681</date></desc>
+                            <desc>Le jardinier françois, qui enseigne à cultiver les Arbres, et
+                                Herbes Potagères <date>1651</date></desc>
+                            <desc>Les délices de la campagne. Suitte du Jardinier françois,
+                                    <date>1654</date></desc>
+                            <desc>raité des chasses, de la vénerie et fauconnerie
+                                <date>1681</date></desc>
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000062999455</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Nicolas_de_Bonnefons</idno>
@@ -4773,7 +4780,7 @@
                         <faith>Catholique</faith>
                         <education>Sorbonne, College Jésuite de Louvain</education>
                         <occupation/>
-                        <affiliation>Port Royal</affiliation>
+                        <affiliation ref="#Port_Royal_Solitaires">Abbaye St Cyran de Brenne, lié aussi avec l'Abbaye Port Royal des Champs</affiliation>
                         <socecStatus/>
                         <note>Théologien, écrivain, abbé, prêtre, janseniste</note>
                         <event>
@@ -5423,6 +5430,37 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Philippe_Labbe</idno>
                     </person>
 
+                    <person xml:id="Lancelot_ISN000000010891610X">
+                        <persName>
+                            <forename>Claude</forename>
+                            <surname>Lancelot</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth>Né vers 1615 à<placeName>Gland</placeName> en <country corresp="#FRE"
+                                >France</country></birth>
+                        <death  when="1695-04-15">Mort le 15 avril 1695 à <placeName>Quimperlé</placeName><country corresp="#FRE"
+                                >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Moine bénédictin</occupation>
+                        <affiliation ref="#Port_Royal_Solitaires">Abbaye Port Royal des
+                            Champs</affiliation>
+                        <socecStatus/>
+                        <note>Linguiste, Grammairien, Janséniste</note>
+                        <event>
+                            <desc>Grammaire générale et raisonnée : contenant les fondements de
+                                l'art de parler, expliqués d'une manière claire et naturelle, les
+                                raisons de ce qui est commun à toutes les langues, et des
+                                principales différences qui s'y rencontrent<date>1660</date>avec <persName ref="#Arn_ISN0000000121371431">Antoine Arnauld </persName></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/000000010891610X</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Claude_Lancelot</idno>
+                    </person>
+
 
                     <person xml:id="Du_Laurens_ISN0000000121222524">
                         <persName>
@@ -5502,15 +5540,19 @@
                         <occupation>Curé</occupation>
                         <affiliation/>
                         <socecStatus/>
-                        <note>aumônier et contrôleur des jardins fruitiers du roi Louis XIII, agronome, jardinier</note>
+                        <note>aumônier et contrôleur des jardins fruitiers du roi Louis XIII,
+                            agronome, jardinier</note>
                         <event>
-                            <desc xml:base="https://gallica.bnf.fr/ark:/12148/bpt6k58176347.texteImage">La Manière de cultiver les arbres fruitiers où il est traité des
+                            <desc
+                                xml:base="https://gallica.bnf.fr/ark:/12148/bpt6k58176347.texteImage"
+                                >La Manière de cultiver les arbres fruitiers où il est traité des
                                 pépinières, des espaliers, des contre-espaliers, des arbres en
                                 buisson et à haute tige<date>1652</date></desc>
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000033429162</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Antoine_Legendre</idno>
-                        <idno type="URI">http://perso.numericable.fr/arnaudser/Henouville/Legendre.htm</idno>
+                        <idno type="URI"
+                            >http://perso.numericable.fr/arnaudser/Henouville/Legendre.htm</idno>
                     </person>
 
                     <person xml:id="Le_Notre_ISN0000000121318665">
@@ -6668,6 +6710,8 @@
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Marc-Antoine_Girard_de_Saint-Amant</idno>
                     </person>
+                    
+                    
 
                     <person xml:id="Tachard_ISN0000000115571939">
                         <persName xml:base="">
@@ -7285,6 +7329,8 @@
 
 
 
+
+
                 </listOrg>
                 <listPerson n="mentionné">
                     <head>Personnes mentionnées mais pas citées</head>
@@ -7780,6 +7826,7 @@
                     <gloss xml:id="coutume"><term>coutume / coutumes</term></gloss>
                     <gloss xml:id="couture"><term>couture</term></gloss>
                     <gloss xml:id="degraisseur"><term>degraisseur</term></gloss>
+                    <gloss xml:id="dessinateur"><term>dessinateur</term></gloss>
                     <gloss xml:id="devotion"><term>devotion</term></gloss>
                     <gloss xml:id="droit"><term>droit</term></gloss>
                     <gloss xml:id="dogmatique"><term>dogmatique</term></gloss>
@@ -8761,9 +8808,10 @@
                         </entry>
 
                         <entry xml:id="Cabinet" xml:lang="fra">
-                            <form type="lemma"><orth rendition="#uc">cabinet</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >cabinet</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense n="1"><def>Le lieu le plus etiré dans le plus bel appartement des
                                     Palais, des grandes maisons.</def>
                                 <note>Un appartement royale, consiste en sale, antichambre, chambre
@@ -9128,9 +9176,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cabochon">
-                            <form type="lemma"><orth rendition="#uc">cabochon</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >cabochon</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense n="1"><usg ana="#Jouailler">Terme de Jouailler.</usg>
                                 <def>Pierre precieuse, &amp; particulierement un rubis, qui est
                                     seulement polie sans avoir aucune figure régulière, mais telle
@@ -9207,10 +9256,11 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cabriole">
-                            <form type="lemma"><orth rendition="#uc">cabriole</orth><lbl> ou
-                                    </lbl><orth rendition="#uc" type="variant">capriole</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >cabriole</orth><lbl> ou </lbl><orth rendition="#uc"
+                                        type="variant">capriole</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense n="1"><def>Elevation du corps, faut leger &amp; agile, que font
                                     les Danseurs ordinairement à la fin des cadences.</def>
                                 <note><seg type="collocation">Friser la
@@ -9666,9 +9716,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cachet">
-                            <form type="lemma"><orth rendition="#uc">cachet</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >cachet</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense n="1"><def>Petit sçeau qui porte une gravure particuliere de
                                     quelques Armes ou chiffres qu'on imprime sur de la cire, ou du
                                     pain à chanter, pour empêcher qu'on n'ouvre un paquet fermé
@@ -9921,10 +9972,11 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cacochymie">
-                            <form type="lemma"><orth rendition="#uc">cacochymie</orth>
-                                <gramGrp><pos expand="Substantif">s</pos><gen expand="Feminin"
-                                        >f</gen>
-                                </gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >cacochymie</orth>
+                                    <gramGrp><pos expand="Substantif">s</pos><gen expand="Feminin"
+                                            >f</gen>
+                                    </gramGrp></form></form>
                             <sense n="1"><def>Est une repletion de mauvaises humeurs.</def>
                                 <note>Quand la repletion est simplement de sang, on l'appelle<hi
                                         rendition="#i">plethore</hi></note>
@@ -11210,9 +11262,11 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cagier">
-                            <form type="lemma"><orth rendition="#uc">cagier</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos>
-                                    <c>&amp;</c><gen expand="Masculin">m.</gen></gramGrp></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc">cagier</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos>
+                                        <c>&amp;</c><gen expand="Masculin"
+                                >m.</gen></gramGrp></form></form>
                             <sense n="1">
                                 <usg type="terme" ana="#fauconnerie">Terme de Fauconnerie</usg>
                                 <def>qui se dit de ceux qui portent des faucons, des farcs, des
@@ -11600,22 +11654,25 @@
                     <div type="CAI">
                         <head>CAI</head>
                         <entry xml:lang="fra" xml:id="Caic">
-                            <form type="lemma"><orth rendition="#uc">caic</orth></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >caic</orth></form></form>
                             <sense n="1"><usg type="terme" ana="#marine">Terme de Marine</usg>
                                 <def>Esquif destiné au service d'une Galere.</def></sense>
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Caies">
-                            <form type="lemma"><orth rendition="#uc">caies</orth></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >caies</orth></form></form>
                             <xr><lbl> Voyez </lbl>
                                 <ref rendition="#sc" type="variant" corresp="#cayes"
                                 >CAYES</ref></xr>
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Caille">
-                            <form type="lemma"><orth rendition="#uc">caille</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
-                                        >f.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >caille</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
+                                            >f.</gen></gramGrp></form></form>
                             <sense n="1"><def>Oiseau de plumage grivelé, qui se tient dans les blez. </def>
                                 <note>C'est un oiseau de passage assez petit &amp; bon à manger. Il
                                     est de chaude complexion, d'où on a fait le proverbe, <seg
@@ -11635,10 +11692,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Caillebot">
-                            <form type="lemma"><orth rendition="#uc">caillebot</orth>ou<orth
-                                    rendition="#uc">CAILLOT</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >caillebot</orth>ou<orth rendition="#uc">CAILLOT</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense n="1">
                                 <def>se dit d'un sang coagulé qu'on crache ou qu'on vide avec les
                                     excremens.</def>
@@ -11651,9 +11708,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Caillebotis">
-                            <form type="lemma"><orth rendition="#uc">caillebottis</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >caillebottis</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense n="1"><usg type="terme" ana="#marine">Terme de Marine</usg>
                                 <def>Espece de treillis, ou tillac à jonc fait de menu bois, &amp;
                                     placé entre deux hiloire, ou bordures pour servir à évaporer la
@@ -11667,9 +11725,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Caillebotte">
-                            <form type="lemma"><orth rendition="#uc">caillebotte</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc">caillebotte</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense n="1"><def>. C'est une masse de lait caillé, qui est ferme &amp;
                                     épaissi</def>
                                 <cit type="exemple">
@@ -11680,9 +11739,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Cailler">
-                            <form type="lemma"><orth rendition="#uc">cailler</orth>
-                                <gramGrp><pos expand="Verbe">v.</pos><subc expand="Actif"
-                                        >act.</subc></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >cailler</orth>
+                                    <gramGrp><pos expand="Verbe">v.</pos><subc expand="Actif"
+                                            >act.</subc></gramGrp></form></form>
                             <sense n="1"><def>Coaguler, figer.</def>
                                 <note>La morsure des serpens tué, parcequ'elle fait <hi>cailler</hi>
                                     le sang, &amp; empêche la circulation.</note>
@@ -11732,9 +11792,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Caillelait">
-                            <form type="lemma"><orth rendition="#uc">caillelait</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >caillelait</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense n="1"><usg type="terme" ana="#botanique">Terme de Botanique</usg>
                                 <def>Plante qui est ainsi appellée, parcequ'elle fait cailler le
                                     lait. </def>
@@ -11754,9 +11815,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Caillement">
-                            <form type="lemma"><orth rendition="#uc">caillement</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >caillement</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense n="1"><def>Ce mot se dit du lait en parlant de nouvelles
                                     accouchées. C'est une maladie qui leur vient, parceque leur lait
                                     s'est caillé, &amp; s'est mis en petits grumeaux dans leurs
@@ -11780,9 +11842,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Caillette">
-                            <form type="lemma"><orth rendition="#uc">caillette</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
-                                        >f.</gen></gramGrp></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc">caillette</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
+                                            >f.</gen></gramGrp></form></form>
                             <sense n="1">
                                 <def>C'est le quatrième ventricule du boeu, ou des autres animaux
                                     qui ruminent. </def>
@@ -11823,9 +11886,10 @@
                         </entry>
 
                         <entry xml:id="Caillou" xml:lang="fra">
-                            <form type="lemma"><orth rendition="#uc">caillou</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >caillou</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense n="1"><def>Petite pierre dure, &amp; quelquefois polie &amp;
                                     luisante. </def>
                                 <note>On l'employe avec le ciment à paver les aqueducs, les grottes,
@@ -11863,9 +11927,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Caimacan">
-                            <form type="lemma"><orth rendition="#uc">caimacan</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >caimacan</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense n="1"><def>Nom de dignité dans <persName>l'empire
                                         Ottoman</persName>.</def>
                                 <note> Il y a deux <hi rendition="#i">caïmacans</hi> ; l'un qui est
@@ -11890,19 +11955,21 @@
                             </sense>
                         </entry>
                         <entry xml:lang="fra" xml:id="Caimand">
-                            <form type="lemma"><orth rendition="#uc" extent="full"
-                                    >caimand</orth><orth rendition="#sc" extent="part">ande</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin">m.
-                                        ou f.</gen><lbl>&amp;</lbl>
-                                    <gen expand="Feminin">f.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        extent="full">caimand</orth><orth rendition="#sc"
+                                        extent="part">ande</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m. ou f.</gen><lbl>&amp;</lbl>
+                                        <gen expand="Feminin">f.</gen></gramGrp></form></form>
                             <sense n="1">
                                 <def> Mendiant qui gueuse par fainéantise,' &amp; faute de vouloir
                                     travailler. </def></sense>
                         </entry>
                         <entry xml:lang="fra" xml:id="Caimander">
-                            <form type="lemma"><orth rendition="#uc">caimander</orth>
-                                <gramGrp><pos expand="Verbe">v.</pos><subc expand="Neutre"
-                                    >n.</subc></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >caimander</orth>
+                                    <gramGrp><pos expand="Verbe">v.</pos><subc expand="Neutre"
+                                            >n.</subc></gramGrp></form></form>
                             <sense n="1">
                                 <def>Mendier. </def>
                                 <note>Il se dit aussi en parlant de toutes les choses qu'on va
@@ -11919,9 +11986,10 @@
                             </sense>
                         </entry>
                         <entry xml:lang="fra" xml:id="Caiou">
-                            <form type="lemma"><orth rendition="#uc">caiou</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >caiou</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense n="1"><def>Espèce de noix qui vient du <persName type="pays"
                                         >Brésil</persName>.</def><note> L'arbre qui la porte est de
                                     la grandeur d'un grenadier. Sa feuille est comme celle du
@@ -11942,9 +12010,10 @@
                                     gratelle. </note></sense>
                         </entry>
                         <entry xml:lang="fra" xml:id="Caisse">
-                            <form type="lemma"><orth rendition="#uc">caisse</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
-                                        >f.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >caisse</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
+                                            >f.</gen></gramGrp></form></form>
                             <sense n="1"><def>Coffre, boëte ; vaisseau fait de menuës planches de
                                     sapin ou d'autre bois léger, pour transporter des marchandises. </def>
                                 <note> On appelle des raisins de <hi>caisse</hi>, les raisins secs
@@ -12026,9 +12095,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Caissier">
-                            <form type="lemma"><orth rendition="#uc">caissier</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc">caissier</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense><def> Celui qui tient la caisse d'un trésorier, d'un Banquier. </def>
                                 <cit type="exemple">
                                     <quote> Le <hi rendition="#i">Caissier</hi> des Gabelles.
@@ -12042,9 +12112,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Caisson">
-                            <form type="lemma"><orth rendition="#uc">caisson</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >caisson</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense n="1"><def> Grande caisse couverte en dos d'âne, qu'on porte sur
                                     un chariot pour y mettre le pain de munition, &amp; autres
                                     choses dont on a besoin à l'armée,</def>
@@ -12072,9 +12143,10 @@
                         </entry>
 
                         <entry xml:id="Cajutes" xml:lang="fra">
-                            <form type="lemma"><orth>cajutes</orth>
-                                <gramGrp><pos expand="Substantif"/><gen expand="Masculin"
-                                    /></gramGrp></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth>cajutes</orth>
+                                    <gramGrp><pos expand="Substantif"/><gen expand="Masculin"
+                                        /></gramGrp></form></form>
                             <sense n="1"><usg type="terme" ana="#marine">Terme de Marine.</usg><def>
                                     Ce sont les lits des vaisseaux, qui sont la plupart emboëtez
                                     autour du navire.</def>
@@ -12088,9 +12160,10 @@
                     <div type="CAL">
                         <head>CAL</head>
                         <entry xml:lang="fra" xml:id="Cal">
-                            <form type="lemma"><orth rendition="#uc">Cal</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc">Cal</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense n="1"><def> Durillon qui vient aux pieds, aux mains &amp; aux
                                     genoux. </def>
                                 <cit type="exemple">
@@ -12102,9 +12175,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Calade">
-                            <form type="lemma"><orth rendition="#uc">Calade</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
-                                        >f.</gen></gramGrp></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc">Calade</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
+                                            >f.</gen></gramGrp></form></form>
                             <sense n="1"><usg type="terme" ana="#manege">Terme de Manège.</usg>
                                 <def> C'est la pente d'une éminence, d'un terrain élevé, par où on
                                     fait descendre plusieurs fois un cheval au petit galop, pour lui
@@ -12124,9 +12198,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Calaf">
-                            <form type="lemma"><orth rendition="#uc">Calaf</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc">Calaf</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense n="1"><def>Espèce de saule qui croit en plusieurs endroits de
                                         <persName>l’Égypte</persName>, surtout dans les lieux
                                     humides.</def>
@@ -12144,9 +12219,10 @@
                             </sense>
                         </entry>
                         <entry xml:lang="fra" xml:id="Calamba">
-                            <form type="lemma"><orth rendition="#uc">Calamba</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >Calamba</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense n="1"><def> C'est la plus excellente sorte de bois d'aloës, qui
                                     n'est déclinée que pour les Rois des <persName>Indes</persName>,
                                     &amp; qui rend une odeur admirable, lorsqu’on la remuë seulement
@@ -12158,13 +12234,13 @@
 
                         </entry>
                         <entry xml:lang="fra" xml:id="Calament">
-                            <form type="lemma"><orth rendition="#uc">CALAMENT</orth><gramGrp><pos
-                                        expand="Substantif">s.</pos><gen expand="Masculin"
-                                    >m.</gen></gramGrp>
-                                <lbl>ou</lbl>
-                                <orth>CALAMENTE</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
-                                        >f.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >CALAMENT</orth><gramGrp><pos expand="Substantif"
+                                            >s.</pos><gen expand="Masculin">m.</gen></gramGrp>
+                                    <lbl>ou</lbl>
+                                    <orth>CALAMENTE</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
+                                            >f.</gen></gramGrp></form></form>
                             <sense n="1"><usg type="terme" ana="#botanique">Terme de
                                     Botanique.</usg>
                                 <def> C'est une plante dont les feuilles qui naissent de tiges &amp;
@@ -12192,9 +12268,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Calamine">
-                            <form type="lemma"><orth rendition="#uc">CALAMINE</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
-                                        >f.</gen></gramGrp></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc">CALAMINE</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
+                                            >f.</gen></gramGrp></form></form>
                             <sense n="1"><def> Espèce de cadmie naturelle, qui est privée de parties
                                     métalliques.</def>
                                 <note> C'est une terre fossile de couleur jaunâtre, qui n’est pas
@@ -12210,9 +12287,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Calamite">
-                            <form type="lemma"><orth rendition="#uc">CALAMITE</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
-                                        >f.</gen></gramGrp></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc">CALAMITE</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
+                                            >f.</gen></gramGrp></form></form>
                             <sense n="1"><def> C'est un des noms qu'on donne à la pierre d’aimant,
                                     &amp; ensuite à la boussole. </def>
                                 <etym>Ce mot a signifié proprement en François une <hi
@@ -12230,9 +12308,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Calamité">
-                            <form type="lemma"><orth rendition="#uc">CALAMITÉ</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
-                                        >f.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >CALAMITÉ</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
+                                            >f.</gen></gramGrp></form></form>
                             <sense n="1"><def>Misère, trouble, infortune. </def>
                                 <note>Il ne se dit plus gueres en François que des malheurs
                                     généraux. </note>
@@ -12265,12 +12344,12 @@
 
                         </entry>
                         <entry xml:lang="fra" xml:id="Calamiteux">
-                            <form type="lemmaGrp"/>
-                            <form type="lemma"><orth extent="full">calamiteux</orth></form>
-                            <form><orth rendition="#sc" extent="part">euse</orth>
-                                <gramGrp>
-                                    <pos expand="Adjectif">adj.</pos>
-                                </gramGrp></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth extent="full">calamiteux</orth></form>
+                                <form><orth rendition="#sc" extent="part">euse</orth>
+                                    <gramGrp>
+                                        <pos expand="Adjectif">adj.</pos>
+                                    </gramGrp></form></form>
                             <sense n="1">
                                 <def>Infortuné, misérable.</def>
                                 <note> Il ne se dit gueres que des temps de trouble &amp; de guerre,
@@ -12284,9 +12363,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Calamus_aromaticus">
-                            <form type="lemma"><orth rendition="#uc">CALAMUS AROMATICUS</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc">CALAMUS
+                                        AROMATICUS</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense n="1"><def> Plante qui est de deux sortes. Il y a le vrai
                                         <foreign rendition="#i" xml:lang="lat">calamus
                                         aromaticus</foreign> des Anciens, qui vient dans les
@@ -12305,15 +12385,17 @@
                                     obstructions du foye &amp; de la rate. </def></sense>
                         </entry>
                         <entry xml:lang="fra" xml:id="Calandes">
-                            <form type="lemma"><orth rendition="#uc">CALANDES</orth></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >CALANDES</orth></form></form>
                             <xr>
                                 <lbl> Voyez </lbl>
                                 <ref corresp="#Calendes"/>Calendes. </xr>
                         </entry>
                         <entry xml:lang="fra" xml:id="Calandre">
-                            <form type="lemma"><orth rendition="#uc">Calandre</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
-                                        >f.</gen></gramGrp></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc">Calandre</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
+                                            >f.</gen></gramGrp></form></form>
                             <sense n="1"><usg type="terme" ana="#manufactures">Terme de
                                     Manufactures.</usg>
                                 <def>C'est une machine propre pour presser les draps &amp;les
@@ -12360,9 +12442,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Calendrer">
-                            <form type="lemma"><orth rendition="#uc">CALENDRER</orth>
-                                <gramGrp><pos expand="Verbe">v.</pos><subc expand="Actif"
-                                        >act.</subc></gramGrp></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc">CALENDRER</orth>
+                                    <gramGrp><pos expand="Verbe">v.</pos><subc expand="Actif"
+                                            >act.</subc></gramGrp></form></form>
                             <sense n="1">
                                 <def> Mettre une étoffe sous la calandre pour la presser ou tabiser.
                                 </def></sense>
@@ -12374,21 +12457,26 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Calandrier">
-                            <form type="lemma"><orth rendition="#uc">CALANDRIER</orth></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >CALANDRIER</orth></form></form>
                             <xr>
                                 <lbl> Voyez </lbl>
                                 <ref rendition="#sc" corresp="#Calendrier">CALENDRIER</ref>. </xr>
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Calangue">
-                            <form type="lemma"><orth rendition="#uc">CALANGUE</orth></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc"
+                                >CALANGUE</orth></form></form>
                             <xr>
                                 <lbl> Voyez </lbl>
                                 <ref rendition="#sc" corresp="#Cale">CALE</ref>. </xr>
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Calatrava">
-                            <form type="lemma"><orth rendition="#uc">CALATRAVA</orth></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc"
+                                >CALATRAVA</orth></form></form>
                             <sense n="1">
                                 <def>Ordre Militaire institué sous le règne de <persName
                                         type="person">Sanche III</persName>.Roi de Castille en
@@ -12417,9 +12505,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Calcanéum">
-                            <form type="lemma"><orth rendition="#uc">CALCANEUM</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc">CALCANEUM</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense n="1">
                                 <usg type="terme" ana="#anatomie">Terme d'Anatomie</usg>
                                 <def> C'est le second os du <persName>tarse</persName> &amp; le plus
@@ -12431,16 +12520,19 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Calcedoine">
-                            <form type="lemma"><orth rendition="#uc">CALCEDOINE</orth></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc"
+                                >CALCEDOINE</orth></form></form>
                             <xr>
                                 <lbl> Voyez </lbl>
                                 <ref rendition="#sc" corresp="#Chalcedoine">CHALCEDOINE</ref>. </xr>
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Calcet">
-                            <form type="lemma"><orth rendition="#uc">CALCET</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
-                                        >m.</gen></gramGrp></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >CALCET</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Masculin"
+                                            >m.</gen></gramGrp></form></form>
                             <sense n="1"><usg type="terme" ana="#mer">Terme de mer.</usg>
                                 <def>Assemblage de planches élevé, &amp; cloüé sur le haut des
                                     arbres d'une Galère &amp; qui sert à renfermer les poulies de
@@ -12449,9 +12541,10 @@
                         </entry>
 
                         <entry xml:id="Calcination" xml:lang="fra">
-                            <form type="lemma"><orth rendition="#uc">CALCINATION</orth>
-                                <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
-                                        >f.</gen></gramGrp></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc">CALCINATION</orth>
+                                    <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
+                                            >f.</gen></gramGrp></form></form>
                             <sense n="1">
                                 <def>Action par laquelle on réduit en chaux, &amp; en poudre très
                                     subtile les métaux &amp; les minéraux avec un feu violent. </def>
@@ -12470,9 +12563,10 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Calciner">
-                            <form type="lemma"><orth rendition="#uc">CALCINER</orth>
-                                <gramGrp><pos expand="Verbe">v.</pos><subc expand="Actif"
-                                        >act.</subc></gramGrp></form>
+                            <form type="lemmaGrp">
+                                <form type="lemma"><orth rendition="#uc">CALCINER</orth>
+                                    <gramGrp><pos expand="Verbe">v.</pos><subc expand="Actif"
+                                            >act.</subc></gramGrp></form></form>
                             <sense n="1"><usg type="terme" ana="#chymie">Terme de Chymie.</usg>
                                 <def>Réduire les métaux ou les minéraux en chaux ou poudre très
                                     subtile par le moyen du feu. </def>
@@ -12496,7 +12590,8 @@
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Calçon">
-                            <form type="lemma"><orth rendition="#uc">Calçon</orth></form>
+                            <form type="lemmaGrp"><form type="lemma"><orth rendition="#uc"
+                                        >Calçon</orth></form></form>
                             <xr>
                                 <lbl> Voyez </lbl>
                                 <ref rendition="#sc" corresp="#Caleçon">Caleçon</ref>. </xr>
