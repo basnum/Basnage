@@ -2,9 +2,6 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
-
-<?xml-stylesheet type="text/css" href="teixdicotest.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
         <fileDesc>
@@ -7669,15 +7666,28 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
 <def>injurieux, &amp; meprisant. Nargue, c'est trop rêver, c'est trop ronger ses ongles ; dit St. Amant ne pouvant achever un Sonnet faute d'une rime à ongle. Il dit aussi dans le même esprit, Nargue du Parnasse &amp; des Muses. Nargus de vous, ou, Peste de vous, se dit quand on veut temoigner quelque colere ou dedain contre quelcaunz On dit aussi, par maniere de proverbe, qu'une chose fait nargue à une autre ; pour. dire, qu'elle l'emporte de beaucoup. Les vins de Champagne font nargue à tous les autres</def>
 </sense>
 <pc>.</pc>
-
-<re><form>NaRINE</form>
-<form>.</form>
-<form>s. f</form>
-<form>.</form>
-<form>Cavité du nez</form>
-<def>par où l'air entre &amp; sort contineellement, &amp; qui sert à recevoir les odeurs, &amp; à laisser étouler la pituite qui se separe dans les sinus de la base du crane. Il y a deux narines, la droite &amp; la gauche : elles sont separées par un cartilage, &amp; revetuës d'une membrane sort sensible. Quand on a les narines bouchées, on a beaucoup de peine à respirer. On arrache le poil des narines</def>
-<pc>.</pc></re>
 </entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>NaRINE</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>f</gen>
+</gramGrp>
+<pc>.</pc>
+</form>
+    
+<sense>
+<def>Cavité du nez par où l'air entre &amp; sort contineellement, &amp; qui sert à recevoir les odeurs, &amp; à laisser étouler la pituite qui se separe dans les sinus de la base du crane. Il y a deux narines, la droite &amp; la gauche : elles sont separées par un cartilage, &amp; revetuës d'une membrane sort sensible. Quand on a les narines bouchées, on a beaucoup de peine à respirer. On arrache le poil des narines</def>
+<pc>.</pc>
+</sense>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>NARQUOIS</orth>
@@ -7815,46 +7825,45 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
 <pc>.</pc>
 
 <sense>
-<def>. Fire un recit, une mrration ; raconter. Une des plus difficiles parties d'un Ora-</def>
+<def>Faire un recit, une mrration ; raconter. Une des plus difficiles parties d'un Orateur, d'un Historien, c'est de bien narrer. Thucydide narre mieux que Tacite. Ablan</def>
 </sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>teur</orth>
-</form>
-<pc>,</pc>
-<pron>d'un Historien, c'est de bien narrer</pron>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Thucydide narre mieux que Tacite. Ablan</def>
-</sense>
-<pc>.</pc>
-
+<pc>.</pc>    
+    
 <re><form>Narré, ée</form>
-<form>.</form>
+<pc>.</pc>
 <form>part</form>
 <pc>.</pc>
 <gramGrp>&amp; adj</gramGrp>
-<form>.</form>
-<form>Un fait bien narré</form>
 <pc>.</pc>
-<def>Une avanture bien narrée. Ablan</def>
+<def>Un fait bien narré. Une avanture bien narrée. Ablan</def>
 </re>
 <pc>.</pc>
-
-<sense>
-<form>NAaRVAL. s. m</form>
+</entry>
+ 
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>NARWAL</orth>    
+</form>    
+<gramGrp>
+<pos>s</pos>    
 <pc>.</pc>
+<gen>m</gen>
+</gramGrp>   
+<pc>.</pc>
+</form>
+    
+<sense>
 <def>Gros poisson qu'on troure dans les mers d'islande, qui porte en sa partie anterieure une longue corne, que plusieurs croyent être ce que l'on appelle corne de licorne</def>
 <pc>.</pc>
-<xr>Voyez Licorne</xr>
+<xr>Voyez <ref>Licorne</ref></xr>    
 <pc>.</pc></sense>
 </entry>
+    
 </div>
 <div>
 <head>NAS<pc>.</pc></head>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>NASARD</orth>
@@ -8222,10 +8231,29 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
 <pc>.</pc>
 
 <sense>
-<def>Ouvrier qui fait &amp; vend de la natte. Le metier des Nattiers étoit fort bon autrefois : mais il ne vaut plus rien, depuis que le luxe a introduit les tapisseries au lieu de la natte. les privileges des habitans naturels des regnicoles. On n'herite point de parens qui ne sont point naturalisez, leur succession est une aubaine qui appartient au Roi</def>
+<def>Ouvrier qui fait &amp; vend de la natte. Le metier des Nattiers étoit fort bon autrefois : mais il ne vaut plus rien, depuis que le luxe a introduit les tapisseries au lieu de la natte</def>
 </sense>
 <pc>.</pc>
+</entry>
+ 
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>NATURALISER</orth>
+</form>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+<pc>.</pc>
+</form>
 
+<sense>
+    <def>Accorder à un étranger les privileges des habitans naturels des regnicoles. On n'herite point de parens qui ne sont point naturalisez, leur succession est une aubaine qui appartient au Roi</def>    
+</sense>
+<pc>.</pc>
+    
 <sense>
 <def>On le dit figurément des mots &amp; des phrises. L'usage a natralisé plusieurs mots Latins, Italiens, &amp; Espagnols. Ce mot exprime bien ce qu'on lui fait signiter, desorte qu'on n'aura pas de peine à le naturaliser. Vaug. Rem</def>
 </sense>
@@ -8411,19 +8439,31 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
 <def>se dit proverbialement en ces phrases. Il est bien âne de nature, qui ne sçauroit lire son écriture. On dit aussi, que l'accoutumance est une autre nature ; que nourriture passe nature ; pour dire, que l'éducation change le naturel de l'homme. On dit aussi, qu'un homme est ennemi de mature, quand il se plaît à faire du mal à soi &amp; à autrui, quand il condamne toutes sortes de divertissemens. On dit aussi, quand un poltron va dans les occasions dangereuses, que nature patit. On dit aussi, que Dieu &amp; la nature ne font rien en vain ; pour dire, qu'il n'y a rien dans le monde qui ne puisse servir à quelque chose. On dit aussi ironiquement, Faire un grand effort de nature ; pour dire, Faire une chose assez facile, mais peu volontiers</def>
 </sense>
 <pc>.</pc>
-
-<re><form>NAaTUREL, elle</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Qui concerne la nature</form>
-<pc>:</pc>
-<def>qui apprtient à la nature : qui vient d'un principe de nature : qui est conforme à l'ordre &amp; au cours ordinaire de la nature. On a vécu long temps selon la loi naturelle. Par la loi naturelle tout ce qui plaît est permis. Oe. M. Il y a un Droit natarel. Voyez Droit. L'histoire naturelle de Pline parle de tous les corps naturels. Les lumieres naturelles, les forces naturelles. Le peché a corrompu les facultez morales, &amp; nullement les facultez naturelles. La chaleur naturelle est ce qui entretient la vie des animaux. Les miracles sont des effets qui ne peuvent être produits par des causes naturelles ; mais par la toute-puissance de Dieu. On dit à-peu-près dans le même sens, qu'une chose n'est pas naturelle ; pour dire, qu'elle est hors de l'usage commun, &amp; qu'elle n'arrive pas d'ordinaire</def>
-</re>
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>NAaTUREL</orth>
+</form>
+<pc>,</pc>
+<form type="inflected">
+<orth type="part">elle</orth>    
+</form>  
 <pc>.</pc>
+<gramGrp>
+<pos>adj</pos>
+</gramGrp>
+<pc>.</pc>
+</form>
 
 <sense>
-<form>Naturl</form>
+<def>Qui concerne la nature: qui apprtient à la nature : qui vient d'un principe de nature : qui est conforme à l'ordre &amp; au cours ordinaire de la nature. On a vécu long temps selon la loi naturelle. Par la loi naturelle tout ce qui plaît est permis. Oe. M. Il y a un Droit natarel. Voyez Droit. L'histoire naturelle de Pline parle de tous les corps naturels. Les lumieres naturelles, les forces naturelles. Le peché a corrompu les facultez morales, &amp; nullement les facultez naturelles. La chaleur naturelle est ce qui entretient la vie des animaux. Les miracles sont des effets qui ne peuvent être produits par des causes naturelles ; mais par la toute-puissance de Dieu. On dit à-peu-près dans le même sens, qu'une chose n'est pas naturelle ; pour dire, qu'elle est hors de l'usage commun, &amp; qu'elle n'arrive pas d'ordinaire</def>
+<pc>.</pc>
+</sense>
+    
+<sense>
+<form>Naturel</form>
 <pc>,</pc>
 <def>se dit aussi de ce qui est produit ordimairement par la nature, &amp; est opposé à factice &amp; à conbre-fait. Presque toutes les drogues, comme le Lorax, le cinnabre, le baume, qui ont leurs mines, ou leurs sources naturelles, sont contrefaites par les Droguistes. On a trouvé l'invention de faire des perruques de cheveux vifs qui paroissent des cheveux naturels. La Magie naturelle est celle qui ne se sert que des causes naturelles. On dit aussi qu'il n'est pas naturel de perdre toujours contre un même homme ; pour dire, qu'on soupçonne qu'il y a de la supercheTie</def>
 </sense>
@@ -8478,17 +8518,15 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
 </sense>
 <pc>.</pc>
 
-<re><form>Naturel</form>
-<form>,</form>
-<form>e</form>
-<gramGrp>st aussi substantif, &amp; se dit de toutes les qualitez</gramGrp>
+<sense>
+<form>Naturel</form>
 <pc>,</pc>
-<def>&amp; des proprietez que la nature a mises dans les corps. C'est le naturel des lions d'être cruels &amp; farouches. C'est le naturel des cerfs &amp; des moutons d'être craintifs. C'est le naturel des aulnes, des peupliers, de venir près des eaux ; celui des chênes &amp; des sapins, de venir sur des montagnes</def>
-</re>
+<def>est aussi substantif, &amp; se dit de toutes les qualitez, &amp; des proprietez que la nature a mises dans les corps. C'est le naturel des lions d'être cruels &amp; farouches. C'est le naturel des cerfs &amp; des moutons d'être craintifs. C'est le naturel des aulnes, des peupliers, de venir près des eaux ; celui des chênes &amp; des sapins, de venir sur des montagnes</def>
+</sense>
 <pc>.</pc>
 
 <sense>
-<form>Natueel</form>
+<form>Natuerel</form>
 <pc>,</pc>
 <def>se dit aussi en l'homme, de la complexion, de l'humeur, du temperament ; des dispositions, du talent qu'on a à faire quelque chose. Neron étoit d'un naturel cruel, &amp; farouche ; Socrate avoit un naturel doux, &amp; traitable. Les mauvaises compagnies ont gâté le bon naturel de ce jeune homme. Il faut cultiver le naturel, quand on l'a beau. Ablan. Son heureux naturel ne laissa presque rien à faire à l'éducation. Fl. En toutes sortes de climats la nature se plaît à produire des natureli riches, qu'elle instruit, &amp; dresse ellemême, &amp; à qui elle donne sans étude, toures les lumieres necessaires. Voi. Sans la lecture le plus beau naturel est ordinairement sec &amp; sterile. St. Ev. Le naturel sauvage des anciens Romains produisit assez long temps des vertus mal entenduës. Id. Je me suis fait un plaisir de cultiver un beau naturel, que le hazard offre à mes soins, &amp; que des considerations d'mitié m'obligent à ne pas laisser sterile. Vill. Ce n'est pas un mediocre plaisir que de se laisser conduire LLL III à son à son uaturel. Le Ch. de M. Il y a des naturels si declarez, &amp; dont le panchant est si rapide vers le mal, qu'il est impossible de les corriger. De Langlade. Le naturel ardent de Mr. le Prince l'a fait croire impetueux dans les combats. St. Ev. Le plus beau naturel est peu de chose à moins qu'on n'ait soin de le perfectionner. Le Ch. de M. Une éducation excellente avec un naturel mediocre est preferable au plus riche naturel du monde avec une éducation ordinaire. Ab. de S. R. On n'étudie pas assez son naturel, &amp; on le contraint en le forçant à prendre des manieres qui ne lui conviennent pas. Le P. Ra. Bien des gens s'éloignent de leur naturel, &amp; se defigurent pour plaire. Bell</def>
 </sense>
@@ -8512,9 +8550,11 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
 <pc>.</pc>
 
 <sense>
-<def>Dn dit aussi, qu'un homme est naturel, lorsqu'il est sincere, naïf, &amp; qu'il n'y a aucune affectation en sa maniere d'agir. C'étoit la femme la plus naturelle &amp; la plus emportée du monde. B. Rab. u naturel, se dit adverbialement, en parlant des portraits. Ce Peintre l'a peint au naturel, il a bien atrappé sa ressemblance. Ceci se dit aussi des descriptions poëtiques, &amp; oratoires. Vous avez representé son caractere au naturel</def>
-<pc>.</pc></sense>
+<def>On dit aussi, qu'un homme est naturel, lorsqu'il est sincere, naïf, &amp; qu'il n'y a aucune affectation en sa maniere d'agir. C'étoit la femme la plus naturelle &amp; la plus emportée du monde. B. Rab. u naturel, se dit adverbialement, en parlant des portraits. Ce Peintre l'a peint au naturel, il a bien atrappé sa ressemblance. Ceci se dit aussi des descriptions poëtiques, &amp; oratoires. Vous avez representé son caractere au naturel</def>
+<pc>.</pc>
+</sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>NATURELLEMENT</orth>
@@ -8549,7 +8589,7 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
 <head>NAU<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>pAU</orth>
+<orth>NAU</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -9198,11 +9238,7 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
 <head>NE<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>NE</orth>
-</form>
-<pc>,</pc>
-<form type="lemma">
-<orth>NI</orth>
+<orth>NE, NI</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -9211,6 +9247,7 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
 <def>Conjonctions &amp; particules negatives qui se mettent toujours devant les verbes. Je n'aime point. Il ne s'en ira de huit jours. Il ne vaut tien. Il n'est ni beau, ni honnête de faire telle chose. Il ne faut point ôter la negative ne dans une interrogation. N'ont-ils pas fait ? est plus regulier que, ont-ils pas fait ? que Vaugelas a preferé. Mrs. de l'Ac. Je ne l'aime ni ne l'estime : c'est ainsi qu'on parle. Le i est cause qu'on retranche le pas, où le point élegamment. Bou. On ne doit jamais mettre le ni devant la seconde épithete, ou le second adjectif d'une proposition negative, quand cette seconde épithete est synonyme à la premiere. Il n'est point de memoire d'un plus rude &amp; plus furieux combat. Comme rude &amp; furieux sont synonymes le ni nl'est point necessaire. Mais quand les épithetes sont tout-à-fait differentes, il faut mettre le ni. Il n'y eut. jamais de Capitaine plus vaillant ni plus sage. Car sage &amp; vaillant sont deux choses bien differentes. Vau. Ne plus ne moins. Je ne suis pas de l'avls de Mr. de Vaugelas ; Ne plus ne moins sent le vieux. Men. Ni plus ni moins en termes de comparaison ne valent guere mieux : aucun bon Ecrivain ne s'en sert. Corn. Moliere voulant representer un jeune homme sortant du college, lui fait dire : ne plu ne moins que la statuë de Memnon, &amp;c</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>NE</orth>
@@ -9391,36 +9428,44 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
 <def>est communément opposé à librement. Les hommes s'imaginent agir librement, &amp; ils agissent necessairement. Dieu est juste necessairemens, &amp; pourtant librement. Voilà une contradiction dans les termes</def>
 </sense>
 <pc>.</pc>
-
-<re><form>NECESSItaNT</form>
-<form>,</form>
-<form>ante</form>
-<pc>.</pc>
-<gramGrp>adj</gramGrp>
-<form>.</form>
-<form>Qui fore</form>
-<pc>,</pc>
-<def>qui contraint, qui necessite. Les Theologiens appellent grâce necessitante, celle qui contraint, &amp; qui mine la liberté</def>
-</re>
-<pc>.</pc>
-
-<sense>
-<def>Les disciples de Jansenius l'opposent à la grace efficace, comme si la derniere compatissoit mieux avec le libre arbitre. L'une, disent-ils, nous fait vouloir, &amp; l'autre nous force. Necessitant se dit encore en cette phrase, De necessité neceitante ; dire, de necessité absoluë, &amp; indispensable. est de necessité necesitante que je fasse une telle chose</def>
-</sense>
-<pc>.</pc>
-
-<re><form>NECESSItÉ</form>
-<form>.</form>
-<form>s</form>
-</re>
+</entry>
+        
+<entry>
 <form type="lemmaGrp">
-<pc>.</pc>
-<gramGrp>
-<gen>f</gen>
-</gramGrp>
+<form type="lemma">
+<orth>NECESSITANT</orth>
+</form>
+<pc>,</pc>
+<form type="inflected">
+<orth type="part">ante</orth>
 </form>
 <pc>.</pc>
+<gramGrp>
+<pos>adj</pos>
+</gramGrp>
+<pc>.</pc>
+</form>
 
+<sense>
+<def>Qui force, qui contraint, qui necessite. Les Theologiens appellent grâce necessitante, celle qui contraint, &amp; qui mine la liberté. Les disciples de Jansenius l'opposent à la grace efficace, comme si la derniere compatissoit mieux avec le libre arbitre. L'une, disent-ils, nous fait vouloir, &amp; l'autre nous force. Necessitant se dit encore en cette phrase, De necessité neceitante ; dire, de necessité absoluë, &amp; indispensable. est de necessité necesitante que je fasse une telle chose</def>
+</sense>
+<pc>.</pc>    
+</entry>
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>NECESSITÉ</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>f</gen>
+</gramGrp>
+<pc>.</pc>
+</form>
+    
 <sense>
 <def>Ce qui se fait par des causes necessaires, &amp; qu'on ne peut éviter ; puissance à laquelle on ne peut resister. Le Manichéen renonçant à son libre arbitre, se persuade que c'est une fatale necessité qui entraîne nos volontez ou à l'amour, ou à la haine ; &amp; quelque crime qu'il commette, il s'estime plus malheureux ; mais il ne s'estime pas moins innocent, parcequ'il suit sa destinée. Fl. La grâce effiace est un juste milieu entre la netessité de Calvin, &amp; l'indifference de Molina. Port-R. On ne conçoit pas bien que la necessité qui decoule des decrets de Dieu, &amp; qui rend les évenemens necessaires, &amp; inevitables, puisse être conciliée avec la liberté. Bay. On confond d'ordinaire la necessité avec la contrainte : cependant en Dieu la necessite d'être juste n'est point une contrainte, c'est une perfection de son être. La necessité de mourir faisoit toute la constance des Philosophes. La Roch. Le concours de Dieu dans toutes nos actions impose une espece de necesité à la volonté humaine, laquelle est forcée de suivre le mouvement qui lui est imprimé. Payon. Les hommes ne regardent pas volontiers les choses dont l'ancienneté, &amp; la decadence leur remet devant les yeux la neceité inevitable de mourir. Bou. Quoy t la necessité des vertus, ou des vices D'un astre imprieux doit suivre les caprices ? Corn</def>
 </sense>
@@ -9458,6 +9503,7 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
 <def>se dit proverbialement en ces phrases. Il ne faut point multiplier les êtres sans necesité. On dit que la necessité contraint la loi, ou n'a point de loi ; pour dire, qu'on excuse une faute qu'on a été contraint de faire. On dit aussi, faire de necesité vertu ; pour dire, S'évertuer &amp; prendre courage, pour surmonter les assauts de la fortune. On dit aussi, que les avares se font neceité de tout ; pour dire, qu'ils ne se servent pas de leur bien. NEcESsSItER. v. act. Contraindre ; obliger ; reduire à la necessité de faire une chose. La volonté agit librement, &amp; n'est jamais necossitée. Il faut avoir l'ame bien noire, pour faire du mal à autrui sans y être neceité. Ils néceitient les plus zêlez d'aquieicer à la paix. La Rochef. Il m a necesité à faire ce que je n'aurois jamais fait</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>NECESSITEUX</orth>
@@ -9474,25 +9520,73 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
 <pc>.</pc>
 
 <sense>
-<def>Indigent ; qui est dans la misere, dans la disexte, dans la pauvreté. Un incendie a rendu ce Gentilhomme si necessiteux, qu'il fait pitié. Il est inouï que les Favoris des Rois soient pauvres &amp; necessiteux. Patru. Reine necessiteuse. Arn. La guerre a desolé un tel païs ; l'a rendu fort necessiteux. Il est expedient de ne point donner les charges à gens necessiteux ; la pauvreté tente trop la vertu. Loyseau. On a traduit le bisognoso d'honore des Italiens, par un necessiteux de gloire. quelques-uns disent Negromancie ou Necromancie. s. f. Art detestable, par lequel on communique avec les Demons, on évoque les morts, &amp; on fait plusieurs choses merveilleuses par la puissance diabolique. La Pythonisse fit paraître l'ame de Samuel à Sauil par l'att de Necromance. Il se prend aussi pour toute sorte de magie en general</def>
+<def>Indigent ; qui est dans la misere, dans la disexte, dans la pauvreté. Un incendie a rendu ce Gentilhomme si necessiteux, qu'il fait pitié. Il est inouï que les Favoris des Rois soient pauvres &amp; necessiteux. Patru. Reine necessiteuse. Arn. La guerre a desolé un tel païs ; l'a rendu fort necessiteux. Il est expedient de ne point donner les charges à gens necessiteux ; la pauvreté tente trop la vertu. Loyseau. On a traduit le bisognoso d'honore des Italiens, par un necessiteux de gloire</def>
 </sense>
 <pc>.</pc>
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>NECROMANCE</orth>
+</form>    
+    <pron>(On prononce negromance &amp; quelques-uns disent Negromancie ou Necromancie</pron>    
+<pc>.</pc>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>f</gen>
+<pc>.</pc>    
+</gramGrp>
+</form>
 
 <sense>
-<def>NECROmANT, ou NEGROMANT. s. m. Ce mot ne se peut dire qu'en riant ; il n'est point assez usité pour l'employer autrement. Il signifie, Sorcier, Magicien</def>
+<def>Art detestable, par lequel on communique avec les Demons, on évoque les morts, &amp; on fait plusieurs choses merveilleuses par la puissance diabolique. La Pythonisse fit paraître l'ame de Samuel à Sauil par l'att de Necromance. Il se prend aussi pour toute sorte de magie en general</def>    
 </sense>
 <pc>.</pc>
+</entry>    
 
-<re><form>NEcromaANTIEN, enne</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Magicien qui communique avec le Diable</form>
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>NECROMANT</orth>
+</form>    
 <pc>,</pc>
-<def>&amp; qui l'invoque pour faire des choses extraordinaires, &amp; sur tout par l'apparition des morts. Il y a bien plus de Charlatans qui abusent le peuple, que de vrais Necromantiens</def>
-<pc>.</pc></re>
+<form type="variant">
+<orth>NEGROMANT</orth>
+</form>    
+<gramGrp>s</gramGrp>    
+<pc>.</pc>
+<gen>m</gen>
+<pc>.</pc>
+</form>
+
+<sense>
+<def>Ce mot ne se peut dire qu'en riant ; il n'est point assez usité pour l'employer autrement. Il signifie, Sorcier, Magicien</def>
+</sense>
+<pc>.</pc>
 </entry>
+    
 <entry><form type="lemmaGrp">
+<form type="lemma">
+<orth>NEcromaANTIEN</orth>
+</form>
+<pc>,</pc>
+<form type="inflected">enne</form>    
+<gramGrp>
+<pos>adj</pos>
+<pc>.</pc>
+</gramGrp>
+</form>
+    
+<sense>
+<def>Magicien qui communique avec le Diable, &amp; qui l'invoque pour faire des choses extraordinaires, &amp; sur tout par l'apparition des morts. Il y a bien plus de Charlatans qui abusent le peuple, que de vrais Necromantiens</def>
+<pc>.</pc>
+</sense>
+</entry>
+
+<entry>
+<form type="lemmaGrp">
 <form type="lemma">
 <orth>NECTAR</orth>
 </form>
@@ -9614,9 +9708,27 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
 <sense>
 <form>Neffles</form>
 <pc>,</pc>
-<def>se dit proverbialement en cette phrase. Avec le temps &amp; la paille les neffles meurissent ; pour dire, qu'il faut executer les choses avec constance &amp; avec patience NEFFLIER. s. m. Arbre qui porte des neffles. Le nefflier est de mediocre grandeur : ses feuilles sont faites à-peu-près comme celles du laurier : ses fleurs sont grandes, à plusieurs feuilles, disposées en rose, de couleur blanche, ou rouge. Son fruit est gros comme une petite pomme, prelque rond, rougeâtre quand il est meur, charnu : il est appellé mespilum en Latin, &amp; nefle en François. En Latin mespilus germanica folio laurino non serrato, sive mespilus sylvestris, C. Bauh. Les nefles sont astringentes, propres pour arrêter les cours de ventre &amp; le vomissement. On met les nefles sur de la paille pour les faire meurir. Il y a plusieurs autres especes de neffier</def>
+<def>se dit proverbialement en cette phrase. Avec le temps &amp; la paille les neffles meurissent ; pour dire, qu'il faut executer les choses avec constance &amp; avec patience</def>
 <pc>.</pc></sense>
 </entry>
+  
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>NEFFLIER</orth>
+</form>    
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m</gen>    
+</gramGrp>
+<pc>.</pc>
+</form>
+
+<sense>
+<def>Arbre qui porte des neffles. Le nefflier est de mediocre grandeur : ses feuilles sont faites à-peu-près comme celles du laurier : ses fleurs sont grandes, à plusieurs feuilles, disposées en rose, de couleur blanche, ou rouge. Son fruit est gros comme une petite pomme, prelque rond, rougeâtre quand il est meur, charnu : il est appellé mespilum en Latin, &amp; nefle en François. En Latin mespilus germanica folio laurino non serrato, sive mespilus sylvestris, C. Bauh. Les nefles sont astringentes, propres pour arrêter les cours de ventre &amp; le vomissement. On met les nefles sur de la paille pour les faire meurir. Il y a plusieurs autres especes de neffier</def>    
+</sense>
+</entry>  
 </div>
 <div>
 <head>NEG<pc>.</pc></head>
@@ -11167,18 +11279,27 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
 <def>Il se dit aussi de la neuviéme partie d'un tout. J'ai un neuviéme dans cette affaire. J'y suis pour un neuviéme</def>
 </sense>
 <pc>.</pc>
-
-<re><form>NEUvIESMEMENT, ou NEuvIeME</form>
-<form>-</form>
-<form>MENT</form>
-<pc>.</pc>
-<gramGrp>adv</gramGrp>
-<form>.</form>
-<form>En neuviéme lieu</form>
-<pc>;</pc>
-<def>la neuviéme raison</def>
-<pc>.</pc></re>
 </entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma">NEUvIESMEMENT</form>
+<pc>,</pc>
+<form type="variant">ou
+<orth>NEuvIeMENT</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>adv</pos>
+</gramGrp>
+<pc>.</pc>
+</form>
+    
+<sense>    
+<def>En neuviéme lieu; la neuviéme raison</def>
+<pc>.</pc>
+</sense>
+</entry>
+
 </div>
 <div>
 <head>NEZ<pc>.</pc></head>
@@ -11531,26 +11652,8 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
 <pc>.</pc>
 
 <sense>
-<def>Se retirer en quelque lieu, y faire son nid. Les oiseaux se nichent dans les creux des arbres</def>
+    <def>Se retirer en quelque lieu, y faire son nid. Les oiseaux se nichent dans les creux des arbres. Là, sur de vieux qprès deouillez de verdure, Nichent tous les oiseaux de malheureux augure. Cerisy</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>NIC</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>NID</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<form>Là</form>
-<pc>,</pc>
-<def>sur de vieux qprès deouillez de verdure, Nichent tous les oiseaux de malheureux augure. Cerist</def>
-</sense>
-<pc>.</pc>
 
 <etym>
 <lbl>Ce mot vient de</lbl>
@@ -11586,6 +11689,7 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
 <gramGrp>pass. &amp; adj</gramGrp>
 <pc>.</pc></re>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>NICHOIR</orth>
@@ -11799,18 +11903,54 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
 Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle 'est tout corrompu &amp; noir au dedans, &amp; se reduit en poudre. On ne fait point d'état au marché des blez niellez</re>
 <pc>.</pc>
 </entry>
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>NIER</orth>
+</form>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<gen>act</gen>
+</gramGrp>
+<pc>.</pc>
+</form>
+    
+<sense>
+<def>Contester une proposition ; n'en pas demeurer d'accord ; la soutenir fausse. Il a accordé la majeure, &amp; nié la mineure de cet argument. Il ne faut pas disputer contre ceux qui nient les principes. Nier cette verité, c'est nier qu'il est jour en plein midi. Les Epicuriens nioient la Providence divine. PASC. Il est bon quelquefois que l'on nie ; car il n'y a rien de plus ennuyeux en conversation que les gens qui accordent tout. MONT. Epicure posoit des Dieux dans les termes, &amp; les nioit dans le fond. NIC. La deffence d'un accusé consiste à sçavoir bien nier, à nier tout à plat le crime dont on l'accuse</def>
+</sense>
+<pc>.</pc>
+
+<sense>
+<form>Nier</form>
+<pc>,</pc>
+<def>se dit des choses aussi bien que des paroles. Cet homme a nié sa dette, a nié sa promesse, sa signature</def>    
+</sense>
+<pc>.</pc>
+    
+<sense>
+<form>Nier</form>
+<pc>,</pc>
+<def>signifie aussi, Refuter. Il a nié l'aumône, la charité à ce pauvre. Ce pere est barbare, il nie les alimens à son fils. Cet Amant se plaint que la Maîtresse lui nie jusq'à la moindre faveur</def>    
+<pc>.</pc>
+<usg>On doute fort de l'usage de ce mot en ce sens : on ne le trouve ni dans l'Academie, ni dans aucun Auteur que nous ayons pu consulter</usg>    
+</sense>
+<pc>.</pc>    
+</entry>
 </div>
-          <div>
-              <head>NIG<pc>.</pc></head>
-              <entry>
-                  <form type="lemmaGrp">
-                      <form type="lemma">NIGAUD</form>
-                      <pc>,</pc>
-                      <form type="inflected">aude</form>
-                      <pc>.</pc>
-                  </form>
-                  <gramGrp>
-                      <pos>adj</pos>
+<div>
+<head>NIG<pc>.</pc></head>
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>NIGAUD</orth>
+</form>
+<pc>,</pc>
+<form type="inflected">aude</form>
+<pc>.</pc>
+</form>
+<gramGrp>
+<pos>adj</pos>
                       <pc>.</pc>
                       <lbl>&amp;</lbl>
                       <pos>subst</pos>
@@ -13166,7 +13306,7 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
 <entry>
     <form type="lemmaGrp">
 <form type="lemma">
-<orth>NOLI ME TANGERE.</orth>
+<orth>NOLI ME TANGERE</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -13427,27 +13567,16 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
 <pc>.</pc>
 
 <re><form>Nombre pair</form>
-<form>,</form>
-<form>e</form>
-<def>st celui qui se peut diviser en deux parties égales. Tout nombre pair multiplié par un nombre pair fait un nombre pair. Nombre impair, qui ne se peut diviser également sans fraction, qui est plus grand d'une unité que le pair. La somme de deux nombres impairs fait un nombre pair. Nombre pairement pair, est celui qu'un nombre pair mesure par un nombre pair, comme deux fois quatre c'est huit, ce huit est un nombre pairement pair. Nombre pairement impair, celui qu'un nombre pair mesure par un nombre impair. Quatre multiplié par cinq fait 20. nombre pairement impair</def>
+<pc>,</pc>
+<def>est celui qui se peut diviser en deux parties égales. Tout nombre pair multiplié par un nombre pair fait un nombre pair. Nombre impair, qui ne se peut diviser également sans fraction, qui est plus grand d'une unité que le pair. La somme de deux nombres impairs fait un nombre pair. Nombre pairement pair, est celui qu'un nombre pair mesure par un nombre pair, comme deux fois quatre c'est huit, ce huit est un nombre pairement pair. Nombre pairement impair, celui qu'un nombre pair mesure par un nombre impair. Quatre multiplié par cinq fait 20. nombre pairement impair</def>
 </re>
 <pc>.</pc>
 
-<sense>
-<def>Nombre premier, ou primitif, est celui qui ne peut être mesuré que par la seule unité, comme 19</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>29</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>dans la division duquel en quelque partie qu'on le divise, il reste toujours une unité. Ces nombres ne peuvent être produits, ni par multiplication, ni par division</def>
-</sense>
-<pc>.</pc>
+<re>
+<form>Nombre premier, ou primitif</form>
+<pc>,</pc>
+<def>est celui qui ne peut être mesuré que par la seule unité, comme 19. 29.dans la division duquel en quelque partie qu'on le divise, il reste toujours une unité. Ces nombres ne peuvent être produits, ni par multiplication, ni par division</def>
+</re>
 
 <re><form>Nombre composé</form>
 <form>,</form>
@@ -13463,33 +13592,34 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
 </re>
 <pc>.</pc>
 
-<sense>
-<def>Nomuresourd, ou irrationnel, est un nombre qui n'a pas de proportion avec un autre. Nombres cosiques. Terme d'Algebre. Ce sont les diverses puissances d'un nombre multiplié plusieurs fois, par lui-même. Racine quarré, cubique, quarré de quarré, cube cubique, &amp;c. sont des cofiques</def>
-</sense>
+<re>
+<form>Nombre sourd, ou irrationnel</form>
+<pc>,</pc>
+<def>est un nombre qui n'a pas de proportion avec un autre. Nombres cosiques. Terme d'Algebre. Ce sont les diverses puissances d'un nombre multiplié plusieurs fois, par lui-même. Racine quarré, cubique, quarré de quarré, cube cubique, &amp;c. sont des cofiques</def>
+</re>
 <pc>.</pc>
 
 <re><form>Nombre entier</form>
-<form>,</form>
-<form>e</form>
-<def>st celui qui n'est point divisé, qui est sans fraction. Comme 1. 2</def>
+<pc>,</pc>
+<def>est celui qui n'est point divisé, qui est sans fraction. Comme 1. 2</def>
 </re>
 <pc>.</pc>
 
 <re><form>Nombre rompu</form>
-<form>,</form>
-<form>c</form>
-<pc>'</pc>
-<def>est un nombre divisé en plusieurs parties ou fractions, qu'on écrit avec deux rangs de chiffres, divisez par une barre, dont celui de desseus est le Numerateur, celui de dessous le denominateur. signifie un demi, polygone un tiers</def>
+<pc>,</pc>
+<def>c'est un nombre divisé en plusieurs parties ou fractions, qu'on écrit avec deux rangs de chiffres, divisez par une barre, dont celui de desseus est le Numerateur, celui de dessous le denominateur. signifie un demi, polygone un tiers</def>
 </re>
 <pc>.</pc>
 
-<sense>
-<def>Nombre polygone, en termes d'Algebre, signifie un nombre à plusieurs angles, qui se forme par des nombres en progression arithmetique ou égale ; en telle sorte que s'ils étoient arrangez &amp; marquez en points, ils seroient une figure à plusieurs angles ; par exemple, si on marque un point en haut &amp; deux en bas, cela fera un triangle, &amp; le nombre de trois fera un trigone. Si on marque deux en haut, &amp; deux en bas, cela fera un quadrangle ou nombre quarré, qui sera quatre. Ce qui arrive, quand la progression va seulement par un ou deux, mais si la difference des nombres est de trois, elle fera un pentagone ; si elle est de quatre, un hexagone, si elle est de cinq, un eptagone, &amp; ainsi du reste</def>
+<re>
+<form>Nombre polygone</form>
+<pc>,</pc>
+<usg>en termes d'Algebre</usg>
+<pc>,</pc>
+<def>signifie un nombre à plusieurs angles, qui se forme par des nombres en progression arithmetique ou égale ; en telle sorte que s'ils étoient arrangez &amp; marquez en points, ils seroient une figure à plusieurs angles ; par exemple, si on marque un point en haut &amp; deux en bas, cela fera un triangle, &amp; le nombre de trois fera un trigone. Si on marque deux en haut, &amp; deux en bas, cela fera un quadrangle ou nombre quarré, qui sera quatre. Ce qui arrive, quand la progression va seulement par un ou deux, mais si la difference des nombres est de trois, elle fera un pentagone ; si elle est de quatre, un hexagone, si elle est de cinq, un eptagone, &amp; ainsi du reste</def>
 <pc>.</pc>
-<xr>Voyez l'Algebre de Mr</xr>
-<pc>.</pc>
-<def>Prestet, où les proprietez de ces nombres sont bien expliquées</def>
-</sense>
+    <note>Voyez l'Algebre de Mr. Prestet, où les proprietez de ces nombres sont bien expliquées</note>
+</re>
 <pc>.</pc>
 
 <sense>
@@ -13768,7 +13898,7 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>FOMMER</orth>
+<orth>NOMMER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -15251,22 +15381,26 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
 <def>On appelle aussi en termes de Blason, des troncs &amp; brinches d'arbres noueux, quand ils sont representez pleins de noeuds &amp; d'inegalitez. On les appelle autrement écot, ou bastons à noeuds</def>
 </sense>
 <pc>.</pc>
-
-<re><form>NOVICl</form>
-<form>.</form>
-<form>adj</form>
+</entry>
+              
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>NOVICE</orth>
+</form>
+<gramGrp>
+<pos>adj &amp; s</pos>
 <pc>.</pc>
-<def>&amp; s. m</def>
-<form>.</form>
-<form>&amp; f</form>
-<pc>.</pc>
-<def>Qui n'est pas encore fort experimenté en un art, en une profession ; qui est nouveau &amp; peu exercé en quelque chose que ce soit</def>
-</re>
+<gen>m &amp; f</gen>
+</gramGrp>
+</form>
 <pc>.</pc>
 
 <sense>
-<def>Dans l'ancienne milice Romaine on appelloit novices, les jeunes, ou les nouveaux soldats. Dans les Ordres de Chevalerie il y avoit des novices, ou Clercs d'armes, qui faisoient leur apprentissage avant que d'être reçus Chevaliers. Ce Capitaine qui s'est laissé battre est bien novice au metier de la guerre, il a fait un tour de norice. Cet Avocat est novice en sa profession. Ce Provincial est encore novice à la Cour, il n'a pas pris l'air du monde. Et d'où Diable êtes-vous pour être si novice ? En amour les novices sont maîtres. La femme que vous me donnez n'est pas novice Dieu merci : elle a de l'experience. G. G. Les vieux soldats de Philippe étoient novices aux voluptez. Vaug. C'est un franc novice. Scar. Esprit novice. Ablan. Guillaume enfant de choeur prête sa main novice. Boil</def>
+<def>Qui n'est pas encore fort experimenté en un art, en une profession ; qui est nouveau &amp; peu exercé en quelque chose que ce soit</def>
 </sense>
+<pc>.</pc>    
+<note>Dans l'ancienne milice Romaine on appelloit novices, les jeunes, ou les nouveaux soldats. Dans les Ordres de Chevalerie il y avoit des novices, ou Clercs d'armes, qui faisoient leur apprentissage avant que d'être reçus Chevaliers. Ce Capitaine qui s'est laissé battre est bien novice au metier de la guerre, il a fait un tour de norice. Cet Avocat est novice en sa profession. Ce Provincial est encore novice à la Cour, il n'a pas pris l'air du monde. Et d'où Diable êtes-vous pour être si novice ? En amour les novices sont maîtres. La femme que vous me donnez n'est pas novice Dieu merci : elle a de l'experience. G. G. Les vieux soldats de Philippe étoient novices aux voluptez. Vaug. C'est un franc novice. Scar. Esprit novice. Ablan. Guillaume enfant de choeur prête sa main novice. Boil</note>    
 <pc>.</pc>
 
 <sense>
@@ -15275,6 +15409,7 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
 <def>est aussi un Religieux, ou Religieuse qui est encore dans son année de probation ; qui n'a pas encore fait ses voeux. Mais en ce sens il est plus ordinairement substantif. Le Sous-Prieur dans les Couvens est le Maître des Novices. Les Noices sont aux basses chaises. Les Religieuses Novices portent le voile blanc, les Professes le noir. Un Novice n'est point censé mort civilement : il est capable de succeder jusqu'à la profession actuelle. Ses Benefices ne peuvent être non plus impetrez pendant son année de probation, sans son consentement. Le Concile de Trente ne permet au Novice de resigner ses Benefices que deux mois avant sa profession : &amp; il les peut même reprendre si la profession est nulle. Un Nonice ne peut faire aucune donation à son Superieur, à cause de la dependance où il est à son égard</def>
 <pc>.</pc></sense>
 </entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>NOVICIAT</orth>
@@ -15968,24 +16103,11 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
 <sense>
 <def>Arbre qui porte des noix. Il est rand, beau &amp; fort rameux. Ses feuilles sont granles, larges, vertes, d'une odeur forte. Ses fleurs sont des chatons, longs, pendans, composez de plusieurs feuilles rangées en ecailles autour d'un poinçon, de couleur jaunâtre. Ses fruits naissent sur le même pied qui porte les chatons, mais dans des endroits separez : ils sont couverts d'une écorce charnuë, verte, sous laquelle se trouve la coquille ligneuse &amp; dure : on les appelle noix, en Latin nuces. Sa racine est longue &amp; grosse. On plante des noyers au milieu des terres à blé en plusieurs lieux. En d'autres on'en fait des allées &amp; des avenuës. La racine du bois de noyer est veinée. C'est un bois fort estimé pour faire des meubles, qui se debite en poteaux, planches &amp; membrures</def>
 <pc>.</pc>
-<def>Il sert aussi à monter des armes, à faire des panneaux de carrosse, &amp;c. Quand ses racines ou louppes sont de bon bois, on les couppe par tronçons pour servir aux Ebenistes, ou aux Menuisiers en placage. Les noyers sont sujets à être foudroyez. L'ombre des noyers est mal saine comme celle de l'if, &amp; il fait dangereux de s'y endormir. Le noyer sert aux Teinturiers pour le fauve par plusieurs de ses parties. On employe sa racine, quand elle est tirée en hiver ; l'écorce, lorsque l'arbre est en seve ; la feuille, lorsque les noix ne sont pas bien formées ; &amp; la coque, lorsqu'on en tire le cerneau. En Latin nux juglans, sive regia vulgaris</def>
-<pc>.</pc></sense>
+    <def>Il sert aussi à monter des armes, à faire des panneaux de carrosse, &amp;c. Quand ses racines ou louppes sont de bon bois, on les couppe par tronçons pour servir aux Ebenistes, ou aux Menuisiers en placage. Les noyers sont sujets à être foudroyez. L'ombre des noyers est mal saine comme celle de l'if, &amp; il fait dangereux de s'y endormir. Le noyer sert aux Teinturiers pour le fauve par plusieurs de ses parties. On employe sa racine, quand elle est tirée en hiver ; l'écorce, lorsque l'arbre est en seve ; la feuille, lorsque les noix ne sont pas bien formées ; &amp; la coque, lorsqu'on en tire le cerneau. En Latin nux juglans, sive regia vulgaris. C. Bauh. Il y a d'autres especes de noyer</def>
+<pc>.</pc>
+</sense>
 </entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>C</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>Bauh</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
 
-<sense>
-<def>Il y a d'autres especes de noyer</def>
-<pc>.</pc></sense>
-</entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>NOYER</orth>
@@ -17093,53 +17215,14 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
 <pc>.</pc>
 
 <sense>
-<def>Nom que les Romains donnoient au huit premieres lettres de l'alphabet dans leur calendrier. Cette suitte de S.</def>
+    <def>Nom que les Romains donnoient au huit premieres lettres de l'alphabet dans leur calendrier. Cette suitte de 8. lettres A. B. C. D. E. F. G. H. est posée sans intorruption, &amp; reprise depuis le premier jour de l'année jusqu'au dernier. Il y en avoit toujours une qui marquoit les jours de marché, ou d'assemblée, appellez, nundina, quasi novendina, parcequ'ils revenoient de 9. jours en 9. jours. Les habitans de la campagne après avoir été appliquez à leur travail pendant 8. jours consecutifs, se rendoient à la ville le 9. pour y porter leurs denrées à vendre, &amp; pour s'instruire en même temps de ce qui regardoit la Religion, ou le gouvernement. Ainsi le jour nundinal se trouvant sous la lettre A, au i. au 9. au 17. &amp; au 25. de Janvier, la lettre D, sera la lettre nundinale de l'année suivante. Ces lettres nundinales ont beaucoup de rapport avec la lettre dominicale</def>
 </sense>
-<form type="lemmaGrp">
-<form type="lemma">
-<orth>lettres</orth>
-</form>
-<form type="lemma">
-<orth>A</orth>
-</form>
 <pc>.</pc>
-<form type="lemma">
-<orth>B</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>C</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>D</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>E</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>F</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>G</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>H</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>est posée sans intorruption, &amp; reprise depuis le premier jour de l'année jusqu'au dernier. Il y en avoit toujours une qui marquoit les jours de marché, ou d'assemblée, appellez, nundina, quasi novendina, parcequ'ils revenoient de 9. jours en 9. jours. Les habitans de la campagne après avoir été appliquez à leur travail pendant 8. jours consecutifs, se rendoient à la ville le 9. pour y porter leurs denrées à vendre, &amp; pour s'instruire en même temps de ce qui regardoit la Religion, ou le gouvernement. Ainsi le jour nundinal se trouvant sous la lettre A, au i. au 9. au 17. &amp; au 25. de Janvier, la lettre D, sera la lettre nundinale de l'année suivante. Ces lettres nundinales ont beaucoup de rapport avec la lettre dominicale</def>
-<pc>.</pc></sense>
 </entry>
 </div>
 <div>
 <head>NUP<pc>.</pc></head>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>NUPTIAL</orth>

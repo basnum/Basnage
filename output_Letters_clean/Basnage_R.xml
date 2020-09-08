@@ -2,8 +2,6 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
-<?xml-stylesheet type="text/css" href="teixdicotest.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
         <fileDesc>
@@ -8133,13 +8131,16 @@
 <gramGrp>pass. &amp; adj</gramGrp>
 <form>.</form>
 <form>On dit que</form>
-<def>les feuillets d'un livre sont racorns, quand ils sont repliez par le bout ; qu'un concombre est racorni, quand au lieu d'être droit &amp; de belle venue, il se replie en arc. RACOUSTREMENTou RACOUTRE</def>
+<def>les feuillets d'un livre sont racorns, quand ils sont repliez par le bout ; qu'un concombre est racorni, quand au lieu d'être droit &amp; de belle venue, il se replie en arc</def>
 </re>
 <form type="lemmaGrp">
 <form type="lemma">
-<orth>MENT</orth>
+<orth>RACOUSTREMENT</orth>
 </form>
 <pc>.</pc>
+<form type="variant">ou
+<orth>RACOUTREMENT</orth>
+</form>
 <gramGrp>
 <pos>subst</pos>
 <pc>.</pc>
@@ -8150,8 +8151,10 @@
 
 <sense>
 <def>Action de racoûtrer, de rhabiller, de racommoder quelque habit, ou autre chose semblable</def>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>
 </entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RACOUSTRER</orth>
@@ -8865,16 +8868,47 @@
 </sense>
 <pc>.</pc>
 
-<re><form>Raefermi, ie</form>
-<form>.</form>
-<form>part</form>
+<re><form>Raffermi, ie</form>
 <pc>.</pc>
-<def>pass. &amp; adj RaFFERMISSEMmENT. s</def>
+<gramGrp><pos>part. pass. &amp; adj</pos>part</gramGrp>
+<pc>.</pc>
 </re>
+</entry> 
+    
+<entry> 
+    <form type="lemma">
+        <orth>RAFFERMISSEMmENT</orth></form>
+    <gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m</gen>
+    </gramGrp>
+    <pc>.</pc>
+
 <sense>
-<def>. m. Nouvel affermissement. Le rafserissement de son autorté est venu d'une alliance qu'il a faite avec des gens puissans RAFFINAGE. s. m. C'est un terme particulier qui se dit du suere, quand on l'épure, en le faisant cuire &amp; écouler plusieurs fois dans les sucreries. Il se dit aussi pour signifier du sucre raffiné. Donnez moi du raffinage de Rouëd</def>
-<pc>.</pc></sense>
+<def>Nouvel affermissement. Le rafserissement de son autorté est venu d'une alliance qu'il a faite avec des gens puissans</def>
+<pc>.</pc>
+</sense>
 </entry>
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>RAFFINAGE</orth>    
+</form>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m</gen>    
+</gramGrp>  
+<pc>.</pc>
+</form>
+
+<sense>
+    <def>C'est un terme particulier qui se dit du suere, quand on l'épure, en le faisant cuire &amp; écouler plusieurs fois dans les sucreries. Il se dit aussi pour signifier du sucre raffiné. Donnez moi du raffinage de Rouën</def>    
+</sense>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RAFFINEMENT</orth>
@@ -8937,9 +8971,30 @@
 <sense>
 <form>Raffiné</form>
 <pc>,</pc>
-<def>est aussi quelquefois substantif masculin, &amp; signifie, Entendu, habile. La troupe des raffnez nous releve &amp; nous ravale. Mai. Vous êtes une raffinée. RaFFINEUR, euse adj Qui rafine. Il se dit des gens trop subtils. Tous ces grands raffineur qui ne veulent rien mettre au hazard, ne font jamais d'affaires</def>
+<def>est aussi quelquefois substantif masculin, &amp; signifie, Entendu, habile. La troupe des raffnez nous releve &amp; nous ravale. Mai. Vous êtes une raffinée</def>
 <pc>.</pc></sense>
 </entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma">
+<orth>RaFFINEUR</orth>
+</form>
+<pc>,</pc>
+<form type="inflected">euse</form>
+<gramGrp>
+<pc>.</pc>
+<pos>adj</pos>
+<pc>.</pc>
+</gramGrp>
+</form>
+<pc>.</pc>
+        
+<sense>
+<def>Qui rafine. Il se dit des gens trop subtils. Tous ces grands raffineur qui ne veulent rien mettre au hazard, ne font jamais d'affaires</def>
+<pc>.</pc>
+</sense>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RAFFOLIR</orth>
@@ -9029,7 +9084,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AFRAISCHIR</orth>
+<orth>RAFRAISCHIR</orth>
 </form>
 <pc>,</pc>
 <form type="variant">
@@ -9083,19 +9138,31 @@
 <pc>.</pc>
 
 <re><form>Rafraischi, ée</form>
-<form>.</form>
-<form>part</form>
 <pc>.</pc>
-<def>pass</def>
-<form>.</form>
-<form>RaFRaisChisSaNT, ante</form>
+<gramGrp>    
+<pos>part. pass</pos>
 <pc>.</pc>
-<def>Qui rafraîchit. La laituë, l'oseille, sont des remedes rafraichissans. Les quatre semences froides sont rafraichissantes</def>
-<pc>.</pc></re>
+</gramGrp>
+</re>
 </entry>
+    
+<entry>
+<form type="lemma">
+<orth>RaFRaisChisSaNT</orth>
+</form><pc>,</pc>
+<form type="inflected">
+<orth type="part">ante</orth>    
+</form>
+<pc>.</pc>
+    
+<sense>    
+<def>Qui rafraîchit. La laituë, l'oseille, sont des remedes rafraichissans. Les quatre semences froides sont rafraichissantes</def>
+</sense><pc>.</pc>
+</entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>RAFRAISChISSEMmENT</orth>
+<orth>RAFRAISChISSEMENT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -12630,43 +12697,33 @@
 <def>Rendre une chose plus petito, en ôter, en diminuer. Quand une chose est trop longue, ou trop grande, il eit aisé de la rapetisser, d'en rogner. Le blé rapetisse tous les jours dans le grenier, il se seche, la vermine en mange. Quand il vient un nouvel heritier dans une famille, cela rapetisse la portion des autres. Il n'est pas du beau stile. St. Amant a dit d'un fromage, Fourquoy toûjours rapetissant, De lune devient-il croissant ? Rapetisser. Ce mot est plus noble au figuré. La servitude est une especc de prison, où l'ame decroit, &amp; se rapetisse en quelque sorte. Boil</def>
 </sense>
 <pc>.</pc>
-
-<re><form>RAPIDl</form>
-</re>
+</entry>
+    
+<entry>
 <form type="lemmaGrp">
-<pc>.</pc>
-<gramGrp>
-<pos>adj</pos>
-<pc>.</pc>
-<gen>m</gen>
-<pc>.</pc>
-<gen>&amp;</gen>
-<gen>f</gen>
-</gramGrp>
+<form type="lemma">
+    <orth>RAPIDE</orth>    
 </form>
+<gramGrp>
+<pos>adj</pos> 
 <pc>.</pc>
+<gen>m &amp; f</gen>    
+</gramGrp>
+<pc>.</pc>
+</form>
 
+<sense>
 <etym>
 <lbl>Ce mot vient du</lbl>
 <lang>Latin</lang>
-<foreign>rapi</foreign>
-<pc>-</pc>
-<gloss>dus, &amp; signifie, Qui a un mouvement prompt, vie</gloss>
+<foreign>rapidus</foreign>
 </etym>
-<form type="lemmaGrp">
-<form type="lemma">
-<orth>lent, &amp; impetueux</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>L'Araxe est renommé pour un fleuve fort rapide. Les courans de l'Orient à l'Occident sont si rapides, qu'on ne peut revenir de l'Amerique par le chemin où l'on y est allé. Le vol des aigles est fort rapide. L'astre des cieux dans son rapide tour repand aux mortels sa lumiere. Des-H. Les astres se meuvent avec un mouvement si rapide qu'il n'est pas imaginable. Ces cieux qui dans leur cours mesuré sont si legers &amp; si rapides, &amp;c. God</def>
+    <def>&amp; signifie, Qui a un mouvement prompt, vielent, &amp; impetueux. L'Araxe est renommé pour un fleuve fort rapide. Les courans de l'Orient à l'Occident sont si rapides, qu'on ne peut revenir de l'Amerique par le chemin où l'on y est allé. Le vol des aigles est fort rapide. L'astre des cieux dans son rapide tour repand aux mortels sa lumiere. Des-H. Les astres se meuvent avec un mouvement si rapide qu'il n'est pas imaginable. Ces cieux qui dans leur cours mesuré sont si legers &amp; si rapides, &amp;c. God</def>
 </sense>
 <pc>.</pc>
-
+    
 <sense>
-<form>Rafpide</form>
+<form>Rapide</form>
 <pc>,</pc>
 <def>se dit figurément en choses morales. Le cours des conquêtes d'Alexandre fut fort rapide. Un bon Orateur doit avoir un discours, un stile vehement, &amp; rapide</def>
 </sense>
@@ -12676,6 +12733,7 @@
 <def>Assez d'autres, sans moi, d'un stile moins timide, Suivront aux champs de Mars ton courage rapide. Boil. Momens trop rigoureux Que vous paroissez lents à mes rapides veoeux ! Rac</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RAPIDEMENT</orth>
@@ -13249,17 +13307,24 @@
 <def>est aussi un nom que les Geometres donnent à un petit dem-cercle de corne transparente, divisé en 18. degrez, qui leur sert à tracer des angles de la qualité qu'ils desirent</def>
 </sense>
 <pc>.</pc>
-
-<re><form>RaPPRENDRE</form>
-<form>.</form>
-<form>v</form>
+</entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma">
+    <orth>RAPPRENDRE</orth>
+</form>
 <pc>.</pc>
-<gramGrp>act</gramGrp>
-<form>.</form>
-<form>&amp; redupl</form>
+<gramGrp>    
+<pos>v</pos>
 <pc>.</pc>
+<subc>act &amp; redupl</subc>
+<pc>.</pc>
+</gramGrp>
+</form>
+    
+<sense>
 <def>Je rappren. Je rapprenois. Je rappris. Jai rappris. Je rapprendrai. Que je rapprenne. Que je rapprisse ou rapprendrois</def>
-</re>
+</sense>
 <pc>.</pc>
 
 <sense>
@@ -13274,6 +13339,7 @@
 <gramGrp>pass. &amp; adj</gramGrp>
 <pc>.</pc></re>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RAPPRIVOISER</orth>
@@ -14334,9 +14400,26 @@
 <def>on dit qu'il faut laisser rasseair le temps ; pour dire, qu'il ne faut pas partir si-tôt qu'on voit la serenité, mais attendre qu'il foit assuré, de crainte que l'orage ne recommence</def>
 </sense>
 <pc>.</pc>
-
+</entry>
+    
+<entry> 
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>RaSSIs</orth> 
+</form>    
+<pc>,</pc>  
+<form type="inflected">
+<orth type="part">ise</orth>    
+</form>    `
+<pc>.</pc>
+<gramGrp>
+<pos>adj</pos>    
+<pc>.</pc>    
+</gramGrp> 
+</form>
+    
 <sense>
-<def>RaSSIs, ise. adj. Qui est reposé, épuré. On oppose le pain tendre au pain rassis, qui a eu le loisir de se reposer, de se durcir. Le vin rassis est celui qui est clair &amp; épuré, dont toute la lie est tombée au fond</def>
+<def>Qui est reposé, épuré. On oppose le pain tendre au pain rassis, qui a eu le loisir de se reposer, de se durcir. Le vin rassis est celui qui est clair &amp; épuré, dont toute la lie est tombée au fond</def>
 </sense>
 <pc>.</pc>
 
@@ -14346,7 +14429,8 @@
 <def>se dit aussi en Morale, de ce qui n'est point ému, ni troublé de passion. Parler de sens rassis, c'est parler sagement, &amp; avec connoissance. Avoir l'esprit rassis, c'est-à-dire, être sage ; n'être point étourdi</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RASSIS</orth>
 </form>
@@ -14520,11 +14604,11 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>RASTELE</orth>
+<orth>RASTELE'E</orth>
 </form>
 <pc>,</pc>
 <form type="variant">
-<orth>ou RatELleE</orth>
+<orth>ou RatElE'E</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -15266,20 +15350,9 @@
 <sense>
 <def>Courir après quelcun pour le rejoindre, ou le saisir. Un criminel qui se sauve par la poste est bientôt rattrapé. Il a rattrapé la L-l le au bond. Un courier qui a trois postes d'avance né laisse pas d'être rattrapé par un second</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>RAT</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>RAV</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
-<form>Rattrafee</form>
+<form>Rattraper</form>
 <pc>,</pc>
 <def>signifie aussi, Regagner, reprendre. On avoit enlevé à ce Gentilhomme ses bestiaux, mais il en a rattrapé la meilleure partie. Il a rattrapé aujourd'huy l'argent qu'il avoit perdu hier. Il s'étoit lauvé des mains des Sergens, mais à la fin ils l'ont rattrapé. Ce bon mot étoit échappé de ma memoire, mais enfin je l'ai rattrapé</def>
 </sense>
@@ -15293,12 +15366,11 @@
 <pc>.</pc>
 
 <re><form>Rattrapé, ée</form>
-<form>.</form>
-<form>part</form>
 <pc>.</pc>
-<gramGrp>pass. &amp; adj</gramGrp>
+<gramGrp>part. pass. &amp; adj</gramGrp>
 <pc>.</pc></re>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RATURE</orth>
@@ -15795,7 +15867,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>RAVIN</orth>
+<orth>RAVINE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -15926,12 +15998,30 @@
 <pc>.</pc>
 
 <sense>
-<def>On le dit quelquefois dans le stile familier, &amp; en parlant d'un homme agreable &amp; rejouïssant. Cet homme est ravissant. Il est d'une humeur ravissante. L'Acad. Il se dit aussi quelquefois par mepris, &amp; quand on veut marquer qu'on n'est pas content. Cela est ravissant ; pour dire, est ridicule. RaVISSEMENT. s. m. Enlevement. Le ravissemeut se punit de mort. Le ravissement des Sabines, d'Ariadne</def>
+<def>On le dit quelquefois dans le stile familier, &amp; en parlant d'un homme agreable &amp; rejouïssant. Cet homme est ravissant. Il est d'une humeur ravissante. L'Acad. Il se dit aussi quelquefois par mepris, &amp; quand on veut marquer qu'on n'est pas content. Cela est ravissant ; pour dire, est ridicule</def>
 <pc>.</pc>
-<xr>Voyez Rapt</xr>
 </sense>
-<pc>.</pc>
+</entry>
 
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>RaVISSEMENT</orth>    
+</form>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m</gen>    
+</gramGrp>    
+<pc>.</pc>
+</form>    
+
+<sense>
+<def>Enlevement. Le ravissemeut se punit de mort. Le ravissement des Sabines, d'Ariadne</def>   
+<xr>Voyez Rapt</xr>
+<pc>.</pc>
+</sense>
+    
 <sense>
 <form>Ravissement</form>
 <pc>,</pc>
@@ -16288,19 +16378,11 @@
 <form>Rayeure, ou Enrayeure</form>
 <pc>.</pc>
 <usg>Terme de Charpenterie</usg>
+<pc>.</pc>
+<def>Assemblage de pieces de bois dans un comble au droit des crouppes, ou des nouës</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>As</orth>
-</form>
-</form>
-<pc>s</pc>
-
-<sense>
-<def>emblage de pieces de bois dans un comble au droit des crouppes, ou des nouës</def>
-<pc>.</pc></sense>
-</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RAYNE</orth>
@@ -20110,18 +20192,19 @@
 <def>Femme qui a des Lettres portant permission de tenir une boutique, une espece de bureau d'adresse, où l'on va chercher des Servantes &amp; des Nourrices. Les païsanes qui n'ont point de connoissance s'adressent aux recommendaresses pour trouver condition, ou des nourrissons</def>
 </sense>
 <pc>.</pc>
-
-<re><form>RECOMmMENDATION</form>
-<form>.</form>
-<form>s</form>
-</re>
-<form type="lemmaGrp">
-<pc>.</pc>
-<gramGrp>
-<pos>f</pos>
-</gramGrp>
+</entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma">
+    <orth>RECOMMENDATION</orth>
 </form>
+<gramGrp>
+<pos>s</pos>
 <pc>.</pc>
+<gen>f</gen>    
+</gramGrp>    
+<pc>.</pc>
+</form>    
 
 <sense>
 <def>Exhortation, ou priere, qu'on fait à quelcun pour avoir soin de quelque affaire. On a chargé ce Courier d'un tel paquet avec une forte recommendation de le rendre en diligence</def>
@@ -21074,7 +21157,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>EECORDER</orth>
+<orth>RECORDER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -21383,26 +21466,17 @@
 <pc>.</pc>
 
 <sense>
-<def>Reprendre, retirer, sauver, rattraper ce qui a été pris ou enlevé, soit d'adresse, soit de force. On a pris ce voleur, mais on n'a pu recourre qu'une partie de son vol. Nos gens ont recourru tout le butin &amp; les prisonniers que les ennemis avoient fait. Nôtre vaisseau échoüa, on n'en put recourre qu'une partie des marchandises. Il étoit accouru avec un peu de gens pour recourre le bagage. Vaug. Menage pretend que recourir vaut mieux que vecourre : mais l'Academie ne connoît point recourir dans cette signification. Recourre est le seul qu'elle employe. Il monta à cheval pour recourre le bêtail. L'Acad. Il fut recous d'entre les mains des Sergens. Id. Il a dissipé tout son bien en jeu, en procés, tout ce qu'il en a pu recourre, c'est ce petit fonds dont il vit fort pauvrement. Recous, ousse, ou Recouru, u</def>
+<def>Reprendre, retirer, sauver, rattraper ce qui a été pris ou enlevé, soit d'adresse, soit de force. On a pris ce voleur, mais on n'a pu recourre qu'une partie de son vol. Nos gens ont recourru tout le butin &amp; les prisonniers que les ennemis avoient fait. Nôtre vaisseau échoüa, on n'en put recourre qu'une partie des marchandises. Il étoit accouru avec un peu de gens pour recourre le bagage. Vaug. Menage pretend que recourir vaut mieux que vecourre : mais l'Academie ne connoît point recourir dans cette signification. Recourre est le seul qu'elle employe. Il monta à cheval pour recourre le bêtail. L'Acad. Il fut recous d'entre les mains des Sergens. Id. Il a dissipé tout son bien en jeu, en procés, tout ce qu'il en a pu recourre, c'est ce petit fonds dont il vit fort pauvrement</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>part</orth>
-</form>
-<pc>.</pc>
-<form type="inflected">
-<orth type="part">&amp; adj</orth>
-</form>
-<pc>.</pc>
-<pron>Un prisonnier recous, du butin recous</pron>
-</form>
-<pc>.</pc>
 
-<sense>
-<def>Une femme recouruë d'entre les mains d'un ravisseur. L'Acad</def>
-<pc>.</pc></sense>
+<re>
+    <form>Recous, ousse, ou Recouru, uë</form>    
+<form><gramGrp><pos>part. &amp; adj</pos></gramGrp></form>
+<pc>.</pc>
+    <def>Un prisonnier recous, du butin recous. Une femme recouruë d'entre les mains d'un ravisseur. L'Acad</def>
+</re>
 </entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RECOURS</orth>
@@ -21478,10 +21552,28 @@
 <sense>
 <usg>Terme de Finance</usg>
 <pc>.</pc>
-<def>Qui se peut recouvrer. Deniers, fonds recouvrables, non recouvrables. L'Acad. RECOuUVREMENT. s. m. Action qui retablit en possession d'une chose perduë. On felicite ses amis sur le recouvrement de leur santé. C'est le hazard qui est cause du recouvrement du vol qui lui a été fait</def>
+<def>Qui se peut recouvrer. Deniers, fonds recouvrables, non recouvrables. L'Acad</def>
 </sense>
 <pc>.</pc>
-
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>RECOUVREMENT</orth>    
+</form>   
+<gramGrp>
+<pos>s</pos>   
+<pc>.</pc>
+<gen>m</gen>    
+</gramGrp>  
+<pc>.</pc>
+</form>  
+    
+<sense>
+    <def>Action qui retablit en possession d'une chose perduë. On felicite ses amis sur le recouvrement de leur santé. C'est le hazard qui est cause du recouvrement du vol qui lui a été fait</def>    
+</sense>  
+    
 <sense>
 <form>Recouvrement</form>
 <pc>,</pc>
@@ -21622,7 +21714,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ARECOY</orth>
+<orth>A RECOY</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -21893,35 +21985,39 @@
 <def>Accuser son accusateur. Il n'a guere d'usage qu'en cette phrase, En recriminant. Il a fait informer le dernier ; toute cette procedure est faite en recriminant. Il s'employe aussi dans la conversation. Je ne veux pas chicaner sur ce mot en reriminant. Vaug. Nouv. Rem</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+    
+<entry>
 <form type="lemma">
 <orth>RECRIRE</orth>
 </form>
 <pc>.</pc>
-<form type="variant">
-<orth>Voyez Rescrire</orth>
-</form>
+    <xr>Voyez <ref>Rescrire</ref></xr>
 <pc>.</pc>
-<form type="inflected">
-<orth type="part">REcroiSEt</orth>
-</form>
-<pc>,</pc>
+</entry>
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>REcroiSEté</orth>    
+</form> 
+<pc>,</pc>    
 <form type="inflected">
 <orth type="part">ée</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
-<pos>adj</pos>
+<pos>adj</pos>    
 </gramGrp>
-</form>
 <pc>.</pc>
-
+</form>
+    
 <sense>
 <usg>Terme de Blason</usg>
 <pc>,</pc>
 <def>qui se dit de la croix, lorsqu'à l'extremité de ses branches il y en a une autre petite qui la traverse ; ce qui forme quatre pctites croix, ou croisettes. Il porte d'argent à six croix recroisetées de gueules</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RECROISTRE</orth>
@@ -21942,10 +22038,32 @@
 <pc>.</pc>
 
 <sense>
-<def>Croître de nouveau. La riviere étoit diminuée, mais elle recroit. Ce bois a été couppé il n'y a pas assez long temps, il lui faut donner le loisir de recroîitre. se RECROQUEBILLER. v. n. passif. Terme de Jardinier. Il se dit des feuilles des plantes &amp; des arbres. C'est se ramasser au lieu de s'étendre, &amp; devenir jaunâtres &amp; galeuses. Les feuilles de cet arbre sont toutes recroquebillées. Elles commencent à se recroquebiller. La Quint</def>
+<def>Croître de nouveau. La riviere étoit diminuée, mais elle recroit. Ce bois a été couppé il n'y a pas assez long temps, il lui faut donner le loisir de recroîitre</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>se RECROQUEBILLER</orth>    
+</form>  
+<pc>.</pc>    
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>n. passif</subc>    
+</gramGrp>    
+<pc>.</pc>    
+</form>
+
+<sense>
+    <usg>Terme de Jardinier</usg>
+    <pc>.</pc>
+    <def>Il se dit des feuilles des plantes &amp; des arbres. C'est se ramasser au lieu de s'étendre, &amp; devenir jaunâtres &amp; galeuses. Les feuilles de cet arbre sont toutes recroquebillées. Elles commencent à se recroquebiller. La Quint</def>    
+</sense>
+</entry>
+    
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RECROTTER</orth>
 </form>
@@ -22324,13 +22442,6 @@
 <pc>,</pc>
 <def>se dit figurément en choses morales. Un Avocat, un Medecin, recueillent dans leur vieillesse le fruit des études de leur jeunesse. Ce Conquerant a recucilli le fruit de ses peines, &amp; de ses fatigues, c'est la gloire. Après cette sison de larmes, il en viendra une de joye, &amp; nous recueillirons une grande moisson de gloire Mauc. Il merite qu'on lui fasse recueillir le fruit de sa continence. Vaug. Recueillir le fruit de sa toilette. La Bruy. Après avoir perdu Darius, elles avoient trouvé qui les avoit recueillies. Vaug</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>REC</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
 <def>Pour fruit de mon amour j'aurai le triste empli ; De recueillir des pleurs qui ne sont pas pour moi. Rac</def>
@@ -22639,7 +22750,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ARECULONS</orth>
+<orth>A RECULONS</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -23355,11 +23466,27 @@
 <def>Cas où la redhibition a lieu. L'action redhibitoire tend à obliger celui qui a vendu à reprendre une chose vicieuse. Si on vend un cheval qui a la pousse, la morve, ou la courbature, ce sont des cas redhibitoires, on le peut faire reprendre au vendeur dans les neuf jours</def>
 </sense>
 <pc>.</pc>
-
+</entry>
+    
+<entry>
+<form><orth>REDIFICATION</orth></form> 
+<pc>,</pc>
+<form type="variant">ou
+    <orth>REEDiFICATION</orth>
+    <pc>,</pc>selon l'Academie</form>
+<pc>.</pc>
+    <gramGrp>
+        <pos>subst</pos>
+        <pc>.</pc>
+        <gen>fem</gen>
+    </gramGrp>
+    <pc>.</pc>
+    
 <sense>
-<def>REDIFICaTIOn, ou REEDiFicATION, selon l'Academie. subst. fem. Seconde construction d'un bâtiment. On a quêté par tout pour la redification de l'Eglise qui avoit été brûlée</def>
+<def>Seconde construction d'un bâtiment. On a quêté par tout pour la redification de l'Eglise qui avoit été brûlée</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>REDIFIER</orth>
@@ -25611,16 +25738,30 @@
 <def>est un vaisseau dans lequel on met la chappe, ou la partie superieure de l'alembic pour le retraîchir, &amp; pour faire que les vapeurs qui ont été élevées par le feu, retournent en liqueur, &amp; s'écoulent par le bec. Il est empli d'eau froide qu'on change de temps en temps. Quelquefois on se contente d'un linge mouille</def>
 </sense>
 <pc>.</pc>
-
-<re><form>REFRiGERATIF, ive</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Qui rafraîchit les parties interiures du corps</form>
-<pc>.</pc>
-<def>Il ne se dit que des alimens &amp; medicamens, comme tisanes, lavemens, potions, &amp;c</def>
-<pc>.</pc></re>
 </entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>REFRiGERATIF</orth>    
+</form> 
+<pc>,</pc>, 
+<form type="inflected">
+<orth type="part">ive</orth>
+<pc>.</pc>
+</form>    
+<gramGrp>
+<pos>adj</pos>
+</gramGrp>
+<pc>.</pc>
+</form>
+    
+<sense>
+<def>Qui rafraîchit les parties interiures du corps. Il ne se dit que des alimens &amp; medicamens, comme tisanes, lavemens, potions, &amp;c</def>
+<pc>.</pc>
+</sense>
+</entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>REFRIGERATION</orth>
@@ -27402,15 +27543,30 @@
 <def>est une petite bande, étroite, ou petite moulure platte en saillie, qui dans les compartimens, &amp; panneaux sert à en separer les parties. On l'appelle autrement filet ou liteau. Les Imprimeurs appellent aussi reglettas, cet espace blanc qu'on met entre les additions, &amp; la matiere</def>
 </sense>
 <pc>.</pc>
-
-<re><form>REGLlEUR, euse</form>
-<form>.</form>
-<form>subst</form>
-<pc>.</pc>
-<def>masc. &amp; fem. Celui ou celle qui regle le papier. C'est un pauvre metier que celui de regleur. Envoyer un livre à la retlesse</def>
-<pc>.</pc></re>
 </entry>
+    
 <entry><form type="lemmaGrp">
+<form type="lemma">
+<orth>REGLlEUR</orth>
+</form>
+<pc>,</pc>
+<form type="inflected">euse</form>, </form>
+<pc>.</pc>
+<gramGrp>
+<pos>subst</pos>
+<pc>.</pc>
+<gen>masc. &amp; fem</gen>
+</gramGrp>
+<pc>.</pc>
+    
+<sense>    
+<def>. Celui ou celle qui regle le papier. C'est un pauvre metier que celui de regleur. Envoyer un livre à la retlesse</def>
+<pc>.</pc>
+</sense>
+</entry>
+
+<entry>
+<form type="lemmaGrp">
 <form type="lemma">
 <orth>REGLISSE</orth>
 </form>
@@ -27557,10 +27713,29 @@
 <sense>
 <form>Regner</form>
 <pc>,</pc>
-<def>signifie encore, Etre en credit, être en vogue, être à la mode. L'hypocrisie regne par tout. c'est à Rome que regnent le luxe, &amp; la debauche. Abl. Cette mode bizarre ne regnera pas long temps. Eloignez vous d'un lieu où le vice regn, &amp; où la vertu est meprisée. Main. REGNICOlE. s. m. &amp; fem. Qui est établi &amp; domicilié dans un Royaume ; qui a dessein d'y finir ses jours : sujet du Roi. Les étrangers ne sont point reputez regnicoles, s'ils n'ont obtenu des lettres de naturalité bien verifiées. Les Suisses, les Savoyards, les Hollandois, sont reputez regnicoles par un privilege particulier, ils ne sont point sujets au droit d'Aubeine</def>
+<def>signifie encore, Etre en credit, être en vogue, être à la mode. L'hypocrisie regne par tout. c'est à Rome que regnent le luxe, &amp; la debauche. Abl. Cette mode bizarre ne regnera pas long temps. Eloignez vous d'un lieu où le vice regn, &amp; où la vertu est meprisée. Main</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>REGNICOlE</orth>    
+</form>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m. &amp; f</gen>    
+</gramGrp> 
+<pc>.</pc>    
+</form>  
+    
+<sense>
+    <def>Qui est établi &amp; domicilié dans un Royaume ; qui a dessein d'y finir ses jours : sujet du Roi. Les étrangers ne sont point reputez regnicoles, s'ils n'ont obtenu des lettres de naturalité bien verifiées. Les Suisses, les Savoyards, les Hollandois, sont reputez regnicoles par un privilege particulier, ils ne sont point sujets au droit d'Aubeine</def>    
+</sense>    
+</entry>    
+    
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>REGONFLER</orth>
 </form>
@@ -27784,13 +27959,32 @@
 <def>celle qui, en rendant ou en recevant un compte, prend garde à une bagitelle. Il n'y a point de plaisir à avoir à faire à lui ; ce n'est qu'un regrattier</def>
 </re>
 <pc>.</pc>
-
-<sense>
-<form>Regeattier</form>
-<pc>,</pc>
-<def>se dit aussi en riant de celui qui, sans être Libraire, achette des livires pour les revendre</def>
-<pc>.</pc></sense>
 </entry>
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>REGRATTIER</orth>
+</form>
+<pc>,</pc>    
+<form type="inflected">
+<orth type="part">IERE</orth>
+</form>    
+<pc>.</pc>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc> 
+<gen>m. &amp; f</gen>
+</gramGrp>    
+<pc>.</pc>  
+</form>
+    
+<sense>
+<def>se dit aussi en riant de celui qui, sans être Libraire, achette des livires pour les revendre</def>
+<pc>.</pc>
+</sense>
+</entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>REGREFFER</orth>
@@ -28476,14 +28670,8 @@
 <form>Reyetter</form>
 <pc>,</pc>
 <def>se dit figurément en choses morales, &amp; signifie, Desapprouver &amp; condamner. Cette proposition a été rejetée des Ecoles, a été rejettée par l'Eglise comme heretique. Il a été rejctté du nombre des élus. Cet enfant a été rejetté de la maison, de la succession de sen pere, à cause de ses vices</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>sR</orth>
-</form>
-</form>
 <pc>.</pc>
+</sense>
 
 <sense>
 <form>Reyetter</form>
@@ -28889,7 +29077,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>REOUIR</orth>
+<orth>REJOUIR</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -30274,44 +30462,60 @@
 <pc>.</pc>
 
 <sense>
-<def>Le debiteur d'un reliqua de compte. On le dit aussi de tous ceux qui sont en demeure de payer, ou qui ne payent que sur &amp; tant moins, encore qu'on n'ait point compté avec eux. Un mauvais payeur est toujours reliquataire envers son creancier. Nous devons redouter le jugement definitif par lequel Dieu prononcera sur la raude de ceux qui sont demeurez relquataires envers sa justice. Le P. Gail. Ce mot de reliquataire est employé là au figvré RELIQUE. s. f. Ce qui nous reste d'un Saint, &amp; qu'on garde avec respect pour honorer sa memoire. On porte les reliques aux Processions. Le Tresor de la Sainte Chappelle est precieux en reliques. On baise les reliques avec devotion. Dans les Messes de ceremonie on encense les reliques. Les catacombes de Rome ont été un fonds inepuisable de reliques, &amp; de Saints. Le P. Mab. On expose sur les autels des reliques très-suspectes, &amp; sur lesquelles on n'a tout au plus que des conjectures mal assurées. Id. Si l'on faisoit la revision des reliques avec une exactitude rigoureuse, il se trouveroit qu'on propose à la picté des Fidelles bien de fausses reliques à reverer, &amp; que l'on consacre des ossemens qui bien loin d'être d'un Bienheureux, ne sont peut-être pas même d'un Chretien. Voyez le P. Mab. Dissertation des Saints inconnus</def>
+<def>Le debiteur d'un reliqua de compte. On le dit aussi de tous ceux qui sont en demeure de payer, ou qui ne payent que sur &amp; tant moins, encore qu'on n'ait point compté avec eux. Un mauvais payeur est toujours reliquataire envers son creancier. Nous devons redouter le jugement definitif par lequel Dieu prononcera sur la raude de ceux qui sont demeurez relquataires envers sa justice. Le P. Gail. Ce mot de reliquataire est employé là au figvré</def>
 </sense>
 <pc>.</pc>
-    <etym>
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>RELIQUE</orth>    
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>f</gen>    
+</gramGrp>
+<pc>.</pc>    
+</form>   
+    
+<sense>  
+<def>Ce qui nous reste d'un Saint, &amp; qu'on garde avec respect pour honorer sa memoire. On porte les reliques aux Processions. Le Tresor de la Sainte Chappelle est precieux en reliques. On baise les reliques avec devotion. Dans les Messes de ceremonie on encense les reliques. Les catacombes de Rome ont été un fonds inepuisable de reliques, &amp; de Saints. Le P. Mab. On expose sur les autels des reliques très-suspectes, &amp; sur lesquelles on n'a tout au plus que des conjectures mal assurées. Id. Si l'on faisoit la revision des reliques avec une exactitude rigoureuse, il se trouveroit qu'on propose à la picté des Fidelles bien de fausses reliques à reverer, &amp; que l'on consacre des ossemens qui bien loin d'être d'un Bienheureux, ne sont peut-être pas même d'un Chretien. Voyez le P. Mab. Dissertation des Saints inconnus</def>
+<etym>
 <lbl>Ce mot vient du</lbl>
 <lang>Latin</lang>
 <foreign>reliquie</foreign>
 <pc>,</pc>
-<gloss>qui signifioit les</gloss>
+        <gloss>qui signifioit les restes des corps morts. Les Anciens les conservoient religieuse ment dans des urnes. Dans ces tombeaux antiques où des Rois vos ayeuls sont les froides reliques. Rac</gloss>
 </etym>
-<sense>
-<def>restes des corps morts. Les Anciens les conservoient religieuse ment dans des urnes. Dans ces tombeaux antiques où des Rois vos ayeuls sont les froides reliques. Rac</def>
-</sense>
 <pc>.</pc>
-
-<re><form>Reliques</form>
-<form>.</form>
-<form>s</form>
-</re>
+</sense>
+    
+<re>
 <form type="lemmaGrp">
+<form type="lemma">Reliques</form>
 <pc>.</pc>
 <gramGrp>
-<pos>f</pos>
+<pos>s</pos>
+<pc>.</pc>    
+<gen>f</gen>
 <pc>.</pc>
 <number>pl</number>
 </gramGrp>
-</form>
-<pc>.</pc>
-
+<pc>.</pc>    
+</form>    
+    
 <sense>
 <def>Restes. Enée sauva une partie des tristes reliques de Troye. On voit encore quelques reliques de l'ancienne Babylone, &amp; du Palais de Darius, qu'on appelle Chilminar. Les enfans de Pompée formerent encore une armée des reliques, &amp; du debris du naufrage de leur pere. Il rentra dans Babylone avec les tristes reliques de l'armée. Vauc. Nous sommes obligez a Arrian de nous avoir sauvé les reliqnes de la Philosophie d'Epictete. Balz. Il recherche les reliques precieuses de ses ancêtres. Oe. M. On montre encore aujourd'huy les superbes reliques de la magnificence des Romains. Id. Balzac appelloit Mr. de Peiresc, les reliques du siecle d'or. Il avoit pourtant decidé que le mot de reliques ne se disoit jamais dans la signification de restcs</def>
-</sense>
 <pc>.</pc>
-
-<sense>
-<def>On dit proverbialement d'un homme qui fait grand état de quelque chose, qu'il en fait une relique. Il garde sa femme comme une relique</def>
-<pc>.</pc></sense>
+<note>On dit proverbialement d'un homme qui fait grand état de quelque chose, qu'il en fait une relique. Il garde sa femme comme une relique</note>
+<pc>.</pc>
+</sense>
+</re>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RELIRE</orth>
@@ -30819,7 +31023,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>REMBARQUEENT</orth>
+<orth>REMBARQUEMENT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -32738,15 +32942,27 @@
 <xr>Voyez Renplage</xr>
 </sense>
 <pc>.</pc>
-
-<re><form>REMmPLISSEUSE</form>
-<form>.</form>
-<form>s. f</form>
-<form>.</form>
-<form>Flle</form>
-<def>qui fait mêtier de remplir des dentelles</def>
-<pc>.</pc></re>
 </entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma">
+<orth>REMPLISSEUSE</orth>    
+</form>    
+<pc>.</pc>
+<gramGrp>
+<pos>s</pos>  
+<pc>.</pc>
+<gen>f</gen>
+<pc>.</pc>
+</gramGrp>
+</form>
+    
+<sense>
+<def>Fille qui fait mêtier de remplir des dentelles</def>
+<pc>.</pc>
+</sense>
+</entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>REMPLOI</orth>
@@ -32925,7 +33141,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>REUANT</orth>
+<orth>REMUANT</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -33523,10 +33739,29 @@
 <pc>.</pc>
 
 <sense>
-<def>On dit qu'un homme fait le rencheri, quand il est de difficle convention ; ou quand il estime trop sa peine, ses paroles : qu'une femme fait fort la rencherie, quand elle est vaine, dedaigneuse. A-t-on jamais vu deux p ques Pr ovinciales fair. plus les rencheries ? Mol. RENCHErRISSEMENT. s. masc. Action par laquelle on reicherit. Le mauvais temps qu'il a fait a éte cause du rencherissement des denréds</def>
+<def>On dit qu'un homme fait le rencheri, quand il est de difficle convention ; ou quand il estime trop sa peine, ses paroles : qu'une femme fait fort la rencherie, quand elle est vaine, dedaigneuse. A-t-on jamais vu deux p ques Pr ovinciales fair. plus les rencheries ? Mol</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>RENCHERISSEMENT</orth>    
+</form>    
+<gramGrp>
+<pos>s</pos>  
+<pc>.</pc>
+<gen>masc</gen>    
+</gramGrp>  
+<pc>.</pc>    
+</form>
+    
+<sense>
+    <def>Action par laquelle on reicherit. Le mauvais temps qu'il a fait a éte cause du rencherissement des denréds</def>
+</sense>    
+</entry>
+    
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RENCHIER</orth>
 </form>
@@ -33841,10 +34076,29 @@
 <pc>.</pc>
 
 <sense>
-<def>&amp; redupl. Dormir un second somme, après avoir été éveillé. Une Nourrice rendort son enfant en lui donnant le teton. Je me suis rendormi sur le matin. REnDOrmiSsSEMENT. s. m. Action par laquelle on se rendort. Les frequens rendormissemens sont les symptomes de la lethargie</def>
+<def>&amp; redupl. Dormir un second somme, après avoir été éveillé. Une Nourrice rendort son enfant en lui donnant le teton. Je me suis rendormi sur le matin</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+    <form type="lemmaGrp">
+        <form type="lemma">
+            <orth>RENDORMISSEMENT</orth>
+    </form>
+        <gramGrp>
+            <pos>s</pos>
+            <pc>.</pc>
+            <gen>m</gen>
+            <pc>.</pc>
+        </gramGrp>
+    </form>
+    
+<sense>
+    <def>Action par laquelle on se rendort. Les frequens rendormissemens sont les symptomes de la lethargie</def>
+</sense>
+</entry>
+    
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RENDOUBLER</orth>
 </form>
@@ -33999,10 +34253,11 @@
 <form>On appelle un</form>
 <def>soldat rndu, un deserteur du parti ennemi</def>
 </re>
-<form type="lemmaGrp">
+
+<re><form type="lemmaGrp">
 <pc>.</pc>
 <form type="inflected">
-<orth type="part">Rendant</orth>
+<orth type="part"></orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -34022,7 +34277,9 @@
 <pc>.</pc>
 <def>Celui qui rend un compte. On dit par opposition, le rendant compte, &amp; l'oyant compte</def>
 <pc>.</pc></sense>
+</re>    
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RENDUIRE</orth>
@@ -35264,24 +35521,11 @@
 <pc>.</pc>
 
 <sense>
-<def>Plante qui pousse plusieurs tiges, quelquefois droites, le plus souvent couchées à terre, longues d'un pied ou d'un pied &amp; demi, flexibles, grêles, rondes, revetues de feuilles rangées alternativement, oblongues, étroites, pointuës, attachées à des queuës fort courtes. Ses fleurs sont petites, composées chacune de cinq étamines, soutenues par un calice couppé en entonnoir ; elles naissent dans les aisseles des feuilles. Lorsque la fleur est passée, il lui succede une semence à trois côtes, de couleur de châteigne, assez grosse. Sa racine est longue, simple, ligneuse, assez grosse pour la grandeur de la plante, d'un goût astringent. En Latin polygonum latifolium</def>
-<pc>.</pc></sense>
+<def>Plante qui pousse plusieurs tiges, quelquefois droites, le plus souvent couchées à terre, longues d'un pied ou d'un pied &amp; demi, flexibles, grêles, rondes, revetues de feuilles rangées alternativement, oblongues, étroites, pointuës, attachées à des queuës fort courtes. Ses fleurs sont petites, composées chacune de cinq étamines, soutenues par un calice couppé en entonnoir ; elles naissent dans les aisseles des feuilles. Lorsque la fleur est passée, il lui succede une semence à trois côtes, de couleur de châteigne, assez grosse. Sa racine est longue, simple, ligneuse, assez grosse pour la grandeur de la plante, d'un goût astringent. En Latin polygonum latifolium. C. Bauh. Cette plante est fort vulneraire &amp; astrinente, on s'en sert dans la dyssenterie, dans le flux emorrhoïdal, dans le crachement de sang &amp; dans toutes sortes d'hemorragies. Il y a plusieurs autres especes de renoée</def>
+<pc>.</pc>
+</sense>
 </entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>C</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>Bauh</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
 
-<sense>
-<def>Cette plante est fort vulneraire &amp; astrinente, on s'en sert dans la dyssenterie, dans le flux emorrhoïdal, dans le crachement de sang &amp; dans toutes sortes d'hemorragies. Il y a plusieurs autres especes de renoée</def>
-<pc>.</pc></sense>
-</entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RENOUEMENT</orth>
@@ -35948,10 +36192,21 @@
 <sense>
 <form>Renvenimer</form>
 <pc>,</pc>
-<def>se dit figurément en choses morales, &amp; signifie, Aigrir. Ces deux parties étoient presque d'accord, mais un mauvais rapport qu'on leur a fait les a renvenimées plus que jamais. laRENVERSsE. Adverbial, se dit seulement des personnes qui sont tombées, ou couchées sur le dos. Il fut si surpris de cet accident, qu'il faillit de tomber à la renverse d'étonnement, d'admiration. Les femmes sont sujettes à tomber à la renverse</def>
+<def>se dit figurément en choses morales, &amp; signifie, Aigrir. Ces deux parties étoient presque d'accord, mais un mauvais rapport qu'on leur a fait les a renvenimées plus que jamais</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+    <form type="lemma">
+        <orth>A' LA RENVERSE</orth>
+        <pc>.</pc>
+    </form>
+        <sense>
+            <def>Adverbial, se dit seulement des personnes qui sont tombées, ou couchées sur le dos. Il fut si surpris de cet accident, qu'il faillit de tomber à la renverse d'étonnement, d'admiration. Les femmes sont sujettes à tomber à la renverse</def>
+        </sense>
+</entry>
+    
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RENVERSEMENT</orth>
 </form>
@@ -38608,16 +38863,25 @@
 <def>se dit aussi de ceux qui sont appellez à une succession comme étant à la place de la personne dont ils ont le droit. Les representans ne peuvent pas avoir plus de droit à une succession que celui qu'ils rcpresentent</def>
 </sense>
 <pc>.</pc>
-
-<re><form>REprEsENTATIF, ive</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Qui figure</form>
-<pc>,</pc>
-<def>qui represente. Les ceremonies du Vieux Testament etoient des figures representatives des mysteres du Nouveau</def>
-<pc>.</pc></re>
 </entry>
+
+<entry>
+<form><orth>REPRESENTATIF</orth>
+<pc>,</pc>
+<form type="inflected">ive</form>
+<pc>.</pc>
+<gramGrp>        
+<pos>adj</pos>
+<pc>.</pc>
+</gramGrp>
+</form>
+    
+<sense>
+<def>Qui figure, qui represente. Les ceremonies du Vieux Testament etoient des figures representatives des mysteres du Nouveau</def>
+<pc>.</pc>
+</sense>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>REPRESENTATION</orth>
@@ -38999,6 +39263,7 @@
 <def>Celui à qui on peut objecter quelque chose de honteux, ou qui empêche qu'on n'ajoûte foi à ce qu'il dit. Il y a des vices sales &amp; reprochables qui ôtent l'honneur des personnes. Les temoins sont reprochables, quand ils sont infames, notez en Justice. On le dit aussi de ceux qui sont suspects, parens, ou alliez</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>REPROCHE</orth>
@@ -39013,31 +39278,16 @@
 <pc>.</pc>
 
 <sense>
-<def>Cocdfeteau le sa t toujours feminin. Vaugelas a decidé qu'il étoit masculin au singulier, &amp; feminin au plurier : cela étoit vrai de son temps ; mais presentement il est toujours masculin. C'est un blâme ; ou une espece d'injure qu'on fait à quelcun, en lui rcpresentant en face ses detauts. On lui a fait reproche à l'Audience de sa naissance douteuse, &amp; illegtime. La lâcheté est un sanglant reproche pour un Gentilhomme. Y a-t-il des perionnes sur qui vous puissiez faire tomber un reproche si abominable avec moins de vrai-semblance ? Pasc. dl s'emporta en reproches contre ses ennemis. Ablan. Le remords est un reprocha de la conscience. Si vous voulez entretenir l'amitié n'en venez jamais à des reproches injurieux. De l'Am. On fait des reproches à un Amant : mais en faiton à un mari quand on n'a qu'à lui reprocher que de n'avoir point d'amour ? P. de Cl. Les reproches trop frequens étcignent l'amour bien loin de le rechauffer. H</def>
+    <def>Cocdfeteau le sa t toujours feminin. Vaugelas a decidé qu'il étoit masculin au singulier, &amp; feminin au plurier : cela étoit vrai de son temps ; mais presentement il est toujours masculin. C'est un blâme ; ou une espece d'injure qu'on fait à quelcun, en lui rcpresentant en face ses detauts. On lui a fait reproche à l'Audience de sa naissance douteuse, &amp; illegtime. La lâcheté est un sanglant reproche pour un Gentilhomme. Y a-t-il des perionnes sur qui vous puissiez faire tomber un reproche si abominable avec moins de vrai-semblance ? Pasc. dl s'emporta en reproches contre ses ennemis. Ablan. Le remords est un reprocha de la conscience. Si vous voulez entretenir l'amitié n'en venez jamais à des reproches injurieux. De l'Am. On fait des reproches à un Amant : mais en faiton à un mari quand on n'a qu'à lui reprocher que de n'avoir point d'amour ? P. de Cl. Les reproches trop frequens étcignent l'amour bien loin de le rechauffer. H. S. de M. Il y a bien de la difference entre des plaintes legitimes, &amp; respectueuses, &amp; des reproches grossiers, &amp; rustiques. Vicq. Il est assez ordinaire de repousser les reproches par d'autres reproches ; c'est une espece de deffense qui tient lieu de raison. Ben. On n'aime point a voir ceux à qui l'on doit trop, Et leur seule presence est un secret reproche. Corn. Je le vs ; son aspect n'avoit rien de farouche ; Je sentis le reproche expirer dans ma bouche. Rac. Bayard étoit nommé le Chevalier sans peur &amp; sans reproche. On dit aussi d'un homme droit, &amp; de bonnes moeurs, que sa vie est sans reproche. Un Marchand pour mieux vendre sa marchandise dit, Si elle n'est pas bonne faites m'en reproche</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>S</orth>
-</form>
-<pc>.</pc>
-<form type="variant">
-<orth>de M</orth>
-</form>
-</form>
-<pc>.</pc>
 
-<sense>
-<def>Il y a bien de la difference entre des plaintes legitimes, &amp; respectueuses, &amp; des reproches grossiers, &amp; rustiques. Vicq. Il est assez ordinaire de repousser les reproches par d'autres reproches ; c'est une espece de deffense qui tient lieu de raison. Ben. On n'aime point a voir ceux à qui l'on doit trop, Et leur seule presence est un secret reproche. Corn. Je le vs ; son aspect n'avoit rien de farouche ; Je sentis le reproche expirer dans ma bouche. Rac. Bayard étoit nommé le Chevalier sans peur &amp; sans reproche. On dit aussi d'un homme droit, &amp; de bonnes moeurs, que sa vie est sans reproche. Un Marchand pour mieux vendre sa marchandise dit, Si elle n'est pas bonne faites m'en reproche</def>
-</sense>
-<pc>.</pc>
-
-<sense>
+    <sense>
 <form>Reproche</form>
 <pc>,</pc>
 <def>se dit aussi des objections qu'on fait aux temoins pour detruire leur deposition, &amp; montrer qu'elle ne doit pas être reçuë. Dans la confrontation on avertit l'accusé de fournir de reproches contre le temoin avant la lecture de sa deposition, après quoy il ne sera plus reçu. Selon l'Ordonnance en matiere civile on fait des écritures qu'on appelle reproches de temoins</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>REPROCHER</orth>
@@ -41223,26 +41473,11 @@
 <pc>.</pc>
 
 <sense>
-<def>Deciion, sentiment ; action par laquelle on se resout, ou la chose resolue. C'est un homme qui a pris sa resolution, qui s'est determiné à telle chose. Voilà la resolution de l'assemblée. J'ai trouvé la resolution de vôtre probleme. C'est une étrange resolution à son âge, de s'en aller aux Indes. Comme elle connoissoit ce que peuvent les occasions sur les resolutions les plus sages, elle ne voulut pas s'exposer à detruire les siennes, en revenant dans les lieux où étoit la personne qu'elle avoit tendrement aimée</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>P</orth>
-</form>
+    <def>Deciion, sentiment ; action par laquelle on se resout, ou la chose resolue. C'est un homme qui a pris sa resolution, qui s'est determiné à telle chose. Voilà la resolution de l'assemblée. J'ai trouvé la resolution de vôtre probleme. C'est une étrange resolution à son âge, de s'en aller aux Indes. Comme elle connoissoit ce que peuvent les occasions sur les resolutions les plus sages, elle ne voulut pas s'exposer à detruire les siennes, en revenant dans les lieux où étoit la personne qu'elle avoit tendrement aimée. P. de Cl. Il est de certaines affaires dont on ne sort que par des resolutions hardies. Ab. de S. R. On prend quelquefois un desespoir pour une resolution ferme, &amp; courageuse. M. Esp. L'amour est l'écueil des plus fortes resolutions. Oe. M. Il est difficile que les plus pieuses resolutions ne soient interrompues par quelque foiblesse. Fl. On ne prend qu'une resolution timide, &amp; forcée aux approches de la mort. La Pl</def>
 <pc>.</pc>
-<form type="variant">
-<orth>de Cl</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Il est de certaines affaires dont on ne sort que par des resolutions hardies. Ab. de S. R. On prend quelquefois un desespoir pour une resolution ferme, &amp; courageuse. M. Esp. L'amour est l'écueil des plus fortes resolutions. Oe. M. Il est difficile que les plus pieuses resolutions ne soient interrompues par quelque foiblesse. Fl. On ne prend qu'une resolution timide, &amp; forcée aux approches de la mort. La Pl</def>
 </sense>
-<pc>.</pc>
 
-<sense>
+    <sense>
 <form>Resolution</form>
 <pc>,</pc>
 <def>signifie aussi, Fermeté, courage. Pour rompre un attachement il faut plus de resolution qu'on ne pense. M. Sc. Ebranler la resolution des soldats. Abl. On appelle un homme de resolution, un homme de main, hardi &amp; determiné, capable de tout entreprendre &amp; de tout executer</def>
@@ -41253,6 +41488,7 @@
 <def>On dit aussi en Physique, la resolution des corps dans leurs principes, c'est-à-dire, la reduction, la dissolution. En Logique, la resolution d'un argument, c'est-à-dire, la reponse, la solution. En Grammaire, la resolution d'une phrase en une équipollente, c'est-à-dire, la reduction. On dit aussi en Pratique, la resolution d'un contrat, d'un mariage ; pour dire, la cassation, l'aneantissement</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RESOLUTOIRE</orth>
@@ -41272,11 +41508,19 @@
 <sense>
 <usg>Terme de Jurisprudence</usg>
 <pc>.</pc>
-<def>Qui emporte la resolution. On appelle clause resolutoire, une clause par laquelle on stpule qu'un contrat demeurera nul &amp; resolu, en cas que l'on n'execute point certaines clauses qui y sont apposées. Pour la faire valoir, &amp; constituer l'obligé en retardement, il faut une sommation : car les clauses penales, &amp; resolutoires ne sont jamais prises à la rigueur, &amp; ne passent que pour comminatoires. RESOmPTE, RESOMPTION</def>
+<def>Qui emporte la resolution. On appelle clause resolutoire, une clause par laquelle on stpule qu'un contrat demeurera nul &amp; resolu, en cas que l'on n'execute point certaines clauses qui y sont apposées. Pour la faire valoir, &amp; constituer l'obligé en retardement, il faut une sommation : car les clauses penales, &amp; resolutoires ne sont jamais prises à la rigueur, &amp; ne passent que pour comminatoires</def>
 <pc>.</pc>
-<xr>Voyez Resumpte, Resumption</xr>
-<pc>.</pc></sense>
+</sense>
 </entry>
+
+<entry>
+<form type="lemma">RESOMPTE
+<pc>,</pc>
+<form type="variant">RESOMPTION</form></form>    
+<xr>Voyez <ref>Resumpte</ref><pc>,</pc> <ref>Resumption</ref></xr>
+<pc>.</pc>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RESONNANT</orth>
@@ -42683,48 +42927,24 @@
 </sense>
 <pc>.</pc>
 
-<re><form>Ressortir</form>
-<form>.</form>
-<form>v</form>
+<sense><form type="lemma">
+ <form>Ressortir</form>    
 <pc>.</pc>
-<def>n</def>
-<form>.</form>
-<form>Terme du Palais</form>
-<form>.</form>
-<form>Il se conjugue</form>
-</re>
-<form type="lemmaGrp">
-<pc>,</pc>
-<form type="inflected">
-<orth>Je ressortis</orth>
-</form>
-<pc>,</pc>
-<form type="inflected">
-<orth>tu ressorti</orth>
-</form>
-<pc>,</pc>
-<form type="inflected">
-<orth>il ressortit</orth>
-</form>
-<pc>,</pc>
-<form type="inflected">
-<orth>nous ressortissots</orth>
-</form>
-<pc>,</pc>
-<form type="inflected">
-<orth type="part">&amp;c</orth>
-</form>
+<gramGrp>    
+<pos>v</pos>
 <pc>.</pc>
-<form type="inflected">
-<orth>Je ressortissou</orth>
-</form>
-</form>
+<subc>n</subc>
 <pc>.</pc>
-
-<sense>
-<def>Ressortissant. Il se dit en parlant des tribunaux des Juges superieurs où se relevent les appellations des Juges inferieurs. Les Justices Royales des anciennes Duchez Pairies ressortissent au Parlement nuement &amp; sans moyen. Les Justices subalternes ressortissent aux Presidiaux. Les appellations des Ofsiciaux des Evêques ressortissent devant le Metropolitain, le Primat, &amp;c</def>
-<pc>.</pc></sense>
+</gramGrp>
+</form>
+    
+<usg>Terme du Palais</usg>
+<pc>.</pc>
+<def>Il se conjugue, Je ressortis, tu ressorti, il ressortit, nous ressortissots, Je ressortissou &amp;c. Ressortissant. Il se dit en parlant des tribunaux des Juges superieurs où se relevent les appellations des Juges inferieurs. Les Justices Royales des anciennes Duchez Pairies ressortissent au Parlement nuement &amp; sans moyen. Les Justices subalternes ressortissent aux Presidiaux. Les appellations des Ofsiciaux des Evêques ressortissent devant le Metropolitain, le Primat, &amp;c</def>
+<pc>.</pc>
+</sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RESSOURCE</orth>
@@ -43838,7 +44058,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>RESVEuUR</orth>
+<orth>RESVEUR</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -44109,10 +44329,31 @@
 <sense>
 <usg>Terme de Chirurgie</usg>
 <pc>,</pc>
-<def>qui se dit des gens qui pour montrer qu'ils ne sont poiunt Juifs ni circoncis, se sont fait r'habiller le prepuce par operation de Chirurgie, dont on voit la maniere dans Ambroise Paré. On les appelle en Latin recutiti. RETAILLEMENt. s. m. Action par laquelle on taille une seconde fois. On a été obligé à faire le retaillement de cete vigne à cause de la gelée</def>
+<def>qui se dit des gens qui pour montrer qu'ils ne sont poiunt Juifs ni circoncis, se sont fait r'habiller le prepuce par operation de Chirurgie, dont on voit la maniere dans Ambroise Paré. On les appelle en Latin recutiti</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+    <form type="lemmaGrp">
+        <form type="lemma">
+            <orth>RETAILLEMENT</orth>
+        </form>
+        <pc>.</pc>
+<gramGrp>
+    <pos>s</pos>
+    <pc>.</pc>
+    <gen>m</gen>
+    <pc>.</pc>
+</gramGrp>
+    </form>
+    
+<sense>
+    <def>Action par laquelle on taille une seconde fois. On a été obligé à faire le retaillement de cete vigne à cause de la gelée</def>
+</sense>
+    <pc>.</pc>
+</entry>
+    
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RETAILLER</orth>
 </form>
@@ -45044,7 +45285,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ETORDEMENT</orth>
+<orth>RETORDEMENT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -45117,23 +45358,32 @@
 <form>part</form>
 <pc>.</pc>
 <gramGrp>pass. &amp; adj</gramGrp>
-<form>.</form>
-<form>RETORQuUER</form>
 <pc>.</pc>
-<gramGrp>v. act</gramGrp>
-<form>.</form>
-<form>Se</form>
-<def>servir contre quelci du même aigument qu'il a fait, faire voir qu'il a la même force contre lui. Corax le Rhetoricien retorqua l'argument que lu faisoi son disciple contre luimême</def>
 </re>
+</entry>
+
+<entry>
+<form>RETORQUER</form>
+<pc>.</pc>
+<gramGrp>
+    <pos>v</pos>v
+    <pc>.</pc>
+    <subc>act</subc>
+    <pc>.</pc>
+</gramGrp>
+<pc>.</pc>
+    
+    <sense>
+<def>Se servir contre quelci du même aigument qu'il a fait, faire voir qu'il a la même force contre lui. Corax le Rhetoricien retorqua l'argument que lu faisoi son disciple contre luimême</def>
+</sense>
 <pc>.</pc>
 
 <re><form>Retorqué, ée</form>
-<form>.</form>
-<form>part</form>
 <pc>.</pc>
-<gramGrp>pass. &amp; adj</gramGrp>
+<gramGrp>part. pass. &amp; adj</gramGrp>
 <pc>.</pc></re>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RETORTE</orth>
@@ -45537,7 +45787,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>RETRIT</orth>
+<orth>RETRAIT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -45573,9 +45823,22 @@
 <def>se dit des pieces retirées qui n'avancent pas jusqu'au bord de l'Ecu. Il porte d'or au pal retrait d'argent. Il se dit particulierement de ces pieces, quand d'un côté seulement elles ne touchent pas les bords de l'Ecu</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<def>RETRAItTE, ou RETRAITE. subst. f. Mouvement pour reculer ; action par laquelle on se retire. Le General a bien menagé sa retraite, il a assuré sa retraite. On connoît l'habileté d'un General dans les retraites. La retraite des dix mille de Xenophon a été admirée de toute l'Antiquité. Faire une retraite glorieuse, &amp; honorable en presence de l'ennemi. Abl. Les jeunes gens qui veulent toujours payer de courage, ne mettent point de difference entre la fuite, &amp; la retraite. St. Ev. A proprement parler ce qu'on appelle retraite dans les armées est une fuite ; mais une fuite faite à dessein, &amp; avec adresse. Men. Se battre en retraite ; c'est se battre en se retirant. Les Maîtres d'armes disent aussi, Faire sa retraite, songer à une bonne retraite. Liancourt</def>
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<orth>RETRAITTE</orth><pc>,</pc>
+<form type="variant">ou RETRAITE</form></form>    
+<pc>.</pc>
+<gramGrp>
+<pos>subst</pos>
+<pc>.</pc>
+<gen>f</gen>
+<pc>.</pc>
+</gramGrp>
+    
+    <sense>
+<def>Mouvement pour reculer ; action par laquelle on se retire. Le General a bien menagé sa retraite, il a assuré sa retraite. On connoît l'habileté d'un General dans les retraites. La retraite des dix mille de Xenophon a été admirée de toute l'Antiquité. Faire une retraite glorieuse, &amp; honorable en presence de l'ennemi. Abl. Les jeunes gens qui veulent toujours payer de courage, ne mettent point de difference entre la fuite, &amp; la retraite. St. Ev. A proprement parler ce qu'on appelle retraite dans les armées est une fuite ; mais une fuite faite à dessein, &amp; avec adresse. Men. Se battre en retraite ; c'est se battre en se retirant. Les Maîtres d'armes disent aussi, Faire sa retraite, songer à une bonne retraite. Liancourt</def>
 </sense>
 <pc>.</pc>
 
@@ -45807,11 +46070,17 @@
 <pc>.</pc>
 
 <sense>
-<def>Quelques-uns écrivent Retrecer. Tresser de nouveau. On a été obligé de retresser ces cheveux qui avoient été mal tressezs RETRESSIR</def>
+<def>Quelques-uns écrivent Retrecer. Tresser de nouveau. On a été obligé de retresser ces cheveux qui avoient été mal tressezs</def>
 <pc>.</pc>
-<xr>Voyez Retrecir</xr>
-<pc>.</pc></sense>
+</sense>
 </entry>
+
+<entry>
+<form type="lemma">RETRESSIR</form>    
+<xr>Voyez Retrecir</xr>
+<pc>.</pc>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RETRIBUER</orth>
@@ -48529,13 +48798,30 @@
 <sense>
 <form>Rhagades</form>
 <pc>,</pc>
-<def>se dit aussi des ulceres crevassez faits d'une humeur acre &amp; salée, qui font une grande contraction &amp; estrecissement de la partie, qui ressemble à un parchemin qui se serre &amp; gresille, lorsqu'on le met trop près du feu. Ce mal arrive au siege, au col de la matrice, au prepuce, &amp; même à la bouche, ensorte que le malade ne peut l'ouvrir, ni parler, ni mâRHAGOIDE. adj</def>
+<def>se dit aussi des ulceres crevassez faits d'une humeur acre &amp; salée, qui font une grande contraction &amp; estrecissement de la partie, qui ressemble à un parchemin qui se serre &amp; gresille, lorsqu'on le met trop près du feu. Ce mal arrive au siege, au col de la matrice, au prepuce, &amp; même à la bouche, ensorte que le malade ne peut l'ouvrir, ni parler, ni mâcher</def>
 <pc>.</pc>
-<usg>Terme de Medecine</usg>
+</sense>
+</entry>
+
+<entry>
+<form type="lemmaGrp">
+    <form type="lemma">
+        <orth>RHAGOIDE</orth>
+    </form>
+    <pc>.</pc>
+    <gramGrp>
+        <pos>adj</pos>
+    </gramGrp>
+    <pc>.</pc>
+</form>   
+    <sense>
+    <usg>Terme de Medecine</usg>
 <pc>,</pc>
 <def>qui se dit de la seconde peau ou tunique de l'oeil, qu'on appelle autrement uvée, parcequ'elle ressemble à un grain de raisin dont on a ôté la petite queuë. C'est en celle-ci qu'esf le petit trou qu'on nomme la prunelle, &amp; qui porte le cercle qu'on appelle iris. On l'appelle aussi choroide</def>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RHAMNUS</orth>
@@ -48777,7 +49063,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>RHOBE</orth>
+<orth>RHOMBE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -49065,7 +49351,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>RIBONRIBAINE</orth>
+<orth>RIBON RIBAINE</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -50217,21 +50503,7 @@
 <def>Mechant Poëte, dont les vers ne sont considerables que par les rimes. Un vieux rimeur a mauvaise grace. Oe. M. Il y a peu de Poëtes qui inventent bien ; mais il y a un nombre infini de rimeurs. La facilité que Malherbe affecta dans ses vers, reimplit la Cour de rimeurs. G. G. Mais moi qu'un vain caprice, une bizarre humeur, Pour mes pechez, je croi, fit devenir rimeur. Boi. Faut-il d'un froid rimeur depeindre la manie ? Id</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>RIN</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>RIO</orth>
-</form>
-</form>
-<pc>.</pc>
 
-<sense>
-<def>RIP</def>
-<pc>.</pc></sense>
-</entry>
 </div>
           <div>
               <head>RIN<pc>.</pc></head>
@@ -50439,16 +50711,27 @@
 <def>Petite querelle ou difficulté qui arrive souvent dans le menage, ou dans les societez. Ces gens vivent assez bien ensemble, quoyqu'ils ayent souvent quelques riottes. N'ayez entre vous aucun demêlé, de peur que d'une simple riotte, il ne s'en fasse une haine toute formée. Pat. Menage dit que riots en Anglois signifie des assemblées illicites par des mutins pour nuire à quelcun. A l'ordinaire il signifie luxe. Du Cange dit que riota signifie une action illicite qui est faite du moins par trois personnes, comme quand on s'assemble pour maltraiter, pour prendre possession de quelque chose avec violence</def>
 </sense>
 <pc>.</pc>
-
-<re><form>RIOtTEUX, euse</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Qui est difficultueux</form>
-<pc>,</pc>
-<def>de mauvaise humeur, pointilleux, sujet à quereller, à se fâcher pour des choses legeres</def>
-<pc>.</pc></re>
 </entry>
+
+<entry><form type="lemmaGrp">
+    <form type="lemma">
+        <orth>RIOTTEUX</orth>
+        <pc>,</pc>
+        <form type="inflected">EUSE</form>
+        <pc>.</pc>
+    </form>
+<gramGrp>
+    <pos>adj</pos>
+</gramGrp>
+    <pc>.</pc>
+</form>
+    
+<sense>    
+<def>Qui est difficultueux, de mauvaise humeur, pointilleux, sujet à quereller, à se fâcher pour des choses legeres</def>
+<pc>.</pc>
+</sense>
+</entry>
+
 </div>
 <div>
 <head>RIP<pc>.</pc></head>
@@ -51118,38 +51401,22 @@
 <pc>.</pc>
 
 <sense>
-<def>Terme relatif, qui se dit de deux personnes qui ont la même pretention. Il se dit proprement d'un concurrent en amour, &amp; figurément d'un competiteur, &amp; d'un concurrent en toute sorte de poursuite. Vau. Cesar &amp; Pompée étoient d'illustres rivaux de l'Empire, &amp; de la gloire. Etheocle &amp; Polinyce étoient deux rivaux qui pretendoient à la Royaute. J'aurai pour rivales toutes les femmes qui ont de la delcatesse, &amp; du goût. Fl. Les intrigues des Romans &amp; des Comedies roulent d'ordinaire sur la jalousie des rivaux qui se disputent la même Maîtresse. Entre rivax la haine est naturelle. Coen. Nous nous regardâmes dedaigneusement tour-à-tour, &amp; avec la jalousie qui anime d'ordinaire deux rivales</def>
+    <def>Terme relatif, qui se dit de deux personnes qui ont la même pretention. Il se dit proprement d'un concurrent en amour, &amp; figurément d'un competiteur, &amp; d'un concurrent en toute sorte de poursuite. Vau. Cesar &amp; Pompée étoient d'illustres rivaux de l'Empire, &amp; de la gloire. Etheocle &amp; Polinyce étoient deux rivaux qui pretendoient à la Royaute. J'aurai pour rivales toutes les femmes qui ont de la delcatesse, &amp; du goût. Fl. Les intrigues des Romans &amp; des Comedies roulent d'ordinaire sur la jalousie des rivaux qui se disputent la même Maîtresse. Entre rivax la haine est naturelle. Coen. Nous nous regardâmes dedaigneusement tour-à-tour, &amp; avec la jalousie qui anime d'ordinaire deux rivales. H. S. de M. Enée semble un peu effacé par l'éclat, &amp; le brillant de Turnus son ival. Le P. Le B. Les femmes ne peuvent souffrir de rinales sur le Chapitre de la beauté, ni les hommes de riaux sur le merite de l'esprit. Bell. Est-il doteur égdle, A celle de se voir immoler sa rivale ? Corn. un Bivel n'est pas inutile, Il rereille l'ardeur, &amp; les soins d'un Amant ; Et l'amur tranquille, s''endort aisament. Oe. M. La puissance des Grands ne veut point de rivaux. Bnes. Les Jurisconsultes disent que ce mot vient de rivalis, quod ab codem riva aquam bauriant</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>H</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>S</pos>
-<pc>.</pc>
-<gen>de M</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
 
-<sense>
-<def>Enée semble un peu effacé par l'éclat, &amp; le brillant de Turnus son ival. Le P. Le B. Les femmes ne peuvent souffrir de rinales sur le Chapitre de la beauté, ni les hommes de riaux sur le merite de l'esprit. Bell</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>E</orth>
 </form>
 <gramGrp>
-<pos>st-il doteur égdle</pos>
+<pos></pos>
 </gramGrp>
 </form>
 <pc>,</pc>
 
 <sense>
-<def>A celle de se voir immoler sa rivale ? Corn. un Bivel n'est pas inutile, Il rereille l'ardeur, &amp; les soins d'un Amant ; Et l'amur tranquille, s''endort aisament. Oe. M. La puissance des Grands ne veut point de rivaux. Bnes. Les Jurisconsultes disent que ce mot vient de rivalis, quod ab codem riva aquam bauriant</def>
+    <def></def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -51319,7 +51586,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>RI</orth>
+<orth>RIZ</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -51571,20 +51838,28 @@
 <def>Qui est vigoureux &amp; fort de corps. Samson étoit un homme bien robute. Hercule, Milon le Crotoniate ont eu des corps extraordinairement robustes. Le Parasite a le visage vermeil, l'oeil vif, le teint frais, &amp; en un mot il est robuste de. corps &amp; d'esprit. Ablan. Cette femme a une santé ROB. ROC. robuste, &amp; à l'épreuve de tout. P. Com. Il faut être de complexion robuste, avoir une santé robuiste, pour souffrir les fatigues de la guerre. Saint Christophle est le Patron des gens robustes, des Portefaix</def>
 </sense>
 <pc>.</pc>
-
-<re><form>ROBuSTEMENT</form>
-<form>.</form>
-<form>adv</form>
-<form>.</form>
-<form>D'une maniere robuste</form>
+</entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma>"><orth>ROBUSTEMENT</orth>
+</form>
 <pc>.</pc>
-<def>Les Athletes anciens se choquoient fort robustement</def>
-<pc>.</pc></re>
+    <gramGrp>
+<pos>adv</pos>
+<pc>.</pc>
+    </gramGrp>
+</form>
+    
+<sense>
+<def>D'une maniere robuste. Les Athletes anciens se choquoient fort robustement</def>
+<pc>.</pc>
+</sense>
 </entry>
 </div>
 <div>
 <head>ROC<pc>.</pc></head>
-<entry><form type="lemmaGrp">
+
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>ROC</orth>
 </form>
@@ -51663,10 +51938,30 @@
 <form>,</form>
 <form>e</form>
 <pc>s</pc>
-<def>t une colonne dont le noyau de tuf, de pierre, ou de moilon, est revetu de petrifications, &amp; coquillaHILLEUR. s. m. Ouvrier qui met les rocailles en oeuvre, &amp; qui fait des grottes</def>
+<def>t une colonne dont le noyau de tuf, de pierre, ou de moilon, est revetu de petrifications, &amp; coquillages</def>
 <pc>.</pc></re>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+    <form type="lemmaGrp">
+        <form type="lemma">
+            <orth>ROCAILLEUR</orth>
+        </form>
+        <gramGrp>
+            <pos>s</pos>
+            <pc>.</pc>
+            <gen>m</gen>
+            <pc>.</pc>
+        </gramGrp>
+    </form>
+    
+    <sense>
+        <def>Ouvrier qui met les rocailles en oeuvre, &amp; qui fait des grottes</def>
+    </sense>
+<pc>.</pc>
+</entry>
+    
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>ROCAMBOLE</orth>
 </form>
@@ -51931,7 +52226,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>EODOMONTADE</orth>
+<orth>RODOMONTADE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -51951,13 +52246,18 @@
 <def>Vanterie, ou menace vaine &amp; sans fondement. C'est le propre des Capitans de faire des rodomontades. Les poltrons qui font les braves font des rodomontades. gueux qui font les riches font des rodomontades. On a fait des livres de rodomontades Espagnoles. Rengainez vos rodomontades. Port-R</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<form>RODOuUL</form>
-<pc>,</pc>
-<def>est un petit arbrisseau, des feuilles duquel les Teinturiers se servent pour teindre en noir</def>
-<pc>.</pc></sense>
 </entry>
+    
+<entry>
+<form type="lemma">RODOUL</form>    
+<pc>,</pc>
+    
+<sense>
+<def>est un petit arbrisseau, des feuilles duquel les Teinturiers se servent pour teindre en noir</def>
+<pc>.</pc>
+</sense>
+</entry>
+    
 </div>
 <div>
 <head>ROG<pc>.</pc></head>
@@ -52121,7 +52421,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>RONEUR</orth>
+<orth>ROGNEUR</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -52173,11 +52473,31 @@
 <pc>.</pc>
 
 <sense>
-<def>Qui a de la rogne. Cheval rogneux, farcineux ROGNON. s. m. Partie double de l'animal où se fait la separation de l'urine. On l'appelle autrement le rein. Ils sont situez sur les muscles des lombes des deux tôtez de l'artere aorte &amp; de la veinc cave, l'un sous le foye, &amp; l'autre sous la rate. Dans l'homme le droit est plus bas que le gauche, mais le contraire arrive le plus souvent dans les quadrupedes. Ils sont attachez aux lombes &amp; au diaphragme par leur membrane exterieure, &amp; à la vessie par les ureteres ; le droit est aussi attaché à l'inestin cecum, &amp; le gauche au colon &amp; à la rate. Leur figure ressemble à une phaseole, ou à un croissant ; car ils sont courbes du côté de la veine cave, &amp; par dehors ils sont gibbeux. Il n'y a d'ordinaire que deux rognons, cependant on en a trouvé quelquefois trois, &amp; même quatre ; quelquefois on n'en a trouvé qu'un. Leur substance est composée de glandes &amp; de conduits fort petits : les glandes en occupent la circonference, &amp; servent à la separation de l'urine ; les conduits forment la partie intérieure, ils sortent des glandes, &amp; portent l'urine dans une cavité qu'on nomme le bassin, d'où elle passe par les ureteres dans la vessie. Les rognons sont couverts de deux membranes ; ils ont chacun une artere &amp; une veine, qu'on appelle emulgentes les arteres viennent de l'aorte, &amp; les veines vont se rendre à la veine cave. Ils ont aussi des nerfs qui prennent leur origine du plexus renal formé de rameaux du nerf intercostal &amp; des nerfs lombaires. Les ureteres sont des vaisseaux assez gros &amp; nerveux qui viennent des reins, &amp; qui se terminent à la vessie</def>
+<def>Qui a de la rogne. Cheval rogneux, farcineux </def>
 </sense>
 <pc>.</pc>
-
+</entry>
+ 
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>ROGNON</orth>    
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m</gen>
+</gramGrp>
+<pc>.</pc>
+</form>
+    
 <sense>
+<def>Partie double de l'animal où se fait la separation de l'urine. On l'appelle autrement le rein. Ils sont situez sur les muscles des lombes des deux tôtez de l'artere aorte &amp; de la veinc cave, l'un sous le foye, &amp; l'autre sous la rate. Dans l'homme le droit est plus bas que le gauche, mais le contraire arrive le plus souvent dans les quadrupedes. Ils sont attachez aux lombes &amp; au diaphragme par leur membrane exterieure, &amp; à la vessie par les ureteres ; le droit est aussi attaché à l'inestin cecum, &amp; le gauche au colon &amp; à la rate. Leur figure ressemble à une phaseole, ou à un croissant ; car ils sont courbes du côté de la veine cave, &amp; par dehors ils sont gibbeux. Il n'y a d'ordinaire que deux rognons, cependant on en a trouvé quelquefois trois, &amp; même quatre ; quelquefois on n'en a trouvé qu'un. Leur substance est composée de glandes &amp; de conduits fort petits : les glandes en occupent la circonference, &amp; servent à la separation de l'urine ; les conduits forment la partie intérieure, ils sortent des glandes, &amp; portent l'urine dans une cavité qu'on nomme le bassin, d'où elle passe par les ureteres dans la vessie. Les rognons sont couverts de deux membranes ; ils ont chacun une artere &amp; une veine, qu'on appelle emulgentes les arteres viennent de l'aorte, &amp; les veines vont se rendre à la veine cave. Ils ont aussi des nerfs qui prennent leur origine du plexus renal formé de rameaux du nerf intercostal &amp; des nerfs lombaires. Les ureteres sont des vaisseaux assez gros &amp; nerveux qui viennent des reins, &amp; qui se terminent à la vessie</def>    
+</sense>
+    <pc>.</pc>
+
+    <sense>
 <def>On appelle aussi un rognon de veau, la partie anterieure de la longe où est le rognen</def>
 </sense>
 <pc>.</pc>
@@ -52971,17 +53291,11 @@
 <usg>en termes de Blason</usg>
 <pc>,</pc>
 <def>se dit des armes ou dex pieces brisées, &amp; des chevrons dont la ponre d'enhaut est couppée. Voycz Brisue</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>A bâtons mmpus</orth>
-</form>
-</form>
 <pc>.</pc>
+</sense>
 
 <sense>
-<def>Pnrase adveriale &amp; proverbiale, qui se dit des choses qu'on fait negligemment, ou avec interruption. Il ne travaille à cet ouvrage qu'à b ons rompas, de temps en temps. Je n'ai entendu parler de cette affaire qu'a btons rompus ; pour dire, je n'en sçai pas la suite, les particularitez. Il y a aussi un jeu qu'on appelle de propos rompus</def>
+    <def>A bâtons rompus, Pnrase adveriale &amp; proverbiale, qui se dit des choses qu'on fait negligemment, ou avec interruption. Il ne travaille à cet ouvrage qu'à b ons rompas, de temps en temps. Je n'ai entendu parler de cette affaire qu'a btons rompus ; pour dire, je n'en sçai pas la suite, les particularitez. Il y a aussi un jeu qu'on appelle de propos rompus</def>
 </sense>
 <pc>.</pc>
 
@@ -53961,9 +54275,27 @@
 <form>s</form>
 <form>t tendre comme rosée</form>
 <pc>,</pc>
-<def>c'est de la resée. Marot a dit d'une Bergere : Hé bien, dit-, tendre rosée, Vvons ai-je fat du mal ainsi r ROSERAYE. s. f. Terroit planté de rofiers. En quelques lieux on dit rosoy</def>
-<pc>.</pc></re>
+<def>c'est de la resée. Marot a dit d'une Bergere : Hé bien, dit-, tendre rosée, Vvons ai-je fat du mal ainsi</def>
+<pc>?</pc></re>
 </entry>
+    
+<entry>
+    <form type="lemmaGrp">
+        <form type="lemma">
+            <orth>ROSERAYE</orth>
+        </form>
+        <pc>.</pc>
+        <gramGrp>
+            <pos>s</pos>
+            <pc>.</pc>
+            <gen>f</gen>
+            <pc>.</pc>
+        </gramGrp>
+    </form>
+        <sense>
+            <def>Terroit planté de rofiers. En quelques lieux on dit rosoy</def>
+        </sense>
+</entry>    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>ROSETTE</orth>
@@ -54040,17 +54372,28 @@
 <def>Arbrisseau ligneux, d'une odeur fort agrable, haut d'environ trois ou quatre pieds, poussant plufieurs mameaux grêles, durs, cendrez, garnis de feuilles longues, étroites, dures, roides, d'un verd brun par dessus, blanches par dessous. Ses fleurs sont en gueule, petites, mdlees parmi les feuilles ; chaque fleur est un tuyau decouppe par le haut en deux levres, de couleur bleue pâle, ou tirant sur le blanc. Lorsque ces fleurs sont passées, il leur succede des semences menues, presque rondes. En Latin Rosmarinus hortenfis angastiore folie C. Baun. Les feuilles &amp; les flcurs du rêmnarin sont cn usage en Medecine ; on s'en sert dans les maladies du cerveau &amp; des nerfs, dans l'apoplexie, ls paralysie, le vertige. On fait des essences &amp; des eaux de romarin. L'eau de la Reine d'Hongrie se fait avee l'esprit de vin &amp; les feurs de rômain. On taille le rêmarm en plusieurs figures agreables dans les jardins. Il y a quelques autres especes de marin</def>
 </sense>
 <pc>.</pc>
-
-<re><form>ROSSaNE</form>
-<form>.</form>
-<form>s. f</form>
-<form>.</form>
-<form>Nom qu</form>
-<pc>'</pc>
-<def>on donne à toutes les pêches, &amp; pavies qui sont de couleur jaune. La Quit. Il ya des roessanes hâtives, &amp; des rossunes tardives. El y en a de mâles, &amp; il y en a de femelles</def>
-<pc>.</pc></re>
 </entry>
+    
 <entry><form type="lemmaGrp">
+<form type="lemma">
+    <orth>ROSSANE</orth>
+</form>
+<pc>.</pc>
+    <gramGrp>
+        <pos>s</pos>
+        <pc>.</pc>
+        <gen>f</gen>
+    </gramGrp>
+    <pc>.</pc>
+</form>
+    
+<sense>
+<def>Nom qu'on donne à toutes les pêches, &amp; pavies qui sont de couleur jaune. La Quit. Il ya des roessanes hâtives, &amp; des rossunes tardives. El y en a de mâles, &amp; il y en a de femelles</def>
+<pc>.</pc>
+</sense>
+</entry>
+
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>ROSSE</orth>
 </form>
@@ -54162,7 +54505,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ROSSOLIS</orth>
+<orth>ROS SOLIS</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -55186,11 +55529,29 @@
 <def>Les Latins ont dit aussi dans le même sens, crine ruber, comme on voit dans Martial. On dit aussi, Rouge au soir, blanc au matin, c'est la journée du Pelerin ; c'est-à-dire, que ce sont les signes du beau temps</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<def>ROUGEaStrE, ou RouGeatrE. adj. m. &amp; f. Qui tire sur le rouge. Nuage rougeâre. Ablan</def>
-<pc>.</pc></sense>
 </entry>
+    
+<entry>
+<form type="lemmaGrp">
+    <form type="lemma">
+        <orth>ROUGEASTRE</orth>
+</form>    
+    <pc>,</pc>
+    <form type="variant">ou RouGeatrE</form>
+<gramGrp>
+    <pos>adj</pos>
+    <pc>.</pc>
+    <gen>m. &amp; f</gen>
+</gramGrp>
+    <pc>.</pc>
+</form>
+    
+<sense>
+<def>Qui tire sur le rouge. Nuage rougeâre. Ablan</def>
+<pc>.</pc>
+</sense>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>ROUGEAUD</orth>
@@ -55302,14 +55663,8 @@
 <form>Rougir</form>
 <pc>,</pc>
 <def>se dit encore plus figurément de certaines choses. La raison rougit d'avoir perdu son empire, &amp; de le voir usurpé par les sens. M. Esprit</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ROU</orth>
-</form>
-</form>
 <pc>.</pc>
+</sense>
 
 <sense>
 <def>Son sert de splendeur reetu Fait gronder le merite, &amp; rougir la vrtu. Boil</def>
@@ -55798,7 +56153,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ROUPIEU</orth>
+<orth>ROUPIEUX</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -55851,11 +56206,29 @@
 <xr>Voyez donc Rouvre</xr>
 </sense>
 <pc>.</pc>
-
-<sense>
-<def>ROUSSEASTRE, ou ROuSSatrE. adj. m. &amp; f. Qui tire sur le roux. La toile de soye est toûjours un peu roussâtre, ne se blanchit pas si bien que de la Hollande</def>
-<pc>.</pc></sense>
 </entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>ROUSSEASTRE</orth>
+<pc>,</pc>
+<form type="variant">ROUSSATRE</form>
+<gramGrp>
+<pos>adj</pos>
+<pc>.</pc>
+<gen>m. &amp; f</gen>
+</gramGrp>
+<pc>.</pc>
+</form>
+</form>
+    
+<sense>
+<def>Qui tire sur le roux. La toile de soye est toûjours un peu roussâtre, ne se blanchit pas si bien que de la Hollande</def>
+<pc>.</pc>
+</sense>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>ROUSSEAU</orth>
@@ -56495,14 +56868,19 @@
 </gramGrp>
 </form>
 <pc>.</pc>
-
+    
+<re>
+    <form type="lemma">A la Royale</form>    
 <sense>
 <def>On appelloit ainsi une sorte de culote, que l'on portoit il y a quelques années. La royale étoit large : elle avoit au bas des canons lacez de rubans, enjolivez de points de France, &amp; enrichis de broderie de drap decouppé à jour, &amp; de plusieurs toufes de rubans</def>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>
+</re>
 </entry>
+              
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>A la Royale</orth>
+<orth></orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -57688,21 +58066,9 @@
 <sense>
 <form>Rustique</form>
 <pc>,</pc>
-<def>signifie aussi, Inculte, sauvage ; sans art. Ces bois, ces rochers ont quelque chose de rustique fort agreable. Il ajouta la politesse de l'Art aux agrémens rustiques de la nature. Fl. L'agrément de l'Eclogue n'est pas attaché aux choses rustiques ; mais à ce qu'il y a de tranquille dans la vie de la campagne. Font. Cette grotte est fort rustique, aà l'air rustique. La Tragedie a commencé par des chansons rustiques. Dac</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>T</orth>
-</form>
-<pron>ai deux vases antiques</pron>
-</form>
-<pc>,</pc>
-
-<sense>
-<def>Embellis de festins, &amp; de danses rustiques. San. Ma Muse rustique Ne pretend point enfler la trompette heroique. Font</def>
-</sense>
+    <def>signifie aussi, Inculte, sauvage ; sans art. Ces bois, ces rochers ont quelque chose de rustique fort agreable. Il ajouta la politesse de l'Art aux agrémens rustiques de la nature. Fl. L'agrément de l'Eclogue n'est pas attaché aux choses rustiques ; mais à ce qu'il y a de tranquille dans la vie de la campagne. Font. Cette grotte est fort rustique, aà l'air rustique. La Tragedie a commencé par des chansons rustiques. Dac. J'ai deux vases antiques, Embellis de festins, &amp; de danses rustiques. San. Ma Muse rustique Ne pretend point enfler la trompette heroique. Font</def>
 <pc>.</pc>
+</sense>
 
 <sense>
 <form>Rustique</form>
@@ -57742,7 +58108,9 @@
 <def>se dit aussi substantivement. Il y a dans ce païsage un certain rustique qui plaît fort</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+    
+<entry>
+<form type="lemmaGrp">
 <form type="lemma">
 <orth>RUSTIQUEMENT</orth>
 </form>
@@ -57757,6 +58125,7 @@
 <def>D'une maniere rustique &amp; grossiere</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>RUSTIQUER</orth>

@@ -2,8 +2,6 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
-<?xml-stylesheet type="text/css" href="teixdicotest.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
         <fileDesc>
@@ -6343,56 +6341,39 @@
 <usg>est aussi un vieux terme de Palais</usg>
 <pc>,</pc>
 <def>qui signifioit avec. On le met encore à la fin de tous les exploits &amp; des avenirs. O intimation ; pour dire, avec intimation</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>O</orth>
-</form>
-<pc>,</pc>
-<form type="inflected">
-<orth type="part">en termes</orth>
-</form>
-</form>
-<sense>
-<def>Ecclesiastiques, se dit de neuf Antiennes, que l'Eglise chante neuf jours avant Noël à commencer la premiere le 15. Decembre, &amp; fnir la derniere le 23. Sonner l'0. Aller à l'o. Chanter l'0. On appelle ces Antiennes les O de Noël, parcequ'elles se chantent avant Noël, &amp; qu'elles commencent toutes par des o. Les O selon l'usage de Paris &amp; de Rome ont été traduits en François</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>O</orth>
-</form>
-<pc>,</pc>
-<form type="inflected">
-<orth type="part">en termes d</orth>
-</form>
-</form>
-<re><form>'Arithmetique</form>
-<form>s</form>
-<form>ignifie un ero</form>
-<pc>;</pc>
-<def>&amp; on dit proverbialement, qu'un homme est un e en chiffre ; Tome III. pour dire, que c'est un homme inutile qui n'est bon à rien, dont on ne considere point le sufrage, dont on ne fait point de cas en une compagnie</def>
-<pc>.</pc></re>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>O</orth>
-</form>
-<pc>,</pc>
-<form type="inflected">
-<orth type="part">chez</orth>
-</form>
-</form>
-<pc>les</pc>
+<pc>.</pc>
+</sense>
+    
 
 <sense>
-<def>Anciens étoit une lettre numerale qui signifioit onze, suivant ce vers : O numerum gestas qui nune undcimins extat. Quand on met au dessus un titre , il signifie oma mille</def>
+<form>O</form>
+<pc>,</pc>
+<usg>en termes Ecclesiastiques</usg>
+<pc>,</pc>
+<def>se dit de neuf Antiennes, que l'Eglise chante neuf jours avant Noël à commencer la premiere le 15. Decembre, &amp; fnir la derniere le 23. Sonner l'0. Aller à l'o. Chanter l'0. On appelle ces Antiennes les O de Noël, parcequ'elles se chantent avant Noël, &amp; qu'elles commencent toutes par des o. Les O selon l'usage de Paris &amp; de Rome ont été traduits en François</def>
 <pc>.</pc></sense>
+
+<sense>
+<form>O</form>
+<pc>,</pc>
+<usg>en termes d'Arithmetique</usg>
+<pc>,</pc>    
+<def>signifie un ero ; &amp; on dit proverbialement, qu'un homme est un e en chiffre ; Tome III. pour dire, que c'est un homme inutile qui n'est bon à rien, dont on ne considere point le sufrage, dont on ne fait point de cas en une compagnie</def>
+<pc>.</pc>
+</sense>
+    
+<sense> 
+<form>O</form>
+<pc>,</pc>
+<def>chez les Anciens étoit une lettre numerale qui signifioit onze, suivant ce vers : O numerum gestas qui nune undcimins extat. Quand on met au dessus un titre , il signifie oma mille</def>
+<pc>.</pc>
+</sense>
 </entry>
 </div>
 <div>
 <head>OBE<pc>.</pc></head>
-<entry><form type="lemmaGrp">
+
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>OBEDIENCE</orth>
 </form>
@@ -6857,21 +6838,28 @@
 <def>Aniversaire ; Messe fondée qu'on dit pour un deffunt tous les ans à pareil jour de sa mort. Le plus ancien abit da France est l'anniversaire du Roi Childebart, qui est fondé en l'Abhare de baint Germain des Frez, &amp; qui se dit la veille de la Fête de Saint Thomas. Il y a à Nôtre Dame un ohit salé, qu'on nomme ainsi, à cause do quelque distribution de sel qui s'y fait. Beu de Chanoines manquent d'y assister</def>
 </sense>
 <pc>.</pc>
-
-<re><form>OBITuaIRe</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Qui</form>
-<def>se dit des regîtres où l'on écrit le nom des morts, &amp; le jour de leur sepulture. En plusieurs endroits on les appelle otraires. Eextrait des Regîtres ohituaires d'una telle Farroisse. On le</def>
-<form>dit</form>
-<gramGrp>aussi du livre où on écrit la fondation de obits</gramGrp>
-<form>.</form>
-<form>Mais celui</form>
-<pc>-</pc>
-<def>ci s'appelle souvent Martyrolore</def>
-<pc>.</pc></re>
 </entry>
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>OBITuaIRe</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>adj</pos>
+<pc>.</pc>
+</gramGrp>
+</form>
+    
+<sense>
+<def>Qui se dit des regîtres où l'on écrit le nom des morts, &amp; le jour de leur sepulture. En plusieurs endroits on les appelle otraires. Eextrait des Regîtres ohituaires d'una telle Farroisse. On le dit aussi du livre où on écrit la fondation de obits</def>
+<pc>.</pc>
+<note>Mais celui-ci s'appelle souvent Martyrolore</note>
+<pc>.</pc>
+</sense>
+</entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>OBITUAIRE</orth>
@@ -7012,7 +7000,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>OBLIGEAMMEN T</orth>
+<orth>OBLIGEAMMENT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -7091,9 +7079,29 @@
 <sense>
 <form>Obligé</form>
 <pc>,</pc>
-<def>signifie aussi, Redevable. Je vos fuis ligé de mon repos. B e suit obligé de son salmt qa'au hzardOBLIGÉ. f. m. Ace d'un cniogeen qu'on fait pour un vale, pour un garçon qo'on met en apprentissage. Les obligez des apprentifs doivent êere enregîtrez sur le regître de la jurande. L'Ordonmance deffend de recevoir des valets sans un repondant par écrit, sans en tirer un obligé</def>
+<def>signifie aussi, Redevable. Je vos fuis ligé de mon repos. B e suit obligé de son salmt qa'au hzard</def>
 <pc>.</pc></sense>
 </entry>
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>OBLIGÉ</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m</gen>    
+</gramGrp>
+<pc>.</pc>
+</form>
+    
+<sense>
+<def>Acte d'un cniogeen qu'on fait pour un vale, pour un garçon qo'on met en apprentissage. Les obligez des apprentifs doivent êere enregîtrez sur le regître de la jurande. L'Ordonmance deffend de recevoir des valets sans un repondant par écrit, sans en tirer un obligé</def>    
+</sense>    
+</entry> 
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>OBLIQUE</orth>
@@ -7559,10 +7567,23 @@
 <def>D'une manereobscure, &amp; peu claire ; ambiguëment. Dans des lieux souterrains on marche obscurément. Les Oracles ne predisent les choses qu'obscurément. Cet Auteur a vêcu, a écrit fort obscurément, Je ne puis souffrir que les Historiens parlent obscurément. Bou. OBSCURItÉ. sabst. fem. Privaton de lumiere, soit en toux, soit en partie. L'obscurité d'une caverne. L'aurore commençort à chasser les tenebres, &amp; l'obscumé. Une grande bscurité couvroit la ville. Voit. Seigneur, l'obscurité des tenebres n'est point obscure pour vous. Port. Te d'as frapé mes yeux d'un moment e cirte, Que pear las alimer dans plus d'obscurité. Corn</def>
 </sense>
 <pc>.</pc>
+</entry>
 
-<sense>
-<form>Oescurité</form>
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>Obscurité</orth>    
+</form> 
 <pc>,</pc>
+<gramGrp>
+<pos>subst</pos>  
+<pc>.</pc>
+<gen>fem</gen>
+</gramGrp>
+<pc>.</pc>
+</form>
+    
+<sense>
 <def>signifie en Morale, Tenebres ; ce qui est caché, qui se derobe aux yeux des bommes ; qui n'a point d'éclat ; qui ne fait pount de bruit. Il y a des gens de merite qui se plaisent à demeurer dans l'obscurité ; qui ne veulent point se montrer. Cette illustre Maison étoit tombée dans l'abscurité dpauis un siecle ; mais umn tel l'a tirée de l'obscurite, l'a remuse en splendeur. L''obscurité vaut mieux que tant de renommée. Corn. Combien de gens se sont fait jour à force de crimes à travers l'obscurité des temps ? Oe. M. Il est de la misericorde de Dieu de tenir ses Elus à couvert de la vanité par une obscurité salntaire. Nac. Le vice toujours sombre aime l'obscurité. Boi. Il faut avoir l'essprit noirci de melancolie pour mener une vie sauvage, &amp; vivre toujours dans l'obscurité. St. Ev. Le Itile de cet Auteur a beaucoup d'obscurité. L'obscurité d'une énigme, d'une prophetie, d'un passage. On e peut penetrer dans l'obscurité de l'avenir. Ce passage est si clair, que si on ne l'entend, c'est trouver de l'abscurité en plein midi</def>
 </sense>
 <pc>.</pc>
@@ -7968,16 +7989,30 @@
 <def>Oestiné. s. m. Qui s'obstine. Un obstiné plaide toute sa vie, ne se rend jamais</def>
 </sense>
 <pc>.</pc>
-
-<re><form>OBSTRuCTIF, ive</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Qui cau</form>
-<pc>s</pc>
-<def>e des obstructions. Il y a des alimens qui sont cestructirfi, difficiles à digerer, dont les parties bouchent les conduits des humeurs, &amp; y causent des ostructions, comme les coins, les nefles, &amp;e</def>
-<pc>.</pc></re>
 </entry>
+    
+<entry>    
+<form type="lemmaGrp">
+<form type="lemma">  
+<orth>OBSTRuCTIF</orth>
+</form>
+<pc>,</pc>
+<form type="inflected">
+<orth type="part">ive</orth>
+</form>   
+<pc>.</pc>
+<gramGrp>
+<pos>adj</pos>
+</gramGrp> 
+<pc>.</pc>
+</form>
+    
+<sense>    
+<def>Qui cause des obstructions. Il y a des alimens qui sont cestructirfi, difficiles à digerer, dont les parties bouchent les conduits des humeurs, &amp; y causent des ostructions, comme les coins, les nefles, &amp;e</def>
+<pc>.</pc>
+</sense>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>OBSTRUCTION</orth>
@@ -8056,9 +8091,25 @@
 <pc>.</pc>
 
 <sense>
-<def>Action par laquelle on obtient, ou la chose même qu'on obtient. L'obtemios de cet arrêt hui a couté plus de mille écus. L'obtomin d'un Benefice est nulle, quand on a manqué d'exprimer les autres Benefices qu'on possede. oBturatErs. adj</def>
+<def>Action par laquelle on obtient, ou la chose même qu'on obtient. L'obtemios de cet arrêt hui a couté plus de mille écus. L'obtomin d'un Benefice est nulle, quand on a manqué d'exprimer les autres Benefices qu'on possede</def>
 <pc>.</pc>
-<usg>Terme d'Annomie</usg>
+</sense>
+</entry>
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>OBTURATEURS</orth>    
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>adj</pos>
+<pc>.</pc>
+</gramGrp>
+</form>
+    
+<sense>    
+<usg>Terme d'Anatomie</usg>
 <pc>,</pc>
 <def>qui se dit de deux muscles de la cuisse, parcequ'ils bouchent le trou qui sst entre l'os pris, &amp; celti de la hanche</def>
 </sense>
@@ -8072,6 +8123,7 @@
 <gloss>beuher</gloss>
 <pc>.</pc></etym>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>OBTUS</orth>
@@ -9047,7 +9099,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>OCULUSCHRISTI</orth>
+<orth>OCULUS CHRISTI</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -9228,18 +9280,28 @@
 <gloss>formé de odous, dent, &amp; de algos, douleur</gloss>
 </etym>
 <pc>.</pc>
-
-<re><form>ODONTALGIQuUE</form>
-<form>.</form>
-<form>s</form>
-<pc>.</pc>
-<gramGrp>masc. &amp; adj</gramGrp>
-<form>.</form>
-<form>Remede propre pour la douleur des dents</form>
-<pc>.</pc>
-<def>Les huiles de gerofle, de buis, de camphre sont odontalgiquex</def>
-<pc>.</pc></re>
 </entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma">
+<orth>ODONTALGIQUE</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>masc</gen>
+<pc>.</pc>
+<pos>&amp; adj</pos>
+</gramGrp>
+</form>
+
+<sense>
+<def>Remede propre pour la douleur des dents. Les huiles de gerofle, de buis, de camphre sont odontalgiquex</def>
+<pc>.</pc>
+</sense>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>ODORANT</orth>
@@ -9375,22 +9437,12 @@
 <pc>.</pc>
 
 <sense>
-<def>Conduite sage ; menagement prudent qu'on fait de son bien, ou de celui d'autmui. L'acommie est la seconde partie de la Morale, qui gnseigne à bien gouverner une famille ; une Commumaute. Entendre bien l'momie. Ce prudent pere de samille avoit accru ses biens par une prevoyante conoms. M. de M. Je n'apprure ps ue ceo mgs trifte, qui e contente de sarisfaire aux besoins, &amp; ne donne en au plasir. St. Ev. Il ny a pas loin de l'etoxomie à avarice. Oe. M. Les femmes du grand air regardent I'economie comme une vertu bourgeoise. Bell. Le Prince de Condé fit voir qu'il avoit une parfaite intelligence de l'economie militaire, &amp; combien la prevoyance est necessaire à un General. Sar. Un avare deguise son avarice sous le nom honnête d'economie. Bell. Une economie sordide fait tomber dans le mepris</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>OEC</orth>
-</form>
+<def>Conduite sage ; menagement prudent qu'on fait de son bien, ou de celui d'autmui. L'acommie est la seconde partie de la Morale, qui gnseigne à bien gouverner une famille ; une Commumaute. Entendre bien l'momie. Ce prudent pere de samille avoit accru ses biens par une prevoyante conoms. M. de M. Je n'apprure ps ue ceo mgs trifte, qui e contente de sarisfaire aux besoins, &amp; ne donne en au plasir. St. Ev. Il ny a pas loin de l'etoxomie à avarice. Oe. M. Les femmes du grand air regardent I'economie comme une vertu bourgeoise. Bell. Le Prince de Condé fit voir qu'il avoit une parfaite intelligence de l'economie militaire, &amp; combien la prevoyance est necessaire à un General. Sar. Un avare deguise son avarice sous le nom honnête d'economie. Bell. Une economie sordide fait tomber dans le mepris. St. Ev</def>
 <pc>.</pc>
-<form type="lemma">
-<orth>OED</orth>
-</form>
-</form>
-<pc>.</pc>
+</sense>
 
 <sense>
-<def>OEN. sition à l'oeconomie Legale, &amp; renferme tout ce qui appartient à l'alliance de grace que Dieu a traitée avec les hommes par Jesus-Christ</def>
+<def> sition à l'oeconomie Legale, &amp; renferme tout ce qui appartient à l'alliance de grace que Dieu a traitée avec les hommes par Jesus-Christ</def>
 </sense>
 <pc>.</pc>
 
@@ -9400,6 +9452,7 @@
 <def>signifie quelquefois, le bel ordre, &amp; la jute disposition des choses. C'est une chose admirable que l'economie &amp; la disposition des parties du corps humain, &amp; de voir comme chacune fait regulierement ses fonctions. On dit aussi l'economie d un bâtiment, en parlant du menagement de la place, &amp; de la belle &amp; commode dispolition des appartemens. On admire aussi l'economie des abeilles, &amp; la belle maniere dont elles se gouvernent dans leur petite Republique. On dit aussi par la même raison l'economie d'un Etat</def>
 <pc>.</pc></sense>
 </entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>OECONOMIQUE</orth>
@@ -9516,7 +9569,7 @@
 <head>OEN<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ENANTHE</orth>
+<orth>OENANTHE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -10674,19 +10727,21 @@
 <def>qui se dit des parties qui travaillent pour les autres. Le coeur, le cerveau, le poumon, l'estomac, sont des parties officiales, qui ont un office ou fonction particuligre pour entretenir le reste du corps</def>
 </sense>
 <pc>.</pc>
-
-<re><form>OFFICIALIte</form>
-<form>.</form>
-<form>s</form>
-</re>
-<form type="lemmaGrp">
-<pc>.</pc>
-<gramGrp>
-<pos>f</pos>
-</gramGrp>
+</entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma">
+    <orth>OFFICIALITé</orth>    
 </form>
 <pc>.</pc>
-
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>f</gen>
+</gramGrp> 
+<pc>.</pc>
+</form>
+    
 <sense>
 <def>Cour, ou Justice d'Eglise dont le Chef est l'Official. La partie publique dans les oficialitez, s'appelle le Promoteur. Le Lieutenant s'appelle le Vice-gerent. La pratique des officialitez est presentement reduite à peu de chose. Les actions en promesse, ou en dissolution de mariage, sont les causes les plus ordinaires de l'officialité. On a abrogé les congrés qu'on ordonnoit ci-devant dans les Officialitez, par arrêt du 18. Fevrier 1677</def>
 <pc>.</pc>
@@ -10814,10 +10869,30 @@
 <pc>.</pc>
 
 <sense>
-<def>Honnête, obligeant; prompt à rendre service, un bon office. Un homme officieux gagne le coeur de tout le monde. La societé n'est proprement qu'un commerce de mensonges officieux, &amp; de fausses loüanges, où l'on se flatte pour être flatté. Fl. Un homme vain n'est officieux que pour avoir l'approbation publique. M. Esp. Qu'il soit doux, complaisant, officieux, sincere, on le veut y souscris. Boil. OFFICIEuSEMENT. adv. Obligeamment ; d'une maniere officieuse. Il l'a servi de bonne grace, &amp; fort officieusement</def>
-<pc>.</pc></sense>
+<def>Honnête, obligeant; prompt à rendre service, un bon office. Un homme officieux gagne le coeur de tout le monde. La societé n'est proprement qu'un commerce de mensonges officieux, &amp; de fausses loüanges, où l'on se flatte pour être flatté. Fl. Un homme vain n'est officieux que pour avoir l'approbation publique. M. Esp. Qu'il soit doux, complaisant, officieux, sincere, on le veut y souscris. Boil</def>
+<pc>.</pc>
+</sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>OFFICIEuSEMENT</orth>
+</form>
+<pc>.</pc>    
+<gramGrp>
+<pos>adv</pos>
+</gramGrp>
+<pc>.</pc>
+</form>
+
+<sense>
+    <def>Obligeamment ; d'une maniere officieuse. Il l'a servi de bonne grace, &amp; fort officieusement</def>
+</sense>
+<pc>.</pc>
+</entry>
+    
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>OFFRANDE</orth>
 </form>
@@ -11993,7 +12068,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>DLYMPIADE</orth>
+<orth>OLYMPIADE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -12906,7 +12981,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ONDE</orth>
+<orth>ONDé</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -12921,18 +12996,8 @@
 
 <sense>
 <def>Qui est fait en ondes ; qui est inegal ; tortueux. Du calemot ondé, de la mohere ondée, ce sont des étoffes qui ont passé sous la calendre, qui y fait paroître des ondes, parcequ'il y a des parties plus élevées les unes que les autres par la violente pression des rouleaux gravez</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>OND</orth>
-</form>
 <pc>.</pc>
-<form type="lemma">
-<orth>ONE</orth>
-</form>
-</form>
-<pc>.</pc>
+</sense>
 
 <sense>
 <def>On dit ausi de toutes les pieces d'Armoiries, qu'elles sont andées, quand elles sont faites, ou composces de lignes ondoyantes</def>
@@ -14215,25 +14280,10 @@
 <sense>
 <form>Opinion</form>
 <pc>,</pc>
-<def>signifie aussi une croyance probable ; un jugement de l'esprit douteux &amp; incertain</def>
+    <def>signifie aussi une croyance probable ; un jugement de l'esprit douteux &amp; incertain. Ainsi on dit en termes de Logique, que la demonstration engendre la science, &amp; Fargument probable engendre i'opinion. Si l'aquiescement de l'esprit à une verité qu'on lui propose, est accompagné de doute ; c'est ce qu'on nomme opinion. Log. L'opinion est une connoissance douteuse qui n'est pas sans apparence, &amp; sans fondement ; mais qui n'a point de certitude. Fl. Lapinion est un acquiescement de l'esprit ; mais un acquiescement qui n'est pas ferme, parcequ'il n'a pas des raisons assez fortes pour ne blancer point. D. G. P. L'opinion n'est qu'une legere certitude, fondée sur des vraisemblances. Id. L'opinion n'est pas absolument une incertitude : c'est un milieu entre le doute, &amp; la science. Id</def>
 <pc>.</pc>
-<usg>Ainsi on dit en termes de Logique</usg>
-<pc>,</pc>
-<def>que la demonstration engendre la science, &amp; Fargument probable engendre i'opinion. Si l'aquiescement de l'esprit à une verité qu'on lui propose, est accompagné de doute ; c'est ce qu'on nomme opinion. Log. L'opinion est une connoissance douteuse qui n'est pas sans apparence, &amp; sans fondement ; mais qui n'a point de certitude. Fl. Lapinion est un acquiescement de l'esprit ; mais un acquiescement qui n'est pas ferme, parcequ'il n'a pas des raisons assez fortes pour ne blancer point. D. G</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>P</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>L'opinion n'est qu'une legere certitude, fondée sur des vraisemblances. Id. L'opinion n'est pas absolument une incertitude : c'est un milieu entre le doute, &amp; la science. Id</def>
 </sense>
-<pc>.</pc>
-
+    
 <sense>
 <form>Opinion</form>
 <pc>,</pc>
@@ -14261,6 +14311,7 @@
 <def>se dit aussi des dogmes d'une Secte, ou d'un parti, ou des Philosophes en general. Les Modernes ont fait des experiences qui ont detruit les opinions des Anciens. L'opinion de la pesanteur de l'air, de la circulation du sang, sont maintenant suivies assez eneralement. On a appellé la doctrine de Luther &amp; le Calvin les nouvelles opinions</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>OPISTHOTONOS</orth>
@@ -14934,7 +14985,7 @@
 <head>OPU<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>OPpULEMMENT</orth>
+<orth>OPULEMMENT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -14964,18 +15015,30 @@
 <def>Richesses, abondance de biens. Vivre dans la gloire &amp; dans l'opulence. Aelan. L'opulence est bien souvent un obstacle au salut. Les Princes naissent dans le luxe, &amp; dans l'opulence ; &amp; leurs premiers regards tombent sur de grands objets. Fl</def>
 </sense>
 <pc>.</pc>
-
-<re><form>OPpULENT, ente</form>
-<form>.</form>
-<form>adj</form>
-<pc>.</pc>
-<def>Riche</def>
-<form>.</form>
-<form>Cette mai</form>
-<pc>s</pc>
-<def>on est devenue opulente depuis sa faveur. Les Hollandois se sont rendus opulens par le trafic des Indes. A mesure que l'on devient opulent, l'on devient plus fier. Bell</def>
-<pc>.</pc></re>
 </entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>OPULENT</orth>
+</form>
+<pc>,</pc>
+<form type="inflected">
+<orth type="part">ente</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>adj</pos>
+</gramGrp>    
+<pc>.</pc>
+</form>
+
+<sense>
+<def>Riche. Cette maison est devenue opulente depuis sa faveur. Les Hollandois se sont rendus opulens par le trafic des Indes. A mesure que l'on devient opulent, l'on devient plus fier. Bell</def>
+<pc>.</pc>
+</sense>
+</entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>OPUNTIA</orth>
@@ -14990,9 +15053,28 @@
 <pc>.</pc>
 
 <sense>
-<def>C'est un nom qu'on a donné au figuie d'Inde, à cause que les feuilles de ses especes produisent des racines quand on les met en terre ; ainsi qu'une plante dont Thcophraste fait mention, &amp; que l'on nommoit autrefois opuntia, parcequ'elle se trouvoit auour d'une ville de Grece appellée Opus, ou Opuns. Voycz Ficuier d'Inde. OPpUSCULE. s. m. Petit ouvrage, petit Traitté. Les Opascles de Plutarque. La Mothe le Vayer a fait plusieurs Traittez appellez Opuscules Sceptiques ; entr'aures i a fait un Opuscule sceptique inttulé du sens cenmun</def>
+<def>C'est un nom qu'on a donné au figuie d'Inde, à cause que les feuilles de ses especes produisent des racines quand on les met en terre ; ainsi qu'une plante dont Thcophraste fait mention, &amp; que l'on nommoit autrefois opuntia, parcequ'elle se trouvoit auour d'une ville de Grece appellée Opus, ou Opuns. Voycz Ficuier d'Inde</def>
 <pc>.</pc></sense>
 </entry>
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>OPpUSCULE</orth>
+</form>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m</gen>
+</gramGrp>
+<pc>.</pc>    
+</form>  
+    
+<sense>
+<def>Petit ouvrage, petit Traitté. Les Opascles de Plutarque. La Mothe le Vayer a fait plusieurs Traittez appellez Opuscules Sceptiques ; entr'aures i a fait un Opuscule sceptique inttulé du sens cenmun</def>    
+</sense>    
+</entry>
+
 </div>
 <div>
 <head>OR<pc>.</pc></head>
@@ -15490,7 +15572,7 @@
 <head>ORB<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ORB</orth>
+<orth>ORBE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -15508,17 +15590,13 @@
 </sense>
 <pc>.</pc>
 
-<etym>
-<lbl>Ce mot vient de</lbl>
-<foreign>ce</foreign>
-<gloss>que la meurtrissure qui arrive par ces sortes de coups est ordinairement ronde &amp; extensa in obem</gloss>
-</etym>
-<form type="lemmaGrp">
-<pc>.</pc>
-<form type="inflected">
-<orth type="part">Orse</orth>
-</form>
-<pc>.</pc>
+<etym>Ce mot vient de ce que la meurtrissure qui arrive par ces sortes de coups est ordinairement ronde &amp; extensa in obem</etym>
+
+<sense>
+<form>Orbe</form>
+<pc>,</pc>
+
+<form>
 <gramGrp>
 <pos>subst</pos>
 <pc>.</pc>
@@ -15527,12 +15605,13 @@
 </form>
 <pc>.</pc>
 
-<sense>
 <usg>Terme d'Astronomie</usg>
 <pc>.</pc>
 <def>C'est un globe, ou un corps spherique contenu sous deux superficies : l'une concave, &amp; l'autre convexe. Tous les cieux sont de grands orbes aurez, &amp; diaphanes, qui sont renfermez les uns dans les autres. Ce sont de grands cercles qui dans leur épaisseur enfermens, &amp; embrassent le corps des Planetes, &amp; dont le ryon est comps depuis le centre de la terre jusqu'au plus haut point où monte la Planete, en supposant la terre dans cle centre. Il y a des orbes concentriques, c'est-à-dire, qui ont tous un même centre : &amp; des orbes excentriques, c'est-à-dire, qui ont chacun leur centre different Il y a des orbes concentriques, &amp; excentriques en partie, c'est-à-dire, dont la surface exterieure, &amp; interieure n'a pas un même centre, à cause de leur differente épaisseur. Le grand Orbe est le globe dans lequel tourne le soleil, dont le rayon va du centre de la terre au soleil. Les Coperniciens estiment que tout le grand Orbe n'est qu'un point à l'égard du Firmament</def>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>ORBICULAIRE</orth>
@@ -15629,16 +15708,28 @@
 <def>Plante qui pousse plusieurs tiges à la hauteur d'environ un pied, &amp; dont les feuilles sont semblables à celles de la buglose sauvage, longues d'un ou de deux pouces, garnies de poils rudes. Ses fleurs naisseit aux extremitez des branches, en forme d'entonnoir à pavillon decouppé, de couleur purpurine. Ses semences sont semblables à la tête d'une vipere, de couleur cendrée. Sa racine est grosse comme le pouce, longue, rouge : on s'en sert pour donner une teinture rouge à de l'huile, à des pommades, à de la cire. Les Apothicaires l'emploient pour donner cette même couleur à l'onguent rosat : elle est aussi astringente, propre pour arrêter les cours de ventre. En Latin anchusa puniceis floribus. C. Bauh. Mr. Tournefort met cette plante parmi les especes de buglose, il l'appelle Buglessum radice rubra, sive anchusa vulgatior</def>
 </sense>
 <pc>.</pc>
-
-<re><form>ORCHESOGrRAPHIE</form>
-<form>.</form>
-<form>s. f</form>
-<form>.</form>
-<form>Art &amp; de</form>
-<pc>s</pc>
-<def>cription de la danse, dont les pas sont nottez avec des nottes de Musique. Il y a un Traitté curieux fait par Thoinet Arbeau imprimé à Langres en 1588. qu'il a intitulé orchesographie. C'est le premier, ou peut-être le seul qui a notté, &amp; figuré les pas de la danse de son temps, de la même maniere qu'on notte le chant &amp; les airs</def>
-<pc>.</pc></re>
 </entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>ORCHESOGRAPHIE</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>f</gen>
+</gramGrp>
+<pc>.</pc>
+</form>
+
+<sense>
+<def>Art &amp; description de la danse, dont les pas sont nottez avec des nottes de Musique. Il y a un Traitté curieux fait par Thoinet Arbeau imprimé à Langres en 1588. qu'il a intitulé orchesographie. C'est le premier, ou peut-être le seul qui a notté, &amp; figuré les pas de la danse de son temps, de la même maniere qu'on notte le chant &amp; les airs</def>
+<pc>.</pc>
+</sense>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>ORCHESTRE</orth>
@@ -15670,28 +15761,11 @@
 <pc>.</pc>
 
 <sense>
-<def>Plante qui pousse de sa racine sinx ou sept feuilles mediocrement larges, lisses, semblables a celles du lis, marquées par dessus de quelques taches rouge-noirâtres, quelquefois sans taches. Sa tige est haute d'environ un pied, ronde, rayée : elle porte en sa sommité un long épi de fleurs purpurines, odorantes, agreables à la vue, blanchâtres vers le fond, &amp; parsemées de quelques points d'un purpurin foncé. Lorsque cette fleur est passée, il lui succede un fruit semblable à une lanterne a trois côtes contenant des semences semblables à de la scieure de bois. Ses racines sont deux tubercules charnus, ronds comme des olives, l'un plein &amp; nouveau, l'autre fongueux, ridé &amp; sletri. En Latin Oorchis morio mas foltis maculatis</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>C</orth>
-</form>
+    <def>Plante qui pousse de sa racine sinx ou sept feuilles mediocrement larges, lisses, semblables a celles du lis, marquées par dessus de quelques taches rouge-noirâtres, quelquefois sans taches. Sa tige est haute d'environ un pied, ronde, rayée : elle porte en sa sommité un long épi de fleurs purpurines, odorantes, agreables à la vue, blanchâtres vers le fond, &amp; parsemées de quelques points d'un purpurin foncé. Lorsque cette fleur est passée, il lui succede un fruit semblable à une lanterne a trois côtes contenant des semences semblables à de la scieure de bois. Ses racines sont deux tubercules charnus, ronds comme des olives, l'un plein &amp; nouveau, l'autre fongueux, ridé &amp; sletri. En Latin Oorchis morio mas foltis maculatis. C. Bauh. Les racines de l'orchs sont propres pour fortifier les parties de la generation, &amp; pour aider à la conceptien. Il y a plusieurs autres especes d'orchis</def>
 <pc>.</pc>
-<gramGrp>
-<pos>Bauh</pos>
-</gramGrp>
-</form>
+<etym>Ce mot est Grec, il signifie testicule, &amp; l'on a donné ce nom à cette plante, parceque ses racines ressemblent aux testicules d'un animal</etym>
 <pc>.</pc>
-
-<sense>
-<def>Les racines de l'orchs sont propres pour fortifier les parties de la generation, &amp; pour aider à la conceptien. Il y a plusieurs autres especes d'orchis</def>
 </sense>
-<pc>.</pc>
-
-<sense>
-<def>Ce mot est Grec, il signifie testicule, &amp; l'on a donné ce nom à cette plante, parceque ses racines ressemblent aux testicules d'un animal</def>
-<pc>.</pc></sense>
 </entry>
 </div>
 <div>
@@ -16764,9 +16838,9 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ORENG</orth>
+<orth>ORENGE</orth>
 </form>
-<pron>E sou plutôtORANGE, ainsi que l'écrit l'Academie</pron>
+<pron>E sou plutôt ORANGE, ainsi que l'écrit l'Academie</pron>
 <pc>.</pc>
 <gramGrp>
 <pos>J subst</pos>
@@ -17503,6 +17577,23 @@
 <def>Terme populaire, qui se dit ironiquement en cette phrase, Poudre d'oribus, pour se moquer de ces poudres ausquelles les Charlatans attribuent de merveilleuses vereus, comme si elle étoit d'or, ou pouvoit faire de l'or. Le Bon Medecin Lorrain soutient que ce mot est corrompu d'elleborus, &amp; dit que dans l'Allemagne &amp; au païs Messin les Merciers vendent de la poudre d'ellebore enfermée dans des petits morceaux de cuir blanc enfilez comme des patenotres, &amp; font accroire aux bonnes gens que c'est un remede à tous maux, ce qui a été retenu des Anciens, qui n'avoient presque point d'autre remede que de l'ellebore</def>
 <pc>.</pc></sense>
 </entry>
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>ORICULAIRE</orth>
+</form>
+<gramGrp>
+<pos>adj</pos>
+</gramGrp>    
+<pc>.</pc>
+<gen>masc. &amp; fem</gen>
+</form>
+<pc>.</pc>
+<xr>Voyez <ref>AURICULAIRE</ref></xr>    
+<pc>.</pc>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>ORIENT</orth>
@@ -18238,7 +18329,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ORMOYF</orth>
+<orth>ORMOYE</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -18394,19 +18485,38 @@
 <def>Vents oiseleurs, ou vents Etesiens. Ce sont des vents qui soufflent doucement d'Orient, d'Occident, ou d'Aquilon après l'équinoxe d'hiver. ls disposent les oiseaux à faire leurs nids. On appelle aussi cette nature de vent chelidenias ou sarondelier, parcequ'il attire les hirondelles</def>
 </sense>
 <pc>.</pc>
-
-<re><form>DRNITHOGAlE</form>
-<form>.</form>
-<form>s. fem</form>
-<form>.</form>
-<form>ORNITHOGALON</form>
-<pc>.</pc>
-<gramGrp>s. m</gramGrp>
-<pc>.</pc>
-<def>Sorte de fleur blanche en forme de grappe, qui fleurit en Juin, &amp; qui commence par le pied. Une belle ornithogale</def>
-<pc>.</pc></re>
 </entry>
+    
 <entry><form type="lemmaGrp">
+<form type="lemma">
+    <orth>ORNITHOGAlE</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>fem</gen>    
+</gramGrp>
+<pc>.</pc>
+<form type="variant">
+    <orth>ORNITHOGALON</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m</gen>
+<pc>.</pc>
+</gramGrp>    
+</form>
+
+<sense>
+<def>Sorte de fleur blanche en forme de grappe, qui fleurit en Juin, &amp; qui commence par le pied. Une belle ornithogale</def>
+<pc>.</pc>
+</sense>
+</entry>
+
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>ORNITHOLOGIE</orth>
 </form>
@@ -18482,17 +18592,30 @@
 <pc>.</pc>
 
 <sense>
-<form>OrPIN</form>
+<form>ORPIN</form>
 <pc>,</pc>
 <def>se dit aussi d'une plante qui croit à la hauteur d'un pied, &amp; dont les tiges sont droites, rondes, so. lides, s'élevant à mesure qu'elles sortent de terre. Ses feuilles naissent le long des tiges: edlles sont en grand nombre, épaisses, succuleintes, plus longues que celles du pourpier, de couleur verditre, nlce quelquefois d'un peu de rouge, creelées en leurs bords. Ses fleurs viennent aux sommets des tiges &amp; des bramiches en gros bouquets, &amp; presque en parasol, de couleur blanche ou purpurine : chaque fleur est à cinq feuilles disposées en rose. Ses semences sont fort menuës. Ses racines sont formées de plusieurs tubercules blancs. J. Bauhin l'appelle anacampseres vulo faba crassa. Elle est astringente, vulneraire &amp; detersive. Il y plusieurs autres especes d'orpin</def>
 </sense>
 <pc>.</pc>
+</entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma">
+<orth>ORQUE</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>f</gen>
+</gramGrp>
+<pc>.</pc>
+</form>
 
-<re><form>ORQuUE</form>
-<form>.</form>
-<form>s</form>
-<gramGrp>. f. Monstre mari</gramGrp>
-<pc>.</pc></re>
+<sense>
+<def>Monstre mari</def>    
+</sense>
+<pc>.</pc>
 </entry>
 </div>
 <div>
@@ -19816,9 +19939,21 @@
 <sense>
 <form>Ou</form>
 <pc>,</pc>
-<def>se met élegaminent pour le Pronom relatif lequel ou laquelle, tant au singulier qu'au plurier, en y joignant quelque preposition. La haine &amp; la flaterie sont les écueils où la verité fait naufrage. La Rochef. pour dire, dans lesquels. Il se dit aussi pour, A quoy. Bon Dieu où en sommes nous réduits ! OUQUE, pour dire, en quelque lieu que, se trouve en plusieurs Auteurs anciens &amp; modernes. Marot a dit : L'il &amp; le coeur de tous teux qui la virent, Où qu'elle allât, tout le jour la suivirent. Breboeuf l'a aussi employé dans ce vers : où qu'il porte les yeux, il y porte la mort. Après ces autoritez je ne laisse pas de le condamner. Men. Il ne vaut pas mieux quand il s'agit des personnes : on ne dit point, c'est un homme où j'ai remarqué beaucoup de vertu. Chevreau</def>
-<pc>.</pc></sense>
+<def>se met élegaminent pour le Pronom relatif lequel ou laquelle, tant au singulier qu'au plurier, en y joignant quelque preposition. La haine &amp; la flaterie sont les écueils où la verité fait naufrage. La Rochef. pour dire, dans lesquels. Il se dit aussi pour, A quoy. Bon Dieu où en sommes nous réduits</def>
+<pc>!</pc></sense>
 </entry>
+
+    <entry>
+<form type="lemma">
+<orth>OU QUE</orth>
+</form>
+<pc>,</pc>
+
+<sense>
+    <def>pour dire, en quelque lieu que, se trouve en plusieurs Auteurs anciens &amp; modernes. Marot a dit : L'il &amp; le coeur de tous teux qui la virent, Où qu'elle allât, tout le jour la suivirent. Breboeuf l'a aussi employé dans ce vers : où qu'il porte les yeux, il y porte la mort. Après ces autoritez je ne laisse pas de le condamner. Men. Il ne vaut pas mieux quand il s'agit des personnes : on ne dit point, c'est un homme où j'ai remarqué beaucoup de vertu. Chevreau</def>    
+</sense>
+</entry>
+    
 </div>
 <div>
 <head>OUA<pc>.</pc></head>
@@ -20797,7 +20932,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>OUTRAGEAaNT</orth>
+<orth>OUTRAGEANT</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -20875,7 +21010,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AOUTRANCE</orth>
+<orth>A OUTRANCE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -21019,7 +21154,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>OUTREMESURE</orth>
+<orth>OUTRE MESURE</orth>
 </form>
 <pc>,</pc>
 <gramGrp>
@@ -21094,26 +21229,28 @@
 <sense>
 <form>Outrer</form>
 <pc>,</pc>
-<def>signifie aussi, Picquer au vif, faire un cruel affront, offenser griévement &amp; avec excés ; pousser la patience à bout ; irriter. On peut quelquefois railler les gens ; mais il ne faut pas les outrer. Il fut outré de douleur en apprenant la mort de sa femme. Ajax fut tellement outre du refus des Grecs, qu'il se tua lui-même. Il y a des personnes qui se montrent outrées de douleur à la mort de leurs amis, pour se faire remarquer, &amp; se distinguer des autres. M. Esp. Caton outré que la Justice de sa cause eût été trahie par le caprice de la Fortune, se donna la mort. M</def>
+<def>signifie aussi, Picquer au vif, faire un cruel affront, offenser griévement &amp; avec excés ; pousser la patience à bout ; irriter. On peut quelquefois railler les gens ; mais il ne faut pas les outrer. Il fut outré de douleur en apprenant la mort de sa femme. Ajax fut tellement outre du refus des Grecs, qu'il se tua lui-même. Il y a des personnes qui se montrent outrées de douleur à la mort de leurs amis, pour se faire remarquer, &amp; se distinguer des autres. M. Esp. Caton outré que la Justice de sa cause eût été trahie par le caprice de la Fortune, se donna la mort. M. Esp</def>
 </sense>
 <pc>.</pc>
-
-<re><form>Esp</form>
-<form>.</form>
-<form>OUTRÉée</form>
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>OUTRÉ</orth>
+</form>
+<pc>,</pc>
+<form type="inflected">
+<orth type="part">ée</orth>
+</form>
 <pc>.</pc>
-<gramGrp>part. pass. &amp; adj</gramGrp>
-<form>.</form>
-<form>Trop pou</form>
-<pc>s</pc>
-<def>sé ; excessif. La valeur outrée degenere en temerité. Les loüanges outrées ne font honneur ni à celui qui les donne, ni à celui qui les reçoit</def>
-</re>
+<gramGrp>
+<pos>part. pass. &amp; adj</pos></gramGrp>
 <pc>.</pc>
-
+</form>
+    
 <sense>
-<form>Bell</form>
-<pc>.</pc>
-<def>C'est l'amour propre, &amp; la trop bonne opinion que nous avons de nôtre merite, qui nous rendent les dupes d'une flarerie outrée. Oe. M. Ces violentes amitiez d'Oreste, &amp; de Pylade passeroient aujourd'huy pour des attachemens outrez, qui ne sont bons qu'à faire le sujet d'une Tragedie. St. Ev. Seneque infecte aisément l'imagination bouillante des jeunes gens par des idées fausses, &amp; outrées. Men. Pour plaire il ne faut point forcer la nature : tout ce qui est outré rebute les gens de bon goût. Bell. Lucain d'un esprit naturellement outré se guinde, &amp; s'évapore souvent. Bou. Il ne faut pas confondre le sublime avec l'outré. Id</def>
+    <def>Trop poussé ; excessif. La valeur outrée degenere en temerité. Les loüanges outrées ne font honneur ni à celui qui les donne, ni à celui qui les reçoit. Bell. C'est l'amour propre, &amp; la trop bonne opinion que nous avons de nôtre merite, qui nous rendent les dupes d'une flarerie outrée. Oe. M. Ces violentes amitiez d'Oreste, &amp; de Pylade passeroient aujourd'huy pour des attachemens outrez, qui ne sont bons qu'à faire le sujet d'une Tragedie. St. Ev. Seneque infecte aisément l'imagination bouillante des jeunes gens par des idées fausses, &amp; outrées. Men. Pour plaire il ne faut point forcer la nature : tout ce qui est outré rebute les gens de bon goût. Bell. Lucain d'un esprit naturellement outré se guinde, &amp; s'évapore souvent. Bou. Il ne faut pas confondre le sublime avec l'outré. Id</def>
 </sense>
 <pc>.</pc>
 
@@ -21398,7 +21535,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>OuUVRANT</orth>
+<orth>OUVRANT</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -21478,10 +21615,32 @@
 <pc>.</pc>
 
 <sense>
-<def>A la Comedie il y a un Ouvreur de loges. OuUVRIER, iere. s. m. &amp; fem. Artisan qui travaille à quelque ouvrage. Les Poëtes font ouvrier de trois syllabes. Voilà un attelier où il y a quantité d'ouvriers, de Maçons, de Peintres, de Menuisiers, &amp;c. Ce Charpentier a toujours trente ouvriers ou compagnons qui travaillent dans son chantier. Cet Horlogeur est un excellent ouvrier. Ces rabats sont faits de la main de la bonne ouvriere, qui prend un écu de la façon de la piece. Je ne puis rien souffrir qui ne soit de la bonne ouvriere. Mol. La plupart des habitans de Touraine sont des ouvriers en soye ; ceux du Lionnois en toille, &amp;c</def>
+<def>A la Comedie il y a un Ouvreur de loges</def>
 </sense>
 <pc>.</pc>
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>OUVRIER</orth>    
+</form>
+<pc>,</pc> 
+<form type="inflected">
+<orth type="part">iere</orth>
+</form>    
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m. &amp; f</gen>    
+</gramGrp>    
+<pc>.</pc>    
+</form>   
 
+<sense>
+    <def>Artisan qui travaille à quelque ouvrage. Les Poëtes font ouvrier de trois syllabes. Voilà un attelier où il y a quantité d'ouvriers, de Maçons, de Peintres, de Menuisiers, &amp;c. Ce Charpentier a toujours trente ouvriers ou compagnons qui travaillent dans son chantier. Cet Horlogeur est un excellent ouvrier. Ces rabats sont faits de la main de la bonne ouvriere, qui prend un écu de la façon de la piece. Je ne puis rien souffrir qui ne soit de la bonne ouvriere. Mol. La plupart des habitans de Touraine sont des ouvriers en soye ; ceux du Lionnois en toille, &amp;c</def>    
+</sense>
+    
 <sense>
 <form>Ouvrier</form>
 <pc>,</pc>
@@ -21566,14 +21725,8 @@
 <form>Ouvrir</form>
 <pc>,</pc>
 <def>signifie aussi, Percer un mur pour y faire des fenêtres. Il avoit fait ouxrir une vue sur le voisin, on la lui a fait boucher</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>OUV</orth>
-</form>
-</form>
 <pc>.</pc>
+</sense>
 
 <sense>
 <form>Ouvrir</form>

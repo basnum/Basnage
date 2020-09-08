@@ -2,8 +2,6 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
-<?xml-stylesheet type="text/css" href="teixdicotest.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
         <fileDesc>
@@ -6922,14 +6920,12 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>VAGUE</orth>
+<orth>VAGUE-MAISTRE</orth>
 </form>
 </form>
-<pc>-</pc>
+<pc>,</pc>
 
 <sense>
-<form>MAISTRE</form>
-<pc>,</pc>
 <usg>en termes de Guere</usg>
 <pc>,</pc>
 <def>est un Osficier qui a soin de faire charger, attelee, &amp; deffiler le bagage d'une armée, afin qu'il marce en bon ordire. Il y a un V'ague-Maistre General, un pour chaque ligne d'infanterc, un pour chaque aile de cavalerie. Il y en a même un pour chaque brigade, pour chaque regiment</def>
@@ -6991,7 +6987,7 @@
 
 <form type="lemmaGrp">
 <form type="lemma">
-<orth>VAIGRESs</orth>
+<orth>VAIGRES</orth>
 </form>
 <pc>,</pc>
 <form type="variant">
@@ -7323,10 +7319,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>JE</orth>
-</form>
-<form type="lemma">
-<orth>VAIS</orth>
+    <orth>JE VAIS</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -8698,9 +8691,14 @@
                 <head>VAQ<pc>.</pc></head>
     <entry>
         <form type="lemmaGrp">
-            <form type="lemma">VAQUANCE, VAQUANT</form>
+            <form type="lemma">
+                <orth>VAQUANCE</orth>
+                <pc>,</pc>
+                <form type="variant">VAQUANT</form>
         </form>
-<xr>Voyez Vacance, Vacant<pc>.</pc></xr>
+            <pc>.</pc>
+        </form>
+        <xr>Voyez <ref>Vacance</ref><pc>,</pc> <ref>Vacant</ref><pc>.</pc></xr>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -9141,14 +9139,7 @@
 <def>Sorte de jurement burlesque &amp; de paisan. Ha ! vartigué, Monsieur, que de lantiponage. Mol</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>HHH</orth>
-</form>
-</form>
-<re><form>h ,Vaf</form>
-<pc>.</pc></re>
-</entry>
+
 </div>
 <div>
 <head>VAS<pc>.</pc></head>
@@ -9506,7 +9497,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>A VAU L'EaU</orth>
+<orth>A VAU L'EAU</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -10349,7 +10340,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>VEILLOTF</orth>
+<orth>VEILLOTE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -10901,7 +10892,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ENANT</orth>
+<orth>VENANT</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -10992,28 +10983,40 @@
 <def>se dit aussi en parlant de la ruïne des autres fruits, &amp; même du profit qui se doit trouver en d'autres affaires. Le froid de ces matins a vendangé tous les abricots, il les a envoyez à la halle. On a d possedé les Fermiers des Aides, voilà tous leurs profits &amp; leurs esperances vendangées</def>
 </sense>
 <pc>.</pc>
-
-<re><form>VENDANGEuUR, euse</form>
-<form>.</form>
-<form>s. m</form>
-<form>.</form>
-<form>&amp; f</form>
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>VENDANGEuUR</orth>
+<pc>,</pc>
+</form>
+<form type="inflected">EUSE</form>
+<gramGrp>
+<pos>s</pos>
 <pc>.</pc>
-<def>Gens de journée qui aident à faire la recolte du vin. Il y en a de Couppeurs, de Hotteurs, de Chargeurs, de Fouleurs, de Pressureurs</def>
-</re>
+    <gen>m. &amp; f</gen>    
+</gramGrp>    
+</form>
 <pc>.</pc>
 
 <sense>
+    <def>Gens de journée qui aident à faire la recolte du vin. Il y en a de Couppeurs, de Hotteurs, de Chargeurs, de Fouleurs, de Pressureurs</def>
+</sense>
+    <pc>.</pc>    
+
+<re>
 <form>Vendangeurs</form>
 <pc>,</pc>
 <def>se dit proverbialement en ces phrases. Les Saints vendangeurs, sont ceux dont les Fêtes échéent à la fin du mois d'Avril, ou au commencement de Mai. C'est le temps où les vignes sont en danger de geler. Ils sont douze en nombre, comme Saint George, Saint Marc, &amp;c. Il y a eu des païsans qui ont sollicité pour les faire transferer après vendanges</def>
-</sense>
+</re>
 <pc>.</pc>
 
 <sense>
 <def>On appelle une souppe de Vendangeur, une souppe qu'on fait avec des choux blancs ou pommez, &amp; avec du pain bis, dont on nourrit les Vendangeurs</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>VENDERESSE</orth>
@@ -14321,19 +14324,11 @@
 <sense>
 <def>On appelle contre -verité, une proposition qu'on fait, pour être entendue dans un sens contraire à celui que portent les paroles, comme si on disoit, Virgile est un mechant Poëte. Ciceron ne parle pas bien Latin. En verité. adv. Certainement. Cela est en verité comme je vous le dis ; pour dire, C'est la pure verité. Quand J. Christ vouloit dire quelque chose qui meritoit une attention particuliere, il disoit ordinairement, en verité, en verité, je vous dis &amp;c</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>A laverité</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>adv</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
-
+    
 <sense>
+    <form>A la verité</form>
+    <gramGrp>adv</gramGrp>
+    <pc>.</pc>
 <def>Confession, aveu, qui ne se dit gueres sans restriction, ou application. A la verité j'ay pris poss.ssion de cette terre, mais je pretends qu'elle m'appartient</def>
 </sense>
 <pc>.</pc>
@@ -14441,7 +14436,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>MICELLI</orth>
+<orth>VERMICELLI</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -14826,24 +14821,9 @@
 <pc>.</pc>
 
 <sense>
-<def>Sorte de plante dont il y a plusieurs especes. Celle qu'on appelle veronique mâle vulgaire, pousse des tiges grêles, rondes, velues, rampantes. Ses feuilles naissent opposées l'une à l'autre le long des tiges, velues, dentelées en leurs bords, semblables à celles du prunier, d'un goût âcre &amp; amer. Ses fleurs sont des rosettes à quatre quartiers, de couleur bleuâtre ; elles sortent en maniere d'épi des aisselles des feuilles. Lorsque ces fleurs sont passées, il leur succede à chacune un fruit partagé en deux bourses qui contiennent des semences menuës, rondes, noiratres. En Latin veronica mas supina &amp; vulgatissima</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>C</orth>
-</form>
+<def>Sorte de plante dont il y a plusieurs especes. Celle qu'on appelle veronique mâle vulgaire, pousse des tiges grêles, rondes, velues, rampantes. Ses feuilles naissent opposées l'une à l'autre le long des tiges, velues, dentelées en leurs bords, semblables à celles du prunier, d'un goût âcre &amp; amer. Ses fleurs sont des rosettes à quatre quartiers, de couleur bleuâtre ; elles sortent en maniere d'épi des aisselles des feuilles. Lorsque ces fleurs sont passées, il leur succede à chacune un fruit partagé en deux bourses qui contiennent des semences menuës, rondes, noiratres. En Latin veronica mas supina &amp; vulgatissima. C. Bauh. Cette plante est vulneraire, diuretique, propre pour purifier le sang, pour debarasser le poumon chargé de matieres gluantes, &amp; pour les maladies de la peau. On se sert de la veronique à la maniere du the. On l'appelle autrement herbe aux ladres</def>
 <pc>.</pc>
-<gramGrp>
-<pos>Bauh</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Cette plante est vulneraire, diuretique, propre pour purifier le sang, pour debarasser le poumon chargé de matieres gluantes, &amp; pour les maladies de la peau. On se sert de la veronique à la maniere du the. On l'appelle autrement herbe aux ladres</def>
 </sense>
-<pc>.</pc>
 
 <sense>
 <form>Veronique</form>
@@ -15656,18 +15636,24 @@
 <gloss>ex e quôd in his foraminibus vertantur vectes</gloss>
 </etym>
 <pc>.</pc>
-
-<re><form>VERTICAlL</form>
+</entry>
+    
+<entry><form type="lemmaGrp">
+    <form type="lemma">
+        <orth>VERTICAL</orth>
+    </form>
 <pc>,</pc>
-<gramGrp>ale</gramGrp>
-<form>.</form>
-<form>subst</form>
+    <form type="variant">ale</form>
+    <pc>.</pc>
+<gramGrp>
+<pos>subst. &amp; adj</pos>
 <pc>.</pc>
-<def>&amp; adj. Terme d'Astronomie</def>
-</re>
-<pc>.</pc>
-
+</gramGrp>
+</form>
+    
 <sense>
+<usg>Terme d'Astronomie</usg>
+<pc>.</pc>
 <def>C'est le point du ciel qui repond directement au dessus de nôtre tête, qu'on appelle autrement le zenith. Les cercles verticaux sont de grands cercles immobiles de la sphere qui se couppent dans le zenith &amp; le nadir, qui tombent perpendiculairement sur l'horizon, &amp; le divisent en degrez &amp; minutes. On les appelle autrement azimuth. Ils sont marquez sur une des planches de l'Astrolabe. Ainsi le premier Meridien est un cercle vertical : celui qui lui est perpendiculaire, &amp; qui le couppe à angles droits, en passant par les points équinoxaux, le nomme le premier vertical, &amp; avec le Meridien il divise l'hemisphere superieur en quatre parties égales, qu'on appelle quartes. Les cercles verticaux servent à mesurer la hauteur des Astres, &amp; leur distance du zenith, qui se compte sur ces cercles, &amp; à connoître leur amplitude Orientale, &amp; Occidentale, en observant de combien de degrez est éloigné du Meridien le vertical où l'étoile se leve, ou se couche. On appelle vertical du soleil, un cercle vertical qui passe par le centre du soleil à quelque heure que ce soit. Le vertical du soleil sert dans la Gnomonique pour connoître la declinaison d'un plan sur lequel on veut tracer un cadran : ce qui se fait en cherchant de combien de degrez ce vertical est éloigné du Meridien, lorsqu'on a marqué sur le plan un point d'ombre à quelque heure que ce soit. Les cercles verticaux servent encore dans la Gnomonique à faire des cadrans horizontaux mobiles, qu'on appelle cadrans azimutaux, où l'on connoît l'heure par le moyen d'une aiguille aimantée qui represente le vertical du soleil, lorsqu'on a tourné la ligne Meridienne de ce cadran droit au soleil</def>
 <pc>.</pc>
 <xr>Voyez Ozanam</xr>
@@ -15675,17 +15661,25 @@
 <def>Un quadran vertical, est un quadran solaire tracé sur une surface élev ée à plomb sur l'horizon. On l'appelle Oriental, Occidental, Meridional, &amp; Septentrional, quand il est opposé à l'un des points cardinaux de l'horizon ; &amp; vertical declinant, quand il ne les regarde pas precisément ; vertical reclinant, quand la surface n'est pas tout-à-fait perpendiculaire</def>
 </sense>
 <pc>.</pc>
-
-<re><form>VERTICAlEMENT</form>
-<form>.</form>
-<form>adv</form>
-<form>.</form>
-<form>D'une manicre verticale</form>
-<pc>.</pc>
-<def>Les Poles du monde dans la sphere parallêle sont situez verticalement. L'Equateur dans la sphere droite couppe le ciel également &amp; verticalement</def>
-<pc>.</pc></re>
 </entry>
-<entry><form type="lemmaGrp">
+    
+<entry>
+    <form type="lemmaGrp">
+    <form type="lemma">
+        <orth>VERTICAlEMENT</orth>
+    </form>
+<gramGrp>
+    <pos>adv</pos>
+</gramGrp>`
+</form>
+<pc>.</pc>
+    <sense>
+    <def>D'une manicre verticale. Les Poles du monde dans la sphere parallêle sont situez verticalement. L'Equateur dans la sphere droite couppe le ciel également &amp; verticalement</def>
+<pc>.</pc>
+</sense>
+</entry>
+
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>VERTIGE</orth>
 </form>
@@ -15863,17 +15857,25 @@
 <def>On dit la même chose de l'onguent miton mitaine, qui n'a ni force ni vertu. On dit aussi, que face d'homme fait vertu ; pour dire, que les valets &amp; les Ouvriers travaillent avec plus de courage, quand les Maîtres les regardent. Le peuple se sert aussi de ces sortes de sermens, vertu de ma vie, vertuchou, vertubieu, vertugoi, &amp;c</def>
 </sense>
 <pc>.</pc>
-
-<re><form>VERTuEuSEMENT</form>
-<form>.</form>
-<form>adv</form>
-<form>.</form>
-<form>D'une maniere vertueuse</form>
-<pc>.</pc>
-<def>Dans ce Monastere, dans cette compagnie, on vit fort vertueusement</def>
-<pc>.</pc></re>
 </entry>
+    
 <entry><form type="lemmaGrp">
+    <form type="lemma">
+        <orth>VERTUESEMENT</orth>
+    </form>
+    <gramGrp>
+        <pos>adv</pos>
+    </gramGrp>
+<pc>.</pc>
+</form>
+    
+    <sense>
+    <def>D'une maniere vertueuse. Dans ce Monastere, dans cette compagnie, on vit fort vertueusement</def>
+<pc>.</pc>
+</sense>
+</entry>
+
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>VERTUEUX</orth>
 </form>
@@ -16127,7 +16129,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>VERVEU</orth>
+<orth>VERVEUX</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -16157,24 +16159,8 @@
 <pc>.</pc>
 
 <sense>
-<def>Plante qui pousse des tiges à la hauteur d'un pied &amp; demi, ou plus hautes, anguleuses, canelées, creuses. Ses feuilles sont composées de dix ou douze paires de feuilles oblongues, étroites, velues, s'élargissant vers leur extremité, rangées sur une côte terminée par une main, qui l'attache aux plantes voisines. Sa fleur est legumineuse, de couleur purpurine ou bleuâtre. Lorsqu'elle est passée, il lui succede une gousse velue, composée de deux cosses remplies de semences presque rondes, noires. En Latin vicis sativa vulgaris semine migio</def>
+    <def>Plante qui pousse des tiges à la hauteur d'un pied &amp; demi, ou plus hautes, anguleuses, canelées, creuses. Ses feuilles sont composées de dix ou douze paires de feuilles oblongues, étroites, velues, s'élargissant vers leur extremité, rangées sur une côte terminée par une main, qui l'attache aux plantes voisines. Sa fleur est legumineuse, de couleur purpurine ou bleuâtre. Lorsqu'elle est passée, il lui succede une gousse velue, composée de deux cosses remplies de semences presque rondes, noires. En Latin vicis sativa vulgaris semine migio. C. Bauh. On cultive cette plante dans les champs ; on se sert de sa semence pour nourrir les pigeons ; on en donne aussi avec de l'avoine aux chevaux. Il y a plusieurs autres efpeces de vesce</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>C</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>Bauh</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>On cultive cette plante dans les champs ; on se sert de sa semence pour nourrir les pigeons ; on en donne aussi avec de l'avoine aux chevaux. Il y a plusieurs autres efpeces de vesce</def>
-</sense>
-<pc>.</pc>
 
 <etym>
 <lbl>Ce mot vient du</lbl>
@@ -16183,7 +16169,8 @@
 <pc>,</pc>
 <gloss>lier, à cause que la vesce lie &amp; serre par ses mains les plantes voisines</gloss>
 <pc>.</pc></etym>
-</entry>
+</entry>    
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>VESCERON</orth>
@@ -16863,18 +16850,8 @@
 <usg>Terme de la milice Romaine</usg>
 <pc>.</pc>
 <def>C'étoit un soldat qui avoit vieilli dans le service, qui avoit fait un certain nombre de campagnes, &amp; qui pour cela jouïssoit de plusieurs privileges. Vingt années de service suffisoient pour acquerir le privilege de veteran. Il consistoit à être absous du serment militaire, à être exempt de toutes les fonctions de soldat, &amp;c</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>VET</orth>
-</form>
 <pc>.</pc>
-<form type="lemma">
-<orth>VEU</orth>
-</form>
-</form>
-<pc>.</pc>
+</sense>
 
 <sense>
 <form>Veteran</form>
@@ -16958,14 +16935,17 @@
 <def>Qui vetille; qui s'amuse à de vaines, ou legeres occupations ; ou qui fait des contestations frivoles. Quelques-uns disent aussi vetillard. L'éloquence n'est point vetilleuse. Il n'y a point de plaisir à avoir à faire avec des personnes vetilleuses, ou vetillardes</def>
 </sense>
 <pc>.</pc>
+</entry>
 
+<entry>
+    <form type="lemma">VETTURIN</form>    
 <sense>
-<form>VETTURIN</form>
 <pc>.</pc>
 <usg>Terme de Relations</usg>
 <pc>.</pc>
 <def>C'est un loüeur de chevaux en Italie, qui conduit les Voyageurs, &amp; ramene les chevaux</def>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>
 </entry>
 </div>
 <div>
@@ -17099,22 +17079,8 @@
 <pc>.</pc>
 
 <sense>
-<def>On dit au Palais, Faire une vie &amp; montrée, c'étoit une exception dilatoire, qu'avoit le deffendeur en toute matiere réelle, &amp; hypothecaire, pour demander qu'avant toute procedure au principal, le demandeur eût à se transporter sur l'heritage contentieux pour le montrer à l'oeil à sa partie, &amp; l'assurer de ce qui lui est demandé. Les vues &amp; montrées sont abrogées par l'Or-</def>
+    <def>On dit au Palais, Faire une vie &amp; montrée, c'étoit une exception dilatoire, qu'avoit le deffendeur en toute matiere réelle, &amp; hypothecaire, pour demander qu'avant toute procedure au principal, le demandeur eût à se transporter sur l'heritage contentieux pour le montrer à l'oeil à sa partie, &amp; l'assurer de ce qui lui est demandé. Les vues &amp; montrées sont abrogées par l'Ordonnance de 1667. Art. 3. &amp; 5. T. 9</def>
 </sense>
-<form type="lemmaGrp">
-<form type="variant">
-<orth>donnance de 1667. Art. 3. &amp; 5</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>T</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>9</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
 <form>Veue</form>
@@ -17762,13 +17728,14 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>VICE</orth>
+    <orth>VICE-DOGE</orth>
 </form>
+    <form type="variant">VICE-Duc</form>
 </form>
-<pc>-</pc>
+<pc>.</pc>
 
 <sense>
-<def>DOGE, ou VICE-Duc. C'est un Conseiller Venitien qui represente le Doge lorsqu'il est malade, ou qu'il est absent, afin que la Seigneurie ait toujours un Chef. Mais ce Vice-Doge n'occupe jamais le siege Ducal, ne porte point la corne, &amp; n'est point traitté de Serenissime : ce qui n'empêche pas que les Ambassadeurs en parlant au College n'usent de l'apostrophe ordinaire, de Serenissime Prince. Le ViceDuc fait la fonction du Doge en repondant aux Ministres à qui il ne leve point le bonnet, &amp; il prend le milieu lorsqu'il marche avec eux en public</def>
+<def>C'est un Conseiller Venitien qui represente le Doge lorsqu'il est malade, ou qu'il est absent, afin que la Seigneurie ait toujours un Chef. Mais ce Vice-Doge n'occupe jamais le siege Ducal, ne porte point la corne, &amp; n'est point traitté de Serenissime : ce qui n'empêche pas que les Ambassadeurs en parlant au College n'usent de l'apostrophe ordinaire, de Serenissime Prince. Le ViceDuc fait la fonction du Doge en repondant aux Ministres à qui il ne leve point le bonnet, &amp; il prend le milieu lorsqu'il marche avec eux en public</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -18704,10 +18671,30 @@
 <pc>.</pc>
 
 <sense>
-<def>On dit proverbialement, Il faut vieillir, ou mourir jçune. On dit qu'il faut laisser vieillir les affaires criminelles ; c'est-à-dire, les laisser oublier ; en laisser rallentir le ressentiment par le temps VIEILLOT, otte. s. m. &amp; f. Qui commence à vieillir. Cet homme est dejà vieillot, il commence à se rider</def>
+<def>On dit proverbialement, Il faut vieillir, ou mourir jçune. On dit qu'il faut laisser vieillir les affaires criminelles ; c'est-à-dire, les laisser oublier ; en laisser rallentir le ressentiment par le temps</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+    <form type="lemmaGrp">
+        <form type="lemma">
+            <orth>VIEILLOT</orth>
+        </form>
+        <pc>,</pc>
+        <form type="inflected">OTTE</form>
+        <pc>.</pc>
+        <gramGrp>
+            <pos>s</pos>
+            <pc>.</pc>
+            <gen>m. &amp; f</gen>
+        </gramGrp>
+        <pc>.</pc>
+    </form>
+    <sense>
+        <def>, otte. s. m. &amp; f. Qui commence à vieillir. Cet homme est dejà vieillot, il commence à se rider</def>
+    </sense>
+</entry>
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>VIELLE</orth>
 </form>
@@ -19093,19 +19080,9 @@
 <pc>.</pc>
 
 <sense>
-<def>On dit que la vigne coule, quand elle est en fleur, &amp; lorsque le grain tombe de la grappe, sans secoüer : que la vigne gêle, quand le froid gâte le bourgeon, le brûle. La vigne gele quelquefois jusque dans sa souche ; &amp; on appelle geleurs de vignes, les Saints qui viennent au mois d'Avril ou de Mai dans des jours qui sont assez froids pour geler les vignes, comme Saint Georges, St. Marc, St. Opportune, St. Nicolas. Il y a une vigne sauvage qu'on appelle lambrus, ou lambrusque. Elle croît sans culture aux bords des chemins &amp; proche des hayes. Son fruit est un fort petit raisin, qui, lorsqu'il meurit, devient noir ; mais quelquefois il ne meurit point. En Latin vitis sylvestris, labrusca</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>C</orth>
-</form>
+<def>On dit que la vigne coule, quand elle est en fleur, &amp; lorsque le grain tombe de la grappe, sans secoüer : que la vigne gêle, quand le froid gâte le bourgeon, le brûle. La vigne gele quelquefois jusque dans sa souche ; &amp; on appelle geleurs de vignes, les Saints qui viennent au mois d'Avril ou de Mai dans des jours qui sont assez froids pour geler les vignes, comme Saint Georges, St. Marc, St. Opportune, St. Nicolas. Il y a une vigne sauvage qu'on appelle lambrus, ou lambrusque. Elle croît sans culture aux bords des chemins &amp; proche des hayes. Son fruit est un fort petit raisin, qui, lorsqu'il meurit, devient noir ; mais quelquefois il ne meurit point. En Latin vitis sylvestris, labrusca. C. Bauh</def>
 <pc>.</pc>
-<gramGrp>
-<pos>Bauh</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
+</sense>
 
 <sense>
 <def>La vigne vierge, est celle qui sert à faire des palissades le long des murs, qui monte fort haut, &amp; qui ne porte point de fruit. Elle est ainsi nommée, parcequ'elle vient de Virginie en l'Amerique. La vigne porrette, est une espece de poireau sauvage qui croit dans les vignes ; ce qui l'a fait aussi nommer poireau de chien, en Latin porrum ylvestre vinearum. C. Bauh. Les païsans la mangent cruë en salade, ou en compote, &amp; la gardent toute l'année. Vigne blanche</def>
@@ -20145,13 +20122,17 @@
 <def>Plante qu'on connoît aussi sous le nom de dompte-venin &amp; d'asclepias. Elle croît aux lieux montueux. Ses tiges sont de la hauteur d'une coudée, lissées, rondes, souples &amp; malaisées à rompre, garnies de feuilles vertes-brunes, longuettes, pointuës au bout, &amp; approchantes de celles du lierre, ou du laurier. Ses fleurs sont petites, blanches, pantes, &amp; suivies de gousses rondes &amp; un peu longues, pleines d'une graine rousse un peu large, environnées de bourre, &amp; qui representent une hirondelle. Ses racines sont menues &amp; non odorantes, blanches, &amp; qui s'étendent en rond, douces au goût, &amp; fort recommandées contre les venins. En Latin asclepias albo flore. C. Bauh. Cette plante a été appellée vincetoxicum, du Latin vincere, surmonter, &amp; du Grec toxicon, poison, à cause que sa racine est propre contre les poisons</def>
 </sense>
 <pc>.</pc>
-
-<re><form>VINDAS</form>
-<form>,</form>
-<form>e</form>
-<def>st un capestan qui sert à remonter les bateaux foncets, composé de sa fusée, ou de son treuil, des jambes de devant &amp; de derriere, de sa table &amp; chapelle, &amp; de ses barres à tourner</def>
-<pc>.</pc></re>
 </entry>
+    
+<entry><form type="lemma">
+    <orth>VINDAS</orth></form>
+<pc>,</pc>
+    <sense>
+<def>est un capestan qui sert à remonter les bateaux foncets, composé de sa fusée, ou de son treuil, des jambes de devant &amp; de derriere, de sa table &amp; chapelle, &amp; de ses barres à tourner</def>
+<pc>.</pc>
+</sense>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>VINDICATIF</orth>
@@ -20335,13 +20316,22 @@
 <pc>.</pc>
 
 <sense>
-<def>Qui est en un rang où il en voit 19. devant lui. C'est la vingtieme année de son regne. Il est aussi substantif. Il a un vingtiéme dans cette affaire, il y est pour la vingtime partie. On appelle la subvention, la levée du vingtiéme denier sur les marchandises. On peut dire poëtiquement le centiéme Decembre ; pour dire la centiéme année ; mais on ne peut pas dire le vingtime Decembre pour la vingtiéme année, à cause de l'equivoque du vingtiéme du mois de DeVIO. Ces trois lettres font d'ordinaire deux syllabes dans les mots où elles se trouvent, soit au commencement, ou au milieu. On en fait rarement une syllabe</def>
+<def>Qui est en un rang où il en voit 19. devant lui. C'est la vingtieme année de son regne. Il est aussi substantif. Il a un vingtiéme dans cette affaire, il y est pour la vingtime partie. On appelle la subvention, la levée du vingtiéme denier sur les marchandises. On peut dire poëtiquement le centiéme Decembre ; pour dire la centiéme année ; mais on ne peut pas dire le vingtime Decembre pour la vingtiéme année, à cause de l'equivoque du vingtiéme du mois de Decembre</def>
 <pc>.</pc></sense>
 </entry>
 </div>
             <div>
                 <head>VIO<pc>.</pc></head>
-<entry><form type="lemmaGrp">
+
+<entry>
+    <form>VIO</form>
+    <pc>.</pc>
+    <sense>
+        <def>Ces trois lettres font d'ordinaire deux syllabes dans les mots où elles se trouvent, soit au commencement, ou au milieu. On en fait rarement une syllabe</def>
+    </sense>
+</entry>
+                
+                <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>VIOL</orth>
 </form>
@@ -21355,8 +21345,7 @@
 
 <re><form>Vis d'Archimede</form>
 <form>,</form>
-<form>e</form>
-<def>st une machine hydraulique composée d'un tuyau ou canal de plomb, posé en forme de vis autour d'un cylindre incliné, qu'on appelle noyau. On met l'une des extremitez dans l'eau que l'on veut élever. L'eau trouvant de la pente pour descendre dans le tuyau y entre, &amp; ensuite le cylindre venant à tourner elle monte dans le canal tout autour du cylindre, &amp; ainsi elle s'éleve en descendant. On l'appelle autrement limace</def>
+<def>est une machine hydraulique composée d'un tuyau ou canal de plomb, posé en forme de vis autour d'un cylindre incliné, qu'on appelle noyau. On met l'une des extremitez dans l'eau que l'on veut élever. L'eau trouvant de la pente pour descendre dans le tuyau y entre, &amp; ensuite le cylindre venant à tourner elle monte dans le canal tout autour du cylindre, &amp; ainsi elle s'éleve en descendant. On l'appelle autrement limace</def>
 </re>
 <pc>.</pc>
 
@@ -21433,22 +21422,11 @@
 <pc>.</pc>
 
 <sense>
-<def>La face de l'hom mne ; la partie anterieure de la tête qui comprend le front, les yeux, le nez, les jouës, la bouche &amp; le menton. Un beau tour du visage est celui qui est ovale. Toutes les passions, tous les mouvemens de l'ame, se peignent sur le visage. On dit un visage gai, content, vermeil, un visage chagrin, &amp; ride. Avoir un visage grave &amp; composé. Celui qui prêche la mortification avec un visage fleuri, donne lieu de croire qu'il ne la pratique pas, son visage dement ses raisons. Ab. du J. On dit aussi un visage effeminé, doux, modeste. On a banni cet art du dehors, &amp; cette étude de l'exterieur qui apprend à composer les visages. St. Ev. Il n'est point de calme plus decevant que celui du visage des Courtisans : une parole en trouble la serenité, &amp; y cause des alterations extraordinaires. M. Esp. Mon visage impose du respect en même temps qu'il inspire des desirs. H</def>
+    <def>La face de l'hom mne ; la partie anterieure de la tête qui comprend le front, les yeux, le nez, les jouës, la bouche &amp; le menton. Un beau tour du visage est celui qui est ovale. Toutes les passions, tous les mouvemens de l'ame, se peignent sur le visage. On dit un visage gai, content, vermeil, un visage chagrin, &amp; ride. Avoir un visage grave &amp; composé. Celui qui prêche la mortification avec un visage fleuri, donne lieu de croire qu'il ne la pratique pas, son visage dement ses raisons. Ab. du J. On dit aussi un visage effeminé, doux, modeste. On a banni cet art du dehors, &amp; cette étude de l'exterieur qui apprend à composer les visages. St. Ev. Il n'est point de calme plus decevant que celui du visage des Courtisans : une parole en trouble la serenité, &amp; y cause des alterations extraordinaires. M. Esp. Mon visage impose du respect en même temps qu'il inspire des desirs. H. S. de M. L'esprit ne remplace point les agrémens du visage. Bell. Quand le temps n'a plus laissé sur le visage d'une femme que de tristes ruïnes, elles cherchent à s'en dedommager dans la devotion. Oe. M. Cet homme demonte son visage comme il lui plaît. St. Ev. Il y a des personnes qui font paroître sur leur visage tout ce qu'elles ont dans le coeur. Bou. C'est par le visage qu'on est belle : c'est lui qui est caution pour tout ce qui ne se voit pas, &amp; il me semble qu'un beau bras n'est point tout-à-fait beau, s'il n'appartient à un beau visage. Le Ch. d'H. Il faut à celui qui regne, un visage lequel remplisse la curiosité des peuples empressez à voir le Prince. La Br. Un visage usé, &amp; sillonné fait une mauvaise figure parmi des visages où le feu de la jeunesse brille. Bell. Brebeuf a dit d'une femme qui se fardoit, Tous les jours un visage neuf l C'est en visage, un peu trop de dapense. Breb. Les ruines d'une maison Se peuvent reparer ; que n'est cet avantage Four les ruines du visage ? La Fon</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>S</orth>
-</form>
-<pc>.</pc>
-<form type="variant">
-<orth>de M</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
-<def>L'esprit ne remplace point les agrémens du visage. Bell. Quand le temps n'a plus laissé sur le visage d'une femme que de tristes ruïnes, elles cherchent à s'en dedommager dans la devotion. Oe. M. Cet homme demonte son visage comme il lui plaît. St. Ev. Il y a des personnes qui font paroître sur leur visage tout ce qu'elles ont dans le coeur. Bou. C'est par le visage qu'on est belle : c'est lui qui est caution pour tout ce qui ne se voit pas, &amp; il me semble qu'un beau bras n'est point tout-à-fait beau, s'il n'appartient à un beau visage. Le Ch. d'H. Il faut à celui qui regne, un visage lequel remplisse la curiosité des peuples empressez à voir le Prince. La Br. Un visage usé, &amp; sillonné fait une mauvaise figure parmi des visages où le feu de la jeunesse brille. Bell. Brebeuf a dit d'une femme qui se fardoit, Tous les jours un visage neuf l C'est en visage, un peu trop de dapense. Breb. Les ruines d'une maison Se peuvent reparer ; que n'est cet avantage Four les ruines du visage ? La Fon</def>
+<def></def>
 </sense>
 <pc>.</pc>
 
@@ -21508,6 +21486,7 @@
 <def>dans le Burlesque, se prend à contre-sens, pour le derriere. Vous m'avez fait voir un autre visage duquel je ne me gardois pas. Voit</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>VISAGERE</orth>
@@ -23110,21 +23089,6 @@
 <def>Il ne pouvoit vaincre les mouvemens de son esprit aigri &amp; ulceré. Sar</def>
 <pc>.</pc></re>
 </entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ULM</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>ULT</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>UMB. UN</def>
-<pc>.</pc></sense>
-</entry>
 </div>
 <div>
 <head>ULM<pc>.</pc></head>
@@ -23230,10 +23194,28 @@
 <pc>.</pc>
 
 <sense>
-<def>On appelle arteres umbilicales, deux arteres qui sortent des iliaques, &amp; qui vont se terminer au placenta, par une infinité de rameaux. On appelle veine umbilicale, une veine qui s'étend depuis la veine porte jusques au placenta, où elle se divile aussi en une infinité de rameaux. Ces arteres &amp; cette veine sont nommées vaisseaux umbilicaux, ausquels on joint ordinairement louraque, quoyqu'il ne soit point cave dans le foetus humain. Quand l'enfant est né tous ces vaisseaux se fletrissent, &amp; se changent en un cordon ou ligament, qui sert pour attacher le foye &amp; la vessie. UMBILICus VENERIS. s. m. Plante appellée autrement coyledon</def>
+<def>On appelle arteres umbilicales, deux arteres qui sortent des iliaques, &amp; qui vont se terminer au placenta, par une infinité de rameaux. On appelle veine umbilicale, une veine qui s'étend depuis la veine porte jusques au placenta, où elle se divile aussi en une infinité de rameaux. Ces arteres &amp; cette veine sont nommées vaisseaux umbilicaux, ausquels on joint ordinairement louraque, quoyqu'il ne soit point cave dans le foetus humain. Quand l'enfant est né tous ces vaisseaux se fletrissent, &amp; se changent en un cordon ou ligament, qui sert pour attacher le foye &amp; la vessie</def>
 <pc>.</pc>
-<xr>Voyez Cotyleon</xr>
-<pc>.</pc></sense>
+</sense>
+</entry>
+
+<entry>
+    <form type="lemmaGrp">
+        <form type="lemma">
+            <orth>UMBILICUS VENERIS</orth>
+        </form>
+        <gramGrp>
+            <pos>s</pos>
+            <pc>.</pc>
+            <gen>m</gen>
+        </gramGrp>
+        <pc>.</pc>
+    </form>
+    <sense>
+        <def>Plante appellée autrement coyledon</def>
+    <xr>Voyez Cotyleon</xr>
+<pc>.</pc>
+    </sense>
 </entry>
 </div>
 <div>
@@ -23417,10 +23399,26 @@
 <pc>.</pc>
 
 <sense>
-<def>Egral, parel ; semblable ; de même mature. Il seroit à souhaitter que toutes les Coutumes du Royaume fussent umiformen Tous les suffrages furent unifarmes. Jamais vie ne fut plus reguliere, plus unifarme, &amp; plus approuvée que celle de la Reine. Fl. Il n'y a que la verité qui soit nisorme ; le mensonge est trop foible, pour avoir une conduitte mesurée. M. de M. Où est l'homme si uniforme, qui ne laisse voir de l'inegalité, &amp; de la contrarieté dans ses actions ? St. Ev. Un stile trop égal, &amp; toujours uniforme, En vain brille à nos yeux, il faut qu'il nous endorme, UNIFORMEMENT. adv. D'une maniere uniforme</def>
+<def>Egral, parel ; semblable ; de même mature. Il seroit à souhaitter que toutes les Coutumes du Royaume fussent umiformen Tous les suffrages furent unifarmes. Jamais vie ne fut plus reguliere, plus unifarme, &amp; plus approuvée que celle de la Reine. Fl. Il n'y a que la verité qui soit nisorme ; le mensonge est trop foible, pour avoir une conduitte mesurée. M. de M. Où est l'homme si uniforme, qui ne laisse voir de l'inegalité, &amp; de la contrarieté dans ses actions ? St. Ev. Un stile trop égal, &amp; toujours uniforme, En vain brille à nos yeux, il faut qu'il nous endorme. Boi</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+    <form type="lemmaGrp">
+        <form type="lemma">
+            <orth>UNIFORMEMENT</orth>
+        </form>
+        <pc>.</pc>
+        <gramGrp>
+            <pos>adv</pos>
+        </gramGrp>
+        <pc>.</pc>
+    </form>
+    <sense>
+        <def>D'une maniere uniforme</def>
+    </sense>
+</entry>                
+                <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>UNIFORMITÉ</orth>
 </form>
@@ -23689,7 +23687,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>NITIF</orth>
+<orth>UNITIF</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -23724,7 +23722,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>NIVERS</orth>
+<orth>UNIVERS</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -23741,7 +23739,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>NIVERSALISTE</orth>
+<orth>UNIVERSALISTE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -23878,10 +23876,27 @@
 <def>LUniversité de Paris, selon quelques-uns, commença sous Charlemagne, auquel temps il vint quatre Anglois, disciples du Venerable Bede, Alcuin, Raban, Jean, &amp; Claude, qui crioient qu'ils avoient de la science à vendre, lesquels donnerent leurs premieres leçons à Paris en des lieux qui leur furent assignez par Charlemagne. De cette opinion sont Robert Gaguin, Nicole Gilles, Boëce, &amp; Vincent de Beauvais en son Miroir Historial, quoyque les Auteurs contemporains Eginard, Aimon, Rheginon, Adon, &amp; Sigebert, n'en fassent aucune mention. Mais Paul Emile, Jean du Tillet, &amp; Pasquier, sont d'avis contraire, &amp; soutiennent qu'elle ne prit naissance que sous Louïs le Jeune, dans le XII. siecle, &amp; sous Philippe Augufte son successeur : car il n'est parlé d'Université, &amp; d'écoliers, que dans Rigordus, qui vivoit sous Philippe Auguste, &amp; dans quelques Chapitres des Decretales d'Innocent III. &amp; de Celestin III. ce qui avint au temps de Pierre Lombard Evêque de Paris, qui en fut le principal ornement, &amp; pour lequel l'niversité fait encore un Anniversaire en l'Eglise de St. Marcel où il est enterré. Mais elle ne fut pas fondée, ni établie tout d'un coup, comme elle a été dans la suite. On érigea d'abord une école publique dans l'Eglise Cathedrale de Paris. L'Université ne se forma que peu-à-peu, &amp; ce ne fut que sous Philippe Auguste qu'elle commeuça à faire un corps regulier. Philippe de Valois en l'an 1340. exempta tout le Corps de l'niversité &amp; les écoliers de tous peages, tailles, &amp; autres charges personnelles ; &amp; il leur donna le Prevôt de Paris pour Juge, pardevant lequel ils ont eu jusqu'à present leurs causes commises, &amp; qui pour cela fut appelle Conservateur des privileges royaux de l'Université. Elle fut reformée en l'an 1452. par le Cardinal d'Etouteville, Legat en France, &amp; il y a eu si grande abondance d'écoliers, que Juvenal des Ursins atteste qu'en une Procession qui se fit en 1409. par le Corps de l'Université de Ste. Geneviefve à St. Denys, les premiers y étoient dejà arrivez, lorsque le Recteur étoit encore devant les Mathurins. Les Rois de France l'appellent leur Fille aînée. Ce titre est donné à l'université dès le temps de Charles VI. Elle est divisée en quatre Facultez. Voyez Faculté, &amp; RecTeur, &amp;c. Voyez aussi Moreri, au mot Université.tc</def>
 </sense>
 <pc>.</pc>
-
+</entry>
+                
+<entry>
+    <form type="lemmaGrp">
+        <form type="lemma">
+            <orth>UNIVOQUE</orth>
+        </form>
+        <gramGrp>
+            <pos>adj</pos>
+            <pc>.</pc>
+            <gen>m. &amp; f</gen>
+        </gramGrp>
+        <pc>.</pc>
+    </form>
+    
 <sense>
-<def>UNIVOge. adj. m. &amp; t. ierme de Philosophie, qui se dit de ce qui n'a qu'une signification. Il est opposé à équivoque. Les Anciens ont cru que les animaux parfaits s'engendroient par generation univoque, c'est-à-dire, par la seule union du mâle &amp; de la femelle ; &amp; que les insectes se faisoient par generation équivoque, sans semence, &amp; de la pourriture de la terre</def>
-<pc>.</pc></sense>
+    <usg>Terme de Philosophie</usg>
+    <pc>,</pc>
+<def>qui se dit de ce qui n'a qu'une signification. Il est opposé à équivoque. Les Anciens ont cru que les animaux parfaits s'engendroient par generation univoque, c'est-à-dire, par la seule union du mâle &amp; de la femelle ; &amp; que les insectes se faisoient par generation équivoque, sans semence, &amp; de la pourriture de la terre</def>
+<pc>.</pc>
+</sense>
 </entry>
 </div>
 <div>
@@ -26235,11 +26250,25 @@
 <def>se dit aussi des plaisirs sensuels, &amp; particulierement de ceux de Bacchus, &amp; de Venus. Anacreon étoit ingenieux à reveiller, &amp; à exciter la volapté du vin, &amp; de l'amour. Bar. Epicure haïssoit les sales voluptez. Id. Il ne faut pas confondre les desirs impetueux de la volupté avec les douceurs d'une amour parfaite. M. Sc. La volupté du mariage doit être une volupté prudente. Mont</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<def>OluptUEuX, euse. adj. &amp; subit. Qui aime les plaisirs sensuels. Patrone étoit un voluptueux delicat. Un Palais voluptueux ; une vie voluptueuse ; une ville voluptueuse, où l'on trouve toutes sortes de voluptez. Un sage voluptueux n'a pas moins d'aversion pour la debauche, que d'inclination pour les plaisirs</def>
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+    <form type="lemma">
+        <orth>VOLUPTUEUX</orth></form>
+    <pc>,</pc>
+</form>    
+    <form type="inflected">EUSE</form>
+<pc>.</pc>
+    <gramGrp>
+        <pos>adj &amp; subst</pos>
+        <pc>.</pc>
+    </gramGrp>
+    <sense>
+    <def>Qui aime les plaisirs sensuels. Patrone étoit un voluptueux delicat. Un Palais voluptueux ; une vie voluptueuse ; une ville voluptueuse, où l'on trouve toutes sortes de voluptez. Un sage voluptueux n'a pas moins d'aversion pour la debauche, que d'inclination pour les plaisirs. S. Ev. Il y a cette difference entre les voluptueux, &amp; es vertueux, que les voluptueux cherchent les plaisirs, &amp; s'y abandonnent : au lieu que les vertueux les trouvent, &amp; en jouiïssent sans s'y arrêter. M. Esp. Confessons qu'il n'est rien de plus heureux que le voluptueux d'Epicure. St. Ev. En disant que la vie voluptueuse est la fin de l'homme, on ne fait que suivre les enseignemeons de la nature. Id</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>S</orth>
@@ -26252,7 +26281,7 @@
 <pc>.</pc>
 
 <sense>
-<def>Il y a cette difference entre les voluptueux, &amp; es vertueux, que les voluptueux cherchent les plaisirs, &amp; s'y abandonnent : au lieu que les vertueux les trouvent, &amp; en jouiïssent sans s'y arrêter. M. Esp. Confessons qu'il n'est rien de plus heureux que le voluptueux d'Epicure. St. Ev. En disant que la vie voluptueuse est la fin de l'homme, on ne fait que suivre les enseignemeons de la nature. Id</def>
+<def></def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -26272,7 +26301,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>VOLUTE</orth>
+<orth>VOLUPTE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -27490,14 +27519,8 @@
 <form type="lemma">
 <orth>VRAYSEMBLANT</orth>
 </form>
-</form>
-<re><form>, ou VRAi-SEM</form>
-<pc>.</pc></re>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>BLANT</orth>
-</form>
+    <pc>,</pc>
+    <form type="variant">, ou VRAi-SEMBLANT</form>
 <pc>,</pc>
 <form type="inflected">
 <orth type="part">ante</orth>
@@ -27727,10 +27750,21 @@
 <pc>.</pc>
 
 <sense>
-<def>Outil de fer propre à percer, dont se servent les Tonneliers. Il est emmanché comme le VRl URN. foret &amp; la tarriere, &amp; fait son effet en le tournant à deux mains. certains liens que la nature a donnez aux branches de la vigne, pour s'accrocher à tout ce qui se trouve dans son voisinage, afin que chaque branche puisse porter le fardeau de son raisin, sans quoy elle se detacheroit aisément de son courson</def>
+<def>Outil de fer propre à percer, dont se servent les Tonneliers. Il est emmanché comme le VRl URN. foret &amp; la tarriere, &amp; fait son effet en le tournant à deux mains</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+    <form type="lemma">VRILLES</form><pc>.</pc>
+    <sense>
+        <usg>Terme de Jardinage</usg>
+        <pc>.</pc>
+        <def>certains liens que la nature a donnez aux branches de la vigne, pour s'accrocher à tout ce qui se trouve dans son voisinage, afin que chaque branche puisse porter le fardeau de son raisin, sans quoy elle se detacheroit aisément de son courson</def>
+    </sense>
+    <pc>.</pc>
+</entry>
+    
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>URILLES</orth>
 </form>
@@ -28353,7 +28387,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>USUFRUT</orth>
+<orth>USUFRUIT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -28365,10 +28399,29 @@
 <pc>.</pc>
 
 <sense>
-<def>Jouïssance d'un bien ; droit de percevoir les fruits, ou les revenus d'un heritage, ou de quelque autre chose sans en aliener ni deteriorer la proprieté. On peut donner la proprieté de son bien, &amp; s'en' reserver l'usafruit. La veuve ne jouït que par nsufruit de son doüaire coutumier. Le don mutuei entre maris &amp; femmes n'a lieu que pour l'asafreis des biens du predecedé au profit du survivant. UsUFRuitierR, iere. s. m. &amp; f. Qui jouit de l'usufruit d'on bien, d'un revenu, dont il n'est pas proprietaire. Les Beneficiers ne sont qu'usufruiiers. Les heritiers inst tuez ne sont qu'usufruitiers, quand il y a des substituts. Un uufruitier jouït des bois taillis, &amp; ne peut abattre la haute futaye. L'usufruitier est obligé à l'entretien des bâtimens. L'usafrnitiere est decedée, &amp; l'usufruit est retourné au proprietaire. Le Mait</def>
+<def>Jouïssance d'un bien ; droit de percevoir les fruits, ou les revenus d'un heritage, ou de quelque autre chose sans en aliener ni deteriorer la proprieté. On peut donner la proprieté de son bien, &amp; s'en' reserver l'usafruit. La veuve ne jouït que par nsufruit de son doüaire coutumier. Le don mutuei entre maris &amp; femmes n'a lieu que pour l'asafreis des biens du predecedé au profit du survivant</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+    <form type="lemmaGrp">
+        <form type="lemma">
+            <orth>UsUFRuitierR</orth>
+        </form>
+        <pc>,</pc>
+        <form type="inflected">IERE</form>
+       <gramGrp>
+           <pos>s</pos>
+           <pc>.</pc>
+           <gen>m. &amp; f</gen>
+       </gramGrp>
+        <pc>.</pc>
+    </form>
+    <sense>
+        <def>Qui jouit de l'usufruit d'on bien, d'un revenu, dont il n'est pas proprietaire. Les Beneficiers ne sont qu'usufruiiers. Les heritiers inst tuez ne sont qu'usufruitiers, quand il y a des substituts. Un uufruitier jouït des bois taillis, &amp; ne peut abattre la haute futaye. L'usufruitier est obligé à l'entretien des bâtimens. L'usafrnitiere est decedée, &amp; l'usufruit est retourné au proprietaire. Le Mait</def>
+    </sense>
+</entry>    
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>USURAIRE</orth>
 </form>
@@ -28784,7 +28837,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>VALON</orth>
+<orth>WALON</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
