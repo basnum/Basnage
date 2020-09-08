@@ -6732,22 +6732,7 @@
 <sense>
 <form>Labyrinthe</form>
 <pc>,</pc>
-<def>se dit aussi figurément en Morale, des affaires, des procés où l'on est si embarassé, qu'on n'en sçauroit sortir. Les detours de la chicane ont fait des labyrinthes des moindres procés. Cette banqueroute à mis ce Marchand dans un grand labyrinthe d'affaires. Salomon après avoir fait une peinture naïve de ses doutes, &amp; de ses irresoltions, conclut qu'il n'y a que la Sagesse éternelle qui puisse demêler ce labyrinthe</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>P</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>Com</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Nous avons en Droit deux regles pour nous demêler de ce labyrinthe. Patru</def>
+<def>se dit aussi figurément en Morale, des affaires, des procés où l'on est si embarassé, qu'on n'en sçauroit sortir. Les detours de la chicane ont fait des labyrinthes des moindres procés. Cette banqueroute à mis ce Marchand dans un grand labyrinthe d'affaires. Salomon après avoir fait une peinture naïve de ses doutes, &amp; de ses irresoltions, conclut qu'il n'y a que la Sagesse éternelle qui puisse demêler ce labyrinthe. P. Com. Nous avons en Droit deux regles pour nous demêler de ce labyrinthe. Patru</def>
 </sense>
 <pc>.</pc>
 
@@ -6764,7 +6749,7 @@
 <head>LAC<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>EAC</orth>
+<orth>LAC</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -7101,22 +7086,7 @@
 <sense>
 <form>Lacs</form>
 <pc>,</pc>
-<def>se dit figurément en Morale, des piéges, des embûches, des embarras où l'on fait tomber quelcun. C'est un homme simple qu'on fera tomber aisément dans les lacs. L'Amour me tieat dans ses lacs. Bens</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>LAC</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>LAD</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>La coquette tendit ses lacs tons les matins ; Composa de sa main les fleurs de son visage. Boi. Il faudroit être bien étrange, Pour ne pas tomber dans les lacs De gens qui vont somant l'argant, &amp; la leurette. La Fon</def>
+<def>se dit figurément en Morale, des piéges, des embûches, des embarras où l'on fait tomber quelcun. C'est un homme simple qu'on fera tomber aisément dans les lacs. L'Amour me tieat dans ses lacs. Bens. La coquette tendit ses lacs tons les matins ; Composa de sa main les fleurs de son visage. Boi. Il faudroit être bien étrange, Pour ne pas tomber dans les lacs De gens qui vont somant l'argant, &amp; la leurette. La Fon</def>
 </sense>
 <pc>.</pc>
 
@@ -7355,7 +7325,7 @@
 <head>LAG<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>LAGOpUS</orth>
+<orth>LAGOPUS</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -7630,14 +7600,12 @@
 <form type="lemma">
 <orth>LAIETTIER</orth>
 </form>
+    <form type="lemma"><orth>LAIEUR</orth></form>
 </form>
 <pc>.</pc>
 
-<sense>
-<form>LAIEUR</form>
-<pc>.</pc>
 <xr>Voyez Layetté, &amp;c</xr>
-<pc>.</pc></sense>
+<pc>.</pc>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -9014,21 +8982,20 @@
 <def>Ausone l'appelle mustela ; d'autres galexis. Il y a aussi des lamproyes d'eau douce ou de riviere, &amp; ce sont de petits poissons qui vivent d'eau &amp; de fange, qui sont de la grosseur d'un doigt, &amp; longs de 4. ou 5. pouces</def>
 </sense>
 <pc>.</pc>
-
-<re><form>LAMmPSANE</form>
-<form>.</form>
-<form>s</form>
-</re>
-<form type="lemmaGrp">
-<pc>.</pc>
-<gramGrp>
-<pos>f</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Plante dont la racine est simple, blanche, fibrée : elle pousse une tige à la hauteur d'environ trois pieds, ronde, canelée, rougeâtre, creuse, rameuse. Ses feuilles d'enbas sont d'une grandeur &amp; d'une figure approchantes de celles du laitron lisse ; mais celles qui accompagnent le haut de la tige &amp; des rameaux sont oblongues, étroites, pointues, sans queuë. Ses fleurs sont des bouquets ronds à demifleurons jaunes. Ses semences sont un peu longues, deliées, ordinairement pointuës, noirâtres. Toute cette plante rend un suc laiteux amer. En Latin Lampsana Dodanei</def>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>LAMPSANE</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>f</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Plante dont la racine est simple, blanche, fibrée : elle pousse une tige à la hauteur d'environ trois pieds, ronde, canelée, rougeâtre, creuse, rameuse. Ses feuilles d'enbas sont d'une grandeur &amp; d'une figure approchantes de celles du laitron lisse ; mais celles qui accompagnent le haut de la tige &amp; des rameaux sont oblongues, étroites, pointues, sans queuë. Ses fleurs sont des bouquets ronds à demifleurons jaunes. Ses semences sont un peu longues, deliées, ordinairement pointuës, noirâtres. Toute cette plante rend un suc laiteux amer. En Latin Lampsana Dodanei</def>
 </sense>
 <pc>.</pc>
 
@@ -9790,23 +9757,12 @@
 <pc>.</pc>
 
 <re><form>Langue de Chien</form>
-<form>.</form>
-<form>Plante</form>
-<def>qui a été ainsi nommée parceque ses feuilles ont la figure de la langue d'un chien : elles sont longues, étroites, pointues, lanugineuses, molles, blanchâtres. Ses fleurs sont semblables à celles de la buglose, de couleu rouge tirant sur le purpurin. Son fruit est à quatre capsules herissées de poils piquans qui s'attachent aux habits : chaque capsule contient une semence. Sa racine est longue, grosse, noire en dehors, blanche en dedans. Cette plante est incrassante, rafraichissante, adoucissante</def>
-<pc>.</pc></re>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>C</orth>
-</form>
-<pc>.</pc>
-<pron>Bauhin l'appelle Cymoglossum majus vulgare</pron>
-</form>
-<pc>.</pc>
+<pc>,</pc>
+<def>Plante qui a été ainsi nommée parceque ses feuilles ont la figure de la langue d'un chien : elles sont longues, étroites, pointues, lanugineuses, molles, blanchâtres. Ses fleurs sont semblables à celles de la buglose, de couleu rouge tirant sur le purpurin. Son fruit est à quatre capsules herissées de poils piquans qui s'attachent aux habits : chaque capsule contient une semence. Sa racine est longue, grosse, noire en dehors, blanche en dedans. Cette plante est incrassante, rafraichissante, adoucissante. C. Bauhin l'appelle Cymoglossum majus vulgare. Il y a plusieurs autres especes de langue de chien.
+    </def>
+    </re>
+    <re><form>Langue de Serpent, ou Langue Serpentine.</form> <def>Petite plante qui pousse une queuë haute comme la main, soutenant une seule feuille semblable en quelque maniere à une petite feuille de poirée, mais plus grasse, charnuë, lisse, droite, quelquefois longue &amp; étroite, quelquefois large &amp; arondie. Il sort du haut de sa queuë un fruit qui a la figure d'une langue aplatie, à bords relevez &amp; divisez dans leur longueur en plusieurs petites cellules qui renferment une poussiere très-menuë. Ses racines sont fibreuses. Cette plante est vulneraire : quelques-uns pretendent guerir les descentes par l'usage de la poudre de cette herbe. En Latin Ophioglossumvulgatum C. Bauhin. Il y a plusieurs autres especes de langue de serpent. Elle a été ainsi nommée à cause que son fruit a la figure de la langue d'un serpent</def></re>
 
-<sense>
-<def>Il y a plusieurs autres especes de langue de chien. Langue de Serpent, ou Langue Serfpentine. Petite plante qui pousse une queuë haute comme la main, soutenant une seule feuille semblable en quelque maniere à une petite feuille de poirée, mais plus grasse, charnuë, lisse, droite, quelquefois longue &amp; étroite, quelquefois large &amp; arondie. Il sort du haut de sa queuë un fruit qui a la figure d'une langue aplatie, à bords relevez &amp; divisez dans leur longueur en plusieurs petites cellules qui renferment une poussiere très-menuë. Ses racines sont fibreuses. Cette plante est vulneraire : quelques-uns pretendent guerir les descentes par l'usage de la poudre de cette herbe. En Latin Ophioglossumvulgatum C. Bauhin. Il y a plusieurs autres especes de langue de serpent. Elle a été ainsi nommée à cause que son fruit a la figure de la langue d'un serpent</def>
-</sense>
 <pc>.</pc>
 
 <sense>
@@ -10184,7 +10140,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>LANSPECADE</orth>
+<orth>LANSPEÇADE</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -10831,7 +10787,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>EAQUE</orth>
+<orth>LAQUE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -11102,13 +11058,6 @@
 <pc>,</pc>
 <def>se dit aussi de ce pui est ample, étendu où l'on trouve ses commoditez. Il a pris un grand logis, il est logé bien au large. Il fait bon être au large dans ses souliers, dans ses habits, n'y être point gêné, ni contraint. Quand il est à table, au Sermon, il veut être assis au large, n'être point pressé. Il a eu avis d'un decret donne contre lui, il a pris le large, il s'est sauvé de la ville. On dit aussi, que les vaisseaux prennent le large, se mettent au large, courent au large, lors qu'ils se mettent en haute mer, qu'ils s'elevent &amp; qu'ils s'éloignent des côtes. On dit encore la mer vient du large, c'est-à-dire que le vent qui pousse les lames vient de la mer, &amp; non de terre. On dit aussi d'un cheval qu'il va au large, quand il gigne le terrain en s'éloignant du centre de la volte. On dit aussi de celui qui acquiert des terres autour de sa Seigneurie, qu'il se met au large, qu'il s'étend au long &amp; au large</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>LAR</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
 <form>Large</form>
@@ -11627,11 +11576,19 @@
 <def>se dit aussi pour signifier, Qui est bas &amp; honteux ; qui est sans honneur, qui est infame. C'est un lâche qui souffre tranquillement qu'on le deshonnore. Une lâche complaisance degenere en fadeur. Bell. Procedé lâche. Scar. C'est une ame lâcbe, &amp; basse ; capable de tout faire pour de l'argent. La trahison, l'assassinat sont les plus lâches de toutes les actions. Vva lache, fais 'amour, &amp; remnce à lEmpire. Rac. Est-il rien de plus noir que ta lâche action ? Mol. Morbles c'est une chose indigne, lache, inan, De s'abasser ainfi jusqu'à trair san ame. Id</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<form>LASCHhEMENT, ou LACHhEMENT. adv</form>
-<pc>.</pc>
-<def>Foiblement, mollement, nonchalamment, bsement, e paye pas vont Capitaine, parAbandonner lâchement, trabir lâchement ses amis</def>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>LASCHEMENT</orth></form>
+            <pc>,</pc>
+            <form type="variant"><orth>ou LACHEMENT</orth></form>
+            <gramGrp>
+                <pos>adv</pos>
+                <pc>.</pc>
+                </gramGrp>
+        </form>
+        <sense>
+            <def>Foiblement, mollement, nonchalamment, bsement, e paye pas vont Capitaine, parAbandonner lâchement, trabir lâchement ses amis</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -11640,7 +11597,7 @@
 </form>
 <pc>,</pc>
 <form type="variant">
-<orth>ouLACHER</orth>
+<orth>ou LACHER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -11811,7 +11768,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>LASCIVETE</orth>
+<orth>LASCIVETÉ</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -12083,7 +12040,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ALATERE</orth>
+<orth>A LATERE</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -12236,7 +12193,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>LATINITE</orth>
+<orth>LATINITÉ</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -12934,10 +12891,18 @@
 </sense>
 <pc>.</pc>
 
-<re><form>On</form>
-<form>dit</form>
-<def>aussi, la lavûre d'un livre qu'on relie &amp; qu'on lave. Lavûre de gands, qu'on lave avec certaine matiere preparée. Lavûre d'Orfevre est celle que font les Monnoyeurs, &amp; les Orfévres avec du vif argent, &amp; de l'eau pour retirer les menues poudres d'or, &amp; d'argent, qui sont tombées dans les cendres, ou dans les ordures. Les Fondeurs appellent aussi lavûre, le metal qu'ils retirent des cendrures, allesures, &amp; sciures tombées dans les fonderies. LAVEUSEd'Ecuelles. Celle qui lave, qui écure la vaisselle. C'est une laveuse d'écuelles</def>
-<pc>.</pc></re>
+<sense>
+<def>On dit aussi, la lavûre d'un livre qu'on relie &amp; qu'on lave. Lavûre de gands, qu'on lave avec certaine matiere preparée. Lavûre d'Orfevre est celle que font les Monnoyeurs, &amp; les Orfévres avec du vif argent, &amp; de l'eau pour retirer les menues poudres d'or, &amp; d'argent, qui sont tombées dans les cendres, ou dans les ordures. Les Fondeurs appellent aussi lavûre, le metal qu'ils retirent des cendrures, allesures, &amp; sciures tombées dans les fonderies.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>LAVEUSE d'Ecuelles</orth></form>
+            <pc>.</pc>
+            </form>
+        <sense>
+            <def>Celle qui lave, qui écure la vaisselle. C'est une laveuse d'écuelles</def>
+<pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -13367,7 +13332,7 @@
 </form>
 <pc>,</pc>
 <form type="variant">
-<orth>ouLEBECHE</orth>
+<orth>ou LEBECHE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -13541,21 +13506,20 @@
 <def>est une maniere de compter dans l'indostan, qui signifie cent mille. C'est une façon de parler semblable à celle des Hollandois, qui pour dire cent mille francs, disent une tone d'argent. Un letb de roupies, veut dire, cent mille roupies. Ainsi on dit que le Roi de Golconde a de revenu 25 lecth de pagodes, &amp; le pagode vaut à-peu-près un écu d'or de France</def>
 </sense>
 <pc>.</pc>
-
-<re><form>LECTuURE</form>
-<form>.</form>
-<form>s</form>
-</re>
-<form type="lemmaGrp">
-<pc>.</pc>
-<gramGrp>
-<gen>f</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Action de celui qui lit ce qui est contenu dans un écrit, ou dans un livre. Les parens s'assemblent pour entendre la lecture d'un contrat de mariage. Lecture faite de son interrogatoire , c'est ainsi qu'on termine ces sortes d'actes. C'est à ce Novice à faire aujourd'huy la lecture dans le Refectoire. J'al assisté à la lecture de cet Ouvrage en bonne compagnie. La lecture des livres deffendus est dangereuse</def>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>LECTURE</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>f</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Action de celui qui lit ce qui est contenu dans un écrit, ou dans un livre. Les parens s'assemblent pour entendre la lecture d'un contrat de mariage. Lecture faite de son interrogatoire , c'est ainsi qu'on termine ces sortes d'actes. C'est à ce Novice à faire aujourd'huy la lecture dans le Refectoire. J'al assisté à la lecture de cet Ouvrage en bonne compagnie. La lecture des livres deffendus est dangereuse</def>
 </sense>
 <pc>.</pc>
 
@@ -13918,16 +13882,19 @@
 <sense>
 <def>Ala Legere, se dit au figuré pour, Inconsiderément, sans beaucoup de reflexion. Entreprendre une chose à la legere. Il a fait cela fort à la legere. Un mot qu'il lâchi à la legere, pensa tout gâter. Quoyque toutes ces façons de parler soient en usage, il y a d'habiles gens qui aimeroient mieux qu'on se servit de legerement, que de à la legere</def>
 </sense>
-<pc>.</pc>
-
-<re><form>LEGerEMENT</form>
-<form>,</form>
-<form>adv</form>
-<form>.</form>
-<form>D'une maniere legere</form>
-<pc>,</pc>
-<def>prompte, agile. Les cavales de Portugal courent si legerement, que les Anciens ont feint qu'elles étoient conçuës du vent</def>
-</re>
+<pc>.</pc></entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>LEGEREMENT</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>adv</pos>
+                <pc>.</pc>
+                </gramGrp>
+        </form>
+        <sense>
+            <def>D'une maniere legere, prompte, agile. Les cavales de Portugal courent si legerement, que les Anciens ont feint qu'elles étoient conçuës du vent</def>
+</sense>
 <pc>.</pc>
 
 <sense>
@@ -14087,7 +14054,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>LEGITIATION</orth>
+<orth>LEGITIMATION</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -14104,7 +14071,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>LEGITIE</orth>
+<orth>LEGITIME</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -14169,25 +14136,10 @@
 <sense>
 <def>Rendre legitime. Ce pere a fait legitimer ses enfans. Un enfant ne peut être legitime sans le consentement du pere. Le Roi peut legitimer des adulterins mêmes. La raison est que le Prince est le maître de l'état civil de ses sujets. Il peut quand il lui plaîit efficer la turpitude de l'adultere, &amp; retablir l'honneur d'une naissance que les loix condamnent. La Politique ne permet pas qu'il les laisse dans une infamie, qui les exclut en quelque sorte de la societé civile, &amp; du commerce des honnêtes gens. La voye la plus certaine de legitimer, est le mariage subsequent entre le pere &amp; la mere ; alors tout le defaut de la naissance est reparé, &amp; les enfans entrent dans tous les mêmes droits que sils étoient nez après la celebration du mariage. Les Empereurs avoient inventé divers moyens de legitimer ; Anastase avoit voulu que le pere pût legitimer ses enfans naturels par la seule adoption, pourvû qu'il n'eût point d'enfans legitimes. Mais Justin par sa Constitution, &amp; Justinien par sa Novelle 74. abolirent cette legitimation, de peur que la trop grande facilité de legitimer des bâtards, ne retint les hommes dans le concubinage. Il établit seulement une maniere de legitimer, qui se fait par lettres du Prince. Cette legitimation rendoit les bâtards capables d'arriver aux dignitez, &amp; même de succeder, pourvû qu'ils fussent legitimez du consentement de leur pere, &amp; mere, &amp; de leurs parens. Cela est conforme au Droit canonique, &amp; on le pratique de même en France. La legitimation se fait par lettres patentes du Roi, lequel seul peut legitimer les bâtards. De Launat. Le Roi en legitimant les bâtards ne leur accorde que le droit de posseder des charges, &amp; des benefices, &amp; de disposer de leurs biens par testament. Pour succeder il faut le consentement des parens</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>LEG</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>LEM</pos>
-<pc>.</pc>
-<gen>LEN</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
 
-<re><form>Legitiné, ée</form>
-<form>.</form>
-<form>part</form>
+<re><form>Legitimé, ée</form>
 <pc>.</pc>
-<gramGrp>pass. &amp; adj</gramGrp>
+<gramGrp>part pass. &amp; adj</gramGrp>
 <pc>.</pc></re>
 </entry>
 <entry><form type="lemmaGrp">
@@ -14390,22 +14342,7 @@
 <pc>.</pc>
 
 <sense>
-<def>Terme relatif. C'est le jout qui suit celui dont on a parlé. Quand on boit trop le soir, on s'en sent le lendemain. Le mariage est une affaire dont on se repent quelquefois le lendemain. Le douaire est le don du matin du tendimain des noctes</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>G</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>G</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Il ne faut jamais remettre les affaires au sendemain. Personne n'est sûr du lendemain. u lendemain cet homme ne songcoit, Et tout son fait des la veille mangeoit. La Foi</def>
+<def>Terme relatif. C'est le jout qui suit celui dont on a parlé. Quand on boit trop le soir, on s'en sent le lendemain. Le mariage est une affaire dont on se repent quelquefois le lendemain. Le douaire est le don du matin du lendemain des noces. G. G. Il ne faut jamais remettre les affaires au lendemain. Personne n'est sûr du lendemain. u lendemain cet homme ne songcoit, Et tout son fait des la veille mangeoit. La Foi</def>
 </sense>
 <pc>.</pc>
 
@@ -14594,7 +14531,23 @@
 <pc>.</pc>
 
 <sense>
-<def>La justice marche avec tant de lenteur, que bien souvent le crime échape à sa rigueur. Corn. La lenteur est necessaire pour le conseil, &amp; la vivacité pour l'execution. La lenteur marque quelquefois de la prudence, &amp; quelquefois la posanteur de l'esprit. Log. Le Prince avoit toute la prudence de la lenteur sans en avoir les inconveniens. Le P. Bourd. Le Prince quand il s'agit de multiplier, ou de hâter ses bienfaits, ne souffre ni detours, ni lenteurs. Tour. On prend quelquefois la stupidité pour de la sagesse, &amp; la lenteur pour de la prudence. St. Ev. Les arrêts que rend nôtre esprit ne se peuvent prononcer avec trop de lenteur. Oe. M. Il faut bannir du Palais ces lenteurs affectées, &amp; ces detours infinis, que l'avarice a inventez pour faire durer les procés. Fl. La lenteur de Xenocrate venoit de la crainte de se tromper, plutôt que de sa pesanteur naturelle. FouLENTICULAIRE. adj. m. Terme d'Optique, ui se dit d'un verre de lunette convexe, qui approche le la figure d'une lentille, qui est plat, rond, &amp; plus épais par le milieu que par les bords. Le verre objectif des lunettes de longue vue est lenticulaire. La figure du cristallin de l'oeil est ordinairement lenticulaire</def>
+<def>La justice marche avec tant de lenteur, que bien souvent le crime échape à sa rigueur. Corn. La lenteur est necessaire pour le conseil, &amp; la vivacité pour l'execution. La lenteur marque quelquefois de la prudence, &amp; quelquefois la posanteur de l'esprit. Log. Le Prince avoit toute la prudence de la lenteur sans en avoir les inconveniens. Le P. Bourd. Le Prince quand il s'agit de multiplier, ou de hâter ses bienfaits, ne souffre ni detours, ni lenteurs. Tour. On prend quelquefois la stupidité pour de la sagesse, &amp; la lenteur pour de la prudence. St. Ev. Les arrêts que rend nôtre esprit ne se peuvent prononcer avec trop de lenteur. Oe. M. Il faut bannir du Palais ces lenteurs affectées, &amp; ces detours infinis, que l'avarice a inventez pour faire durer les procés. Fl. La lenteur de Xenocrate venoit de la crainte de se tromper, plutôt que de sa pesanteur naturelle. Fou</def>
+    </sense>
+    <pc>.</pc>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>LENTICULAIRE</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>adj</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Terme d'Optique, ui se dit d'un verre de lunette convexe, qui approche le la figure d'une lentille, qui est plat, rond, &amp; plus épais par le milieu que par les bords. Le verre objectif des lunettes de longue vue est lenticulaire. La figure du cristallin de l'oeil est ordinairement lenticulaire</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -14628,17 +14581,6 @@
 <form>Lentille</form>
 <pc>,</pc>
 <def>se dit aussi des taches &amp; rousseurs qui viennent aux mains &amp; au visage, qui ressemblent à la lentille, soit pour la couleur, soit pour la figure</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>LEN</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>LEO</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -14978,11 +14920,11 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>LESCNE</orth>
+<orth>LESCHE</orth>
 </form>
 <pc>,</pc>
 <form type="variant">
-<orth>ouLECHE</orth>
+<orth>ou LECHE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -15420,75 +15362,24 @@
 <pc>.</pc>
 
 <sense>
-<def>Figure, caractere, ou trait de plume dont un peuple est convenu pour signifier quelque chose, &amp; dont l'assemblage fait connoître la pensée des uns des autres. Les langues sont composées de mots, les mots de syllabes, &amp; les svllabes de lettres. L'Alphabet de chaque langue est composé d'un certain nombre de ces lettres ou caracteres qui ont un son, une figure, &amp; une signification differentes. L'Alphabet François a 23. lettres. Quelques-uns voudroient qu'en ôtant de l'Alphabet François la lettre k, qui ne sert presque plus de rien, l'on grossit l'alphabet de deux lettres, qui sont l'j &amp; l'y consonnes. Ainsi l'alphabet seroit composé de 24. lettres. Le Latin, l'Italien &amp; l'Espagnol en ont 23. Le Grec en a 24. L'Hebreu ena22. sans les points. Crinitus dit que Moïse inventa les lettres Hebraïques ; Abraham les Syriaques &amp; les Caldaïques ; les Phoeniciens celles d'Attique, dont Cadmus apporta l'usage en Grece, &amp; les Pelasges le porterent en Italie ; Nicostrata les Latines, Isis les Egyptiennes ; Gulfila celles des Gots, &amp;c. Les Grammairiens distinguent les lettres en voyelles, &amp; en consones ; en muettes, doubles, liquides, &amp; caractéristiques. Les Hebreux divisent leurs lettres en gutturales, a, h, ch, gn ; dentales, é, ts, r ; labiales, b, m, u, p ; celles de la langue, d, t l m ; &amp; du palais, s I, c, k. Les Ecrivains les dis-tinguent en lettre ronde ou Françoise, Romaine, Italienne, bâtarde, de Compte, de Finance, lettres Gothiques ; on les appelle aussi de Tolede. Les peuples du Nord avoient des lettres qu'on nommoit runes, ou runiques, dont Verelius a parlé dans sa Runographie. Lettres moulées, ou écrites à la main. Les Imprimeurs les distinguent en lettres capitales, majuscules, initiales, pour servir aux titres &amp; aux noms propres ; &amp; selon la grosseur des caracteres, en gros canon, petit canon, gros &amp; petit parangon, gros Romain, Saint Augustin, Cicero, jusqu'à la nompareille qui est la plus petite. Les lettres F. G. II. K</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>Q</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>X</pos>
-<pc>.</pc>
-<gen>T</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Z. étoient autrefois inconnues aux Romains, comme prouve Claude Dausqueius en son Orthographie, ou il enseigne l'origine des lettres. Ils appellent aussi lettres grises ou historiées, celles qui sont gravées sur du bois avec quelque ornement, comme les vignettes, dont ils se servent au commencement des livres, ou des Chapitres, qui ont été substituées aux lettres enluminées des manuscrits. Le Roi Chilperic voulut transporter dans nôtre Alphabet François toutes les lettres doubles des Grecs, afin qu'on pût representer sous un seul caractere les th, ch, ph, cs, &amp; ps. ce qui fut en usage tant qu'il regna, comme on apprend dans Gregoire de Tours</def>
-<pc>.</pc>
-<etym>Les Auteurs qui ont écrit des lettres sont Terentianus Morus, Antoine de Nebrisse, Malinkrot, Vossius, &amp; Dom Lancelot en sa Nouvelle Methode</etym>
+<def>Figure, caractere, ou trait de plume dont un peuple est convenu pour signifier quelque chose, &amp; dont l'assemblage fait connoître la pensée des uns des autres. Les langues sont composées de mots, les mots de syllabes, &amp; les svllabes de lettres. L'Alphabet de chaque langue est composé d'un certain nombre de ces lettres ou caracteres qui ont un son, une figure, &amp; une signification differentes. L'Alphabet François a 23. lettres. Quelques-uns voudroient qu'en ôtant de l'Alphabet François la lettre k, qui ne sert presque plus de rien, l'on grossit l'alphabet de deux lettres, qui sont l'j &amp; l'y consonnes. Ainsi l'alphabet seroit composé de 24. lettres. Le Latin, l'Italien &amp; l'Espagnol en ont 23. Le Grec en a 24. L'Hebreu ena22. sans les points. Crinitus dit que Moïse inventa les lettres Hebraïques ; Abraham les Syriaques &amp; les Caldaïques ; les Phoeniciens celles d'Attique, dont Cadmus apporta l'usage en Grece, &amp; les Pelasges le porterent en Italie ; Nicostrata les Latines, Isis les Egyptiennes ; Gulfila celles des Gots, &amp;c. Les Grammairiens distinguent les lettres en voyelles, &amp; en consones ; en muettes, doubles, liquides, &amp; caractéristiques. Les Hebreux divisent leurs lettres en gutturales, a, h, ch, gn ; dentales, é, ts, r ; labiales, b, m, u, p ; celles de la langue, d, t l m ; &amp; du palais, s I, c, k. Les Ecrivains les dis-tinguent en lettre ronde ou Françoise, Romaine, Italienne, bâtarde, de Compte, de Finance, lettres Gothiques ; on les appelle aussi de Tolede. Les peuples du Nord avoient des lettres qu'on nommoit runes, ou runiques, dont Verelius a parlé dans sa Runographie. Lettres moulées, ou écrites à la main. Les Imprimeurs les distinguent en lettres capitales, majuscules, initiales, pour servir aux titres &amp; aux noms propres ; &amp; selon la grosseur des caracteres, en gros canon, petit canon, gros &amp; petit parangon, gros Romain, Saint Augustin, Cicero, jusqu'à la nompareille qui est la plus petite. Les lettres F. G. H. K. Q. X. Y. Z. étoient autrefois inconnues aux Romains, comme prouve Claude Dausqueius en son Orthographie, ou il enseigne l'origine des lettres. Ils appellent aussi lettres grises ou historiées, celles qui sont gravées sur du bois avec quelque ornement, comme les vignettes, dont ils se servent au commencement des livres, ou des Chapitres, qui ont été substituées aux lettres enluminées des manuscrits. Le Roi Chilperic voulut transporter dans nôtre Alphabet François toutes les lettres doubles des Grecs, afin qu'on pût representer sous un seul caractere les th, ch, ph, cs, &amp; ps. ce qui fut en usage tant qu'il regna, comme on apprend dans Gregoire de Tours. Les Auteurs qui ont écrit des lettres sont Terentianus Morus, Antoine de Nebrisse, Malinkrot, Vossius, &amp; Dom Lancelot en sa Nouvelle Methode</def>
 </sense>
 <pc>.</pc>
 
 <sense>
 <form>Lettres</form>
 <pc>,</pc>
-<def>se dit aussi des caracteres inconnus qu'on croit servir à signifier quelque chose. On dit que les Chinois ont 80. mille sortes de lettres ou de caracteres. On voit encore des lettres hieroglyphiques sur les obelisques venus d'Egypte, où l'on n'entend rien. On ne connoît rien aux lettres en chiffres, quand elles sont bien faites. Le Pere Hircher a prouvé que les premieres lettres avoient la figure des animaux. Lettres Numerales. C'est ainsi que l'on appelle les lettres dont les Romains se servoient pour leurs chiffres, &amp; que nous avons prises d'eux. Ces lettres</def>
+<def>se dit aussi des caracteres inconnus qu'on croit servir à signifier quelque chose. On dit que les Chinois ont 80. mille sortes de lettres ou de caracteres. On voit encore des lettres hieroglyphiques sur les obelisques venus d'Egypte, où l'on n'entend rien. On ne connoît rien aux lettres en chiffres, quand elles sont bien faites. Le Pere Hircher a prouvé que les premieres lettres avoient la figure des animaux. Lettres Numerales. C'est ainsi que l'on appelle les lettres dont les Romains se servoient pour leurs chiffres, &amp; que nous avons prises d'eux. Ces lettres numerales sont sept, C. D. I. L. M. V. X.</def>
 </sense>
-<form type="lemmaGrp">
-<form type="inflected">
-<orth type="part">numerales sont sept</orth>
-</form>
 <pc>.</pc>
-<form type="lemma">
-<orth>C</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>D</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>I</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>L</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>M</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>V</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>X</orth>
-</form>
-</form>
-<pc>.</pc>
-
 <sense>
 <def>Lettres Nundinales</def>
 <pc>.</pc>
 <xr>Voyez Nundinales</xr>
-<pc>.</pc>
-<def>Lettre Dominicale, cst la lettre rouge de l'Almanach qui marque le Dimanche. Elle a éte substituée en la place des lettres nundinales du Calendrier Romain. Voycz Dominical</def>
+</sense>
+    <pc>.</pc>
+    <sense>
+<form>Lettre Dominicale</form><pc>,</pc> <def>cst la lettre rouge de l'Almanach qui marque le Dimanche. Elle a éte substituée en la place des lettres nundinales du Calendrier Romain. Voyez Dominical</def>
 </sense>
 <pc>.</pc>
 
@@ -15509,9 +15400,9 @@
 <sense>
 <form>Lettre</form>
 <pc>.</pc>
-<usg>Ce mot</usg>
+<usg>Ce mot, au stile de l'Ecriture Sainte</usg>
 <pc>,</pc>
-<def>au stile de l'Ecriture Sainte, se prend quelquefois pour la Loi par opposition à l'Evangile. Ainsi Saint Paul dit que la lettre tuë, mais que l'Esprit vivifie</def>
+<def>se prend quelquefois pour la Loi par opposition à l'Evangile. Ainsi Saint Paul dit que la lettre tuë, mais que l'Esprit vivifie</def>
 </sense>
 <pc>.</pc>
 
@@ -15557,16 +15448,15 @@
 <pc>.</pc>
 
 <re><form>Lettres de Profession</form>
-<form>.</form>
-<form>Ce</form>
-<def>sont les voeux d'une Religieuse signez par elle-même, après qu'elle les a prononcez solennellement, &amp; que toutes les ceremonies de la Profession ont été faites. Port-R</def>
+<pc>.</pc>
+<def>Ce sont les voeux d'une Religieuse signez par elle-même, après qu'elle les a prononcez solennellement, &amp; que toutes les ceremonies de la Profession ont été faites. Port-R</def>
 </re>
 <pc>.</pc>
 
 <sense>
 <form>Lettres</form>
 <pc>,</pc>
-<def>se dit aussi des sciences. C'est un homme de Letires, il a été élevé dans les Lettres, il a des Lettres. Les Birbires sont ennemis des Lettres, ne les cultivent pont. François I. a commencé à faire revivre les Lettres en France. On appelle Mecenas, ceux qui protegent les gens de Lettres, qui leur font du bien. On appelle les Lettres humaines, ou les belles Lettres, la connoissance des Poëtes, &amp; des Orateurs. Les vrayes belles Lettres sont la Physique, la Geometrie, &amp; les sciences solides. La conroissance des belles Lettres devient en plusieurs Sçivans une érudition fort ennuyeuse. St. Ev</def>
+<def>se dit aussi des sciences. C'est un homme de Lettres, il a été élevé dans les Lettres, il a des Lettres. Les Birbires sont ennemis des Lettres, ne les cultivent pont. François I. a commencé à faire revivre les Lettres en France. On appelle Mecenas, ceux qui protegent les gens de Lettres, qui leur font du bien. On appelle les Lettres humaines, ou les belles Lettres, la connoissance des Poëtes, &amp; des Orateurs. Les vrayes belles Lettres sont la Physique, la Geometrie, &amp; les sciences solides. La conroissance des belles Lettres devient en plusieurs Sçivans une érudition fort ennuyeuse. St. Ev</def>
 </sense>
 <pc>.</pc>
 
@@ -15581,11 +15471,13 @@
 <form>Lettre</form>
 <pc>,</pc>
 <def>se dit proverbialement en ces phrases. On dit qu'il faut aider à la lettre ; pour dire, qu'il ne faut pas expliquer une chose à la rigueur, mais y ajoûter quelque chose du sien qui en facilite l'intelligence. On dt aussi, Ajoûter à la lettre, pour, Dire quelque chose qui n'est pas dans ce qu'on lt, dire plus qu'il n'y a. On dit aussi du secret d'une affaire qu'on ignore, Ce sont pour nous lettres closes. On dit aussi d'un Ouvrage fort achevé, où on ne peut rien ajouter, ni diminuer, qu'il n'y manque pas une lettre</def>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>
 </entry>
+              
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>LETTRE</orth>
+<orth>LETTRÉ</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -15905,13 +15797,6 @@
 <pc>,</pc>
 <def>signifie auisi une élevation de terre, de pierres ou d'autres materiaux en forme de quai, de digue, de chaussée pour arrêter des eaux, des inondations. Rompre une levée. Vaug. On le dit particulierement des levées de la riviere de Loire. On fait plusieurs lieuës de chemin sur la levée. Il y a des Intendans des Turcies &amp; levées</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>LEV</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <etym>
 <lbl>Ce mot vient de</lbl>
@@ -17396,22 +17281,7 @@
 <sense>
 <form>Libertez</form>
 <pc>,</pc>
-<def>au pluriel, se dit des privileges, de certains droits dont on est en possession. Les provisions des Offices sont expediées avec cette formule, Pour en jouïr avec tous les droits, privileges, libertez, franchises, immunitez &amp; exemptions dont ont jouï ses predecesseurs. Les libertez de l'Eglise Gallicane ont été recueillies par Mr. de Marca, &amp; par Mr. du Puy. Ces libertez ne sont autre chose que l'ancien droit commun, &amp; canonique qu'on a observé en France dans sa pureté, &amp; à la rigueur. On les a appellez souvent privileges par humilité, &amp; par respect pour le Saint Siege. Selon les Canonistes de delà les Monts, les libertez de l'glise Galicane ne sont autre chose, qu'une dispense licentieuse des loix qui gênent les François</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>C</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>B</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>L'Eglise de France a toujours soigneusement conserv ses libertez, en s'opposant aux nouveautez introduites par les Canonistes Ultramontains, particulierement pendant le grand schisme d'Occident, durant lequel les Papes residoient à Avignon. Les libertez Gallicanes roulent sur ces deux maximes : Que la puissance donnée par Jesus-Christ à Saint Pierre, &amp; à l'Eglise est purement spirituelle, &amp; ne s'étend ni directement ni indirectement sur les choses temporelles. 2. Que la puissance du Pape, comme chet de l'Eglise universelle, doit être exercée conformément aux Canons reçus de toute l'Eglise. 3. Que le Pape lui-même est soumis au jugement du Concile Universel, dans les cas marquez dans le Concile de Constance. Ces maximes ont été confirmées solennellement par l'Assemôlée du Clergé de France en 168l. Fleuri. Le Pape ne peut accorder aucune grace qui concerne les droits temporels : comme de legitimer des bâtards, ou de rendre les personnes capables des charges publiques, &amp; des effets civils. Par la même raison on n'a point d'égard aux provisions de Cour de Rome au prejudice des droits des Patrons laïques. On ne reçoit en France que l'ancien corps des Canons : Voyez Droit Canonique. Les Constitutions des Papes, sur tout depuis 300. ans n'obligent point, à moins qu'elles ne soient approuvées par l'usage de l'Eglise Gallicane. On ne reçoit non plus les Conciles que pour la doctrine, &amp; non point pour la discipline. Id. Les libertez de l'Eglise Gallicane consistent a observer l'ancien Code Canonique. Il y a eu diverses collections du corps des Canons. Voyez Canon. Sods la premiere race des Rois l'on observoit le Code des Canons de l'Eglise Universelle, qui étoit composé des deux premiers Conciles Generaux, de cinq particuliers de l'Eglise Grecque, &amp; de quelques Conciles tenus dans les Gaules. Ce Code a été perdu. Depuis le Pape Adrien donna à Charlemagne le Code des Canons de l'Eglise Romaine compilé par Denys le Petit en 527. Il avoit ajouté au Code de l'Eglise Universelle 50. Canons des Apôtres, 27. du Concile de Calcedoine, ceux des Conciles de Sardique, &amp; de Carthage, &amp; les Decretales des Papes depuis Sirice jusqu'à Anastase. C'est en quoy consistoit l'ancien Droit Canonique, avec quelques Capitulaires de Charlemagne. On l'observoit regulierement en France, &amp; l'on regardoit comme une entreprise sur les libertez de l'Eglise Gallicane tout ce qui y derogeoit. On y a encore recours quand la Cour de Rome veut attenter aux droits de l'Eglise de France, &amp; tout ce qui n'est pas conforme à cet ancien Droit Canonique passe pour usurpation. C'est là ce qu'on objecte à ceux qui pretendent que ces lbertez sont chimeriques, &amp; qu'on ne les peut prouver. Voyez Fevret. Liberté. Divinité honorée des Grecs, &amp; des Romains. Elle étoit representée en Dame Romaine, tenant d'une main une javeline, &amp; de l'autre un chapeau, ou un bonnet</def>
+<def>au pluriel, se dit des privileges, de certains droits dont on est en possession. Les provisions des Offices sont expediées avec cette formule, Pour en jouïr avec tous les droits, privileges, libertez, franchises, immunitez &amp; exemptions dont ont jouï ses predecesseurs. Les libertez de l'Eglise Gallicane ont été recueillies par Mr. de Marca, &amp; par Mr. du Puy. Ces libertez ne sont autre chose que l'ancien droit commun, &amp; canonique qu'on a observé en France dans sa pureté, &amp; à la rigueur. On les a appellez souvent privileges par humilité, &amp; par respect pour le Saint Siege. Selon les Canonistes de delà les Monts, les libertez de l'glise Galicane ne sont autre chose, qu'une dispense licentieuse des loix qui gênent les François. C. B. L'Eglise de France a toujours soigneusement conservé ses libertez, en s'opposant aux nouveautez introduites par les Canonistes Ultramontains, particulierement pendant le grand schisme d'Occident, durant lequel les Papes residoient à Avignon. Les libertez Gallicanes roulent sur ces deux maximes : Que la puissance donnée par Jesus-Christ à Saint Pierre, &amp; à l'Eglise est purement spirituelle, &amp; ne s'étend ni directement ni indirectement sur les choses temporelles. 2. Que la puissance du Pape, comme chet de l'Eglise universelle, doit être exercée conformément aux Canons reçus de toute l'Eglise. 3. Que le Pape lui-même est soumis au jugement du Concile Universel, dans les cas marquez dans le Concile de Constance. Ces maximes ont été confirmées solennellement par l'Assemôlée du Clergé de France en 168l. Fleuri. Le Pape ne peut accorder aucune grace qui concerne les droits temporels : comme de legitimer des bâtards, ou de rendre les personnes capables des charges publiques, &amp; des effets civils. Par la même raison on n'a point d'égard aux provisions de Cour de Rome au prejudice des droits des Patrons laïques. On ne reçoit en France que l'ancien corps des Canons : Voyez Droit Canonique. Les Constitutions des Papes, sur tout depuis 300. ans n'obligent point, à moins qu'elles ne soient approuvées par l'usage de l'Eglise Gallicane. On ne reçoit non plus les Conciles que pour la doctrine, &amp; non point pour la discipline. Id. Les libertez de l'Eglise Gallicane consistent a observer l'ancien Code Canonique. Il y a eu diverses collections du corps des Canons. Voyez Canon. Sods la premiere race des Rois l'on observoit le Code des Canons de l'Eglise Universelle, qui étoit composé des deux premiers Conciles Generaux, de cinq particuliers de l'Eglise Grecque, &amp; de quelques Conciles tenus dans les Gaules. Ce Code a été perdu. Depuis le Pape Adrien donna à Charlemagne le Code des Canons de l'Eglise Romaine compilé par Denys le Petit en 527. Il avoit ajouté au Code de l'Eglise Universelle 50. Canons des Apôtres, 27. du Concile de Calcedoine, ceux des Conciles de Sardique, &amp; de Carthage, &amp; les Decretales des Papes depuis Sirice jusqu'à Anastase. C'est en quoy consistoit l'ancien Droit Canonique, avec quelques Capitulaires de Charlemagne. On l'observoit regulierement en France, &amp; l'on regardoit comme une entreprise sur les libertez de l'Eglise Gallicane tout ce qui y derogeoit. On y a encore recours quand la Cour de Rome veut attenter aux droits de l'Eglise de France, &amp; tout ce qui n'est pas conforme à cet ancien Droit Canonique passe pour usurpation. C'est là ce qu'on objecte à ceux qui pretendent que ces lbertez sont chimeriques, &amp; qu'on ne les peut prouver. Voyez Fevret. Liberté. Divinité honorée des Grecs, &amp; des Romains. Elle étoit representée en Dame Romaine, tenant d'une main une javeline, &amp; de l'autre un chapeau, ou un bonnet</def>
 </sense>
 <pc>.</pc>
 
@@ -17773,13 +17643,6 @@
 <sense>
 <def>Congé, permission d'un Superieur. Une fille ne peut contracter mariage sans l'autorité, congé &amp; licence de ses pere, &amp; mere. Le Pape, l'Abbesse donnent lcence à une Religieuse de sortir de son Couvent pour aller aux eaux. Il vieillit en ce sens. Les Italiens disent à tout propos, con licenza, c'est-à-dire, avec vôtre permission</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>LIG</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
 <form>Licence</form>
@@ -19151,13 +19014,6 @@
 <lang>Latin</lang>
 <foreign>linea</foreign>
 <pc>.</pc></etym>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>LIG</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
 <form>Lignes</form>
@@ -19570,7 +19426,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>LIMACON</orth>
+<orth>LIMAÇON</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -19911,7 +19767,23 @@
 <sense>
 <form>Limitation</form>
 <pc>,</pc>
-<def>signifie aussi, Restriction, exception, modification. Il n'y a point de maxime si generale qui n'ait en plusieurs cas quelque limitatin, quelque exception. Le pouvoir de ces Plenipotentiaires n'est point si grand qu'il ne souffre quelque limitation. Donner une limitation à l'Ordonnance. Pat.s LIMITER. v. act. Donner des bornes, des limites à quelque chose ; restreindre, modifier. Il ne se dit gueres en parlant des frontiers d'un Etat, des bornes d'un Territoire. Il se dit plus ordinairement en parlant du prix d'une chose, de l'espace du temps, ou de l'étendue du pouvoir que l'on donne à quelcun. On limite toujours le pouvoir d'une procuration, d'un mandement. Un doüaire prefix se limite à une certaine somme. On doit faire son enquête dans le temps qui est limité, qui est prescrit. L'amour se doit limiter à l'union des coeurs. Sarae. Dial. Ces paroles limitent nôtre substitution. Pat. Limiter un legs</def>
+<def>signifie aussi, Restriction, exception, modification. Il n'y a point de maxime si generale qui n'ait en plusieurs cas quelque limitatin, quelque exception. Le pouvoir de ces Plenipotentiaires n'est point si grand qu'il ne souffre quelque limitation. Donner une limitation à l'Ordonnance. Pat</def>
+    </sense>
+    <pc>.</pc>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>LIMITER</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>v</pos>
+                <pc>.</pc>
+                <subc>act</subc>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Donner des bornes, des limites à quelque chose ; restreindre, modifier. Il ne se dit gueres en parlant des frontiers d'un Etat, des bornes d'un Territoire. Il se dit plus ordinairement en parlant du prix d'une chose, de l'espace du temps, ou de l'étendue du pouvoir que l'on donne à quelcun. On limite toujours le pouvoir d'une procuration, d'un mandement. Un doüaire prefix se limite à une certaine somme. On doit faire son enquête dans le temps qui est limité, qui est prescrit. L'amour se doit limiter à l'union des coeurs. Sarae. Dial. Ces paroles limitent nôtre substitution. Pat. Limiter un legs</def>
 </sense>
 <pc>.</pc>
 
@@ -20316,24 +20188,7 @@
 <sense>
 <form>Lin</form>
 <pc>,</pc>
-<def>est une espece de vaisseau qui va par mer de tout vent &amp; sans peril, dont fait mention Froissart chap</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>14</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>Vol</pos>
-<pc>.</pc>
-<gen>II</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Gest ce que les Anciens appelloient limer</def>
+<def>est une espece de vaisseau qui va par mer de tout vent &amp; sans peril, dont fait mention Froissart chap. 14. Vol. II. C'est ce que les Anciens appelloient limer</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -20378,7 +20233,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>LINCOIR</orth>
+<orth>LINÇOIR</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -20939,14 +20794,20 @@
 <def>signifie au propre, autant de viande qu'on en peut emporter avec la lippe ou les levres</def>
 </sense>
 <pc>.</pc>
-
-<re><form>LiPpU, uE</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Qui</form>
-<def>a la livre d'en bas trop grosse, &amp; en saillie. On depeint les Mores &amp; les Indiens lppu &amp; camus</def>
-<pc>.</pc></re>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>LIPPU</orth></form>
+            <pc>,</pc>
+            <form type="inflected"><orth type="part">ue</orth></form>
+            <gramGrp>
+                <pos>adj</pos>
+                <pc>.</pc>
+                </gramGrp>
+        </form>
+        <sense>
+            <def>Qui a la lèvre d'en bas trop grosse, &amp; en saillie. On depeint les Mores &amp; les Indiens lippus &amp; camus</def>
+<pc>.</pc></sense>
 </entry>
 </div>
 <div>
@@ -21076,17 +20937,6 @@
 <sense>
 <def>Corps fluide ; qui est en mouvement, &amp; qui ne resste point au solide qui pese dessus. Tout ce qui est fluide n'est pas liquide. Regis. L'eau est appellée par excellence l'Element liquide. On dit aussi, que l'air est liquide. La region des Planetes est liquide. Les corps liquides ne pesent que par leur hauteur. On filet d'eau peut élever toute la mer, s'il est plus haut. Les mers s'appellent en stile poëtique, les plaines liquides</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>LIQ</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>LIR</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
 <form>Liquide</form>
@@ -21110,36 +20960,28 @@
 <sense>
 <form>Liquide</form>
 <pc>.</pc>
-<def>Ce mot se dit parmi les Grammairiens, de certaines consonnes qui sont opposées aux müettes</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>L</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>M</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>N</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>R</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>sont des liquides</pos>
-</gramGrp>
-</form>
+<def>Ce mot se dit parmi les Grammairiens, de certaines consonnes qui sont opposées aux müettes. L. M. N. R. sont des liquides</def>
+</sense>
 <pc>.</pc>
 
 <sense>
 <form>Liquide</form>
 <pc>,</pc>
-<def>se dit figurément en choses morales, &amp; sur tout au Palais, des biens, &amp; effets qui sont clairs, &amp; sans contestation ; sans dette ni procés. Cet homme a du bien, mais il n'est pas liquide. Toutes dettes &amp; charges payées, il a de revenu clair &amp; liquide tant. On ne peut saisir que pour une dette liquide, &amp; certaine. Le reliqua d'un compte est ce qui est dû de net &amp; de liquide. La compensation ne se fait que de liquide à liquide LIQUIDEMENT. adv. D'une maniere liquide. Après un compte fait, il lui est dû encore liquidement deux mille écus</def>
+<def>se dit figurément en choses morales, &amp; sur tout au Palais, des biens, &amp; effets qui sont clairs, &amp; sans contestation ; sans dette ni procés. Cet homme a du bien, mais il n'est pas liquide. Toutes dettes &amp; charges payées, il a de revenu clair &amp; liquide tant. On ne peut saisir que pour une dette liquide, &amp; certaine. Le reliqua d'un compte est ce qui est dû de net &amp; de liquide. La compensation ne se fait que de liquide à liquide</def>
+    </sense>
+    <pc>.</pc>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>LIQUIDEMENT</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>adv</pos>
+                <pc>.</pc>
+                </gramGrp>
+        </form>
+        <sense>
+            <def>D'une maniere liquide. Après un compte fait, il lui est dû encore liquidement deux mille écus</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -21574,19 +21416,13 @@
 <sense>
 <usg>Terme de Charron</usg>
 <pc>.</pc>
-<def>C'est une piece de bois qui est au dessus des aisfieux d'un carrosse, laquelle porte les moutons qui soutiennent le corps du carrosse. Les lisoirs sont debitez dans les forêts de six pieds de long, de six à sept pouces de large, &amp; de 4</def>
+<def>C'est une piece de bois qui est au dessus des aisfieux d'un carrosse, laquelle porte les moutons qui soutiennent le corps du carrosse. Les lisoirs sont debitez dans les forêts de six pieds de long, de six à sept pouces de large, &amp; de 4. à 5. d'épaisseur</def>
 </sense>
 <pc>.</pc>
+</entry>
 
-<form type="lemmaGrp">
-<form type="lemma">
-<orth>à 5</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>d'épaisseur</pos>
-</gramGrp>
-<pc>.</pc>
+<entry>
+    <form type="lemmaGrp">
 <form type="lemma">
 <orth>LISSE</orth>
 </form>
@@ -21603,7 +21439,7 @@
 <pc>.</pc>
 
 <sense>
-<def>Ce qui est poi, uni &amp; luisant</def>
+<def>Ce qui est poli, uni &amp; luisant</def>
 </sense>
 <pc>.</pc>
 
@@ -22559,27 +22395,8 @@
 <pc>.</pc>
 
 <sense>
-<def>est aussi unterme de compte, &amp; se prenden France pour vingt sols, qui est la valeur d'une monnoye qu'on appelloit autrefois franc, &amp; qui est synonyme. Cette maniere de compter fut introduite en France par Charlemagne. On tailla les sols de telle maniere qu'il s'en trouvoit 20. à la livre de poids : ensorte qu'on fit une livre de compte composée de pareil nombre de pieces. Ainsi depuis ce temps-là quand il est parlé de livres, cela se doit entendre de la livre de compte composée de 20. sols, à moins que le mot de poids, ou de la matiere n'y soit ajouté. Le Blanc. Il n'y a peut-être point de mots François où la bizarrerie de nôtre langue paroisse d'avantage, que dans l'emploi de francs, ou de livres. Ils sont purement fynonymes, &amp; ont cependant un usage très-different. On dit, j'ai trente mille livres de rente, &amp; ce seroit mal parler que de dire, j'ai trente mille francs de rente, on ne met jamais francs avec mille, &amp; rente. On ne dit point, Cela m'a couté une livre, deux livres, trois livres, cinq livres : ni, il me doit cent livres. Mais quand la somme passe cent, il semble qu'on use indifferemment de l'un &amp; de l'autre : il me doit 200. livres, ou 200. francs. Il n'y a que l'usage qui puisse apprendre l'usage capricieux de ces deux termes. Bou. Voici pourtant quelques regles qu'on doit observer. 1. En chiffrant ou en comptant avec de jettons, on peut dire une livre, deux livres, trois livres &amp;c. Mais dans le discours ordinaire, on dit plutôt vingt sous, quarante sous, un écu, quatre francs, cent sous, six francs &amp;c. Il en faut excepter quelques nombres rompus ; car on dit plutôt quarante trois livres, que quarante trois francs, deux mille cinquante six livres, que deux mille cinquante six francs</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>2</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Il faut se servir du mot de livre toutes les fois qu'on y doit ajouter un nombre de sous : ainsi on dit, trois livres cinq sous, &amp; non pas trois francs cinq sous. 3. On se sert du mot de livre toutes les fois que le mot de rente suit. Trois livres, dix livres de rente. L'Acan demie. En Angleterre les livres sterling valent 13. à 14. francs, &amp; dans les livres des Marchands Anglois, dix livres. La livre Parisis vaut vingt-cinq sous. Elle augmente du quart en sus les livres tournois. L'Arihmetique apprend à calculer les livres, les sous &amp; les deniers, à reduire les sous en livres, &amp; les livres en sous</def>
+<def>est aussi unterme de compte, &amp; se prenden France pour vingt sols, qui est la valeur d'une monnoye qu'on appelloit autrefois franc, &amp; qui est synonyme. Cette maniere de compter fut introduite en France par Charlemagne. On tailla les sols de telle maniere qu'il s'en trouvoit 20. à la livre de poids : ensorte qu'on fit une livre de compte composée de pareil nombre de pieces. Ainsi depuis ce temps-là quand il est parlé de livres, cela se doit entendre de la livre de compte composée de 20. sols, à moins que le mot de poids, ou de la matiere n'y soit ajouté. Le Blanc. Il n'y a peut-être point de mots François où la bizarrerie de nôtre langue paroisse d'avantage, que dans l'emploi de francs, ou de livres. Ils sont purement fynonymes, &amp; ont cependant un usage très-different. On dit, j'ai trente mille livres de rente, &amp; ce seroit mal parler que de dire, j'ai trente mille francs de rente, on ne met jamais francs avec mille, &amp; rente. On ne dit point, Cela m'a couté une livre, deux livres, trois livres, cinq livres : ni, il me doit cent livres. Mais quand la somme passe cent, il semble qu'on use indifferemment de l'un &amp; de l'autre : il me doit 200. livres, ou 200. francs. Il n'y a que l'usage qui puisse apprendre l'usage capricieux de ces deux termes. Bou. Voici pourtant quelques regles qu'on doit observer. 1. En chiffrant ou en comptant avec de jettons, on peut dire une livre, deux livres, trois livres &amp;c. Mais dans le discours ordinaire, on dit plutôt vingt sous, quarante sous, un écu, quatre francs, cent sous, six francs &amp;c. Il en faut excepter quelques nombres rompus ; car on dit plutôt quarante trois livres, que quarante trois francs, deux mille cinquante six livres, que deux mille cinquante six francs. Il faut se servir du mot de livre toutes les fois qu'on y doit ajouter un nombre de sous : ainsi on dit, trois livres cinq sous, &amp; non pas trois francs cinq sous. 3. On se sert du mot de livre toutes les fois que le mot de rente suit. Trois livres, dix livres de rente. L'Acan demie. En Angleterre les livres sterling valent 13. à 14. francs, &amp; dans les livres des Marchands Anglois, dix livres. La livre Parisis vaut vingt-cinq sous. Elle augmente du quart en sus les livres tournois. L'Arihmetique apprend à calculer les livres, les sous &amp; les deniers, à reduire les sous en livres, &amp; les livres en sous. Une tonne d'or est estimée cent mille livres en Hollande. Un million de livres, c'est le tiers d'un million d'or</def>
 </sense>
-<pc>.</pc>
-
-<re><form>Une tonne d</form>
-<form>'</form>
-<form>or e</form>
-<pc>s</pc>
-<def>t estimée cent mille livres en Hollande. Un million de livres, c'est le tiers d'un million d'or</def>
-</re>
 <pc>.</pc>
 
 <sense>
@@ -22595,38 +22412,24 @@
 <pc>.</pc>
 
 <sense>
-<def>Les Romains avoient aussi une espece de momoye qu'ils appelloient librs ou lbella, qui faisoit la dixiéme partie du denier, à cause qu'elle valoit un as, qui au commencement pesoit une livre de cuivre ; &amp; Scaliger ajoute, qu'ils se servoient aussi du mot de livre pour une monnoye de compte. Libra mon erat nummus, sed collectio nummorum. L'origine de ce mot vient de ce qu'ancieonement, chez les François la livre étoit un poids sur lequel ils regloient la taille de leur monnoye ; &amp; cette taille fut arrêtée de vingt sous à la livre. Ensuitte elle devint livre de compte, desorte que tout ce qui valoit 20. sous étoit nommé livre. Dès le temps de Charlemagne les marchez &amp; les contrats ont été faits sur le pied de cette monnoye imaginaire, quoyque les sous ayent changé de poids &amp; d'aloi. Depuis on fabriqua des pieces d'or qui valoient 20. sols ; &amp; sous Henri III. en 1575. des especes d'argent de pareille valeur. L'un &amp; l'autre furent nommez francs. &amp; ainsi cette monnoye imaginaire devint réelle</def>
+<def>Les Romains avoient aussi une espece de monoye qu'ils appelloient librs ou lbella, qui faisoit la dixiéme partie du denier, à cause qu'elle valoit un as, qui au commencement pesoit une livre de cuivre ; &amp; Scaliger ajoute, qu'ils se servoient aussi du mot de livre pour une monnoye de compte. Libra mon erat nummus, sed collectio nummorum. L'origine de ce mot vient de ce qu'ancieonement, chez les François la livre étoit un poids sur lequel ils regloient la taille de leur monnoye ; &amp; cette taille fut arrêtée de vingt sous à la livre. Ensuitte elle devint livre de compte, desorte que tout ce qui valoit 20. sous étoit nommé livre. Dès le temps de Charlemagne les marchez &amp; les contrats ont été faits sur le pied de cette monnoye imaginaire, quoyque les sous ayent changé de poids &amp; d'aloi. Depuis on fabriqua des pieces d'or qui valoient 20. sols ; &amp; sous Henri III. en 1575. des especes d'argent de pareille valeur. L'un &amp; l'autre furent nommez francs. &amp; ainsi cette monnoye imaginaire devint réelle</def>
 </sense>
 <pc>.</pc>
 
 <sense>
-<def>On dit provcrbialement en ce sens, qu'un homme fait de cent sous quatre livres, &amp; de quatre livres rien, lorsqu'il perd sur les ventes &amp; achats de ses marchandises, ou qu'il se ruine en pensant faire le bon mênager</def>
+<def>On dit proverbialement en ce sens, qu'un homme fait de cent sous quatre livres, &amp; de quatre livres rien, lorsqu'il perd sur les ventes &amp; achats de ses marchandises, ou qu'il se ruine en pensant faire le bon mênager</def>
 </sense>
 <pc>.</pc>
 
 <sense>
 <form>Livre</form>
 <pc>,</pc>
-<def>est aussi une mesure du poids des corps graves qu'on pese, qui est differente selon les lieux. Celle d'Avignon, de Provence &amp; de Languedoc est de 13. onces. La livre de Lion est de 15. onces. La livre de Paris est de 16. onces, celle de Medecine &amp; des Droguistes de 12. Chaque once est divisée en huit drachmes, ou gros, la drachme en trois scrupules, ou deniers, le scrupule ou denier en 24. grains, &amp; le grain en 24. karats. Desorte que la livre de Paris contient 9216. grains. Dans les lieux bien policez on vend toutes choses à la livre, jusques au bois, au charbon, au vin, au poisson. Les balles de mousquet doivent être de vingt à la livre. Les canons de batterie portent depuis 24. jusqu'à 36. livres de boulet : ce canon pese ordinairement six milliers ou 6000. livres, &amp; l'affût autant. On a mis six quintaux de poudre pour faire joüer ce fourneau, c'est-à-dire, 600. livres. Les Romains avoient une livre ponderale, &amp; une livre mensurale pour les longueurs. La livre de blé contient, suivant le Pere Mersenne, 13760. grains. Bouterouë a fait de belles Tables des divisions de la livre Romaine, &amp; du rapport à nos grains, &amp; de même de l'as &amp; de ses parties. Ce mot en ce sens vient du Latin libra. Le poids de la livre fut pris par les Romains des Siciliens, qui le nommoient litra. Les Romains ont changé la prononciation du Ten B. Ce poids fut divisé en douze onces, qui ne pesoient même que dix onces &amp; demie de nôtre poids. On se servit de la livre Romaine en France pour la monnoye d'or, &amp; d'argent, jusqu'au temps de Charlemagne, ou même jusqu'à Philippe I. en 1093. auquel temps on commença à compter par marcs, &amp; non plus par livres</def>
-<pc>.</pc>
-<xr>Voyez Le Blanc</xr>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>LIV</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<re><form>La drachme</form>
-<form>,</form>
-<form>&amp; l'obole sont des noms Grecs</form>
-<pc>.</pc>
-<gramGrp>Bou. teroue</gramGrp>
-<pc>.</pc>
+<def>est aussi une mesure du poids des corps graves qu'on pese, qui est differente selon les lieux. Celle d'Avignon, de Provence &amp; de Languedoc est de 13. onces. La livre de Lion est de 15. onces. La livre de Paris est de 16. onces, celle de Medecine &amp; des Droguistes de 12. Chaque once est divisée en huit drachmes, ou gros, la drachme en trois scrupules, ou deniers, le scrupule ou denier en 24. grains, &amp; le grain en 24. karats. Desorte que la livre de Paris contient 9216. grains. Dans les lieux bien policez on vend toutes choses à la livre, jusques au bois, au charbon, au vin, au poisson. Les balles de mousquet doivent être de vingt à la livre. Les canons de batterie portent depuis 24. jusqu'à 36. livres de boulet : ce canon pese ordinairement six milliers ou 6000. livres, &amp; l'affût autant. On a mis six quintaux de poudre pour faire joüer ce fourneau, c'est-à-dire, 600. livres. Les Romains avoient une livre ponderale, &amp; une livre mensurale pour les longueurs. La livre de blé contient, suivant le Pere Mersenne, 13760. grains. Bouterouë a fait de belles Tables des divisions de la livre Romaine, &amp; du rapport à nos grains, &amp; de même de l'as &amp; de ses parties. Ce mot en ce sens vient du Latin libra. Le poids de la livre fut pris par les Romains des Siciliens, qui le nommoient litra. Les Romains ont changé la prononciation du Ten B. Ce poids fut divisé en douze onces, qui ne pesoient même que dix onces &amp; demie de nôtre poids. On se servit de la livre Romaine en France pour la monnoye d'or, &amp; d'argent, jusqu'au temps de Charlemagne, ou même jusqu'à Philippe I. en 1093. auquel temps on commença à compter par marcs, &amp; non plus par livres. Voyez Le Blanc. La drachme &amp; l'obole sont des noms Grecs. Bouteroue</def>
+</sense>
+    <pc>.</pc>
+    <sense>
 <def>Dans les vieux Titres on appele une livre de temoins, 72. temoins ; &amp; une livre d'années, 72. ans, à cause que la livre qu'ils appelloient libra occidua, étoit alors paragée en 72. sous ou monnoyes d'or. Il falloit 72. temoins pour condamner un Evêque, suivant un Concile tenu en l'an 320. à Rome ; ce qu'on appelloit libra testium</def>
-</re>
+</sense>
 <pc>.</pc>
 
 <sense>
@@ -23233,7 +23036,22 @@
 <pc>.</pc>
 
 <sense>
-<def>Ce qui est commode pour loger. Ce logis est bien logeable. Cet appartement est fort logeable. LOGEMENT. s. m. Lieu où l'on se retire, où l'on fait sa demeure. J'ai loié un logement à l'année. Cet Officier n'a chez son maître que la table &amp; le logement. De ce lieu abandonné, il a fait un logement, un appartement fort commode</def>
+<def>Ce qui est commode pour loger. Ce logis est bien logeable. Cet appartement est fort logeable.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>LOGEMENT</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Lieu où l'on se retire, où l'on fait sa demeure. J'ai loié un logement à l'année. Cet Officier n'a chez son maître que la table &amp; le logement. De ce lieu abandonné, il a fait un logement, un appartement fort commode</def>
 </sense>
 <pc>.</pc>
 
@@ -23830,7 +23648,7 @@
 <head>LON<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>LON</orth>
+<orth>L'ON</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -24123,7 +23941,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>LONGPAN</orth>
+<orth>LONG-PAN</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -24161,7 +23979,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TONGUEMENT</orth>
+<orth>LONGUEMENT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -24547,7 +24365,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>LORRE</orth>
+<orth>LORRÉ</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -24584,11 +24402,9 @@
 <pc>,</pc>
 <ref>Nicod</ref>
 </etym>
-<form type="lemmaGrp">
-<pc>.</pc>
-<form type="variant">
-<orth>Pour Lors</orth>
-</form>
+    <re>
+        <form type="lemmaGrp">
+            <form type="lemma">Pour Lors</form>
 <pc>.</pc>
 <gramGrp>
 <pos>adv</pos>
@@ -24596,11 +24412,8 @@
 </form>
 <pc>.</pc>
 
-<sense>
-<form>Alors</form>
-<pc>,</pc>
-<def>en ce temps-là. Quand vous serez bien établi, pour lors nous vous irons voir. Il eut recours à moi dans son besoin, mais pour lors je n'avois point d'argent. Son état me parut bien triste, mais pour lors je n'y pus apporter de remede</def>
-<pc>.</pc></sense>
+<def>Alors, en ce temps-là. Quand vous serez bien établi, pour lors nous vous irons voir. Il eut recours à moi dans son besoin, mais pour lors je n'avois point d'argent. Son état me parut bien triste, mais pour lors je n'y pus apporter de remede</def>
+<pc>.</pc></re>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -25254,30 +25067,8 @@
 <pc>.</pc>
 
 <sense>
-<def>Piece de monnoye de France qu'on a commencé à fabriquer sur la fin du regne de Louïs XIII. en 1640. &amp; qui a eu grand cours sous celui de Leus XIV. Il y a des louis d'or qui ont valu d'abord 10. liv. puis onze, &amp; enfin jusqu'à i2. liv. Il en vaut même 14 aujourd'huy sen 1699. J &amp; cela a commencé depuis quelques années à cause du besoin qu'on a eu d'argent, pendant la guere. La tête du Roi y est élevée d'un côté avec son nom, &amp; de l'autre une croix composée de huit L adossées &amp; cantonnées de couronnes. La legende est, Christus rrgnat, vincit, imperat. Il ey a des louis blancs, ou lounis d'argent de 60. s. de 30</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>15</orth>
-</form>
-<pc>.</pc>
-<form type="variant">
-<orth>&amp; 5</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>s</pos>
-<pc>.</pc>
-<gen>où</gen>
-<gen>d</gen>
-</gramGrp>
-</form>
-<re><form>'</form>
-<form>un côté e</form>
-<pc>s</pc>
-<def>t la tête du Roi, &amp; de l'autre l'Ecusson des Armes de France avec la legende, Sit mmn Domimni benedictum. Les louis d'or suivant l'Ordonnance doivent être au titre de 22. carats, à un quart de remede ; &amp; les louis d'argent au titre d'onze deniers, à deux grains de remede. Il faut remarquer, quand en termes de monnoye on parle de louts d'or, on entend parler de la piece de 5. liv. 10. s. celle d'onze livres s'appelle double louis. Celle de 22. liv. s'appelle le quadruple. Mais dans l'usage ordinaire, quand on parle absolument d'un louïs, on entend la piece de it.liv. La taille des louis d'or de 5. liv. 10. s. est de y2 au marc, &amp; la taille des louis d'argent, est de 9. pieces de 60. au marc. La fabrique des lous d'or a été établie le 3i. Mars 1640. &amp; celle des louis d'argent au mois de Septembre 16a4i. Le louis d'or pese deux deniers 15. grains ; &amp; celui d'argent, 21. deniers, 8. grains</def>
-</re>
+<def>Piece de monnoye de France qu'on a commencé à fabriquer sur la fin du regne de Louïs XIII. en 1640. &amp; qui a eu grand cours sous celui de Leus XIV. Il y a des louis d'or qui ont valu d'abord 10. liv. puis onze, &amp; enfin jusqu'à i2. liv. Il en vaut même 14 aujourd'huy sen 1699. J &amp; cela a commencé depuis quelques années à cause du besoin qu'on a eu d'argent, pendant la guere. La tête du Roi y est élevée d'un côté avec son nom, &amp; de l'autre une croix composée de huit L adossées &amp; cantonnées de couronnes. La legende est, Christus rrgnat, vincit, imperat. Il ey a des louis blancs, ou louis d'argent de 60. f. de 30. 15. &amp; 5. f où d'un côté est la tête du Roi, &amp; de l'autre l'Ecusson des Armes de France avec la legende, Sit mmn Domimni benedictum. Les louis d'or suivant l'Ordonnance doivent être au titre de 22. carats, à un quart de remede ; &amp; les louis d'argent au titre d'onze deniers, à deux grains de remede. Il faut remarquer, quand en termes de monnoye on parle de louts d'or, on entend parler de la piece de 5. liv. 10. s. celle d'onze livres s'appelle double louis. Celle de 22. liv. s'appelle le quadruple. Mais dans l'usage ordinaire, quand on parle absolument d'un louïs, on entend la piece de it.liv. La taille des louis d'or de 5. liv. 10. s. est de y2 au marc, &amp; la taille des louis d'argent, est de 9. pieces de 60. au marc. La fabrique des lous d'or a été établie le 3i. Mars 1640. &amp; celle des louis d'argent au mois de Septembre 16a4i. Le louis d'or pese deux deniers 15. grains ; &amp; celui d'argent, 21. deniers, 8. grains</def>
+</sense>
 <pc>.</pc>
 
 <sense>
@@ -25986,22 +25777,7 @@
 <sense>
 <form>Loy</form>
 <pc>,</pc>
-<def>se dit plus particulierement de la volonté absolue d'un Souverain, qu'il fait publier par un acte authentique ; comme une Ordonnance, une Constitution, ou un Edit pour le Reglement de son Etat. Tarquin le Superbe ne sçavoit ni gouverner selon les loix, ni regner contre les loix. St. Ev. Les Tribunaux sont peuplez d'hommes qui se precipitent dans la Magistrature, &amp; qui se font interpretes des loix sans les entendre. Tour. Tibere crut qu'il y avoit de l'insuffisance, ou de la foiblesse à garder les leix. St. Ev. Les loix ne lient point le legislateur : il semble que par reconnoissance pour celui qui les fait observer, elles lui permettent de les enfraindre. Tour. Veut-on que les Rois tremblent devant la loi, qui est leur propre Ouvrage ? elle s'adoucit, elle plie pour l'intérêt des particuliers, &amp; s'armera-t-elle d'une rigueur inflexible contre le Souverain ? Id. La Republique retourna sous ses propres loix. Dac. Quand la loi a parlé d'une maniere claire, &amp; positive, il n'est pas permis de s'en écarter ; quelque dure qu'elle soit, il faut s'en tenir à sa decision</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>C</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>B</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>C'est affoiblir les loix, que d'en rechercher les motifs avec trop de curiosité ; car on s'imagine, que du moment que la loi a cessé, l'on est dispensé d'obeir à la loi. Id. Rien ne donne une plus haute idée d'un Monarque que de voir, qu'il maintient la vigueur des loix, sans les mutiler, ni les étendre, ou les rêtreindre selon les recommandations interessées d'un Favori. Bay. Les loix ne foudroyent pas toujours lorsqu'elles tonnent ; elles ont le visage severe pour faire peur, &amp; retenir par le frein de la crainte la licence audacieuse des hommes : mais on en peut temperer la rigueur. Le Mai. On voit tous les jours l'innocence aux abois, Errer dans les detours d'un dedale de loix. Boi. Du Digeste, &amp; du Code ouvre nous le dedale, Qui dans ses propres loix embarasse Themis. Id. Les Coutumes, &amp; les Ordonnances Royaux sont les loix établies par lesquelles on juge en France. Le Code &amp; les Authentiques sont les Loix &amp; Constitutions des Empereurs Romains. Le Digeste est une Compilation faite par l'ordre de Justinien de plusieurs Sentences, &amp; Reponses de Droit des plus celebres Jurisconsultes Romains, ausqu'elles il a donné la force de loi par l'Epitre qui est au devant de l'Ouvrage : &amp; c'est ce qui compose le Droit Romain, ou les Loix Romaines. Le Droit Romain ne fait point de loi en païs Coutumier. Il n'est allegué que pour raison</def>
+<def>se dit plus particulierement de la volonté absolue d'un Souverain, qu'il fait publier par un acte authentique ; comme une Ordonnance, une Constitution, ou un Edit pour le Reglement de son Etat. Tarquin le Superbe ne sçavoit ni gouverner selon les loix, ni regner contre les loix. St. Ev. Les Tribunaux sont peuplez d'hommes qui se precipitent dans la Magistrature, &amp; qui se font interpretes des loix sans les entendre. Tour. Tibere crut qu'il y avoit de l'insuffisance, ou de la foiblesse à garder les leix. St. Ev. Les loix ne lient point le legislateur : il semble que par reconnoissance pour celui qui les fait observer, elles lui permettent de les enfraindre. Tour. Veut-on que les Rois tremblent devant la loi, qui est leur propre Ouvrage ? elle s'adoucit, elle plie pour l'intérêt des particuliers, &amp; s'armera-t-elle d'une rigueur inflexible contre le Souverain ? Id. La Republique retourna sous ses propres loix. Dac. Quand la loi a parlé d'une maniere claire, &amp; positive, il n'est pas permis de s'en écarter ; quelque dure qu'elle soit, il faut s'en tenir à sa decision. C. B. C'est affoiblir les loix, que d'en rechercher les motifs avec trop de curiosité ; car on s'imagine, que du moment que la loi a cessé, l'on est dispensé d'obeir à la loi. Id. Rien ne donne une plus haute idée d'un Monarque que de voir, qu'il maintient la vigueur des loix, sans les mutiler, ni les étendre, ou les rêtreindre selon les recommandations interessées d'un Favori. Bay. Les loix ne foudroyent pas toujours lorsqu'elles tonnent ; elles ont le visage severe pour faire peur, &amp; retenir par le frein de la crainte la licence audacieuse des hommes : mais on en peut temperer la rigueur. Le Mai. On voit tous les jours l'innocence aux abois, Errer dans les detours d'un dedale de loix. Boi. Du Digeste, &amp; du Code ouvre nous le dedale, Qui dans ses propres loix embarasse Themis. Id. Les Coutumes, &amp; les Ordonnances Royaux sont les loix établies par lesquelles on juge en France. Le Code &amp; les Authentiques sont les Loix &amp; Constitutions des Empereurs Romains. Le Digeste est une Compilation faite par l'ordre de Justinien de plusieurs Sentences, &amp; Reponses de Droit des plus celebres Jurisconsultes Romains, ausqu'elles il a donné la force de loi par l'Epitre qui est au devant de l'Ouvrage : &amp; c'est ce qui compose le Droit Romain, ou les Loix Romaines. Le Droit Romain ne fait point de loi en païs Coutumier. Il n'est allegué que pour raison</def>
 </sense>
 <pc>.</pc>
 
@@ -26063,20 +25839,9 @@
 <sense>
 <form>Loy</form>
 <pc>,</pc>
-<def>se dit aussi d'un ordre, d'un commandement d'un maître, ou superieur, qu'on execute. Voilà mon pouvoir, je ne puis l'outrepasser, c'est ma loi. La volonté d'un pere est la loi souveraine dans sa famille</def>
+<def>se dit aussi d'un ordre, d'un commandement d'un maître, ou superieur, qu'on execute. Voilà mon pouvoir, je ne puis l'outrepasser, c'est ma loi. La volonté d'un pere est la loi souveraine dans sa famille. C. B.</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>C</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>b</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
-
+    
 <sense>
 <form>Loy</form>
 <pc>,</pc>
@@ -26277,15 +26042,21 @@
 <def>A qui il prend quelquefois des lubies. Ce mot est de peu d'usage</def>
 </sense>
 <pc>.</pc>
-
-<re><form>LUBRICItÉ</form>
-<form>.</form>
-<form>s. f</form>
-<form>.</form>
-<form>Impudicité</form>
-<pc>,</pc>
-<def>lasciveté, incontinence ; amour brutal, &amp; sensuel. Juvenal invective fort contre la lubricité de Messaline. On doit ôter tous les objets qui portent à la lubricité</def>
-<pc>.</pc></re>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>LUBRICITÉ</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>f</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Impudicité, lasciveté, incontinence ; amour brutal, &amp; sensuel. Juvenal invective fort contre la lubricité de Messaline. On doit ôter tous les objets qui portent à la lubricité</def>
+<pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -26326,13 +26097,19 @@
 <gloss>pour signifier un homme qui n'a pas la force de se retenir</gloss>
 </etym>
 <pc>.</pc>
-
-<re><form>LUBRIQuUEMENT</form>
-<form>.</form>
-<form>adv</form>
-<form>.</form>
-<form>D'une maniere lubrique</form>
-<pc>.</pc></re>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>LUBRIQUEMENT</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>adv</pos>
+                <pc>.</pc>
+                </gramGrp>
+        </form>
+        <sense>
+            <def>D'une maniere lubrique</def>
+<pc>.</pc></sense>
 </entry>
 </div>
 <div>
@@ -26420,34 +26197,10 @@
 <pc>.</pc>
 
 <sense>
-<def>C'est ainsi que les Poëtes des Payens ont nommé l'étoile de Venus, lorsqu'elle paroît le matin, quand elle est Orientale au soleil. L'Ecriture lui attribue aussi le nom de cet astre en ces mots : Numquid producis luciferum in tempore suo, &amp; vesperum super flios terre consurgere facis ? Job. 3. vers. 32. Et tu lucifer qui mane oriebaris, Esai. 14. vers</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>12</orth>
-</form>
-<pc>.</pc>
-<form type="inflected">
-<orth type="part">Ante luciferum genui te</orth>
-</form>
-<pc>,</pc>
-<form type="inflected">
-<orth type="part">Pseaum</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>109</pos>
-<pc>.</pc>
-<gen>ver</gen>
-<pc>.</pc>
-<gen>3</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Lucifer, dans le Christianisine, est un nom qu'on donne au Prince des tenebres, au Chef des Demons</def>
+<def>C'est ainsi que les Poëtes des Payens ont nommé l'étoile de Venus, lorsqu'elle paroît le matin, quand elle est Orientale au soleil. L'Ecriture lui attribue aussi le nom de cet astre en ces mots : Numquid producis luciferum in tempore suo, &amp; vesperum super flios terre consurgere facis ? Job. 3. vers. 32. Et tu lucifer qui mane oriebaris, Esai. 14. vers 12. Ante luciferum genui te. Pseaum. 109. ver. 3</def>
+</sense>
+    <pc>.</pc>
+<sense><form>Lucifer</form><pc>,</pc><def>dans le Christianisine, est un nom qu'on donne au Prince des tenebres, au Chef des Demons</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -26652,9 +26405,16 @@
 <pc>.</pc>
 
 <sense>
-<def>Qui jete, ou qui reflechit quelque lumiere. Le soleil, la lune, &amp; Venus sont les astres les plus luisans. Des vers laisans. Les diamans, les crstaux, sont luisans. La queuë du paon, la gorge des pigeons, sont luisantes au soleil. Le satin est la plus luisante de toutes les étoffes. Un taffetas luisant est le plus cher de tous les taffetas. On appelle aussi luisant, certaines parties plus éclatantes qu'on laisse sur les galons des gens de livrées. LUiTtES</def>
-<pc>.</pc>
-<usg>Terme de Challe</usg>
+<def>Qui jete, ou qui reflechit quelque lumiere. Le soleil, la lune, &amp; Venus sont les astres les plus luisans. Des vers laisans. Les diamans, les crstaux, sont luisans. La queuë du paon, la gorge des pigeons, sont luisantes au soleil. Le satin est la plus luisante de toutes les étoffes. Un taffetas luisant est le plus cher de tous les taffetas. On appelle aussi luisant, certaines parties plus éclatantes qu'on laisse sur les galons des gens de livrées.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>LUITES</orth></form>
+            <pc>.</pc>
+            </form>
+        <sense>
+<usg>Terme de Chasse</usg>
 <pc>,</pc>
 <def>qui se dit des testicules d'un sanglier</def>
 <pc>.</pc></sense>
@@ -26813,7 +26573,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>LUINEUX</orth>
+<orth>LUMINEUX</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -26864,16 +26624,13 @@
 <head>LUN<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>lUNETLAUTRE</orth>
+<orth>L'UN ET LAUTRE</orth>
 </form>
+    <form type="lemma"><orth>L'UN SUR L'AUTRE</orth></form>
 </form>
 <pc>.</pc>
-
-<sense>
-<def>LUN SUR LAUTRE</def>
+<xr><lbl>Voyez</lbl> <ref>Un</ref></xr>
 <pc>.</pc>
-<xr>Voyez Un</xr>
-<pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -27187,19 +26944,6 @@
 <sense>
 <def>On appelle aussi lunette, le cercle de metal qui enferme &amp; soutient le crystal d'une montre. Il se dit aussi de la partie de l'étui qui repond à ce cercle</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>LUN</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>LUP</pos>
-<pc>.</pc>
-<gen>LUS</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
 
 <sense>
 <form>Lunette</form>
@@ -27331,7 +27075,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>EUSTRALE</orth>
+<orth>LUSTRALE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -27895,7 +27639,7 @@
 <head>LUZ<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>LUERNE</orth>
+<orth>LUZERNE</orth>
 </form>
 <pc>,</pc>
 <form type="variant">

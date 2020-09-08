@@ -6795,15 +6795,22 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <gloss>qui signifie buffet, credence, ou table</gloss>
 </etym>
 <pc>.</pc>
-
-<re><form>ABASSIou ABASSIS</form>
-<form>.</form>
-<form>s. m</form>
-<form>.</form>
-<form>C</form>
-<pc>'</pc>
-<def>est une monnoye d'argent qui est ronde, &amp; qui a cours en Perse &amp; en Orient, qui vaut environ dihuit sous six deniers</def>
-<pc>.</pc></re>
+</entry>
+<entry>
+    <form type="lemmaGrp">
+        <form type="lemma"><orth>ABASSI</orth></form>
+        <form type="variant"><orth>ou ABASSIS</orth></form>
+        <pc>.</pc>
+    <gramGrp>
+        <pos>s</pos>
+        <pc>.</pc>
+        <gen>m</gen>
+        <pc>.</pc>
+    </gramGrp>
+</form>
+<sense>
+<def>C'est une monnoye d'argent qui est ronde, &amp; qui a cours en Perse &amp; en Orient, qui vaut environ dihuit sous six deniers</def>
+<pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -7126,7 +7133,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <head>ABB<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ABBE</orth>
+<orth>ABBÉ</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -7134,22 +7141,22 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 <gen>m</gen>
 <pc>.</pc>
-<number>ABBESSE</number>
+</gramGrp>
+    <form>
+<orth>ABBESSE</orth>
 <pc>.</pc>
+    </form>
+    <gramGrp>
 <pos>s</pos>
 <pc>.</pc>
 <gen>f</gen>
+ <pc>.</pc>
 </gramGrp>
 </form>
-<pc>.</pc>
+
 
 <sense>
-<def>Superienr ou Superieure d'une A BBAYE d'hommes ou de filles. Mr</def>
-</sense>
-<pc>.</pc>
-
-<sense>
-<def>Pinsson dit que l'Abbe possede la septiéme dignité de l'Eglise, &amp; celle qui est immediatement au dessous de l'Fvêque. Ils ont jurisdiction sur leurs Religieux privativement aux Evêques, &amp; la correction leur appartient. Bouchel. Il y a trois sortes d'Abbez ; Regulier, Seculier, Commendataire. L'abbe Regulier est celui qui est aussi Religieux, &amp; qui a la direction du spirituel, &amp; du temporel : c'est pourquoi il doit être Prêtre. L'Abbé seculier est seulement Prêtre seculier, &amp; non Religieux. Lors que les Moines n'étoient point du corps du Clergé, les Abbez étoient de condition laïque: mais depuis que cette qualité a été érigée en dignité par l'ambition, ils ont été promus à l'Ordre de Prêtrise. L'Abbé commendataire n'a point de jurisdiction sur les Moines. Il ne peut instituer, ni destituer un Prieur claustral, ni recevoir à la profession monastique. Quelques-uns pretendent seulement, que si un Abbé commendataire est Cardinal, il peut admettre un Religieux à faire profession. Pendant que la Discipline a été en vigueur, l'on ne pouvoit être élu Abbe sans être Religieux profés : mais par le relâchement de la Discipline, l'on a confcré plusieurs Abbayes à une personne ; de là vient l'usage des Commendes. On distingue trois puissances dans l'Abbé. La puissance conomique, pour gouverner les biens temporels de son Abbaye. La puissance d'ordre &amp; de dignité, en vertu de laquelle il ordonne du service divin, confere la tonsure a ses Religieux, &amp;c. La puissance de la jurisdiction, qui comprend la correction, l'excommunication, &amp; la suspension. Bouchel. L'abbé differe du Prieur, en ce qu'il est mis au rang des Prelats, &amp; officie pontificalement &amp; avec des marques de dignité, qui lui ont été accordées par les Papes au tems de la fondation du Monastere, ou par quelque privilege particulier, comme la mitre, la crosse. Ce mot Superieur Ab-bot, qui en langue Syriaque signifie pere. Ainsi ces mots de Abba, pater, qu'on trouve dans les Epîtres aux Romains &amp; aux Galates, &amp; ailleurs, qui semblent dire la même chose, ne font pas pourtant un pleonasme, comme dit St. Augustin, puis que l'un est un nom de nature, &amp; l'autre de dignité. D'autres disent qu'</def>
+<def>Superieur ou Superieure d'une ABBAYE d'hommes ou de filles. Mr. Pinsson dit que l'Abbe possede la septiéme dignité de l'Eglise, &amp; celle qui est immediatement au dessous de l'Fvêque. Ils ont jurisdiction sur leurs Religieux privativement aux Evêques, &amp; la correction leur appartient. Bouchel. Il y a trois sortes d'Abbez ; Regulier, Seculier, Commendataire. L'abbe Regulier est celui qui est aussi Religieux, &amp; qui a la direction du spirituel, &amp; du temporel : c'est pourquoi il doit être Prêtre. L'Abbé seculier est seulement Prêtre seculier, &amp; non Religieux. Lors que les Moines n'étoient point du corps du Clergé, les Abbez étoient de condition laïque: mais depuis que cette qualité a été érigée en dignité par l'ambition, ils ont été promus à l'Ordre de Prêtrise. L'Abbé commendataire n'a point de jurisdiction sur les Moines. Il ne peut instituer, ni destituer un Prieur claustral, ni recevoir à la profession monastique. Quelques-uns pretendent seulement, que si un Abbé commendataire est Cardinal, il peut admettre un Religieux à faire profession. Pendant que la Discipline a été en vigueur, l'on ne pouvoit être élu Abbe sans être Religieux profés : mais par le relâchement de la Discipline, l'on a confcré plusieurs Abbayes à une personne ; de là vient l'usage des Commendes. On distingue trois puissances dans l'Abbé. La puissance conomique, pour gouverner les biens temporels de son Abbaye. La puissance d'ordre &amp; de dignité, en vertu de laquelle il ordonne du service divin, confere la tonsure a ses Religieux, &amp;c. La puissance de la jurisdiction, qui comprend la correction, l'excommunication, &amp; la suspension. Bouchel. L'abbé differe du Prieur, en ce qu'il est mis au rang des Prelats, &amp; officie pontificalement &amp; avec des marques de dignité, qui lui ont été accordées par les Papes au tems de la fondation du Monastere, ou par quelque privilege particulier, comme la mitre, la crosse. Ce mot Superieur Ab-bot, qui en langue Syriaque signifie pere. Ainsi ces mots de Abba, pater, qu'on trouve dans les Epîtres aux Romains &amp; aux Galates, &amp; ailleurs, qui semblent dire la même chose, ne font pas pourtant un pleonasme, comme dit St. Augustin, puis que l'un est un nom de nature, &amp; l'autre de dignité. D'autres disent qu'</def>
 </sense>
 <etym>
 <lbl>il vient du mot</lbl>
@@ -7232,7 +7239,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ABBECHIER</orth>
+<orth>ABBECHER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -7279,19 +7286,20 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <def>Ouverture par où on laisse couler l'eau d'un ruisseau ou d'une riviere, pour faire moudre un moulin, &amp; qui se peut fermer avec des palles ou lançoirs. Il en est fat mention dans la Coutume de Loris, chap. 10. Ce mot peut venir de baye ou ouverture</def>
 </sense>
 <pc>.</pc>
-
-<re><form>ABBOI ou ABOI</form>
-<form>.</form>
-<form>s. m</form>
-<form>.</form>
-<form>On di</form>
-<pc>s</pc>
-<gramGrp>oit autrefois abay</gramGrp>
+</entry>
+<entry>
+    <form type="lemmaGrp">
+<form type="lemma"><orth>ABBOI</orth></form>
+    <form type="variant"><orth>ou ABOI</orth></form>
+        <gramGrp>
+            <pos>s</pos>
+            <pc>.</pc>
+            <gen>m</gen>
+            <pc>.</pc>
+        </gramGrp>
+    </form>
+<def>On disoit autrefois abay. Le cri d'un chien. Ce mot est factice, &amp; formé sur le son des chiens qui crient, ou abboyent. L'abboi des chiens fait connoître le lieu où est le gibier. L'abboi des mâtins est leur cri, quand ils sentent le loup, ou quelque chose d'étrange autour de la maison. Au premier abboi que fait le limier, le loup sort de son liteau, Saln</def>
 <pc>.</pc>
-<def>Le cri d'un chien. Ce mot est factice, &amp; formé sur le son des chiens qui crient, ou abboyent. L'abboi des chiens fait connoître le lieu où est le gibier. L'abboi des mâtins est leur cri, quand ils sentent le loup, ou quelque chose d'étrange autour de la maison. Au premier abboi que fait le limier, le loup sort de son liteau, Saln</def>
-</re>
-<pc>.</pc>
-
 <sense>
 <def>On dit proverbialement, tenir quelcun en abboi, pour dire, le repaître de vaines esperances</def>
 </sense>
@@ -7399,7 +7407,23 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>On le dit aussi figurément des hommes qui crient, &amp; qui pressent avec importunité. Voilà bien des abboyeurs. Il a des abboyeurs à ses côtez. Abl. ABBREUVERou ABREUVER. v. act. Donner à boire aux chevaux &amp; au bêtail. On abbreuve les chevaux deux fois par jour. Anciennement on disoit abbeuvrer, &amp; par transposition de lettres l'on a dit abbreuver. Dans une vieille chartre de l'an 1343. il est parlé de l'éponge dont J. C. fut abbeuvré. L'Auteur de la Flandria illustrata raporte une lettre très-ancienne où l'on trouve enbuver les chevaux</def>
+<def>On le dit aussi figurément des hommes qui crient, &amp; qui pressent avec importunité. Voilà bien des abboyeurs. Il a des abboyeurs à ses côtez. Abl.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>ABBREUVER</orth></form>
+            <form type="variant"><orth>ou ABREUVER</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>v</pos>
+                <pc>.</pc>
+                <subc>act</subc>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Donner à boire aux chevaux &amp; au bêtail. On abbreuve les chevaux deux fois par jour. Anciennement on disoit abbeuvrer, &amp; par transposition de lettres l'on a dit abbreuver. Dans une vieille chartre de l'an 1343. il est parlé de l'éponge dont J. C. fut abbeuvré. L'Auteur de la Flandria illustrata raporte une lettre très-ancienne où l'on trouve enbuver les chevaux</def>
 </sense>
 <pc>.</pc>
 
@@ -7775,10 +7799,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <head>ABH<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ABHOCETAB</orth>
-</form>
-<form type="lemma">
-<orth>HAC</orth>
+<orth>AB HOC ET AB HAC</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -7809,26 +7830,9 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <lbl>Ce mot vient d'horrere</lbl>
 <lang>Latin</lang>
 <pc>,</pc>
-<gloss>qui sign</gloss>
+<gloss>qui signifie, Avoir le poil herissé de peur, être saisi &amp; transi de froid</gloss>
 <pc>.</pc>
 </etym>
-<form type="lemmaGrp">
-<form type="lemma">
-<orth>Avoir</orth>
-</form>
-<form type="inflected">
-<orth type="part">le poil herissé de peur</orth>
-</form>
-<pc>,</pc>
-<form type="inflected">
-<orth type="part">être sais</orth>
-</form>
-<gramGrp>
-<pos>i &amp; transi de</pos>
-<gen>froid</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
 
 <sense>
 <def>On dit aussi, S'abhorrer soi-même, dans l'agitation &amp; dans les remords d'un crime. Objet infortuné des vengeances celestes, Je m'abhorre encore plus, que tu ne me detestes. Rac</def>
@@ -8166,7 +8170,22 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 
 <sense>
 <usg>Vieux mot</usg>
-<def>qui se trouve encore dans quelques Coutumes, &amp; qui signifie un droit du Scigneur sur les abeilles qui se trouvent dans les forêts de leurs chatelenies. Il a été formé d'aboilles, qu'on disoit autrefois pour abeilles. Men. ABOLIR. v. act. Mettre quelque chose hors d'usage, l'abroger, l'annuller. Le Magistrat a aboli cette mechante coutume. Le Roi a aboli une telle loi, une telle procedure ; il a entierement aboli les duels. Il signifie encore, Detruire, aneantir. Le temps a aboli les plus beaux monumens de l'antiquité. Il n'y a que le Roi qui uisse abolir un crime, c'est-à-dire absoudre le coupale, &amp; l'exempter du châtiment. On dit aussi abolir ou effacer la memoire &amp; le souvenir des choses passées. Abolir ou bannir la superstition. Abolir ou revoquer les impôts. Le temps qui consume tout, abolit tous les jours les noms &amp; les titres qui sont gravez sur ces magnifiques monumens. Bou</def>
+<def>qui se trouve encore dans quelques Coutumes, &amp; qui signifie un droit du Seigneur sur les abeilles qui se trouvent dans les forêts de leurs chatelenies. Il a été formé d'aboilles, qu'on disoit autrefois pour abeilles. Men.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>ABOLIR</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>v</pos>
+                <pc>.</pc>
+                <subc>act</subc>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Mettre quelque chose hors d'usage, l'abroger, l'annuller. Le Magistrat a aboli cette mechante coutume. Le Roi a aboli une telle loi, une telle procedure ; il a entierement aboli les duels. Il signifie encore, Detruire, aneantir. Le temps a aboli les plus beaux monumens de l'antiquité. Il n'y a que le Roi qui uisse abolir un crime, c'est-à-dire absoudre le coupale, &amp; l'exempter du châtiment. On dit aussi abolir ou effacer la memoire &amp; le souvenir des choses passées. Abolir ou bannir la superstition. Abolir ou revoquer les impôts. Le temps qui consume tout, abolit tous les jours les noms &amp; les titres qui sont gravez sur ces magnifiques monumens. Bou</def>
 </sense>
 <pc>.</pc>
 
@@ -8416,9 +8435,6 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <form type="variant">
 <orth>ou ABOURNEMENT</orth><pc>.</pc>
 </form>
-</form>
-</entry>
-<entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>ABONNAGE</orth>
 </form>
@@ -8433,7 +8449,6 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </gramGrp>
 </form>
 <pc>.</pc>
-
 <sense>
 <def>Traité ou convention, par lequel on abonne, ou on fixe à un prix certain une redevance incertaine. Ce mot vient de ce qu'on met certaines bornes &amp; limites aux droits incertains qu'on pourroit pretendre. Paq. On disoit même autrefois bonnes pour bornes ou limites. C'est pourquoy on disoit abonner un heritage, pour dire, y mettre des bornes. Men. Abonner ou Abourner. v. act. Terme du Palais. Estimer &amp; reduire à une certaine somme d'argent un droit qu'on payoit en especes, &amp; dont le prix étoit incertain. Il est abonné à tant par an pour tous droits Seigneuriaux. Ce Marchand est abonne à cent écus par an avec le Doüanier, pour les droits d'entrée de toutes ses marchandises. Il se dit avec le pronom personnel : Je mabonnai, je me suis abonné. Par plusieurs Coutumes les roucins de service sont abonnez à un cU</def>
 </sense>
@@ -8686,15 +8701,6 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>,</pc>
 <gloss>qui signifie, Venir avant le temps</gloss>
 <pc>.</pc></etym>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>B</orth>
-</form>
-</form>
-<xr><lbl>,</lbl>
-<ref>AOoU</ref>
-<pc>.</pc></xr>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -9462,7 +9468,25 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>qui ne se dit qu'avec le pronom personnel. Se retirer, s'éloigner de la presence des autres. Ce Prince s'est absenté de la Cour. Il est allé voyager, il s'est absenté pour long tems. Il s'absente de ses amis avec peine. Ou sois long temps absent, ou ne t'absente point : Une courte absence est a craindre : Souvent l'amour s'en sert pour nous mieux enflammer. Corn. s'Absenter, signifie encore, S'enfuir, se cacher, se mettre à couvert. En ce sens il marque une cause sâcheuse de s'éloigner. Il s'est absenté de la ville, à cause qu'on avoit decreté contre lui. Ce Marchand s'est absenté, a fait banqueroute. Ces mots viennent du participe Latin absens. ABSES ou ABSCÉS. s. m. Tumeur contre nature qui tend à corruption. Amas d'humeurs, ou de sang qui se forme dans une partie interne du corps. Le peuple l'appelle apostume ; en Latin abscessus ; en Grec aposthema. Cet homme est mort d'un abses qu'il avoit dans le ventre. Un absés qui perce, ou suppure en dehors est capable de guerison</def>
+<def>qui ne se dit qu'avec le pronom personnel. Se retirer, s'éloigner de la presence des autres. Ce Prince s'est absenté de la Cour. Il est allé voyager, il s'est absenté pour long tems. Il s'absente de ses amis avec peine. Ou sois long temps absent, ou ne t'absente point : Une courte absence est a craindre : Souvent l'amour s'en sert pour nous mieux enflammer. Corn. s'Absenter, signifie encore, S'enfuir, se cacher, se mettre à couvert. En ce sens il marque une cause sâcheuse de s'éloigner. Il s'est absenté de la ville, à cause qu'on avoit decreté contre lui. Ce Marchand s'est absenté, a fait banqueroute. Ces mots viennent du participe Latin absens.
+    </def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>ABSES</orth></form>
+            <pc>,</pc>
+            <form type="variant"><orth>ou ABSCÉS</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Tumeur contre nature qui tend à corruption. Amas d'humeurs, ou de sang qui se forme dans une partie interne du corps. Le peuple l'appelle apostume ; en Latin abscessus ; en Grec aposthema. Cet homme est mort d'un abses qu'il avoit dans le ventre. Un absés qui perce, ou suppure en dehors est capable de guerison</def>
 <pc>.</pc>
 <xr>Voyez Tumeur &amp; Apostheme</xr>
 <pc>.</pc></sense>
@@ -9994,7 +10018,22 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <usg>Terme de Philosophie</usg>
 <pc>.</pc>
-<def>Ce qui choque le sens commun, qui est impertinent, incroyable, impossible. Proposition absurde. quand on suppose une chose absurde, on en tirc mille consequences absurdes. Il prouve une chose absurde par une chose plus absurde ABSURDEMENT. adv. D'une maniere absurde. C'est conclure absurdement, que de dire, &amp;c</def>
+<def>Ce qui choque le sens commun, qui est impertinent, incroyable, impossible. Proposition absurde. quand on suppose une chose absurde, on en tirc mille consequences absurdes. Il prouve une chose absurde par une chose plus absurde</def>
+    <pc>.</pc>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>ABSURDEMENT</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>adv</pos>
+                <pc>.</pc>
+               
+            </gramGrp>
+        </form>
+        <sense>
+            <def>D'une maniere absurde. C'est conclure absurdement, que de dire, &amp;c</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -10039,7 +10078,28 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>Herbe qui croit en Egypte à la hauteur de quelques doigts. Ses feuilles ressemblent à celles du triolet ; &amp; ses fleurs blanches, &amp; d'un jaune pâle, produisent une semence noire, renfermée dans de petites cellules. ABSYNTHEou ABSINTHE. s. m. &amp; f. selon Malherbe ; &amp; selon Vaugelas, toujours masculin. On le fait plus ordinairement feminin. L'Academie Fr. le fait feminin. Menage veut qu'on écrive apsinthe par un p, sans doute à cause de l'étymologie. C'est une plante medecinale. Il y en a de quatre sortes : le Santonique, le marin, le vulgaire ou grand Pontique, &amp; le petit. L'absynthe commune a une tige fort branchuë, des feuilles blanches, &amp; fort decouppées, comme l'artemisia ; ses fleurs dorées &amp; petites. Sa graine est ronde, &amp; disposée comme une grappe de raisin. Sa racine est fort esparpillée. Cette absythe vulgaire est plus en usage dans la Medecine. Plusieurs croyent que c'est la barbotine, qu'on appelle semen sanctum. Mais Mathiole dit que c'est une plante bien differente. Quelquesuns pretendent que l'absynthe est l'auronne femelle. Il y a une seconde espece d'absynthe, qu'on appelle petite aluyne, qui est semblable a la petite auronne, étant toute entassée de petite graine fort amere, qu'on appelle en Latin absythium marinum, ou seriphium. L'absynthe Santonique est la troisiéme espece, qui est semblable à l'aluine, mais qui est moins chargée de graine que l'autre. On fait du vin d'absynthe, &amp; de l'eau d'absynthe. L'absynthe est une herbe odoriferante, trèsamere, astringente &amp; corroborative : c'est pourquoy l'on s'en sert pour fortifier les visceres affoiblis. Outre son amertume, la nitrosité dont elle participe, fait qu'elle purge la matiere bilieuse contenue au ventricule &amp; au foye. Elle tue les vers même en l'appliquant extcrieurement. L'absynthe attenue, &amp; deterge. Elle est aperitive, &amp; provoque les urines &amp; les sueurs, &amp; tour cela avec quelque astriction. On ne se sert qnc des feuilles, &amp; des sommitez de cette plante. De M. Absynthe, figurément signifie, Douleur, amertume, deplaisir. Mais je ne voudrois pas hasarder à l'employer au plurier comme Malherbe, qui a ci, adoucir toutes nos absynthes</def>
+<def>Herbe qui croit en Egypte à la hauteur de quelques doigts. Ses feuilles ressemblent à celles du triolet ; &amp; ses fleurs blanches, &amp; d'un jaune pâle, produisent une semence noire, renfermée dans de petites cellules.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>ABSYNTHE</orth></form>
+            <form type="variant"><orth>ou ABSINTHE</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+                <lbl>&amp;</lbl>
+                <gen>f</gen>
+                <pc>.</pc>
+                <lbl>selon Malherbe ; &amp; selon Vaugelas, toujours masculin. On le fait plus ordinairement feminin. L'Academie Fr. le fait feminin.</lbl>
+            </gramGrp>
+            <note>Menage veut qu'on écrive apsinthe par un p, sans doute à cause de l'étymologie.</note>
+        </form>
+        <sense>
+            <def>C'est une plante medecinale. Il y en a de quatre sortes : le Santonique, le marin, le vulgaire ou grand Pontique, &amp; le petit. L'absynthe commune a une tige fort branchuë, des feuilles blanches, &amp; fort decouppées, comme l'artemisia ; ses fleurs dorées &amp; petites. Sa graine est ronde, &amp; disposée comme une grappe de raisin. Sa racine est fort esparpillée. Cette absythe vulgaire est plus en usage dans la Medecine. Plusieurs croyent que c'est la barbotine, qu'on appelle semen sanctum. Mais Mathiole dit que c'est une plante bien differente. Quelquesuns pretendent que l'absynthe est l'auronne femelle. Il y a une seconde espece d'absynthe, qu'on appelle petite aluyne, qui est semblable a la petite auronne, étant toute entassée de petite graine fort amere, qu'on appelle en Latin absythium marinum, ou seriphium. L'absynthe Santonique est la troisiéme espece, qui est semblable à l'aluine, mais qui est moins chargée de graine que l'autre. On fait du vin d'absynthe, &amp; de l'eau d'absynthe. L'absynthe est une herbe odoriferante, trèsamere, astringente &amp; corroborative : c'est pourquoy l'on s'en sert pour fortifier les visceres affoiblis. Outre son amertume, la nitrosité dont elle participe, fait qu'elle purge la matiere bilieuse contenue au ventricule &amp; au foye. Elle tue les vers même en l'appliquant extcrieurement. L'absynthe attenue, &amp; deterge. Elle est aperitive, &amp; provoque les urines &amp; les sueurs, &amp; tour cela avec quelque astriction. On ne se sert qnc des feuilles, &amp; des sommitez de cette plante. De M. Absynthe, figurément signifie, Douleur, amertume, deplaisir. Mais je ne voudrois pas hasarder à l'employer au plurier comme Malherbe, qui a ci, adoucir toutes nos absynthes</def>
 </sense>
 <pc>.</pc>
 
@@ -10060,16 +10120,16 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <head>ABU<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ABUNAouABOUNA</orth>
+<orth>ABUNA</orth>
 </form>
+    <form type="variant"><orth>ou ABOUNA</orth></form>
 <pc>.</pc>
 <gramGrp>
 <pos>s</pos>
 <pc>.</pc>
 <gen>m</gen>
 <pc>.</pc>
-<number>qei</number>
-<pos>signifie pere</pos>
+<gloss>qui signifie pere</gloss>
 </gramGrp>
 </form>
 <pc>.</pc>
@@ -10716,14 +10776,6 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <def>Bouleversement, accident par lequel une chose succombe sous une charge excessive. Pendant ce tremblement de terre il y eut un acablement general dont personne ne se put sauver. On ne l'employe point au propre. Refl</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ACC</orth>
-</form>
-</form>
-<pc>.</pc>
-
 <sense>
 <def>Il est plus en usage au figuré. Abatement, embarras. Il signifie, langueur, abatement, redoublement d'affliction, multitude de choses. Je n'ai pas de ces heures de chagrin, &amp; d'accablement qui vont jusqu'à l'ame. Voi. Il est dans un grand accablement d'esprit &amp; de douleurs. &amp;c. Il est dans un grand accablement d'affaires : pour dire il est chargé d'un nombre infini d'affaires</def>
 </sense>
@@ -10789,7 +10841,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SACCAGNARDER</orth>
+<orth>S'ACCAGNARDER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -11026,7 +11078,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>Recevoir, agréer le don qu'on nous fait, ou la charge qu'on nous impose. Il a accepté une charge difficile à remplir. La loi est censée accepter pour les mineurs, &amp; elle supplée à leur intention dans les choses favorables. Courtin. Ac cepter un legs, une donation, une cession. Accepter un combat sur un deffi. Accepter la paix, les conditions d'un traitté. Il faut remarquer que ce mot est moins étendu que Recevoir ou agréer, &amp; qu'il suppose quelque traité ou negociation. On le dit pourtant quelquefois lorsqu'il ne s'agit point d'affaires : Les Juges ne doivent accepter aucuns presens des parties ; pour dire simplement, Recevoir. Elle venoit Seigneur, juyant vôtre couroux, A la face des Dieux l'accepter pour époux. Rac</def>
+<def>Recevoir, agréer le don qu'on nous fait, ou la charge qu'on nous impose. Il a accepté une charge difficile à remplir. La loi est censée accepter pour les mineurs, &amp; elle supplée à leur intention dans les choses favorables. Courtin. Accepter un legs, une donation, une cession. Accepter un combat sur un deffi. Accepter la paix, les conditions d'un traitté. Il faut remarquer que ce mot est moins étendu que Recevoir ou agréer, &amp; qu'il suppose quelque traité ou negociation. On le dit pourtant quelquefois lorsqu'il ne s'agit point d'affaires : Les Juges ne doivent accepter aucuns presens des parties ; pour dire simplement, Recevoir. Elle venoit Seigneur, juyant vôtre couroux, A la face des Dieux l'accepter pour époux. Rac</def>
 </sense>
 <pc>.</pc>
 
@@ -11045,14 +11097,22 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <def>On dit aussi au Palais, Accepter les offres de sa partie. Les offres qui ne sont point acceptées sont sujettes à revocation</def>
 </sense>
-<re><form>ACCEPTILATION</form>
-<form>.</form>
-<form>s. f</form>
-<form>.</form>
-<form>Terme de Jurispru</form>
-<pc>-</pc>
-<def>dence Romaine. Quittance qu'on donne sans recevoir de l'argent ; declaration qu'on fait en faveur de son debiteur ; qu'on ne lui veut plus rien demander ; qu'on a esté satissfait d'une dette, ou qu'on la lui quitte ; qu'on la lui remet. On trouve dans le droit une certaine forme prescrite pour l'acceptilation. Ulpien a cependanit decidé que l'acceptilation n'est point aux paroles ; &amp; qu'étant du droit naturel que chacun remette ce qui lui est dû, en la maniere qu'il lui plaît, elle ne depend point des formalitez</def>
-<pc>.</pc></re>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>ACCEPTILATION</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>f</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+<def>Terme de Jurisprudence Romaine. Quittance qu'on donne sans recevoir de l'argent ; declaration qu'on fait en faveur de son debiteur ; qu'on ne lui veut plus rien demander ; qu'on a esté satissfait d'une dette, ou qu'on la lui quitte ; qu'on la lui remet. On trouve dans le droit une certaine forme prescrite pour l'acceptilation. Ulpien a cependanit decidé que l'acceptilation n'est point aux paroles ; &amp; qu'étant du droit naturel que chacun remette ce qui lui est dû, en la maniere qu'il lui plaît, elle ne depend point des formalitez</def>
+        </sense>
+<pc>.</pc>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -11090,7 +11150,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ACCES</orth>
+<orth>ACCÉS</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -11174,23 +11234,25 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <def>Dependance du principal ; surtte de quelque chose qui est plus considerable. Les depens qui ne sont qu'un accessoire montent souvent plus haut que le principal. L'accessoire doit ceder au principal. Persée fut le principal acteur de la guerre, &amp; Gentius n'en étoit que comme l'accessoire. A BL. La caution dans le contract est un accessoire qui fortifie le contract</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ACCESSOIRE</orth>
-</form>
-</form>
-<pc>,</pc>
-
 <sense>
-<def>se prend figurément pour un état fâcheux. Il étoit dans un étrange accessoire. Mrs. de l'Ac. On ne s'en sert plus en ce sens</def>
+<form>Accessoire</form><pc>,</pc> <def>se prend figurément pour un état fâcheux. Il étoit dans un étrange accessoire. Mrs. de l'Ac. On ne s'en sert plus en ce sens</def>
 </sense>
 <pc>.</pc>
 
 <sense>
 <form>Accessoire</form>
 <pc>,</pc>
-<def>en matiere de Pharmacie, veut dire un changement qui arrive au medicament par des choses exterieures, &amp; qui augmente, ou diminue sa vertu. ACCESSIt Terme de College. Recompense qu'on donne aux écoliers qui ont composé presqu'aussi bien que celui qui a emporté le prix. Un tel a eu le premier prix des vers, &amp; un tel le premier accessit : c'est à dire celui qui en a approché de plus près</def>
+<def>en matiere de Pharmacie, veut dire un changement qui arrive au medicament par des choses exterieures, &amp; qui augmente, ou diminue sa vertu.
+    </def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>ACCESSIT</orth></form>
+            <pc>.</pc>
+        </form>
+        <sense>
+            <def>Terme de College. Recompense qu'on donne aux écoliers qui ont composé presqu'aussi bien que celui qui a emporté le prix. Un tel a eu le premier prix des vers, &amp; un tel le premier accessit : c'est à dire celui qui en a approché de plus près</def>
 </sense>
 <pc>.</pc>
 
@@ -11383,23 +11445,26 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>&amp;</pc>
 <lbl>du</lbl>
 <lang>Latin</lang>
-<foreign>quietus ACCOLADE, ou ACOLADE</foreign>
+<foreign>quietus</foreign> 
 </etym>
-<form type="lemmaGrp">
-<pc>.</pc>
-<gramGrp>
-<pos>s</pos>
-<pc>.</pc>
-<gen>f</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Embrassement ; caresse qu'on fait en sautant au cou de quelcun en l'embrassant. Les amis qui ont été long temps sans se voir, se font mille embrassades &amp; accolades</def>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>ACCOLADE</orth></form>
+            <pc>,</pc>
+            <form type="variant"><orth>ou ACOLADE</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>f</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Embrassement ; caresse qu'on fait en sautant au cou de quelcun en l'embrassant. Les amis qui ont été long temps sans se voir, se font mille embrassades &amp; accolades</def>
 </sense>
 <pc>.</pc>
-
 <sense>
 <form>Accolade</form>
 <pc>,</pc>
@@ -11635,7 +11700,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </form>
 <pc>,</pc>
 <form type="variant">
-<orth>ouACOMMODER</orth>
+<orth>ou ACOMMODER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -11762,9 +11827,21 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <foreign>, de commodus</foreign>
 </etym>
 <pc>.</pc>
-
-<sense>
-<def>ACCOMPAGNEMENT ou ACOMPAGNEMENT. s. m. Action par laquelle on accompagne. L'accompagnement du St. Sacrement, quand on le porte aux malades, est une action pieuse, &amp; qui édifie. Dans ce sens l'on ne s'en sert gueres que pour des ceremonies. Le Prince de C. fut chargé de l'accompagnement de la Princesse. Ac</def>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>ACCOMPAGNEMENT</orth></form>
+            <form type="variant"><orth>ou ACOMPAGNEMENT</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Action par laquelle on accompagne. L'accompagnement du St. Sacrement, quand on le porte aux malades, est une action pieuse, &amp; qui édifie. Dans ce sens l'on ne s'en sert gueres que pour des ceremonies. Le Prince de C. fut chargé de l'accompagnement de la Princesse. Ac</def>
 </sense>
 <pc>.</pc>
 
@@ -11854,7 +11931,23 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>,</pc>
 <usg>en termes de Blason</usg>
 <pc>,</pc>
-<def>se dit lors qu'autour d'une piece principale, comme le sautoir, la bande, la fasce, le chevron, le croissant, le lion, l'aigle, &amp;c. il y a plusieurs autres pieces qui sont auprès en seantes partitions. De Neufville Ville-Roy porte d'azur au chevron d'or, accompagné de trois croix ancrées de même. On le dit particulierement des croix, sanutoirs, chevrons, pairles, &amp;c. quand ces choses sont également disposées dans les quatre cantons de l'Ecu qu'elles laissent vuide. Ces mots viennent de compagnon. ACCOMPLIRou ACOMPLIR. v. act. Faire entierement, mettre une chose en état où il n'y ait plus rien à desirer : lui donner sa perfection. Nôtre Seigneur a accompli toutes les propheties ; il a fait tout ce qu'elles avoient predit. Cet Officier a bien accompli son devoir. Dieu lui donna des enfans pour accomplir ses desirs, &amp; les lui ôta pour éprouver sa resignation. Fil. Il a accompli sa promesse, ou son voeu ; c'est-à-dire, qu'il a executé tout ce qu'il avoit promis</def>
+<def>se dit lors qu'autour d'une piece principale, comme le sautoir, la bande, la fasce, le chevron, le croissant, le lion, l'aigle, &amp;c. il y a plusieurs autres pieces qui sont auprès en seantes partitions. De Neufville Ville-Roy porte d'azur au chevron d'or, accompagné de trois croix ancrées de même. On le dit particulierement des croix, sanutoirs, chevrons, pairles, &amp;c. quand ces choses sont également disposées dans les quatre cantons de l'Ecu qu'elles laissent vuide. Ces mots viennent de compagnon.</def>
+</sense>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>ACCOMPLIR</orth></form>
+            <form type="variant"><orth>ou ACOMPLIR</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>v</pos>
+                <pc>.</pc>
+                <subc>act</subc>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Faire entierement, mettre une chose en état où il n'y ait plus rien à desirer : lui donner sa perfection. Nôtre Seigneur a accompli toutes les propheties ; il a fait tout ce qu'elles avoient predit. Cet Officier a bien accompli son devoir. Dieu lui donna des enfans pour accomplir ses desirs, &amp; les lui ôta pour éprouver sa resignation. Fil. Il a accompli sa promesse, ou son voeu ; c'est-à-dire, qu'il a executé tout ce qu'il avoit promis</def>
 </sense>
 <pc>.</pc>
 
@@ -11940,17 +12033,21 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <def>Il ne se dit plus</def>
 </sense>
 <pc>.</pc>
-
-<re><form>ACCOQUINERou ACOQUINER</form>
-<form>.</form>
-<form>v</form>
-<pc>.</pc>
-<gramGrp>n</gramGrp>
-<form>.</form>
-<form>Sc plaire</form>
-<pc>,</pc>
-<def>s'attacher à une vie coquine, faineante, &amp; libertine ; s'amuser, s'accoutumer à quelque chose d'indigne. Il ne se dit que dans le stile bas &amp; sarrique</def>
-</re>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>ACCOQUINER</orth></form>
+            <form type="variant"><orth>ou ACOQUINER</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>v</pos>
+                <pc>.</pc>
+                <subc>n</subc>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>         
+<def>Se plaire, s'attacher à une vie coquine, faineante, &amp; libertine ; s'amuser, s'accoutumer à quelque chose d'indigne. Il ne se dit que dans le stile bas &amp; sarrique</def></sense>
 <pc>.</pc>
 
 <sense>
@@ -11967,9 +12064,21 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <def>&amp; adj</def>
 </re>
 <pc>.</pc>
-
-<sense>
-<def>ACCORD ou ACORD. s. m. Consonnance ou union de deux sons agreables à l'oreille. L'octave, la quinte sont de bons accords. Ce Musicien ne joue pas une piece, il fait seulement des accords. L'Organiste jouë le plein chant du petit doigt, &amp; des autres il fait des accords. On dit aussi, qu'un lut ou un autre instrument n'est pas d'accord, quand il ne fait pas les consonnances justes qu'on desire, &amp; que les cordes ne sont pas montées juste au ton qu'elles doivent être</def>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>ACCORD</orth></form>
+            <form type="variant"><orth>ou ACORD</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+<def>Consonnance ou union de deux sons agreables à l'oreille. L'octave, la quinte sont de bons accords. Ce Musicien ne joue pas une piece, il fait seulement des accords. L'Organiste jouë le plein chant du petit doigt, &amp; des autres il fait des accords. On dit aussi, qu'un lut ou un autre instrument n'est pas d'accord, quand il ne fait pas les consonnances justes qu'on desire, &amp; que les cordes ne sont pas montées juste au ton qu'elles doivent être</def>
 </sense>
 <pc>.</pc>
 
@@ -12032,15 +12141,39 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <def>Qui se doit ou peut s'accorder. Cette grace n'est pas accordable, le crime est trop énorme. Il est peu en usage</def>
 </sense>
 <pc>.</pc>
-
-<re><form>ACCORDAILLESou ACORDAILLES</form>
-<form>.</form>
-<form>s. f</form>
-<form>.</form>
-<form>Il n</form>
-<pc>'</pc>
-<def>a point de singulier. Ceremonie qui se fait pour la lecture des qualitez, ou pour la signature d'un contract de mariage en presence des parens, quand les parties sont d'accord. ACCORDANTou ACORDANT, ante. adj. Qui se peut accorder. La Musique consiste à bien choisir les tons accordans, &amp; à les distinguer des discordans. Il y a des voix accordantes &amp; discordantes</def>
-<pc>.</pc></re>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>ACCORDAILLES</orth></form>
+            <form type="variant"><orth>ou ACORDAILLES</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>f</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+<def>Il n'a point de singulier. Ceremonie qui se fait pour la lecture des qualitez, ou pour la signature d'un contract de mariage en presence des parens, quand les parties sont d'accord.</def>
+        </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>ACCORDANT</orth></form>
+            <form type="variant"><orth>ou ACORDANT</orth></form>
+            <pc>,</pc>
+            <form type="inflected">ante</form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>adj</pos>
+                <pc>.</pc>
+              
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Qui se peut accorder. La Musique consiste à bien choisir les tons accordans, &amp; à les distinguer des discordans. Il y a des voix accordantes &amp; discordantes</def></sense>
+<pc>.</pc>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -12058,7 +12191,24 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <usg>Terme de Marine</usg>
 <pc>.</pc>
-<def>C'est le commandement que l'on fait à l'équipage de la chaloupe, &amp; aux Rameurs, pour les faire nager ensemble. ACCORDERouACORDER. v. act. Mettre des voix ou des instrumens de Musique en état de faire des consonnances, ou des accords dans la plus grande justesse : les mettre sur un même ton, pour en former un concert agreable. Accorder un instrument, c'est monter les cordes au ton ouù elles doivent être, pour faire l'harmonie. On est plus long temps à accorder son lut, qu'à en jouër. Accorder sa voix avec un thuorbe</def>
+<def>C'est le commandement que l'on fait à l'équipage de la chaloupe, &amp; aux Rameurs, pour les faire nager ensemble.
+    </def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>ACCORDER</orth></form>
+            <form type="variant"><orth>ou ACORDER</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>v</pos>
+                <pc>.</pc>
+                <subc>act</subc>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Mettre des voix ou des instrumens de Musique en état de faire des consonnances, ou des accords dans la plus grande justesse : les mettre sur un même ton, pour en former un concert agreable. Accorder un instrument, c'est monter les cordes au ton ouù elles doivent être, pour faire l'harmonie. On est plus long temps à accorder son lut, qu'à en jouër. Accorder sa voix avec un thuorbe</def>
 </sense>
 <pc>.</pc>
 
@@ -12215,7 +12365,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ACCORNE</orth>
+<orth>ACCORNÉ</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -12326,12 +12476,11 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>,</pc>
 <usg>Terme de Blason</usg>
 <pc>,</pc>
-<def>se dit des pieces qui sont posées à côté d'une autre piece de l'Ecu. Le Prête-Jean d'Ethiopie porte, D'argent à une croix haussée de gueules, chargée d'un Crucifix, accôtée de deux fouets de cordes emmanchez d'azur. Il se dit particulierement de toutes les pieces de longueur mises en pal, ou en bande, quand elles en ont d'autres à leurs côtez. Ainsi le pal peut être accôté de quatre ou de six annelets ; quand il y en a deux ou trois de chaque côté. On dit la même chose de la bande, quand les pieces qui sont à les côtes, sont couchées dans le même sens, &amp; qu'il y en a le même nombre de part &amp; d'autre. Quand elles sont droites on nomme alors la bande accompagnée de deux ou de quatre fleurs de lis, ou autres choses, dont il faut énoncer la situation. Quand ce sont des pieces rondes, comme des tourteaux, des besans, on peut dire indifferemment accôté ou accompagné. Le P.</def>
+<def>se dit des pieces qui sont posées à côté d'une autre piece de l'Ecu. Le Prête-Jean d'Ethiopie porte, D'argent à une croix haussée de gueules, chargée d'un Crucifix, accôtée de deux fouets de cordes emmanchez d'azur. Il se dit particulierement de toutes les pieces de longueur mises en pal, ou en bande, quand elles en ont d'autres à leurs côtez. Ainsi le pal peut être accôté de quatre ou de six annelets ; quand il y en a deux ou trois de chaque côté. On dit la même chose de la bande, quand les pieces qui sont à les côtes, sont couchées dans le même sens, &amp; qu'il y en a le même nombre de part &amp; d'autre. Quand elles sont droites on nomme alors la bande accompagnée de deux ou de quatre fleurs de lis, ou autres choses, dont il faut énoncer la situation. Quand ce sont des pieces rondes, comme des tourteaux, des besans, on peut dire indifferemment accôté ou accompagné. Le P. Menest</def>
 </sense>
+</entry>
+    <entry>
 <form type="lemmaGrp">
-<form type="lemma">
-<orth>Menest</orth>
-</form>
 <form type="lemma">
 <orth>ACCOTAR</orth>
 </form>
@@ -12343,7 +12492,6 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </gramGrp>
 </form>
 <pc>.</pc>
-
 <sense>
 <usg>Terme de Marine</usg>
 <pc>,</pc>
@@ -12841,7 +12989,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ACCOUVE</orth>
+<orth>ACCOUVÉ</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -13461,222 +13609,24 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>&amp; fem. Celui ou celle qui accuse, ou qui poursuit quelcun en Justice criminellement. Par le Droit civil il n'y avoit point d'accusateur public. Chaque particulier, soit qu'il eût inteérêt au crime public ou non, pouvoit accuser, &amp; conclure au châtiment de l'accusé. En France il n'y a que le Procureur General, ou ses Substituts proposez dans chaque Sicge, qui se puissent constituer acusateurs ; c'est à eux seuls à qui appartient la vengeance publique. La partie civile ne peut conclure qu'à la reparation, &amp; aux intérets, &amp; non pas à la puhommes sont tellement amoureux de la liberté, qu'ils l'achetent au prix de la vie. Du R. Ce Partisan enrichi par ses concussions, a acheté de la naissance, &amp; un nom. La Br</def>
+<def>&amp; fem. Celui ou celle qui accuse, ou qui poursuit quelcun en Justice criminellement. Par le Droit civil il n'y avoit point d'accusateur public. Chaque particulier, soit qu'il eût inteérêt au crime public ou non, pouvoit accuser, &amp; conclure au châtiment de l'accusé. En France il n'y a que le Procureur General, ou ses Substituts proposez dans chaque Sicge, qui se puissent constituer acusateurs ; c'est à eux seuls à qui appartient la vengeance publique. La partie civile ne peut conclure qu'à la reparation, &amp; aux intérets, &amp; non pas à la punition du criminel. En quelque lieu que se trouve un Parricide, il rencontre un Accusateur, un Juge, &amp; un Bourreau. Le Mai. Cette femme est une dangereuse accusatrice. Son accusatrice parut fort animée contre lui. Au dernier jour nos pechez se presentetront comme autant de cruels accusateurs. Nic.</def>
 </sense>
-<pc>.</pc>
-
-<sense>
-<def>On dit proverbialement en parlant du vin, Qui bon l'achete, bon le boit</def>
-</sense>
-<pc>.</pc>
-
-<re><form>Acheté, ée</form>
-<form>.</form>
-<form>part</form>
-<pc>.</pc></re>
 </entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ACHETEUR</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>s</pos>
-<pc>.</pc>
-<gen>m</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Celui qui achete. C'est l'acheteur d'une maison qui paye les droits seigneuriaux dans la Coutume de Paris. C'est une espece de revenu, que de n'être pas grand acheteur. Du R. Cette femme est une grande acheteuse : c'est-à-dire qu'elle a la passion d'acheter tout ce qu'elle voit. On appelle aussi un acheteur de droits litigieux, celui qui achete des procés, des pretentions. On dit en proverbe, qu'il y a plus de fous acheteurs que de fous vendeurs</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ACHEVEMENT</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>s</pos>
-<pc>.</pc>
-<gen>m</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Fin d'un ouvrage, d'un terme ; la perfection qu'on donne à une chose. Nous ne verrons pas l'achevement du Louvre. On ne peut contraindre à payer avant l'achevement du terme ; avant qu'il soit échû. Dans les ouvrages de l'Art, c'est le travail, &amp; l'achevement que l'on considere. Boi</def>
-</sense>
-<pc>.</pc>
-
-<sense>
-<form>Achevement</form>
-<pc>.</pc>
-<usg>Terme de Poëtique</usg>
-<pc>.</pc>
-<def>C'est dans le poeme épique le dernier passage de l'agitation, &amp; du trouble au repos, &amp; à la tranquillité. Il y a de la difference entre le denouement, &amp; l'achevement. L'achevement est un point, &amp; un instant sans étenduë, &amp; sans durée ; au lieu que le denouëment n'est pas sans longueur. L'achevement est donc la fin du dernier denouement. Dans l'Eneide la mort de Turnus fait l'achevement, parcequ'elle fait cesser l'action d'Enée. Le P. leB. On dispute si l'achevement doit laisser le Heros dans une tranquillité heureuse, ou s'il est libre de le laisser malheureux. Il n'y a pourtant gueres de poëme qui finisse par le malheur de son Heros. Id</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ACHEVER</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>v</pos>
-<pc>.</pc>
-<subc>act</subc>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Finir, terminer, perfectionner quelque ouvrage. Dieu acheva l'ouvrage de la creation en six jours, &amp; consacra le septiéme au repos. Achever comme on a commencé. Permettez que jacheve mon discours. Achevez vite, finissez. Il se met aussi avec le pronom possessif. Il s'est achevé de perdre par son imprudence</def>
-</sense>
-<pc>.</pc>
-
-<sense>
-<def>On le dit aussi avec le pronom personnel. Ce livre s'acheve ; il est tantôt fait</def>
-</sense>
-<pc>.</pc>
-
-<sense>
-<form>Achever</form>
-<pc>,</pc>
-<def>se dit aussi en Morale, pour dire, Mettre une chose à sa derniere perfection. L'étude commence un honnête homme, &amp; le commerce du monde l'acheve. S. Ev. Voilà un ouvrage achevé ; on n'y peut rien ajouter. C'est un homme achevé, qui a toutes sortes de vertus &amp; de perfections. Il jouït d'un bonheur, d'une fortune achevée, à qui il ne manque rien. Souvent les Auteurs ne se donnent pas la peine d'achever leurs Ouvrages : c'est-à-dire, de les polir, &amp; de les revoir</def>
-</sense>
-<pc>.</pc>
-
-<sense>
-<def>On dit aussi, Achever ses jours, achever de vivre, achever sa carriere, pour dire, Mourir. Les mourans laissez sur le champ de bataille prient qu'on les acheve par pitié. On dit proverbialement, Voilà pour l'achever de peindre, pour dire, Achever de le ruiner, quand il vient un nouveau malheur à quelqu'un qui l'accable. On l'employe aussi pour dire, enyvrer entierement. Il ne faloit plus, dit-on, que cette santé pour l'achever</def>
-</sense>
-<pc>.</pc>
-
-<re><form>Achevé, ée</form>
-<form>.</form>
-<form>part</form>
-<pc>.</pc>
-<gramGrp>pass. &amp; adj</gramGrp>
-<form>.</form>
-<form>Parfait ; accompli</form>
-</re>
-<pc>.</pc>
-
-<sense>
-<def>Quand il se dit des choses, il se prend plus ordinairement en bonne part : c'est une piece achevée. Il arrive souvent que les choses se presentent plus achevées à nôtre esprit, qu'il ne les pourroit faire avec beaucoup d'art. La Roch. Quand il se dit des personnes, il se prend en bonne, &amp; en mauvaise part : C'est un Prince achevé. C'est un fou achevé ; pour dire, entierement fou</def>
-</sense>
-<pc>.</pc>
-
-<sense>
-<usg>En termes de Manege</usg>
-<def>on appelle un cheval achevé, celui qui est bien dressé, &amp; qui ne manque point à faire un certain manege. On dit, un cheval commencé, achemlné, &amp; acheve, pour exprimer les diverses dispositions &amp; états d'un cheval qui a de l'école. Ces mots viennent de chef, comme qui diroit, Mettre à chef, mettre à perfection</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ACHIER</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>s</pos>
-<pc>.</pc>
-<gen>m</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<usg>Vieux mot</usg>
-<pc>.</pc>
-<def>C'étoit le lieu où l'on mettoit les ruches des abeilles. On trouve dans une ancienne Coutume : L'essain d'Avettes est mien, &amp; le vy partir de mon achier</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ACHILLE</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>s</pos>
-<pc>.</pc>
-<gen>m</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<usg>Terme d'Anatomie</usg>
-<pc>.</pc>
-<def>C'est le nom qu'on donne à un gros tendon qui se rend à la plante du pié ; parceque selon la Fable, Achille mourut du coup dont il fut frapé en cet endroit. Achille. Nom qu'on donnoit dans les écoles à l'argument principal de chaque secte. Voilà son Achille ; c'est-à-dire, une raison invincible, un argument indissoluble. En particulier on appelloit Achille le fameux argument de Zenon d'Elée contre le mouvement. Ce Philosophe mettoit en comparaison la lenteur d'une tortuë avec la vitesse d'Achille, pour montrer, qu'un mobile lent, qui precede tant soit peu un mobile vite, n'en peut jamais être devancé</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ACHILLEA</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>s</pos>
-<pc>.</pc>
-<gen>f</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Plante ainsi appellée, à ce que dit Pline, d'Achille disciple du Centaure Chiron, qui le premier s'en servit à guerir les playes. C'est une espece de mile-feuille, qui pousse des verges canelées, de la hauteur d'une palme, &amp; quelquefois de trois coudées. Ces feuilles sont semblables a celles de la milefeuille terrestre ; mais plus larges &amp; plus courtes ; fort detoupées, d'un goût amer, &amp; d'une odeur forte &amp; aromatique. Ses fleurs sont des bouquets composez de plusieurs feuilles ; celles qui occupent le centre sont jaunes, &amp; celles de la circonference, blanches. En Latin, millefolium nobile, ou Achillea Dioscoridis. Cette plante est très-bonne contre les pertes de sang, contre le crachement de sang, &amp; pour prevenir les avortemens</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ACHIOTTE</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>s</pos>
-<pc>.</pc>
-<gen>f</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Fruit fort estimé par les Indiens, qui vient de la Nouvelle Espagne, qui croît à un arbre nommé Achiote, ou Pamaqua, qui est semblable en grandeur, en tronc &amp; en forme à l'oranger. Le tronc est roux &amp; les branches aussi. Ses feuilles sont comme celles de l'orme en couleur &amp; apreté : ses fleurs blanches &amp; pourprines distinguées en cinq feuilles, taillées en étoile. Son fruit est gros comme une petite amande verte, quadrangulaire, avec une écorce semblable à la premiere de la châtaigne, contenant plusieurs grains rouges comme des raisins ; mais plus ronds. Il verdit toute l'année, &amp; porte son fruit au printemps ; &amp; alors on le taille. On tire du feu de son bois comme d'un caillou. De son écorce on fait des cordes plus fortes que le chanvre même. De la semence on fait de la teinture cramoisie rouge, de laquelle les Peintres se servent ; &amp; on la mêle avec utilité dans toutes les potions refrigerantes. On en fait une pâte à mesure qu'elle seche. On en fait des boules, des tourteaux, &amp; on les vend en forme de brique. Ceci est tiré de François de Ximenez, de Laed, &amp; d'Eusebe de Nuremberg, qui en ont fait la description</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ACHIT</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>s</pos>
-<pc>.</pc>
-<gen>m</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Plante qui croît dans l'Isle de Madagascar. Elle traîne par terre, comme le sep de vigne, dont elle est une espece. Ses feuilles sont toujours vertes. Elle porte un fruit de la grosseur d'un raisin qui n'a pas encore atteint sa maturite</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ACHOPPEMENT</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>s</pos>
-<pc>.</pc>
-<gen>m</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Occasion de faute ; sujet de scandale. Il ne se dit qu'au figuré, &amp; presque toûjours dans cette phrase Pierre d'achoppement. Cet Auteur raisonne sur un faux principe ; c'est une pierre d'achoppement qui le fait broncher par tout. Quelquesuns employent ce mot seul : c'est l'achopement de l'antiquité : pour dire, l'écueil. On dit encore, être en Il se dit d'une autre chose dont les Anatomistes ne conviennent point ; les uns appellent acetabules les orifices des vaisseaux répandus dans la surface interne de la matrice. Harvée croit que ce sont de petites cellules du Placenta, ou de ce qui tient lieu de Placenta dans les femelles de plusieurs animaux. Le sentiment le plus probable est de ceux qui disent que les acetabules sont ces glandes qui s'élevent dans la matrice des brebis &amp; des chevres, lorsqu'elles sont pleines, &amp; qui sont ainsi appellées, parcequ'elles sont faites en forme de coupe ou de godet. Ce qu'on ne remarque pas dans les femelles des autres animaux, non plus que dans la femme</def>
+    <!--   Manque une page, soit les entrées de ACCUSATIF à ACETABULE-->
+ <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>ACETABULE</orth></form>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>f</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>
+                <!-- début d'entrée tronquée -->
+    Il se dit d'une autre chose dont les Anatomistes ne conviennent point ; les uns appellent acetabules les orifices des vaisseaux répandus dans la surface interne de la matrice. Harvée croit que ce sont de petites cellules du Placenta, ou de ce qui tient lieu de Placenta dans les femelles de plusieurs animaux. Le sentiment le plus probable est de ceux qui disent que les acetabules sont ces glandes qui s'élevent dans la matrice des brebis &amp; des chevres, lorsqu'elles sont pleines, &amp; qui sont ainsi appellées, parcequ'elles sont faites en forme de coupe ou de godet. Ce qu'on ne remarque pas dans les femelles des autres animaux, non plus que dans la femme</def>
 </sense>
 <pc>.</pc>
 
@@ -14166,7 +14116,8 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <def>Occasion de faute ; sujet de scandale. Il ne se dit qu'au figuré, &amp; presque toujours dans cette phrase : Pierre d'achoppement. Cet Auteur raisonne sur un faux principe ; c'est une pierre d'achoppement qui le fait broncher par tout. Quelquesuns employent ce mot seul : c'est l'achopement de l'antiquité : pour dire, l'écueil. On dit encore, être en achopement à quelcun, pour dire, le traverser dans ses entreprises, &amp; chercher à le chagriner par tout</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+ <entry>
+     <form type="lemmaGrp">
 <form type="lemma">
 <orth>ACHRONIQUE</orth>
 </form>
@@ -14733,17 +14684,6 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 
 <sense>
 <def>Connoissance, habileté qui vient de l'application, de l'industrie, &amp; du travail. Cet homme a bien de l'acquis ; cela s'entend de la science, de la capacité, de l'experience, de la reputation. Il n'a pas moins d'acquis, que de naturel, &amp; d'agrément</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>S</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Evr</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -15707,7 +15647,24 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <usg>Terme de Jurisprudence</usg>
 <pc>.</pc>
-<def>Revocation, retranchement. L'ademption d'un legs peut être, ou expresse, ou tacite. Elle est expresse si le Testateur declare formellement qu'il revoque ce qu'il avoit legué ; &amp; tacite lorsque le Testateur ne revoque qu'indirectement le legs. &amp; de Coutumes, dont on se servoit dans les licitations, pour dire, Mettre à prix : ce qui vient du Latin ad neum, aut aris pretium constituere</def>
+<def>Revocation, retranchement. L'ademption d'un legs peut être, ou expresse, ou tacite. Elle est expresse si le Testateur declare formellement qu'il revoque ce qu'il avoit legué ; &amp; tacite lorsque le Testateur ne revoque qu'indirectement le legs.</def>
+</sense>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma">
+                <orth>ADENER</orth>
+                <pc>,</pc>
+            </form>
+            <gramGrp>
+                <pos>verbe</pos>
+         
+                <subc>actif</subc>
+        
+            </gramGrp>
+        </form>
+        <sense>
+            <usg>Vieux Terme de Partique &amp; de Coutumes,</usg> <def>dont on se servoit dans les licitations, pour dire, Mettre à prix : ce qui vient du Latin ad neum, aut aris pretium constituere</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -15734,16 +15691,22 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <def>Assemblage en adent</def>
 </sense>
 <pc>.</pc>
-
-<re><form>ADEtRE, ée</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Terme de Blason</form>
-<form>,</form>
-<form>qui</form>
-<def>se dit des pieces qui se mettent au côté dextre de l'Ecu : comme au contraire, ce qui se met au côté senestre se dit senestré. On le dit aussi, lors que l'on blasonne la partie droite de l'Ecu, &amp; qu'elle est d'un émail different de la gauche</def>
-</re>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma">
+                <orth>ADEXTRÉ</orth>
+            </form>
+            <form type="inflected"> ée</form>
+            <gramGrp>
+                <pos>adj</pos>
+                <pc>.</pc>
+                
+            </gramGrp>
+        </form>
+        <sense>
+<usg>Terme de Blason</usg> <def>se dit des pieces qui se mettent au côté dextre de l'Ecu : comme au contraire, ce qui se met au côté senestre se dit senestré. On le dit aussi, lors que l'on blasonne la partie droite de l'Ecu, &amp; qu'elle est d'un émail different de la gauche</def>
+</sense>
 <pc>.</pc>
 
 <sense>
@@ -17206,13 +17169,6 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <form>preferoit les enfans</form>
 <def>adoptifs aux enfans naturels, parcequ'on choisit les enfans adoptifs, &amp; que le hasard donne les enfans naturels. Les enfans adoptifs chez les Romains partageoient avec les enfans naturels. C'est pourquoy ils prenoient le nom, &amp; le surnom de celui qui les adoptoit : seulement pour marquer leur extraction &amp; leur naissance, ils ajoutoient le nom de la maison dont ils descendoient, ou le surnom de la branche particuliere d'où ils étoient issus. Menage a fait imprimer un livre d'éloges, ou de vers qu'on lui a adressez, &amp; qu'il appelle un livre adoptif, qu'il a joint à ses oeuvres</def>
 <pc>.</pc></re>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>D</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
 <def>Heinsius, &amp; Furstemberg de Munster ont aussi publié des livres adoptifs ; c'étoient des recueils de poësies faites à leur honneur</def>
@@ -17482,19 +17438,8 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>Il se dit aussi avec le pronom personnel, &amp; signifie, Devenir plus doux. Conj. je m'adoucis, je m'adoucissois, je m'adoucirai. L'hyver s'est adouci ; le froid est moins âpre, &amp; moins violent. Le depit de ne posseder pas les richesses se console, &amp; s'adoucit par le mepris que l'on a pour ceux qui les possedent. La Roch. Les haines &amp; les inimitiez s'adoucissent par le temps. Du R. Il n'y a personne si sauvage qui ne se puisse adoucir. Dac. Le Roi s'adoucit dans la suite, &amp; ne parut plus si irrité</def>
+<def>Il se dit aussi avec le pronom personnel, &amp; signifie, Devenir plus doux. Conj. je m'adoucis, je m'adoucissois, je m'adoucirai. L'hyver s'est adouci ; le froid est moins âpre, &amp; moins violent. Le depit de ne posseder pas les richesses se console, &amp; s'adoucit par le mepris que l'on a pour ceux qui les possedent. La Roch. Les haines &amp; les inimitiez s'adoucissent par le temps. Du R. Il n'y a personne si sauvage qui ne se puisse adoucir. Dac. Le Roi s'adoucit dans la suite, &amp; ne parut plus si irrité. P. de Cl</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>P</orth>
-</form>
-<pc>.</pc>
-<form type="variant">
-<orth>de Cl</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
 <def>La fievre s'adoucit par l'abstinence &amp; le repos</def>
@@ -17749,7 +17694,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <form>Adroit</form>
 <pc>,</pc>
-<def>se dit d'un esprit delieat habile &amp; subtil. Le dscours de cet Orateur est forr adroir ; il a domé une loüange fort adroite, fort delieate. Il est difficile de distinguer un fourbe adroit d'avet un honnête homme</def>
+<def>se dit d'un esprit delicat habile &amp; subtil. Le dscours de cet Orateur est forr adroir ; il a domé une loüange fort adroite, fort delieate. Il est difficile de distinguer un fourbe adroit d'avet un honnête homme</def>
 </sense>
 <pc>.</pc>
 
@@ -17757,7 +17702,21 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <def>Adroit, mis substantivemen, se prend quelquefois en maivaise part, &amp; se dit d'un homme fn &amp; rsé, qui se sert de son esprit pour tromper. Deffiez vous de cet homme, c'est un adroit. gauche</def>
 </sense>
 <pc>.</pc>
-
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma">
+                <orth>A DROIT</orth>
+            </form>
+            <gramGrp>
+                <pos>adv</pos>
+                <pc>.</pc>
+                
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Du côté droit, qui est opposé à gauche.</def>
+        </sense>
 <sense>
 <def>On dit populairement, qu'un gaucher ne fait jamais rien à droit</def>
 <pc>.</pc></sense>
@@ -17820,9 +17779,23 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <gloss>Arrivée</gloss>
 </etym>
 <pc>.</pc>
-
-<sense>
-<def>ADVENIRouAVENIR. v. n. Arriver vaut mieux : se dit du succés &amp; de l'évenement des choses ; de ce qui en peut arriver. Je veux pousser cette affaire, quoyqu'il en puisse avenir. S'il vous avient jamais de retomber en faute, vous en serez châtié. Il est avenu rout le contraire de ce qu'on lui avoit predt. Un infracteur de paix est responsable de tous les maux qui en aviendront. S'il avient que je meure, ce sera d'amour. Goh</def>
+</entry>
+              <entry>
+                  <form type="lemmaGrp">
+                      <form type="lemma">
+                          <orth>ADVENIR</orth>
+                      </form>
+                      <form type="variant">ou AVENIR</form>
+                      <pc>.</pc>
+                      <gramGrp>
+                          <pos>v</pos>
+                          <pc>.</pc>
+                          <subc>n</subc>
+                          <pc>.</pc>
+                      </gramGrp>
+                  </form>
+                  
+<sense><def>Arriver vaut mieux : se dit du succés &amp; de l'évenement des choses ; de ce qui en peut arriver. Je veux pousser cette affaire, quoyqu'il en puisse avenir. S'il vous avient jamais de retomber en faute, vous en serez châtié. Il est avenu rout le contraire de ce qu'on lui avoit predt. Un infracteur de paix est responsable de tous les maux qui en aviendront. S'il avient que je meure, ce sera d'amour. Goh</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -17978,16 +17951,6 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>,</pc>
 <def>se dit aussi de ces accidens surprenans &amp; extraordinaires ; qui sont souvent de pures imaginations : ou des entreprises hasardeuses, comme sont celles des Romans de chevalerie. Il y a des gens qui sont sujets à trouver des aventures : &amp; certains esprits Romanesques qui courent après les aventures. Don Quichot a voulu imiter les anciens Paladins, qui alloient chercher les aventures. L'Amadis est tout plein d'aventures perilleuses, surprenantes, enchantées. On dit aussi, C'est une femme à aventure, lors qu'elle a fait parler d'elle par ses galanteries. On sçait de cent beautez les tristes aventures ; Et l'Empire amoureux est tout plein de parijures</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>AD</orth>
-</form>
-<form type="lemma">
-<orth>V</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
 <def>Une aventure galante ne le touche point, à moins qu'elle ne soit assaisonnée de danger, &amp; de crainte. Oe. M. La triste aventure d'un agneau injustement devoré par un loup, est un exemple instructif que la fable propose. Le P. le Bos. Les bilieux, dont l'amitie est ardente, &amp; emportée, font bien du bruit dans les fâcheuses aventures de leurs amis. M. Esp. Les aventures naissent sous les pas des Heros. Oe. M. Les aventures de Belfegor sont plaisamment imaginées, &amp; il y a beaucoup d'art. Oe. M. Les Portugais sont si superstitieux, qu'ils couvrent toutes les images de leur chambre avant que d'achever une aventure amoureuse. In de Goa. Il arrive souvent qu'à la lecture d'un Roman, les filles se passionnent pour des intrigues, &amp; des aventures chimeriques. Fen</def>
@@ -18092,17 +18055,6 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>,</pc>
 <def>se dit plus specialement de ceux qui sont peu favorisez de la fortune, &amp; qui cherchent à s'établir. On le dit aussi des temeraires, qui hasardent tout legerement, &amp; imprudemment. Cet homme est un aventurier que les mauvais succes ne rebutent point. Le Maréchal de Gassion, si aventurier pour les partis &amp; si brusque à charger, craignoit les engagemens entiers</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>S</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>Evr</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
 
 <sense>
 <def>Ce nouvel Auteur est un aventurier qui se veut faire connoître en attaquant un Auteur celebre</def>
@@ -18166,16 +18118,28 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <def>C'est une des parties d'oraison qui ne se decline, ni ne se conjugue, &amp; qui se joint avec les verbes ou avec les adjectufs, pour expliquer la maniere d'agir, ou de souffrir, &amp; pour en marquer les differentes circonstances. Il agit constamment ; il est vivement poursuivi ; il est fort malade. Les adverbes se distinguent en adverbes de temps, de lieu, &amp; en un grand nombre d'autres. Ils augmentent, ou diminuent la force des mots avec lesquels ils sont joints. Notez qu'il ne faut pas placer l'adverbe trop loin de son verbe. Les adverbes de quantité veulent avoir l'article indefini après eux : il y a disette de bled. Il en faut excepter bien qui demande l'article defini : Il a bien de l'esprit, au lieu qu'on dit, il a beaucoup d'esprit avec l'article indefini, Il faut faire la même exception quand le verbe regit l'accusatif : Il aime trop les femmes. Si l'adverbe de quantité ne se raporte point à la chose dont on parle, mais seulement au verbe dont il amplifie, ou modifie la signification, en ce cas on se sert de l'article defini : Donnez-moi un peu de l'eau ; &amp; s'il se raporte à la chose, on dit, Donnez moi un peu d'eau. Il est bon de remarquer encore que le genitif, qui vient après les adverbes de quantité, donne la loi au verbe, &amp; le regit : Un grand nombre de temoins rapportent. La plupart des gens se laissent aller au vice</def>
 </sense>
 <pc>.</pc>
-
-<re><form>ADVERBIal</form>
-<pc>,</pc>
-<gramGrp>ae</gramGrp>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Qui tient de</form>
-<def>l'adverbe ; phrase qui se fait de deux ou trois mots qui ont la force d'un adverbe, comme : A tâtons, est un mot adverbial ; une phrase adverbiale. C'est au pis aller. Coup sur coup. De temps en temps</def>
-<pc>.</pc></re>
+</entry>
+              <entry>
+                  <form type="lemmaGrp">
+                      <form type="lemma">
+                          <orth>ADVERBIAL</orth>
+                          <pc>,</pc>
+                      </form>
+                      
+                      <form type="inflected">
+                          <orth>ale</orth>
+                          <pc>.</pc>
+                      </form>
+                      <gramGrp>
+                          <pos>adj</pos>
+                          <pc>.</pc>
+                          
+                      </gramGrp>
+                  </form>
+                  <sense>
+                      <def> Qui tient de l'adverbe ; phrase qui se fait de deux ou trois mots qui ont la force d'un adverbe, comme : A tâtons, est un mot adverbial ; une phrase adverbiale. C'est au pis aller. Coup sur coup. De temps en temps</def>
+<pc>.</pc>
+                  </sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -18291,18 +18255,6 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <def>Disgrace ; malheur ; état fâcheux où l'on se trouve par la perte de la santé de l'honneur, ou des biens. Job souffrit constamment son adversité Dieu éprouve ses Elus par l'adversité. La vertu se recueille, &amp; se reunit dans l'adversité ; au lieu qu'elle se relâche, &amp; se dissipe dans le bonheur. Fl. Il est plus aisé ds resister aux chagrins de l'adversité, qu'aux charmes de la prosperité. Oe. M. Les plus courageux succombent souvent sous les adversitez extrêmes. Ie. Un ami soulage le poids de l'adversité, parcequ'il en prend la moitié sur lui-même. Dis. de Lam. L'homme ne sçauroit tenir ni contre la prosperité, ni contre l'adversité. Fl. Il n'y a rien qui s'use tant, &amp; qui s'épuise si aisément, que les consolations dans l'adversité</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>B</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>Rab</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
-
 <sense>
 <def>Les delivrances rasseurent la foi ; au lieu que l'adversité affoiblit la confiance en Dieu. Payon</def>
 </sense>
@@ -18676,17 +18628,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <def>est nouveau, &amp; signifie flaterie. Le foible des Grands est d'aimer à être trompez, &amp; à écouter avec plaisir l'adulation &amp; le mensonge, dont on nourrit sans cesse leur amour propre. Le P. Bourd. Les femmes doivent plus à nos adulations, qu'à leur merite</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>S</orth>
-</form>
-</form>
-<pc>.</pc>
 
-<sense>
-<def>Evr</def>
-<pc>.</pc></sense>
-</entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>ADULTE</orth>
@@ -18949,11 +18891,11 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ADVOUE</orth>
+<orth>ADVOUÉ</orth>
 </form>
 <pc>,</pc>
 <form type="variant">
-<orth>ou AVOUE</orth>
+<orth>ou AVOUÉ</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -18992,28 +18934,9 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <def>Reconnoître la verité ; confesser, demeurer d'accord qu'une chose est véritable. Avouër le fait. Avouër ingenûment son crime. Je vous avouë que je n'y comprends rien. Voilà, je vous l'avouë, un abominable homme. Mol. Il faut avouër que la Providence divine est merveilleuse</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ADV</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>ADU</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>E</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>AER</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
-<def>Ce criminel a tout avoé à la queston. La malignité des hommes a de la peine à convenir de nos bonnes qualitez. Ils les avoient plutôt qu'ils ne les souhaitent. La Pla</def>
+<def>Ce criminel a tout avoué à la queston. La malignité des hommes a de la peine à convenir de nos bonnes qualitez. Ils les avoient plutôt qu'ils ne les souhaitent. La Pla</def>
 </sense>
 <pc>.</pc>
 
@@ -19089,6 +19012,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <gloss>d'advotare</gloss>
 <pc>.</pc></etym>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>ADUSTE</orth>
@@ -19148,8 +19072,10 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 <gloss>Sa maladie est causée par une adustion d'humeurs</gloss>
 <pc>.</pc></etym>
+    
 </entry>
 </div>
+          
 <div>
 <head>AE<pc>.</pc></head>
 <entry><form type="lemmaGrp">
@@ -19834,7 +19760,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AFFALE</orth>
+<orth>AFFALÉ</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -20589,7 +20515,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AFFIDE</orth>
+<orth>AFFIDÉ</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -21158,8 +21084,22 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <form>part</form>
 <form>.</form>
 <form>Pre</form>
-<def>sque tous ceux qui vont s'affliger avec les affigez, ne sentent rien de ce qu'ils disent sentir. M. Sc. C'est assez d'être du nombre des affligez, pour être de vos amis. Voit. Le temple de la Justice est le refuge inviolable des affigez. Pat. AFf AFFLUENCE. s. f. Abondance. L'affuence des eaux a rompu la chaussée de ces étangs. L'affluence des humeurs cause diverses maladies. Il y avoit une grande afliaence de peuple à l'entrée de la Reine. Le chemin étoit rompu par l'afluence des ruisseaux. Vaug. On dit aussi affiuence de paroles, mais le plus souvent en mauvaise part. Bon Dieu ! quelle afuence de paroles</def>
-<pc>.</pc></re>
+<def>sque tous ceux qui vont s'affliger avec les affigez, ne sentent rien de ce qu'ils disent sentir. M. Sc. C'est assez d'être du nombre des affligez, pour être de vos amis. Voit. Le temple de la Justice est le refuge inviolable des affigez. Pat.</def>
+</re>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma">AFFLUENCE</form>
+            <pc>.</pc>
+        </form>
+        <gramGrp>
+            <pos>s</pos>
+            <pc>.</pc>
+            <gen>f</gen>
+            <pc>.</pc>
+        </gramGrp>
+    <sense><def>Abondance. L'affuence des eaux a rompu la chaussée de ces étangs. L'affluence des humeurs cause diverses maladies. Il y avoit une grande afliaence de peuple à l'entrée de la Reine. Le chemin étoit rompu par l'afluence des ruisseaux. Vaug. On dit aussi affiuence de paroles, mais le plus souvent en mauvaise part. Bon Dieu ! quelle afuence de paroles</def>
+<pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -21277,7 +21217,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>Dimioution de force ; diminution de vigueur, &amp; se dit également bien dans le sens propre &amp; dans le figuré. Affoiblissement de corps. Afsoiblissement d'esprit. La fleur de l'âge se passe, &amp; la vigueur de la jeunesse a ses affoiblssemens. PortR. L'afsoiblissement de la Republique de Rome est venu de la grandeur de ses citoyens. La vie austere produit l'affoiblissement des passions. On dit l'affoiblissement des monnoyes</def>
+<def>Dimioution de force ; diminution de vigueur, &amp; se dit également bien dans le sens propre &amp; dans le figuré. Affoiblissement de corps. Afsoiblissement d'esprit. La fleur de l'âge se passe, &amp; la vigueur de la jeunesse a ses affoiblssemens. PortR. L'affoiblissement de la Republique de Rome est venu de la grandeur de ses citoyens. La vie austere produit l'affoiblissement des passions. On dit l'affoiblissement des monnoyes</def>
 </sense>
 <pc>.</pc>
 
@@ -21306,16 +21246,23 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <def>Rendre excessivement passonne ; toucher si sensiblement une personne, qu'elle en soit en quelque façon troublée. Il n'est gueres en usage que dans le stile familier, badin &amp; satirique, encore n'estce ordinairement qu'au participe. C'est la beauté de sa femme qui l'a affoé. Il étoit tellement entêté de cette opinion, qu'il en étoit affolé c'est-à-dire, qu'il en avoit presque perdu l'esprit. Clovis que l'amour affole, Aime les Galans de Cour. Gomb. Autrefois ce mot signifioit, Estropier un membre. Affoler une jambe, la blesser. Affoler une femme enceinte, la faire avorter. En ce sens il est hors d'usage. Du Cange derive ce mot de affolare, qui signifie, Toucher legerement, flatter en badinant</def>
 </sense>
 <pc>.</pc>
-
-<re><form>AFFOlE, ée</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Qui</form>
-<def>est si passionné, si sensiblement touché de quelque passion, qu'il approche de la folie. C'est un homme affolé de son amour propre. C'est une femme affolée de sa propre beauté. Tout cela n'est bon que dans le stile familier &amp; comique</def>
-</re>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma">AFFOLÉ</form>
+            <pc>,</pc>
+            <form type="inflected">ée</form>
+            <pc>.</pc>
+        </form>
+        <gramGrp>
+            <pos>adj</pos>
+            <pc>.</pc>
+            
+        </gramGrp>
+        <sense>
+<def>Qui est si passionné, si sensiblement touché de quelque passion, qu'il approche de la folie. C'est un homme affolé de son amour propre. C'est une femme affolée de sa propre beauté. Tout cela n'est bon que dans le stile familier &amp; comique</def>
 <pc>.</pc>
-
+        </sense>
 <sense>
 <usg>En termes de Marine</usg>
 <pc>,</pc>
@@ -21481,7 +21428,24 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>L'action d'affourrager. AFFOURRERou AFFOURRAGER. v. ac. Donner du fourrage, de la paile aux moutons, ou à d'autres bestiaux, pour vire &amp; sourrager</def>
+<def>L'action d'affourrager.
+    </def>
+    </sense>
+    <pc>.</pc>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>AFFOURRER</orth></form>
+            <form type="variant"><orth>ou AFFOURRAGER</orth></form>
+            <pc>.</pc>
+        </form>
+        <gramGrp>
+            <pos>v</pos>
+            <pc>.</pc>
+            <subc>ac</subc>
+            <pc>.</pc>
+        </gramGrp>
+        <sense><def>Donner du fourrage, de la paile aux moutons, ou à d'autres bestiaux, pour vivre &amp; fourrager</def>
 </sense>
 <pc>.</pc>
 
@@ -22176,7 +22140,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>A GA</orth>
+<orth>AGA</orth>
 </form>
 <pc>,</pc>
 <form type="variant">
@@ -22440,7 +22404,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </form>
 <pc>,</pc>
 <form type="variant">
-<orth>ou JATTtE</orth>
+<orth>ou JATTE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -22526,7 +22490,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AGE</orth>
+<orth>AGÉ</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -23267,7 +23231,8 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <gloss>parent</gloss>
 <pc>.</pc></etym>
 </entry>
-<entry><form type="lemmaGrp">
+<entry>
+    <form type="lemmaGrp">
 <form type="lemma">
 <orth>AGNEAU</orth>
 </form>
@@ -23291,25 +23256,13 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>,</pc>
 <gloss>car il perd ce nom dès qu'il a passé l'année ; ou d'arnos en Grec, qui signifie le même</gloss>
 <pc>.</pc></etym>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>AGN</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>AGO</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
-<form>Acneau</form>
+<form>Agneau</form>
 <pc>,</pc>
-<def>se dit figurément de l'homme, &amp; des animaux apprivoisez qui ont beaucoup de douceur. JesusChrist s'est laissé conduire à la mort comme un agneau. Cet homme est un agneau, tant il est docile à obeiïr. Ce cheval depuis qu'il est dompté, est un agneau</def>
+<def>se dit figurément de l'homme, &amp; des animaux apprivoisez qui ont beaucoup de douceur. Jesus-Christ s'est laissé conduire à la mort comme un agneau. Cet homme est un agneau, tant il est docile à obeiïr. Ce cheval depuis qu'il est dompté, est un agneau</def>
 </sense>
 <pc>.</pc>
-
 <sense>
 <form>Agneau</form>
 <pc>,</pc>
@@ -23324,7 +23277,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </form>
 <pc>,</pc>
 <form type="variant">
-<orth>ou AIGNEl</orth>
+<orth>ou AIGNEL</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -23332,7 +23285,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </form>
 <gramGrp>
 <pos>t</pos>
-<number>un vieux mot qui étoit le nom d'une ancienne monnoye d'or que fit battre S</number>
+<number>est un vieux mot qui étoit le nom d'une ancienne monnoye d'or que fit battre S</number>
 </gramGrp>
 </form>
 <pc>.</pc>
@@ -23408,12 +23361,15 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <gloss>Alphonse Ciccarelli a fait un Traité de l'origine, de la benediction, &amp; des vertus de l'Agnus Dei, dont le Pere Labbe fait mention en sa Bibliotheque</gloss>
 </etym>
 <pc>.</pc>
-
-<re><form>AGNuS CASTUs</form>
-<form>,</form>
-<form>e</form>
-<def>st un arbrisseau qui croit quelquefois à la hauteur d'un arbre sur les bords des rivieres &amp; des torrens, &amp; aux lieux âpres. Il jette des branches longues &amp; mal-aisées à rompre. Ses feuilles ressemblent a celles de l'olivier, mais elles sont plus molles. Sa fleur est ordinairement purpurine : il y en a quelquefois de blanche. Son fruit est comme le poivre, chaud &amp; astringent, de figure ronde &amp; semblable au petit cardamome. Les Grecs l'ont appellé agnos, c'està-dire, Chaste, parceque les Dames Atheniennes qui faisoient profession de chasteté, couchoient sur des feuilles d'Agnus Castus pendant les sacrifices de Ceres. Comme ces deux mots signifient la même chose, l'un en Grec, l'autre en Latin, il semble qu'il se falloit contenter de l'un ou de l'autre, &amp; ne les pas joindre tous deux ensemble. On l'appelle aussi en Latin Vitex. Se semence est en usage en Medecine, &amp; on dit que ceux qui s'en servent, peuvent plus facilement conserver leur chasteté</def>
-<pc>.</pc></re>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>AGNUS CASTUS</orth></form>
+            <pc>.</pc>   
+        </form>
+        <sense><def>est un arbrisseau qui croit quelquefois à la hauteur d'un arbre sur les bords des rivieres &amp; des torrens, &amp; aux lieux âpres. Il jette des branches longues &amp; mal-aisées à rompre. Ses feuilles ressemblent a celles de l'olivier, mais elles sont plus molles. Sa fleur est ordinairement purpurine : il y en a quelquefois de blanche. Son fruit est comme le poivre, chaud &amp; astringent, de figure ronde &amp; semblable au petit cardamome. Les Grecs l'ont appellé agnos, c'està-dire, Chaste, parceque les Dames Atheniennes qui faisoient profession de chasteté, couchoient sur des feuilles d'Agnus Castus pendant les sacrifices de Ceres. Comme ces deux mots signifient la même chose, l'un en Grec, l'autre en Latin, il semble qu'il se falloit contenter de l'un ou de l'autre, &amp; ne les pas joindre tous deux ensemble. On l'appelle aussi en Latin Vitex. Se semence est en usage en Medecine, &amp; on dit que ceux qui s'en servent, peuvent plus facilement conserver leur chasteté</def>
+<pc>.</pc>
+        </sense>
 </entry>
 </div>
 <div>
@@ -24252,13 +24208,13 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>A HI</orth>
+<orth>AHI</orth>
 </form>
 </form>
 <pc>.</pc>
 
 <sense>
-<def>C'est une sorte d'interjection inventée pour marquer le mouvement naturel d'une personne qui sent de AHO AHU. AIA.AID. la douleur, Ahi, Ahi, à l'aide, au meurtre, au secours, on m'assomme. Mol. Elle sert aussi à marquer quelque degoût, quelque mepris. Ahi laissons cela, je vous prie. Ahi que me dites vous là</def>
+<def>C'est une sorte d'interjection inventée pour marquer le mouvement naturel d'une personne qui sent de la douleur, Ahi, Ahi, à l'aide, au meurtre, au secours, on m'assomme. Mol. Elle sert aussi à marquer quelque degoût, quelque mepris. Ahi laissons cela, je vous prie. Ahi que me dites vous là</def>
 <pc>.</pc></sense>
 </entry>
 </div>
@@ -25211,7 +25167,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AIGUEMARINE</orth>
+<orth>AIGUE MARINE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -25293,16 +25249,9 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <def>Petit fer pointu &amp; delié, qui sert à coudre, à broder, &amp; à faire d'autres ouvrages. Broderie faite à l'aiguille. Le cul d'une aiguille, c'est l'endroit où elle est percée, par ouù on passe le fil, ou la soye. Une piqueure d'aiguille</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>J</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
-<def>Christ a dit qu'un cable entreroit plutôt dans le trou d'une aiguille, qu'un riche dans le Royaume des cieux. La pointe d'une aiguille la plus deliée vue avec le microscope, ressemble à une cheville rompuë par le bout, &amp; ses côtez paroissent raboteux &amp; pleins de cavitez</def>
+<def>J. Christ a dit qu'un cable entreroit plutôt dans le trou d'une aiguille, qu'un riche dans le Royaume des cieux. La pointe d'une aiguille la plus deliée vue avec le microscope, ressemble à une cheville rompuë par le bout, &amp; ses côtez paroissent raboteux &amp; pleins de cavitez</def>
 </sense>
 <pc>.</pc>
 
@@ -25418,12 +25367,21 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <def>Certaine quantité de fil, de soye, de laine, qu'on passe dans une aiguille, proportionnée à l'étendue du bras qui la tire</def>
 </sense>
 <pc>.</pc>
-
-<re><form>AIGUILLES de Bordeaux</form>
-<form>.</form>
-<form>C</form>
-<def>'est le nom d'un bateau pêcheur de la riviere de Dordogne, &amp; de Garonne</def>
-<pc>.</pc></re>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>AIGUILLES de Bordeaux</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos></pos>
+                <pc>.</pc>
+                <gen></gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+<sense>
+<def>C'est le nom d'un bateau pêcheur de la riviere de Dordogne, &amp; de Garonne</def></sense>
+<pc>.</pc>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -26213,16 +26171,26 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <ref>Men</ref>
 </etym>
 <pc>.</pc>
-
-<sense>
-<form>ANS Aingois. adv</form>
-<pc>.</pc>
-<usg>Ce sont de vieux mots qui signifioient autrefois Mais</usg>
-<pc>.</pc>
-<def>On dit encore dans le burlesque, Ains au contraire, pour dire, Tout au rebours</def>
-<pc>.</pc>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>AINS</orth></form>
+            <pc>,</pc>
+            <form type="variant">Ainçois</form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>adv</pos>
+                <pc>.</pc>
+                
+            </gramGrp>
+        </form>
+        <sense>    
+<usg>Ce sont de vieux mots</usg> <def>qui signifioient autrefois Mais. On dit encore dans le burlesque, Ains au contraire, pour dire, Tout au rebours
+<pc>.</pc></def>
+        </sense>
 <etym>Ce mot vient de l'Italien anzi, qui a été fait de ante. Men. D'autres le derivent du Grec anti, ou du Latin ast, parce que c'est un terme correctif qui marque quelque objection, ou quelque chose de contraire</etym>
 <pc>.</pc>
+        <sense>
 <def>On disoit autrefois Ainfné, pour dire, l'Aisné, celui qui est né avant les autres, comme on disoit Maisié, pour dire Puisné</def>
 <pc>.</pc></sense>
 </entry>
@@ -26726,8 +26694,8 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 <ref>Menage</ref>
 <pc>.</pc></etym>
-</entry>
-<entry><form type="lemmaGrp">
+    
+<re>
 <form type="lemma">
 <orth>A laise</orth>
 </form>
@@ -26735,13 +26703,12 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <gramGrp>
 <pos>adv</pos>
 </gramGrp>
-</form>
 <pc>.</pc>
 
 <sense>
 <def>Facilement, commodement. Vous pouvez à l'aise faire 20. lieuëes par jour sur ce cheval</def>
 </sense>
-<pc>.</pc>
+<pc>.</pc></re>
 
 <sense>
 <def>On est assis à l'aise dans ce fauteuil. Je suis entré à cette ceremonie tout à l'aise, sans être pressé. Nous pouvons rire à l'aise, &amp; prendre du bon temps. Boi. Avant lui Juvenal avoit dit en Latin, qu'on est assis à l'aise aux sermons de Cotin. Boi. On dit aussi paix &amp; aise ; pour dire, paisiblement &amp; doucement. Il vit chez lui paix &amp; aise</def>
@@ -26816,7 +26783,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AISEMENT</orth>
+<orth>AISÉMENT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -26831,7 +26798,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AISNE</orth>
+<orth>AISNÉ</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -27107,7 +27074,25 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>Arbrisseau du Bresil, qui porte un fruit rouge. AJUSTAGESou AJUTAGES. s. m. plur. Terme de Fonteinier ; sont des tuyaux de fer blanc ou de cuivre, qu'on met à l'ouverture d'un jet d'eau, pour faire des jets de differentes sortes, &amp; en determiner la grosseur, en pluye, en nappe, en soleil, en verre, suivant la differente figure qu'ont les têtes de ces ajutages. Il y a des ajutages à tête d'arrosoir ; d'autres forment des fleurs de lys</def>
+<def>Arbrisseau du Bresil, qui porte un fruit rouge.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>AJUSTAGES</orth></form>
+            <form type="variant">ou AJUTAGES</form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+                <number>plur</number>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Terme de Fonteinier ; sont des tuyaux de fer blanc ou de cuivre, qu'on met à l'ouverture d'un jet d'eau, pour faire des jets de differentes sortes, &amp; en determiner la grosseur, en pluye, en nappe, en soleil, en verre, suivant la differente figure qu'ont les têtes de ces ajutages. Il y a des ajutages à tête d'arrosoir ; d'autres forment des fleurs de lys</def>
 </sense>
 <pc>.</pc>
 
@@ -27794,7 +27779,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ALBRENEÉ</orth>
+<orth>ALBRENÉ</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -29765,7 +29750,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ALLEFGEANCE</orth>
+<orth>ALLEGEANCE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -30178,38 +30163,9 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <usg>On dit en termes de Venerie</usg>
 <pc>,</pc>
-<def>Aller sur soi, se suraller,</def>
-</sense>
-</entry>
-         
-<entry><form type="lemmaGrp">
-<pc>s</pc>
-<form type="inflected">
-<orth type="part">e surmarcher</orth>
-</form>
-<pc>,</pc>
-<form type="inflected">
-<orth type="part">pour dire</orth>
-</form>
-<pc>,</pc>
-<form type="inflected">
-<orth type="part">Revenir sur ses erres</orth>
-</form>
-<pc>,</pc>
-<form type="inflected">
-<orth type="part">sur ses pas</orth>
-</form>
-<pc>,</pc>
-<form type="inflected">
-<orth type="part">repass</orth>
-</form>
-<gramGrp>
-<pos>er</pos>
-<number>par le même lieu</number>
-</gramGrp>
-</form>
+<def>Aller sur soi, se suraller, se surmarcher, pour dire, Revenir sur ses erres sur ses pas, repasser par le même lieu</def>
 <pc>.</pc>
-
+</sense>
 <sense>
 <usg>En termes de Marine</usg>
 <def>on dit aller le vent largue. C'est avoir le vent par le travers, ensorte qu'on ne soit point obligé de haler les boulines. Aller au plus près du vent: c'est cingler à six quarts du rumb d'où il vient. Aller à la bouline grasse, ou à la grasse bouline, est se servir d'un vent éloigné du lieu de la route par un intervalle d'environ six rumbs. Aller proche du vent, ou aller à la bouline, c'est se servir d'un vent qui semble contraire à la route, &amp; prendre ce vent de biais, en mettant les voiles de côté par le moyen des boulines. Aller debout au vent, ou avoir le vent par prouë ; c'est aller contre le vent, ou à vent contraire, comme il arrive aux petits bâtimens. Aller au lof, c'est chercher l'avantage du vent, &amp; la même chose qu'aller au plus prés du vent. Aller à la derive ; c'est aller de côté au gré du vent, &amp; de la marée, au lieu d'aller en droiture. Aller terre à terre ; c'est ranger la côte ; naviguer en côtoyant le rivage. Aller à trait, &amp; à rame ; c'est aller avec les voiles, &amp; avec les rames. Aller à mâts, &amp; à cordes ; c'est quand on a abaissé les verges, &amp; les voiles, pour éviter la fureur du vent. Aller à la sonde ; est, quand on se trouve dans un païs inconnu, ou dangereux, aller en sondant le fond. Aller entre deux écoutes, est aller contre un vaisseau ennemi pour l'enlever</def>
@@ -31221,7 +31177,22 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <usg>Terme de Marine</usg>
 <pc>.</pc>
-<def>Ce sont de petites barques de quatre brasses de long, faites souvent d'écorce de bois, dont usent les Sauvages de la côte d'Afrique. C'est aussi un vaisseau des Indes, long de 80. pieds, &amp; large de six ou sept, qui ressemble à une navette, à la reserve de son derriere qui est quarré ALMAGESTE. s. m. Terme qui se dit d'un livre fameux composé par Ptolomée, où il a recueilli un grand nombre de probiêmes des Anciens, servant à la Geometrie, &amp; à l'Astronomie. Il est intitulé en Grec, cuvmafic aeyuisn ce dernier mot joint avec l'article Arabe al, lui a fait donner le nom d'Almageste par les Arabes, quand il fut traduit par l'ordre de Maimon Calyphe de Babylone vers l'an 8o0. Almagesthi est le mot Arabe ; &amp; nous en avons fait Almageste. Le Pere Jean Baptiste Riccioli a fait aussi une Astronomie reformée, qu'il appelle Almageste nouveau, où il a compilé toutes les observations des Astronomes anciens, &amp; modernes, &amp; en a conferé les hypotheses</def>
+<def>Ce sont de petites barques de quatre brasses de long, faites souvent d'écorce de bois, dont usent les Sauvages de la côte d'Afrique. C'est aussi un vaisseau des Indes, long de 80. pieds, &amp; large de six ou sept, qui ressemble à une navette, à la reserve de son derriere qui est quarré.</def>
+</sense>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>ALMAGESTE</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Terme qui se dit d'un livre fameux composé par Ptolomée, où il a recueilli un grand nombre de probiêmes des Anciens, servant à la Geometrie, &amp; à l'Astronomie. Il est intitulé en Grec, cuvmafic aeyuisn ce dernier mot joint avec l'article Arabe al, lui a fait donner le nom d'Almageste par les Arabes, quand il fut traduit par l'ordre de Maimon Calyphe de Babylone vers l'an 8o0. Almagesthi est le mot Arabe ; &amp; nous en avons fait Almageste. Le Pere Jean Baptiste Riccioli a fait aussi une Astronomie reformée, qu'il appelle Almageste nouveau, où il a compilé toutes les observations des Astronomes anciens, &amp; modernes, &amp; en a conferé les hypotheses</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -31658,10 +31629,45 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </gramGrp>
 </form>
 <pc>.</pc>
-
 <sense>
-<def>Graine pâle, &amp; ovale, qui tire sur la couleur isabelle. Elle sert à nourir les serins de CaALT. signifie la même chose. Et c'est pour cela qu'ils retiennent l'h &amp; qu'ils la font aspirée : faire la halte</def>
+<def>Graine pâle, &amp; ovale, qui tire sur la couleur isabelle. Elle sert à nourir les serins de Canarie.</def>
 </sense>
+</entry>
+    <entry><form type="lemmaGrp">
+        <form type="lemma">
+            <orth>ALQUAGUENGE</orth>
+        </form>
+        <pc>.</pc>
+        <form type="inflected">
+            <orth type="part">Simple</orth>
+        </form>
+    </form>
+        <pc>.</pc>
+        
+        <sense>
+            <def>Latin solanum</def>
+            <pc>.</pc></sense>
+    </entry>
+</div> 
+    <div>
+    <head>ALT<pc>.</pc></head>
+        <entry>
+            <form type="lemmaGrp">
+                <form type="lemma"><orth>ALTE</orth></form>
+                <pc>.</pc>
+                <gramGrp>
+                    <pos>s</pos>
+                    <pc>.</pc>
+                    <gen>f</gen>
+                    <pc>.</pc>
+                </gramGrp>
+            </form>
+            <sense>
+                <def>Arrêt, ou pause que font les gens de guerre en marchant. Il y avoit tant de defilez, qu'il falloit faire alte à tous momens. Ils font des altes à toute heure pour s'entre-secourir. Abl. L'armée fit cette marche malgré toutes ses altes.</def>
+            </sense>
+            <etym>
+                <lbl>Ce mot, selon quelques-uns, vient de l'</lbl><lang>Italien</lang> <foreign>alto</foreign><pc>,</pc> <gloss>à cause que l'on tient les piques hautes dès que les troupes sont arrêtées.</gloss> <lbl>Les autres veulent qu'il vienne de l'</lbl><lang>Allemand</lang> <foreign>halten</foreign><pc>,</pc> <gloss>quisignifie la même chose. Et c'est pour cela qu'ils retiennent l'h &amp; qu'ils la font aspirée : faire la halte</gloss>
+            </etym>
 <pc>.</pc>
 
 <re><form>Alte-la</form>
@@ -31673,7 +31679,22 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>:</pc>
 
 <sense>
-<def>Ate-là mon beau-frere, Vous ne connoissez, pas celui dont vous parlez. Mol. Alte la-dessus. Pour dire, brisons-là : n'en parlons pas davantage. Mol. alteré &amp; changé ; qui est sujet à l'alteration, &amp; au changement. Les metaux ne sont pas tous également alterables</def>
+<def>Alte-là mon beau-frere, Vous ne connoissez, pas celui dont vous parlez. Mol. Alte la-dessus. Pour dire, brisons-là : n'en parlons pas davantage. Mol.</def>
+</sense>
+        </entry>
+        <entry>
+            <form type="lemmaGrp">
+                <form type="lemma"><orth>ALTERABLE</orth></form>
+                <pc>.</pc>
+                <gramGrp>
+                    <pos>adj</pos>
+                    <pc>.</pc>
+                    <gen>de tout genre</gen>
+                    <pc>.</pc>
+                </gramGrp>
+            </form>
+            <sense>
+                <def>Qui peut être alteré &amp; changé ; qui est sujet à l'alteration, &amp; au changement. Les metaux ne sont pas tous également alterables</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -31801,43 +31822,6 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ALQUAGUENGE</orth>
-</form>
-<pc>.</pc>
-<form type="inflected">
-<orth type="part">Simple</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Latin solanum</def>
-<pc>.</pc></sense>
-</entry>
-</div>
-<div>
-<head>ALT<pc>.</pc></head>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ALTE</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>s</pos>
-<pc>.</pc>
-<gen>f</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Arrêt, ou pause que font les gens de guerre en marchant. Il y avoit tant de defilez, qu'il falloit faire alte à tous momens. Ils font des altes à toute heure pour s'entre-secourir. Abl. L'armée fit cette marche malgré toutes ses altes</def>
-<pc>.</pc>
-<etym>Ce mot, selon quelques-uns, vient de l'Italien alto, à cause que l'on tient les piques hautes dès que les troupes sont arrêtées. Les autres veulent qu'il vienne de l'Allemand halten, qui qui signifioit simplen s'entretenir ensembte catio, dialogue</etym>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
 <orth>ALTERER</orth>
 </form>
 <pc>.</pc>
@@ -31954,11 +31938,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AL</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>TERNE</orth>
+<orth>ALTERNE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -31987,7 +31967,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ALTERNE</orth>
+<orth>ALTERNÉ</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -33445,7 +33425,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ABITIONNER</orth>
+<orth>AMBITIONNER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -33751,7 +33731,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>HMBULANT</orth>
+<orth>AMBULANT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -33825,16 +33805,9 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <def>Les Mystiques distinguent deux parties dans l'ame r la partie superieure ; c'est l'entendement, &amp; la volonté. La partie inferieure ; c'est l'imagination, &amp; les sens</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>J</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
-<def>Christ étoit heureux sur la croix par la partie superieure de son ame, &amp; souffroit par l'inferieure. La partie inferieure ne communiquoit à la superieure, ni son trouble involontaire, ni ses defaillances. La superieure ne communiquoit à l'inferieure ni sa paix, ni sa beatitude. Fen. Ceux qui abusent de cette separation disent, que dans les épreuves tout ce qui se passe contre les bonnes moeurs dans la partie inferieure de l'ame, n'est point contraire à la pureté de la partie superieure, parceque la volonté n'y a point de part</def>
+<def>J. Christ étoit heureux sur la croix par la partie superieure de son ame, &amp; souffroit par l'inferieure. La partie inferieure ne communiquoit à la superieure, ni son trouble involontaire, ni ses defaillances. La superieure ne communiquoit à l'inferieure ni sa paix, ni sa beatitude. Fen. Ceux qui abusent de cette separation disent, que dans les épreuves tout ce qui se passe contre les bonnes moeurs dans la partie inferieure de l'ame, n'est point contraire à la pureté de la partie superieure, parceque la volonté n'y a point de part</def>
 </sense>
 <pc>.</pc>
 
@@ -33956,7 +33929,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AME</orth>
+<orth>AMÉ</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -34498,25 +34471,9 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>Quelques-uns disent amathiste ; mais amethste est beaucoup plus usité ; Menage n'en convient pas. Pierre precieuse qui est la plus belle après l'émeraude. Quand elle est taillée au cadran à huit pans, elle a la couleur satinée. Quand sa table est ronde, &amp; en cabochon, elle est veloutée. Il y en a de trois sortes</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>AME</orth>
-</form>
+<def>Quelques-uns disent amathiste ; mais amethste est beaucoup plus usité ; Menage n'en convient pas. Pierre precieuse qui est la plus belle après l'émeraude. Quand elle est taillée au cadran à huit pans, elle a la couleur satinée. Quand sa table est ronde, &amp; en cabochon, elle est veloutée. Il y en a de trois sortes. Les Orientales qui sont les plus dures, les plus rares &amp; les plus estimées, sont de couleur colombine ; celles de Carthagene de couleur de pensée ; celles d'Allemagne violettes ; &amp; on les nomme quelquefois Rubis violets, quand leur table est en cabochon. Il y en a aussi d'Orientales qui ont la couleur de pourpre ; d'autres blanches, &amp; semblables au diamant. Les Indiens les mêlent ensemble dans leurs ouvrages. Elles ont une grande vivacité &amp; dureté, &amp; reçoivent un poliment admnirable. Plutarque dit que son nom vient de ce que sa couleur ressemble au vin trempé d'eau, &amp; non pas à cause qu'elle empêche de s'enyvrer, comme plusieurs ont cru fort legerement, qui en pendoient pour cela au cou des beuveurs. En Latin Amethystus. Ceux qui croyent que cette pierre precieuse empêche de s'enyvrer, font venir ce mot de l'a privatif &amp; de aeleruo, inebrior</def>
 <pc>.</pc>
-<form type="lemma">
-<orth>AMI</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<re><form>Les Orientales</form>
-<form>,</form>
-<form>qui</form>
-<def>sont les plus dures, les plus rares &amp; les plus estimées, sont de couleur colombine ; celles de Carthagene de couleur de pensée ; celles d'Allemagne violettes ; &amp; on les nomme quelquefois Rubis violets, quand leur table est en cabochon. Il y en a aussi d'Orientales qui ont la couleur de pourpre ; d'autres blanches, &amp; semblables au diamant. Les Indiens les mêlent ensemble dans leurs ouvrages. Elles ont une grande vivacité &amp; dureté, &amp; reçoivent un poliment admnirable. Plutarque dit que son nom vient de ce que sa couleur ressemble au vin trempé d'eau, &amp; non pas à cause qu'elle empêche de s'enyvrer, comme plusieurs ont cru fort legerement, qui en pendoient pour cela au cou des beuveurs. En Latin Amethystus. Ceux qui croyent que cette pierre precieuse empêche de s'enyvrer, font venir ce mot de l'a privatif &amp; de aeleruo, inebrior</def>
-<pc>.</pc></re>
+</sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -34698,8 +34655,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <def>Qui se dit d'un tiers qui fait office d'ami. On appelle un amiable compositeur, celui qui accommode un procés en ami, &amp; qui ne juge pas avec la rigueur un arbitre, en retranchant d'un peu du droit de chacune des parties</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
+<re>
 <form type="lemma">
 <orth>A lamiable</orth>
 </form>
@@ -34707,12 +34663,11 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <gramGrp>
 <pos>adv</pos>
 </gramGrp>
-</form>
 <pc>.</pc>
-
 <sense>
 <def>Avec douceur. Cette vente, ce decret ont été faits à l'amiable pour éviter les frais</def>
 <pc>.</pc></sense>
+</re>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -34766,7 +34721,22 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>C'est une pâte qui se fait avec du froment qu'on mouille, &amp; remouille cinq fois par jour, AMf. &amp; autant la nuit; pour le laisser bien fermenter ! puis on le brasse dans beaucoup d'eau, comme on fait l'orge quand on fait la bierre. On ôte le son qui nage sur l'eau avec un crible, ou un écumoir. La farine mêlée avec l'eau tombe au fond comme du caillé ; on verse l'eau par inclination, &amp; ce qui reste au fond est l'amidon, qu'on met sur des tables secher au soleil. L'empois se fait avec de l'amidon. Pline dit que ce sont les habitans de l'Iste de Chio qui ont invente l'amidon, &amp; que le meilleur vient de là. Dioscoride derive ce mot du Grec amylum, comme qui diroit, farine faite sans meulet AMIDONNIER. s. m. Ouvrier qui fait l'amidon</def>
+<def>C'est une pâte qui se fait avec du froment qu'on mouille, &amp; remouille cinq fois par jour, AMf. &amp; autant la nuit; pour le laisser bien fermenter ! puis on le brasse dans beaucoup d'eau, comme on fait l'orge quand on fait la bierre. On ôte le son qui nage sur l'eau avec un crible, ou un écumoir. La farine mêlée avec l'eau tombe au fond comme du caillé ; on verse l'eau par inclination, &amp; ce qui reste au fond est l'amidon, qu'on met sur des tables secher au soleil. L'empois se fait avec de l'amidon. Pline dit que ce sont les habitans de l'Iste de Chio qui ont invente l'amidon, &amp; que le meilleur vient de là. Dioscoride derive ce mot du Grec amylum, comme qui diroit, farine faite sans meulet.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth> AMIDONNIER</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Ouvrier qui fait l'amidon</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -35017,22 +34987,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>Aftection qu'on a pour quelcun, soit qu'elle soit seulement d'un côté, soit qu'elle soit reciproque. L'amitié est une convention tacite de s'aimer &amp; de s'estimer mutuellement. Oe. M. C'est l'amitié qui adoucit toutes les douleurs, qui redouble tous les plaisirs, &amp; qui fa t que dans les plus grandes infortunes, on trouve de la consolation. M. Scu. Ce que les hommes ont nommé amitié n'est qu'un commerce d'interêt, où l'amour propre se propose toujours quelque chose à gagner. La Roch. Rien n'est si beau que ce qu'on dit de l'amitié, il seroit seulement à souhaiter que cela fût veritable. M. Esp. Les passions violentes des jeunes gens rompent toutes les mesures de l'amitié</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>S</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>Evr</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Cette communication, &amp; cette échange si libre &amp; si sincere de sentimens qui se fait dans l'amitié, est le plus doux plaisir de l'esprit. M. Esp. Ces violentes amitiez d'Oreste &amp; de Pylade sont un peu chimeriques : &amp; la belle union de ces heros de l'amitié passeroit aujourd'huy pour un attachement outré, qui n'est bon qu'à faire le sujet d'une Tragedie. S. Evr. L'amitié consiste dans cette conformité universelle de sentimens qui fait aimer, &amp; hair les mêmes choses. Disc. de l'Am. L'amitié est fade quand on a senti de l'amour. La Roch. L'innocente amitié de la terre exilée, Retourna dans le ciel, où Dieu l'a rappellé e : Son nom seul est resté : l'espoir, l'ambition, Le plaisir, l'interet, emprunterent son nom</def>
+<def>Aftection qu'on a pour quelcun, soit qu'elle soit seulement d'un côté, soit qu'elle soit reciproque. L'amitié est une convention tacite de s'aimer &amp; de s'estimer mutuellement. Oe. M. C'est l'amitié qui adoucit toutes les douleurs, qui redouble tous les plaisirs, &amp; qui fa t que dans les plus grandes infortunes, on trouve de la consolation. M. Scu. Ce que les hommes ont nommé amitié n'est qu'un commerce d'interêt, où l'amour propre se propose toujours quelque chose à gagner. La Roch. Rien n'est si beau que ce qu'on dit de l'amitié, il seroit seulement à souhaiter que cela fût veritable. M. Esp. Les passions violentes des jeunes gens rompent toutes les mesures de l'amitié. Cette communication, &amp; cette échange si libre &amp; si sincere de sentimens qui se fait dans l'amitié, est le plus doux plaisir de l'esprit. M. Esp. Ces violentes amitiez d'Oreste &amp; de Pylade sont un peu chimeriques : &amp; la belle union de ces heros de l'amitié passeroit aujourd'huy pour un attachement outré, qui n'est bon qu'à faire le sujet d'une Tragedie. S. Evr. L'amitié consiste dans cette conformité universelle de sentimens qui fait aimer, &amp; hair les mêmes choses. Disc. de l'Am. L'amitié est fade quand on a senti de l'amour. La Roch. L'innocente amitié de la terre exilée, Retourna dans le ciel, où Dieu l'a rappellé e : Son nom seul est resté : l'espoir, l'ambition, Le plaisir, l'interet, emprunterent son nom</def>
 </sense>
 <pc>.</pc>
 
@@ -35326,7 +35281,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AMOINS</orth>
+<orth>A MOINS</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -35341,7 +35296,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AMOINSQUE</orth>
+<orth>A MOINS QUE</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -35377,7 +35332,17 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 <xr>Voyez Moise</xr>
 <pc>.</pc>
-<def>AMOlETTES. C'est ainsi qu'on appelle les trous où l'on passe les barres du cabestan &amp; du virevau</def>
+</sense>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+        <form type="lemma">
+            <orth>AMOLETTES</orth>
+        </form>
+        <pc>.</pc>  
+    </form>
+        <sense>
+            <def>C'est ainsi qu'on appelle les trous où l'on passe les barres du cabestan &amp; du virevau</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -35609,7 +35574,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AMORCOIR</orth>
+<orth>AMORÇOIR</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -35854,18 +35819,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>Amoureux, euse. adj. Se dit des choses qui sont les instrumens de l'amour, ou qui concernent l'amour. Regards amoureux. Desirs amoureux. Vers, &amp; billets tendres &amp; amoureux. Faveurs amoureuses. Je hais ces vains Auteurs, qui fous de sens rassis, s'érigent pour rimer en amoureux transis. Boi. Secrets amoureux. Transports amoureux. Les Amans s'occupent de mille riens amoureux, pour eux seuls importans. Font. On dit poëtiquement: Languir dans l'empire amoureux</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>Q</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>FuyeFuyez la solitude, elle sert à nourrir Une amoureuse iquietude. Corn. Les Medecins appellent les deux muscles obliques de l'oeuil, amoureux, circulaires &amp; rotateurs, parceque leur mouvement marque de la tendresse ou de la passion</def>
+<def>Amoureux, euse. adj. Se dit des choses qui sont les instrumens de l'amour, ou qui concernent l'amour. Regards amoureux. Desirs amoureux. Vers, &amp; billets tendres &amp; amoureux. Faveurs amoureuses. Je hais ces vains Auteurs, qui fous de sens rassis, s'érigent pour rimer en amoureux transis. Boi. Secrets amoureux. Transports amoureux. Les Amans s'occupent de mille riens amoureux, pour eux seuls importans. Font. On dit poëtiquement: Languir dans l'empire amoureux. Fuyez, Fuyez la solitude, elle sert à nourrir Une amoureuse iquietude. Corn. Les Medecins appellent les deux muscles obliques de l'oeuil, amoureux, circulaires &amp; rotateurs, parceque leur mouvement marque de la tendresse ou de la passion</def>
 </sense>
 <pc>.</pc>
 
@@ -36355,7 +36309,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AMPLITUDEORTVE</orth>
+<orth>AMPLITUDE ORTVE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -36764,30 +36718,9 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <usg>Termes synonymes</usg>
 <pc>.</pc>
-<def>Mesure du temps que le soleil, ou la lune, employe pour revenir au même point du Zodiaque. L'année solaire est de 365. jours, cinq heures, 49. minutes,</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>16</orth>
-</form>
+<def>Mesure du temps que le soleil, ou la lune, employe pour revenir au même point du Zodiaque. L'année solaire est de 365. jours, cinq heures, 49. minutes, 16 secondes L'année lunaire est de 354. jours, &amp; 49 minutes, pendant lesquels elle parcourt douze fois le Zodiaque. L'an solaire est ou astronomique, ou civil. L'astronomique est ou tropique, ou astral. Le tropique, ou naturel consiste dans le temps que le soleil employe à parcourir le Zodiaque. L'astral est l'espace que le soleil employe à retourner au même astre d'où il s'étoit éloigné. L'an civil ou politique, est la forme de l'année que chaque nation a établie pour compter le temps. Les Astronomes font une autre division de l'année. IIs distinguent l'an planetaire ; l'an émergent, &amp; l'an climaterique. L'année planetaire, est le temps qu'une planete employe à parcourir le Zodiaque par son mouvement propre d'Occident en Orient. Ainsi l'an planetaire de la lune, est de 27. jours. L'an du soleil, de Venus, &amp; de Mercure, est de 365. jours. L'an de Mars est de deux ans. L'an de Jupiter de 12. ans ; &amp; l'an de Saturne de 30. ans. Ces années planetaires s'appellent aussi, periodes. L'an émergent, est l'époque où chaque peuple commence à compter : comme les Grecs par la I. Olympiade. L'année climaterique est l'espace de 7. ou de 9. ans, pendant lesquels on pretend qu'il arrive quelque changement dans le temperament de chaque personne. En particulier à l'égard de l'année lunaire on la distingue en commune, &amp; embolisimique. L'an lunaire commun est de 354. jours. L'an embolismique est celui où l'on intercaloit un 13. mois lunaire : ensorte que cette année embolismique étoit de 384. jours</def>
 <pc>.</pc>
-<form type="inflected">
-<orth type="part">secondes</orth>
-</form>
-<pc>.</pc>
-<pron>L'année lunaire est de 354. jours, &amp; a9</pron>
-</form>
-<pc>.</pc>
-
-<re><form>minutes</form>
-<form>,</form>
-<form>pendant le</form>
-<pc>s</pc>
-<def>quels elle parcourt douze fois le Zodiaque. L'an solaire est ou astronomique, ou civil. L'astronomique est ou tropique, ou astral. Le tropique, ou naturel consiste dans le temps que le soleil employe à parcourir le Zodiaque. L'astral est l'espace que le soleil employe à retourner au même astre d'où il s'étoit éloigné. L'an civil ou politique, est la forme de l'année que chaque nation a établie pour compter le temps. Les Astronomes font une autre division de l'année. IIs distinguent l'an planetaire ; l'an émergent, &amp; l'an climaterique. L'année planetaire, est le temps qu'une planete employe à parcourir le Zodiaque par son mouvement propre d'Occident en Orient. Ainsi l'an planetaire de la lune, est de 27. jours. L'an du soleil, de Venus, &amp; de Mercure, est de 365. jours. L'an de Mars est de deux ans. L'an de Jupiter de 12. ans ; &amp; l'an de Saturne de 30. ans. Ces années planetaires s'appellent aussi, periodes. L'an émergent, est l'époque où chaque peuple commence à compter : comme les Grecs par la I. Olympiade. L'année climaterique est l'espace de 7. ou de 9. ans, pendant lesquels on pretend qu'il arrive quelque changement dans le temperament de chaque personne. En particulier à l'égard de l'année lunaire on la distingue en commune, &amp; embolisimique. L'an lunaire commun est de 354. jours. L'an embolismique est celui où l'on intercaloit un 13. mois lunaire : ensorte que cette année embolismique étoit de 384. jours</def>
-</re>
-<pc>.</pc>
-
+</sense>
 <sense>
 <def>Les hommes curieux de decouvrir la cause de la vicissitude des saisons, s'apperçurent bien-tôt que l'éloignement, ou la proximité du soleil produisoit cette diversité ; &amp; ils appellerent année, tout l'espace de temps que le soleil employe à parcourir l'intervalle dans lequel il roule sans cesse. Cependant l'on n'a point fait par tout le même calcul du cours du soleil. Si l'on en croit Herodote, les Egyptiens ont les premiers distingué l'année en 12 mois, qui faisoient 360. jours. Mercure y ajouta 5. jours : &amp; l'on dit que Thales institua l'anne sur le même pied chez les Grecs. Cela n'étoit pourtant point general dans la Grece. Il y avoit trop de villes independantes les unes des autres, pour convenir d'une regle uniforme. L'année des Hebreux étoit mixte ; car quoyqu'elle fut dirigée selon le cours de la lune, c'està-dire de 12 mois lunaires, ils intercaloient tous les 3. aus un mois de 3. jours ; &amp; par cette augmentation leur année se raprochoit à la mesure de l'amée solaire. Les Romains commençoient leur année aux calendes de Janvier. Romulus peu versé dans l'Astronomie, abregea l'année en 10. mois qui s'achevoient en 1304. jours</def>
 </sense>
@@ -37806,7 +37739,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ANCHE</orth>
+<orth>ANCHÉ</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -38827,12 +38760,18 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <def>est encore une espece de monnoye qui étoit en usage vers l'an 1240. &amp; qui valoit un écu d'or fin. Il y en a eu de divers poids &amp; de divers prix. Ils portoient l'image de St. Michel, qui tenoit une épée à la main droite, &amp; à la gauche un Ecu chargé de trois fleurs de lys, ayant à ses pieds un serpent. On en voyoit du temps de Louïs XI. Il y en a eu d'autres qui avoient la figure d'un Ange, lequel portoit les Ecus de France, &amp; d'Angleterre, battus du temps de Henri VI. Roi d'Angleterre. Ils valoient quinze sous. Ils furent frappez pendant que les Anglois étoient maîtres de Paris</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<form>ANGELUS</form>
-<pc>,</pc>
-<def>est une priere à la Vierge qui commence par le mot d'Angelus, &amp; qui se fait trois fois le jour, lorsqu'on sonne trois petits coups de la cloche, &amp; par trois fois, pour avertir de la faire. On appelle cela autrement le pardon, parcequ'on gagne des indulgences en la recitant. Les petits coups que l'on sonne s'appellent aussi l'Angelius</def>
-<pc>.</pc></sense>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+        <form type="lemma">
+            <orth>ANGELUS</orth>
+        </form>
+        <pc>,</pc>
+    </form>   
+        <sense>
+            <def>est une priere à la Vierge qui commence par le mot d'Angelus, &amp; qui se fait trois fois le jour, lorsqu'on sonne trois petits coups de la cloche, &amp; par trois fois, pour avertir de la faire. On appelle cela autrement le pardon, parcequ'on gagne des indulgences en la recitant. Les petits coups que l'on sonne s'appellent aussi l'Angelius</def>
+<pc>.</pc>
+        </sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -38928,7 +38867,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ANGLE</orth>
+<orth>ANGLÉ</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -41290,7 +41229,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ANTIOINE</orth>
+<orth>ANTIMOINE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -41706,10 +41645,9 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <def>Se dit des ouvrages de Peinture , Sculpture, &amp; Architecture, qui ont été faits du temps des anciens Grecs &amp; Romains, depuis Alexandre le Grand jusqu'à l'Empereur Phocas, &amp; à la desolation des Barbares. Cette statuë n'est pas d'un Sculpteur moderne, c'est une Antique. La sale des Antiques du Louvre. En ce sens on le dit seulement des statuës. Il y a des choses antiques que l'on nomme antiques modernes : comme les Eglises anciennes, &amp; autres bâtimens Gothiques, pour les distinguer de ceux des Grecs &amp; des Romains. Il y a des Peintres qui se sont entierement attachez à l'Antique pour les draperies. Fel. On dit aussi par raillerie d'une vieille femme, que c'est une Antique. Elle a un air d'antique, pour dire, un air du vieux temps</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
+<re><form type="lemmaGrp">
 <form type="lemma">
-<orth>A lantique</orth>
+<orth>A l'antique</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -41720,7 +41658,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 
 <sense>
 <def>A la vieille mode. Il s'est fait peindre habillé à l'antique. Ce buste de femme est coeffé à l'antique</def>
-<pc>.</pc></sense>
+<pc>.</pc></sense></re>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -42061,7 +41999,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
               <head>ANU<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>A NUIT</orth>
+<orth>ANUIT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -42321,11 +42259,13 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <head>APA<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>APANAG E</orth>
+<orth>APANAGE</orth>
 </form>
 <pc>,</pc>
 <form type="variant">
-<orth>autrefois, APENNAGE</orth>
+    <lbl>autrefois</lbl>
+    <pc>,</pc>
+<orth>APENNAGE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -42633,8 +42573,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <def>Presque tout. Je vous raporte à-peu-près la substance de sa harangue. Vaug</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
+<re>
 <form type="lemma">
 <orth>A-peu-pres</orth>
 </form>
@@ -42643,15 +42582,10 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pos>adv</pos>
 </gramGrp>
 <pc>.</pc>
-<form type="inflected">
-<orth type="part">Presque</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
-<def>Me voilà à-peu-près aussi incertain que j'étois. Mol</def>
-<pc>.</pc></sense>
+<def>Presque. Me voilà à-peu-près aussi incertain que j'étois. Mol</def>
+<pc>.</pc></sense></re>
 </entry>
 </div>
 <div>
@@ -44628,18 +44562,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>Il se dit particulierement des substances spirituelles. Dieu a souvent apparu aux Patriarches, &amp; à plusieurs Saints sous diverses formes</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>J</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Christ a apparu à deux Disciples sous la forme d'un Pelerin. Le St. Esprit apparut sous la forme d'une colombe, au Batême de nôtre Seigneur. Il y a quantité de spectres, &amp; de fantômes qui apparoissent en songe, qui ne sont que des visions &amp; des imaginations</def>
+<def>Il se dit particulierement des substances spirituelles. Dieu a souvent apparu aux Patriarches, &amp; à plusieurs Saints sous diverses formes. J. Christ a apparu à deux Disciples sous la forme d'un Pelerin. Le St. Esprit apparut sous la forme d'une colombe, au Batême de nôtre Seigneur. Il y a quantité de spectres, &amp; de fantômes qui apparoissent en songe, qui ne sont que des visions &amp; des imaginations</def>
 </sense>
 <pc>.</pc>
 
@@ -47599,7 +47522,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <head>APR<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>APRÉS</orth>
+<orth>APRÈS</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -47667,7 +47590,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>APRES-DEMAIN</orth>
+<orth>APRÈS-DEMAIN</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -47684,7 +47607,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>APRESDINÉ</orth>
+<orth>APRES-DINÉ</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -47695,7 +47618,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>APRESDISNEE</orth>
+<orth>APRES-DISNÉE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -47712,7 +47635,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>APRESSOUPÉ</orth>
+<orth>APRES-SOUPÉ</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -47822,7 +47745,22 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>Terme d'Astronomie. C'est un signe du Zodiaque, qui est l'onziéme à compter depuis Aries. Le soleil le parcourt au mois de Janvier, &amp; ce signe est de la nature de Saturne. On le marque ainsi, AQUATILE. adj. Qui naît &amp; qui se nourrit dans l'eau. Animaux aquatiles</def>
+<def>Terme d'Astronomie. C'est un signe du Zodiaque, qui est l'onziéme à compter depuis Aries. Le soleil le parcourt au mois de Janvier, &amp; ce signe est de la nature de Saturne. On le marque ainsi,<gap/>.</def>
+    </sense>
+    </entry>
+    <entry><form type="lemmaGrp">
+        <form type="lemma">
+            <orth>AQUATILE</orth>
+        </form>
+        <pc>.</pc>
+        <gramGrp>
+            <pos>adj</pos>
+            <pc>.</pc>
+        </gramGrp>
+    </form>
+        
+        <sense>
+            <def>Qui naît &amp; qui se nourrit dans l'eau. Animaux aquatiles</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -48073,7 +48011,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AROMETRE</orth>
+<orth>ARAEOMETRE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -48670,21 +48608,9 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <usg>En termes de l'Ecriture</usg>
 <pc>,</pc>
-<def>on dit l'Arbre de la Croix, où ARB.ARC</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>J</orth>
-</form>
+<def>on dit l'Arbre de la Croix, où J. Christ a été attaché</def>
 <pc>.</pc>
-<gramGrp>
-<pos>Christ</pos>
-<number>a été attaché</number>
-</gramGrp>
-</form>
-<pc>.</pc>
-
+</sense>
 <etym>
 <lbl>L'arbre de</lbl>
 <foreign>vie</foreign>
@@ -48693,7 +48619,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </etym>
 <pc>.</pc>
 
-<re><form>Arbresde lisiere</form>
+<re><form>Arbres de lisiere</form>
 <form>,</form>
 <form>en termes des Eaux &amp; Foréts</form>
 <form>,</form>
@@ -48702,7 +48628,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>Arbresalaie, ou Arbresderefpeuplée. Ce sont de jeunes plantes qu'on laisse pour repeupler les taillis, lorsqu'on en fait la coupe</def>
+<def>Arbres a laie, ou Arbres de repeuplée. Ce sont de jeunes plantes qu'on laisse pour repeupler les taillis, lorsqu'on en fait la coupe</def>
 </sense>
 <pc>.</pc>
 
@@ -49298,11 +49224,11 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ARCHEVESCHE</orth>
+<orth>ARCHEVESCHÉ</orth>
 </form>
 <pc>,</pc>
 <form type="variant">
-<orth>ou ARCHEVECHE</orth>
+<orth>ou ARCHEVECHÉ</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -49451,7 +49377,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ARCHIDUCHE</orth>
+<orth>ARCHIDUCHÉ</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -49597,11 +49523,15 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <etym>Ce mot d'Archipelage vient par corruption de Egeopelagus, c'est-à-dire, la Mer Egée, qu'on a dit aussi par corruption de Agopelagos, ou Mer Sainte, qui est le nom que les Grecs ont donné originairement a cette mer, à cause des Isles Cyclades pour lesquelles ils avoient une grande veneration</etym>
 </sense>
 <pc>.</pc>
-
-<sense>
-<form>ARCHIPOETE</form>
-<pc>,</pc>
-<def>est un nom qu'on a donné en quelques lieux à quelques Poëtes ; mais le plus souvent par derision ; comme on fit du temps de Leon X. au Poëte Baraballi de Gayette, à qui on donna les honneurs du triomphe qu'on avoit accordez autrefois au Poëte Petrarque ; &amp; on le promena par la ville couronné de lauriers, &amp; monté sur un élephant. Mais ce fut our se moquer de lui ; car c'étoit un mauvais fariseur le vers, de devises &amp; d'inscriptions, qui avoit obtenu un privilege exclusif, qui portoit deffences</def>
+</entry>
+    <entry><form type="lemmaGrp">
+        <form type="lemma">
+            <orth>ARCHIPOETE</orth>
+        </form>
+    </form>
+        <pc>,</pc>      
+        <sense>
+            <def>est un nom qu'on a donné en quelques lieux à quelques Poëtes ; mais le plus souvent par derision ; comme on fit du temps de Leon X. au Poëte Baraballi de Gayette, à qui on donna les honneurs du triomphe qu'on avoit accordez autrefois au Poëte Petrarque ; &amp; on le promena par la ville couronné de lauriers, &amp; monté sur un élephant. Mais ce fut our se moquer de lui ; car c'étoit un mauvais fariseur le vers, de devises &amp; d'inscriptions, qui avoit obtenu un privilege exclusif, qui portoit deffences</def>
 <etym>à toute autre personne d'en faire. Il en est parlé dans Famianus Strada, &amp; dans les Anecdotes de Florence de Varillas</etym>
 <pc>.</pc>
 <def>On a vu en France de pareils ridicules qui ont obtenu de semblables privileges</def>
@@ -49666,7 +49596,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ARCHIPRIEURE</orth>
+<orth>ARCHIPRIEURÉ</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -49933,7 +49863,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ARCON</orth>
+<orth>ARÇON</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -49966,7 +49896,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ARCONNER</orth>
+<orth>ARÇONNER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -51415,14 +51345,11 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ARISTO</orth>
+<orth>ARISTO-DEMOCRATIE</orth>
 </form>
+    <pc>,</pc>
 </form>
-<pc>-</pc>
-
 <sense>
-<form>DEMOCRATIE</form>
-<pc>,</pc>
 <def>est un Gouvernement où la Noblesse &amp; le peuple ont conjointement l'autorité, comme dans la Province de Hollande</def>
 </sense>
 <pc>.</pc>
@@ -51920,21 +51847,16 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 
 <sense>
 <def>On dit proverbialement d'un poltron, qu'il est armé jusqu'aux dens</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
+<pc>.</pc>
+</sense>
+<re>
 <form type="lemma">
-<orth>A-</orth>
-</form>
-<gramGrp>
-<pos>main-armée</pos>
-</gramGrp>
+<orth>A-main-armée</orth>
 </form>
 <pc>.</pc>
-
 <sense>
 <def>Sorte d'adverbe qui signifie avec forces, &amp; les armes à la main. Il est venu enlever tous les fruits de ma terre à-main-armée. Il ne manqueroit pas de l'aller trouver sur la frontiere ; mais ce seroit pour l'y recevoir à main-armée</def>
-<pc>.</pc></sense>
+<pc>.</pc></sense></re>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -52835,7 +52757,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <head>ARR<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>RRACHEMENT</orth>
+<orth>ARRACHEMENT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -54522,16 +54444,6 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <usg>Vieux mot</usg>
 <def>qui signifioit, Train, équippage. Ce Seigneur vient à la Cour en magnifique arroy. Il est peu en usage. On appelle aussi Arroy l'équippage d'un Fauconnier, comme gans, longes, &amp;c</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ARR</orth>
-</form>
-<form type="lemma">
-<orth>ARS</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <etym>
 <ref>Du Cange</ref>
@@ -55376,21 +55288,9 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <lang>Grec</lang>
 <foreign>artemon</foreign>
 <pc>,</pc>
-<gloss>qui ne se prenoit pourtant pas en la même signification que nous le prenons au</gloss>
-</etym>
-<form type="lemmaGrp">
-<form type="lemma">
-<orth>-</orth>
-</form>
-<gramGrp>
-<pos>jourd'huy</pos>
-</gramGrp>
-</form>
+<gloss>qui ne se prenoit pourtant pas en la même signification que nous le prenons aujourd'huy. C'est ce que l'on peut voir dans Jabolenus, qui soutient après Labeon dans la Loi, Malum paragr. de verborum significatione, qu'artemon n'est point une partie integrante du vaisseau : ce qu'il n'eût pas dit, s'il l'eût pris pour un mât. On n'entendoit donc autre chose par le mot d'artemon, qu'une machine ou poulie qui servoit à tirer dans le vaisseau, ou à decharger les gros fardeaux, ou à rouler le cable. C'est ce qu'on appelle aujourd'huy le Cabestan</gloss>
 <pc>.</pc>
-
-<sense>
-<def>C'est ce que l'on peut voir dans Jabolenus, qui soutient après Labeon dans la Loi, Malum paragr. de verborum significatione, qu'artemon n'est point une partie integrante du vaisseau : ce qu'il n'eût pas dit, s'il l'eût pris pour un mât. On n'entendoit donc autre chose par le mot d'artemon, qu'une machine ou poulie qui servoit à tirer dans le vaisseau, ou à decharger les gros fardeaux, ou à rouler le cable. C'est ce qu'on appelle aujourd'huy le Cabestan</def>
-<pc>.</pc></sense>
+</etym>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -55621,7 +55521,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <head>ARY<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ARYTENOIDE</orth>
+<orth>ARYTAENOIDE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -55646,7 +55546,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ARYTENOIDIEN</orth>
+<orth>ARYTAENOIDIEN</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -55810,7 +55710,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ASCAVOIR</orth>
+<orth>A SCAVOIR</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -55846,18 +55746,8 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>,</pc>
 <usg>en termes d'Astrologie</usg>
 <pc>,</pc>
-<def>est l'horoscope ou le degré de l'Equateur qui monte sur l'horison au point de la naissance de quelcun, &amp; qu'on croit avoir influence sur sa vie, &amp; sur sa fortune, en lui donnant de la pente pour une chose plutôt que pour une autre. Plus que mon ascendant, ses beaux yeux me domnent. Gomb</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ASC</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Je vous dis qu'il en a l'encolure, Et que son a 'cendant, Monsicur l'emportera, Sur toute la vertu que vôtre fille aura.Mol. On l'appelle aussi dans le Theme celeste, la premiere maison, l'angle oriental, &amp; le significateur de la vie. En ce sens il est substantif. Les Altrologues appellent aussi des Signes ascendans, ceux qui montent sur l'horison depuis le Nadir ou la partie la plus basse du ciel, jusqu'au enith ou la partie où ils sont dans leur plus grande élevation</def>
+<def>est l'horoscope ou le degré de l'Equateur qui monte sur l'horison au point de la naissance de quelcun, &amp; qu'on croit avoir influence sur sa vie, &amp; sur sa fortune, en lui donnant de la pente pour une chose plutôt que pour une autre. Plus que mon ascendant, ses beaux yeux me domnent. Gomb
+<pc>.</pc> Je vous dis qu'il en a l'encolure, Et que son ascendant, Monsicur l'emportera, Sur toute la vertu que vôtre fille aura. Mol. On l'appelle aussi dans le Theme celeste, la premiere maison, l'angle oriental, &amp; le significateur de la vie. En ce sens il est substantif. Les Altrologues appellent aussi des Signes ascendans, ceux qui montent sur l'horison depuis le Nadir ou la partie la plus basse du ciel, jusqu'au enith ou la partie où ils sont dans leur plus grande élevation</def>
 </sense>
 <pc>.</pc>
 
@@ -55916,22 +55806,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <usg>En termes d'Astronomie</usg>
 <pc>,</pc>
-<def>l'ascension droite d'une étoile, est le point de l'Equateur qui se trouve en même temps que cette étoile au Meridien : &amp; l'arc de l'ascension droite, est le nombre des degrez de l'Equateur qui sont compris depuis le commencement d'Aries jusqu'à ce point de l'Equateur qui se trouve au Meridien. L'ascension droite est égale par tout le monde. On dit aussi, l'ascenfion droite d'un certain point de l'Eclyptique, ou de quelque autre point du ciel que ce soit. Ascension oblique d'un astre, est le degré de l'Equateur qui s'éleve avec une Planette dans la sphere oblique : &amp; l'arc de l'ascension oblique, est l'art de l'Equateur compté depuis Aries jusqu'à ce point de l'Equaiteur. Ainsi les ascensions obliques changent suivant l'élevation du Pole ; &amp; la difference ascensionnelle est la difference de ces deux arcs. On calcule de même l'ascension oblique d'un certain point de l'Eclyptique, &amp; de</def>
-</sense>
-</entry>
-		<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>tout</orth>
-</form>
-<gramGrp>
-<pos>autre</pos>
-<number>point du ciel</number>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Il y a des tables des differences ascensionnelles pour toutes les élevations du Pole, chez Magin, Argolus, &amp; chez les Auteurs qui ont traité de la Sphere</def>
+<def>l'ascension droite d'une étoile, est le point de l'Equateur qui se trouve en même temps que cette étoile au Meridien : &amp; l'arc de l'ascension droite, est le nombre des degrez de l'Equateur qui sont compris depuis le commencement d'Aries jusqu'à ce point de l'Equateur qui se trouve au Meridien. L'ascension droite est égale par tout le monde. On dit aussi, l'ascenfion droite d'un certain point de l'Eclyptique, ou de quelque autre point du ciel que ce soit. Ascension oblique d'un astre, est le degré de l'Equateur qui s'éleve avec une Planette dans la sphere oblique : &amp; l'arc de l'ascension oblique, est l'art de l'Equateur compté depuis Aries jusqu'à ce point de l'Equaiteur. Ainsi les ascensions obliques changent suivant l'élevation du Pole ; &amp; la difference ascensionnelle est la difference de ces deux arcs. On calcule de même l'ascension oblique d'un certain point de l'Eclyptique, &amp; de tout point du ciel. Il y a des tables des differences ascensionnelles pour toutes les élevations du Pole, chez Magin, Argolus, &amp; chez les Auteurs qui ont traité de la Sphere</def>
 </sense>
 <pc>.</pc>
 
@@ -56322,18 +56197,6 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <def>Aspect Terme d'Astronomie. C'est la situation qu'ont les étoiles &amp; les Planetes les unes à l'égard des autres en diverses parties du Zodiaque. Aspect benin</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>As</orth>
-</form>
-<gramGrp>
-<pos>pect</pos>
-<gen>malin</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
-
 <sense>
 <def>Il y a cinq aspects : le Sextil, quand les astres sont éloignez de 60. degrez l'un de l'autre : le Quadrat de 90. le Trin de 120. l'Opposition, ou Diametral quand ils sont à 180. degrez : &amp; la Conjonction, quand ils sont en même degré du Zodiaque. Kepler ajoute huit nouveaux aspects aux anciens, sçavoir le Demi-sextil, qui contient un éloignement de 30. degrez : le Decil, qui est de 36. degrez : l'Octil de 45. le Quintil de 72 le Tredecil de 1o8. le Sesquaré de 135. le Biquintil de 144. &amp; le Quinqunx de 150. Il y a des aspects favorables, &amp; de malins aspects. Les bons aspects sont quand les Planetes s'entrevoyent d'un doux regard ; comme l'aspet Trine, &amp; le Sextil. L'aspect oppose, &amp; le quadrat menacent de quelque malheur</def>
 <pc>.</pc></sense>
@@ -56374,7 +56237,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ASPERGES</orth>
+<orth>ASPERGÉS</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -56787,18 +56650,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>Qualité de ce qui est âpre. Il se dit de plusieurs choses fort differentes</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>I</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Des fruits quand, faute de maturité ou pour quelqu'autre raison, ils ont une certaine saveur rude, acre, &amp; desagreable. L'âpreté qui se trouve dans les fruits, diminue à mesure qu'ils meurissent, ou que les arbres vieillissent. II. Du feu &amp; du froid, quand l'un &amp; l'autre sont violens &amp; pres. L'âpreté du feu se fait sentir à proportion du froid. La rigueur &amp; l'âpreté des hivers ne l'arrête point. Pat. III. Des païs &amp; des chemins, quand ils sont rudes, inegaux, raboteux. L'apreté de certains païs en empêche le commerce. Vous retablirez un chemin que sa hauteur &amp; son apreté rendent difficile. Bossuet Aspreté, se dit figurément en Morale. Les Anciens ont blâmé l'âpreté des moeurs de Caton, &amp; sa trop grande sevérité. Cette àpreté de naturel, qui ne se rendoit jamais aux difficultez, établit mieux la puissance de Rome, qu'une humeur douce, &amp; raisonnable. St. Evr. Il faut avoir une sagesse gaye &amp; civile, &amp; fuir l'âpreté des moeurs. Mont. On dit aussi, Cet homme entreprend les choses avec trop d'Apreté ; pour dire, d'ardeur &amp; de promptitude</def>
+<def>Qualité de ce qui est âpre. Il se dit de plusieurs choses fort differentes. Des fruits quand, faute de maturité ou pour quelqu'autre raison, ils ont une certaine saveur rude, acre, &amp; desagreable. L'âpreté qui se trouve dans les fruits, diminue à mesure qu'ils meurissent, ou que les arbres vieillissent. II. Du feu &amp; du froid, quand l'un &amp; l'autre sont violens &amp; pres. L'âpreté du feu se fait sentir à proportion du froid. La rigueur &amp; l'âpreté des hivers ne l'arrête point. Pat. III. Des païs &amp; des chemins, quand ils sont rudes, inegaux, raboteux. L'apreté de certains païs en empêche le commerce. Vous retablirez un chemin que sa hauteur &amp; son apreté rendent difficile. Bossuet Aspreté, se dit figurément en Morale. Les Anciens ont blâmé l'âpreté des moeurs de Caton, &amp; sa trop grande sevérité. Cette àpreté de naturel, qui ne se rendoit jamais aux difficultez, établit mieux la puissance de Rome, qu'une humeur douce, &amp; raisonnable. St. Evr. Il faut avoir une sagesse gaye &amp; civile, &amp; fuir l'âpreté des moeurs. Mont. On dit aussi, Cet homme entreprend les choses avec trop d'Apreté ; pour dire, d'ardeur &amp; de promptitude</def>
 </sense>
 <pc>.</pc>
 
@@ -56940,11 +56792,11 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>Ce mot est un peu vieux : mais comme de bons Auteurs l'employent, on croit qu'on le peut employer aussi quelquefois à leur imitation ; &amp; principalement dans le figuré, dont on peut voir plus bas des exemples. Voici comme il se conjugue : j'assaux, tu assaux, il assaut. Il est vrai que ces trois premieres personnes ne se trouvent point dans les bons Ecrivains : mais on y trouve les autres, nous as</def>
+<def>Ce mot est un peu vieux : mais comme de bons Auteurs l'employent, on croit qu'on le peut employer aussi quelquefois à leur imitation ; &amp; principalement dans le figuré, dont on peut voir plus bas des exemples. Voici comme il se conjugue : j'assaux, tu assaux, il assaut. Il est vrai que ces trois premieres personnes ne se trouvent point dans les bons Ecrivains : mais on y trouve les autres, </def>
 </sense>
 <form type="lemmaGrp">
 <form type="lemma">
-<orth>saillons</orth>
+<orth>nous assaillons</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -56952,7 +56804,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </form>
 <pc>,</pc>
 <form type="inflected">
-<orth type="part">ls assaillent</orth>
+<orth type="part">ils assaillent</orth>
 </form>
 <pc>.</pc>
 <form type="inflected">
@@ -56960,7 +56812,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </form>
 <pc>.</pc>
 <form type="inflected">
-<orth>J'assaillu</orth>
+<orth>J'assaillis</orth>
 </form>
 <pc>.</pc>
 <form type="inflected">
@@ -56968,13 +56820,13 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </form>
 <pc>.</pc>
 <form type="inflected">
-<orth type="part">Que j'assalle</orth>
+<orth type="part">Que j'assaille</orth>
 </form>
 </form>
 <pc>.</pc>
 
 <sense>
-<def>Que j assaillise. Jassaillirois. Il signifie attaquer vigoureusement, en se jettant dessus, &amp; comme en sautant. Cêtte place fut assaillie &amp; emportée en plein jour ; elle fut assaillie de nuit, &amp; escaladée. On l'assaillit, lorsqu'on s'y attendoit le moins. Mon ennemi m''assaillit en traître par derriere</def>
+<def>Que j'assaillise. J'assaillirois. Il signifie attaquer vigoureusement, en se jettant dessus, &amp; comme en sautant. Cêtte place fut assaillie &amp; emportée en plein jour ; elle fut assaillie de nuit, &amp; escaladée. On l'assaillit, lorsqu'on s'y attendoit le moins. Mon ennemi m''assaillit en traître par derriere</def>
 </sense>
 <pc>.</pc>
 
@@ -57177,33 +57029,9 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <form>.</form>
 <form>adj</form>
 <form>.</form>
-<form>se dit encore</form>
-<def>au figuré, &amp; dans le stile comique, de tout ce qui a assez de charmes pour causer de la langueur, &amp; pour faire mourir d'a</def>
-</re>
-<form type="lemmaGrp">
-<form type="lemma">
-<orth>mour</orth>
-</form>
-<pc>.</pc>
-<form type="inflected">
-<orth type="part">Visage assassin</orth>
-</form>
-<pc>.</pc>
-<form type="inflected">
-<orth type="part">Voit</orth>
-</form>
-<pc>.</pc>
-<form type="inflected">
-<orth type="part">Beaux yeux assassins</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<form>Scar</form>
-<pc>.</pc>
-<def>Que dit-elle de moi cette gente assassinec Mol. Et c'est pour cela qu'en galanterie on appelle aussi Assassins, certaines mouches taillées en long que les femmes coquettes mettent sur leur visage pour paroître plus belles</def>
-<pc>.</pc></sense>
+<form>,</form>
+<def>se dit encoreau figuré, &amp; dans le stile comique, de tout ce qui a assez de charmes pour causer de la langueur, &amp; pour faire mourir d'amour. Visage assassin. Voit. Beaux yeux assassins. Que dit-elle de moi cette gente assassinec Mol. Et c'est pour cela qu'en galanterie on appelle aussi Assassins, certaines mouches taillées en long que les femmes coquettes mettent sur leur visage pour paroître plus belles</def>
+<pc>.</pc></re>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -57561,23 +57389,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <form>Assembler</form>
 <pc>,</pc>
-<def>se dit aussi des choses, &amp; signifie, Joindre ensemble, ramasser. Assembler une charpente, une menuiserie, les pieces d'un habit, ou autres ouvrages semblables. Assembler les feuilles d'un livre pour le relier. Assembler le linge, le coudre en paquets pour le mettre à la lescive. Assembler ses lettres, pour lire, ou pour composer une forme d'imprimerie. Il ne faut pas prendre pour sublime, une certaine grandeur bâtie sur de grands mots assemblez au hasard. Boi. On ne peut assembler deux contraires, pour dire, les faire subsister en même lieu</def>
-</sense>
-<pc>.</pc>
-
-<form type="lemmaGrp">
-<form type="lemma">
-<orth>Je</orth>
-</form>
-<gramGrp>
-<pos>vous</pos>
-<number>connois ; je sçai tout ce que je m'apprête ; Et je voi quels malheurs j'as</number>
-<pos>semble sur ma tête</pos>
-<pc>.</pc>
-<gen>Rac</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
+<def>se dit aussi des choses, &amp; signifie, Joindre ensemble, ramasser. Assembler une charpente, une menuiserie, les pieces d'un habit, ou autres ouvrages semblables. Assembler les feuilles d'un livre pour le relier. Assembler le linge, le coudre en paquets pour le mettre à la lescive. Assembler ses lettres, pour lire, ou pour composer une forme d'imprimerie. Il ne faut pas prendre pour sublime, une certaine grandeur bâtie sur de grands mots assemblez au hasard. Boi. On ne peut assembler deux contraires, pour dire, les faire subsister en même lieu. Je connois ; je sçai tout ce que je m'apprête ; Et je voi quels malheurs j'assemble sur ma tête. Rac.</def></sense>
 
 <sense>
 <form>Assembler</form>
@@ -57739,14 +57551,6 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 <usg>Il est vieux</usg>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ASS</orth>
-</form>
-</form>
-<pc>.</pc>
-
 <etym>
 <lbl>Ce mot vient de</lbl>
 <foreign>sacramentum</foreign>
@@ -57849,17 +57653,9 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </form>
 <pc>,</pc>
 <form type="variant">
-<orth>ou AISSET</orth><pc>.</pc>
+<orth>ou AISSETTE</orth><pc>.</pc>
 </form>
 </form>
-</entry>
-
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>TE</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
 <def>C'est un marteau qui a une tête plate d'un côté, &amp; un large tranchant de l'autre</def>
@@ -59155,7 +58951,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ASSUIETTIR</orth>
+<orth>ASSUJETTIR</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -59528,8 +59324,19 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>Maladie du poumon ; courte haleine ; difficulté de respirer ; ou frequente respiration sans fievre, comme il arrive à ceux qui ont couru trop vite. Le vrai asthme s'engendre d'une abondance de serositez, &amp; d'humeurs grossieres &amp; visqueuses, amassées dans les cavitez du poumon, lesquelles bouchent ou retressissent les conduits de l'air, &amp; compriment les bronches, ou bronchies. Il y a un asthme convulsif qui vient du mouvement dereglé des esprits animaux. On appelle cette maladie, Asthma, qui est un mot Grec ; ou Anhelatio : cela arrive quand les esprits ne coulent pas en assez grande quantité dans les muscles de la poitrine, soit à cause d'une obstruction, soit à cause de quelqu'autre obstacle. Alors la respiration se fait avec violence, &amp; avec difficulté. L'asthme pneumonique regarde le poumon, dont les bronches étant bouchées, &amp; comprimées, ne peuvent pas recevoir la quantité d'air necessaire à subtiliser le ASTHME</def>
-<pc>,</pc>
+<def>Maladie du poumon ; courte haleine ; difficulté de respirer ; ou frequente respiration sans fievre, comme il arrive à ceux qui ont couru trop vite. Le vrai asthme s'engendre d'une abondance de serositez, &amp; d'humeurs grossieres &amp; visqueuses, amassées dans les cavitez du poumon, lesquelles bouchent ou retressissent les conduits de l'air, &amp; compriment les bronches, ou bronchies. Il y a un asthme convulsif qui vient du mouvement dereglé des esprits animaux. On appelle cette maladie, Asthma, qui est un mot Grec ; ou Anhelatio : cela arrive quand les esprits ne coulent pas en assez grande quantité dans les muscles de la poitrine, soit à cause d'une obstruction, soit à cause de quelqu'autre obstacle. Alors la respiration se fait avec violence, &amp; avec difficulté. L'asthme pneumonique regarde le poumon, dont les bronches étant bouchées, &amp; comprimées, ne peuvent pas recevoir la quantité d'air necessaire à subtiliser le sang.</def>
+</sense>
+</entry>
+<entry><form type="lemmaGrp">
+    <form type="lemma">
+        <orth>ASTHMÉ</orth>
+    </form>
+   
+</form>
+    <pc>,</pc>
+    
+    <sense>
+        
 <usg>en termes de Fauconnerie</usg>
 <pc>,</pc>
 <def>se dit d'un oiseau pantois qui a le poumon enflé, qui ne peut avoir son haleine</def>
@@ -60339,14 +60146,24 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>signifie la même chose qu'Athée; mais ce mot vieillit, &amp; n'est nullement en usage, quoique Baudouïn de l'Academie Françoise s'en soit servi. Il y a des Atheistes si detestables, qui tâchent d'avoir des disciples. Baud. figures qui portoient des fardeaux dans l'Architecture</def>
+<def>signifie la même chose qu'Athée; mais ce mot vieillit, &amp; n'est nullement en usage, quoique Baudouïn de l'Academie Françoise s'en soit servi. Il y a des Atheistes si detestables, qui tâchent d'avoir des disciples. Baud.</def>
+</sense>
+</entry>
+    <entry><form type="lemmaGrp">
+        <form type="lemma">
+            <orth>ATHLANTE</orth>
+        </form>
+        <pc>.</pc>
+        
+    </form>
+        
+        <sense>
+            <def>Nom que les Grecs donnoient aux figures qui portoient des fardeaux dans l'Architecture</def>
 </sense>
 <pc>.</pc>
-
+    </entry>
+    <entry>
 <form type="lemmaGrp">
-<form type="lemma">
-<orth>ATHATIATOo</orth>
-</form>
 <form type="lemma">
 <orth>ATHLAS</orth>
 </form>
@@ -60554,7 +60371,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ATORSETTTRAVERS</orth>
+<orth>À TORS ET À TRAVERS</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -60715,7 +60532,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ATRAVERS</orth>
+<orth>À TRAVERS</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -61777,19 +61594,8 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>Application de l'oreille, &amp; de l'esprit à quelque discours qu'on entend ; application des yeux, &amp; de l'esprit à ce qu'on regarde, ou à quelque ouvrage. Il y a aussi une pure attention de l'esprit pour la meditation. Les gens distraits n'ont point d'attention. L'Orateur doit reveiller l'attention de son auditoire, doit sçavoir se faire prêter attention. Faire languir l'attention des spectateurs. St. Evr. Les Sçavans uniquement occupez des siecles passez, ne font nulle attention aux moeurs de ceux qui les environnent ; &amp; avec qui ils sont obligez de vivre. La Br. Les personnes qui manquent d'esprit, écoutent dans une conversation avec une attention imbecille, qui les fait d'abord reconnoître. Bell. Rien n'est plus digne ATT. d'occuper toute l'attention de l'esprit que la recherche de la Religion. Nic. Les femmes ne sont pas capables d'apporter une attention serieuse à tout ce qui est un peu abstrait. Val. C'étoit un rival plus redoutable par l'attention qu'il avoit pour toutes ses actions, que par les progrès qu'il pouvoit faire auprès d'elle</def>
+<def>Application de l'oreille, &amp; de l'esprit à quelque discours qu'on entend ; application des yeux, &amp; de l'esprit à ce qu'on regarde, ou à quelque ouvrage. Il y a aussi une pure attention de l'esprit pour la meditation. Les gens distraits n'ont point d'attention. L'Orateur doit reveiller l'attention de son auditoire, doit sçavoir se faire prêter attention. Faire languir l'attention des spectateurs. St. Evr. Les Sçavans uniquement occupez des siecles passez, ne font nulle attention aux moeurs de ceux qui les environnent ; &amp; avec qui ils sont obligez de vivre. La Br. Les personnes qui manquent d'esprit, écoutent dans une conversation avec une attention imbecille, qui les fait d'abord reconnoître. Bell. Rien n'est plus digne ATT. d'occuper toute l'attention de l'esprit que la recherche de la Religion. Nic. Les femmes ne sont pas capables d'apporter une attention serieuse à tout ce qui est un peu abstrait. Val. C'étoit un rival plus redoutable par l'attention qu'il avoit pour toutes ses actions, que par les progrès qu'il pouvoit faire auprès d'elleP. de Cl.</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>P</orth>
-</form>
-<pc>.</pc>
-<form type="variant">
-<orth>de Cl</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
 <def>Le peu d'attention qu'on a sur ses paroles, &amp; sur ses actions, est la source de l'impertinence. Bell. On ne se corrige gueres à moins qu'on ne fasse une exacte attention sur soi-même. M. Sc</def>
@@ -63629,13 +63435,11 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AVANT</orth>
+<orth>AVANT-CORPS</orth>
 </form>
 </form>
-<pc>-</pc>
 
-<sense>
-<def>CORPS, en Architecture, se dit des parties d'un bâtiment qui ont de la saillie sur la face à l'égard des autres qui sont plus retirées : comme un pilastre. On appelle arriere-corps la partie reculée qui lui sert de fond</def>
+<sense><usg>en Architecture</usg><pc>,</pc> <def>se dit des parties d'un bâtiment qui ont de la saillie sur la face à l'égard des autres qui sont plus retirées : comme un pilastre. On appelle arriere-corps la partie reculée qui lui sert de fond</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -63674,13 +63478,11 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AVANT</orth>
+<orth>AVANT-FOSSÉ</orth>
 </form>
 </form>
-<pc>-</pc>
 
 <sense>
-<form>FOSSÉ</form>
 <pc>,</pc>
 <def>est un fossé creusé au delà de la contrescarpe, &amp; qui regne le long du glacis : il est d'ordinaire plein d'eau</def>
 <pc>.</pc></sense>
@@ -63704,19 +63506,14 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <def>C'est la premiere ligne d'une armée rangée en bataille, la premiere division d'une armée, celle qui marche à la tête. Tout corps d'armée est composé d'avant-garde, d'arriere-garde, &amp; de corps de bataille. Mener, conduire, commander lavant-garde. Abl</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+<entry>
+    <form type="lemmaGrp">
 <form type="lemma">
-<orth>AVANT</orth>
+<orth>AVANT-GOUST</orth>
 </form>
-</form>
-<pc>-</pc>
-
-<sense>
-<form>GOUST, ou AVANT-GOUT</form>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<gramGrp>
+    <form type="variant">
+        <orth>ou AVANT-GOUT</orth></form>
+    <gramGrp>
 <pos>s</pos>
 <pc>.</pc>
 <gen>m</gen>
@@ -63726,7 +63523,8 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 
 <sense>
 <def>Plaisir imparfait qu'on goute avant la pleine felicité ; ou essai de quelque chose qui en donne, ou en fait concevoir quelque idée</def>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -63741,9 +63539,11 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AVANT-JOURAVANT-MIDY</orth>
+<orth>AVANT-JOUR</orth>
 </form>
-<pc>.</pc>
+<pc>,</pc>
+    <form type="lemma">AVANT-MIDY</form>
+    <pc>.</pc>
 <gramGrp>
 <pos>adv</pos>
 </gramGrp>
@@ -63784,13 +63584,11 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AVANT</orth>
+<orth>AVANT-MUR</orth>
 </form>
 </form>
-<pc>-</pc>
 
 <sense>
-<form>MUR</form>
 <pc>,</pc>
 <usg>en termes de Blason</usg>
 <pc>,</pc>
@@ -63822,7 +63620,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </form>
 <pc>,</pc>
 <form type="variant">
-<orth>ou AVANTPECHE</orth>
+<orth>ou AVANT-PECHE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -63839,13 +63637,12 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AVANT</orth>
+<orth>AVANT-PIED</orth>
 </form>
 </form>
-<pc>-</pc>
-
+<pc>,</pc>
 <sense>
-<usg>PIED en termes de Medecine</usg>
+<usg>en termes de Medecine</usg>
 <pc>,</pc>
 <def>c'est le metatarse, ou la seconde partie du pied</def>
 <pc>.</pc></sense>
@@ -64268,9 +64065,18 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <sense>
 <form>Avarie</form>
 <pc>,</pc>
-<def>signifie aussi, un droit qui se paye pour l'entretien d'un port par chaque vaisseau qui y mouille. Mornac sur la Loi 4. de Lege Rhodia de jactu, dit que ce mot est corrompu du Grec varis, qui signifie navire chez les Ioniens. Les Italiens &amp; les Espagnols se servent du même terme. arrêtez vous</def>
+<def>signifie aussi, un droit qui se paye pour l'entretien d'un port par chaque vaisseau qui y mouille. Mornac sur la Loi 4. de Lege Rhodia de jactu, dit que ce mot est corrompu du Grec varis, qui signifie navire chez les Ioniens. Les Italiens &amp; les Espagnols se servent du même terme. </def>
 <pc>.</pc></sense>
 </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>AVASTE</orth></form>
+            <pc>.</pc>
+        </form>
+        <sense>
+            <def>Terme de Mer pour dire, C'est assez, arrêtez vous<pc>.</pc></def>
+        </sense>
+    </entry>
 </div>
           <div>
               <head>AUB<pc>.</pc></head>
@@ -64820,7 +64626,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AUDELA</orth>
+<orth>AU DELA</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -64831,7 +64637,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AUDEVANT</orth>
+<orth>AU DEVANT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -65308,7 +65114,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AVERSE</orth>
+<orth>A VERSE</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -65441,7 +65247,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AVIU</orth>
+<orth>AVEU</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -65504,20 +65310,10 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <pc>.</pc>
 
 <sense>
-<def>On appelle un Aveugle né, celui qui est aveugle en naissant</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>J</orth>
-</form>
-<pc>.</pc>
-<pron>Christ guerit l'aveugle-né</pron>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>On appelle aussi Aveugle, celui qui a la vuë courte, qui ne voit pas ce qui est à la portée de la vuë, &amp; qu'il devroit voir, soit des yeux du corps, soit des yeux de l'esprit. Ainsi l'Oracle appella ceux de Calcedoine aveugles, parcequ'ils bâtirent leur vile en un lieu peu commode, tandis qu'ils avoient vis-à-vis d'eux la plus belle situation d'une ville qu'on pût souhaitter, qui est celle où est maintenant Constantinople</def>
+<def>On appelle un Aveugle né, celui qui est aveugle en naissant. J. Christ guerit l'aveugle-né.</def>
+    </sense>
+    <sense>
+        <def>On appelle aussi Aveugle, celui qui a la vuë courte, qui ne voit pas ce qui est à la portée de la vuë, &amp; qu'il devroit voir, soit des yeux du corps, soit des yeux de l'esprit. Ainsi l'Oracle appella ceux de Calcedoine aveugles, parcequ'ils bâtirent leur vile en un lieu peu commode, tandis qu'ils avoient vis-à-vis d'eux la plus belle situation d'une ville qu'on pût souhaitter, qui est celle où est maintenant Constantinople</def>
 </sense>
 <pc>.</pc>
 
@@ -65599,7 +65395,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AVEUGLEMENT</orth>
+<orth>AVEUGLÉMENT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -65742,7 +65538,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AUGEE</orth>
+<orth>AUGÉE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -66042,7 +65838,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AUCUSTIN</orth>
+<orth>AUGUSTIN</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -66244,7 +66040,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AUJOURDHUY</orth>
+<orth>AUJOURD'HUY</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -66328,25 +66124,31 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <def>Ordre militaire de Portugal. Il fut institué par Alphonse I. Roi de Portugal en memoire de la prise d'Evora sur les Maures, en 1147. Ils prirent d'abord le nom de Chevaliers de Ste. Marie d'Evora ; parceque le Roi Alphonse attribua le bon succés de ses armes à un secours special de la Vierge. Ensuite il fut appelle l'Ordre d'Avis, à cause d'un chateau qui leur fut donné par Alphonse I. Ces Chevaliers choisirent les regles de l'Ordre de Citeaux, &amp; le Pape Innocent IV. approuva leurs constitutions en 1204. Ils se signalerent dans les guerres contre les Maures, &amp; rendirent des services importans aux Rois de Portugal. Ils portent d'or à la croix fleurdelisée de siuiople, accompagnée en pointe de deux oiseaux affrontez de sable</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+<entry>
+    <form type="lemmaGrp">
 <form type="lemma">
 <orth>AVISER</orth>
 </form>
 <pc>.</pc>
-<form type="variant">
-<orth>Voyez Adviser AVITAILLER</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>v</pos>
-<pc>.</pc>
-<subc>act</subc>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Mettre des vivres dans une place assiegée, ou qui craint de l'être. On vient de bàtir cette Citadelle, &amp; on l'a bien avitaillée</def>
+    </form>
+<xr>Voyez Adviser<pc>.</pc></xr>
+</entry>
+    <entry><form type="lemmaGrp">
+        <form type="lemma">
+            <orth>AVITAILLER</orth>
+        </form>
+        <pc>.</pc>
+        <gramGrp>
+            <pos>v</pos>
+            <pc>.</pc>
+            <subc>act</subc>
+            <pc>.</pc>
+        </gramGrp>
+    </form>
+        <pc>.</pc>
+        
+        <sense>
+            <def>Mettre des vivres dans une place assiegée, ou qui craint de l'être. On vient de bàtir cette Citadelle, &amp; on l'a bien avitaillée</def>
 </sense>
 <pc>.</pc>
 
@@ -66506,7 +66308,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AULNEE</orth>
+<orth>AULNÉE</orth>
 </form>
 <pc>,</pc>
 <form type="variant">
@@ -66831,7 +66633,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <head>AVO<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>A VOINE</orth>
+<orth>AVOINE</orth>
 </form>
 <pc>.</pc>
 <form type="variant">
@@ -67113,7 +66915,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AUPISALLER</orth>
+<orth>AU PIS ALLER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -67128,7 +66930,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AUPRÉS</orth>
+<orth>AUPRÈS</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -67180,7 +66982,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AUREAALEXANDRINA</orth>
+<orth>AUREA ALEXANDRINA</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -67431,7 +67233,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AUSSI-BIENQUE</orth>
+<orth>AUSSI BIEN QUE</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -67461,7 +67263,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AUSSI-TOTQUE</orth>
+<orth>AUSSI-TOT QUE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -68357,7 +68159,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>DAUTRE PART</orth>
+<orth>D'AUTRE PART</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -68710,7 +68512,7 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <head>AYE<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AYT</orth>
+<orth>AY</orth>
 </form>
 <pc>,</pc>
 <form type="lemma">
@@ -69060,15 +68862,21 @@ On dit aller à Rome, quand on fait le voyage de Rome. Mais quand on est à Rome
 <def>Azur signifie aussi le bleu. L'Ecu de France a trois fleurs de lis d'or en champ d'azur : c'est une couleur celeste qui est le symbole de la Justice. L'azur est marqué dans le Blason par des hachûres, ou simples lignes qui vont de gauche à droit, d'un côté à l'autre de l'Ecu, &amp; sont paralleles au chef, ou à la fasce</def>
 </sense>
 <pc>.</pc>
-
-<re><form>AZuURÉ, ée</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Qui e</form>
-<pc>s</pc>
-<def>t peint d'azur. On appelle poëtiquement le ciel, la voute azurée, parcequ'il semble à nos yeux qu'il est d'azur ; &amp; il nous paroît tel, à cause de son grand éloignement. Ces voutes claires, &amp; solides, Ces beaux cieux au front azuré, Qui sont dans leur cours mesuré, Et si legers &amp; si rapides. God. En parlant de la mer, ils disent aussi les plaines azurées</def>
-<pc>.</pc></re>
+</entry>
+    <entry><form type="lemmaGrp">
+        <form type="lemma">
+            <orth>AZURÉ</orth>
+        </form>
+        <form type="inflected"><orth>ée</orth></form>
+        <pc>.</pc>
+        <gramGrp>
+            <pos>adj</pos>
+            <pc>.</pc>   
+        </gramGrp>
+    </form>
+       <sense>
+<def>Qui est peint d'azur. On appelle poëtiquement le ciel, la voute azurée, parcequ'il semble à nos yeux qu'il est d'azur ; &amp; il nous paroît tel, à cause de son grand éloignement. Ces voutes claires, &amp; solides, Ces beaux cieux au front azuré, Qui sont dans leur cours mesuré, Et si legers &amp; si rapides. God. En parlant de la mer, ils disent aussi les plaines azurées</def>
+<pc>.</pc></sense>
 </entry>
 </div>
 <div>

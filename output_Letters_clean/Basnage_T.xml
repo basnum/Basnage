@@ -6315,21 +6315,17 @@
                   <gen>masc</gen>
                   <pc>.</pc>
               </gramGrp>
-              <sense><def>Lettre consone, dix-neuviéme de l'Alphabeth François. Il se prononce comme un c quand il est immediatement suivi d'un i accompagné d'une voyelle : ainsi on prononce les mots qui se terminent en tion, comme si on écrivoit cion. Action, redemption, prononcez accion, redempcion. Partial, prononcez parcial, &amp;c. Il faut excepter de cette regle les mots qui se terminent en ie, comme partie, sortie, rotie, &amp;c. Il en faut excepter aussi tien, tienne. Le T du singulier, se change ordinairement en s au plurier. Le T a été une marque dont parle l'Apocalypse, &amp; une espece de croix tronquée que portent sur leurs habits les Religieux de Saint Antoine</def>
+              <sense><def>Lettre consone, dix-neuviéme de l'Alphabeth François. Il se prononce comme un c quand il est immediatement suivi d'un i accompagné d'une voyelle : ainsi on prononce les mots qui se terminent en tion, comme si on écrivoit cion. Action, redemption, prononcez accion, redempcion. Partial, prononcez parcial, &amp;c. Il faut excepter de cette regle les mots qui se terminent en ie, comme partie, sortie, rotie, &amp;c. Il en faut excepter aussi tien, tienne. Le T du singulier, se change ordinairement en s au plurier.
+                  </def>
+                  </sense>
+              <sense>
+                  Le <form>T</form> a été une marque dont parle l'Apocalypse, &amp; une espece de croix tronquée que portent sur leurs habits les Religieux de Saint Antoine
 <pc>.</pc>
 <xr>Voyez Croix &amp; Tau</xr>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>T</orth>
-</form>
-</form>
-<re><form>,</form>
-<form>étoit au</form>
-<pc>s</pc>
-<def>si chez les Anciens une lettre numerale qui signifioit 160. suivant ce vers : T quoque centenos &amp; sexaginta tenebit. Si on met un titre au dessus, ainsi T, elle signifiera 160. mille. Quand les Tribuns approuvoient les ordonnances du Senat, ils y apposoient un T pour marque de leur consentement</def>
-<pc>.</pc></re>
+<sense><form>T</form>
+<def>étoit aussi chez les Anciens une lettre numerale qui signifioit 160. suivant ce vers : T quoque centenos &amp; sexaginta tenebit. Si on met un titre au dessus, ainsi T, elle signifiera 160. mille. Quand les Tribuns approuvoient les ordonnances du Senat, ils y apposoient un T pour marque de leur consentement</def>
+<pc>.</pc></sense>
 </entry>
 </div>
 <div>
@@ -6363,9 +6359,15 @@
 <def>Ton mari, ton pere. On met ton aussi au feminin, quand le mot suivant commence par une voyelle, Ton inclination ; ou par une b qui n'aspire pas, ton honnêteté. Quand l'h aspire, on retient ta, Ta harangue, ta hauteur</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<def>Ta, Ta, Ta. Mots burlesques &amp; imaginez pour signifier qu'on dit, ou qu'on fait une chose trop vite. Ts, ta, ta. Voilà bien instruire une affaire. Rac</def>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>Ta, Ta, Ta</orth></form>
+            <pc>.</pc>
+            
+        </form>
+        <sense>
+            <def>Mots burlesques &amp; imaginez pour signifier qu'on dit, ou qu'on fait une chose trop vite. Ts, ta, ta. Voilà bien instruire une affaire. Rac</def>
 <pc>.</pc></sense>
 </entry>
 </div>
@@ -7186,7 +7188,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>RINEUR</orth>
+<orth>TABOURINEUR</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -7235,7 +7237,7 @@
 </form>
 <pc>,</pc>
 <form type="variant">
-<orth>ouTACAMAHACA</orth>
+<orth>ou TACAMAHACA</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -7439,21 +7441,20 @@
 <def>On ne croit plus que modiecrement, Qu'un taciturne abonde on jugement</def>
 </sense>
 <pc>.</pc>
-
-<re><form>TACIfURNITÉ</form>
-<form>.</form>
-<form>s</form>
-</re>
-<form type="lemmaGrp">
-<pc>.</pc>
-<gramGrp>
-<pos>f</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Humeur, temperament de celui qui est taciturne. La raciturnité est encore plus supportabie que la hablerie. C'est beaucoup que ce melancolique sorte quelquefois de sa naciturnite pour contredire, &amp; qu'il daigne une fois le jour avoir de l'esprit. La Br</def>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TACITURNITÉ</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>f</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Humeur, temperament de celui qui est taciturne. La raciturnité est encore plus supportabie que la hablerie. C'est beaucoup que ce melancolique sorte quelquefois de sa naciturnite pour contredire, &amp; qu'il daigne une fois le jour avoir de l'esprit. La Br</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -7511,18 +7512,7 @@
 <sense>
 <usg>Terme de Philosophie</usg>
 <pc>.</pc>
-<def>C'est le sentiment qui se fait par le tact. La taction se fait en trois manieres. à. Lorsqu'une chose exterieure s'insinue au dedans du corps, comme la pointe des épines</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>2</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Lorsque ce qui est né dans le corps, nous cause du plaisir ou de la douleur. 3. Lorsqu'une partie à reçu quelque coup vivant. Bernier</def>
+<def>C'est le sentiment qui se fait par le tact. La taction se fait en trois manieres. 1. Lorsqu'une chose exterieure s'insinue au dedans du corps, comme la pointe des épines. 2. Lorsque ce qui est né dans le corps, nous cause du plaisir ou de la douleur. 3. Lorsqu'une partie à reçu quelque coup vivant. Bernier</def>
 </sense>
 <pc>.</pc>
 
@@ -8499,8 +8489,21 @@
 <pc>.</pc>
 
 <sense>
-<def>Est une grosse monnoye d'argent valant un écu. Elle a été premierement fabriquée en la vallée de Joachim en Boheme vers l'an 1520. par les Comtes de la Maison de Selicon. Elle porte les Armes de cette Maison d'un côté, &amp; l'effigie de l'Abbé Joachim de l'autre, comme témoigne George Agricola au livre onze des Poids &amp; Mesures. Il y a ausfi des talers des Rois de Pologne &amp; des autres Souverains de l'Europe. Les talers de Philippes II. Roi d'Espagne ont été par excellence nommez reaux. TALINGUER. v. act</def>
-<pc>.</pc>
+<def>Est une grosse monnoye d'argent valant un écu. Elle a été premierement fabriquée en la vallée de Joachim en Boheme vers l'an 1520. par les Comtes de la Maison de Selicon. Elle porte les Armes de cette Maison d'un côté, &amp; l'effigie de l'Abbé Joachim de l'autre, comme témoigne George Agricola au livre onze des Poids &amp; Mesures. Il y a ausfi des talers des Rois de Pologne &amp; des autres Souverains de l'Europe. Les talers de Philippes II. Roi d'Espagne ont été par excellence nommez reaux.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TALINGUER</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>v</pos>
+                <pc>.</pc>
+                <subc>act</subc>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
 <usg>Terme de Marine</usg>
 <pc>.</pc>
 <def>C'est attacher le cable à l'arganeau de l'ancre</def>
@@ -8557,7 +8560,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TAL</orth>
+<orth>TALK</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -8855,15 +8858,22 @@
 <def>est aussi un terme d'Augustin dechaussé, &amp; d'autres Religieux qui vont avec des sandales ou des socs. C'est un morceau de cuir qui couvre le talon, &amp; qui se vient rendre sur le cou du pied où il s'attache. Ces sortes de Religieux ne se servent de talonnieres que l'hiver pour se garantir du froid</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<form>TAaLUT, ou TALUS</form>
-<pc>.</pc>
-<gramGrp>
-<gram>s. m</gram>
-</gramGrp>
-<pc>.</pc>
-<def>C'est l'inclinaison sensible, ou la pente qu'on donne aux ouvrages, ou aux dehors des murailles pour les faire tenir plus ferme. Cette pente est causée par la diminution de l'épaisseur de bas en haut. Aux murailles où il y a peu de pied, on l'appelle escarpe ; &amp; aux ouvrages de terre où cette pente doit être grande, on l'appelle talus, base, glacis, empatement. On appelle aussi talus, la diminution de l'epaisseur de la muraille, qui se fait de temps en temps à mesure qu'on éleve. On taille toutes les branches d'arbre en talus. Men</def>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TALUT</orth></form>
+            <pc>,</pc>
+            <form type="variant"><orth>ou TALUS</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>C'est l'inclinaison sensible, ou la pente qu'on donne aux ouvrages, ou aux dehors des murailles pour les faire tenir plus ferme. Cette pente est causée par la diminution de l'épaisseur de bas en haut. Aux murailles où il y a peu de pied, on l'appelle escarpe ; &amp; aux ouvrages de terre où cette pente doit être grande, on l'appelle talus, base, glacis, empatement. On appelle aussi talus, la diminution de l'epaisseur de la muraille, qui se fait de temps en temps à mesure qu'on éleve. On taille toutes les branches d'arbre en talus. Men</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -9324,8 +9334,20 @@
 <sense>
 <usg>Terme de Verrerie</usg>
 <pc>.</pc>
-<def>Sel qui surnage au dessus de la premiere fonte du verre. TanE, Taner, TANERi. Voyez Tanne, &amp;c</def>
-<pc>.</pc></sense>
+<def>Sel qui surnage au dessus de la premiere fonte du verre.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TANE</orth></form>
+            <pc>,</pc>
+            <form type="lemma"><orth>TANER</orth></form>
+            <pc>,</pc>
+            <form type="lemma">TANERI</form>
+            <pc>.</pc>
+            </form>
+        <xr>Voyez Tanne, &amp;c
+<pc>.</pc></xr>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -10407,15 +10429,22 @@
 <etym>Borel derive ce mot de tambustis, vieux François qui signifioit bruit, remuement</etym>
 </sense>
 <pc>.</pc>
-
-<sense>
-<form>TaARANDE, ou TaraNTE</form>
-<pc>.</pc>
-<gramGrp>
-<gram>s. m</gram>
-</gramGrp>
-<pc>.</pc>
-<def>Animal sauvage gros comme un boeuf, qui a la tête plus grande que le cerf, &amp; qui est couvert d'un poil long comme celui d'un ours. Le tarande naît dans les pais septentrionaux, &amp;, ce qui est le plus surprenant, le tarande peut changer son poil en toutes sortes de couleurs. Scheffer. Lapon</def>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TARANDE</orth></form>
+            <pc>,</pc>
+            <form type="variant"><orth>ou TARANTE</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Animal sauvage gros comme un boeuf, qui a la tête plus grande que le cerf, &amp; qui est couvert d'un poil long comme celui d'un ours. Le tarande naît dans les pais septentrionaux, &amp;, ce qui est le plus surprenant, le tarande peut changer son poil en toutes sortes de couleurs. Scheffer. Lapon</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -10972,7 +11001,23 @@
 <pc>.</pc>
 
 <sense>
-<def>ul n'a d'usage qu'en cette phrase, Des cartes tarotées ; pôur dire, des cartes marquées, imprimées de rayes noires par dessus. TAROtS. subst. masc. plur. qui se dit d'une espece de cartes à joïer dent le serient let Esregnols, les Allemans &amp; autres étrangers, qui sont marquées d'autres figures que les notres, comme copas, divaros, espadillas, bassos, &amp;c. Au lieu de coeurs, carreaux, piques &amp; trefles, elles ont d'ordinaire l'envers imprime de divers compartimens</def>
+<def>ul n'a d'usage qu'en cette phrase, Des cartes tarotées ; pôur dire, des cartes marquées, imprimées de rayes noires par dessus.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TAROTS</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>subst</pos>
+                <pc>.</pc>
+                <gen>masc</gen>
+                <pc>.</pc>
+                <number>plur</number>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>qui se dit d'une espece de cartes à joüer dont le servent let Espagnols, les Allemans &amp; autres étrangers, qui sont marquées d'autres figures que les notres, comme copas, divaros, espadillas, bassos, &amp;c. Au lieu de coeurs, carreaux, piques &amp; trefles, elles ont d'ordinaire l'envers imprime de divers compartimens</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -11268,13 +11313,6 @@
 <pc>,</pc>
 <def>se dit aussi d'un amas de choses. Vos pensées seroient plus belles si elles n'etoient pas étouffées fous un tas de paroles superflucs. Voi</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>TAS</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
 <def>On dit qu'une personne se met toute en un tas ; pour dire, qu'elle s'accroupit, qu'elle se ramasse, qu'elle se met toute en un peloton</def>
@@ -11676,19 +11714,6 @@
 <pc>,</pc>
 <gloss>ou plutôt de tâton, qui en langage Celtique ou Bas-Breton signifie la même chose</gloss>
 <pc>.</pc></etym>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>TAS</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>TAT</pos>
-<pc>.</pc>
-<gen>TAU</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
 
 <sense>
 <form>Tastonner</form>
@@ -11698,7 +11723,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ATASTONS</orth>
+<orth>A TASTONS</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -11837,7 +11862,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>FAVELER</orth>
+<orth>TAVELER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -12000,7 +12025,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>FAVEVOULE</orth>
+<orth>TAVEVOULE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -12487,7 +12512,7 @@
 <head>TED<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TEDEUM</orth>
+<orth>TE DEUM</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -13112,7 +13137,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TEMERITE</orth>
+<orth>TEMERITÉ</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -13272,14 +13297,26 @@
 
 <re><form>Temperé, ée</form>
 <form>.</form>
-<form>part</form>
-<pc>.</pc>
-<gramGrp>pass. &amp; adj</gramGrp>
-<form>.</form>
-<form>Les Zones tempe</form>
-<pc>-</pc>
-<def>rées ont du mêlange égal du chaud &amp; du froid. On y respire un air temperé. Un esprit temperé est un esprit sage, regé, tranquille. TEMmPESTATIF. adj. Ls se prononce. Qui fait du bruit, qui crie, qui s'agite. Il est bas &amp; de peu d'usage. Ceux qui sont violens &amp; tempestatifs troublent tout le repos d'une maison, d'une compagnie</def>
-<pc>.</pc></re>
+<gramGrp>part. pass. &amp; adj</gramGrp>
+<sense>
+<def>Les Zones temperées ont du mêlange égal du chaud &amp; du froid. On y respire un air temperé. Un esprit temperé est un esprit sage, regé, tranquille.</def>
+</sense>
+    </re>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TEMPESTATIF</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>adj</pos>
+                <pc>.</pc>
+                
+            </gramGrp>
+            <pron>L's se prononce.</pron>
+        </form>
+        <sense>
+            <def>Qui fait du bruit, qui crie, qui s'agite. Il est bas &amp; de peu d'usage. Ceux qui sont violens &amp; tempestatifs troublent tout le repos d'une maison, d'une compagnie</def>
+<pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -13959,13 +13996,9 @@
 </sense>
 <pc>.</pc>
 
-<re><form>Tenant</form>
-</re>
-<form type="lemmaGrp">
-<pc>,</pc>
-<form type="inflected">
-<orth type="part">ante</orth>
-</form>
+<re><form>
+    <form type="lemma"><orth>Tenant</orth></form>
+     <form type="inflected"><orth type="part">ante</orth></form>
 <pc>.</pc>
 <gramGrp>
 <pos>adj</pos>
@@ -13977,7 +14010,7 @@
 
 <sense>
 <def>Qui est attaché, qui tient bien. La Coutume appelle meubles, ceux qui ne sont point tenans à fer ni à clou. Ces deux heritages sont tenans l'un à l'autre, rien ne les separe</def>
-</sense>
+</sense></re>
 <pc>.</pc>
 
 <sense>
@@ -14274,14 +14307,6 @@
 <sense>
 <def>On dit proverbialement, Jeune femme, pain tendre, &amp; bois verd, mettent la maison au desert. On dit aussi, Dieu vous assiste, nôtre pain est tendre, os couteaux sont enrouillez</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>PP</orth>
-</form>
-</form>
-<re><form>P p p</form>
-<pc>.</pc></re>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -15478,10 +15503,16 @@
 <pc>.</pc>
 
 <sense>
-<def>Chicaner, fuir, biaiser, dilayer, n'aller pas droit en besogne. Il n'y a que les malhonnêtes gens qui tergiversent dans les affaires. TERIAQUE</def>
-<pc>.</pc>
+<def>Chicaner, fuir, biaiser, dilayer, n'aller pas droit en besogne. Il n'y a que les malhonnêtes gens qui tergiversent dans les affaires.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TERIAQUE</orth></form>
+            <pc>.</pc>
+        </form>
 <xr>Voyez Theriaque</xr>
-<pc>.</pc></sense>
+<pc>.</pc>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -15577,7 +15608,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>FERMINAISON</orth>
+<orth>TERMINAISON</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -15817,27 +15848,10 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TERRA</orth>
+<orth>TERRA-MERITA</orth>
 </form>
+    <form type="variant"><orth>ou TERRE-MERITE</orth></form>
 </form>
-<pc>-</pc>
-
-<sense>
-<form>MERITA, ou TERRE-MERI</form>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>TE</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>s</pos>
-<pc>.</pc>
-<gen>f</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
 
 <sense>
 <def>Petite racine qu'on porte de plusieurs endroits des grandes Indes, jaunâtre en dedans &amp; en dehors, dure &amp; comme petrifiée, presque semblable en figure &amp; en grosseur au gingembre. Elle pousse des feuilles semblables à celles de l'ellebore blanc, excepté qu'elles ne sont pas si rayées, mais lisses. Sa fleur est d'un très-beau purpurin. Il lui succede un fruit herissé de pointes comme nos châteignes vertes, lequel contient des semences rondes &amp; formées comme des pois, bonnes à manger quand elles sont cuites avec de la viande. La terra-merita teint en jaune comme le safran ; les Indiens s'en servent pour donner cette couleur à leur ris, &amp; à plusieurs autres sortes d'alimens. Les Teinturiers, les Gantiers, les Fondeurs, &amp; quelques autres artisans l'employent aussi pour teindre en jaune ou en couleur d'or. On lui a donné ce nom, parcequ'elle semble une terre endurcie, &amp; qu'elle a de grandes vertus ; elle est autrement appellée curcuma officinarum</def>
@@ -17405,22 +17419,7 @@
 <pc>.</pc>
 
 <sense>
-<def>L s se prononce Ancienne monnoye de France qui a valu 15. s. 6. d. &amp; depuis 19. s</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>6</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>d</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>On a commencé à les fabriquer sous Louïs XII. en 1513. &amp; alors ils ne valoient que 10. s. &amp; étoient du poids de 7. deniers 12 grains. On les appelloit testons a cause de la tête du Roi qui y étoit representée. On n'avoit point fabriqué en France sous la troisiéme race de monnoye d'argent aussi pesante que celle des tessons, &amp; il n'en reste point depuis le commencement de la Monarchie qui soient de ce poids. Avant les testons on ne faisoit en France que des gros qui ne valoient que deux sols. Les testons eurent cours pendant le regne de François I. qui ne fit faire que des testons &amp; demi testons ; &amp; jusqu'à Henri III. qui en interdit la fabrication, &amp; ordonna qu'on fabriquât des pieces de vingt sols à la place. En 1499. après que Louïs XII. se fut rendu maître de Milan, il fit battre de la monnoye comme Duc de Milan, &amp; entrautres des testons sur lesquels étoit representé St. Ambroise assis dans une chaire. Lorsque François II. épousa Marie heritiere d'Ecosse, on fit faire des testons sous le nom de François II. &amp; de Marie Reine d'Ecosse. Le Blanc. On dit d'une chose de vil prix, qu'elle ne vaut pas un teston. On dit pour marquer un homme fort avare, qu'il ne donneroit pas un teston pour un quart d'écu, qu'il se tiendroit à deux liards. On dit aussi avoir toujourle teston au gousset ; pour dire, Avoir toujours de l'argent avec soi. Et au contraire, on dit n'avoir pas le teston ; pour dire, Etre gueux, n'avoir point d'argent : Elle est belle, mais au Diable le teston ; c'esta-dire, qu'elle n'a rien. On a dit aussi proverbialement, qu'une fille avoit l'age d'un teston, quand elle n'avoit que quinze ans</def>
+<def>L s se prononce Ancienne monnoye de France qui a valu 15. s. 6. d. &amp; depuis 19. s. 6. d. On a commencé à les fabriquer sous Louïs XII. en 1513. &amp; alors ils ne valoient que 10. s. &amp; étoient du poids de 7. deniers 12 grains. On les appelloit testons a cause de la tête du Roi qui y étoit representée. On n'avoit point fabriqué en France sous la troisiéme race de monnoye d'argent aussi pesante que celle des tessons, &amp; il n'en reste point depuis le commencement de la Monarchie qui soient de ce poids. Avant les testons on ne faisoit en France que des gros qui ne valoient que deux sols. Les testons eurent cours pendant le regne de François I. qui ne fit faire que des testons &amp; demi testons ; &amp; jusqu'à Henri III. qui en interdit la fabrication, &amp; ordonna qu'on fabriquât des pieces de vingt sols à la place. En 1499. après que Louïs XII. se fut rendu maître de Milan, il fit battre de la monnoye comme Duc de Milan, &amp; entrautres des testons sur lesquels étoit representé St. Ambroise assis dans une chaire. Lorsque François II. épousa Marie heritiere d'Ecosse, on fit faire des testons sous le nom de François II. &amp; de Marie Reine d'Ecosse. Le Blanc. On dit d'une chose de vil prix, qu'elle ne vaut pas un teston. On dit pour marquer un homme fort avare, qu'il ne donneroit pas un teston pour un quart d'écu, qu'il se tiendroit à deux liards. On dit aussi avoir toujourle teston au gousset ; pour dire, Avoir toujours de l'argent avec soi. Et au contraire, on dit n'avoir pas le teston ; pour dire, Etre gueux, n'avoir point d'argent : Elle est belle, mais au Diable le teston ; c'esta-dire, qu'elle n'a rien. On a dit aussi proverbialement, qu'une fille avoit l'age d'un teston, quand elle n'avoit que quinze ans</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -17780,20 +17779,25 @@
 <def>Vers lambique de huit pieds. On ne trouve de ces sortes de vers que dans les Comiques, comme Terence</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<form>TETRAPASTE</form>
-<pc>.</pc>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TETRAPASTE</orth></form>
+            <pc>.</pc>
+           </form>
+        <sense>  
 <usg>Terme de Mechanique</usg>
 <pc>.</pc>
 <def>Machine où il y a quatre poulies</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<form>TETRaPLES</form>
-<pc>.</pc>
-<usg>Terme d'Histoire Ecclesiastique</usg>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TETRAPLES</orth></form>
+            <pc>.</pc>
+        </form>
+        <sense><usg>Terme d'Histoire Ecclesiastique</usg>
 <pc>.</pc>
 <def>C'étoit une Bible rangée par Origene sur quatre colonnes. Sur chique colonne étoit une version differente : celle d'Aquila, de Symmaque, des Septante, &amp; de Theodotion</def>
 <pc>.</pc></sense>
@@ -17889,7 +17893,7 @@
 <head>TEX<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TEYTE</orth>
+<orth>TEXTE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -18010,7 +18014,24 @@
 <pc>.</pc>
 
 <sense>
-<def>Quelques Medecins écrivent Tay. C'est un petit arbrisseau domestique de la hauteur des groseliers ou grenadiers &amp; myrthes, fort estimé chez les Chinois &amp; les Japonois. Ils l'appellent Cha ou Thcia. Il croît en la Province de Kiagnon près la ville de Hoicheu, &amp; auprès de Nankin. Il y en a aussi au Royaume de Siam. Le meilleur de tous est celui du Japon. On dit qu'il en vient aussi en Tartarie. Il a la feuille petite comme celle du sumach des Corroyeurs, dont il est une espece, selon quelques-uns ; mais sa fleur tire davantage sur le jaune, &amp; ses branches sont vétuës de fleurs blanches &amp; jaunes, pointuëes &amp; dentelées. Sa graine est noirâtre, &amp; l'arbrisseau croît en trois ans malgré les neiges &amp; les rigueurs de l'hiver. Il a des racines fibreuses &amp; dentelées. On fait un bruvage de sa premiere feuille qui naît au printemps, qu'on cueille feuille à feuille avec les mêmes soins qu'on fait les vendanges en Europe. On la fait chauffer &amp; secher ; &amp; après l'avoir gardée en des vaisseaux d'étain bien bouchez, si on la jette dans de l'eau bouillante, elle reprend sa premiere verdure, &amp; donne une teinture verdâtre à l'eau avec une odeur &amp; un goût agreable. Les Chinois ne boivent que l'eau où la feuille a trempé le plus chaudement qu'ils peuvent. Les Japonois boivent l'eau &amp; la poudre qu'ils y ont laissé infuser. On en met le poids d'un écu sur un bon verre d'eau, &amp; on y mêle un peu de sucre pour corriger son amertume. Elle est si differente en bonté, qu'il y en a dont la livre vaut 100. ou 150. francs ; d'autre qui ne vaut que deux écus. Il y en a même à sept deniers. Les Hollandois la vendent en France 30. livres, &amp; elle ne leur coute que 10. s. Sa bonne marque est d'être vette, amere &amp; seche, ensorte qu'elle se brise avec les doigts. Elle guerit la goutte &amp; la gravelle, &amp; on croit qu'elle est la cause de ce qu'on n'entend point parler de ces maux à la Chine &amp; dans l'Inde, &amp; de ce que les peuples parviennent à une extrême vieillesse. Elle guerit les indigestions de l'estomac. Elle desenivre, &amp; donne de nouvelles forces pour boire, &amp; dissiper les vapeurs qui causent le sommeil. Elle fortifie la raison que le vin affoiblit, &amp; guerit soudain la migraine &amp; les douleurs de ventre. Mais Simon Paulli Medecin du Roi de Dannemarc, qui a fait un Traitté exprès de cette plante, dit que ces vertus qu'on lui attribuë n'ont point de lieu pour ceux qui habitent en Europe ; &amp; que ceux qui ont passé 40. ans n'en doivent pas user, parcequ'elle avance leur mort, étant trop dessiccative. Il pretend que le thé n'a pas plus de vertu que la betoine, &amp; que ce n'est qu'une espece de myrthe qu'on trouve en Europe, aussi-bien qu'aux Indes ; qu'on l'appelle Chamaleagnus ou Piment Royal, dont la description, les experiences &amp; les analyses qu'il en a faites sont tout-à-fait semblables. Les Chinois en prennent en toutes rencontres, &amp; sur tout à diner. Ils en offrent aux amis qu'ils veulent resonnement plusieurs connoissances des choses divines fondées sur les principes de la Foi. Voyez Scholastique. Lombard obscurcit fort la Theologie par l'inutilité de plusieurs questions dont il l'embarassa. Le P. Ra. La Theologie est une Science querelleuse. Oe. M. On appelle la Sacrée Faculté de Theologie, les Professeurs, Docteurs, &amp; Bacheliers de Theologie. La Somme de Theologie, est un Cours ou un Abregé de toute la Theologie, comme celle de St. Thomas, de Becan : &amp; on dit qu'un homme a fait sa Theologie, lorsqu'il a fait son Cours, ou qu'il a étudié le temps porté par les reglenens pour être admis aux degrez de Theologie. Theologie Mystique</def>
+<def>Quelques Medecins écrivent Tay. C'est un petit arbrisseau domestique de la hauteur des groseliers ou grenadiers &amp; myrthes, fort estimé chez les Chinois &amp; les Japonois. Ils l'appellent Cha ou Thcia. Il croît en la Province de Kiagnon près la ville de Hoicheu, &amp; auprès de Nankin. Il y en a aussi au Royaume de Siam. Le meilleur de tous est celui du Japon. On dit qu'il en vient aussi en Tartarie. Il a la feuille petite comme celle du sumach des Corroyeurs, dont il est une espece, selon quelques-uns ; mais sa fleur tire davantage sur le jaune, &amp; ses branches sont vétuës de fleurs blanches &amp; jaunes, pointuëes &amp; dentelées. Sa graine est noirâtre, &amp; l'arbrisseau croît en trois ans malgré les neiges &amp; les rigueurs de l'hiver. Il a des racines fibreuses &amp; dentelées. On fait un bruvage de sa premiere feuille qui naît au printemps, qu'on cueille feuille à feuille avec les mêmes soins qu'on fait les vendanges en Europe. On la fait chauffer &amp; secher ; &amp; après l'avoir gardée en des vaisseaux d'étain bien bouchez, si on la jette dans de l'eau bouillante, elle reprend sa premiere verdure, &amp; donne une teinture verdâtre à l'eau avec une odeur &amp; un goût agreable. Les Chinois ne boivent que l'eau où la feuille a trempé le plus chaudement qu'ils peuvent. Les Japonois boivent l'eau &amp; la poudre qu'ils y ont laissé infuser. On en met le poids d'un écu sur un bon verre d'eau, &amp; on y mêle un peu de sucre pour corriger son amertume. Elle est si differente en bonté, qu'il y en a dont la livre vaut 100. ou 150. francs ; d'autre qui ne vaut que deux écus. Il y en a même à sept deniers. Les Hollandois la vendent en France 30. livres, &amp; elle ne leur coute que 10. s. Sa bonne marque est d'être vette, amere &amp; seche, ensorte qu'elle se brise avec les doigts. Elle guerit la goutte &amp; la gravelle, &amp; on croit qu'elle est la cause de ce qu'on n'entend point parler de ces maux à la Chine &amp; dans l'Inde, &amp; de ce que les peuples parviennent à une extrême vieillesse. Elle guerit les indigestions de l'estomac. Elle desenivre, &amp; donne de nouvelles forces pour boire, &amp; dissiper les vapeurs qui causent le sommeil. Elle fortifie la raison que le vin affoiblit, &amp; guerit soudain la migraine &amp; les douleurs de ventre. Mais Simon Paulli Medecin du Roi de Dannemarc, qui a fait un Traitté exprès de cette plante, dit que ces vertus qu'on lui attribuë n'ont point de lieu pour ceux qui habitent en Europe ; &amp; que ceux qui ont passé 40. ans n'en doivent pas user, parcequ'elle avance leur mort, étant trop dessiccative. Il pretend que le thé n'a pas plus de vertu que la betoine, &amp; que ce n'est qu'une espece de myrthe qu'on trouve en Europe, aussi-bien qu'aux Indes ; qu'on l'appelle Chamaleagnus ou Piment Royal, dont la description, les experiences &amp; les analyses qu'il en a faites sont tout-à-fait semblables. Les Chinois en prennent en toutes rencontres, &amp; sur tout à diner. Ils en offrent aux amis qu'ils veulent
+    <!-- manquent deux pages, de la fin de thé à theologie -->
+</def>
+</sense>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>THEOLOGIE</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>f</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Science qui donne la connoissance de Dieu, &amp; des choses divines, ou qui a Dieu &amp; les choses qu'il a revelées pour objet. La Theologie est une Science, ou une Doctrine qui nous enseigne ce qu'on doit penser de Dieu, &amp; la maniere dont il veut être servi. La Theologie naturelle, est la connoissance que nous avons de Dieu par les effets, &amp; par les seules lumieres de la Nature. La Theologie surnaturelle, est celle que nous apprenons par la revelation. La Theologie positive, est la connoissance de l'Ecriture Sainte, , &amp; l'explication suivant le sentiment des Peres, &amp; des Conciles, sans le secours de l'argumentation. La Theologie morale, est celle qui donne la connoissance des Loix divines pour regler les moeurs. La Theologie Scholastique, est celle qui tire par le raisonnement plusieurs connoissances des choses divines fondées sur les principes de la Foi. Voyez Scholastique. Lombard obscurcit fort la Theologie par l'inutilité de plusieurs questions dont il l'embarassa. Le P. Ra. La Theologie est une Science querelleuse. Oe. M. On appelle la Sacrée Faculté de Theologie, les Professeurs, Docteurs, &amp; Bacheliers de Theologie. La Somme de Theologie, est un Cours ou un Abregé de toute la Theologie, comme celle de St. Thomas, de Becan : &amp; on dit qu'un homme a fait sa Theologie, lorsqu'il a fait son Cours, ou qu'il a étudié le temps porté par les reglenens pour être admis aux degrez de Theologie. Theologie Mystique</def>
 <pc>.</pc>
 <xr>Voyez Mystique</xr>
 </sense>
@@ -18295,7 +18316,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>HESE</orth>
+<orth>THESE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -18360,7 +18381,7 @@
 <head>THO<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>HOLUS</orth>
+<orth>THOLUS</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -18565,7 +18586,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>THURIEERE</orth>
+<orth>THURIFERE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -18656,7 +18677,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>THYMELEA</orth>
+<orth>THYMELAEA</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -18863,15 +18884,21 @@
 <ref>Tique</ref>
 </xr>
 <pc>.</pc>
-
-<re><form>TiCTÉ, ée</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Les Fleuri</form>
-<pc>s</pc>
-<def>tes appellent fleur titée, celle qui est marquetée</def>
-<pc>.</pc></re>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TICTÉ</orth></form>
+            <pc>,</pc>
+            <form type="inflected"><orth>ée</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>adj</pos>
+                <pc>.</pc>
+               </gramGrp>
+        </form>
+        <sense>
+            <def>Les Fleuristes appellent fleur titée, celle qui est marquetée</def>
+<pc>.</pc></sense>
 </entry>
 </div>
 <div>
@@ -19040,7 +19067,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TIERCAIRES</orth>
+<orth>TIERÇAIRES</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -19130,18 +19157,24 @@
 <def>sont fasces en devise qui se mettent trois-à-trois, comme les jumelles deux-à-deux, les trois fasces n'étant comptées que pour une, &amp; toutes les trois n'occupant que la largeur de la fasce ordinaire, ou de la bande, si elles y sont posées, pourvu qu'il n'y en ait qu'une dans un Ecu</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<form>TIERCÉ</form>
-<pc>,</pc>
-<def>se dit d'un Ecu qui est divisé en trois parties, soit en pal, soit en bande, soit en fasce, par deux lignes paralleêles qui ne se couppent point. Tiercé en bande, est lorsque l'Ecu est divisé en trois parties égales, comme en trois bandes faites de trois emaux differens, sans autre champ ni figure. On dit de même en pal &amp; en fasce</def>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TIERCÉ</orth></form>
+            <pc>.</pc>
+            </form>
+        <sense>
+            <def>se dit d'un Ecu qui est divisé en trois parties, soit en pal, soit en bande, soit en fasce, par deux lignes paralleêles qui ne se couppent point. Tiercé en bande, est lorsque l'Ecu est divisé en trois parties égales, comme en trois bandes faites de trois emaux differens, sans autre champ ni figure. On dit de même en pal &amp; en fasce</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<form>TIERCEFEUILlE</form>
-<pc>,</pc>
-<def>est une figure dont on charge les Ecus des Armoiries, qui a une queuë, &amp; qui par là est distinguée des trefles qui n'en ont point</def>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TIERCEFEUILLE</orth></form>
+            <pc>,</pc>
+            </form>
+        <sense>
+            <def>est une figure dont on charge les Ecus des Armoiries, qui a une queuë, &amp; qui par là est distinguée des trefles qui n'en ont point</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -19270,15 +19303,21 @@
 <def>Encherisseur qui fait une enchere d'un tiers ou un tiercement après une adjudication. L'Ordonnance des Eaux &amp; Forêts veut qu'après les tiercemens &amp; doublemens on ne reçoive les encheres qu'entre le tierceur &amp; le doubleur</def>
 </sense>
 <pc>.</pc>
-
-<re><form>TIErs, Tierce</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Qui e</form>
-<pc>s</pc>
-<def>t après le second. C'est chaque partie d'un tout divisé en trois. L'Eglise, la Noblesse, &amp; le Tiers Etat, sont les trois membres qui composent les Etats du Royaume. Voyez Etats</def>
-</re>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TIERS</orth></form>
+            <pc>,</pc>
+            <form type="inflected"><orth>Tierce</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>adj</pos>
+                <pc>.</pc>
+                </gramGrp>
+        </form>
+        <sense>
+            <def>Qui est après le second. C'est chaque partie d'un tout divisé en trois. L'Eglise, la Noblesse, &amp; le Tiers Etat, sont les trois membres qui composent les Etats du Royaume. Voyez Etats</def>
+</sense>
 <pc>.</pc>
 
 <re><form>Le Tiers Oordre</form>
@@ -19429,7 +19468,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TIGE</orth>
+<orth>TIGÉ</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -19480,9 +19519,25 @@
 <ref>Teignon</ref>
 </xr>
 <pc>.</pc>
-
-<sense>
-<def>TIGrRE, Tigresse. s. m. &amp; f. Animal feroce &amp; cruel qui a des griffes, &amp; la figure d'un chat, mais qui est plus grand, &amp; qui a la peau tachetée. Un tigre d'Hircanie. Un Poëte fait dire à Enée par Didon, pour lui reprocher sa dureté ; Non cruel, tu n'es pas &amp; fils d'une Desse, Tu suças en naissant le lait d'une tigresse</def>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TIGRE</orth></form>
+            <pc>,</pc>
+            <form type="inflected"><orth>Tigresse</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+                <lbl>&amp;</lbl>
+                <gen>f</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Animal feroce &amp; cruel qui a des griffes, &amp; la figure d'un chat, mais qui est plus grand, &amp; qui a la peau tachetée. Un tigre d'Hircanie. Un Poëte fait dire à Enée par Didon, pour lui reprocher sa dureté ; Non cruel, tu n'es pas &amp; fils d'une Desse, Tu suças en naissant le lait d'une tigresse</def>
 </sense>
 <pc>.</pc>
 
@@ -19593,22 +19648,7 @@
 <pc>.</pc>
 
 <sense>
-<def>Arbre grand, gros, fort rameux, &amp; qui donne beaucoup d'ombrage. Son écorce est unie ou noirâtre en dehors, pliante. Son bois est tendre, blanchâtre. Ses feuilles sont larges, arondies, finissant en pointe, dentelées en leurs bords, un peu veluës. Ses fleurs sont à cinq feuilles disposées en rose, de couleur blanche tirant sur le jaune, d'une odeur agreable, soutenuës par un calice taillé en cinq parties blanches, grasses. Chaque fleur est suivie d'une coque ligneuse, grosse comme un gros pois, ronde, un peu oblongue, anguleuse, veluë, renfermant une semence noirâtre, douce. En Latin tilia femina folio majore</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>C</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>Bauh</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Le tilleul sert à faire des allées &amp; des avenuës. Les canaux qu'on voit dans la plupart des villes de Hollande sont bordez de tilleuls des deux côtez. On fait de son écorce des cordes &amp; des cables ; &amp; de son bois on fait des fleches &amp; du charbon pour la poudre à canon. Les Anciens se sont servi de l'écorce intarieure du tillau, au lieu de papier. On en voit s s sss ecoencore des livres écrits il y a mille ans. On l'appelloit autrefois til ou teil : &amp; on appelle tillet, un lieu planté de tillots. Il y a une autre espece de tilleul dont les feuilles sont plus petites, plus noires, plus fermes que celles du precedent ; on l'appelle tilia femina folio minre. C. Bauh</def>
+<def>Arbre grand, gros, fort rameux, &amp; qui donne beaucoup d'ombrage. Son écorce est unie ou noirâtre en dehors, pliante. Son bois est tendre, blanchâtre. Ses feuilles sont larges, arondies, finissant en pointe, dentelées en leurs bords, un peu veluës. Ses fleurs sont à cinq feuilles disposées en rose, de couleur blanche tirant sur le jaune, d'une odeur agreable, soutenuës par un calice taillé en cinq parties blanches, grasses. Chaque fleur est suivie d'une coque ligneuse, grosse comme un gros pois, ronde, un peu oblongue, anguleuse, veluë, renfermant une semence noirâtre, douce. En Latin tilia femina folio majore. C. Bauh. Le tilleul sert à faire des allées &amp; des avenuës. Les canaux qu'on voit dans la plupart des villes de Hollande sont bordez de tilleuls des deux côtez. On fait de son écorce des cordes &amp; des cables ; &amp; de son bois on fait des fleches &amp; du charbon pour la poudre à canon. Les Anciens se sont servi de l'écorce intarieure du tillau, au lieu de papier. On en voit s s sss ecoencore des livres écrits il y a mille ans. On l'appelloit autrefois til ou teil : &amp; on appelle tillet, un lieu planté de tillots. Il y a une autre espece de tilleul dont les feuilles sont plus petites, plus noires, plus fermes que celles du precedent ; on l'appelle tilia femina folio minre. C. Bauh</def>
 </sense>
 <pc>.</pc>
 
@@ -19946,7 +19986,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TIMORE</orth>
+<orth>TIMORÉ</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -20578,7 +20618,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TIRE-DAILE</orth>
+<orth>TIRE-D'AILE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -20950,7 +20990,25 @@
 <pc>.</pc>
 
 <sense>
-<def>Sorte de droguet ; étoffe tissuë grossierement, moitié de fil, moitié de laine. La tiretaine doit avoir trois quartiers de large, &amp; la piece doit être de 35. à 40. aunes de long. Ce mot est ancien, &amp; se disoit autrefois des étoffes precieuses, des draps de laine &amp; d'écarlate. TIRETESTON, cerononcez T ou TIRESOU. s. m. Ce mot se dit en joüant à la Bête, ou à quelque atre jeu, quand on convient que celui qui gagnera le coup, ixea seulement un teston, un sou, ou autre chose</def>
+<def>Sorte de droguet ; étoffe tissuë grossierement, moitié de fil, moitié de laine. La tiretaine doit avoir trois quartiers de large, &amp; la piece doit être de 35. à 40. aunes de long. Ce mot est ancien, &amp; se disoit autrefois des étoffes precieuses, des draps de laine &amp; d'écarlate.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TIRETESTON</orth></form>
+            <pc>.</pc>
+            <pron>Prononcez l's</pron>
+            <pc>.</pc>
+            <form type="variant">ou TIRESOU</form>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Ce mot se dit en joüant à la Bête, ou à quelque atre jeu, quand on convient que celui qui gagnera le coup, ixea seulement un teston, un sou, ou autre chose</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -20959,7 +21017,7 @@
 </form>
 <pc>,</pc>
 <form type="variant">
-<orth>ouTIREVIEILLE</orth>
+<orth>ou TIREVIEILLE</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -21272,7 +21330,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TISSUTIERRUBANIER</orth>
+<orth>TISSUTIER RUBANIER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -21581,7 +21639,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TOCKOVOUGE</orth>
+<orth>TOCKOWOUGE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -21698,7 +21756,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>OILERIE</orth>
+<orth>TOILERIE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -25499,7 +25557,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>YOURBILLON</orth>
+<orth>TOURBILLON</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -25894,7 +25952,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TOURNE-A-GAUCHE</orth>
+<orth>TOURNE-À-GAUCHE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -26688,17 +26746,20 @@
 <form type="lemma">
 <orth>TOUSJOURS</orth>
 </form>
+    <pc>,</pc>
+    <form type="variant"><orth>ou TOUJOURS</orth></form>
+    <gramGrp>
+        <pos>adv</pos>
+        <pc>.</pc>
+        <subc>de temps</subc>
+        <pc>,</pc>
+    </gramGrp>
 </form>
-<re><form>, ou TOUJOURS</form>
-<form>.</form>
-<form>adv</form>
-<form>.</form>
-<form>de temps qui marque une éternité, ou une longue durée</form>
-<pc>,</pc>
-<def>&amp; qui signifie continuellement, Sans interruption, sans fin. Les peines de l'Enfer dureront toujours, dans toute l'éternité. Je serai toujours vôtre serviteur ; pour dire, tant que je vivrai. Les cieux roulent toujours. Ce jet d'eau va tojours, jour &amp; nuit</def>
-</re>
-<pc>.</pc>
-
+    <sense>
+        <def>
+            qui marque une éternité, ou une longue durée &amp; qui signifie continuellement, Sans interruption, sans fin. Les peines de l'Enfer dureront toujours, dans toute l'éternité. Je serai toujours vôtre serviteur ; pour dire, tant que je vivrai. Les cieux roulent toujours. Ce jet d'eau va tojours, jour &amp; nuit
+        </def>
+    </sense>
 <sense>
 <form>Tousjours</form>
 <pc>,</pc>
@@ -27115,7 +27176,22 @@
 <sense>
 <form>Trabe</form>
 <pc>,</pc>
-<def>se dit aussi du bâton qui supporte l'enseigne &amp; la banniere. Il porte une banniere semée de France à la trabe d'argen, TRAC. subst. m. Terme factice, &amp; populaire, qui exprime le bruit d'une chose qui se remuë avec violence, &amp; qui a donné le nom au jeu du Triquetrac. On le dit aussi du bruit que fait une plume qui raye une écriture</def>
+<def>se dit aussi du bâton qui supporte l'enseigne &amp; la banniere. Il porte une banniere semée de France à la trabe d'argent.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TRAC</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>subst</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Terme factice, &amp; populaire, qui exprime le bruit d'une chose qui se remuë avec violence, &amp; qui a donné le nom au jeu du Triquetrac. On le dit aussi du bruit que fait une plume qui raye une écriture</def>
 </sense>
 <pc>.</pc>
 
@@ -27397,7 +27473,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TRACOIR</orth>
+<orth>TRAÇOIR</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -28249,11 +28325,11 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TRAISNEE</orth>
+<orth>TRAISNÉE</orth>
 </form>
 <pc>,</pc>
 <form type="variant">
-<orth>ou TraiNEE</orth>
+<orth>ou TRAINÉE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -28643,13 +28719,6 @@
 <pc>,</pc>
 <def>se dit aussi des diverses parties &amp; configurations du visage. Cette beauté n'est pas reguliere, mais elle a de grands traits. Ces jumeaux se ressemblent fi bien, qu'ils ont tous les mêmes traits. L'âge n'a point gâté cette femme, elle a encore les traits de sa jeunesse. Tous ses traits sont reguliers, &amp; agreables tout ensemble ; ce qui n'arrive presque jamais. St. Ev. Cete fille a tous les traits qui font un beau visage ; mais ils ne sont pas faits les uns pour les autres ; leur assemblage detruit leur detail. Vill. La nature n'a rien épargné pour vous former les traits du visage &amp; du coerps. Voit</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>TRA</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
 <form>Trait</form>
@@ -28813,11 +28882,11 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TRAITTE</orth>
+<orth>TRAITTÉ</orth>
 </form>
 <pc>,</pc>
 <form type="variant">
-<orth>ou TRAITE</orth>
+<orth>ou TRAITÉ</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -28853,9 +28922,22 @@
 <def>se dit aussi d'un sujet sur lequel on écrit. Un Cours de Theologie se divise en plusieurs Traitez, le Traité de la Trinité, de lIncarnation, de la Grace, des Sacremens, &amp;c. Un Traité de la Sphere, de l'Astrolabe, du Compas de proportion. La plupart des Auteurs divisent leurs livres en Traitez sur plusieurs matieres. La Mothe le Vayer a fait plusieurs beaux Traitez ou Opuscules Sceptiques</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<def>TRAItTEMENT,ou TraitEMmENt. subst. masc. Bon ou mauvais accueil qu'on fait à quelcun, outrages ou caresses qu'on lui fait. Ce vainqueur a fait toutes sortes de bons traitemens aux vaincus. Les Corsaires font de mauvais traitemens à leurs esclaves. Le traitement qu'ils nous font, est cause que nous apprehendons. Ablan. On est bien aimé &amp; bien obei par les peuples, selon le bon traitement qu'on leur fait. Le Chirurgien demanda tant pour le traitement &amp; pancement de ces malades</def>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TRAITEMENT</orth></form>
+            <pc>,</pc>
+            <form type="variant"><orth>TRAIEMENT</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>subst</pos>
+                <pc>.</pc>
+                <gen>masc</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Bon ou mauvais accueil qu'on fait à quelcun, outrages ou caresses qu'on lui fait. Ce vainqueur a fait toutes sortes de bons traitemens aux vaincus. Les Corsaires font de mauvais traitemens à leurs esclaves. Le traitement qu'ils nous font, est cause que nous apprehendons. Ablan. On est bien aimé &amp; bien obei par les peuples, selon le bon traitement qu'on leur fait. Le Chirurgien demanda tant pour le traitement &amp; pancement de ces malades</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -29142,13 +29224,21 @@
 </form>
 <pc>.</pc>
 
-<sense>
 <xr>Voyez Trepe, Tremfer</xr>
 <pc>.</pc>
-<def>TRANChANT., TRANCHEE, TRANCHER</def>
-<pc>.</pc>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TRANCHANT</orth></form>
+            <pc>,</pc>
+            <form type="lemma"><orth>TRANCHÉE</orth></form>
+            <pc>,</pc>
+            <form type="lemma">TRANCHER</form>
+            <pc>.</pc>
+            </form>
+
 <xr>Voyez Trenchant, &amp;c</xr>
-<pc>.</pc></sense>
+<pc>.</pc>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -29981,7 +30071,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>RANSMISSION</orth>
+<orth>TRANSMISSION</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -29998,7 +30088,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>RANSMUABLE</orth>
+<orth>TRANSMUABLE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -30625,7 +30715,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>RAPESE</orth>
+<orth>TRAPESE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -30872,11 +30962,14 @@
 <def>se dit des terres qu'on remuë pour retrancher un camp, pour faire des lignes, des trenchées, des attaques pendant un siege, &amp; de toutes les autres deffenses qu'on fait pour se couvrir. On a avancé cette nuit le travail de la trenchée de tant de pas. On alloit voir par curiosité les travaux d'un tel sicge. On a fait une batterie qui a ruiné ce travail. Mallet Ingenieur a fait un livre intitulé, les Travaux de Mars, où il a dessiné la plupart des places importantes de l'Europe</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<form>TRAVAUX</form>
-<pc>,</pc>
-<def>se dit au plurier des actions, de la vie d'une personne, &amp; particulierement de gens heroiques. Dieu benit les travaux des gens de bien. Il recompense les travaux de ceux qui l'ont bien servi. Les Martyrs jouïssent du fruit de leurs glorieux travaux. Les Payens ont aussi appellé les douze travaux d'Hercule, les exploits de ce Heros. On appelle aussi les dehors d'une place, les pieces detachées, des travaux avancez</def>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TRAVAUX</orth></form>
+            <pc>,</pc>
+            </form>
+        <sense>
+            <def>se dit au plurier des actions, de la vie d'une personne, &amp; particulierement de gens heroiques. Dieu benit les travaux des gens de bien. Il recompense les travaux de ceux qui l'ont bien servi. Les Martyrs jouïssent du fruit de leurs glorieux travaux. Les Payens ont aussi appellé les douze travaux d'Hercule, les exploits de ce Heros. On appelle aussi les dehors d'une place, les pieces detachées, des travaux avancez</def>
 </sense>
 <pc>.</pc>
 
@@ -31375,7 +31468,23 @@
 <pc>.</pc>
 
 <sense>
-<def>C'est une épithete qu'on a donné à quelques ruës qui traversent, comme à Paris la ruë Traversine de la porte de Richelieu, du Quai de la Tournelle. TRaVESTIR. L's se prononce. v. n. qui se dit avec le pronom personnel. Se deguiser en prenan d'autres habits, se masquer. Il étoit severement deffendu par la Loi de Moïse de se travesti, de prendre l'habit d'un nutre sene. Jupiter se travestssoit souvent pour tromper la jalousie de Junon. Dans le Camnaval on se travestit pour courir le bal sans être connu. Les espions sont obligez de se travessir pour entrer dans une place, pour traverser un camp emnemi</def>
+<def>C'est une épithete qu'on a donné à quelques ruës qui traversent, comme à Paris la ruë Traversine de la porte de Richelieu, du Quai de la Tournelle.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TRAVESTIR</orth></form>
+            <pc>.</pc>
+            <pron>L's se prononce.</pron>
+            <gramGrp>
+                <pos>v</pos>
+                <pc>.</pc>
+                <subc>n</subc>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>qui se dit avec le pronom personnel. Se deguiser en prenan d'autres habits, se masquer. Il étoit severement deffendu par la Loi de Moïse de se travesti, de prendre l'habit d'un nutre sene. Jupiter se travestssoit souvent pour tromper la jalousie de Junon. Dans le Camnaval on se travestit pour courir le bal sans être connu. Les espions sont obligez de se travessir pour entrer dans une place, pour traverser un camp emnemi</def>
 </sense>
 <pc>.</pc>
 
@@ -31675,14 +31784,19 @@
 <def>Il signifioit aussi une voile, &amp; enfin une tente. Ainsi il est dit dans les anciens Auteurs, Ils firent dresser leurs trefs devant Jerusalem ; pour dire, ils l'assicgerent</def>
 </sense>
 <pc>.</pc>
-
-<re><form>TrREFlE, ée</form>
-<form>.</form>
-<form>adj</form>
-</re>
-<pc>.</pc>
-
-<sense>
+</entry>
+              <entry>
+                  <form type="lemmaGrp">
+                      <form type="lemma"><orth>TREFlE</orth></form>
+                      <pc>,</pc>
+                      <form type="inflected"><orth type="part">ée</orth></form>
+                      <pc>.</pc>
+                      <gramGrp>
+                          <pos>adj</pos>
+                          <pc>.</pc>
+                          </gramGrp>
+                  </form>
+                  <sense>
 <usg>Terme de Medailliste &amp; de Monnoyeur</usg>
 <pc>,</pc>
 <def>qui se dit d'une medaille ou monnoye qui a été frappée au marteau à plusieurs reprises, lorsque les dernieres fois elle n'a pas été rengrenée avec la justesse requise, en telle sorte qu'elle est defigurée, parceque les mêmes points ne se sont pas rencontrez ensemble</def>
@@ -32991,8 +33105,26 @@
 <form>.</form>
 <form>Sorte de piece de verre qu</form>
 <pc>'</pc>
-<def>on met dans les panneaux de vitres, qui sont façon de la Reine ou de croix de Lorraine. TrEnGlEs, tTrENGler, &amp;c. Voyez Trangles, Trangler, &amp;c</def>
-<pc>.</pc></re>
+<def>on met dans les panneaux de vitres, qui sont façon de la Reine ou de croix de Lorraine.</def>
+    </re>
+    </entry>
+              <entry>
+                  <form type="lemmaGrp">
+                      <form type="lemma"><orth>TRENGlES</orth></form>
+                      <pc>,</pc>
+                      <form type="lemma"><orth>TRENGleR</orth></form>
+                      <pc>,</pc>
+                      <lbl>&amp;</lbl>
+                      <pc>.</pc>
+                      <gramGrp>
+                          <pos></pos>
+                          <pc>.</pc>
+                          <gen></gen>
+                          <pc>.</pc>
+                      </gramGrp>
+                  </form>
+                 <xr>Voyez Trangles, Trangler, &amp;c</xr>
+<pc>.</pc>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -33050,9 +33182,22 @@
 <def>Terme numeral. Qui contient trois fois dix, &amp; s'exprime par un trois posé devant un zero à la seconde colonne des nombres. Jesus-Christ fut vendu trente deniers par Judas. Il faut dire trente &amp; un, &amp; non pas trente un : mais il faut dire trente deux, trente trois, &amp;c. On appelle trente six mois, un homme qui va chercher un établissement aux Indes, &amp; dont on paye le passage, parcequ'il s'engage à servir pendant trois ans. Aux cartes, il y a des jeux qu'on appelle la Belle, le Flux, &amp; le Trente un, où celui qui a trente &amp; un point en ses cartes, gagne. Il y a aussi le trente &amp; quarante, où celui qui amene le plus près de trente, gagne. A trente un il gagne double. A quarante il perd double</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<def>TrENTIESME, ou TRENTIEME. adj. numeral ordinal. Qui cst en un rang precedé de vingtmeuf. Le trentiéme, &amp; dernier jour du mois. On peut dire poëtiquement le centiéme Decembre pour la centiéme année ; mais je ne voudrois pas dire le trentieime Decembre pour la trentiéme année, à cause de l'équivoque du trentiéme du mois. Men</def>
+</entry>
+              <entry>
+                  <form type="lemmaGrp">
+                      <form type="lemma"><orth>TRENTIESME</orth></form>
+                      <pc>,</pc>
+                      <form type="variant"><orth>ou TRENTIEME</orth></form>
+                      <pc>.</pc>
+                      <gramGrp>
+                          <pos>adj</pos>
+                          <pc>.</pc>
+                          <subc>numeral ordinal</subc>
+                          <pc>.</pc>
+                          </gramGrp>
+                  </form>
+                  <sense>
+                      <def>Qui est en un rang precedé de vingtmeuf. Le trentiéme, &amp; dernier jour du mois. On peut dire poëtiquement le centiéme Decembre pour la centiéme année ; mais je ne voudrois pas dire le trentieime Decembre pour la trentiéme année, à cause de l'équivoque du trentiéme du mois. Men</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -33326,13 +33471,31 @@
 <gloss>diminutif de trepidare ou tripudiare, qui signifie ter pede terram ferire, comme faisoient les Sauteurs &amp; Baladins des Anciens</gloss>
 </etym>
 <pc>.</pc>
-
-<re><form>TrEpOINT</form>
-<form>,</form>
-<form>s</form>
-<pc>.</pc>
-<def>masc, ou TREPOINTE. subst. fem. Terme de Cordonnier. C'est la couture des semelles du soulier, qui paroît en dehors entre la semelle, &amp; l'empeigne, &amp; qui regne tout autour en façon d'arriere-points</def>
-<pc>.</pc></re>
+</entry>
+              <entry>
+                  <form type="lemmaGrp">
+                      <form type="lemma"><orth>TREPOINT</orth>
+                      <gramGrp>
+                          <pos>subst</pos>
+                          <pc>.</pc>
+                          <gen>masc</gen>
+                          <pc>.</pc>
+                      </gramGrp>
+                  </form>
+                      <lbl>ou</lbl>
+                      <form type="variant">TREPOINTE
+                      <pc>.</pc>
+                      <gramGrp>
+                          <pos>subst</pos>
+                          <pc>.</pc>
+                          <gen>fem</gen>
+                          <pc>.</pc>
+                      </gramGrp>
+                      </form>
+                  </form>
+                  <sense>
+                      <usg>Terme de Cordonnier.</usg> <def>C'est la couture des semelles du soulier, qui paroît en dehors entre la semelle, &amp; l'empeigne, &amp; qui regne tout autour en façon d'arriere-points</def>
+<pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -33399,15 +33562,23 @@
 <lang>Latin</lang>
 <foreign>trans</foreign>
 <pc>,</pc>
-<gloss>comme on a dit trespasser on transpassers TRESCHEUR, ou TrRECHhEUR</gloss>
-<pc>.</pc>
-<gloss>s</gloss>
-<pc>.</pc>
-<gloss>mase</gloss>
-</etym>
-<pc>.</pc>
-
-<sense>
+<gloss>comme on a dit trespasser on transpassers</gloss>
+    </etym>
+    </entry>
+              <entry>
+                  <form type="lemmaGrp">
+                      <form type="lemma"><orth>TRESCHEUR</orth></form>
+                      <pc>,</pc>
+                      <form type="variant"><orth>ou TRECHEUR</orth></form>
+                      <pc>.</pc>
+                      <gramGrp>
+                          <pos>s</pos>
+                          <pc>.</pc>
+                          <gen>masc</gen>
+                          <pc>.</pc>
+                      </gramGrp>
+                  </form>
+                  <sense>
 <usg>Terme de Blason</usg>
 <pc>,</pc>
 <def>est une tresse, ou une espece d'orle, qui n'a neanmoins que la moitié de sa largeur. Le trêcheur est conduit dans le sens de l'Ecu. Il y en a de simples, &amp; de doubles, quelquefois fleuronnez, &amp; contreleuronnez, &amp; quelquefois fleurdelisez, comme celui du Royaume d'Ecosse. On l'appelle autrement essonnier</def>
@@ -34350,27 +34521,9 @@
 <sense>
 <form>Tribut</form>
 <pc>,</pc>
-<def>est aussi une contribution personnelle que les Princes levent sur leurs sujets par capitation pour soutenir les depenses de l'Etat. En Latin il s'appelle tributum ; &amp; en cela il differe de l'impôt, qui se leve sur les marchandises, qu'on appelle vectigal, co qud vehebantur. La taille est un tribut qui est dû au Roi</def>
+<def>est aussi une contribution personnelle que les Princes levent sur leurs sujets par capitation pour soutenir les depenses de l'Etat. En Latin il s'appelle tributum ; &amp; en cela il differe de l'impôt, qui se leve sur les marchandises, qu'on appelle vectigal, co qud vehebantur. La taille est un tribut qui est dû au Roi signifie, Peine, droit, devoir, hommage, respect. Toute la nature humaine doit payer le tribut à la mort</def>
+    <pc>.</pc>
 </sense>
-<pc>.</pc>
-
-<etym>
-<foreign>signifie</foreign>
-<pc>,</pc>
-<gloss>Peine, droit, devoir, hommage, respect</gloss>
-<pc>.</pc></etym>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>T</orth>
-</form>
-<gramGrp>
-<pos>oute</pos>
-<number>la nature humaine doit payer le tribut à la</number>
-<gen>mort</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
 
 <sense>
 <def>Les loüanges, &amp; l'estime sont une espece de tribut qui est du au merite. Bell. Ton cooeur est le tribus que tu dois à ma flamme. Vill. Les Prêtres tirent un tribut de l'ignorance, &amp; de la credulité des peuples. Cl. Un hypocrite ne donne l'aumône qu'à regret, &amp; ne paye ce tribut à Dieu que pour tromper les hommes. St. Ev. N'est-il pas honteux aux Philosophes de tirer un tribut de leur sçavoir ? Abl. L'amour est un tribut qu'on doit à la beauté. Oe. M. Atila ravageoit les peuples indefendus, pour donner de la terreur aux autres, &amp; tirer un tribut de leur épouvante. Corn. Je sçai qu'un noble esprit peut sans homte &amp; sans crine Tirer de son travail un tribut legitime. Boi. Ll'estime &amp; le respect sont de justes tributs Quaux plus fiers ennemis arrachent les vertus. Corn. Mais Adami ds ce jour dechu de son état, D'un tribut de douleurs paya son attemat. Boi. Et mes yeux arrosant ses belles mains de armes, Payerent les premiers le tribut à ses charmes. Cer. Le rhume est un tribut qui se paye tous les ans par la vieillesse. On dit que les larmes sont un tribut qu'on doit à la nature ; c'est-à-dire, qu'en perdant une personne chere, l'on ne peut s'empêcher de verser des larmes. Payer le dernier tribut à la narure, c'est mourir</def>
@@ -34400,16 +34553,19 @@
 <pc>.</pc>
 
 <sense>
-<form>Trieutaire</form>
+<form>Tributaire</form>
 <pc>,</pc>
 <def>se dit figurément, &amp; poëtiquement. Je suis tributaire de vos beaux yeux. Un Poëte a dit en parlant d'une Chasseresse : Et les campagnes solitaires Se rencontrerent tributaires e son ar, &amp; de sen carquois</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<form>TRIC</form>
-<pc>,</pc>
-<def>est un mot inventé par lles Compagnons Imptimeurs, qui leur sert de sig i pour quitter leur ouvrage, &amp; aller faire debauche : ce qui leur est deffendu par l'Article 34. de leurs Statuts, &amp; par l'Article 6. de l'Ordonnance de François I. de 154i. comme aussi par l'Ordonnance de Charles IX. de 157i. il leur est deffendu de faire joumée blanche, ou de faire jour pour jour, mais il leur est enjoint par icelle de continuer</def>
+</entry>
+   <entry>
+       <form type="lemmaGrp">
+           <form type="lemma"><orth>TRIC</orth></form>
+           <pc>.</pc>
+          
+       </form>
+<sense>est un mot inventé par les Compagnons Imptimeurs, qui leur sert de sig i pour quitter leur ouvrage, &amp; aller faire debauche : ce qui leur est deffendu par l'Article 34. de leurs Statuts, &amp; par l'Article 6. de l'Ordonnance de François I. de 154i. comme aussi par l'Ordonnance de Charles IX. de 157i. il leur est deffendu de faire joumée blanche, ou de faire jour pour jour, mais il leur est enjoint par icelle de continuer
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -35421,29 +35577,7 @@
 <sense>
 <form>Triompher</form>
 <pc>,</pc>
-<def>se dit figurément en choses morales, &amp; signifie, Subjuguer, vaincre ; l'emporter. JesusChrist a triomphé de la mort par sa resurrection. Les Martyrs ont triomphé des Tyrans. La foi triomphera toujours de l'enfer. La Philosophie triomphe aisément des maux passez, &amp; des maux à venir ; mais les maux presens triomphent d'elle. La Roch. L'hypocrisie triomphe tous les jours de la vertu. Oe. M. Il y a des hommes qui par la force de leur raison triomphent de la douleur, &amp; de la volupté. M. Esp. Nous écoutons avec une approbation froide &amp; tranquille le recit des combats ou la moderation triomphe de l'emportement</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>P</orth>
-</form>
-<pc>.</pc>
-<form type="variant">
-<orth>d'Elo</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>L</pos>
-<number>'amour triomphe de mon coeur, &amp; de ma liberté</number>
-<pc>.</pc>
-<gen>Sar</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Amour pour toutes armes Veut des soupirs, &amp; des larmes : C'est ce qui triomphe des coeurs. La Fen</def>
+<def>se dit figurément en choses morales, &amp; signifie, Subjuguer, vaincre ; l'emporter. JesusChrist a triomphé de la mort par sa resurrection. Les Martyrs ont triomphé des Tyrans. La foi triomphera toujours de l'enfer. La Philosophie triomphe aisément des maux passez, &amp; des maux à venir ; mais les maux presens triomphent d'elle. La Roch. L'hypocrisie triomphe tous les jours de la vertu. Oe. M. Il y a des hommes qui par la force de leur raison triomphent de la douleur, &amp; de la volupté. M. Esp. Nous écoutons avec une approbation froide &amp; tranquille le recit des combats ou la moderation triomphe de l'emportement. P. D'Elo. L'amour triomphe de mon coeur, &amp; de ma liberté. L'Amour pour toutes armes Veut des soupirs, &amp; des larmes : C'est ce qui triomphe des coeurs. La Fen</def>
 </sense>
 <pc>.</pc>
 
@@ -36444,7 +36578,22 @@
 <gloss>qui a été dit</gloss>
 </etym>
 <sense>
-<def>de ceux qui enseignent ou qui étudient m irivio ; c'est-à-de, en lieu public. TRIUMVIR. s. m. L'un des trois Cbefs qui gouvernent absolument dans un Etat. Il n'a guere été en nsage que chez les Romains. Cesar, Pompée, &amp; Crassus furent les premiers Triumvirs, parcequ'ils partagerent entre eux le gouvernement de la Republique. Les Triumvirs. n'avoient rien de particulier dans la domiation qu'ils exerçoient en commun, si ce n'est qu'ils se vangeoient chacun de leurs ennemis. Cousin. Quitter le nom odieux de Triumvir. Ablan. Il y avoit aussi de moindres Officiers qui furent appellez Triumvirs capitaux, qui furent créez en l'an 463. de la fondation de Rome, pour avoir la garde des prisonniers, &amp; faire executer les criminels. Triumivirs Monetaires, furent des Magistrats qui furent créez au même temps, comme on voit en la Loi 2. au ff. De origine Jaris. Ils devoient veiller sur la fabrication des monnoyes : ce qui est certain par la marque qu'on voit encore sur plusieurs monnoyes anciennes en cette sorte, IIIVIRI. Ces Officiers étoient fort considerables, &amp; tirez du corps des Chevaliers. Ils faisoient partie des Centumvirs</def>
+<def>de ceux qui enseignent ou qui étudient m irivio ; c'est-à-de, en lieu public.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TRIUMVIR</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>L'un des trois Cbefs qui gouvernent absolument dans un Etat. Il n'a guere été en nsage que chez les Romains. Cesar, Pompée, &amp; Crassus furent les premiers Triumvirs, parcequ'ils partagerent entre eux le gouvernement de la Republique. Les Triumvirs. n'avoient rien de particulier dans la domiation qu'ils exerçoient en commun, si ce n'est qu'ils se vangeoient chacun de leurs ennemis. Cousin. Quitter le nom odieux de Triumvir. Ablan. Il y avoit aussi de moindres Officiers qui furent appellez Triumvirs capitaux, qui furent créez en l'an 463. de la fondation de Rome, pour avoir la garde des prisonniers, &amp; faire executer les criminels. Triumivirs Monetaires, furent des Magistrats qui furent créez au même temps, comme on voit en la Loi 2. au ff. De origine Jaris. Ils devoient veiller sur la fabrication des monnoyes : ce qui est certain par la marque qu'on voit encore sur plusieurs monnoyes anciennes en cette sorte, IIIVIRI. Ces Officiers étoient fort considerables, &amp; tirez du corps des Chevaliers. Ils faisoient partie des Centumvirs</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -37042,7 +37191,7 @@
 <pc>.</pc>
 
 <sense>
-<def>Tromfette parlante, est une trompette longue de sept à huit pieds, &amp; quelquefois de quinze, qui est toute droite, &amp; faite de fer blanc, &amp; qui a un fort large pavillon. Son bocal est assez large pour y introduire dedans les deux levres. Que si on parle dedans, elle porte la voix jusqu'à mille pas, &amp; se fait entendre distinctemnt. On dit que l'invention en est moderne, &amp; est du Chevalier Morlan Anglois. Neanmoins le Pere Kircher a donné la figure d'une trompette, dont il dit qu'Alexandre se servoit pour parler à son armée, qui est presque la même chose, à la reserve que celleci se divise en deux tuyaux, qui par après se rejoignent. Fête des Trompettes. Elle se celebroit parmi les Juifs le premier jour de l'année civile, ou politique ; c'est le premier jour du mois de Tisri, ou de Septembre, lequel commençoit le premier jour de la nouvelle Lune, après l'équinoxe d'Automne</def>
+<def>Trompette parlante, est une trompette longue de sept à huit pieds, &amp; quelquefois de quinze, qui est toute droite, &amp; faite de fer blanc, &amp; qui a un fort large pavillon. Son bocal est assez large pour y introduire dedans les deux levres. Que si on parle dedans, elle porte la voix jusqu'à mille pas, &amp; se fait entendre distinctemnt. On dit que l'invention en est moderne, &amp; est du Chevalier Morlan Anglois. Neanmoins le Pere Kircher a donné la figure d'une trompette, dont il dit qu'Alexandre se servoit pour parler à son armée, qui est presque la même chose, à la reserve que celleci se divise en deux tuyaux, qui par après se rejoignent. Fête des Trompettes. Elle se celebroit parmi les Juifs le premier jour de l'année civile, ou politique ; c'est le premier jour du mois de Tisri, ou de Septembre, lequel commençoit le premier jour de la nouvelle Lune, après l'équinoxe d'Automne</def>
 </sense>
 <pc>.</pc>
 
@@ -37072,7 +37221,22 @@
 <sense>
 <form>Trompetté</form>
 <pc>,</pc>
-<def>se dit proverbialement en ces phrases. On dit qu'un homme est bon cheval ce trompette, qu'il ne s'éoime pas pour le bruit, quand il ne se soucie pas des crieries qu'on peut faire contre lui. On dit qu'il faut delogei sans trompette, quand on chasse quelcun, quand on l'oblige de s'enfuir avec precipitation. On dit aussi, A gens de village trompette de bois ; pour dire, qu'il faut faire aux gens des traittemens proportionnez à leur condition. TROMmPETTER. v. act. Il ne se dit guere que pour signifier, Publier à son de trompe &amp; à cri public dans les marchez, dans les carrefours, quelque reglement, quelque ordonnance de Police, quelque ajournement a trois briefs jours. Un tel a été trompetté pour la troisiéme fois</def>
+<def>se dit proverbialement en ces phrases. On dit qu'un homme est bon cheval ce trompette, qu'il ne s'éoime pas pour le bruit, quand il ne se soucie pas des crieries qu'on peut faire contre lui. On dit qu'il faut delogei sans trompette, quand on chasse quelcun, quand on l'oblige de s'enfuir avec precipitation. On dit aussi, A gens de village trompette de bois ; pour dire, qu'il faut faire aux gens des traittemens proportionnez à leur condition.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TROMPETTER</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>v</pos>
+                <pc>.</pc>
+                <subc>act</subc>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Il ne se dit guere que pour signifier, Publier à son de trompe &amp; à cri public dans les marchez, dans les carrefours, quelque reglement, quelque ordonnance de Police, quelque ajournement a trois briefs jours. Un tel a été trompetté pour la troisiéme fois</def>
 </sense>
 <pc>.</pc>
 
@@ -37083,7 +37247,7 @@
 </sense>
 <pc>.</pc>
 
-<re><form>Taompetté, ée</form>
+<re><form>Trompetté, ée</form>
 <form>.</form>
 <form>part</form>
 <pc>.</pc>
@@ -37262,7 +37426,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TRONCON</orth>
+<orth>TRONÇON</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -37294,7 +37458,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TRONCONNER</orth>
+<orth>TRONÇONNER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -38092,14 +38256,30 @@
 <pc>.</pc>
 
 <sense>
-<form>Troufe</form>
+<form>Troupe</form>
 <pc>,</pc>
 <def>se dit quelquefois en parlant des societez de plusieurs personnes. Une troupe choisie, est une compagnie de personnes agreables &amp; de bon goût. Une bonne troupe de Comediens. Une troups de Bandis, de couppeurs de bourses, de Bohemiens, &amp;c. Troupes, au pluriel, se dit des gens de guerre en general, d'une armée. On fait marcher les troupes en Flandres. Le Roi a fait lever beaucoup de troupes. Les treupes deffilent. On a mis les tropes en quartier d'hiver. Les troupes se debandent. On a licentié les troupes</def>
 </sense>
 <pc>.</pc>
 
 <sense>
-<def>On dit proverbialement, que les étourneaux sont maigres, parcequ'ils vont en roupe ; c'est-à-dire, qu'ils ne trouvent pas assez dequoy se nourrir. e espece qui sont dans un même lieu ; betail qu'on assemble pour le nourrir &amp; le mener paître. Dans les metairies il faut avoir des troupeaux de brebis, de moutons, de bêtes à laine, pour les faire valoir. Les troupeaux de bêtes aumailles sont des boeufs &amp; des vaches. Les anciens Patriarches étoient riches en treupeaux. Les Heros des Bergeries gardent les troupeaux</def>
+<def>On dit proverbialement, que les étourneaux sont maigres, parcequ'ils vont en troupe ; c'est-à-dire, qu'ils ne trouvent pas assez dequoy se nourrir.
+    </def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TROUPEAU</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Troupe d'animaux de la même espece qui sont dans un même lieu ; betail qu'on assemble pour le nourrir &amp; le mener paître. Dans les metairies il faut avoir des troupeaux de brebis, de moutons, de bêtes à laine, pour les faire valoir. Les troupeaux de bêtes aumailles sont des boeufs &amp; des vaches. Les anciens Patriarches étoient riches en treupeaux. Les Heros des Bergeries gardent les troupeaux</def>
 </sense>
 <pc>.</pc>
 
@@ -38229,11 +38409,14 @@
 <def>est le coin que porte l'empreinte de l'effigie ou de la croix, qui servoit à marquer la monnoye, quand on la fabriquoit au marteau. Il étoit pointu par l'autre bout, afin de l'enfoncer plus facilement dans le billot preparé pour le soutenir. On l'appelle aussi poinçon d'efve Trousseau. Terme de Fondeur. Longue piece de bois en lorme conique, c'est-à-dire, plus menue par un bout que par l'autre, sur laquelle on forme les moules des pieces de canon</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<form>TROuSSEGALAND</form>
-<pc>,</pc>
-<def>est un nom qu'on denne à un grand dégorgement de bile fort dangereux, &amp; qui emporte un jeune homme en peu de jours. On l'appelle autrement colera morbus. Il est bienheureux d'être échappé de ce trossegaland, il ne s'en portera que mieux</def>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TROUSSEGALAND</orth></form>
+            <pc>,</pc>
+            </form>
+        <sense>
+            <def>est un nom qu'on donne à un grand dégorgement de bile fort dangereux, &amp; qui emporte un jeune homme en peu de jours. On l'appelle autrement colera morbus. Il est bienheureux d'être échappé de ce trossegaland, il ne s'en portera que mieux</def>
 </sense>
 <pc>.</pc>
 
@@ -38241,10 +38424,14 @@
 <def>On a aussi appellé treassegaland, un certain accident de peste qui affligea fort il y a quelque temps la ville du Puy en Auvergne, qui eut cela de remarquable, que les malades les plus robustes étoient plutôt emportez que les foibles, &amp; les riches que les pauvres, avec des delires si furieux, qu'ils mouroient comme enragez, ensorte qu'il les faloit lier</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<form>TROUSSEQUEuUE</form>
-<pc>,</pc>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TROUSSEQUEUE</orth></form>
+            <pc>.</pc>
+            
+        </form>
+        <sense>
 <usg>en termes de Manege</usg>
 <pc>,</pc>
 <def>est un gros cuir qu'on attache à la queuë des chevaux sauteurs pour la tenir en état, &amp; empêcher qu'ils n'en jouent</def>
@@ -38459,7 +38646,16 @@
 <pc>.</pc>
 
 <sense>
-<def>On appelle un enfant trouvé, un enfant exposé dont on ne connoît ni le pere ni la mere. Les Seigneurs HautsJusticiers sont condamnez à nourrir les enfans trouvez dans leur Seigneurie : on les taxe à Paris pour contribuer à la nourriture des enfans trouvez. Le P. Bouhours a dit en parlant de Mr. Menage qui se vantoit d'avoir fait Prosateur, que ce mot n'est pas un de ces enfans trouvez, dont on ne connoit le pere, ni la mere, &amp;c. TROuUVERES. Vieux mot François, qui s'est dit des premiers Poëtes Provençaux, qui étoient inventeurs des fables que les anciens Menêtriers alloient chanter chez les Grands. On les appelloit aussi Trouveours, ou Trouveurs, ou Troubadours, dont la Poësie consistoit en Sonnets, Pastorales, Chansons, Syrvantes, &amp; Tensons. Jean Nostradamus a fait un ample discours de ces Poëtes, qu'il met au nombre de 76</def>
+<def>On appelle un enfant trouvé, un enfant exposé dont on ne connoît ni le pere ni la mere. Les Seigneurs HautsJusticiers sont condamnez à nourrir les enfans trouvez dans leur Seigneurie : on les taxe à Paris pour contribuer à la nourriture des enfans trouvez. Le P. Bouhours a dit en parlant de Mr. Menage qui se vantoit d'avoir fait Prosateur, que ce mot n'est pas un de ces enfans trouvez, dont on ne connoit le pere, ni la mere, &amp;c.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TROUVERES</orth></form>
+            <pc>.</pc>
+            </form>
+        <sense>
+            <def>Vieux mot François, qui s'est dit des premiers Poëtes Provençaux, qui étoient inventeurs des fables que les anciens Menêtriers alloient chanter chez les Grands. On les appelloit aussi Trouveours, ou Trouveurs, ou Troubadours, dont la Poësie consistoit en Sonnets, Pastorales, Chansons, Syrvantes, &amp; Tensons. Jean Nostradamus a fait un ample discours de ces Poëtes, qu'il met au nombre de 76</def>
 <pc>.</pc>
 <xr>Voyez Pasquier &amp; Fauchet</xr>
 <pc>.</pc></sense>
@@ -38782,7 +38978,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TRUITTE</orth>
+<orth>TRUITTÉ</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -39648,7 +39844,7 @@
 <head>TUN<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TuNA</orth>
+<orth>TUNA</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -39948,14 +40144,37 @@
 <sense>
 <form>Turbulent</form>
 <pc>,</pc>
-<def>se dit aussi des chevaux de manege. Cheval inquiet &amp; turbulent ; pour dire, cheval vif &amp; toûjours en l'action. Guillet. TuURc Tuaque. adj. &amp; s. m. &amp; f. Sujet de l'Empereur d'Orient qui fait profession de la Secte de Mahomet. La Religion Turque. Un habit à la Turque. La langue Turque. Je suis très-humble serviteur à son Altesse Turque, dit le Bourgeois Gentilhomme dans la Comedie de Moliere. On appelle generalement Turcs, tous les sujets du Grand Seigneur, que le peuple appelle le Grand Turc. Les Tarcs originairement vienment du Turquestan, ou Turcomanie. On dit anssi un cheval Taré</def>
+<def>se dit aussi des chevaux de manege. Cheval inquiet &amp; turbulent ; pour dire, cheval vif &amp; toûjours en l'action. Guillet. </def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>TURC</orth></form>
+            <pc>,</pc>
+            <form type="inflected"><orth>Turque</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>adj</pos>
+                <pc>.</pc>
+                <lbl>&amp;</lbl>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+                <lbl>&amp;</lbl>
+                <gen>f</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Sujet de l'Empereur d'Orient qui fait profession de la Secte de Mahomet. La Religion Turque. Un habit à la Turque. La langue Turque. Je suis très-humble serviteur à son Altesse Turque, dit le Bourgeois Gentilhomme dans la Comedie de Moliere. On appelle generalement Turcs, tous les sujets du Grand Seigneur, que le peuple appelle le Grand Turc. Les Tarcs originairement vienment du Turquestan, ou Turcomanie. On dit anssi un cheval Taré</def>
 </sense>
 <pc>.</pc>
 
 <sense>
 <form>Turc</form>
 <pc>,</pc>
-<def>subst. mase. se dit pour la langue Turque. Il entend fort bien le Turc</def>
+<def>subst. masc. se dit pour la langue Turque. Il entend fort bien le Turc</def>
 </sense>
 <pc>.</pc>
 
@@ -40314,7 +40533,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TuTEUR</orth>
+<orth>TUTEUR</orth>
 </form>
 <pc>.</pc>
 <gramGrp>

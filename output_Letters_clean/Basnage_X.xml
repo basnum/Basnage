@@ -6309,16 +6309,19 @@
 <form type="lemma">
 <orth>X</orth>
 </form>
+    <pron>On prononce ix.</pron>
 </form>
 <sense>
-<def>-uniéme lettre de l'Alphabeth François, qui a la prononciation du cs. Ainsi, on prononce Alexandre, comme si on écrivoit Alecsandre. On le prononce quelquefois comme une s ; ainsi, on dit Saintonge, au lieu de aintonge ; Brisselles au lieu de Bruxelles. On le prononce aussi quelquefois comme unz. Ainsi on dit sixiéme au lieu de sixiéme. L'x est une lettre double qu'on a empruntée du Latin. Les Anciens y bomoient leur Alphabeth, comme on voit dans Quintilien. Aymoin après Gregoire de Tours dit que Chilperic fils de Clotaire I. ordonna que les lettres x, ch &amp; ph seroient ajoutées à nôtre Alphabeth, qu'elles seroient enseignées aux enfans, &amp; que les livres precedens seroient redecrits ou effacez avec la pierre ponce. Il y a là-dessus une grande dispute entre les Sçavans</def>
+<def>La vint-&amp;-uniéme lettre de l'Alphabeth François, qui a la prononciation du cs. Ainsi, on prononce Alexandre, comme si on écrivoit Alecsandre. On le prononce quelquefois comme une s ; ainsi, on dit Saintonge, au lieu de Xaintonge ; Brusselles au lieu de Bruxelles. On le prononce aussi quelquefois comme un z. Ainsi on dit siziéme au lieu de sixiéme. L'x est une lettre double qu'on a empruntée du Latin. Les Anciens y bornoient leur Alphabeth, comme on voit dans Quintilien. Aymoin après Gregoire de Tours dit que Chilperic fils de Clotaire I. ordonna que les lettres x, ch &amp; ph seroient ajoutées à nôtre Alphabeth, qu'elles seroient enseignées aux enfans, &amp; que les livres precedens seroient redecrits ou effacez avec la pierre ponce. Il y a là-dessus une grande dispute entre les Sçavans</def>
 </sense>
 <pc>.</pc>
 
 <sense>
 <form>X</form>
 <pc>,</pc>
-<def>est aussi une lettre numerale, qui signifie dix, parcequ'elle represente deux V posez l'un sur l'autre. X supra denos numero tibi dat retinendos. Quand on met un titre dessus, X, il vaut dix mille</def>
+<def>est aussi une lettre numerale, qui signifie dix, parcequ'elle represente deux V posez l'un sur l'autre. 
+    X supra denos numero tibi dat retinendos. 
+    Quand on met un titre dessus, X, il vaut dix mille</def>
 <pc>.</pc></sense>
 </entry>
 </div>
@@ -6360,7 +6363,7 @@
 <sense>
 <def>Racine purgative qui vient aux Indes Occidentales</def>
 <pc>.</pc>
-<xr>Voyez Jalap</xr>
+<xr><lbl>Voyez</lbl> <ref>Jalap</ref></xr>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -6379,7 +6382,7 @@
 <sense>
 <def>Arbre qui croît en plusieurs lieux de l'Amerique. On l'appelle autrement goyavier</def>
 <pc>.</pc>
-<xr>Voyez Goyavier</xr>
+<xr><lbl>Voyez</lbl> <ref>Goyavier</ref></xr>
 <pc>.</pc></sense>
 </entry>
 </div>
@@ -6401,7 +6404,7 @@
 <sense>
 <def>C'est un nom qu'on donne à la semencine, ou semence contre les vers</def>
 <pc>.</pc>
-<xr>Voyez Semencine</xr>
+<xr><lbl>Voyez</lbl> <ref>Semencine</ref></xr>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -6427,7 +6430,7 @@
 <lang>Grecs</lang>
 <foreign>xeros</foreign>
 <pc>,</pc>
-<gloss>sec, &amp; phihalmos, oeil</gloss>
+<gloss>sec,</gloss> <lbl>&amp;</lbl> <foreign>phihalmos</foreign><pc>,</pc> <gloss>oeil</gloss>
 <pc>.</pc></etym>
 </entry>
 </div>
@@ -6447,7 +6450,7 @@
 <sense>
 <usg>Terme d'Anatomie</usg>
 <pc>.</pc>
-<def>C'est u nom qu'on donne au cartilage qui est eu bas dusternum; il est long d'un pouce ou environ, &amp; il ressemble à une pointe d'épée ; d'où vient qu'on l'appelle xiphoide ou nsiforme. Le mot de xiphoide est composé de deux mots Grecs, xiphos, épée, &amp; cidos, figure. On l'appelle communément la fourchette, parcequ'il est quelquefois divisé comme une fourche</def>
+<def>C'est un nom qu'on donne au cartilage qui est eu bas du sternum; il est long d'un pouce ou environ, &amp; il ressemble à une pointe d'épée ; d'où vient qu'on l'appelle xiphoide ou ensiforme. Le mot de xiphoide est composé de deux mots Grecs, xiphos, épée, &amp; eidos, figure. On l'appelle communément la fourchette, parcequ'il est quelquefois divisé comme une fourche</def>
 <pc>.</pc></sense>
 </entry>
 </div>
@@ -6469,7 +6472,7 @@
 <sense>
 <usg>Terme d'Architecture</usg>
 <pc>.</pc>
-<def>Un xiste chez les Grecs étoit un portique d'une grande longueur couvert, ou decouvert, &amp; où les Athletes s'exerçoient à la course, ou à la lutte. Les istes chez les Romains n'étoient autre chose que des allées d'arbres couvertes qui servoient à la promenade</def>
+<def>Un xiste chez les Grecs étoit un portique d'une grande longueur couvert, ou decouvert, &amp; où les Athletes s'exerçoient à la course, ou à la lutte. Les xistes chez les Romains n'étoient autre chose que des allées d'arbres couvertes qui servoient à la promenade</def>
 <pc>.</pc></sense>
 </entry>
 </div>
@@ -6489,7 +6492,7 @@
 <pc>.</pc>
 
 <sense>
-<def>Arbre moyen des Indes Occidentales, qui croit dans la Province de Mcchoacan. Son tronc &amp; son écorce ont une très-bonne odeur, &amp; il en soit une liqueur qui fent parfaitement le limon. Ses feuilles sont longues de cinq pouces &amp; demi, larges de deux, d'un vert obscur. Ses fleurs sont composées de quantité d'étamines jaunes. La liqueur qui sort de cet arbre a les proprietez de la resine appellée copal</def>
+<def>Arbre moyen des Indes Occidentales, qui croit dans la Province de Mechoacan. Son tronc &amp; son écorce ont une très-bonne odeur, &amp; il en sort une liqueur qui sent parfaitement le limon. Ses feuilles sont longues de cinq pouces &amp; demi, larges de deux, d'un vert obscur. Ses fleurs sont composées de quantité d'étamines jaunes. La liqueur qui sort de cet arbre a les proprietez de la resine appellée copal</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -6506,7 +6509,7 @@
 <pc>.</pc>
 
 <sense>
-<def>Sorte de boisson des Mexicains qu'ils font en prenant du mais cuit &amp; reduit en masse. Après qu'ils y ont mis de l'eau, ils le laissent une nuit à l'air, &amp; ensuite ils le pressent le matin. ecoauil en leur langue est comme qui diroit eau aigre. Dix onces de cette eau buës à jun pendant quelques jours temperent merveilleusement l'ardeur de l'urine, &amp; appaisent toute sorte de chaleur</def>
+<def>Sorte de boisson des Mexicains qu'ils font en prenant du mais cuit &amp; reduit en masse. Après qu'ils y ont mis de l'eau, ils le laissent une nuit à l'air, &amp; ensuite ils le pressent le matin. Xocoatl en leur langue est comme qui diroit eau aigre. Dix onces de cette eau buës à jûn pendant quelques jours temperent merveilleusement l'ardeur de l'urine, &amp; appaisent toute sorte de chaleur</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -6523,7 +6526,7 @@
 <pc>.</pc>
 
 <sense>
-<def>Grand arbre qui croît en abondance dans la Province de Tabasco, &amp; à la Jamaïque. Ses feuilles sont semblables à celles de l'oranger, &amp; fort odorantes. Ses fleurs sont rouges, ayant la forme des fleurs du grenadier, &amp; l'odeur de celles de l'oranger. Ses fruits pendent par grapes, &amp; sont ronds, verts au commencement, ensuite roux, &amp; à la fin noirs. Cet arbre est le même que celui que J. Bahin appelle amomum quorundam odere cayophylli. Les Espagnols appellent le fruit, poivre de Mexique ou de Tabasco ; les Anglois porvre de la Jamaique, &amp; Redi poivre de Chiapa. Ce fruit est âcre &amp; de bonne odeur ; on s'en sert au lieu de poivre</def>
+<def>Grand arbre qui croît en abondance dans la Province de Tabasco, &amp; à la Jamaïque. Ses feuilles sont semblables à celles de l'oranger, &amp; fort odorantes. Ses fleurs sont rouges, ayant la forme des fleurs du grenadier, &amp; l'odeur de celles de l'oranger. Ses fruits pendent par grapes, &amp; sont ronds, verts au commencement, ensuite roux, &amp; à la fin noirs. Cet arbre est le même que celui que J. Bauhin appelle amomum quorundam odere cayophylli. Les Espagnols appellent le fruit, poivre de Mexique ou de Tabasco ; les Anglois poivre de la Jamaique, &amp; Redi poivre de Chiapa. Ce fruit est âcre &amp; de bonne odeur ; on s'en sert au lieu de poivre</def>
 <pc>.</pc></sense>
 </entry>
 </div>
@@ -6569,9 +6572,9 @@
 
 <etym>
 <lbl>Ce mot est</lbl>
-<lang>Gree</lang>
+<lang>Grec</lang>
 <pc>,</pc>
-<gloss>composé de xylon, bois, &amp; de balsamon, baume</gloss>
+<lbl>composé de</lbl> <foreign>xylon</foreign><pc>,</pc> <gloss>bois</gloss><pc>,</pc> <lbl>&amp; de</lbl> <foreign>balsamon</foreign><pc>,</pc> <gloss>baume</gloss>
 <pc>.</pc></etym>
 </entry>
 <entry><form type="lemmaGrp">
@@ -6590,7 +6593,7 @@
 <sense>
 <def>C'est la plante qui porte le coton</def>
 <pc>.</pc>
-<xr>Voyez Coton</xr>
+<xr><lbl>Voyez</lbl> <ref>Coton</ref></xr>
 <pc>.</pc></sense>
 </entry>
 </div>
@@ -6610,7 +6613,7 @@
 <pc>.</pc>
 
 <sense>
-<def>Plante qu'on appelle autrement espatule, ou glayeul puant. Ce mot est Grec</def>
+<def>Plante qu'on appelle autrement espatule, ou glayeul puant.</def> <etym>Ce mot est <lang>Grec</lang></etym>
 <pc>.</pc></sense>
 </entry>
 </div>

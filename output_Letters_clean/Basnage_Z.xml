@@ -6317,8 +6317,7 @@
                   <pc>.</pc>
               </gramGrp>
               <sense>
-                  <def>
-        Vingt-troisiéme &amp; derniere lettre de l'Alphabeth François, qui est consone, &amp; qu'on prononce zède, comme il paroît par ces vers de Voiture. Renvoyons à Palamede, Qui le premier les mit au jour, Le p avec x, Ys. Le z se joint souvent, &amp; même se doit toûjours joindre avec l'e masculin final, au plurier, soit dans les verbes, venez, voyez, écoutez, soit dans les noms ou adjectifs, comme gens sensez, soldats estropiez, mots surannez, ou substantifs, beautez, bontez, difficultez. Depuis quelque temps, bien des gens écrivent tous ces mots avec un és à la fin au lieu d'un ez ; comme bontés au lieu de bontez ; mais mal, parceque és ne peut jamais produire le même son que produit ez dans la bouche de ceux qui sçavent prononcer. Il n'y a que les Gascons qui prononcent venis, sensés, bontés, pour, venez, sensez, bomez</def>
+                  <def>Vingt-troisiéme &amp; derniere lettre de l'Alphabeth François, qui est consone, &amp; qu'on prononce zède, comme il paroît par ces vers de Voiture. Renvoyons à Palamede, Qui le premier les mit au jour, Le p avec x, Ys. Le z se joint souvent, &amp; même se doit toûjours joindre avec l'e masculin final, au plurier, soit dans les verbes, venez, voyez, écoutez, soit dans les noms ou adjectifs, comme gens sensez, soldats estropiez, mots surannez, ou substantifs, beautez, bontez, difficultez. Depuis quelque temps, bien des gens écrivent tous ces mots avec un és à la fin au lieu d'un ez ; comme bontés au lieu de bontez ; mais mal, parceque és ne peut jamais produire le même son que produit ez dans la bouche de ceux qui sçavent prononcer. Il n'y a que les Gascons qui prononcent venis, sensés, bontés, pour, venez, sensez, bomez</def>
 </sense>
 <pc>.</pc>
 
@@ -6596,7 +6595,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ZELE</orth>
+<orth>ZELÉ</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -7276,7 +7275,7 @@
 <lbl>Ce mot vient de</lbl>
 <foreign>zymosis</foreign>
 <pc>,</pc>
-<gloss>fermentation, &amp; metron, mesiure</gloss>
+<gloss>fermentation</gloss><pc>,</pc> <lbl>&amp;</lbl> <foreign>metron</foreign><pc>,</pc> <gloss>mesure</gloss>
 <pc>.</pc></etym>
 </entry>
 </div>

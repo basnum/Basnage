@@ -6314,7 +6314,7 @@
                      <gen>masc</gen>
                      <pc>.</pc>
                  </gramGrp>
-             <sense><def>Lettre consone &amp; double, dixiéme de l'Alphabet;</def> sa prononciation est Ka. Cette lettre est empruntée des Grecs, c'étoit le kappa. Elle étoit peu en usage chez les Latins : ils ne l'employent gueres que pour marquer les Calendes, &amp; ils les marquoient par un K seulement. Le C tenoit lieu du K. Il a éte jugé inutile &amp; superflu par Priscien, liv. premier. Claude Dausquius dit après Saluste, que l'inventeur du K fut un nommé Salvius, &amp; qu'il a été inconnu aux anciens Romains. On ne s'en sert plus dans la langue Françoise qu'en quelques termes d'Art, &amp; quelques noms pris des langues etrangeres. Ablancourt dans son dialogue des lettres fait dire au K, qu'on a souvent mis en deliberation de le chasser de la langue Françoise, &amp; de le releguer dans les païs du Nord</sense>
+             <sense><def>Lettre consone &amp; double, dixiéme de l'Alphabet; sa prononciation est Ka. Cette lettre est empruntée des Grecs, c'étoit le kappa. Elle étoit peu en usage chez les Latins : ils ne l'employent gueres que pour marquer les Calendes, &amp; ils les marquoient par un K seulement. Le C tenoit lieu du K. Il a éte jugé inutile &amp; superflu par Priscien, liv. premier. Claude Dausquius dit après Saluste, que l'inventeur du K fut un nommé Salvius, &amp; qu'il a été inconnu aux anciens Romains. On ne s'en sert plus dans la langue Françoise qu'en quelques termes d'Art, &amp; quelques noms pris des langues etrangeres. Ablancourt dans son dialogue des lettres fait dire au K, qu'on a souvent mis en deliberation de le chasser de la langue Françoise, &amp; de le releguer dans les païs du Nord</def></sense>
             <sense>
 <form>K</form><pc>,</pc> <def>est aussi une lettre numerale, qui signifie chez les Anciens, deux cent cinquante, suivant ce vers : 
     K quoque ducentos &amp; quinquaginta tenebit. 
@@ -6370,7 +6370,7 @@
 <sense>
 <def>Plante qu'on appelle autrement soude, des cendres de laquelle on fait le verre, &amp; de sa lescive le sel alkali</def>
 <pc>.</pc>
-<xr>Voyez Soude</xr>
+<xr><lbl>Voyez</lbl> <ref>Soude</ref></xr>
 <pc>.</pc></sense>
 </entry>
 </div>
@@ -6410,7 +6410,7 @@
 <sense>
 <def>Est un nom que les Droguistes donnent à l'ambre jaune, qui est tiré du mot karabe, qui selon Avicenne, signifie tire-paille en langue Persique. Dioscoride a cru que c'étoit la resine du peuplier ; mais il s'est trompé</def>
 <pc>.</pc>
-<xr>Voyez Ambre Jaune</xr>
+<xr><lbl>Voyez</lbl> <ref>Ambre Jaune</ref></xr>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -6432,7 +6432,7 @@
 <sense>
 <def>Plante qui croit aux Indes Occidentales, &amp; qu'on appelle autrement Karata ; ou Caraguata acanga</def>
 <pc>.</pc>
-<xr>Voyez Karata</xr>
+<xr><lbl>Voyez</lbl> <ref>Karata</ref></xr>
 <pc>.</pc></sense>
 </entry>
 <entry>
@@ -6476,7 +6476,7 @@
 <sense>
 <def>Espece de coque grosse comme une baye de genievre, ronde, lisse, luisante, d'un beau rouge, remplie d'un suc de la même couleur, d'une odeur vineuse, d'un goût un peu amer, assez agreable : elle se trouve attachée &amp; adberante en maniere d'excroissance à l'écorce d'enbas &amp; sur les feuilles d'une espece de chêne-vert que C. Bauhin appelle Ilex aculeata cocciglandifera, &amp; qui croît en Espagne, en Languedoc &amp; en plusieurs autres endroits chauds. Lorigine du Kermes vient de ce qu'une espece de vermisseau piquant ce chêne-vert, pour en tirer sa nourriture, y fait naître une coque ou une vessie qui se remplit de suc, &amp; qui en meurissant devient rouge comme nous la voyons. Ce petit insecte s'envelope dans la coque. Lors que l'on fait secher le Kermes, il en sort une si grande quantité de petits vers &amp; de moucherons presque imperceptibles, que toute sa substance interieure semble s'être convertie en ces petits insectes. C'est pour cette raison qu'on le nomme aussi vermillon. Pour remedier à cet accident quelques-uns mettent tremper un peu de temps le kermes dans du vinaigre, avant que de le faire secher. On tire du kermes le suc ou la pulpe our en faire du syrop, en y ajoutant une quantité sufisante de sucre. On fait aussi secher de la pulpe de kermes separée de son écorce, on appelle cette pulpe seche Pastel d'écarlate. Les Teinturiers s'en servent. Le kermes est cardiaque, desicatif, astringent, il fortifie l'estomac, &amp; empêche l'avortement. En Latin kermes, granum tinctorium ou cocum infecorium</def>
 <pc>.</pc></sense>
-<etym>Ce mot est Arabe</etym>
+<etym>Ce mot est <lang>Arabe</lang></etym>
 <pc>.</pc>
 </entry>
 <entry><form type="lemmaGrp">
@@ -6494,7 +6494,7 @@
 <sense>
 <def>Plante, qu'on appelle autrement Ricin, ou grande catapuce</def>
 <pc>.</pc>
-<xr>Voyez Ricin</xr>
+<xr><lbl>Voyez</lbl> <ref>Ricin</ref></xr>
 <pc>.</pc></sense>
 </entry>
 </div>
@@ -6568,7 +6568,7 @@
 <pc>.</pc>
 <etym>
 <lbl>Ce mot vient de</lbl>
-<foreign>kynos genitif de kyon</foreign>
+<foreign>kynos</foreign> <lbl>genitif de</lbl> <foreign>kyon</foreign>
 <pc>,</pc>
 <gloss>chien,</gloss> <lbl>&amp;</lbl> <foreign>anchein</foreign><pc>,</pc> <gloss>suffoquer</gloss>
 <pc>.</pc></etym>
@@ -6642,7 +6642,7 @@
 </form>
 <pc>.</pc>
 <sense>
-<def>C'est la partie de la Messe, où l'on invoque Dieu. Chanter le Kyrieeleison. Ce mot est Grec, &amp; signifie, Seigneur ayez gé de nous. Le kyrie-eleison se dit trois fois en nonneur de la très-Sainte Trinité</def>
+<def>C'est la partie de la Messe, où l'on invoque Dieu. Chanter le Kyrie-eleison. Ce mot est Grec, &amp; signifie, Seigneur ayez pitié de nous. Le kyrie-eleison se dit trois fois en nonneur de la très-Sainte Trinité</def>
 <pc>.</pc></sense>
 </entry>
          </div>

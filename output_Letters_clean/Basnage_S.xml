@@ -6644,7 +6644,24 @@
 <pc>.</pc>
 
 <sense>
-<def>Menu sable qui est d'ordinaire blanc, comme le sablon d'Etampes, qui sert à écurer la vaisselle d'étain, de cuivre, &amp; à autres usageSABLONNER. verb. act. Ecurer la vaisselle d'étain, les utenciles de cuisine avec du sablon. La vaisselle d'argent s'useroit trop, si on la sablonnoit</def>
+<def>Menu sable qui est d'ordinaire blanc, comme le sablon d'Etampes, qui sert à écurer la vaisselle d'étain, de cuivre, &amp; à autres usage
+    </def>
+    </sense>
+    <pc>.</pc>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SABLONNER</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>verb</pos>
+                <pc>.</pc>
+                <subc>act</subc>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Ecurer la vaisselle d'étain, les utenciles de cuisine avec du sablon. La vaisselle d'argent s'useroit trop, si on la sablonnoit</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -7378,17 +7395,22 @@
 <def>se dit aussi en plusieurs endroits de la Procession solennelle qui se fait le jour de la Fête du Saint Sacrement, comme à Angers, &amp; ailleurs</def>
 </sense>
 <pc>.</pc>
-
-<re><form>SACrE, ée</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Qui est Saint</form>
-<pc>,</pc>
-<def>qui a'été offert &amp; dedié à Dieu solennellement avec ceremonie, benediction, &amp; cnctions. Les Rois, les Prelats &amp; les Prêtres sont des personnes sacrées. Les Ordres sacrez sont le Sous-Diaconat, le Diaconat, &amp; la Prêtrise, qui impriment un caractere sacré, &amp; indelebile</def>
-</re>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SACRÉ</orth></form>
+            <pc>,</pc>
+            <form type="inflected"><orth type="part">ée</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>adj</pos>
+                <pc>.</pc>
+                </gramGrp>
+        </form>
+        <sense>
+            <def>Qui est Saint, qui a'été offert &amp; dedié à Dieu solennellement avec ceremonie, benediction, &amp; cnctions. Les Rois, les Prelats &amp; les Prêtres sont des personnes sacrées. Les Ordres sacrez sont le Sous-Diaconat, le Diaconat, &amp; la Prêtrise, qui impriment un caractere sacré, &amp; indelebile</def>
 <pc>.</pc>
-
+        </sense>
 <sense>
 <form>Sacré</form>
 <pc>,</pc>
@@ -8173,14 +8195,19 @@
 <def>Temme d'Astronomie. C'est un des douze signes du Zodiaque. Cete constellation est composée de 31. étoiles : 2. de la seconde grandeur ; 9. de la troisiéme ; 9. de la quatriéme ; 8. dc la cinquiéme ; 2. de la sixiéme : &amp; une nebuleuse</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<form>SAGitTALE</form>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma">SAGITTALE</form>
+            <pc>.</pc>
+            
+        </form>
+        <sense>
+            <usg>Terme d'Anatomie</usg>
+<pc>.</pc><def>C'est la seconde des sutures vrayes du crane, qui s'étend le long de la tête. Elle est ainsi nommée, parcequ'elle est droite comme une fleche, que l'on appelle en Latin sagita. On l'appelle autrement rabdoide
 <pc>.</pc>
-<usg>Terme d'Anatomie</usg>
-<pc>.</pc>
-<def>C'est la seconde des sutures vrayes du crane, qui s'étend le long de la tête. Elle est ainsi nommée, parcequ'elle est droite comme une fleche, que l'on appelle en Latin sagita. On l'appelle autrement rabdoide</def>
-<pc>.</pc></sense>
+</def>
+        </sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -8726,22 +8753,7 @@
 <sense>
 <form>Saint</form>
 <pc>,</pc>
-<def>se dit aussi des creatures, des Anges, des Bien-heureux que Dieu a admis à la participation de sa gloire étemnelle, ou qui ont été canonisez, &amp; reconnus pour tels par le Pape, &amp; par l'Eglise Romaine, après plusieurs informations, &amp; ceremonies. La Fête des Saints Anges Gardiens, des Saints Innocens. Les Saints Patriarches. Dieu est admirable dans ses Sainis. Les Saints Apôtres, Martyrs, &amp; Confesseurs, la Sainte Vierge. Nous appellons Saints ceux que Dieu a consacrez par sa grâce, qu'il a fait briller comme des astres dans son Eglise, &amp; qu'il fait triomPher dans le ciel. Fl. Les panegyriques des Santi, oant des discours fleuris, qui par des hyperboles, &amp; par des comparaisons odieuses, mettent toujours le Saint du jour au dessus des autres. Fl. On a dit de Mr. de Launoy, qu'il ôtoit tous les ans un Sain du Paradis, &amp; qu'il étoit à craindre qu'à la fin il n'en ôtat Dieu lui-même. Patin. Mr. de Launoy a plus detrôné de Saints du Paradis, que dix Papes n'en ont canonisé. Tout lui faisoit ombrage dans le Martyrologe : il recherchoit tous les Saints, comme on a recherché la Noblesse en France. Voyez Marville. Le P. Papebrock compte 17. ou 1800. Saimts sur le premier de Juin seulement. Le P. Mabillon a fait sen 1698. J une dissertation sur le culte des Saints inconnus, pour faire voir le ridicule de cette multiplicité de Saris, qui sont l'objet du culte public. On rend des honneurs à des Saints qui peut-etre n'ont pas été Chretiens, &amp; dont on ignore le nom. On est obligé de leur imposer des noms, &amp; à cause de cela on les appelle des Saints baptisez. Le P. Mab. Pourquoy prodiguer des respects pour des Saints sans nom, &amp; sans vertu. Id. On s'adresse tous les jours à des Saints pour interceder auprès de Dieu, &amp; l'on peut douter s'ils sont eux-mêmes dans le ciel. Id. On ne devroit deferer le titre, &amp; le rang de Saint dans le Martyrologe que sur des preuves incontestables : mais l'avarice éleve à la dignité de Saint des Saints très-douteux, pour tirer un tribut de l'ignorance, &amp; de la credulité des Peuples. Oe. M. Cest le Cardinal Vicaire qui baptise les Sainis inconnus : &amp; il ne fait pas grand façon pour fabriquer un Saint. Voyez là-dessus le P. Mabillon. C'est deshonorer l'Eglise que de supposer que pour un gain vil &amp; sordide, elle s'est avisée de forger, &amp; de créer des Saints, pour tromper le peuple, &amp; fomenter la superstition. Rep</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>U P</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>Mab</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>L'Eglise Romaine invoque, revere, &amp; reclame les Saints ; chante les Litanies des Saints, &amp; Saintes de Paradis : les Protestans tiennent qu'il suffit de proposer l'exemple des Saints à imiter. La Toussains est la Fête de tous les Saints. L'honneur est un vieux Saint que l'on ne chomme plus. Recn. Surius, &amp; Ribadeneira ont écrit la vie des Saints. On appelle aussi ce Recueil, les Fleurs des Saints. Le P. Papebrok travaille 1700. J encore à la compilation des Actes des Saints : il les a rangez sur chaque jour de l'année où ils sont morts. Les six premiers mois de l'année, &amp; jusqu'au mois de Juin inclusivement contiennent dejà 24. volumes in folie</def>
+<def>se dit aussi des creatures, des Anges, des Bien-heureux que Dieu a admis à la participation de sa gloire étemnelle, ou qui ont été canonisez, &amp; reconnus pour tels par le Pape, &amp; par l'Eglise Romaine, après plusieurs informations, &amp; ceremonies. La Fête des Saints Anges Gardiens, des Saints Innocens. Les Saints Patriarches. Dieu est admirable dans ses Sainis. Les Saints Apôtres, Martyrs, &amp; Confesseurs, la Sainte Vierge. Nous appellons Saints ceux que Dieu a consacrez par sa grâce, qu'il a fait briller comme des astres dans son Eglise, &amp; qu'il fait triomPher dans le ciel. Fl. Les panegyriques des Santi, oant des discours fleuris, qui par des hyperboles, &amp; par des comparaisons odieuses, mettent toujours le Saint du jour au dessus des autres. Fl. On a dit de Mr. de Launoy, qu'il ôtoit tous les ans un Sain du Paradis, &amp; qu'il étoit à craindre qu'à la fin il n'en ôtat Dieu lui-même. Patin. Mr. de Launoy a plus detrôné de Saints du Paradis, que dix Papes n'en ont canonisé. Tout lui faisoit ombrage dans le Martyrologe : il recherchoit tous les Saints, comme on a recherché la Noblesse en France. Voyez Marville. Le P. Papebrock compte 17. ou 1800. Saimts sur le premier de Juin seulement. Le P. Mabillon a fait sen 1698. J une dissertation sur le culte des Saints inconnus, pour faire voir le ridicule de cette multiplicité de Saris, qui sont l'objet du culte public. On rend des honneurs à des Saints qui peut-etre n'ont pas été Chretiens, &amp; dont on ignore le nom. On est obligé de leur imposer des noms, &amp; à cause de cela on les appelle des Saints baptisez. Le P. Mab. Pourquoy prodiguer des respects pour des Saints sans nom, &amp; sans vertu. Id. On s'adresse tous les jours à des Saints pour interceder auprès de Dieu, &amp; l'on peut douter s'ils sont eux-mêmes dans le ciel. Id. On ne devroit deferer le titre, &amp; le rang de Saint dans le Martyrologe que sur des preuves incontestables : mais l'avarice éleve à la dignité de Saint des Saints très-douteux, pour tirer un tribut de l'ignorance, &amp; de la credulité des Peuples. Oe. M. Cest le Cardinal Vicaire qui baptise les Sainis inconnus : &amp; il ne fait pas grand façon pour fabriquer un Saint. Voyez là-dessus le P. Mabillon. C'est deshonorer l'Eglise que de supposer que pour un gain vil &amp; sordide, elle s'est avisée de forger, &amp; de créer des Saints, pour tromper le peuple, &amp; fomenter la superstition. Rep. au P. Mab. L'Eglise Romaine invoque, revere, &amp; reclame les Saints ; chante les Litanies des Saints, &amp; Saintes de Paradis : les Protestans tiennent qu'il suffit de proposer l'exemple des Saints à imiter. La Toussains est la Fête de tous les Saints. L'honneur est un vieux Saint que l'on ne chomme plus. Recn. Surius, &amp; Ribadeneira ont écrit la vie des Saints. On appelle aussi ce Recueil, les Fleurs des Saints. Le P. Papebrok travaille 1700. J encore à la compilation des Actes des Saints : il les a rangez sur chaque jour de l'année où ils sont morts. Les six premiers mois de l'année, &amp; jusqu'au mois de Juin inclusivement contiennent dejà 24. volumes in folie</def>
 </sense>
 <pc>.</pc>
 
@@ -9178,20 +9190,7 @@
 <sense>
 <form>Saison</form>
 <pc>,</pc>
-<def>se dit aussi du temps convenable pour faire quelque chose, pour la faire à-propos. Un bon menager doit faire ses provisions en temps, &amp; en saison. Chaque chose a sa saison. En ce sens on le dit figurément en Morale. La propotion que vous avancez est hors de saison ; c'est-à-dire, mal-à-propos. On vous dira le secret de cette affaire en temps, &amp; en saison. Executer un conseil hors de saison. Vaug. Ce n'est pas la saison de demander de l'argent au Roi, quand il va commencer la guerre</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>A40</orth>
-</form>
-<pc>.</pc>
-<pron>ans une femme n'est plus de saison</pron>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Il y a des gens qui sont toujours de saison. Bal. Puisque vous repondez, a mon amour extrême, Vos scrupules, Iris, ne sont plus de saison. Tout ce qu'on donne à la raison, On le derobe à ce qu'on aime. La Sanl. Croi moi, la severe raison Est quelquefois hors de saison. M. Sc</def>
+<def>se dit aussi du temps convenable pour faire quelque chose, pour la faire à-propos. Un bon menager doit faire ses provisions en temps, &amp; en saison. Chaque chose a sa saison. En ce sens on le dit figurément en Morale. La propotion que vous avancez est hors de saison ; c'est-à-dire, mal-à-propos. On vous dira le secret de cette affaire en temps, &amp; en saison. Executer un conseil hors de saison. Vaug. Ce n'est pas la saison de demander de l'argent au Roi, quand il va commencer la guerre. A 40 ans une femme n'est plus de saison. Il y a des gens qui sont toujours de saison. Bal. Puisque vous repondez, a mon amour extrême, Vos scrupules, Iris, ne sont plus de saison. Tout ce qu'on donne à la raison, On le derobe à ce qu'on aime. La Sanl. Croi moi, la severe raison Est quelquefois hors de saison. M. Sc</def>
 </sense>
 <pc>.</pc>
 
@@ -10245,15 +10244,23 @@
 <def>Ouvrier qui fait du salpêtre, qui le tire par la lessive, &amp; qui le cuit, ou en fait évaporer l'humiré</def>
 </sense>
 <pc>-</pc>
-
-<re><form>SALPESTRIERE, ouSAlPETRIERE</form>
-<form>.</form>
-<form>s. f</form>
-<form>.</form>
-<form>Lieu où l'on fait le salpêtre</form>
-<pc>.</pc>
-<def>Il y a une belle salpê riere dans le petit Arsenac</def>
-<pc>.</pc></re>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma">SALPESTRIERE</form>
+            <pc>,</pc>
+            <form type="variant">ou SALPETRIERE</form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>f</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Lieu où l'on fait le salpêtre. Il y a une belle salpê riere dans le petit Arsenac</def>
+<pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -10290,42 +10297,25 @@
 <pc>.</pc>
 
 <sense>
-<def>Quelques-uns disent salifie, &amp; le font feminin. l'Acad. C'est la racine d'une espece de tragopegon ou barbe de bouc, dont les feuilles ressemblent à celles du poireau. Ses fleurs ont une couleur purpurine tirant sur le bleu ou sur le noir. La racine est droite, grosse comme le doigt, tendre. Toute cette plante rend un suc laiteux. En Latin tragopogon purpuro-caruleum porri folio, quod artisi vulg</def>
+<def>Quelques-uns disent salifie, &amp; le font feminin. l'Acad. C'est la racine d'une espece de tragopegon ou barbe de bouc, dont les feuilles ressemblent à celles du poireau. Ses fleurs ont une couleur purpurine tirant sur le bleu ou sur le noir. La racine est droite, grosse comme le doigt, tendre. Toute cette plante rend un suc laiteux. En Latin tragopogon purpuro-caruleum porri folio, quod artisi vulg. Bauh. On mange le salsifis cuit avec du sel &amp; du vinaigre, &amp; on le confit avec du sucre pour le conserver</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>C</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>Bauh</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>On mange le salsifis cuit avec du sel &amp; du vinaigre, &amp; on le confit avec du sucre pour le conserver</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>SALSIFISDESPAGNE</orth>
+<orth>SALSIFIS D'ESPAGNE</orth>
 </form>
 <pc>,</pc>
 <form type="variant">
 <orth>ou SALSIFIE DESPAGNE</orth>
 </form>
 <pc>.</pc>
-<pron>C'est la racine d'une espece de scorsonére que C</pron>
 </form>
+    <sense>
+<def>C'est la racine d'une espece de scorsonére que C. Bauhin appelle scorzonera latifolia sinuata. Cette racine est bonne à manger étant cuite</def>
 <pc>.</pc>
-
-<sense>
-<def>Bauhin appelle scorzonera latifolia sinuata. Cette racine est bonne à manger étant cuite</def>
-<pc>.</pc>
+    </sense>
 <xr>Voyez Scorsonére</xr>
-<pc>.</pc></sense>
+<pc>.</pc>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -11043,7 +11033,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ANDIX</orth>
+<orth>SANDIX</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -11188,9 +11178,20 @@
 <def>Grand coup de foüet, de sangle. Cet écolier a été bien châtié, il a eu plusieurs rudes sanglades. Les Comediens se donnent d'étranges sanglades avec leur sangle</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<def>SANGLaNT, ante. adj. Ensanglanté ; qui est taché, sonillé de sang. La robe sanglante de Celar excita le peuple à la vengeance. De mon fils dechiré je fuis la sanglante image. Rac. La bataille donnée par Charles Martel est la plus sanglante qui fut jamais. Ils se font une guerre sanglante, à feu &amp; à sang. Il revint tout sanglant de ce combat. Il avoit encore les mains sanglantes de ce meurtre. Les sacrifices de l'ancienne Loi étoent sanglans. De mes bras tout sanglans, à faudra l'arracher. Rac. La place d'alentour étoit toute sanglante. Hanert</def>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SANGLANT</orth></form>
+            <pc>,</pc>
+            <form type="inflected"><orth type="part">ante</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>adj</pos>
+                <pc>.</pc>
+                </gramGrp>
+        </form>
+        <sense>
+            <def>Ensanglanté ; qui est taché, sonillé de sang. La robe sanglante de Celar excita le peuple à la vengeance. De mon fils dechiré je fuis la sanglante image. Rac. La bataille donnée par Charles Martel est la plus sanglante qui fut jamais. Ils se font une guerre sanglante, à feu &amp; à sang. Il revint tout sanglant de ce combat. Il avoit encore les mains sanglantes de ce meurtre. Les sacrifices de l'ancienne Loi étoent sanglans. De mes bras tout sanglans, à faudra l'arracher. Rac. La place d'alentour étoit toute sanglante. Hanert</def>
 </sense>
 <pc>.</pc>
 
@@ -11308,22 +11309,7 @@
 <pc>.</pc>
 
 <sense>
-<def>Les Poëtes font sanglier de trois syllabes. Men. Autrefois ils ne le faisoient que de deux ; mais il étoit trop rude à l'oreille, comme on le peut voir par ce vers de Racan ; Le sauvage fanglier par sa meurtriere dent. C'est un porc sauvage, qui se retire dans les forêts, &amp; qu'on ne peut jamais apprivoiser. Quand le sangler est jeune, on l'appelle marcassin. Lorsqu'il a un an, on l'appelle bête de compagnie. A deux ans il sort de compagnie, &amp; est dit ragot. A trois ou quatre ans il est dit en son tiers ou quart an; &amp; alors il est fort dangereux. A cinq ans il est dit mire, &amp; alors ses deffenses étant tournces, il est moins à craindre. Asix ans il est dit grand sanglier</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>A s</orth>
-</form>
-<gramGrp>
-<pos>ept</pos>
-<number>ans on l'appelle grand vieux sanglier</number>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Une laye, c'est sa femelle. On appelle luites ses testicules. Sa tête s'appelle hure. Les os de derriere les jambes proche les pieds sont appellez gardes. Les lieux où il repose se nomment bouges, ou son lit, ou son fert ; son grouin boutoir. Bourbelier est la partie qu'aux autres animaux on appelle poitrine. On nomme sa graisse sain, comme celle de toutes les bêtes mordantes. Le sanglier ne court pas, &amp; ne se fie qu'à ses deffenses. Il a quatre dents ou deffenses ; deux en haut, qui ne servent qu'à aiguiser les deux de la barre de dessous qui tuent. Les deux d'enhaut s'appellent les grés, &amp; les deux d'embas limes, dagues ou armes de la barre. Les dents de sa mâchoire inferieure sortent de sa gueule, &amp; se tournent en demi-cercle, &amp; sont à trois pans comme un prisme. Quand il va aux gagnages, on dit qu'il va faire ses mangeurez On dit en parlant du sanglier, vermeiller, quand il cherche des vers en terre avec son boutoir ; &amp; ces lieux où il a fouillé s'appellent boutis : herbeiller, quand il broute l'herbe : muloter, quand il souille les endroits où les mulots cachent leurs glands &amp; leurs blez : &amp; fougor, quand il arrache les racines des foungeres, de l'épurge, &amp;c. Ce qu'il leve avec le boutoir s'appelle fouge, &amp; les fosses qu'il fait pour cela affanchies. On dit que le sanglier se sarille souvent, vemtrouille &amp; nazille dans la bou ; &amp; on appelle souil, l'endroit où il se veautre. Le souil fait connoître sa grandeur. On dit qu'un sanglier est aux abois, quand il se deffend &amp; contremord : &amp; on appelle dentée ou atteinte, le coup qu'il donne de ses deffenses, qui decoud &amp; éventre les chiens &amp; les chevaux. La chasse du sanglier se fait à force aux accours avec les levriers, avec le limier en routaillant, avec des abboyeurs, avec des arquebuses, des amorces &amp; des toiles dans les enceintes. Il y a un grand équippage entretenu pour courre le sanglier, qu'on appelle vautrait, &amp; une charge pour le commander. La curée du sanglier s'appelle fouaille &amp; cuterie, cir elle se fait avec du feu</def>
+<def>Les Poëtes font sanglier de trois syllabes. Men. Autrefois ils ne le faisoient que de deux ; mais il étoit trop rude à l'oreille, comme on le peut voir par ce vers de Racan ; Le sauvage fanglier par sa meurtriere dent. C'est un porc sauvage, qui se retire dans les forêts, &amp; qu'on ne peut jamais apprivoiser. Quand le sangler est jeune, on l'appelle marcassin. Lorsqu'il a un an, on l'appelle bête de compagnie. A deux ans il sort de compagnie, &amp; est dit ragot. A trois ou quatre ans il est dit en son tiers ou quart an; &amp; alors il est fort dangereux. A cinq ans il est dit mire, &amp; alors ses deffenses étant tournces, il est moins à craindre. Asix ans il est dit grand sanglier. A sept ans on l'appelle grand vieux sanglier. Une laye, c'est sa femelle. On appelle luites ses testicules. Sa tête s'appelle hure. Les os de derriere les jambes proche les pieds sont appellez gardes. Les lieux où il repose se nomment bouges, ou son lit, ou son fert ; son grouin boutoir. Bourbelier est la partie qu'aux autres animaux on appelle poitrine. On nomme sa graisse sain, comme celle de toutes les bêtes mordantes. Le sanglier ne court pas, &amp; ne se fie qu'à ses deffenses. Il a quatre dents ou deffenses ; deux en haut, qui ne servent qu'à aiguiser les deux de la barre de dessous qui tuent. Les deux d'enhaut s'appellent les grés, &amp; les deux d'embas limes, dagues ou armes de la barre. Les dents de sa mâchoire inferieure sortent de sa gueule, &amp; se tournent en demi-cercle, &amp; sont à trois pans comme un prisme. Quand il va aux gagnages, on dit qu'il va faire ses mangeurez On dit en parlant du sanglier, vermeiller, quand il cherche des vers en terre avec son boutoir ; &amp; ces lieux où il a fouillé s'appellent boutis : herbeiller, quand il broute l'herbe : muloter, quand il souille les endroits où les mulots cachent leurs glands &amp; leurs blez : &amp; fougor, quand il arrache les racines des foungeres, de l'épurge, &amp;c. Ce qu'il leve avec le boutoir s'appelle fouge, &amp; les fosses qu'il fait pour cela affanchies. On dit que le sanglier se sarille souvent, vemtrouille &amp; nazille dans la bou ; &amp; on appelle souil, l'endroit où il se veautre. Le souil fait connoître sa grandeur. On dit qu'un sanglier est aux abois, quand il se deffend &amp; contremord : &amp; on appelle dentée ou atteinte, le coup qu'il donne de ses deffenses, qui decoud &amp; éventre les chiens &amp; les chevaux. La chasse du sanglier se fait à force aux accours avec les levriers, avec le limier en routaillant, avec des abboyeurs, avec des arquebuses, des amorces &amp; des toiles dans les enceintes. Il y a un grand équippage entretenu pour courre le sanglier, qu'on appelle vautrait, &amp; une charge pour le commander. La curée du sanglier s'appelle fouaille &amp; cuterie, cir elle se fait avec du feu</def>
 </sense>
 <pc>.</pc>
 
@@ -12115,12 +12101,11 @@
 <sense>
 <usg>Terme de Pharmacie</usg>
 <pc>.</pc>
-<def>C'est do moust ou du suc de raisins meurs évaporé sur le feu en consistence de miel. On l'appelle autrement rais</def>
+<def>C'est do moust ou du suc de raisins meurs évaporé sur le feu en consistence de miel. On l'appelle autrement raisiné.</def>
 </sense>
-<form type="lemmaGrp">
-<form type="lemma">
-<orth>inx</orth>
-</form>
+</entry>
+<entry>
+    <form type="lemmaGrp">
 <form type="lemma">
 <orth>SAPAJOU</orth>
 </form>
@@ -12497,13 +12482,14 @@
 <pc>.</pc>
 <sense>
 <def>Composition de Musique, danse qui est de mesure ternaire, &amp; qui ordinairement finit en levant, à la difference de la Courante, qui se termine en baissant la main, quand on bat la mesure. Les violons sonnerent une Sarabande fort gaye. Voit. Monsieur des Yveteaux mourant à Paris à 80. ans, faisoit jouer une Sarabande, afin, disoit-il, que son ame passat plus doucement. St. Evr. La Sarabande est venue des Sarrasins, aussi bien que la Chacone. Elle a été ainsi nommée, selon quelques-uns, à cause d'une Comedienne appellée Sarabanda qui la dansa la premiere en France. Quelques-uns croyent que ce mot vient de sarao, qui en Espagnol signifie bal. On la danse ordinairement au son de la guiterre ou des castagnettes. Elle a un mouvement gai &amp; amoureux</def>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>
 </entry>
 <entry>
     <form type="lemmaGrp">
-        <form type="lemma">SARBATANE</form>
+        <form type="lemma"><orth>SARBATANE</orth></form>
         <pc>,</pc>
-        <form type="variant">ou SARBACANE</form>
+        <form type="variant"><orth>ou SARBACANE</orth></form>
         <pc>.</pc>
     </form>
     <gramGrp>
@@ -13946,7 +13932,23 @@
 <sense>
 <form>Savetier</form>
 <pc>,</pc>
-<def>se dit aussi de tout autre Artisan qui travaille mal proprement, grossierement, qui salit, qui gâte la besogne. Le Maçon dit à somapprentif, Tu ne seras jamais que Savetier. Le Savetier dit au sien, Tu ne seras jamais que Maçon. SAVEUR. s. f. Qualité des corps qui se discere par le goût, &amp; qui est differente selon le mêlange de leurs sels. Galien, Aristote &amp; Theophraste disent que c'est une concoction d'humidité en siccité faite par la chaleur, laquelle est sentie, &amp; distinguée par la langue bien disposée. Selon Rohault, le mot de saveur signifie deux choses, ou le sentiment que nous avons ordinairement quand nous mangeons, &amp; quand nous buvons, ou ce je ne sçai quoy qui est du côté des viandes, &amp; des liqueurs mêmes, en quoy consiste le pouvoir qu'elles ont d'exciter en nous le sentiment des saveurs. Ensuite venant à expliquer ce qu'il a appellé le je ne sçai quoy qui est du côté des vlandes, &amp; des liqueurs, il dit que la saveur consiste dans la grosseur, figure, &amp; mouvement des parties du corps savoureux, &amp; que c'est de la diversité que l'on peut imaginer dans ces trois choses, que naissent les diverses saveurs. Les Medecins reconnoissent unanimement neuf saveurs simples. Les trois chaudes, sont l'âcre, l'amere, &amp; la salée. Les trois froides sont la stiptique ou l'austere, l'acerbe, &amp; l'aigre. Les trois temperées, la grasse ou l'haileuse, la douce, &amp; l'insipide. Une viande trop cuite n'a point de saveur, parceque tous les sels s'en sont évaporez. La langue, le palais, jugent des saveurs, comme le nez des odeurs, &amp; l'oeil des couleurs. La bonté de l'eau consiste à n'avoir aucune saveur</def>
+<def>se dit aussi de tout autre Artisan qui travaille mal proprement, grossierement, qui salit, qui gâte la besogne. Le Maçon dit à somapprentif, Tu ne seras jamais que Savetier. Le Savetier dit au sien, Tu ne seras jamais que Maçon.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SAVEUR</orth></form>
+            <pc>,</pc>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>f</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Qualité des corps qui se discerne par le goût, &amp; qui est differente selon le mêlange de leurs sels. Galien, Aristote &amp; Theophraste disent que c'est une concoction d'humidité en siccité faite par la chaleur, laquelle est sentie, &amp; distinguée par la langue bien disposée. Selon Rohault, le mot de saveur signifie deux choses, ou le sentiment que nous avons ordinairement quand nous mangeons, &amp; quand nous buvons, ou ce je ne sçai quoy qui est du côté des viandes, &amp; des liqueurs mêmes, en quoy consiste le pouvoir qu'elles ont d'exciter en nous le sentiment des saveurs. Ensuite venant à expliquer ce qu'il a appellé le je ne sçai quoy qui est du côté des viandes, &amp; des liqueurs, il dit que la saveur consiste dans la grosseur, figure, &amp; mouvement des parties du corps savoureux, &amp; que c'est de la diversité que l'on peut imaginer dans ces trois choses, que naissent les diverses saveurs. Les Medecins reconnoissent unanimement neuf saveurs simples. Les trois chaudes, sont l'âcre, l'amere, &amp; la salée. Les trois froides sont la stiptique ou l'austere, l'acerbe, &amp; l'aigre. Les trois temperées, la grasse ou l'haileuse, la douce, &amp; l'insipide. Une viande trop cuite n'a point de saveur, parceque tous les sels s'en sont évaporez. La langue, le palais, jugent des saveurs, comme le nez des odeurs, &amp; l'oeil des couleurs. La bonté de l'eau consiste à n'avoir aucune saveur</def>
 </sense>
 <pc>.</pc>
 
@@ -14136,7 +14138,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SAUMEE</orth>
+<orth>SAUMÉE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -14181,7 +14183,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SAUMONNE</orth>
+<orth>SAUMONNÉ</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -14541,7 +14543,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SAVOUREU</orth>
+<orth>SAVOUREUX</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -15461,7 +15463,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>UVETÉ</orth>
+<orth>SAUVETÉ</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -15557,12 +15559,6 @@
 </div>
 <div>
 <head>SCA<pc>.</pc></head>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>e</orth>
-</form>
-</form>
-</entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>SCABELLON</orth>
@@ -16176,19 +16172,11 @@
 <pc>.</pc>
 <subc>act</subc>
 </gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Je sçai, tu sçais, il sçait, nous sçavons, &amp;c. Je sçavois. Je sçus</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>J</orth>
-</form>
+    <form type="inflected">
+        <orth>Je sçai, tu sçais, il sçait, nous sçavons, &amp;c. Je sçavois. Je sçus</orth>
+    </form>
 <form type="inflected">
-<orth type="part">ai sçu</orth>
+<orth type="part">J'ai sçu</orth>
 </form>
 <pc>.</pc>
 <form type="inflected">
@@ -16196,18 +16184,17 @@
 </form>
 <pc>.</pc>
 <form type="inflected">
-<orth type="part">Que je sçache</orth>
+<orth type="part">Que je sçache. Que je sçusse. Je sçaurois.</orth>
 </form>
 </form>
-<pc>.</pc>
-
+<pc>.</pc> 
 <sense>
-<def>Que je sçisse. Je sçaurois. Il n'y a que ce verbe qui se mette au subjonctif, sans qu'aucun autre mot le precede : on dit, Je ne sçache rien de plus fâcheux. Ce qu'il y a de particulier, c'est que cette maniere de parler n'a lieu que dans la premiere personne. Corn. Il signifie, Etre docte ; avoir beaucoup d'érudition ; avoir beaucoup de lecture, ou beaucoup de connoissance des choses. Sçavoir, c'est connoître les choses par leurs causes. Ab. de S. R. Nous avons naturellement un desir de sçavoir. La Philosophie nous fait sçavoir les causes des effets que nous voyons. Il faut sçavoir les choses à fond, &amp; non superficiellement. Quand on ne sçait qu'une seule chose, on est souvent reduit à se taire. Oe. M. Les femmes se sont elles-mêmes établies dans l'usage de ne rien sçavoir, soit par la foiblesse de leur complexion, soit par la paresse de leur esprit. La Br. Parmi des desirs trop curieux de sçavoir tout, la providence nous a redeits à la necessite de ne sçavoir presque rien, &amp; de nous ignorer nous-mêmes. St. Ev. Socrate disoit qu'il ne sçavoit qu'une chose, c'est qu'il ne sçavoit rien</def>
+<def> Il n'y a que ce verbe qui se mette au subjonctif, sans qu'aucun autre mot le precede : on dit, Je ne sçache rien de plus fâcheux. Ce qu'il y a de particulier, c'est que cette maniere de parler n'a lieu que dans la premiere personne. Corn. Il signifie, Etre docte ; avoir beaucoup d'érudition ; avoir beaucoup de lecture, ou beaucoup de connoissance des choses. Sçavoir, c'est connoître les choses par leurs causes. Ab. de S. R. Nous avons naturellement un desir de sçavoir. La Philosophie nous fait sçavoir les causes des effets que nous voyons. Il faut sçavoir les choses à fond, &amp; non superficiellement. Quand on ne sçait qu'une seule chose, on est souvent reduit à se taire. Oe. M. Les femmes se sont elles-mêmes établies dans l'usage de ne rien sçavoir, soit par la foiblesse de leur complexion, soit par la paresse de leur esprit. La Br. Parmi des desirs trop curieux de sçavoir tout, la providence nous a redeits à la necessite de ne sçavoir presque rien, &amp; de nous ignorer nous-mêmes. St. Ev. Socrate disoit qu'il ne sçavoit qu'une chose, c'est qu'il ne sçavoit rien</def>
 </sense>
 <pc>.</pc>
 
 <sense>
-<form>Sgavoir</form>
+<form>Sçavoir</form>
 <pc>,</pc>
 <def>s'employe quelquefois absolument. Cet homme-là sçait ; pour dire, cet homme est docte</def>
 </sense>
@@ -16733,18 +16720,7 @@
 <pc>.</pc>
 
 <sense>
-<def>Fête des Juifs ; c'est la sete des Tabernacles, qui fut instituée après que le peuple d'Israel fut en possession de la terre de Canaan ; &amp; cela en memoire de ce que les Israclites avoient habité sous des tentes dans le desert. On la celebroit le 15. de Septembre. Elle duroit huit jours, dont le dernier étoit le plus solennel, tant par l'affluence des personnes, que par les marques extraordinaires qu'ils y donnoient de leur joye. C'est en parlant de ce huitiéme jour que St. Jean dit que Jesus-Christ se trouTone III</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>sCE</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>SCH. va à la fête des Tabernacles, en sa derniere &amp; grans de journée. Quand l'Ecriture Sainte dit absolument la fête, cela s'entend ordinairement de l Scenopagie</def>
+<def>Fête des Juifs ; c'est la sete des Tabernacles, qui fut instituée après que le peuple d'Israel fut en possession de la terre de Canaan ; &amp; cela en memoire de ce que les Israclites avoient habité sous des tentes dans le desert. On la celebroit le 15. de Septembre. Elle duroit huit jours, dont le dernier étoit le plus solennel, tant par l'affluence des personnes, que par les marques extraordinaires qu'ils y donnoient de leur joye. C'est en parlant de ce huitiéme jour que St. Jean dit que Jesus-Christ se trouva à la fête des Tabernacles, en sa derniere &amp; grans de journée. Quand l'Ecriture Sainte dit absolument la fête, cela s'entend ordinairement de l Scenopagie</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -17847,28 +17823,15 @@
 <pc>.</pc>
 
 <sense>
-<def>Homme qui gagne sa vie à écrire, à copier. Il a un Scribe chez lui pour mettre au net ses Ouvrages. Les Scribes font trafic de copies de Sermons. On appelloit autrefois Scribes, les Greffiers &amp; Tabellions ; &amp; on appelle encore Scribes, les Greffiers des Cours Ecclesiastiques. Scribe, dans la Loi des Juifs, étoit un principal Officier qui écrivoit, ou qui interpretoit l'Ecriture. Il est parlé souvent dans la Bible des Scribes &amp; Pharisiens. Il n'est point parlé des Scribes avant Esdras : c'est pourquoy quelques Sçavans conjecturent que le nom, &amp; la fonction sont venus de Chaldée, &amp; d'Assyrie, &amp; qu'ils s'établirent chez les Juifs au retour de la captivité de Babylone ; ils acquirent une grande reputation parmi les Juifs, &amp; ils étoient au dessus des Sacrificateurs. Trois sortes de personnes portoient le nom de Scribes</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>1</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Les Notaires publics, ou Secretaires du Conseil : c'étoient les moins considerables. 2. Ceux qu'on appelloit Scribes de la Loi c'est-à-dire ceux qui avoient le droit de l'interpreter au peuple. Leurs decisions étoient reçues avec le même respect que la Loi de Dieu. 3. Le titre de Scribe est un nom de magistrature chez les Juifs aussi bien que chez les Grecs : &amp; ce sont ces derniers qu'on appelloit Scribes du peuple</def>
+<def>Homme qui gagne sa vie à écrire, à copier. Il a un Scribe chez lui pour mettre au net ses Ouvrages. Les Scribes font trafic de copies de Sermons. On appelloit autrefois Scribes, les Greffiers &amp; Tabellions ; &amp; on appelle encore Scribes, les Greffiers des Cours Ecclesiastiques. Scribe, dans la Loi des Juifs, étoit un principal Officier qui écrivoit, ou qui interpretoit l'Ecriture. Il est parlé souvent dans la Bible des Scribes &amp; Pharisiens. Il n'est point parlé des Scribes avant Esdras : c'est pourquoy quelques Sçavans conjecturent que le nom, &amp; la fonction sont venus de Chaldée, &amp; d'Assyrie, &amp; qu'ils s'établirent chez les Juifs au retour de la captivité de Babylone ; ils acquirent une grande reputation parmi les Juifs, &amp; ils étoient au dessus des Sacrificateurs. Trois sortes de personnes portoient le nom de Scribes. 1. Les Notaires publics, ou Secretaires du Conseil : c'étoient les moins considerables. 2. Ceux qu'on appelloit Scribes de la Loi c'est-à-dire ceux qui avoient le droit de l'interpreter au peuple. Leurs decisions étoient reçues avec le même respect que la Loi de Dieu. 3. Le titre de Scribe est un nom de magistrature chez les Juifs aussi bien que chez les Grecs : &amp; ce sont ces derniers qu'on appelloit Scribes du peuple</def>
 </sense>
 <pc>.</pc>
 
 <re><form>Dom-Scribe</form>
 <form>.</form>
-<form>Terme de Chartreux</form>
-<form>.</form>
-<form>C</form>
-<pc>'</pc>
-<def>est le Secretaire du General. Dom-Scribe est mort</def>
+<usg>Terme de Chartreux</usg>
+<pc>.</pc>
+<def>C'est le Secretaire du General. Dom-Scribe est mort</def>
 <pc>.</pc></re>
 </entry>
 <entry><form type="lemmaGrp">
@@ -18043,7 +18006,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>CRUTIN</orth>
+<orth>SCRUTIN</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -18121,7 +18084,23 @@
 <pc>.</pc>
 
 <sense>
-<def>Ouvrier qui fait des figures avec le ciseau, qui taille le bois, la pierre, &amp; autres matieres propres à faire quelques representations. Il y a des Sculpteurs en bois, &amp; d'autres en pierre ; des Sculpteurs en creux, en relief, en bas relief : les uns font des moules, les autres des statuës. Les Sculpteurs anciens ont eu bien de l'avantage sur les MoSCULPTURE. s. f. Art de tailler le bois &amp; la pierre pour faire diverses representations. La Scuipture est un art où peu de gens reussissent. Phidias, Praxitele ont excelle dans la Sculpture. On ne peut retrouver l'origine, ni les mventeurs de la Sculpture dans l'obscurité des temps</def>
+<def>Ouvrier qui fait des figures avec le ciseau, qui taille le bois, la pierre, &amp; autres matieres propres à faire quelques representations. Il y a des Sculpteurs en bois, &amp; d'autres en pierre ; des Sculpteurs en creux, en relief, en bas relief : les uns font des moules, les autres des statuës. Les Sculpteurs anciens ont eu bien de l'avantage sur les Modernes.
+    </def></sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SCULPTURE</orth></form>
+            <pc>,</pc>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>f</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Art de tailler le bois &amp; la pierre pour faire diverses representations. La Scuipture est un art où peu de gens reussissent. Phidias, Praxitele ont excelle dans la Sculpture. On ne peut retrouver l'origine, ni les mventeurs de la Sculpture dans l'obscurité des temps</def>
 </sense>
 <pc>.</pc>
 
@@ -18221,7 +18200,7 @@
 <head>SCY<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SCYTALELACONIQUE</orth>
+<orth>SCYTALE LACONIQUE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -18233,7 +18212,7 @@
 <pc>.</pc>
 
 <sense>
-<def>Terme de Steganographie. C'est nne invention dont se servoient autrefois les Lacedemoniens pour écrire à leurs correspondans des lettres secrettes, afin que ceun qui les auroient interceptées ne les pussent lire. Ils avoient deux rouleaux, ou cylindres de bois fort égaux, dont l'un se gardoit à la ville, l'autre étoit entre les mains du correspondant. Celui qui écrivoit tortilloit autour d'un de ces rouleaux une laniere de parchemin fort deliée, &amp; y écrivoit ce qu'il avoit à mander, puis il la detachoit, &amp; l'envoyoit au correspondant, lequel l'appliquant sur le rouleau de même grosseur, trouvoit les mots &amp; les lignes en la même disposition qu'ils avoient été écrits, &amp; les lisoit facilement. C'étoit une invention qu'ils estimoient beaucoup, quoyqu'elle fûit assez grossiere. On s'est bien raffiné depuis ce temps-là en cette maniere d'écrire. C'est la premiere que decrit Aporta dans son livre De Ciferis</def>
+<def>Terme de Steganographie. C'est une invention dont se servoient autrefois les Lacedemoniens pour écrire à leurs correspondans des lettres secrettes, afin que ceun qui les auroient interceptées ne les pussent lire. Ils avoient deux rouleaux, ou cylindres de bois fort égaux, dont l'un se gardoit à la ville, l'autre étoit entre les mains du correspondant. Celui qui écrivoit tortilloit autour d'un de ces rouleaux une laniere de parchemin fort deliée, &amp; y écrivoit ce qu'il avoit à mander, puis il la detachoit, &amp; l'envoyoit au correspondant, lequel l'appliquant sur le rouleau de même grosseur, trouvoit les mots &amp; les lignes en la même disposition qu'ils avoient été écrits, &amp; les lisoit facilement. C'étoit une invention qu'ils estimoient beaucoup, quoyqu'elle fûit assez grossiere. On s'est bien raffiné depuis ce temps-là en cette maniere d'écrire. C'est la premiere que decrit Aporta dans son livre De Ciferis</def>
 <pc>.</pc></sense>
 </entry>
 </div>
@@ -20229,16 +20208,8 @@
 <sense>
 <form>Sein</form>
 <pc>,</pc>
-<def>se dit plus particulierement à l'égard des femmes, de leur tetons. Cette fille a le sein plat, n'a point de sein, son sein n'est pas encore formé, c'est-à-dire, elle n'a point encore de tetons. Elle s'est laissé mettre la main dans le sein ; pour dire, manier les tetons. Elle a un beau sein. Philis montroit son sein à demi-nud. La Fon. Et sur son sein peut-être, après ce doux baiser, elle me fera reposer. Secrais. On le surprit dormant tranquillement sur le sein de sa Maîtresse</def>
+<def>se dit plus particulierement à l'égard des femmes, de leur tetons. Cette fille a le sein plat, n'a point de sein, son sein n'est pas encore formé, c'est-à-dire, elle n'a point encore de tetons. Elle s'est laissé mettre la main dans le sein ; pour dire, manier les tetons. Elle a un beau sein. Philis montroit son sein à demi-nud. La Fon. Et sur son sein peut-être, après ce doux baiser, elle me fera reposer. Secrais. On le surprit dormant tranquillement sur le sein de sa Maîtresse. B. Rab.</def>
 <pc>.</pc></sense>
-</entry>
-
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>Rab</orth>
-</form>
-</form>
-<pc>.</pc>
 
 <sense>
 <form>Sein</form>
@@ -20277,7 +20248,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SEINCOS</orth>
+<orth>SEIN COS</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -20398,7 +20369,22 @@
 <sense>
 <form>Seyour</form>
 <pc>,</pc>
-<def>se dit aussi du temps qu'on demeure en un lieu. Ce Provincial est venu à Paris faire son sejour. On taxe à ceux qui plaident au Conseil leur voyage &amp; leur sejour. Cet homme est fort valetudinaire, il ne fera pas long sejour sur la terre. Notre sejour sur la terre est une demeure passagere, qui ne vaut pas la peine de faire de grands projets. Oe. M. St. Pierre appelle la durée de nôtre vie, un sejour temporel. On donne aux trouppes qui sont en marche quelques journées de SEJOURNER. v. n. Demeurer en un lieu. Quand on a toujours sejourne en Province, on est bien neuf en arrivant à la Cour. Il a beaucoup voyagé en peu de terips, il n'a gueres sejourné en chaque ville</def>
+<def>se dit aussi du temps qu'on demeure en un lieu. Ce Provincial est venu à Paris faire son sejour. On taxe à ceux qui plaident au Conseil leur voyage &amp; leur sejour. Cet homme est fort valetudinaire, il ne fera pas long sejour sur la terre. Notre sejour sur la terre est une demeure passagere, qui ne vaut pas la peine de faire de grands projets. Oe. M. St. Pierre appelle la durée de nôtre vie, un sejour temporel. On donne aux trouppes qui sont en marche quelques journées de sejour.</def>
+    </sense></entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SEJOURNER</orth></form>
+            <pc>,</pc>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>v</pos>
+                <pc>.</pc>
+                <subc>n</subc>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Demeurer en un lieu. Quand on a toujours sejourne en Province, on est bien neuf en arrivant à la Cour. Il a beaucoup voyagé en peu de terips, il n'a gueres sejourné en chaque ville</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -20420,7 +20406,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SEIZIEME</orth>
+<orth>SEIZIÉME</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -20762,21 +20748,7 @@
 <pc>.</pc>
 
 <sense>
-<def>Preposition qui regit l'accusatif, &amp; qui signifie, Eu égard à ; conformément à ; suivant. Il faut se comporter diversement selon les temps &amp; les lieux. C'est un fort homme de bien, qui vit tout-àfait selon Dieu &amp; raison. Lucrece a traitté sa Philosophie selon Epicure. Tous les Astronomes calculent maintenant selon l'opinion de Copernic. Cette opinion est vraye selon les Dominicains, &amp; fausse selon les Cordeliers. L'esprit de cet homme-là se gouverne selon la lune. Il est aujourd'huy le 10. du mois, selon le stile nouveau, &amp; le 20. selon le vieux stile. Selon, s'employe quelquefois absolument sans regime ; pour dire, Selon les occurrences, selon les differentes dispositions des choses, des personnes, &amp;c. Et alors il marque quelque doute, quelque incertitude. Pensez-vous qu'il reussisse dans son entreprise ? Selou. C'est selon. Mon Pere, lui dis-je, n'est-on pas obligé de fuir les occasions du peché ? Non pas toujours, me dit-il, c'est selon. Pasc. Dans la Comedie de l'imposteur, Cleante dit a Orgon, Nul obstacle je croi, Ne vous peut empêcher d'acomplir vos promesses</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>A</orth>
-</form>
-<form type="variant">
-<orth>quoy Orgon repond, Selon</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Quand on est questionné sur l'avenir, on repond, C'est selon ; pour dire, selon qu'il plaira à Dieu. Ce malade guerira-t-il ? C'est selm</def>
+<def>Preposition qui regit l'accusatif, &amp; qui signifie, Eu égard à ; conformément à ; suivant. Il faut se comporter diversement selon les temps &amp; les lieux. C'est un fort homme de bien, qui vit tout-àfait selon Dieu &amp; raison. Lucrece a traitté sa Philosophie selon Epicure. Tous les Astronomes calculent maintenant selon l'opinion de Copernic. Cette opinion est vraye selon les Dominicains, &amp; fausse selon les Cordeliers. L'esprit de cet homme-là se gouverne selon la lune. Il est aujourd'huy le 10. du mois, selon le stile nouveau, &amp; le 20. selon le vieux stile. Selon, s'employe quelquefois absolument sans regime ; pour dire, Selon les occurrences, selon les differentes dispositions des choses, des personnes, &amp;c. Et alors il marque quelque doute, quelque incertitude. Pensez-vous qu'il reussisse dans son entreprise ? Selou. C'est selon. Mon Pere, lui dis-je, n'est-on pas obligé de fuir les occasions du peché ? Non pas toujours, me dit-il, c'est selon. Pasc. Dans la Comedie de l'imposteur, Cleante dit a Orgon, Nul obstacle je croi, Ne vous peut empêcher d'acomplir vos promesses. A quoy Orgon repond, Selon. Quand on est questionné sur l'avenir, on repond, C'est selon ; pour dire, selon qu'il plaira à Dieu. Ce malade guerira-t-il ? C'est selm</def>
 </sense>
 <pc>.</pc>
 
@@ -22165,7 +22137,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SENSE</orth>
+<orth>SENSÉ</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -22189,7 +22161,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SENSEMENT</orth>
+<orth>SENSÉMENT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -22204,7 +22176,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SENSIBILITE</orth>
+<orth>SENSIBILITÉ</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -22332,19 +22304,8 @@
 <pc>.</pc>
 
 <sense>
-<def>Plante qui pousse une seule tige principale à la hauteur d'un pied &amp; demi, mais qui se divise proche de la terre en plusieurs rameaux, ligneuse, luisante, revetue de même que ses rameaux de feuilles longuettes, polies, étroites, rangées par paires sur une côte, qui se raprochent l'une de l'autre quand on les touche, &amp; qui s'écartent ensuite à-peuprès comme les feuillets d'un livre que l'on ouvre après l'avoir fermé. Il s'éleve du milieu de sa racine des pedicules qui soutiennent chacun une fleur faite en godet, incarnate, agreable à la vue, poussant de son fond une touffe d'étamines, &amp; un pistile, lequel quand la fleur est passée devient une silique qui renferme le plus souvent quelques semences oblongues &amp; plates. Sa racine est petite. En Latin mimosa seu frutex sensibilis</def>
+<def>Plante qui pousse une seule tige principale à la hauteur d'un pied &amp; demi, mais qui se divise proche de la terre en plusieurs rameaux, ligneuse, luisante, revetue de même que ses rameaux de feuilles longuettes, polies, étroites, rangées par paires sur une côte, qui se raprochent l'une de l'autre quand on les touche, &amp; qui s'écartent ensuite à-peuprès comme les feuillets d'un livre que l'on ouvre après l'avoir fermé. Il s'éleve du milieu de sa racine des pedicules qui soutiennent chacun une fleur faite en godet, incarnate, agreable à la vue, poussant de son fond une touffe d'étamines, &amp; un pistile, lequel quand la fleur est passée devient une silique qui renferme le plus souvent quelques semences oblongues &amp; plates. Sa racine est petite. En Latin mimosa seu frutex sensibilis. P. Tournefort.</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>P</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>Tournefort</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
 
 <sense>
 <def>Il y a plusieurs autres especes de sensitive. Cette sorte de plante a été appellee ainsi, parceque ses feuilles se retirent quand on les touche, desorte qu'il semble qu'elles ayent du sentiment. Les Anciens les appelloient planta aschynomena ; les Modernes les nomment plante vive, sensitiva, ou mimosa</def>
@@ -22886,18 +22847,7 @@
 <pc>.</pc>
 <xr>Voyez Sied</xr>
 <pc>.</pc>
-<def>La gravité sied bien à un Magistrat, à un vieilTena IIl</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>lard</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Les plumes siéent bien à un cavalier. Il s'employe aussi impersonnellement. Il sied mal à un homme de qualité de se familiariser avec des valets. Il sied mal à un Ecclesiastique d'être libre en paroles. Saint Amant a dit dans sa Rome ridicule : Il vous sied bien, Monsieur le Tibre, De faire ici tant de façon, &amp;c</def>
+<def>La gravité sied bien à un Magistrat, à un vieil. Les plumes siéent bien à un cavalier. Il s'employe aussi impersonnellement. Il sied mal à un homme de qualité de se familiariser avec des valets. Il sied mal à un Ecclesiastique d'être libre en paroles. Saint Amant a dit dans sa Rome ridicule : Il vous sied bien, Monsieur le Tibre, De faire ici tant de façon, &amp;c</def>
 </sense>
 <pc>.</pc>
 
@@ -23003,7 +22953,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SEPAREMENT</orth>
+<orth>SEPARÉMENT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -23791,7 +23741,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SERASIER</orth>
+<orth>SERASKIER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -23962,7 +23912,22 @@
 <sense>
 <form>Serenité</form>
 <pc>,</pc>
-<def>est aussi un titre qu'on denne à quelqies Princes, &amp; premiers Magistrats de Republique On dit à quelques Princesses, Vôtre Serenité. On dit aux Electeurs, Vôtre Serenité Electorale. On traitte de Serenité le Doge de Venise. Les Venitiens mettent le titre de Serenité au dessus de celui d'Altesse. En1646. il y eut un demêlé entre la Cour de France, &amp; celle de l'Empereur qui ne vouloit donner au Roi de France que le titre de Serenité. VicQSEREQUE. s. m. Arbrisseau qui est une espece de genet, &amp; qui croit quelquefois à la hauteur de trois pieds. Sa tige est grosse comme le doigt, &amp; se divise en plusieurs petits rameaux garnis de quantité de feuilles semblables à celles du lin, vertes par dessus, blanches par dessous. Ses fleurs naissent aux sommitez des rameaux ; elles sont legumineuses, ramassées en épi, de couleur jaune. En Latin genista tinctoria frutescens incana. C. Bauh. Les Teinturiers se servent de cette plante pour teindre en jaune. On l'appelle aussi herbe à jaunir, ou petit genet. Les habitans des Canaries la nomment oricelle, &amp; les Arabes sereth, d'où vient ce mot sereque</def>
+<def>est aussi un titre qu'on denne à quelqies Princes, &amp; premiers Magistrats de Republique On dit à quelques Princesses, Vôtre Serenité. On dit aux Electeurs, Vôtre Serenité Electorale. On traitte de Serenité le Doge de Venise. Les Venitiens mettent le titre de Serenité au dessus de celui d'Altesse. En1646. il y eut un demêlé entre la Cour de France, &amp; celle de l'Empereur qui ne vouloit donner au Roi de France que le titre de Serenité. Vic.</def>
+    </sense></entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SEREQUE</orth></form>
+            <pc>,</pc>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Arbrisseau qui est une espece de genet, &amp; qui croit quelquefois à la hauteur de trois pieds. Sa tige est grosse comme le doigt, &amp; se divise en plusieurs petits rameaux garnis de quantité de feuilles semblables à celles du lin, vertes par dessus, blanches par dessous. Ses fleurs naissent aux sommitez des rameaux ; elles sont legumineuses, ramassées en épi, de couleur jaune. En Latin genista tinctoria frutescens incana. C. Bauh. Les Teinturiers se servent de cette plante pour teindre en jaune. On l'appelle aussi herbe à jaunir, ou petit genet. Les habitans des Canaries la nomment oricelle, &amp; les Arabes sereth, d'où vient ce mot sereque</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -24236,7 +24201,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SERIEU</orth>
+<orth>SERIEUX</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -24426,7 +24391,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SERMENTE</orth>
+<orth>SERMENTÉ</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -24915,7 +24880,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ERPILLIERE</orth>
+<orth>SERPILLIERE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -25115,7 +25080,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SERRE</orth>
+<orth>SERRÉ</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -26831,28 +26796,14 @@
 <pc>,</pc>
 <def>est une consonance qui provient du mêlange de deux sons qui sont en proportion de trois à cinq a l'égard de la sexte majeure, &amp; en proportion de cinq à huit à l'égard de la mineure. On les appelle aussi sixiéme majeure, ou mineure, ou hexacorde majeur ou mineur. Elles comprennent un intervalle de six tons</def>
 </sense>
-<form type="lemmaGrp">
-<pc>.</pc>
-<form type="inflected">
-<orth type="part">Sexte</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>subst</pos>
-<pc>.</pc>
-<gen>masc</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
 
 <sense>
+    <form>Sexte</form>
 <usg>Terme de Droit Ecclesiastique</usg>
-</sense>
 <pc>.</pc>
-
-<sense>
 <def>On appelle ainsi la collection des Decretales faite par le Pape Boniface VIII. On l'appelle Sexte, parcequ'elle est intitulée Liber Sextus, comme si c'étoit un sixiéme livre des Decretales, recueillies par Gregoire IX. en cinq livres. Cette collection de Boniface VIII. contient aussi cinq livres de Decretales. On a mis dans le même volume cinq livres des constitutions de Clement V. successeur de Boniface sous le titre de Clementines. Il y a aussi vingt constitutions de Jean XXII. appellées Extravagantes. On y a joint quelques autres constitutions du même Pape Jean XXII. &amp; de quelques-uns de ses successeurs. La collection de Boniface fut mal reçuë en France à cause des differens de ce Pape avec le Roi Philippe le Bel</def>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -27265,22 +27216,7 @@
 <pc>.</pc>
 
 <sense>
-<def>Mesure, espace de temps de cent années, ou revolutions solaires. La gloire de Dieu doit durer dans tous les siecles ; c'est-à-dire, dans tous les temps, à jamais. Nous sommes à la fin du XVII. siecle depuis Jesus-Christ. On voit dans cette Histoire Universelle tous les siecles passez se developper en peu d'heures. M. de M. Les siecles s'écoulent plus rapidement pour les heureux, que les heures pour les miserables. Fen. Vous serez l'entretien des fecles à venir. Des-H. L'hyperole plait aux Amans : Tout est siecle pour eux ; ou bien tout est momens</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>B</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>Rab</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Uun veritable Amant Compte chaque momen Pour un siecle d'absence. M. Sc</def>
+<def>Mesure, espace de temps de cent années, ou revolutions solaires. La gloire de Dieu doit durer dans tous les siecles ; c'est-à-dire, dans tous les temps, à jamais. Nous sommes à la fin du XVII. siecle depuis Jesus-Christ. On voit dans cette Histoire Universelle tous les siecles passez se developper en peu d'heures. M. de M. Les siecles s'écoulent plus rapidement pour les heureux, que les heures pour les miserables. Fen. Vous serez l'entretien des fecles à venir. Des-H. L'hyperole plait aux Amans : Tout est siecle pour eux ; ou bien tout est momens. B. Rab. Un veritable Amant Compte chaque momen Pour un siecle d'absence. M. Sc</def>
 </sense>
 <pc>.</pc>
 
@@ -27307,21 +27243,38 @@
 <sense>
 <form>Siecle</form>
 <pc>,</pc>
-<def>se dit en Morale par opposition à celeste, &amp; pirituel. Cette fille est entrée en Religion, a renoncé au siecle ; c'est-à-dire, aux pompes, aux vanitez du monde. Les mondains ne cherchent que les gens du siecle. Quand on est dans la retraitte, il fait dangereux de retourner la tête vers le siecle. Le siecle est bien corrompu ; pour dire, les gens du monde. Fatigué du commerce tumultueux du siecle, il s'est jetté dans un Monastere, comme dans un azile, pour y jouïr du calme heureux d'une pieuse oisiveté. Disc. d'Ei. C'est autour des Reines que se reunit l'esprit du siecle ; c'est-à-dire, le desir de plaire, l'envie de parvenir, le plaisir de voir, &amp; d'être vuë. Fl. La devotion bon office. Bell. Se signaler par d'illustres inimitiez. Men. Se signaler dans les occasions. Ablan. Par d'illustres exploits tu vas te signaler ; Poursui, tu n'as pas fait ce pas pour reculer. Rac</def>
+<def>se dit en Morale par opposition à celeste, &amp; pirituel. Cette fille est entrée en Religion, a renoncé au siecle ; c'est-à-dire, aux pompes, aux vanitez du monde. Les mondains ne cherchent que les gens du siecle. Quand on est dans la retraitte, il fait dangereux de retourner la tête vers le siecle. Le siecle est bien corrompu ; pour dire, les gens du monde. Fatigué du commerce tumultueux du siecle, il s'est jetté dans un Monastere, comme dans un azile, pour y jouïr du calme heureux d'une pieuse oisiveté. Disc. d'Ei. C'est autour des Reines que se reunit l'esprit du siecle ; c'est-à-dire, le desir de plaire, l'envie de parvenir, le plaisir de voir, &amp; d'être vuë. Fl. La devotion
+  <!-- Gap deux pages, de fin de "siècle" à  fin de"signalé" -->
+</def>
 </sense>
-<pc>.</pc>
 </entry>
 </div>
-          <div>
+<div>
               <head>SIG<pc>.</pc></head>
-              <entry>
+          <entry>
+              <form type="lemmaGrp">
+                  <form type="lemma"><orth>SIGNALER</orth></form>
+                  <pc>.</pc>
+                  <gramGrp>
+                      <pos>v</pos>
+                      <pc>.</pc>
+                      <subc>act</subc>
+                      <pc>.</pc>
+                  </gramGrp>
+              </form>
+              <sense>
+                  <def>
+    bon office. Bell. Se signaler par d'illustres inimitiez. Men. Se signaler dans les occasions. Ablan. Par d'illustres exploits tu vas te signaler ; Poursui, tu n'as pas fait ce pas pour reculer. Rac</def>
+</sense>
+<pc>.</pc>
+
 <re><form>Signalé, ée</form>
 <form>.</form>
 <form>part</form>
 <pc>.</pc>
 <def>pass</def>
 <form>.</form>
-<def>Ce joursignalé par tant de victoires</def>
+<def>Ce jour signalé par tant de victoires</def>
 </re>
 <pc>.</pc>
 
@@ -27583,18 +27536,25 @@
 <sense>
 <usg>Terme d'Astrologie</usg>
 <pc>,</pc>
-<def>qui se dit de certains lieux dans le ciel destinez à recevoir les actions des autres astres, qui font leur effet après un certain nombre de revolutions, qu'on touve par le calcul des directions du promisseur au significateur, c'est-à-dire, de l'astre agissant à celui qui reçoit son action pour la reflechir sur l'objet terree Ptolomée en son Quadripartit met cinq significateur lune, le soleil, la ligne Orientale, le milieu du ciel ; autres Planetes, &amp; les angles des autres Maisons. Les directions sont le principal fondement des prédictions astrologlques : ce qui sufit pour en faire connoïitre l'incertitude &amp; la</def>
+<def>qui se dit de certains lieux dans le ciel destinez à recevoir les actions des autres astres, qui font leur effet après un certain nombre de revolutions, qu'on touve par le calcul des directions du promisseur au significateur, c'est-à-dire, de l'astre agissant à celui qui reçoit son action pour la reflechir sur l'objet terree Ptolomée en son Quadripartit met cinq significateur lune, le soleil, la ligne Orientale, le milieu du ciel ; autres Planetes, &amp; les angles des autres Maisons. Les directions sont le principal fondement des prédictions astrologlques : ce qui sufit pour en faire connoïitre l'incertitude &amp; la vanité</def>
 </sense>
-<pc>vanité</pc>
-
-<re><form>SIGNIFICATIF, ive</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Ce mot e</form>
-<pc>s</pc>
-<def>t le même que signifiant, &amp; est plus en usage. Il faut qu'un Orateur parle en mots propres &amp; significatifi, en termes clairs, forts &amp; énergiques, qui fassent bien connoître sa pensée</def>
-<pc>.</pc></re>
+<pc>.</pc>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SIGNIFICATIF</orth></form>
+            <pc>,</pc>
+            <form type="inflected"><orth type="part">ive</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>adj</pos>
+                <pc>.</pc>
+                </gramGrp>
+        </form>
+        <sense>
+            <def>Ce mot est le même que signifiant, &amp; est plus en usage. Il faut qu'un Orateur parle en mots propres &amp; significatifi, en termes clairs, forts &amp; énergiques, qui fassent bien connoître sa pensée</def>
+<pc>.</pc>
+        </sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -28641,7 +28601,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SINGERI</orth>
+<orth>SINGERIE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -29161,21 +29121,23 @@
 <sense>
 <form>Sire</form>
 <pc>.</pc>
-<def>Ce mot s'employe aussi dans le comique &amp; dans le burlesque, en parlant de quelques animaux. Puis en autant de parts le cerf il depeça, Prit pour lui la premiere, en qualité de Sire</def>
+<def>Ce mot s'employe aussi dans le comique &amp; dans le burlesque, en parlant de quelques animaux. Puis en autant de parts le cerf il depeça, Prit pour lui la premiere, en qualité de Sire. La Font</def>
 </sense>
 <pc>.</pc>
-
-<re><form>La Font SIRENES</form>
-<form>.</form>
-<form>s. f</form>
-<form>.</form>
-<form>Les</form>
-<def>Payens ont feint que c'étoient des monstres marins, ayant le visage de femmes, &amp; une queuë de poisson. Ils ont cru qu'il y avoit trois filles du Fleuve Achelous, nommées Parthenope, Ligée, &amp; Leucosie. Homere ne compte que deux Sirenes : &amp; d'autres en supposent cinq : Virgile les place sur des écueils où les vaisseaux s'alloient briser</def>
-</re>
-<pc>.</pc>
-
-<sense>
-<def>Pline les fait habiter au Promontoire de Minerve, assez proche de l'Ile de Caprée. Quelques-uns leur assient leur sejour dans la Sicile, vers le Cap Pelore. leur donne des ailes, &amp; un plumage varié des plus belles, &amp; des plus tendres couleurs. Oride en fait des monstres marins. Il les represente avec un visage de femme, &amp; leur attribue une voix humaine. Claudien en parle encore plus amplement : il dit qu'elles habitoient sur des rochers harmonieux : que c'étoient des monstres charmans, &amp; des écueils où les voyageurs alloient échoüer sans regret, &amp; expiroient dans l'enchantement, au milieu des plaisirs : dulce malum pelago siren. Cette description est fondée apparemment sur l'explication litterale de la fable : que c'étoient des femmes qui demeuroient sur les bords de la mer de Sicile, &amp; qui par tous les attraits de la volupté arrêtoient les passans, &amp; leur faisoient oublier leur course, en les enivrant par toutes sortes de delices, &amp; de plaisirs. On pretend même que le nombre, &amp; le nom des trois Sitenes a été inventé sur la triple volupté des sens, le vin, l'amour, &amp; la musique, qui sont les attraits les plus puissans pour attacher les hommes ; c'est encore de là sans doute que proviennent tant d'exhortations d'éviter le funelte chant des Sirenes, &amp; de ne se point laisser enchanter par la douceur de leur melodie. Par la même raison l'on en a fait le symbole de l'éloquence, parcequ'on ne peut resister à la seduction de leurs persuasions. Caton le Grammairien fut appellé la Sirene Latine. Enfin on a comparé à l'harmonie, &amp; à la voix melodieuse des Sirenes, tout ce qui flatte l'oreille, &amp; tout ce qui entraîne inevitablement les ceurs. C'est pourquoy les Grecs ont tiré l'étymologie des Sirenes, du mot Grec seira, qui signifie une chaîne ; ils vouloient dire qu'il est impossible de se degager de leurs liens, &amp; de se defendre de leurs attraits invincibles. Ceux qui n'y cherchent pas tant de mystere, soutiennent que les Sirenes n'étoient autre chose que certains lieux resserrez de la mer, où les flots precipitez emportoient les vaisseaux qui s'en approchoient trop. C'est là selon quelques Auteurs tout le fondement de la fable. D'autres pretendoient, que c'étoient originairement des oiseaua, qui furent convertis en poissons : on a pourtant si peu distingué ces deux etats, que les Sculpteurs, &amp; les Peintres ne les representent que sous la forme de poissons. Il y a seulement quelques medailles où elles paroissent avec la partie superieure de femmes, &amp; la partie inferieure d'oiseaux. Ainsi ceux qui les peignent comme des demi-poissons n'ont point songé à leur état primitif, &amp; n'ont eu égard qu'à celui de leur metamorphose. Ae. Nicaise. Aux Moluques il y a un poisson qui a le visage, &amp; le sein d'une femme, &amp; qui lui ressemble encore dans la maniere dont il s'accouple avec le mâle. Il est de la grandeur du veau, &amp; sa chair a le goût de celle de vache. On dit que ses dents ont beaucoup de vertu contre les dissenteries. Il y a dans les cabinets des curieux des mains de Sirenes. Philippes Archiduc d'Austriche en l'an 1548. porta à Gennes une Sirene morte pour la faire voir</def>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SIRENES</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>f</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Les Payens ont feint que c'étoient des monstres marins, ayant le visage de femmes, &amp; une queuë de poisson. Ils ont cru qu'il y avoit trois filles du Fleuve Achelous, nommées Parthenope, Ligée, &amp; Leucosie. Homere ne compte que deux Sirenes : &amp; d'autres en supposent cinq : Virgile les place sur des écueils où les vaisseaux s'alloient briser. Pline les fait habiter au Promontoire de Minerve, assez proche de l'Ile de Caprée. Quelques-uns leur assient leur sejour dans la Sicile, vers le Cap Pelore. leur donne des ailes, &amp; un plumage varié des plus belles, &amp; des plus tendres couleurs. Oride en fait des monstres marins. Il les represente avec un visage de femme, &amp; leur attribue une voix humaine. Claudien en parle encore plus amplement : il dit qu'elles habitoient sur des rochers harmonieux : que c'étoient des monstres charmans, &amp; des écueils où les voyageurs alloient échoüer sans regret, &amp; expiroient dans l'enchantement, au milieu des plaisirs : dulce malum pelago siren. Cette description est fondée apparemment sur l'explication litterale de la fable : que c'étoient des femmes qui demeuroient sur les bords de la mer de Sicile, &amp; qui par tous les attraits de la volupté arrêtoient les passans, &amp; leur faisoient oublier leur course, en les enivrant par toutes sortes de delices, &amp; de plaisirs. On pretend même que le nombre, &amp; le nom des trois Sitenes a été inventé sur la triple volupté des sens, le vin, l'amour, &amp; la musique, qui sont les attraits les plus puissans pour attacher les hommes ; c'est encore de là sans doute que proviennent tant d'exhortations d'éviter le funelte chant des Sirenes, &amp; de ne se point laisser enchanter par la douceur de leur melodie. Par la même raison l'on en a fait le symbole de l'éloquence, parcequ'on ne peut resister à la seduction de leurs persuasions. Caton le Grammairien fut appellé la Sirene Latine. Enfin on a comparé à l'harmonie, &amp; à la voix melodieuse des Sirenes, tout ce qui flatte l'oreille, &amp; tout ce qui entraîne inevitablement les ceurs. C'est pourquoy les Grecs ont tiré l'étymologie des Sirenes, du mot Grec seira, qui signifie une chaîne ; ils vouloient dire qu'il est impossible de se degager de leurs liens, &amp; de se defendre de leurs attraits invincibles. Ceux qui n'y cherchent pas tant de mystere, soutiennent que les Sirenes n'étoient autre chose que certains lieux resserrez de la mer, où les flots precipitez emportoient les vaisseaux qui s'en approchoient trop. C'est là selon quelques Auteurs tout le fondement de la fable. D'autres pretendoient, que c'étoient originairement des oiseaua, qui furent convertis en poissons : on a pourtant si peu distingué ces deux etats, que les Sculpteurs, &amp; les Peintres ne les representent que sous la forme de poissons. Il y a seulement quelques medailles où elles paroissent avec la partie superieure de femmes, &amp; la partie inferieure d'oiseaux. Ainsi ceux qui les peignent comme des demi-poissons n'ont point songé à leur état primitif, &amp; n'ont eu égard qu'à celui de leur metamorphose. Ae. Nicaise. Aux Moluques il y a un poisson qui a le visage, &amp; le sein d'une femme, &amp; qui lui ressemble encore dans la maniere dont il s'accouple avec le mâle. Il est de la grandeur du veau, &amp; sa chair a le goût de celle de vache. On dit que ses dents ont beaucoup de vertu contre les dissenteries. Il y a dans les cabinets des curieux des mains de Sirenes. Philippes Archiduc d'Austriche en l'an 1548. porta à Gennes une Sirene morte pour la faire voir</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -29529,7 +29491,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SIXIEÉME</orth>
+<orth>SIXIÉME</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -29614,7 +29576,7 @@
 <pc>.</pc>
 
 <sense>
-<def>Espece de tere glaise, fort gluante, luisante &amp; pesante, tatôt jaunâtre &amp; tantôt noirâtre. Elle fait le même effet que le savon, d'où vient qu'on l'appelle en Latin, terra saponaria. Les Cardeurs de laine s'en servent fort en Angleterre, ils l'appelent seletard</def>
+<def>Espece de tere glaise, fort gluante, luisante &amp; pesante, tatôt jaunâtre &amp; tantôt noirâtre. Elle fait le même effet que le savon, d'où vient qu'on l'appelle en Latin, terra saponaria. Les Cardeurs de laine s'en servent fort en Angleterre, ils l'appelent soletard</def>
 <pc>.</pc></sense>
 </entry>
 </div>
@@ -30400,7 +30362,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SOIXANTIEME</orth>
+<orth>SOIXANTIÉME</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -30824,7 +30786,23 @@
 <sense>
 <usg>Terme de Grammaire</usg>
 <pc>.</pc>
-<def>C'est une grosse faute contre la langue &amp; contre les regles de la Grammaire, soit dans les Declinaisons, les Conjugaisons, la Construction, ou la Syntaxe. Impetratum est à ratione, ut peccare suavitatis causa liceret ; c'està-dire, que pour parler élegamment, il faut s'enhardir à s'éloigner quelquefois des regles communes de la Grammaire. Vaugelas repete souvent ce qu'a dit Quintilien, Aliud est latine, aliud grammaticà loqui. Bou. Mon esprit n'admet point un pompeux barbarisme, Ni d'un vers empoulé 'orgueilleux solecisme. Mol. Un acteur ayant fait un faux geste sur le Theatre on lui cria, qu'il avoit fait un solecisme de la main. Abl. Le moindre solecisme en parlant vous irrite ; Mais vous en faites, vous, d'étranges en conduitte. Mo SOLEIL. s. m. Corps, globe lumineux qui éclaire le monde ; la plus brillante des sept Planetes. Le soleil est au centre du monde, selon Copernic, ou du moins au centre de nôtre tourbillon, où il est immobile. Toutes les Planetes tournent autour du soleil, excepté la lune qui tourne autour de la terre : ainsi le soleil cesse d'être Planete. Le soleil est placé dans le centre comme dans le lieu le plus commode d'où il puisse distribuer également la lumiere, &amp; animer tout par sa chaleur. La plus grande distance de la terre est de 22574. demi-diametres de la terre, &amp; sa plus petite de 21626. c'est-à-dire, qu'en hiver le soleil est plus près de nous qu'en été de 748. demi-diametres de la terre, qui font plus d'un million de lieuës. La circonference du cercle qûe le soleil parcourt n'a pas le même centre que la terre. Par cette raison ce cercle s'appelle excentrique, ensorte que le soleil est plus proche de la terre dans la partie meridionale, que dans la partie septentrionale. Le point le plus éloigné de cet excentrique s'appelle apogée, &amp; le plus procne perigée. C'est Hyparque qui 120. ans avant J. Christ a été l'inventeur de cette supposition qui sert à rendre raison de divers phenomenes du soleil. Cette excentricité du cercle du soleil est cause qu'il fait sept ou huit revolutions de plus dans la partie septentrionale que dans la meridionale, &amp; qu'il paroît aussi plus grand quand il parcourt le Tropique du Capricorne que quand il parcourt le Tropique du Cancer. Le soleil ne s'écarte point de l'Ecliptique : &amp; le cercle diurne qu'il decrit lorsqu'il est le plus éloigné de l'Equateur, est distant de 23. degrez 30. minutes de l'Equateur. Quelquesuns croyent que les étoiles fixes sont autant de soleils autour desquels roulent des Planetes qui nous sont inconnuës. Mr. Huyguens est de ce sentiment</def>
+<def>C'est une grosse faute contre la langue &amp; contre les regles de la Grammaire, soit dans les Declinaisons, les Conjugaisons, la Construction, ou la Syntaxe. Impetratum est à ratione, ut peccare suavitatis causa liceret ; c'està-dire, que pour parler élegamment, il faut s'enhardir à s'éloigner quelquefois des regles communes de la Grammaire. Vaugelas repete souvent ce qu'a dit Quintilien, Aliud est latine, aliud grammaticà loqui. Bou. Mon esprit n'admet point un pompeux barbarisme, Ni d'un vers empoulé 'orgueilleux solecisme. Mol. Un acteur ayant fait un faux geste sur le Theatre on lui cria, qu'il avoit fait un solecisme de la main. Abl. Le moindre solecisme en parlant vous irrite ; Mais vous en faites, vous, d'étranges en conduitte. Mol.
+    </def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SOLEIL</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Corps, globe lumineux qui éclaire le monde ; la plus brillante des sept Planetes. Le soleil est au centre du monde, selon Copernic, ou du moins au centre de nôtre tourbillon, où il est immobile. Toutes les Planetes tournent autour du soleil, excepté la lune qui tourne autour de la terre : ainsi le soleil cesse d'être Planete. Le soleil est placé dans le centre comme dans le lieu le plus commode d'où il puisse distribuer également la lumiere, &amp; animer tout par sa chaleur. La plus grande distance de la terre est de 22574. demi-diametres de la terre, &amp; sa plus petite de 21626. c'est-à-dire, qu'en hiver le soleil est plus près de nous qu'en été de 748. demi-diametres de la terre, qui font plus d'un million de lieuës. La circonference du cercle qûe le soleil parcourt n'a pas le même centre que la terre. Par cette raison ce cercle s'appelle excentrique, ensorte que le soleil est plus proche de la terre dans la partie meridionale, que dans la partie septentrionale. Le point le plus éloigné de cet excentrique s'appelle apogée, &amp; le plus procne perigée. C'est Hyparque qui 120. ans avant J. Christ a été l'inventeur de cette supposition qui sert à rendre raison de divers phenomenes du soleil. Cette excentricité du cercle du soleil est cause qu'il fait sept ou huit revolutions de plus dans la partie septentrionale que dans la meridionale, &amp; qu'il paroît aussi plus grand quand il parcourt le Tropique du Capricorne que quand il parcourt le Tropique du Cancer. Le soleil ne s'écarte point de l'Ecliptique : &amp; le cercle diurne qu'il decrit lorsqu'il est le plus éloigné de l'Equateur, est distant de 23. degrez 30. minutes de l'Equateur. Quelques-uns croyent que les étoiles fixes sont autant de soleils autour desquels roulent des Planetes qui nous sont inconnuës. Mr. Huyguens est de ce sentiment</def>
 </sense>
 <pc>.</pc>
 
@@ -31002,11 +30980,11 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SOLEMNITE</orth>
+<orth>SOLEMNITÉ</orth>
 </form>
 <pc>,</pc>
 <form type="variant">
-<orth>ouSOLENNITE</orth>
+<orth>ou SOLENNITÉ</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -31879,7 +31857,22 @@
 <sense>
 <form>Somme</form>
 <pc>,</pc>
-<def>signifie aussi le repos que prend l'animal fatigué, par la cessation de l'action des sens, lorsqu'il s endort. Il est masculin en ce sens, &amp; ne se dit guere que de l'homme. Les païsans dorment d'un profond somme. Ce malade a fait un petit somme qui lui fera de bien. Il fut reveillé à son premier somme. Interrompre son somme. Abl. Bois-Robert se plaint d'avoir perdu son procés tout d'une voix, ou plutôt tout d'un somme. Derober le somme à vos yeux. Main. C'est la que l Prelat, muni d'un dejûner, Dormant d'un leger somme attendoit le diner. Boi SOMMEIL. s. masc. Envic de dormis ; assoupissement ; état où les sens ont peu, ou point d'action. Le sommeil prend aux gens âgez après le repas. Après un grand travail on est pressé du sommeil. Je suis abbaru de sommeil. Je n'en puis plus de sommeil</def>
+<def>signifie aussi le repos que prend l'animal fatigué, par la cessation de l'action des sens, lorsqu'il s endort. Il est masculin en ce sens, &amp; ne se dit guere que de l'homme. Les païsans dorment d'un profond somme. Ce malade a fait un petit somme qui lui fera de bien. Il fut reveillé à son premier somme. Interrompre son somme. Abl. Bois-Robert se plaint d'avoir perdu son procés tout d'une voix, ou plutôt tout d'un somme. Derober le somme à vos yeux. Main. C'est la que l Prelat, muni d'un dejûner, Dormant d'un leger somme attendoit le diner. Boi</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SOMMEIL</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>. s. masc. Envie de dormir ; assoupissement ; état où les sens ont peu, ou point d'action. Le sommeil prend aux gens âgez après le repas. Après un grand travail on est pressé du sommeil. Je suis abbatu de sommeil. Je n'en puis plus de sommeil</def>
 </sense>
 <pc>.</pc>
 
@@ -31910,7 +31903,23 @@
 <sense>
 <form>Sommeil</form>
 <pc>.</pc>
-<def>Les Mystiques appellent sommeil amoureux, l'état de l'ame dans la contemplation, parcequ'alors l'ame est comme endormie dans le sein de la DiviSOMMEILLER. verb. neut. Dormir d'un sommeil leger, d'un sommeil imparfait ; s'assoupir. Les gens qui sommeillent ne laissent pas d'entendre tout ce qu'on dit. On ne peut s'empêcher de sommeiller au Sermon. Le murmure des eaux invite à sommeiller. Rae. Le divin Homere sommeille quelquefois dans ses écrits. Le Ch. de M. c'est-à-dire, s oublie, ou se neglige quelquefois</def>
+<def>Les Mystiques appellent sommeil amoureux, l'état de l'ame dans la contemplation, parcequ'alors l'ame est comme endormie dans le sein de la Divinité.
+    </def>
+    </sense>
+        </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SOMMEILLER</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>verb</pos>
+                <pc>.</pc>
+                <subc>neut</subc>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Dormir d'un sommeil leger, d'un sommeil imparfait ; s'assoupir. Les gens qui sommeillent ne laissent pas d'entendre tout ce qu'on dit. On ne peut s'empêcher de sommeiller au Sermon. Le murmure des eaux invite à sommeiller. Rae. Le divin Homere sommeille quelquefois dans ses écrits. Le Ch. de M. c'est-à-dire, s oublie, ou se neglige quelquefois</def>
 </sense>
 <pc>.</pc>
 
@@ -32609,7 +32618,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SONGE-MALICF</orth>
+<orth>SONGE-MALICE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -32966,7 +32975,7 @@
 <head>SOP<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SOPH</orth>
+<orth>SOPHI</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -34345,10 +34354,19 @@
 <pc>.</pc>
 
 <sense>
-<def>Inquiet ; qui a du chagrin, du souci. Un avare est toujours timide, &amp; soucieux. Cette femme est peu soucieuse de son menage ; elle n'en prend aucun soiun. Ce mot est un peu vieux, &amp; ne peut guere entrer dans le beau stile. Mais contre moi mon cour seditieux Me donne bien des pensers soucieux. Voi. Autrefois le mot de soucieux signifioit curieux &amp; studieux ; comme Saumaise a fait voir sur l'Histoire Auguste. Les François sont soucieux de nouveautez. Pasq. sOU-ClAviERE, SOu-ClERC, &amp;c</def>
-<pc>.</pc>
+<def>Inquiet ; qui a du chagrin, du souci. Un avare est toujours timide, &amp; soucieux. Cette femme est peu soucieuse de son menage ; elle n'en prend aucun soiun. Ce mot est un peu vieux, &amp; ne peut guere entrer dans le beau stile. Mais contre moi mon cour seditieux Me donne bien des pensers soucieux. Voi. Autrefois le mot de soucieux signifioit curieux &amp; studieux ; comme Saumaise a fait voir sur l'Histoire Auguste. Les François sont soucieux de nouveautez. Pasq.</def></sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SOU-ClAVIERE</orth></form>
+            <pc>,</pc>
+            <form type="lemma"><orth>SOU-ClERC</orth></form>
+            <pc>,</pc>
+            <lbl>&amp;</lbl>
+            <pc>.</pc>
+        </form>
 <xr>Voyez après Sous</xr>
-<pc>.</pc></sense>
+<pc>.</pc>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -35143,25 +35161,22 @@
 <def>Qui a toute la peine &amp; la fatigue d'une maison. Ce valet est le souffre-douleurs, tous les autres lui commandent, le maltraittent. Les chevaux de poste &amp; de loüage sont des soufre-douleurs, il faut qu'ils travaillent perpetuellement</def>
 </sense>
 <pc>.</pc>
-
-<re><form>SOuUFFRETEUX, euse</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Miserable</form>
-<pc>qui</pc>
-<def>souffre beaucoup de peine &amp; de necessité. Il faut avoir compassion des pauvres souffreteux, qui ont froid, qui ont faim, &amp;c. Il est bas &amp; vieillit. Il ne se dit</def>
-</re>
-<form type="lemmaGrp">
-<pron>plus qu'en stile plaisant</pron>
-</form>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SOUFFRETEUX</orth></form>
+            <pc>,</pc>
+            <form type="inflected"><orth type="part">euse</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>adj</pos>
+                <pc>.</pc>
+                </gramGrp>
+        </form>
+        <sense>
+            <def>Miserable, qui souffre beaucoup de peine &amp; de necessité. Il faut avoir compassion des pauvres souffreteux, qui ont froid, qui ont faim, &amp;c. Il est bas &amp; vieillit. Il ne se dit plus qu'en stile plaisant. Refl. Un pauvre souffireteux se plaint là bas. La Font. Cependant il y a quelques gens qui croyent, que si on employe ce mot avec jugement, il pourroit encore passer dans le beau stile, comme en cet exemple : Ils languiront toute leur vie, pauvres, souffreteux, meprisez. Pat</def>
 <pc>.</pc>
-
-<sense>
-<form>Rerl</form>
-<pc>.</pc>
-<def>Un pauvre souffireteux se plaint là bas. La Font. Cependant il y a quelques gens qui croyent, que si on employe ce mot avec jugement, il pourroit encore passer dans le beau stile, comme en cet exemple : Ils languiront toute leur vie, pauvres, souffreteux, meprisez. Pat</def>
-<pc>.</pc></sense>
+        </sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -35471,14 +35486,22 @@
 <form>.</form>
 <form>part</form>
 <pc>.</pc>
-<def>pass. &amp; adj. Il a toutes les significations de son verbe. St. Paul dit qu'une chose est souillée ; c'est-à-dire, impure, à celui qui la repute souillée SOUILLEURE, ou SOUILLURE. s. fem</def>
-</re>
-<pc>.</pc>
-
-<sense>
-<form>Tache</form>
-<pc>,</pc>
-<def>saleté qui est sur quelque chose. Son habit est plein de souillures. Il n'a guere d'usage au propre. On dit au figuré, la souillure du peché, la souillure de l'ame. Le sang de Jesus-Christ a lavé toutes nos souillures. On dit aussi ; c'est une souillure à son honneur, une souillure à sa reputation</def>
+<def>pass. &amp; adj. Il a toutes les significations de son verbe. St. Paul dit qu'une chose est souillée ; c'est-à-dire, impure, à celui qui la repute souillée</def></re></entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SOUILLEURE</orth></form>
+            <pc>,</pc>
+            <form type="variant"><orth>ou SOUILLURE</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>fem</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Tache, saleté qui est sur quelque chose. Son habit est plein de souillures. Il n'a guere d'usage au propre. On dit au figuré, la souillure du peché, la souillure de l'ame. Le sang de Jesus-Christ a lavé toutes nos souillures. On dit aussi ; c'est une souillure à son honneur, une souillure à sa reputation</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -35545,22 +35568,7 @@
 <pc>.</pc>
 
 <sense>
-<def>Allegement, diminution de peine, de douleur, d'affliction. Le temps apporte du soulagement à toutes sortes de maux. Le changement de douleur est une espece de soulagement. Vous n'avez pu soutenir seule l'embaras où vous vous étes trouvée, &amp; vous avez cherché le soulagement de vous plaindre, avec quelque confidente qui vous a trahie</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>P</orth>
-</form>
-<pc>.</pc>
-<form type="variant">
-<orth>de Cl</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>On peut s'amuser à des lectures agreables ; c'est un soulagement que Dieu accorde à nôtre foiblesse. Nic</def>
+<def>Allegement, diminution de peine, de douleur, d'affliction. Le temps apporte du soulagement à toutes sortes de maux. Le changement de douleur est une espece de soulagement. Vous n'avez pu soutenir seule l'embaras où vous vous étes trouvée, &amp; vous avez cherché le soulagement de vous plaindre, avec quelque confidente qui vous a trahie. P. de Cl. On peut s'amuser à des lectures agreables ; c'est un soulagement que Dieu accorde à nôtre foiblesse. Nic</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -35827,10 +35835,16 @@
 <pc>.</pc>
 
 <sense>
-<def>On le dit encore en Pratique. Il sonloit y avoir là une porte, une barriere. Le temps a bien changé, il n'est plus comme il souloit être. SOuMEttRE</def>
-<pc>.</pc>
+<def>On le dit encore en Pratique. Il sonloit y avoir là une porte, une barriere. Le temps a bien changé, il n'est plus comme il souloit être.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SOUMETTRE</orth></form>
+            <pc>.</pc>
+             </form>
 <xr>Voyez Sousmettre</xr>
-<pc>.</pc></sense>
+<pc>.</pc>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -35864,7 +35878,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SOUPCON</orth>
+<orth>SOUPÇON</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -35881,7 +35895,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SOUPCONNER</orth>
+<orth>SOUPÇONNER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -35898,7 +35912,7 @@
 <pc>.</pc>
 
 <sense>
-<form>Soupcçonner</form>
+<form>Soupçonner</form>
 <pc>,</pc>
 <def>signifie aussi, Avoir une connoissance imparfaite, deviner à demi. Cet Interprete soupçonne que son Auteur a voulu dire une telle chose ; il soupçonne que ce mot peut venir d'une telle étymologie</def>
 </sense>
@@ -35917,7 +35931,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SOUPCONNEUX</orth>
+<orth>SOUPÇONNEUX</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -36243,22 +36257,7 @@
 <pc>.</pc>
 
 <sense>
-<def>Prononcez Sourci Le poil qui est au dessus des yeux en maniere de demi-cercle. Le Marechal de Turenne avoit les sourcils gros, &amp; assemblez ; ce qui lui faisoit une physionomie malheureuse</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>B</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>Rab</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>J'ai encore les sourcils joints, qui est la marque d'un fort mechant homme. Voit. Froncer le sourcil. Ablan. c'est se fâcher, se chagriner, marquer de la colere. Les Medecins appellent la partie qui est la plus proche du nez, la tête des sourcils ; &amp; celle qui tire vers les temples, la queuë, ou le bout ; &amp; l'espace qui est sans poil entre les deux sourcils, faute de mot François, est appellé par eux intercilium, &amp; gabellum, ou après Hippocrate metopion. Les Medecins appellent aussi sourcils, certaines apophyses de cartilage qui sont aux emboëtures de quelques os, comme celle de l'os ischion qui comprend la tête de l'os de la cuisse</def>
+<def>Prononcez Sourci Le poil qui est au dessus des yeux en maniere de demi-cercle. Le Marechal de Turenne avoit les sourcils gros, &amp; assemblez ; ce qui lui faisoit une physionomie malheureuse. B. Rab. J'ai encore les sourcils joints, qui est la marque d'un fort mechant homme. Voit. Froncer le sourcil. Ablan. c'est se fâcher, se chagriner, marquer de la colere. Les Medecins appellent la partie qui est la plus proche du nez, la tête des sourcils ; &amp; celle qui tire vers les temples, la queuë, ou le bout ; &amp; l'espace qui est sans poil entre les deux sourcils, faute de mot François, est appellé par eux intercilium, &amp; gabellum, ou après Hippocrate metopion. Les Medecins appellent aussi sourcils, certaines apophyses de cartilage qui sont aux emboëtures de quelques os, comme celle de l'os ischion qui comprend la tête de l'os de la cuisse</def>
 </sense>
 <pc>.</pc>
 
@@ -36304,15 +36303,22 @@
 <def>Terme poctique, qui ne se dit que des montagnes &amp; des rochers fort élevez, &amp; qui semblent être orgueilleux par leur élevation</def>
 </sense>
 <pc>.</pc>
-
-<re><form>SOuURD, Sourde</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>&amp; s</form>
-<pc>.</pc>
-<def>Le d ne se prononce pas au masculin, si ce n'est devant une voyelle : auquel cas on le prononce à-peu-près comme un t. I signifie, Qui ne peut entendre les sons, par quelque defaut de l'organe sur lequel ils font impression. On dit que les peuples voisins des Cataractes du Nil deviennent sourds, à cause du bruit continuel de ses eaux en tombant. Les sourds de naissance sont muets : ils ne peuvent tester</def>
-</re>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SOURD</orth></form>
+            <pc>,</pc>
+            <form type="lemma"><orth>Sourde</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>adj</pos>
+                <pc>.</pc>
+                </gramGrp>
+            <pron>Le d ne se prononce pas au masculin, si ce n'est devant une voyelle : auquel cas on le prononce à-peu-près comme un t.</pron>
+        </form>
+        <sense>
+            <def>Il signifie, Qui ne peut entendre les sons, par quelque defaut de l'organe sur lequel ils font impression. On dit que les peuples voisins des Cataractes du Nil deviennent sourds, à cause du bruit continuel de ses eaux en tombant. Les sourds de naissance sont muets : ils ne peuvent tester</def>
+</sense>
 <pc>.</pc>
 
 <sense>
@@ -36766,7 +36772,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SOUSBARBE</orth>
+<orth>SOUS-BARBE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -36817,7 +36823,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SQUSBERME</orth>
+<orth>SQOS-BERME</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -36836,7 +36842,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SOUSBIBLIOTHECAIRE</orth>
+<orth>SOUS-BIBLIOTHECAIRE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -36853,7 +36859,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SOUSBRIADIER</orth>
+<orth>SOUS-BRIGADIER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -36892,7 +36898,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SOUSCLAVIER</orth>
+<orth>SOUS CLAVIER</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -36916,9 +36922,24 @@
 <def>On appelle muscle sousclavier, un muscle qui est entre la clavicule &amp; la premiere côte superieure ; il tire cette côre en haut</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<def>SOUsClERC, SOuUsCOmiTE, SOUSCOMMIS. s. m. Ce sont des gens qui servent au dessous ou en la place des Clercs, Comites ou Commis</def>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SOUS-ClERC</orth></form>
+            <pc>,</pc>
+            <form type="lemma"><orth>SOUS-COMITE</orth></form>
+            <pc>,</pc>
+            <form type="lemma"><orth>SOUS-COMMIS</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Ce sont des gens qui servent au dessous ou en la place des Clercs, Comites ou Commis</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -37040,7 +37061,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SOUSDIACONAT</orth>
+<orth>SOUS-DIACONAT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -37057,7 +37078,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SOUSDIACRE</orth>
+<orth>SOUS-DIACRE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -37074,7 +37095,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SOUSDOYEN</orth>
+<orth>SOUS-DOYEN</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -37144,7 +37165,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SOUSFAITE</orth>
+<orth>SOUS-FAITE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -37343,7 +37364,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SOUSLIEUTENANT</orth>
+<orth>SOUS-LIEUTENANT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -37377,7 +37398,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SOUSLIGNER</orth>
+<orth>SOUS-LIGNER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -37556,7 +37577,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SOUSPENITENCERIE</orth>
+<orth>SOUS-PENITENCERIE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -37568,7 +37589,7 @@
 <pc>.</pc>
 
 <sense>
-<def>Titre ou qualité de Sou-Penitencier. Les Sou-Penitenceries en la plupart des Cathedrales est une dignité, un titre de Benefice</def>
+<def>Titre ou qualité de Sous-Penitencier. Les Sous-Penitenceries en la plupart des Cathedrales est une dignité, un titre de Benefice</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -37896,8 +37917,21 @@
 <def>Donner quelque petit signe de joye par un leger mouvement des levres &amp; des jouës. La Dame toute grave qu'elle est, n'a pu sempêcher de sourire au recit de ce beau tour de galanterie. La gravité des Jurisconsultes épouvante la jeunesse. Ils ne sçavent pas même sourire. Tour. Le lendemain au matin les Nymphes sourioient des petits embaras de Psiché. La Fon. Sourire finement. La Justice souleva son bandeau pour sourire. Pat. Sousrire à quelcun. Cette expression se prend toûjours en bonne part, &amp; marque de l'intelligence avec quelcun, de l'estime, de l'affection. Il y a de cerSoustraction, est aussi un terme dont on se sert en parlant d'une action de larcin ou de fraude, par laquelle on derobe, on recele quelques meubles, quelues papiers, quand on lui veut donner un nom plus oux. On permet en Justice d'informer de la soustraction des pieces d'un procés, d'un meuble precieux. Une veuve ne peut être poursuivie criminellement pour soustraction dans la succession de son mari ; on n'a contr elle qu'une action civile. Si elle est convaincue de soustraction avant que d'avoir renoncé à la succession de son mari, elle est tenue à payer tosets les dettes : mais si la soustraction a été faite après avoir renoncé, elle ne peut être condamnée qu a la restitution des choses recelées</def>
 </sense>
 <pc>.</pc>
-
-<sense>
+<!-- gap deux pages, de . la fin de sousrire à soustraction -->
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SOUSTRACTION</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>f</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def></def>
 <form>Soustraction</form>
 <pc>,</pc>
 <def>se dit aussi pour l'action de soustraire, &amp; signifie, Privation. La mort est une chûute terrible pour l'ame par la soustraction de tous ses appuis. Nic</def>
@@ -38290,23 +38324,24 @@
 <def>C'est la même chose que souvent, mais il est moins usité</def>
 </sense>
 <pc>.</pc>
-
-<re><form>SOuUVERAIN</form>
-</re>
-<form type="lemmaGrp">
-<pc>,</pc>
-<form type="inflected">
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SOUVERAIN</orth></form>
+            <pc>,</pc>
+            <form type="inflected">
 <orth type="part">aine</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
 <pos>adj</pos>
 <pc>.</pc>
-<pos>&amp; subst</pos>
+    <lbl>&amp; </lbl>
+<pos>subst</pos>
 <pc>.</pc>
 <gen>masc</gen>
 <pc>.</pc>
-<number>&amp;</number>
+<lbl>&amp;</lbl>
 <gen>f</gen>
 </gramGrp>
 </form>
@@ -39040,14 +39075,14 @@
 <pc>.</pc>
 
 <sense>
-<form>Sfectacle</form>
+<form>Spectacle</form>
 <pc>,</pc>
-<def>se dit aussi de certaines grandes actions, &amp; ceremonies publiques. L'entrée d'un Roi dans sa Capitale est un beau spectacle. C'est un grand &amp; beau spectacle que le couronnement d'un Pape. Quand on dit que quelcun aime les spectacles, cela s'entend ordinairement des divertissemens, &amp; representations qu'on donne au public ; comme les Opera, les Comedies, Ballets, &amp; tout ce qui se voit sur les Theâtres ; les carrousels, feux d'artifices, jouûtes, tournois, sont d'agreables spectacles. Chez les Anciens les Gladiateurs étoient de cruels pectacles. Les Jeux Olympiques, Circenses &amp; autres magnificences des Grands, étoient de fameux spectacles. Les Romains étoient fort passionnez pour les pectacles. On gagnoit le peuple en lui donnant des pectacles. Auguste amusoit le peuple par des spectacles, afin qu'il sentit moins qu'on le mettoit à la chaîne. De Lar. Ceux qui assistent à des spectacles barbares sont meurtriers par les yeux. Bou. Le Christianisme n'approuve point les pectacles des Theâtres. Les Anglois avides de la cruauté du spectatle, veulent voir des meurtres, &amp; des corps sanglans. St. Ev. On veut être ému, &amp; touché par le spectale, &amp; quand les Acteurs nous laissent immobiles, on a regret à l'innocence, &amp; à la tranquillité qu'on remporte ; &amp; on est indigné de ce qu'ils n'ont pas sçu troubler nôtre repos. Nic. Tout ce qui est spectacle est passion : les sentimens ordinaires &amp; moderez ne frapperoient pas. Id. Les plus passionnez pour les spectacles en sentent bien le faux, &amp; le vuide. Id</def>
+<def>se dit aussi de certaines grandes actions, &amp; ceremonies publiques. L'entrée d'un Roi dans sa Capitale est un beau spectacle. C'est un grand &amp; beau spectacle que le couronnement d'un Pape. Quand on dit que quelcun aime les spectacles, cela s'entend ordinairement des divertissemens, &amp; representations qu'on donne au public ; comme les Opera, les Comedies, Ballets, &amp; tout ce qui se voit sur les Theâtres ; les carrousels, feux d'artifices, joûtes, tournois, sont d'agreables spectacles. Chez les Anciens les Gladiateurs étoient de cruels pectacles. Les Jeux Olympiques, Circenses &amp; autres magnificences des Grands, étoient de fameux spectacles. Les Romains étoient fort passionnez pour les pectacles. On gagnoit le peuple en lui donnant des pectacles. Auguste amusoit le peuple par des spectacles, afin qu'il sentit moins qu'on le mettoit à la chaîne. De Lar. Ceux qui assistent à des spectacles barbares sont meurtriers par les yeux. Bou. Le Christianisme n'approuve point les pectacles des Theâtres. Les Anglois avides de la cruauté du spectatle, veulent voir des meurtres, &amp; des corps sanglans. St. Ev. On veut être ému, &amp; touché par le spectale, &amp; quand les Acteurs nous laissent immobiles, on a regret à l'innocence, &amp; à la tranquillité qu'on remporte ; &amp; on est indigné de ce qu'ils n'ont pas sçu troubler nôtre repos. Nic. Tout ce qui est spectacle est passion : les sentimens ordinaires &amp; moderez ne frapperoient pas. Id. Les plus passionnez pour les spectacles en sentent bien le faux, &amp; le vuide. Id</def>
 </sense>
 <pc>.</pc>
 
 <sense>
-<def>On dit Etre en spectlacle ; pour dire, Etre exposé à l'attention publique. Quand un homme est dans un grand emploi, il doit songer qu'il est en spectacle à tout le monde. On dit aussi dans le même sens, Etre le spectacle. Le saint homme ne craignoit rien tant que d'être le spectacle de son siecle. Flech. Nos calamitez ont été le spectacle de toute la terre. Cl. Se donner en spectacle ; c'est s'exposer à la censure publique. Se donner en spectacle aux Romains. Rac. Se donner en spectacle, se dit aussi par de bons Auteurs, pour dire simplement, Se faire regarder, s'exposer aux yeux du public. Prêt à expirer, il se donne sans peine en spectacle à l'amitié des uns, &amp; à la tendre douleur des autres. Le P. de la Rué. Les Heros Toûjours aux yeux du peuple en spectacle donnez, De leur propre grandeur se trouveroient gênez. Poëme de l'Am</def>
+<def>On dit Etre en spectacle ; pour dire, Etre exposé à l'attention publique. Quand un homme est dans un grand emploi, il doit songer qu'il est en spectacle à tout le monde. On dit aussi dans le même sens, Etre le spectacle. Le saint homme ne craignoit rien tant que d'être le spectacle de son siecle. Flech. Nos calamitez ont été le spectacle de toute la terre. Cl. Se donner en spectacle ; c'est s'exposer à la censure publique. Se donner en spectacle aux Romains. Rac. Se donner en spectacle, se dit aussi par de bons Auteurs, pour dire simplement, Se faire regarder, s'exposer aux yeux du public. Prêt à expirer, il se donne sans peine en spectacle à l'amitié des uns, &amp; à la tendre douleur des autres. Le P. de la Rué. Les Heros Toûjours aux yeux du peuple en spectacle donnez, De leur propre grandeur se trouveroient gênez. Poëme de l'Am</def>
 </sense>
 <pc>.</pc>
 
@@ -39055,17 +39090,25 @@
 <def>On dit aussi, Servir de pectacle ; pour dire, Etre exposé à la censure, à la risée du public</def>
 </sense>
 <pc>.</pc>
-
-<re><form>SPECtaTEuUR, Sfectatrre</form>
-<form>.</form>
-<form>subst</form>
-<pc>.</pc>
-<def>masc</def>
-</re>
-<pc>.</pc>
-
-<sense>
-<def>&amp; fem. Qui est present à un spectacle, à quelque a n tion extraordinaire. Les machines de cet Opera on ravi en admiration les sectateurs. Cette femme n'a pas voulu être spectatrice d'une execution si sanglante. La nature a placé l'homme dans le monde pour être spectateur des choses qui s'y passent. Boi. Pour faire une bonne action, c'est assez d'être spectateur à soi-même. Mont. Ne nous imaginons point que Dieu spectateur indifferent, ne nous demandera nul compte de nos bonnes, &amp; de nos mauvaises actions. Oe. M. N'apprêtez jamais à rire aux spectateurs. Id. Les larmes du spectateur le plus tendre se sechent bien vîte. St. Ev</def>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SPECTATEUR</orth></form>
+            <pc>,</pc>
+            <form type="inflected"><orth>Spectatrice</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>subst</pos>
+                <pc>.</pc>
+                <gen>masc</gen>
+                <pc>.</pc>
+                <lbl>&amp;</lbl>
+                <gen>fem</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Qui est present à un spectacle, à quelque a n tion extraordinaire. Les machines de cet Opera on ravi en admiration les sectateurs. Cette femme n'a pas voulu être spectatrice d'une execution si sanglante. La nature a placé l'homme dans le monde pour être spectateur des choses qui s'y passent. Boi. Pour faire une bonne action, c'est assez d'être spectateur à soi-même. Mont. Ne nous imaginons point que Dieu spectateur indifferent, ne nous demandera nul compte de nos bonnes, &amp; de nos mauvaises actions. Oe. M. N'apprêtez jamais à rire aux spectateurs. Id. Les larmes du spectateur le plus tendre se sechent bien vîte. St. Ev</def>
 </sense>
 <pc>.</pc>
 
@@ -39186,15 +39229,21 @@
 <def>Contemplation ; attention par laquelle on s'applique à l'admiration des choses divines, &amp; naturelles. L'esprit s'abîme dans la sublime speculation des mysteres. Des dogmes de speculation, qui ne gênent point les hommes, leur paroissent plus essentiels à la Religion que des preceptes qui les genent. Disc. d'El. L'honnêtété n'est pas une simple speculation il faut qu'elle agisse. Le Ch. de M. Ne vous amusez point à des speculations creuses, vaines, &amp; seches, dont tant de gens se repaissent. Le P. L. Vous n'étes point de ces Sçavans qui se bornent à la seule speculation, &amp; qui étant d'excellens Grammairiens, ne sont que de mediocres Orateurs. Bou. Il n'arrive que trop souvent que la charité se trouve comme étouffée sous des speculations froides &amp; seches : &amp; que la curiosité affoiblit la foi. Fl. En Physique il ne faut pas tant s'arrêt à la speculation, qu'à l'experience. Il y a bien des machines qui sont belles dans la speculation, qui ne reussissent point dans la pratique. En Mathematique les theorêmes s'appliquent à la speculation, &amp; les problêmes à la pratique</def>
 </sense>
 <pc>.</pc>
-
-<re><form>SPECULATIvE</form>
-<form>.</form>
-<form>s. f</form>
-<form>.</form>
-<form>Qui s</form>
-<pc>'</pc>
-<def>arrête à la speculation, au simple raisonnement. La speculative est inutile sans la pratique</def>
-<pc>.</pc></re>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SPECULATIVE</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>f</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Qui s'arrête à la speculation, au simple raisonnement. La speculative est inutile sans la pratique</def>
+<pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -39219,12 +39268,28 @@
 <pc>,</pc>
 <usg>en termes d'Astronomle signifie</usg>
 <pc>,</pc>
-<def>Observer les astres, &amp; examiner leurs mouvemens. Et alors il est actif. Il a toujours l'oeil au bout d'une lunêtte pour speculer les astres. SPECULUm MATRICIS. s. m. Istrunent dont les Chirurgiens se servent pour examiner &amp; pour pancer des maux qui viennent aux parties naturelles des femmes. Ce mot est tout-à-fait Latin</def>
+<def>Observer les astres, &amp; examiner leurs mouvemens. Et alors il est actif. Il a toujours l'oeil au bout d'une lunêtte pour speculer les astres.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SPECULUM MATRICIS</orth></form>
+            <pc>,</pc>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>m</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Instrument dont les Chirurgiens se servent pour examiner &amp; pour pancer des maux qui viennent aux parties naturelles des femmes. Ce mot est tout-à-fait Latin</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SPERMACETI</orth>
+<orth>SPERMA CETI</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -39516,7 +39581,7 @@
 <head>SPI<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SPICANARD</orth>
+<orth>SPICA NARD</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -40558,50 +40623,7 @@
 <sense>
 <usg>Terme de Poësie</usg>
 <pc>.</pc>
-<def>C'est un cemain nombre reglé, de vers grives &amp; serieux, qui contiennent un sens, au bout duquel il se fait un repos. On les appelle en effet Stances, de lItalien Stanza qui signifie demeue, parcequ'à la fin de chaque Stance il faut qu'il y ait un sens complet. Ce que le Couplet est dans les Chansons, la Strophe dans les Odes, les Stances le sont dans les Poëmes Epiques, ou en des matieres graves, &amp; spirituelles. La plupart des Poëmes Italiens sont en Srances. Il y a des Stances de 4. é</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>8</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>10</orth>
-</form>
-<pc>.</pc>
-<form type="inflected">
-<orth type="part">de 12</orth>
-</form>
-<pc>.</pc>
-<form type="inflected">
-<orth type="part">vers</orth>
-</form>
-<pc>.</pc>
-<form type="variant">
-<orth>On fait aussi des Stances de nombre impair de 5</orth>
-</form>
-<pc>.</pc>
-<form type="inflected">
-<orth type="part">de 7</orth>
-</form>
-<pc>.</pc>
-<form type="inflected">
-<orth type="part">de 9</orth>
-</form>
-<pc>.</pc>
-<form type="inflected">
-<orth type="part">&amp; de 13</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>vers</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Mais elles sont difficiles, parcequ'il y faut trois vers sur une même rime. Si la premiere Stance commence par un vers masculin, ou feminin, la seconde doit commencer, &amp; finir de même. Chaque Stance doit renfermer un sens achevé, &amp; se terminer par une pensée vive, &amp; ingenieuse, ou par une reflexion juste, &amp; bien placée. Les Stances n'ont été introduites dans la Poësie Françoise que sous le regne de Henri III. en 1580. Ceux qui entendent le theatre ont condamné que l'on mêlat des Stances dans la Tragedie, ou dans la Comedie. Quoyque l'on parle en vers sur le thetre, l'on est presumé y parler en prose. Il n'y a que les vers Alexandrins à qui l'usage laisse tenir nature de prose ; mais les Stances n'ont pas le même privilege : elles marquent un jeu du côté du Poëte qui n'a ren de naturel du côté de l'Acteur. D'ailleurs les Stances n'ont pas bonne grace à exprimer tout. La colere, &amp; la menace ne leur sont pas propres. Mais les ireolutions, les douces rêveries, &amp; tout ce qui sert à l'Acteur pour penser à ce qu'il doit resoudre, s'accommode assez à leur cadence inegale. Corn. La matiere des Stances est ou triste, ou enjoüée, &amp; on arrange de telle façon les vers que dans les sujets galans chaque Stance se termine par un masculin, &amp; dans les tristes par un feminin : les rimes masculines étant moins languissantes que les feminines. Men</def>
+<def>C'est un cemain nombre reglé, de vers grives &amp; serieux, qui contiennent un sens, au bout duquel il se fait un repos. On les appelle en effet Stances, de lItalien Stanza qui signifie demeue, parcequ'à la fin de chaque Stance il faut qu'il y ait un sens complet. Ce que le Couplet est dans les Chansons, la Strophe dans les Odes, les Stances le sont dans les Poëmes Epiques, ou en des matieres graves, &amp; spirituelles. La plupart des Poëmes Italiens sont en Srances. Il y a des Stances de 4. 8. 10. 12. vers. On fait aussi des Stances de nombre impair de 5, de 7, de 9 &amp; de 13 vers. Mais elles sont difficiles, parcequ'il y faut trois vers sur une même rime. Si la premiere Stance commence par un vers masculin, ou feminin, la seconde doit commencer, &amp; finir de même. Chaque Stance doit renfermer un sens achevé, &amp; se terminer par une pensée vive, &amp; ingenieuse, ou par une reflexion juste, &amp; bien placée. Les Stances n'ont été introduites dans la Poësie Françoise que sous le regne de Henri III. en 1580. Ceux qui entendent le theatre ont condamné que l'on mêlat des Stances dans la Tragedie, ou dans la Comedie. Quoyque l'on parle en vers sur le thetre, l'on est presumé y parler en prose. Il n'y a que les vers Alexandrins à qui l'usage laisse tenir nature de prose ; mais les Stances n'ont pas le même privilege : elles marquent un jeu du côté du Poëte qui n'a ren de naturel du côté de l'Acteur. D'ailleurs les Stances n'ont pas bonne grace à exprimer tout. La colere, &amp; la menace ne leur sont pas propres. Mais les ireolutions, les douces rêveries, &amp; tout ce qui sert à l'Acteur pour penser à ce qu'il doit resoudre, s'accommode assez à leur cadence inegale. Corn. La matiere des Stances est ou triste, ou enjoüée, &amp; on arrange de telle façon les vers que dans les sujets galans chaque Stance se termine par un masculin, &amp; dans les tristes par un feminin : les rimes masculines étant moins languissantes que les feminines. Men</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -41381,7 +41403,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>STEVARD</orth>
+<orth>STEWARD</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -41438,7 +41460,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>STILDEGRUN</orth>
+<orth>STIL DE GRUN</orth>
 </form>
 <pc>,</pc>
 <form type="variant">
@@ -41500,22 +41522,7 @@
 <sense>
 <form>Stile</form>
 <pc>,</pc>
-<def>signifie principalement la façon particuliere d'expliquer ses pensées, ou d'écrire, qui est differente, selon les Auteurs, &amp; les matieres. Les Maîtres de l'Art ont reduit les manieres d'écrire sous trois genres. Le stile sublime, le stile simple, &amp; le stle mediocre. En general, la matiere doit determiner le choix du stile. AntdeP. La stule sublime doit être majestueux, &amp; soutenu d'expressions nobles, &amp; capables de donner une haute idée : il doit être élevé, sans être guindé. Le stile simple doit être naturel, sans pompe, &amp; sans ornemens : mais il ne doit pas être bas &amp; rampant, sous pretexte d'être fimple. Le stile mediecre participe de la grandeur du sublime, &amp; de la simplicité du simple. Id. Le stile familier, est celui dont on se sert en conversation ; &amp; le ftile bas, ou populaire, celui dont use le peuple, ou dont on use dans le comique, ou le burlesque. Il soutient si bien la grandeur &amp; la pompe de son stile selon la dignité du sujet, que j'ai accoutumé de lui dire, que son flile n'est qu'or &amp; azur. Vau. Saint Jerôme appelle Saint Hilaire le Rhône de l'éloquence Latine, par rapport au caractere de son stile, qui est violent &amp; rapide, comme le cours de ce fleuve. Du Pin. Le stile Prosaïque en vers est aussi defectueux qu'un stile Poëtique en Prose. Men. Les pensées de Tertullien tirent une partie de leur force de son stile dur &amp; barbare. Bou. Le stile que vous appellez tendre &amp; coulant, est mol, &amp; effeminé</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>G</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>G</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Il n'y a rien de plus ridicule que de conter une chose grande en stile bas. La Fon. Quelquefois l'Arioste de la plus haute gravité de son stile tombe dans des bassesses a peine dignes du burlesque. Id. Le stile des Mystiques est un stile hyperbolique, &amp; figuré. M. de M. Le stile des personnes graves &amp; serieuses, est un stile sec, austere, &amp; sans omement. Art de P. Le meilleur stile du monde perd sa vigueur à force de le limer, &amp; de le polir. La M. e V. Aristote appelle un ftile agreablement assaisonné, un ffile tragique, qui a le nombre, le vers &amp; l'harmonie. Dac. L'enflure du ftile ressemble à l'embonpoint de ces malades que la fluxion rend boufis. Art deP. Le caractere principal du stile historique, c'est la clarté, &amp; la brieveté. Id. Le stile de l'historien doit être couppé, &amp; degagé. Id. Un ftile harmonieux &amp; me berce, &amp; m'endort. Boi. Budée dont le stile étoit rude, &amp; mal poli, disoit pourtant que son ftile étoit de haute lice, &amp; resplendissant : cexte phrase seule le condamne. Bar</def>
+<def>signifie principalement la façon particuliere d'expliquer ses pensées, ou d'écrire, qui est differente, selon les Auteurs, &amp; les matieres. Les Maîtres de l'Art ont reduit les manieres d'écrire sous trois genres. Le stile sublime, le stile simple, &amp; le stle mediocre. En general, la matiere doit determiner le choix du stile. AntdeP. La stule sublime doit être majestueux, &amp; soutenu d'expressions nobles, &amp; capables de donner une haute idée : il doit être élevé, sans être guindé. Le stile simple doit être naturel, sans pompe, &amp; sans ornemens : mais il ne doit pas être bas &amp; rampant, sous pretexte d'être fimple. Le stile mediecre participe de la grandeur du sublime, &amp; de la simplicité du simple. Id. Le stile familier, est celui dont on se sert en conversation ; &amp; le ftile bas, ou populaire, celui dont use le peuple, ou dont on use dans le comique, ou le burlesque. Il soutient si bien la grandeur &amp; la pompe de son stile selon la dignité du sujet, que j'ai accoutumé de lui dire, que son flile n'est qu'or &amp; azur. Vau. Saint Jerôme appelle Saint Hilaire le Rhône de l'éloquence Latine, par rapport au caractere de son stile, qui est violent &amp; rapide, comme le cours de ce fleuve. Du Pin. Le stile Prosaïque en vers est aussi defectueux qu'un stile Poëtique en Prose. Men. Les pensées de Tertullien tirent une partie de leur force de son stile dur &amp; barbare. Bou. Le stile que vous appellez tendre &amp; coulant, est mol, &amp; effeminé. G. G. Il n'y a rien de plus ridicule que de conter une chose grande en stile bas. La Fon. Quelquefois l'Arioste de la plus haute gravité de son stile tombe dans des bassesses a peine dignes du burlesque. Id. Le stile des Mystiques est un stile hyperbolique, &amp; figuré. M. de M. Le stile des personnes graves &amp; serieuses, est un stile sec, austere, &amp; sans omement. Art de P. Le meilleur stile du monde perd sa vigueur à force de le limer, &amp; de le polir. La M. e V. Aristote appelle un ftile agreablement assaisonné, un ffile tragique, qui a le nombre, le vers &amp; l'harmonie. Dac. L'enflure du ftile ressemble à l'embonpoint de ces malades que la fluxion rend boufis. Art deP. Le caractere principal du stile historique, c'est la clarté, &amp; la brieveté. Id. Le stile de l'historien doit être couppé, &amp; degagé. Id. Un ftile harmonieux &amp; me berce, &amp; m'endort. Boi. Budée dont le stile étoit rude, &amp; mal poli, disoit pourtant que son ftile étoit de haute lice, &amp; resplendissant : cexte phrase seule le condamne. Bar</def>
 </sense>
 <pc>.</pc>
 
@@ -41801,7 +41808,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>STOiQUE</orth>
+<orth>STOIQUE</orth>
 </form>
 <pc>,</pc>
 <form type="lemma">
@@ -43318,7 +43325,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SUBORDINEMENT</orth>
+<orth>SUBORDINÉMENT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -43628,7 +43635,22 @@
 <pc>.</pc>
 
 <sense>
-<def>D'une maniere subsidiaire. Cette deffcnse n'a été alleguée que subfidiairement, &amp; par surabondance de droit. Il a conclu subsidiairement contre son garant en cas d'éviction par le demandeur originaire.a SUBSISTANCE. s. f. Ce qui sert à nourrir, à entretenir, à faire vivre quelque particulier, quelque Communauté. Les Mendians n'ont aucun bien, leur subsstance est fondée sur la providence, sur la charité des gens de bien. Ce galant fournit à la subsistance du mênage, de la famille de sa Maîtresse. Larmée est en de bons quartiers, elle trouvera là aisément sa suabfistance</def>
+<def>D'une maniere subsidiaire. Cette deffcnse n'a été alleguée que subfidiairement, &amp; par surabondance de droit. Il a conclu subsidiairement contre son garant en cas d'éviction par le demandeur originaire.</def>
+    </sense>
+    </entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SUBSISTANCE</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>s</pos>
+                <pc>.</pc>
+                <gen>f</gen>
+                <pc>.</pc>
+            </gramGrp>
+        </form>
+        <sense>
+            <def>Ce qui sert à nourrir, à entretenir, à faire vivre quelque particulier, quelque Communauté. Les Mendians n'ont aucun bien, leur subsstance est fondée sur la providence, sur la charité des gens de bien. Ce galant fournit à la subsistance du mênage, de la famille de sa Maîtresse. Larmée est en de bons quartiers, elle trouvera là aisément sa suabfistance</def>
 </sense>
 <pc>.</pc>
 
@@ -43725,14 +43747,8 @@
 <sense>
 <def>Qui concerne la nature de la substance. On dispute fort dans l'Ecole s'il y a des formes sulbstancielles attachées particulierement à la substance</def>
 <pc>.</pc>
+</sense>
 <xr>Voyez Forne</xr>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>SUB</orth>
-</form>
-</form>
 <pc>.</pc>
 
 <sense>
@@ -44502,7 +44518,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SCCIN</orth>
+<orth>SUCCIN</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -44692,7 +44708,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SUCON</orth>
+<orth>SUÇON</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -44709,7 +44725,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SUCOTER</orth>
+<orth>SUÇOTER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -45689,7 +45705,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ALASUISSE</orth>
+<orth>A LA SUISSE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -45970,7 +45986,7 @@
 <head>SUL<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SULFURE</orth>
+<orth>SULFURÉ</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -46569,13 +46585,20 @@
 </form>
 <pc>.</pc>
 
-<sense>
-<xr>Voyez Surnaturel SUPERNUMERAIRE</xr>
+<xr>Voyez Surnaturel</xr> 
+    <pc>.</pc>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SUPERNUMERAIRE</orth></form>
+            <pc>.</pc>
+            </form>
+        <sense>
+            <def>Ce qui est au delà du nombre. Si se trouve des files supernumeraires, on en forme des rangs à la queuë de la division. Martinet. Surnumeraire est plus en usage</def>
 <pc>.</pc>
-<def>Ce qui est au delà du nombre. Si se trouve des files supernumeraires, on en forme des rangs à la queuë de la division. Martinet. Surnumeraire est plus en usage</def>
-<pc>.</pc>
+        </sense>
 <xr>Voyez Surnumeraire</xr>
-<pc>.</pc></sense>
+<pc>.</pc>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -46622,14 +46645,19 @@
 <def>Surseoir. On alloit adjuger cette terre, mais on a interjetté un appel qui a obligé de superseder. Les Lettres d'Etat font superseder à toutes poursuites</def>
 </sense>
 <pc>.</pc>
-
-<re><form>SUPERSTITIEuSEMENT</form>
-<form>.</form>
-<form>adv</form>
-<form>.</form>
-<form>D</form>
-<def>'une maniere superstitieuse &amp; trop exacte. Les Juifs observent encore très-superstitieusement les ceremonies de leur Loi abrogée</def>
-<pc>.</pc></re>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SUPERSTITIEUSEMENT</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>adv</pos>
+                <pc>.</pc>
+                </gramGrp>
+        </form>
+        <sense>
+            <def>D'une maniere superstitieuse &amp; trop exacte. Les Juifs observent encore très-superstitieusement les ceremonies de leur Loi abrogée</def>
+<pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -47340,17 +47368,20 @@
 <gramGrp>pass. &amp; adj</gramGrp>
 </re>
 <pc>.</pc>
-
-<re><form>SUPppURATIF, ive</form>
-<form>.</form>
-<form>adject</form>
-<form>.</form>
-<form>Qui fait suppurer</form>
-</re>
-<pc>.</pc>
-
-<sense>
-<def>Onguent suppuratif, drogues suppuratives. Les suppuratifs sont chauds &amp; humides, qui en augmentant la chaleur de la partie, font resoudre la mauvaise humeur en bouë &amp; pus, comme les mauves, guimauves, racines de lis, &amp;c. On disoit autrefois suppuratoire</def>
+</entry>
+    <entry>
+        <form type="lemmaGrp">
+            <form type="lemma"><orth>SUPPURATIF</orth></form>
+            <pc>,</pc>
+            <form type="inflected"><orth type="part">ive</orth></form>
+            <pc>.</pc>
+            <gramGrp>
+                <pos>adj</pos>
+                <pc>.</pc>
+                </gramGrp>
+        </form>
+        <sense>
+            <def>Qui fait suppurer. Onguent suppuratif, drogues suppuratives. Les suppuratifs sont chauds &amp; humides, qui en augmentant la chaleur de la partie, font resoudre la mauvaise humeur en bouë &amp; pus, comme les mauves, guimauves, racines de lis, &amp;c. On disoit autrefois suppuratoire</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -47396,7 +47427,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>UPPUTATION</orth>
+<orth>SUPPUTATION</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -47497,7 +47528,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>UR</orth>
+<orth>SUR</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -47781,15 +47812,20 @@
 <def>qui se dit de ce qu'on laisse vieillir, ou qu'on garde après un a. Il ne faut pas laisser suranner ces Lettres du sceau sans les faire signifier. Les dettes de pratique surannées sont peu considerables. On disoit autrefois le suran, pour signifier la même chose</def>
 </sense>
 <pc>.</pc>
-
-<re><form>SURanNÉ, ée</form>
-<form>.</form>
-<form>adj</form>
-</re>
-<pc>.</pc>
-
-<sense>
-<def>Qui est d'une année precedente ; qui a plus d'un an. Un Committimus ne vaut rien, quand il est suranné. On le dit aussi de ce qui est vieux, ou passé. Un suranné Damoiseau. Mol. Une fille surannée. Rien ne choque davantage qu'une femme surannée, qui a des airs galans. Bell. Une beauté surannée. Scar. Il y a des phrases, des modes siaannées, qui sont vieilles &amp; hors d'usage. Ne vous amusez point à l'éloquence froide &amp; surannée de Platon &amp; de Demosthene. Ablan. Un mot moisi &amp; suranné. Bay</def>
+</entry>
+              <entry>
+                  <form type="lemmaGrp">
+                      <form type="lemma"><orth>SURANNÉ</orth></form>
+                      <pc>,</pc>
+                      <form type="inflected"><orth type="part">ée</orth></form>
+                      <pc>.</pc>
+                      <gramGrp>
+                          <pos>adj</pos>
+                          <pc>.</pc>
+                          </gramGrp>
+                  </form>
+                  <sense>
+                      <def>Qui est d'une année precedente ; qui a plus d'un an. Un Committimus ne vaut rien, quand il est suranné. On le dit aussi de ce qui est vieux, ou passé. Un suranné Damoiseau. Mol. Une fille surannée. Rien ne choque davantage qu'une femme surannée, qui a des airs galans. Bell. Une beauté surannée. Scar. Il y a des phrases, des modes siaannées, qui sont vieilles &amp; hors d'usage. Ne vous amusez point à l'éloquence froide &amp; surannée de Platon &amp; de Demosthene. Ablan. Un mot moisi &amp; suranné. Bay</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -47806,7 +47842,23 @@
 <pc>.</pc>
 
 <sense>
-<def>Tierce personne dont on convient pour juger à l'amiable un different, quand les deux arbitres qu'on a nommez sont de contraire sentiment. On le dit aussi, quand il y a plusieurs arbitres nommez, &amp; d'advis different de ceux qu'on nomme de nouveau pour faire cesser leur partage. SuUrBAiSSEMENT. subst. masc. Tere d'Architecture. C'est le trait de tout arc handé en portion circulaire, ou elliptique, qui a moins de fauteur que la moitié de la base, &amp; qui est au dessous du plein cintre</def>
+<def>Tierce personne dont on convient pour juger à l'amiable un different, quand les deux arbitres qu'on a nommez sont de contraire sentiment. On le dit aussi, quand il y a plusieurs arbitres nommez, &amp; d'advis different de ceux qu'on nomme de nouveau pour faire cesser leur partage.</def>
+    </sense>
+    </entry>
+              <entry>
+                  <form type="lemmaGrp">
+                      <form type="lemma"><orth>SURBAISSEMENT</orth></form>
+                      <pc>,</pc>
+                      <pc>.</pc>
+                      <gramGrp>
+                          <pos>subst</pos>
+                          <pc>.</pc>
+                          <gen>masc</gen>
+                          <pc>.</pc>
+                      </gramGrp>
+                  </form>
+                  <sense>
+                      <usg>Terme d'Architecture</usg><pc>.</pc><def>C'est le trait de tout arc handé en portion circulaire, ou elliptique, qui a moins de fauteur que la moitié de la base, &amp; qui est au dessous du plein cintre</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -47954,19 +48006,68 @@
 
 <sense>
 <usg>Vieux mot</usg>
-<def>qui sgnifioit autrefois un riche habillement, que les Princesses &amp; les Dames mettoient autrefois pardessus leurs habit . Menage derive ce mot de surcotum, qu'il croit venir de l'Alleman chrsat, qui signifioit une espece de fobbe. SURCROiSSANCE. subst. fem. Ce qui croîtaux corps par dessus la nature. I n'y a aucune surcroissante en cette playe. Il faut der cette surcroissance SURCrOIST, ou SUrCrOit. sabst. m. Augmentation ; ce qui arrive de ueau pardessus &amp; au delà de la quantité qu'on s'imaginoit. J'avois invité six personnes à soupper, en voilà quatre de surcroit Voici un surcroît de compagnie. Mol. Il faut aller querir des viandes, du vin de surcroît</def>
+<def>qui sgnifioit autrefois un riche habillement, que les Princesses &amp; les Dames mettoient autrefois pardessus leurs habit . Menage derive ce mot de surcotum, qu'il croit venir de l'Alleman chrsat, qui signifioit une espece de fobbe. </def>
+    </sense>
+    </entry>
+              <entry>
+                  <form type="lemmaGrp">
+                      <form type="lemma"><orth>SURCROISSANCE</orth></form>
+                      <pc>.</pc>
+                      <gramGrp>
+                          <pos>subst</pos>
+                          <pc>.</pc>
+                          <gen>fem</gen>
+                          <pc>.</pc>
+                      </gramGrp>
+                  </form>
+                  <sense>
+                      <def>Ce qui croît aux corps par dessus la nature. I n'y a aucune surcroissante en cette playe. Il faut der cette surcroissance</def>
+                      </sense>
+                  </entry>
+              <entry>
+                  <form type="lemmaGrp">
+                      <form type="lemma"><orth>SURCROIST</orth></form>
+                      <pc>,</pc>
+                      <form type="variant"><orth>ou SURCROIT</orth></form>
+                      <pc>.</pc>
+                      <gramGrp>
+                          <pos>subst</pos>
+                          <pc>.</pc>
+                          <gen>m</gen>
+                          <pc>.</pc>
+                      </gramGrp>
+                  </form>
+                  <sense>
+                      <def>Augmentation ; ce qui arrive de ueau pardessus &amp; au delà de la quantité qu'on s'imaginoit. J'avois invité six personnes à soupper, en voilà quatre de surcroit Voici un surcroît de compagnie. Mol. Il faut aller querir des viandes, du vin de surcroît</def>
 </sense>
 <pc>.</pc>
 
 <sense>
 <form>Surcroist</form>
 <pc>,</pc>
-<def>se dit aussi figurément en choses morales des passions de l'ame, de la fortine. C'est un suréroît de bonheur, de malheur ; un surcroît de douleur, d'afiction, de misere, &amp;. Un farcrnit dé puissance. La Rocher. Les procés &amp; les maux Troublent-ils pas assez le repos de la vie ? Sans aller pour surcroît s'aviser sottenent De se faire un chagrin qui n'a nut fondendei. Mol. SURCROiSTRE, ou SURCROItRE. v. neut. Croître au dessus. Une louppe surcrcir sur la peau. Une louppe de bois furcroît sur l'écoîce. Il n'a gueres d'usage qu'en parlant de ces excrescences</def>
+<def>se dit aussi figurément en choses morales des passions de l'ame, de la fortine. C'est un suréroît de bonheur, de malheur ; un surcroît de douleur, d'afiction, de misere, &amp;. Un farcrnit dé puissance. La Rocher. Les procés &amp; les maux Troublent-ils pas assez le repos de la vie ? Sans aller pour surcroît s'aviser sottenent De se faire un chagrin qui n'a nut fondendei. Mol. </def>
+    </sense>
+              </entry>
+                  <entry>
+                      <form type="lemmaGrp">
+                          <form type="lemma"><orth>SURCROISTRE</orth></form>
+                          <pc>,</pc>
+                          <form type="variant"><orth>SURCROITRE</orth></form>
+                          <pc>.</pc>
+                          <gramGrp>
+                              <pos>v</pos>
+                              <pc>.</pc>
+                              <subc>neut</subc>
+                              <pc>.</pc>
+                          </gramGrp>
+                      </form>
+                      <sense>
+                          <def>Croître au dessus. Une louppe surcrcir sur la peau. Une louppe de bois furcroît sur l'écoîce. Il n'a gueres d'usage qu'en parlant de ces excrescences</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SURDEMAND</orth>
+<orth>SURDEMANDE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -48225,7 +48326,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SURETE</orth>
+<orth>SURETÉ</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -48453,7 +48554,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SURJAULE</orth>
+<orth>SURJAUL2</orth>
 </form>
 </form>
 <pc>,</pc>
@@ -48464,7 +48565,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SURIET</orth>
+<orth>SURJET</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -48483,7 +48584,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>SURIETTER</orth>
+<orth>SURJETTER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -48779,7 +48880,23 @@
 <pc>.</pc>
 
 <sense>
-<def>D'une maniere surnaturelle. La grace opere surnaturellement dans la conversion du pecheur SURNOM. subst. masc. Nom qu'on ajoute au nom propre, ou au nom de Baptême. Le surnom est proprement le nom qui convient à une famille particuliere, ou à une branche de cette maison. Les Romains se donnoient plusieurs surnoms ; c'est-à-dire plusieurs noms de race, ou de famille. Outre le nom general de la race, gentilitium J ils prenoient un nom particulier qui distinguoit les diverses branches de l même famille : qu 'on appelloit surnom, cognomen. De même que dans la famille Royale, le nom de Bourbon est le nom d'une branche particuliere. Les Latins appelloient les premiers, gentiles, &amp; les derniers agnati. Ils ajoutoient quelquefois un autre surnom, qui étoit donné pour quelque distinction particuliere : comme celui d'Africain à Scipion. Ces trois differens degrez de surnoms, avoient aussi des noms differens, nomen, cognomen, &amp; agnomen. Quelques Grammairiens disent que agnomen étoit un surcroît de surnom, pour quelque raison particuliere. Ces surnons étoient ordinairement hereditaires. Beaucoup de surnoms sont venus de la qualité, de la profession, ou du metier qu'exerçoit celui qui l'a porté le premier : comme le Fevre, Charpentier, Charron, Meusnier, &amp;c. Du Tillet dit que les surnoms ont été donnez aux uns &amp; aux autres par sobriquets, &amp; soutient qu'ils sont tous significatifs, &amp; qu'ils sont intelligibles à ceux qui sçavent la langue ancienne, &amp; celles des diverses Provinces. Dans les vieux Auteurs, comme Gregoire de Tours, Adon, Aimoin, Reginon, &amp; autres, il n'y a pas un nom accompagné d'un surnom. Du Chesne a remarqué que les surnoms n'ont été en usage que sous la troisiéme lignée de nos Rois, où les Seigneurs ont commencé à prendre le nom de leurs terres. On n'en trouve point avant l'an 987. Du Cange a remarqué, que d'abord dans les Actes publics on écrivoit le surnom sur le nom, comme, depee Et que de là s'est formé le mot surnom. Le peuple à l'exemple des Nobles prit des surnoms du lieu de sa naissance, de son âge, de son metier, &amp;c. Avant l'an 1514. personne ne s'en servoit en Suede, &amp; le peuple n'y en a point encore aujourd'huy, non plus que dans l'Irlande, la Boheme &amp; la Pologne. Anciennement on donnoit aux Nobles des sobriquets, à qui le hazard, quelque imperfection, ou quelque évenement extraordinaire, avoient donné lieu</def>
+<def>D'une maniere surnaturelle. La grace opere surnaturellement dans la conversion du pecheur</def>
+    </sense>
+    </entry>
+              <entry>
+                  <form type="lemmaGrp">
+                      <form type="lemma"><orth>SURNOM</orth></form>
+                      <pc>,</pc>
+                      <pc>.</pc>
+                      <gramGrp>
+                          <pos>subst</pos>
+                          <pc>.</pc>
+                          <gen>masc</gen>
+                          <pc>.</pc>
+                      </gramGrp>
+                  </form>
+                  <sense>
+                      <def>Nom qu'on ajoute au nom propre, ou au nom de Baptême. Le surnom est proprement le nom qui convient à une famille particuliere, ou à une branche de cette maison. Les Romains se donnoient plusieurs surnoms ; c'est-à-dire plusieurs noms de race, ou de famille. Outre le nom general de la race, gentilitium J ils prenoient un nom particulier qui distinguoit les diverses branches de l même famille : qu 'on appelloit surnom, cognomen. De même que dans la famille Royale, le nom de Bourbon est le nom d'une branche particuliere. Les Latins appelloient les premiers, gentiles, &amp; les derniers agnati. Ils ajoutoient quelquefois un autre surnom, qui étoit donné pour quelque distinction particuliere : comme celui d'Africain à Scipion. Ces trois differens degrez de surnoms, avoient aussi des noms differens, nomen, cognomen, &amp; agnomen. Quelques Grammairiens disent que agnomen étoit un surcroît de surnom, pour quelque raison particuliere. Ces surnons étoient ordinairement hereditaires. Beaucoup de surnoms sont venus de la qualité, de la profession, ou du metier qu'exerçoit celui qui l'a porté le premier : comme le Fevre, Charpentier, Charron, Meusnier, &amp;c. Du Tillet dit que les surnoms ont été donnez aux uns &amp; aux autres par sobriquets, &amp; soutient qu'ils sont tous significatifs, &amp; qu'ils sont intelligibles à ceux qui sçavent la langue ancienne, &amp; celles des diverses Provinces. Dans les vieux Auteurs, comme Gregoire de Tours, Adon, Aimoin, Reginon, &amp; autres, il n'y a pas un nom accompagné d'un surnom. Du Chesne a remarqué que les surnoms n'ont été en usage que sous la troisiéme lignée de nos Rois, où les Seigneurs ont commencé à prendre le nom de leurs terres. On n'en trouve point avant l'an 987. Du Cange a remarqué, que d'abord dans les Actes publics on écrivoit le surnom sur le nom, comme, depee Et que de là s'est formé le mot surnom. Le peuple à l'exemple des Nobles prit des surnoms du lieu de sa naissance, de son âge, de son metier, &amp;c. Avant l'an 1514. personne ne s'en servoit en Suede, &amp; le peuple n'y en a point encore aujourd'huy, non plus que dans l'Irlande, la Boheme &amp; la Pologne. Anciennement on donnoit aux Nobles des sobriquets, à qui le hazard, quelque imperfection, ou quelque évenement extraordinaire, avoient donné lieu</def>
 </sense>
 <pc>.</pc>
 
@@ -49170,7 +49287,16 @@
 <pc>.</pc>
 
 <sense>
-<def>Chose sur laquelle on repond, on prononce. La clôture des procés verbaux se fait avec cette formule, Surquoy nous Conseiller &amp; Commissaire susd. avons donné acte aux parties de leurs dires, &amp;c. SURSAuUT. Reveil prompt &amp; arrivé par quelque surprise, ou violente émotion. Ce fut pour la Belle un terrible sursaut. Bens. Il ne se dit plus gueres qu'adverbialement. Un songe affreux reveille les gens en sursaut. On a crié au feu, aux armes, je me luis reveilsé en sursaut. Prendre en sursaut. Ablan. Ce mot est un abregé de soubresaut</def>
+<def>Chose sur laquelle on repond, on prononce. La clôture des procés verbaux se fait avec cette formule, Surquoy nous Conseiller &amp; Commissaire susd. avons donné acte aux parties de leurs dires, &amp;c.</def>
+    </sense>
+    </entry>
+              <entry>
+                  <form type="lemmaGrp">
+                      <form type="lemma"><orth>SURSAUT</orth></form>
+                      <pc>.</pc>
+                      </form>
+                  <sense>
+                      <def>Reveil prompt &amp; arrivé par quelque surprise, ou violente émotion. Ce fut pour la Belle un terrible sursaut. Bens. Il ne se dit plus gueres qu'adverbialement. Un songe affreux reveille les gens en sursaut. On a crié au feu, aux armes, je me luis reveilsé en sursaut. Prendre en sursaut. Ablan. Ce mot est un abregé de soubresaut</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
