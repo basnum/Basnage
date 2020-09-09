@@ -2,8 +2,6 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
-<?xml-stylesheet type="text/css" href="teixdicotest.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
         <fileDesc>
@@ -6361,7 +6359,7 @@
 <head>DAB<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>DABONDANT</orth>
+<orth>D'ABONDANT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -6577,21 +6575,8 @@
 <pc>.</pc>
 
 <sense>
-<def>Gros poignard dont on se servoit autrefois dans les combats singuliers. Il lui donna plusieurs coups de dague. Il rapporta qu'il avoit trouvé force traits, force dagues, &amp; force épées émoulues. Taleman</def>
+    <def>Gros poignard dont on se servoit autrefois dans les combats singuliers. Il lui donna plusieurs coups de dague. Il rapporta qu'il avoit trouvé force traits, force dagues, &amp; force épées émoulues. Taleman. A leur côté lnée longue, &amp; large, La courte dague pour son homme aborder. St. Gelais</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>A</orth>
-</form>
-<pron>leur côté lnée longue, &amp; large</pron>
-</form>
-<pc>,</pc>
-
-<sense>
-<def>La courte dague pour son homme aborder. St. Gelais</def>
-</sense>
-<pc>.</pc>
 
 <etym>
 <lbl>Ce mot, selon</lbl>
@@ -6659,6 +6644,7 @@
 <def>On dit proverbialement d'un demi-fin dont on apperçoit la ruse, qu'il est fin comme une dague de plomb</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DAGUER</orth>
@@ -7344,13 +7330,11 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>DAM</orth>
+<orth>DAMNABLEMENT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
-<pos>NABLEMENT</pos>
-<pc>.</pc>
-<gen>adv</gen>
+<pos>adv</pos>
 </gramGrp>
 </form>
 <pc>.</pc>
@@ -7495,7 +7479,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>DAMOFSELLE</orth>
+<orth>DAMOISELLE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -9549,22 +9533,26 @@
 <gloss>qu'on a dit en la basse Latinité pour signifier moissonner des blez</gloss>
 </etym>
 <pc>.</pc>
-
-<re><form>DEBOESTEMENTouDEBOEtEMENT</form>
-<form>.</form>
-<form>s</form>
-</re>
+</entry>
+              
+<entry>
 <form type="lemmaGrp">
-<pc>.</pc>
-<gramGrp>
-<pos>m</pos>
-</gramGrp>
+<form type="lemma">
+<orth>DEBOESTEMENT</orth>
 </form>
+<form type="variant">ou DEBOEtEMENT</form>
+<gramGrp>
+<pos>s</pos>
 <pc>.</pc>
+<subc>m</subc>
+</gramGrp>
+<pc>.</pc>
+</form>
 
 <sense>
 <def>Il se dit d'un os qui est hors de sa place. C'est la même chose que dislocation</def>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -11216,10 +11204,28 @@
 <pc>.</pc>
 
 <sense>
-<def>Espece de conjonction, qui signifie, Parceque, à cause que. Seigneur je vous rendrai d'éternelles actions de graces de ce que vous avez fait justice. Port-RDECERNER. v. act. Ordonner quelque chose par une deliberation de Senat, d'Assemblée de ville. Le Senat de Rome decernoit le triomphe à ceux qui avoient étendu les bornes de l'Empire. On lui decerna les honneurs divins. Vaug. Le petit triomphe fut decerné à Germanicus. Abl. On lui decerna les honneurs funebres au soir. Patru. On ne se sert gueres de decerner dans les discours familiers ; mais seulement dans les discours graves, &amp; dans les livres</def>
+<def>Espece de conjonction, qui signifie, Parceque, à cause que. Seigneur je vous rendrai d'éternelles actions de graces de ce que vous avez fait justice. Port-R</def>
 </sense>
 <pc>.</pc>
+</entry>
+              
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>DECERNER</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+<pc>.</pc>
+</gramGrp></form>
 
+<sense>
+<def>Ordonner quelque chose par une deliberation de Senat, d'Assemblée de ville. Le Senat de Rome decernoit le triomphe à ceux qui avoient étendu les bornes de l'Empire. On lui decerna les honneurs divins. Vaug. Le petit triomphe fut decerné à Germanicus. Abl. On lui decerna les honneurs funebres au soir. Patru. On ne se sert gueres de decerner dans les discours familiers ; mais seulement dans les discours graves, &amp; dans les livres</def>
+</sense>
+    
 <sense>
 <form>Decerner</form>
 <pc>,</pc>
@@ -11260,16 +11266,25 @@
 <usg>Ce mot ne se dit gueres qu'en termes de Palais, &amp; de Devotion</usg>
 </sense>
 <pc>.</pc>
-
-<re><form>DlCEVANT, ante</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Propre à tromper</form>
-<pc>.</pc>
-<def>Le monde n'a que des appas decevans. Le calme decevant de la mer nous avoit invité à la promenade. Il n'est gere usité</def>
-<pc>.</pc></re>
 </entry>
+              
+<entry><form type="lemmaGrp">
+<form type="lemma>">
+<orth>DECEVANT</orth>
+<pc>,</pc></form>
+<form type="variant">ante</form>
+<pc>.</pc>
+<gramGrp>
+<pos>adj</pos>
+</gramGrp>
+<pc>.</pc>
+</form>
+
+<sense>
+<def>Propre à tromper. Le monde n'a que des appas decevans. Le calme decevant de la mer nous avoit invité à la promenade. Il n'est gere usité</def>
+<pc>.</pc></sense>
+</entry>
+              
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DECEVOIR</orth>
@@ -15555,10 +15570,14 @@
 <def>on dit qu'un sanglier est deffendu d'une telle couleur, ou d'un tel metal, quand sa deffense ou sa dent de dessous est d'un autre émail que son corps</def>
 </sense>
 <pc>.</pc>
+</entry>
 
-<sense>
-<form>DEFFENDsS</form>
+<entry>
+<form type="lemma">
+<orth>DEFFENDS</orth></form>
 <pc>.</pc>
+ 
+<sense>
 <usg>Terme des Eaux &amp; Forêts</usg>
 <pc>,</pc>
 <def>qui se dit des bois dont on a deffendu la couppe, &amp; dont l'entrée est deffenduë aux bestiaux. Un tel bois est en fends ; t'est-à-dire, la couppe en est reservée pour quelque occasion impottante, le bois est trop jcune pour y laisser entrer les bestiaux. On dit aussi à la campagne, que vuides terres, c'est-à-dire, qui ne sont point fermées ni closes, sont en deffends depuis la Mi-Mars jusqu'à la Sainte Croix de Septembre. En autres temps elles sont communes ; c'est-à-dire, qu'on y peut mener paîtree ses bestiaux. Les chevres, les porcs, les oyes, &amp; autres bêtes mal faisantes sont toujours en deffends. On les appelle en Latin deffensa, &amp; on les nomme pareillement heritages desfensables</def>
@@ -16921,10 +16940,28 @@
 <pc>.</pc>
 
 <sense>
-<def>Adoucissement qui resoud la glace ; relâchement d'un froid violent. Il y a à craindre sur les ponts dans un grand degel. Les rivieres grossissent dans le degel. Le vent est au degel, c'est le vent de midi DEGELER. v. act. Fondre la glate ; redonner le mouvement à une chose liquide que le froid avoit glacée. Quand on fait degeler le fruit gelé, il perd son gosût. Quelques-uns font degeler les fruits dans de l'eau froide, &amp; en un lieu un peu chaud : il se fait une croûte de glace tout alentour, laquelle étant ôtée, le fruit se trouve aussi bon &amp; aussi sain qu'auvaravant. La riviere se degele. Cette eau se degele</def>
+<def>Adoucissement qui resoud la glace ; relâchement d'un froid violent. Il y a à craindre sur les ponts dans un grand degel. Les rivieres grossissent dans le degel. Le vent est au degel, c'est le vent de midi</def>
 </sense>
 <pc>.</pc>
+</entry>
 
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>DEGELER</orth>
+</form>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+</gramGrp>
+<pc>.</pc>    
+</form>
+    
+<sense>
+<def>Fondre la glate ; redonner le mouvement à une chose liquide que le froid avoit glacée. Quand on fait degeler le fruit gelé, il perd son gosût. Quelques-uns font degeler les fruits dans de l'eau froide, &amp; en un lieu un peu chaud : il se fait une croûte de glace tout alentour, laquelle étant ôtée, le fruit se trouve aussi bon &amp; aussi sain qu'auvaravant. La riviere se degele. Cette eau se degele</def>
+</sense>
+    
 <sense>
 <form>Deceler</form>
 <pc>,</pc>
@@ -18226,7 +18263,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>DEOUER</orth>
+<orth>DEJOUER</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -18434,12 +18471,19 @@
 <pc>.</pc>
 
 <re><form>Delacé, ée</form>
-<form>.</form>
-<form>part</form>
 <pc>.</pc>
-<gramGrp>pass. &amp; adj</gramGrp>
+<pc>.</pc>
+<gramGrp>part. pass. &amp; adj</gramGrp>
 <pc>.</pc></re>
 </entry>
+    
+<entry>
+<form type="lemma">
+<orth>DELAI</orth>
+</form>
+<xr><lbl>Terme</lbl><pc>.</pc>Voyez<ref>DELAY</ref></xr>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DELAIS</orth>
@@ -19530,12 +19574,7 @@
 <def>On dit proverbialement d'un homme qui a une femme incommode, ou impudique, qu'il doit faire des prieres à Nôtre Dame de bonne delivrance, se mettre de cette Confrairie</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ssss</orth>
-</form>
-</form>
-</entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DELIVRE</orth>
@@ -19613,32 +19652,8 @@
 <sense>
 <form>Delivrer</form>
 <pc>,</pc>
-<def>se dit figurément en choses spirituelles &amp; morales, &amp; signifie, Arracher, degager, tirer hors, debarasser. J. Christ par sa passion nous a delivrez de la mort éternelle, des griffes de Satan. Les indulgences delivrent des peines du Purgatoire. St. Paul souhaitoit qu'on le puût delivrer de cette chair mortelle. La mort nous delivre de bien des maux. Cette nouvelle m'a delivré d'une grande peine, d'un grand souci, d'un grand chagrin. Ma passion ne s'affoiblit point par les retours que je fais sur moi même pour m'en delivrer</def>
+    <def>se dit figurément en choses spirituelles &amp; morales, &amp; signifie, Arracher, degager, tirer hors, debarasser. J. Christ par sa passion nous a delivrez de la mort éternelle, des griffes de Satan. Les indulgences delivrent des peines du Purgatoire. St. Paul souhaitoit qu'on le puût delivrer de cette chair mortelle. La mort nous delivre de bien des maux. Cette nouvelle m'a delivré d'une grande peine, d'un grand souci, d'un grand chagrin. Ma passion ne s'affoiblit point par les retours que je fais sur moi même pour m'en delivrer. L. d'Ab. à Eloise. Je voi bien le remede à tous mes maux, &amp; j'en serois bientôt delivrée, si je ne vous aimois plus. Lett. Portug. Je veux vous delivrer des malheurs qu'on vous prepare. M. Sc. Par les maximes accommodantes de vos Casuistes on se delivre de bien des scrupules. Port-R</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>L</orth>
-</form>
-<pc>.</pc>
-<form type="variant">
-<orth>d'Ab. à Eloise</orth>
-</form>
-<pc>.</pc>
-<pron>Je voi bien le remede à tous mes maux, &amp; j'en serois bientôt delivrée, si je ne vous aimois plus</pron>
-<pc>.</pc>
-<gramGrp>
-<pos>Lett</pos>
-<pc>.</pc>
-<gen>Portug</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Je veux vous delivrer des malheurs qu'on vous prepare. M. Sc. Par les maximes accommodantes de vos Casuistes on se delivre de bien des scrupules. Port-R</def>
-</sense>
-<pc>.</pc>
 
 <re><form>Delivré, ée</form>
 <form>.</form>
@@ -19646,7 +19661,8 @@
 <pc>.</pc>
 <def>pass. &amp; adj</def>
 <pc>.</pc></re>
-</entry>
+</entry>    
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DELIVREUR</orth>
@@ -19920,9 +19936,20 @@
 <sense>
 <usg>Terme de Charpenterie, &amp; de Maçonnerie</usg>
 <pc>.</pc>
-<def>Demaigrir une pierre, cest, Oter de son lit, &amp; de son joint en dedans pour la mieux ficher. Voyez Amaigrir. DEMmAIGRISSEMENT. C'est le côté d'une pierre, ou d'une piece de bois demaigri</def>
-<pc>.</pc></sense>
+<def>Demaigrir une pierre, cest, Oter de son lit, &amp; de son joint en dedans pour la mieux ficher. Voyez Amaigrir</def>
+<pc>.</pc></sense>    
 </entry>
+    
+<entry>
+<form type="lemma">
+<orth>DEMAIGRISSEMENT</orth>
+</form> 
+<pc>.</pc>
+<sense>
+<def>C'est le côté d'une pierre, ou d'une piece de bois demaigri</def>    
+<pc>.</pc></sense>
+</entry> 
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DEMAILLOTTER</orth>
@@ -20556,10 +20583,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>DE</orth>
-</form>
-<form type="lemma">
-<orth>MEME</orth>
+<orth>DE MEME</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -21378,14 +21402,27 @@
 <pc>,</pc>
 <gloss>peuple, &amp; de cratein, regir, commander</gloss>
 <pc>.</pc>
-<gloss>gouvernement populaire</gloss>
+</etym>
+</entry>    
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>DEMOCRATIQUE</orth>
+</form>  
+<gramGrp>
+<pos>adj</pos>
 <pc>.</pc>
-<lbl>Le gouvernement des Republiques modernes tient plus de l'</lbl>
-<foreign>aristocratique</foreign>
-<pc>,</pc>
-<gloss>que du democratique</gloss>
-<pc>.</pc></etym>
-</entry>
+<gen>m</gen>
+<pc>.</pc>
+</gramGrp>  
+</form>
+    
+<sense>
+<def>Qui appartient au gouvernement populaire. Le gouvernement des Republiques modernes tient plus de l'aristocratique que du democratique</def>
+</sense>    
+<pc>.</pc></entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DEMOISELLE</orth>
@@ -21694,19 +21731,26 @@
 <def>se dit des raisons &amp; des argumens convaincans, évidens &amp; certains. Quelque mechante raison qu'allegue un Avocat, il dit qu'elle est demonstrative. S'il y avoit quelque raison demonstrative, on ne disputeroit point en eometrie. On ne procede que par des voyes demonstratives</def>
 </sense>
 <pc>.</pc>
-
-<re><form>DdEMOnSTRaTiVEMENT</form>
-<form>.</form>
-<form>adv</form>
-<form>.</form>
-<form>L's se prononce</form>
-</re>
+</entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma">
+<orth>DEMONSTRATIVEMENT</orth></form>
 <pc>.</pc>
-
+<gramGrp>
+<pos>adv</pos>
+<pc>.</pc>
+</gramGrp>
+<pron>L's se prononce</pron>    
+</form>
+<pc>.</pc>
+    
 <sense>
 <def>D'une maniere convaincante. Je m'en vais vous prouver ce probleme demonstrativement</def>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>
 </entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DEMONSTRATION</orth>
@@ -21831,7 +21875,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>DEMORDRB</orth>
+<orth>DEMORDRE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -22221,33 +22265,8 @@
 <pc>.</pc>
 
 <sense>
-<def>Nom de monnoye ancienne d'argent, qui a été de diverse valeur suivant les lieux &amp; les temps.</def> Le denier courant d'argent du temps de JesusChrist valoit trois sols &amp; demi monnoye de France, selon Budée. J. Christ fut vendu trente deniers : ces deniers servirent depuis à acheter un champ. Le premier denier Romain étoit d'argent du poids juste d'une drachme, ayant d'un côté l'empreinte de Janus, &amp; de l'autre la figure du vaisseau qui l'avoit porté en Italie, Sur les premiers revers de la monnoye de Rome étoient Castor &amp; Pollux, ou une Victoire poussant un chariot à deux ou à quatre chevaux : ce qui fit appeller les deniers bigati, ou quadrigati, selon le revers ; on les avoit nommez auparavant ratiti, à cause du vaisseau qui se nomme ratis. Originairement le denier chez les Romains valoit dix as, ou quatre sesterces, dont chacun valoit deux livres &amp; demie, d'où vient qu'il a été appellé denarius, &amp; qu'on le marquoit avec un X. Le denier consulaire valoit plus que le denier imperial. Le premier pesoit la 8. partie d'une once, &amp; le second la 7 seulement, c'est-à-dire, qu'il auroit valu 7. ou 8. sols monnoye de France, comme le pretendent quelques Sçavans. Anciennement en France le denier se prenoit pour toute sorte de monnoye. Ainsi une piece monnoyée d'or étoit appellée denier d'or ; &amp; si elle étoit d'argent, on l'appelloit denier d'argent, comme on a dit en Latin nummus aureus, &amp; nummus argenteus. Il y a eu des deniers tournois &amp; des deniers parisis, dont ceux-cy valoient un quart davantage, &amp; étoient appellez monnoye Royale, ou forte monnoye ; &amp; alors quand on disoit un denier à valeur d'or, ou un denier d'or, cela ne vouloit pas dire que le denier fût d'or, mais seulement qu'il étoit parisis ou ferte monnoye, valant un quart plus que le tournois, parceque l'évaluation de l'or étoit alors plus forte que celle de l'argent, comme il a été jugé par plusieurs arrêts. Il y a eu vers l'an 1308. des deniers d'or à la chaise valans 25. sols ; des deniers d'or à la masss valans 22. sols six deniers ; &amp; des deniers d'or à la Reine valans 16<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>8</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>d</pos>
-<pc>.</pc>
-<gen>&amp;c</gen>
-<pc>.</pc>
-<pos>Ils ont été souvent nommez</pos>
-<gen>florins</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<etym>
-<lbl>Il y a eu aussi des</lbl>
-<gloss>deniers &amp; sous Viennois, Lonifiens, Donisiens, Tolosains, Mansois, blancs, forts, nerets, Bourdelois,</gloss>
-</etym>
-<re><form>Barois, &amp;c</form>
-<form>.</form>
-<form>qui</form>
-<def>ont changé de valeur suivant les temps &amp; les lieux où ils ont été fabriquez. Il y a eu des deniers blancs en l'an 1348. appellez gros, qui valoient quinze deniers. Les deniers Mansois valoient le double des Normands : d'où vient qu'on a dit qu'un Manseau valoit un Normand &amp; demi. En general le denier a signifié la douziéme partie d'un sou appellé solidus, non pas en la signification ou nous le prenons maintenant, mais comme signifiant un tout ou une chose entiere qu'on divisoit en douze parties, de la même maniere que l'as des Romains signifioit un heritage entier</def>
-</re>
+<def>Nom de monnoye ancienne d'argent, qui a été de diverse valeur suivant les lieux &amp; les temps.</def> Le denier courant d'argent du temps de JesusChrist valoit trois sols &amp; demi monnoye de France, selon Budée. J. Christ fut vendu trente deniers : ces deniers servirent depuis à acheter un champ. Le premier denier Romain étoit d'argent du poids juste d'une drachme, ayant d'un côté l'empreinte de Janus, &amp; de l'autre la figure du vaisseau qui l'avoit porté en Italie, Sur les premiers revers de la monnoye de Rome étoient Castor &amp; Pollux, ou une Victoire poussant un chariot à deux ou à quatre chevaux : ce qui fit appeller les deniers bigati, ou quadrigati, selon le revers ; on les avoit nommez auparavant ratiti, à cause du vaisseau qui se nomme ratis. Originairement le denier chez les Romains valoit dix as, ou quatre sesterces, dont chacun valoit deux livres &amp; demie, d'où vient qu'il a été appellé denarius, &amp; qu'on le marquoit avec un X. Le denier consulaire valoit plus que le denier imperial. Le premier pesoit la 8. partie d'une once, &amp; le second la 7 seulement, c'est-à-dire, qu'il auroit valu 7. ou 8. sols monnoye de France, comme le pretendent quelques Sçavans. Anciennement en France le denier se prenoit pour toute sorte de monnoye. Ainsi une piece monnoyée d'or étoit appellée denier d'or ; &amp; si elle étoit d'argent, on l'appelloit denier d'argent, comme on a dit en Latin nummus aureus, &amp; nummus argenteus. Il y a eu des deniers tournois &amp; des deniers parisis, dont ceux-cy valoient un quart davantage, &amp; étoient appellez monnoye Royale, ou forte monnoye ; &amp; alors quand on disoit un denier à valeur d'or, ou un denier d'or, cela ne vouloit pas dire que le denier fût d'or, mais seulement qu'il étoit parisis ou ferte monnoye, valant un quart plus que le tournois, parceque l'évaluation de l'or étoit alors plus forte que celle de l'argent, comme il a été jugé par plusieurs arrêts. Il y a eu vers l'an 1308. des deniers d'or à la chaise valans 25. sols ; des deniers d'or à la masss valans 22. sols six deniers ; &amp; des deniers d'or à la Reine valans 16 f. 8 d. &amp;c. Ils ont été souvent nommez florins. Il y a eu aussi des deniers &amp; sous Viennois, Lonifiens, Donisiens, Tolosains, Mansois, blancs, forts, nerets, Bourdelois, Barois, &amp;c qui ont changé de valeur suivant les temps &amp; les lieux où ils ont été fabriquez. Il y a eu des deniers blancs en l'an 1348. appellez gros, qui valoient quinze deniers. Les deniers Mansois valoient le double des Normands : d'où vient qu'on a dit qu'un Manseau valoit un Normand &amp; demi. En general le denier a signifié la douziéme partie d'un sou appellé solidus, non pas en la signification ou nous le prenons maintenant, mais comme signifiant un tout ou une chose entiere qu'on divisoit en douze parties, de la même maniere que l'as des Romains signifioit un heritage entier
+</sense>
 <pc>.</pc>
 
 <sense>
@@ -22332,6 +22351,7 @@
 <def>Porte-faix</def>
 <pc>.</pc></re>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DENIGRER</orth>
@@ -23084,17 +23104,26 @@
 <def>qui se dit des remedes avec lesquels on se frotte les dens. Il y en a de secs, dont quelques-uns sont en forme de poudre, composez avec les coraux, la pierre ponce, le sel, l'alun, les coquilles d'oeufs, d'escargots &amp; d'écrevisses, la corne de cerf, l'os de seche &amp;c. On en fait aussi en forme d'opiate avec ces mêmes poudres, en y ajoutant du miel. Il s'en prepare encore avec des racines cuittes avec l'alun, &amp; sechées au four. D'autres sont en forme de liqueur, qu'on tire par distillation d'herbes dessechantes, &amp; de medicamens astringens. Les Hollandois disent que le meilleur opiate, ou dentifrite, qui conserve les dens belles, est de les frotter avec du beurre. Les Espagnols les frotent avec de l'urine</def>
 </sense>
 <pc>.</pc>
-
-<re><form>VVv</form>
-<form>,</form>
-<form>DEN</form>
-<pc>.</pc>
-<pc>-</pc>
-<gramGrp>DENTURE. s. f</gramGrp>
-<pc>.</pc>
-<def>L'ordre dont les dens sont arrangées. Une belle, une vilaine denture</def>
-<pc>.</pc></re>
 </entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma">
+<orth>DENTURE</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>f</gen>
+</gramGrp>
+<pc>.</pc>
+</form>
+<sense>
+<def>L'ordre dont les dens sont arrangées. Une belle, une vilaine denture</def>
+</sense>
+<pc>.</pc>
+</entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DENUEMENT</orth>
@@ -23212,10 +23241,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>DE</orth>
-</form>
-<form type="lemma">
-<orth>PAR</orth>
+<orth>DE PAR</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -23692,39 +23718,8 @@
 <pc>.</pc>
 
 <sense>
-<def>Sujettion, inferiorité. Ce Prince tient ses sujets dans une grande soumission, &amp; dependance. Les Philosophes aiment la liberté, &amp; n'aiment point à vivre dans la dependance. Les Moines vivent tous dans la dependance d'un General. Les hommes cherchent à se donner, &amp; s'assujettissent avec plaisir, si on les laisse choisir leur dependance. St. Ev. Il est difficile que par lui-même, ou par ceux qui sone dans sa dependance, il ne traverse tout ce que je desire</def>
+<def>Sujettion, inferiorité. Ce Prince tient ses sujets dans une grande soumission, &amp; dependance. Les Philosophes aiment la liberté, &amp; n'aiment point à vivre dans la dependance. Les Moines vivent tous dans la dependance d'un General. Les hommes cherchent à se donner, &amp; s'assujettissent avec plaisir, si on les laisse choisir leur dependance. St. Ev. Il est difficile que par lui-même, ou par ceux qui sone dans sa dependance, il ne traverse tout ce que je desire. P. De Cl. Sans le concours immediat de Dieu dans toutes nos actions, l'on detruit l'infinie dependance dant laquelle les creatures sont à l'égard du Createur. Ju. La dependance est insupportable à un homme de ceur, &amp; sur tout celle de l'esprit. St. Ev. Nôtre ignorance, &amp; nos doutes nous fcnt sentir nôtre dependance. Oe. M. Dieu a voulu accoutumer l'homme à croire sans connoître, afin de le tenir dans la dependance, &amp; dans la servitude. La Pl. L'amour pretend par tout naître sans dependance, Et jamais par la force on nentra dans un coeur. Mol</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>P</orth>
-</form>
-<pc>.</pc>
-<form type="variant">
-<orth>de Cl</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Sans le concours immediat de Dieu dans toutes nos actions, l'on detruit l'infinie dependance dant laquelle les creatures sont à l'égard du Createur. Ju. La dependance est insupportable à un homme de ceur, &amp; sur tout celle de l'esprit. St. Ev. Nôtre ignorance, &amp; nos doutes nous fcnt sentir nôtre dependance. Oe. M. Dieu a voulu accoutumer l'homme à croire sans connoître, afin de le tenir dans la dependance, &amp; dans la servitude. La Pl</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>V V V v V</orth>
-</form>
-<pc>,</pc>
-<form type="inflected">
-<orth type="part">T'a</orth>
-</form>
-</form>
-<pc>-</pc>
-
-<sense>
-<def>C'amour pretend par tout naître sans dependance, Et jamais par la force on nentra dans un coeur. Mol</def>
-</sense>
-<pc>.</pc>
 
 <sense>
 <form>Dependance</form>
@@ -23739,6 +23734,7 @@
 <def>se dit aussi de ce qui fait partie d'un tout. Ce hameau est de la dependance de cette Parroisse. Cette metairie est une des dependances d'une telle terre. La Bresse est des premieres dependances de la Couronne. Patru</def>
 <pc>.</pc></sense>
 </entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DEPENDANT</orth>
@@ -25525,12 +25521,7 @@
 <def>On dit proverbialement, qu'il n'y a pas dequoy foüetter un chat ; pour dire, qu'il n'y a pas matiere d'imposer la moindre peine. On dit aussi, Voilà bien dequoy ; pour dire, que le sujet dont on parle, n'est nullemenu considerable</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>d</orth>
-</form>
-</form>
-</entry>
+
 </div>
 <div>
 <head>DER<pc>.</pc></head>
@@ -25664,15 +25655,10 @@
 <pc>.</pc>
 
 <sense>
-<def>Detrangement Ce mot se dit aussi figurément en Morale. Ce derangement universel, &amp; continuel des choses humaines, tout desordonné qu'il semble à nos yeux, est pourtant dans l'ordre de la Providence. Fl. Qu'on jette les yeux sur les divers états de la vie, quel derangement, quel desordre n'y verra-t-on pas ? Disc</def>
+<def>Detrangement Ce mot se dit aussi figurément en Morale. Ce derangement universel, &amp; continuel des choses humaines, tout desordonné qu'il semble à nos yeux, est pourtant dans l'ordre de la Providence. Fl. Qu'on jette les yeux sur les divers états de la vie, quel derangement, quel desordre n'y verra-t-on pas ? Disc. de l'Eloq</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>dELElo</orth>
-</form>
-</form>
-</entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DERANGER</orth>
@@ -25705,16 +25691,14 @@
 </sense>
 <pc>.</pc>
 
-<re><form>erangé, ée</form>
-<form>.</form>
-<form>part</form>
+<re><form>Derangé, ée</form>
 <pc>.</pc>
-<gramGrp>pass. &amp; adj</gramGrp>
+<gramGrp>part. pass. &amp; adj</gramGrp>
 <pc>.</pc></re>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ERAYURE</orth>
+<orth>DERAYURE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -26707,16 +26691,26 @@
 <def>On dit aussi, desaccoupler, ou plus ordinairement, decoupler les chiens, quand on les lâche après le gibier</def>
 </sense>
 <pc>.</pc>
-
-<re><form>DESACCOUtUMANCE</form>
-<form>.</form>
-<form>s. f</form>
-<form>.</form>
-<form>Ce mot</form>
-<pc>s</pc>
-<def>e trouve non seulement dans Nicod, mais aussi dans Pomey, pour signifier la perte de quelque coutume, de quelque habitude</def>
-<pc>.</pc></re>
 </entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma">
+<orth>DESACCOUtUMANCE</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>f</gen>
+</gramGrp>
+<pc>.</pc>
+</form>
+<sense>
+<def>Ce mot se trouve non seulement dans Nicod, mais aussi dans Pomey, pour signifier la perte de quelque coutume, de quelque habitude</def>
+</sense>
+<pc>.</pc>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DESACCOUTUMER</orth>
@@ -26972,7 +26966,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>DESAPARER</orth>
+<orth>DESAMPARER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -28207,14 +28201,8 @@
 <form type="lemma">
 <orth>DESCHAISNEMENT</orth>
 </form>
-</form>
-<re><form>, ou DEChAIe</form>
-<pc>.</pc></re>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>MENT</orth>
-</form>
+<pc>,</pc>
+<form type="variant">ou DEChAINEMENT</form>
 <pc>.</pc>
 <gramGrp>
 <pos>s</pos>
@@ -28228,6 +28216,7 @@
 <def>Emportement de colere, de haine, de medisance contre quelcun. C'est un étrange dechaînmont que celui des persecuteurs contre les enfans de Dieu. Les fausses prudes tâchent de trouver dans leur modestie forcée, &amp; dans leur dechaînement contre toutes les jolies femmes, le dedommagement de leur beauté usée. Bell. Continuer ses dechaînemens contre quelcun. B. Rab</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DESCHAISNER</orth>
@@ -28522,17 +28511,28 @@
 <def>Officier de ville commis sur les ports pour decharger les bateaux. Les Dechargeurs de vin sont des Tonneliers, qui après que les bourgeois ont acheté des vins dans les bateaux, les dechargent &amp; mettent à terre par le moyen de grosses pieces de bois qu'ils appellent chemins ; car il leur est deffendu de passer sur les planches mises par les Officiers Plancheyeurs. Il y a aussi des Dechargeurs d'artillerie entre les Officiers qui sont à la suite de l'artillerie</def>
 </sense>
 <pc>.</pc>
-
-<re><form>DdEscChaUsSEmENT, ou DECHAaUS</form>
-<form>-</form>
-<form>SEMENT</form>
-<pc>.</pc>
-<gramGrp>s. m</gramGrp>
-<form>.</form>
-<form>qui</form>
-<def>se dit de la façon qu'on donne aux vignes &amp; aux arbres, lorsqu'on les dechausse, ou qu'on laboure &amp; qu'on fume la terre qui est au pied</def>
-<pc>.</pc></re>
 </entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma">
+<orth>DESCHAUSSEMENT</orth>
+</form>
+<pc>,</pc>
+<form type="variant">ou DECHAUSSEMENT</form></form>
+<pc>.</pc>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m</gen>
+</gramGrp>
+<pc>.</pc>
+    
+<sense>
+<def>qui se dit de la façon qu'on donne aux vignes &amp; aux arbres, lorsqu'on les dechausse, ou qu'on laboure &amp; qu'on fume la terre qui est au pied</def>
+<pc>.</pc>
+</sense>
+</entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DESCHAUSSER</orth>
@@ -29145,10 +29145,29 @@
 <pc>.</pc>
 
 <sense>
-<def>Defaire une chose embalée ; tirer d'une bale. Il faut desembaler ces marchandises. Pomey. Danet DESEMBARQUEMENT. s. m. Action de desembarquer</def>
+<def>Defaire une chose embalée ; tirer d'une bale. Il faut desembaler ces marchandises. Pomey. Danet</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>DESEMBARQUEMENT</orth>
+<pc>.</pc></form>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m</gen>    
+</gramGrp>
+<pc>.</pc>
+</form>
+    
+<sense>
+<def>Action de desembarquer</def>
+<pc>.</pc>
+</sense>    
+</entry>
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DESEMBARQUER</orth>
 </form>
@@ -30496,7 +30515,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>DESINFATER</orth>
+<orth>DESINFATUER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -34481,26 +34500,8 @@
 <pc>.</pc>
 
 <sense>
-<def>Desabuser ; faire connoître à quelcun son erreur. Il faut detromper l'homme, de l'illusion par laquelle il se represente grand à soimême. Nic. On a bien de la peine à detromper les gens preoccupez. On l'a detrompé de la mauvaise opinion qu'il avoit de vous. On est quelquefois moins malheureux d'être trompé de ce qu'on aime, que d'en être detrompé. La Roch. L'emploi principal de la Morale consiste à detromper la raison de l'erreur de l'imagination, &amp; des sens. Oe. M. Pour être detrompé de l'amour, je n'en suis pas gueri ; tandis que mes reflexions le condamnent, mon coeur se declare pour lui</def>
+<def>Desabuser ; faire connoître à quelcun son erreur. Il faut detromper l'homme, de l'illusion par laquelle il se represente grand à soimême. Nic. On a bien de la peine à detromper les gens preoccupez. On l'a detrompé de la mauvaise opinion qu'il avoit de vous. On est quelquefois moins malheureux d'être trompé de ce qu'on aime, que d'en être detrompé. La Roch. L'emploi principal de la Morale consiste à detromper la raison de l'erreur de l'imagination, &amp; des sens. Oe. M. Pour être detrompé de l'amour, je n'en suis pas gueri ; tandis que mes reflexions le condamnent, mon coeur se declare pour lui. L'Ab. A Eloise. Le monde a beau nous tromper par de fausses esperances : peu de personnes s'en detrompent. M. Esp On le dit aussi avec le pronom personnel. En Physique on se detrompe tous les jours des erreurs de l'Antiquite</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>L</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>dAb</pos>
-<pc>.</pc>
-<gen>aEloise</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Le monde a beau nous tromper par de fausses esperances : peu de personnes s'en detrompent. M. Esp On le dit aussi avec le pronom personnel. En Physique on se detrompe tous les jours des erreurs de l'Antiquite</def>
-</sense>
-<pc>.</pc>
 
 <re><form>Detrompé, ée</form>
 <form>.</form>
@@ -34512,6 +34513,7 @@
 <def>st un bel esprit, bien detrompé du monde, des erreurs populaires. Mon ceur preoccupé Lui-même apprehendoit de se voir detrompé. Rac</def>
 <pc>.</pc></re>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DETROSNER</orth>
@@ -34640,21 +34642,11 @@
 <pc>.</pc>
 
 <sense>
-<def>On dit proverbialement, qu'un homme avouë, confesse la dette ; pour dire, qu'il est convaincu, qu'il reconnoît qu'il a tort. Quand il s'agit de reconnoître un bienfait, personne n'avoue franchement la dete. St</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>E</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Qui épouse la veuve, épouse les dettes ; pour dire, qu'un mari doit payer les dettes de la femme : ce qui n'est pas toujours vrai, chacun se pouvant reserver de les payer sur son propre bien. On dit qu'un homme est noyé de dettes ; pour dire, qu'il doit plus qu'il n'a vaillant, qu'il a des dettes par dessus les yeux, par dessus les oreilles, par dessus la tête. On dit aussi, que le chagrin ne paye point de dettes</def>
+<def>On dit proverbialement, qu'un homme avouë, confesse la dette ; pour dire, qu'il est convaincu, qu'il reconnoît qu'il a tort. Quand il s'agit de reconnoître un bienfait, personne n'avoue franchement la dete. St. Ev. Qui épouse la veuve, épouse les dettes ; pour dire, qu'un mari doit payer les dettes de la femme : ce qui n'est pas toujours vrai, chacun se pouvant reserver de les payer sur son propre bien. On dit qu'un homme est noyé de dettes ; pour dire, qu'il doit plus qu'il n'a vaillant, qu'il a des dettes par dessus les yeux, par dessus les oreilles, par dessus la tête. On dit aussi, que le chagrin ne paye point de dettes</def>
 <pc>.</pc></sense>
 </entry>
 </div>
+
 <div>
 <head>DEV<pc>.</pc></head>
 <entry><form type="lemmaGrp">
@@ -36306,19 +36298,22 @@
 <pc>.</pc>
 <def>Le côté droit du vaisseau. C'est la même chose que Stribord.</def></sense>
 </entry>
-    <entry>
-        <form type="lemmaGrp">
-            <form type="lemma">DEXTROCHERE</form>
-            <pc>,</pc>
-            <form type="variant">ou DESTROCHERE</form>
-            <pc>.</pc>
-            <gramGrp>
-                <pos>s</pos>
-                <pc>.</pc>
-                <gen>m</gen>
-                <pc>.</pc>
-            </gramGrp>
-        </form>
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>DEXTROCHERE</orth></form>
+<pc>,</pc>
+<form type="variant">ou DESTROCHERE</form>
+<pc>.</pc>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m</gen>
+<pc>.</pc>
+</gramGrp>
+</form>
+
 <sense>
 <usg>Terme de Blason</usg>
 <pc>,</pc>
@@ -36503,13 +36498,17 @@
 <def>Petit Diable</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<form>DIABlETEAU</form>
+</entry>
+              
+<entry>
+<form type="lemma">
+<orth>DIABlETEAU</orth></form>
 <pc>,</pc>
+<sense>
 <def>signifie la même chose. Du grand chat Rodilardus que Panurge crut être un Diableteau ; c'est un titre de Rabelais</def>
 <pc>.</pc></sense>
 </entry>
+              
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DIABOLIQUE</orth>
@@ -36651,18 +36650,25 @@
 <pc>.</pc>
 
 <sense>
-<def>Le second des Ordres Sacrez, qui met au rang des Diacres celui qui n'étoit que Soudiacre. Chapelles &amp; Oratoires qui étoient dans la ville de Rome, gouvernées par chaque Diacre en sa region. C'étoient de certains Hôpitaux où les veuves, les vieillards &amp; les orfelins étoient nourris. Ses Gouverneurs s'appellerent Cardinaux Diacres de la ville de Rome. Ce nom s'étendit à quelques autres Benesices. Il y en a aujourd'huy quatorze, dont les noms sont rapportez par Du Cange, qui sont affectez aux Cardinaux Diacres</def>
+<def>Le second des Ordres Sacrez, qui met au rang des Diacres celui qui n'étoit que Soudiacre</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+<form type="lemma">
+<orth>DIACONIE</orth>
+</form>
+<sense>
+<def>Chapelles &amp; Oratoires qui étoient dans la ville de Rome, gouvernées par chaque Diacre en sa region. C'étoient de certains Hôpitaux où les veuves, les vieillards &amp; les orfelins étoient nourris. Ses Gouverneurs s'appellerent Cardinaux Diacres de la ville de Rome. Ce nom s'étendit à quelques autres Benesices. Il y en a aujourd'huy quatorze, dont les noms sont rapportez par Du Cange, qui sont affectez aux Cardinaux Diacres</def>
+<pc>.</pc>
+</sense>    
+</entry>
+              <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DIACONISSE</orth>
 </form>
 <pc>.</pc>
-<pron>On trouve plus souvent DIA-</pron>
-<form type="lemma">
-<orth>CONESSE</orth>
-</form>
+<pron>On trouve plus souvent DIACONESSE</pron>
 <pc>.</pc>
 <gramGrp>
 <pos>s</pos>
@@ -37014,8 +37020,25 @@
 <pc>.</pc>
 
 <sense>
-<def>Lapidaire ou Ouvrier qui se connoit en diamans, &amp; qui en fait trafic. Il faut bien de l'experience pour être excellent Diamantaire. On dit que le Grand Mogol d'aujourd'huy est le plus excellent Diamantaire qui soit sur la terre, celui qui se connoît le mieux en diamans DIAMARGARITON. s. m</def>
+<def>Lapidaire ou Ouvrier qui se connoit en diamans, &amp; qui en fait trafic. Il faut bien de l'experience pour être excellent Diamantaire. On dit que le Grand Mogol d'aujourd'huy est le plus excellent Diamantaire qui soit sur la terre, celui qui se connoît le mieux en diamans</def>
 <pc>.</pc>
+</sense>
+</entry>
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>DIAMARGARITON. s. m</orth>
+</form>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m</gen>
+<pc>.</pc>
+</gramGrp>
+</form>
+
+<sense>
 <usg>Terme de Pharmacie</usg>
 <pc>.</pc>
 <def>Medicament qui tire son nom des perles qu'on appelle margarita, &amp; qui entrent dans sa composition. Il y en a de deux sortes, le chaud &amp; le froid. Le diamargariton chaud est une poudre composée de perles, de pyrethre, de gingembre, de noix muscade, de canelle &amp; de plusieurs autres ingrediens chauds. Il est hysterique, &amp; propre pour fortifier la matrice ; il excite les mois aux femmes, &amp; il aide à la digestion. Le diamargariton froid est aussi de deux sortes, le simple &amp; le composé. Le simple est un électuaire solide composé de perles broyées subtilement, &amp; de sucre blanc dissous dans de l'eau rose, ou de buglosse, &amp; cuit en consistence de sucre rosat. Il fortifie l'estomac, il adoucit les acides qui y sont en trop grande quantité, &amp; il arrête le crachement de sang &amp; le cours de ventre. Le diamargariton froid composé, est une poudre faite avec les perles, les roses rouges, les fleurs de nenuphar, &amp; de violettes, le bois d'aloës, le santal rouge &amp; le citrin, la racine de tormentille, les semences de melon, d'endive &amp; d'oseille, &amp;c. On s'en sert pour donner de la vigueur, pour faciliter la respiration, &amp; pour resister à la malignité des humeurs</def>
@@ -37859,7 +37882,25 @@
 <sense>
 <form>Dictature</form>
 <pc>,</pc>
-<def>se dit figurément, pour signifier l'empire, &amp; la domination que quelcun s'attribue ou sur les choses, ou sur les esprits. Cet orgueilleux Critique voudroit usurper dans la Republique des lettres une dicDICTER. v. act. Faire écrire sous soi quelque discours en le prononçant à haute voix &amp; mot à mot. Un Professeur dice sa leçon de Philosophie avant que de l'expliquer. Un testament est nul, s'il n'est dité &amp; nommé par un Testateur, lu &amp; relu par le Notaire, &amp; s'il n'en est fait mention dans l'acte. Mon valet écrivant ce que jaurois dicté, Feroit un livre entier marchant à mon coté. Boi</def>
+<def>se dit figurément, pour signifier l'empire, &amp; la domination que quelcun s'attribue ou sur les choses, ou sur les esprits. Cet orgueilleux Critique voudroit usurper dans la Republique des lettres une dic</def>
+</sense>
+<pc>.</pc>
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>DICTER</orth>
+<pc>.</pc></form>
+<gramGrp>
+<pos>v</pos>
+<subc>act</subc>
+</gramGrp>
+<pc>.</pc>
+</form>
+    
+<sense>
+<def>Faire écrire sous soi quelque discours en le prononçant à haute voix &amp; mot à mot. Un Professeur dice sa leçon de Philosophie avant que de l'expliquer. Un testament est nul, s'il n'est dité &amp; nommé par un Testateur, lu &amp; relu par le Notaire, &amp; s'il n'en est fait mention dans l'acte. Mon valet écrivant ce que jaurois dicté, Feroit un livre entier marchant à mon coté. Boi</def>
 </sense>
 <pc>.</pc>
 
@@ -37886,14 +37927,15 @@
 
 <re><form>Dicté, ée</form>
 <form>.</form>
-<form>part</form>
+    <gramGrp><pos>part. &amp; adj</pos></gramGrp>
 <pc>.</pc>
-<def>pass. &amp; adj. Dictée. s</def>
 </re>
-<form type="lemmaGrp">
+    
+<form type="lemmaGrp">Dictée
 <pc>.</pc>
 <gramGrp>
-<pos>f</pos>
+<pos>s</pos>
+<gen>f</gen>
 </gramGrp>
 </form>
 <pc>.</pc>
@@ -37940,26 +37982,10 @@
 <pc>.</pc>
 
 <sense>
-<def>Recueil fait en maniere de catalogue de tous les mots d'une Langue, ou d'une, ou de plusieurs sciences. Dictionnaire Latin, Grec, Hebreu, Italien, Espagnol, Alleman. Dictionnaire Historique &amp; Geographique. Dictionnaire de Chymie, de Medecine, des Arts. Un Dictionnaire de rimes. Les Dictionnaires anciens sont pour le Latin ; celui qui a été appellé Papias, a été fait par Salomon Abbé de Saint Gal, Evêque de Constance qui vivoit dès l'an 1409. Il en a été fait un autre en l'an 1499. appellé Gemma Vocabulorum, &amp; un autre en 1502. appelle Gemma Gemmarum ; un autre par Denis Nestor Cordelier. Mais le plus fameux a éte celui d'Ambroise Calepin Hermite de St. Augustin de Bergame, &amp; fils des Comtes de Calepio. Conrard Gesner dit l'avoir augmenté de quatre mille mots. Paul Manuce l'a aussi augmenté, &amp; enfin Jean Passerat. Cependant Matthias Martinius a fait deux Volumes de ses omissions. Il y a aussi un fameux Dictionnaire Latin de Crispinus en deux gros Volumes, sans compter plusieurs autres qui sont de moindre consideration. En Grec on a ceux de Henri Etienne &amp; de Scapula : en Espagnol celui de Covarruvias : en Italien celui de l'Academie della Crusca : en François ceux de Nicod &amp; du Pere Monet, &amp; celui de l'Academie Françoise. On a imprimé un Dictionnaire de la Langue Malaye, qui est une Langue morte, fameuse dans toutes les Indes Orientales, où elle tient lieu de Latin. Il y a un Dictionnaire Karaïbe-François du Pere Raimond Breton Dominicain, qui est le langage du païs des Antilles. Junius a fait imprimer un Dictionnaire ou Alphabet Gothique, Runique, Anglo-Saxonique, où il compare ensemble les Langues Septentrionales. Il y a aussi des Dictionnaires Historiques &amp; Geographiques, comme celui de Charles Etienne qui a été traduit &amp; augmenté par Moreri. Il y en a un de Hoffman imprimé à Bâle en 1677. en deux Volumes in folio, qui furent suivis d'une continuation en autant de Volumes à Bâle l'an 1683. Ces IV</def>
+<def>Recueil fait en maniere de catalogue de tous les mots d'une Langue, ou d'une, ou de plusieurs sciences. Dictionnaire Latin, Grec, Hebreu, Italien, Espagnol, Alleman. Dictionnaire Historique &amp; Geographique. Dictionnaire de Chymie, de Medecine, des Arts. Un Dictionnaire de rimes. Les Dictionnaires anciens sont pour le Latin ; celui qui a été appellé Papias, a été fait par Salomon Abbé de Saint Gal, Evêque de Constance qui vivoit dès l'an 1409. Il en a été fait un autre en l'an 1499. appellé Gemma Vocabulorum, &amp; un autre en 1502. appelle Gemma Gemmarum ; un autre par Denis Nestor Cordelier. Mais le plus fameux a éte celui d'Ambroise Calepin Hermite de St. Augustin de Bergame, &amp; fils des Comtes de Calepio. Conrard Gesner dit l'avoir augmenté de quatre mille mots. Paul Manuce l'a aussi augmenté, &amp; enfin Jean Passerat. Cependant Matthias Martinius a fait deux Volumes de ses omissions. Il y a aussi un fameux Dictionnaire Latin de Crispinus en deux gros Volumes, sans compter plusieurs autres qui sont de moindre consideration. En Grec on a ceux de Henri Etienne &amp; de Scapula : en Espagnol celui de Covarruvias : en Italien celui de l'Academie della Crusca : en François ceux de Nicod &amp; du Pere Monet, &amp; celui de l'Academie Françoise. On a imprimé un Dictionnaire de la Langue Malaye, qui est une Langue morte, fameuse dans toutes les Indes Orientales, où elle tient lieu de Latin. Il y a un Dictionnaire Karaïbe-François du Pere Raimond Breton Dominicain, qui est le langage du païs des Antilles. Junius a fait imprimer un Dictionnaire ou Alphabet Gothique, Runique, Anglo-Saxonique, où il compare ensemble les Langues Septentrionales. Il y a aussi des Dictionnaires Historiques &amp; Geographiques, comme celui de Charles Etienne qui a été traduit &amp; augmenté par Moreri. Il y en a un de Hoffman imprimé à Bâle en 1677. en deux Volumes in folio, qui furent suivis d'une continuation en autant de Volumes à Bâle l'an 1683. Ces IV. Volumes ont été rimprimez à Leide sous un seul Alphabet &amp; avec des additions l'an 1698. en quatre Volumes. Il y en a un de Mr. Bayle qui a pour titre, Dictionnaire Historique &amp; Critique. Il a été imprimé à Rotterdam en 1697. chez Reinier Leers en deux gros Volumes. Ce Dictionnaire contient une grande varieté de choses. Les Dictionnaires sont une voye abregée pour devenir sçavant à peu de frais. Bay</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>DIC</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>DID</pos>
-<pc>.</pc>
-<gen>DIE</gen>
-</gramGrp>
-</form>
-<pc>.</pc>
 
-<sense>
-<def>Volumes ont été rimprimez à Leide sous un seul Alphabet &amp; avec des additions l'an 1698. en quatre Volumes. Il y en a un de Mr. Bayle qui a pour titre, Dictionnaire Historique &amp; Critique. Il a été imprimé à Rotterdam en 1697. chez Reinier Leers en deux gros Volumes. Ce Dictionnaire contient une grande varieté de choses. Les Dictionnaires sont une voye abregée pour devenir sçavant à peu de frais. Bay</def>
-<pc>.</pc></sense>
-</entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DICTON</orth>
@@ -41323,8 +41349,9 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>DISJONCTIF ive</orth>
+<orth>DISJONCTIF</orth>
 </form>
+<form type="inflected">ive</form>
 <pc>.</pc>
 <gramGrp>
 <pos>adj</pos>
@@ -42687,10 +42714,13 @@
 <def>Qui se peut resoudre en plusieurs parties. Il n'y a peint de corps qui ne soit dissoluble par le feu, par l'art de Chymie. On doute de l'usage de ce mot. Au moins est-il un de ceux que l'Academie efface dans ses Additions, après l'avoir mis dans la table, &amp; dans le corps de son Dictionaire</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+<form type="lemmaGrp">
 <form type="lemma">
-<orth>DISSOLUTIF ive</orth>
+<orth>DISSOLUTIF</orth>
 </form>
+<form type="inflected">ive</form>
 <pc>.</pc>
 <gramGrp>
 <pos>adj</pos>
@@ -42998,23 +43028,31 @@
 <pc>.</pc>
 
 <re><form>Distillé, ée</form>
-<form>.</form>
+<pc>.</pc>
 <form>part</form>
-<form>.</form>
-<form>Le vinaigre di</form>
-<pc>s</pc>
-<def>tillé est un dissolvant des plus forts</def>
+<pc>.</pc>
+    <def>Le vinaigre distillé est un dissolvant des plus forts</def>
 </re>
 <pc>.</pc>
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>DISTINcT</orth>
+</form>
+<pc>,</pc>
+<form type="inflected">incte</form>
+<pc>.</pc>
+<gramGrp>
+<pos>adj</pos>
+</gramGrp>
+<pc>.</pc>
+</form>
 
-<re><form>DISTINcT, incte</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Separé, different</form>
-<pc>.</pc>
-<def>Ce sont deux questions toutes distinctes, &amp; separées, que celles qui sont en ce procés. Nous avons en nous un principe intelligent, tout-à-fait distinet du corps, &amp; de la matiere. Maleb</def>
-</re>
+<sense>
+<def>Separé, different.Ce sont deux questions toutes distinctes, &amp; separées, que celles qui sont en ce procés. Nous avons en nous un principe intelligent, tout-à-fait distinet du corps, &amp; de la matiere. Maleb</def>
+</sense>
 <pc>.</pc>
 
 <sense>
@@ -43023,6 +43061,7 @@
 <def>se dit aussi des choses qui sont nettes, &amp; sans confusion. Une voix distincte, qui prononce &amp; separe bien ses paroles. Une vuë distincte, qui voit les objets sans confusion. Nous ne devons croire avec certitude que les choses dont nous avons une idée claire, &amp; distincte. Bay. Considerons nos defauts d'une vue distincte, afin de nous decouvrir à nous-mêmes tels que nous sommes. Nic. Le peuple n'est point accoutumé à faire une reflexion precise, &amp; distincte sur les principes de la Religion. Oe. M</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DISTINCTEMENT</orth>
@@ -43618,17 +43657,28 @@
 <def>Chambre de Conseil : Tribunal où on rend la justice dans les pars Orientaux. Les Voyageurs racontent des merveilles du silence qui se garde, &amp; de l'expedition qui se fait dans les Divans de l'Orient. On dit, Le Grand Vizir a tenu Divan ; c'est-à-dire, qu'il a fait assembler les Grands de la Porte pour deliberer des affaires de l'Empire. Divan est un mot Arabe, qui signifie une estrade. C'est la même chose que sofa en langue Turque. Divan signifie aussi en Arabe un recueil de diverses pieces, soit en vers, soit en prose</def>
 </sense>
 <pc>.</pc>
-
-<re><form>DIiVERGENT, ente</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Terme d'Optique</form>
-<form>,</form>
-<form>qui</form>
-<def>se dit des rayons, lesquels ayant souffert la refraction, ou la reflection, s'éloignent les uns des autres ; il est opposé à convergent, qui se dit quand ils s'approchent, &amp; tendent vers un centre, ou étant parvenus ils se couppent, &amp; s'ils sont continuez, ils deviennent divergens. Le verre spherique convexe rend les rayons convergens, &amp; le concave les rend divergens</def>
-<pc>.</pc></re>
 </entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma">DIiVERGENT
+</form>
+<pc>,</pc>
+<form type="inflected">ente</form>
+<pc>.</pc>
+<gramGrp>
+<pos>adj</pos>
+<pc>.</pc>
+</gramGrp>
+</form>
+
+<sense>
+<usg>Terme d'Optique</usg>
+<pc>,</pc>
+<def>qui se dit des rayons, lesquels ayant souffert la refraction, ou la reflection, s'éloignent les uns des autres ; il est opposé à convergent, qui se dit quand ils s'approchent, &amp; tendent vers un centre, ou étant parvenus ils se couppent, &amp; s'ils sont continuez, ils deviennent divergens. Le verre spherique convexe rend les rayons convergens, &amp; le concave les rend divergens</def>
+<pc>.</pc>
+</sense>
+</entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DIVERS</orth>
@@ -44153,20 +44203,8 @@
 <pc>.</pc>
 
 <sense>
-<def>Rupture du lien, dissolution entiere du mariage. C'est un veuvage anticipé. Le divorce étoit permis chez les Payens ; il l'étoit même chez les Juifs a cause de la dureté de leur coeur. A Rome la sterilité, la vieillesse, la maladie, la fureur, le bannissement, étient les causes ordinaires du divorce. Carvilius fut le premier qui 5. ou 600. ans après la fondation de Rome repudia sa femme, parcequ'elle étoit sterile. Justinien ajouta l'impuissance, le voeu de chasteté, &amp; la profession de la vie Religieuse, comme des raisons valables pour le divorce. Parmi les Juifs la laideur, la vieillesse, ou la mechante humeur d'une femme, suffisoient pour lui donner la lettre de divorce. La volonté même, ou le repentir étoient de bonnes raisons. Trop heureux ! si bientôt la faveur d'un divorce, Me soulageoit d'un joug qu'on m'imposa par force. Rac</def>
+    <def>Rupture du lien, dissolution entiere du mariage. C'est un veuvage anticipé. Le divorce étoit permis chez les Payens ; il l'étoit même chez les Juifs a cause de la dureté de leur coeur. A Rome la sterilité, la vieillesse, la maladie, la fureur, le bannissement, étient les causes ordinaires du divorce. Carvilius fut le premier qui 5. ou 600. ans après la fondation de Rome repudia sa femme, parcequ'elle étoit sterile. Justinien ajouta l'impuissance, le voeu de chasteté, &amp; la profession de la vie Religieuse, comme des raisons valables pour le divorce. Parmi les Juifs la laideur, la vieillesse, ou la mechante humeur d'une femme, suffisoient pour lui donner la lettre de divorce. La volonté même, ou le repentir étoient de bonnes raisons. Trop heureux ! si bientôt la faveur d'un divorce, Me soulageoit d'un joug qu'on m'imposa par force. Rac. J. Christ n'a permis le divorce que pour la seule cause d'adultere. Le Concile de Trente a deffendu le divorce, quant au lien du mariage, pour quelque cause que ce soit. Canon 8. s. 24. On excepte le mariage entre deux Payens, lequel peut être dissous par la conversion de l'une des parties. Milton a fait un Traitté de la dotrine, &amp; de la discipline du divorce, où il soutient que le divorce doit être permis pour la seule incompatibilité d'humeurs. On dit qu'il avoit pratiqué sa propre doctrine</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>J</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Christ n'a permis le divorce que pour la seule cause d'adultere. Le Concile de Trente a deffendu le divorce, quant au lien du mariage, pour quelque cause que ce soit. Canon 8. s. 24. On excepte le mariage entre deux Payens, lequel peut être dissous par la conversion de l'une des parties. Milton a fait un Traitté de la dotrine, &amp; de la discipline du divorce, où il soutient que le divorce doit être permis pour la seule incompatibilité d'humeurs. On dit qu'il avoit pratiqué sa propre doctrine</def>
-</sense>
-<pc>.</pc>
 
 <sense>
 <form>Divorce</form>
@@ -44188,6 +44226,7 @@
 <def>se dit figurément en Morale de l'abandonnement qui se fait de toutes les choses où on avoit de l'attachement. Il faut faire divorce avec les vices, avec les mauvaises compagnies, &amp; même avec les plaisirs, quand on veut songer serieusement à son salut. On dit aussi que les Heretiques, &amp; Schismatiques ont fait divorce avec l'Eglise ; &amp; d'un homme qu'on veut taxer de folie, qu'il a fait divorce avec la raison, le bon sens. Pourquoy mettre le divorce entre l'esprit, &amp; les sens ? St. Ev. c'est-à-dire, pourquoy separer ; pourquoy diviser des choses qui devoient être aussi étroitement unies, que l'esprit, &amp; les sens</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DIURETIQUE</orth>
@@ -44204,18 +44243,6 @@
 <pc>.</pc>
 <def>Remede qui provoque l'urine. Le vin blanc pris le matin est fort diuretique, il coule aisément. On a appellé aussi les chiens, animaux diuretiques, parcequ'ils sont sujets à pisser souvent</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>DIV</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>DIX</def>
-</sense>
-<pc>.</pc>
 
 <sense>
 <form>Diuretique</form>
@@ -44223,6 +44250,7 @@
 <def>est aussi un subst. masc. Cet homme use continuellement de diuretiques à cause de sa gravelle</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DIURNAL</orth>
@@ -44675,19 +44703,7 @@
 <div>
 <head>DOD<pc>.</pc></head>
 <head>DOG<pc>.</pc></head>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>raux</orth>
-</form>
-<pc>,</pc>
-<pron>s'il ne veut pas s'exposer à essuier une sensible reprimende</pron>
-</form>
-<pc>.</pc>
 
-<sense>
-<def>Ainsi il faut qu'il soit d'un esprit doux, &amp; qui sçache plier à tout. St. Didier. A Venise on ne prend pas le deuil pour la mort du Doge, parcequ'il n'est pas le Souverain ; mais le premier de la Republique. Vic. Le Doge est comme la bouche de la Republique, parcequ'il repond pour elle. La monnoye se bat sous le nom du Doge ; mais ce n'est pas à son coin. Il ne peut sortir de Venise sans la permission du Conseil. Le Doge est à la Republique, &amp; non pas la Republique au Doge. On le traitte de Serenité ; titre, selon les Venitiens, au dessus de celui d'Altesse. Doge signifie Duc</def>
-<pc>.</pc></sense>
-</entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DODECAEDRE</orth>
@@ -44854,10 +44870,29 @@
 <pc>.</pc>
 
 <sense>
-<def>C'est un Magistrat électif qui est le Chef du Conseil, ou de la Republique de Venise, ou de Genes. On l'élit à vie à Venise ; &amp; pour deux ans seulement à Genes. Le Doge de Venise n'est proprement qu'une vaine image, &amp; un veritable fantome de la Majesté du Prince, dont la Republique a retenu toute l'autorité. Il ne fait, pour ainsi dire, que prêter son nom au Senat, &amp; le pouvoir est repandu sur toute la Republique, quoyque les reponses se fassent au nom du Doge. S'il fait quelques reponses de son chef, il faut qu'elles soient bien mesurées, &amp; en termes bien geneDOGMATIQUE. adj. &amp; s. m. Instructif, qui appartient à quelque opinion, ou à quelque science. Ce mot n'est bon que dans le dogmatique. Le mot de cathegorie est un terme dogmatique. Un Philosophe degmatique est celui qui assure positivement une chose comme vraye, &amp; qui est opposé au Sceptique, lequel doute de tout. Les dogmatiques decidoient presomptueusement de tout. Bay</def>
+<def>C'est un Magistrat électif qui est le Chef du Conseil, ou de la Republique de Venise, ou de Genes. On l'élit à vie à Venise ; &amp; pour deux ans seulement à Genes. Le Doge de Venise n'est proprement qu'une vaine image, &amp; un veritable fantome de la Majesté du Prince, dont la Republique a retenu toute l'autorité. Il ne fait, pour ainsi dire, que prêter son nom au Senat, &amp; le pouvoir est repandu sur toute la Republique, quoyque les reponses se fassent au nom du Doge. S'il fait quelques reponses de son chef, il faut qu'elles soient bien mesurées, &amp; en termes bien gene</def>
 </sense>
 <pc>.</pc>
+</entry>
 
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>DOGMATIQUE</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>adj. &amp; s</pos>
+<pc>.</pc>
+<gen>m</gen>
+</gramGrp>
+<pc>.</pc>
+</form>
+
+<sense>
+<def>Instructif, qui appartient à quelque opinion, ou à quelque science. Ce mot n'est bon que dans le dogmatique. Le mot de cathegorie est un terme dogmatique. Un Philosophe degmatique est celui qui assure positivement une chose comme vraye, &amp; qui est opposé au Sceptique, lequel doute de tout. Les dogmatiques decidoient presomptueusement de tout. Bay</def>
+</sense>
+    
 <sense>
 <form>Dogmatique</form>
 <pc>,</pc>
@@ -45397,24 +45432,34 @@
 <pc>.</pc>
 
 <re><form>Domeine</form>
-<form>,</form>
-<form>en plusieurs Coutumes</form>
 <pc>,</pc>
-<def>signifie le fief dominant, le cheflieu ou manoir, où est duë la foi &amp; hommage par le vassal, le lieu d'où dependent les fiefs &amp; vassaux. On appelle Domaine immuable ou Domeine fiessé, les cens &amp; rentes seigneuriales, qui n'augmentent ni ne diminuent jamais ; Domaine muable, le revenu des fermes, qui est different suivant les années &amp; les baux ; Domaine congeable, celui qui a été donné gratuitement par un Seigneur, qui y peut rentrer toutes fois &amp; quantes qu'il lui plaît. DOmESTICITÉ. s</def>
+<usg>en plusieurs Coutumes</usg>
+<pc>,</pc>
+<def>signifie le fief dominant, le cheflieu ou manoir, où est duë la foi &amp; hommage par le vassal, le lieu d'où dependent les fiefs &amp; vassaux. On appelle Domaine immuable ou Domeine fiessé, les cens &amp; rentes seigneuriales, qui n'augmentent ni ne diminuent jamais ; Domaine muable, le revenu des fermes, qui est different suivant les années &amp; les baux ; Domaine congeable, celui qui a été donné gratuitement par un Seigneur, qui y peut rentrer toutes fois &amp; quantes qu'il lui plaît</def>
 </re>
+</entry>
+    
+<entry>   
 <form type="lemmaGrp">
-<pc>.</pc>
-<gramGrp>
-<pos>f</pos>
-</gramGrp>
+<form type="lemma">
+<orth>DOmESTICITÉ</orth>
 </form>
+<gramGrp>
+<pos>s</pos>
 <pc>.</pc>
-
+<gen>f</gen>
+</gramGrp>
+<pc>.</pc>
+</form>
+    
 <sense>
 <def>Qualité de domestique. La domesticité est un reproche à un temoin, une cause de recusation pour un Juge</def>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>
 </entry>
-<entry><form type="lemmaGrp">
+    
+<entry>
+<form type="lemmaGrp">
 <form type="lemma">
 <orth>DOMESTIQUE</orth>
 </form>
@@ -45455,6 +45500,7 @@
 <def>est aussi quelquefois subst. Ce Prince est agreable quand il est en son domestique ; c'est-à-dire, en son particulier. Il a reglé extremement bien tout son domestique ; c'est-à-dire, toutes les affaires de sa maison. Le mari doit avoir soin du domestique, de la subsistance du menage</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DOMESTIQUEMENT</orth>
@@ -45578,10 +45624,29 @@
 
 <sense>
 <usg>En termes d'Astrologie</usg>
-<def>on appelle Dominateur, ou Seigneur dominant, l'astre qui est le plus considerable, ou qui a le plus de degrez de puissance dans un horoscope DOMINATION. s. f. Empire, autorité, puissance. La domination des Romains a duré long temps. Le victorieux usurpa la domination sous le nom de Prince du Senat. Abl. Le Roi a rangé l'Artois sous sa domination</def>
+<def>on appelle Dominateur, ou Seigneur dominant, l'astre qui est le plus considerable, ou qui a le plus de degrez de puissance dans un horoscope</def>
 </sense>
 <pc>.</pc>
+</entry>
 
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>DOMINATION</orth>
+</form>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>f</gen>
+<pc>.</pc>
+</gramGrp>
+</form>
+    
+<sense>
+<def>Empire, autorité, puissance. La domination des Romains a duré long temps. Le victorieux usurpa la domination sous le nom de Prince du Senat. Abl. Le Roi a rangé l'Artois sous sa domination</def>
+<pc>.</pc>
+</sense>
+    
 <sense>
 <form>Domination</form>
 <pc>,</pc>
@@ -47376,24 +47441,10 @@
 <pc>.</pc>
 
 <sense>
-<def>Somme de deniers assignez à une fille, quand on la pourvoit, soit par mariage, soit par entrée en Religion. En Normandie la dot d'une femme est assurée ; elle est inalienable. En païs de Droit écrit il y a un augment de dot que donne le mari, qui repond au preciput qu'on donne ailleurs. La dot a par tout de grands privileges</def>
+    <def>Somme de deniers assignez à une fille, quand on la pourvoit, soit par mariage, soit par entrée en Religion. En Normandie la dot d'une femme est assurée ; elle est inalienable. En païs de Droit écrit il y a un augment de dot que donne le mari, qui repond au preciput qu'on donne ailleurs. La dot a par tout de grands privileges. C. B. La dot est preferable au douüaire. Louet. Le Seigneur Anselme s'engage à prendre ma fille sans dot. Mol</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>C</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>B</orth>
-</form>
-</form>
-<pc>.</pc>
 
-<sense>
-<def>La dot est preferable au douüaire. Louet. Le Seigneur Anselme s'engage à prendre ma fille sans dot. Mol</def>
-<pc>.</pc></sense>
-</entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DOTAL</orth>
@@ -47450,7 +47501,7 @@
 <head>DOU<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>DOu</orth>
+<orth>D'Ou</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -48011,28 +48062,8 @@
 <sense>
 <form>Doucement</form>
 <pc>,</pc>
-<def>signifie encore, Commodément, facilement, paisiblement, agreablement, sans murmure, sans impatience. On vit doucement dans la solitude. Avec un peu de raison on peut gouter doucement les biens, &amp; s'accommoder patiemment aux maux. St. Ev. Il vit tout doucement de son bien : ce qui veut dire aussi petitement, mais sans être à charge à personne. Vivre doucement ; c'est-à-dire, sans passion, sans inquietude, hors du bruit &amp; de l'embaras des affaires. Bou. Doucement, diras-tu, que sert de s'emporter ? Boi. C'est-à-dire, parlez sans aigreur, &amp; sans precipitation. Quelquefois il va plus à l'artifice qu'à la moderation</def>
+    <def>signifie encore, Commodément, facilement, paisiblement, agreablement, sans murmure, sans impatience. On vit doucement dans la solitude. Avec un peu de raison on peut gouter doucement les biens, &amp; s'accommoder patiemment aux maux. St. Ev. Il vit tout doucement de son bien : ce qui veut dire aussi petitement, mais sans être à charge à personne. Vivre doucement ; c'est-à-dire, sans passion, sans inquietude, hors du bruit &amp; de l'embaras des affaires. Bou. Doucement, diras-tu, que sert de s'emporter ? Boi. C'est-à-dire, parlez sans aigreur, &amp; sans precipitation. Quelquefois il va plus à l'artifice qu'à la moderation. Est-ce donc là medire ou parler franchement? Non, non, la medisance y va plus doucement. Boi. Il faut se laisser conduire doucement à la nature, qui nous apprendra assez à mourir. Mont. Les marques de vôtre tendresse me repassent doucement dans l'imagination. Le Ch. de M. Je sçai souffrir mes malheurs assez doucement, &amp; sans en importuner personne. M. Sc. Le mouvement le plus delicat de l'amour c'est la langueur qui comme une flâme secrette nous consume doucement. St. Ev</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>E</orth>
-</form>
-<gramGrp>
-<pos>st-ce donc là</pos>
-<gen>medire</gen>
-</gramGrp>
-<pc>,</pc>
-<form type="variant">
-<orth>ou parler franchement</orth>
-</form>
-</form>
-<pc>?</pc>
-
-<sense>
-<def>Non, non, la medisance y va plus doucement. Boi. Il faut se laisser conduire doucement à la nature, qui nous apprendra assez à mourir. Mont. Les marques de vôtre tendresse me repassent doucement dans l'imagination. Le Ch. de M. Je sçai souffrir mes malheurs assez doucement, &amp; sans en importuner personne. M. Sc. Le mouvement le plus delicat de l'amour c'est la langueur qui comme une flâme secrette nous consume doucement. St. Ev</def>
-</sense>
-<pc>.</pc>
 
 <sense>
 <form>Doucement</form>
@@ -48045,6 +48076,7 @@
 <def>On dit en proverbe, Aller doucement en besogne, quand on ait lentement, &amp; avec grande circonspection</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DOUCEREUX</orth>
@@ -48611,7 +48643,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>DOU</orth>
+<orth>DOUX</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -49193,6 +49225,7 @@
 <gloss>Du Cange temoigne que les Auteurs de la basse Latinité pour signifier un Interprete des Langues étrangeres, se sont servis de ces mots, Dragumanus, Drogamundus, Drogmandus, Drogomannus, Drogomannus, Turquingens, Turchimannus, &amp; Turchemannus</gloss>
 <pc>.</pc></etym>
 </entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DRAGON</orth>
@@ -49305,29 +49338,10 @@
 <pc>.</pc>
 
 <sense>
-<form>Deagon</form>
+<form>Dragon</form>
 <pc>,</pc>
-<def>est aussi une Constellation celeste vers le Pole Arctique, ayant 3i. étoiles, selon Ptolomée</def>
+<def>est aussi une Constellation celeste vers le Pole Arctique, ayant 3i. étoiles, selon Ptolomée; 32 selon Kepler; &amp;33 selon Bayer, qui sont de la nature de Saturne et de Jupiter</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>32</orth>
-</form>
-<pc>.</pc>
-<form type="variant">
-<orth>selon Kepler ; &amp; 33</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<etym>
-<lbl>selon</lbl>
-<lang>Bayer</lang>
-<pc>,</pc>
-<gloss>qui sont de la nature de Saturne &amp; de Jupiter</gloss>
-</etym>
-<pc>.</pc>
 
 <sense>
 <usg>En termes d'Astronomie</usg>
@@ -49385,6 +49399,7 @@
 <xr>Voyez Mercure oux</xr>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DRAGONNADE</orth>
@@ -49404,7 +49419,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ALADRAGONNE</orth>
+<orth>A LA DRAGONNE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -51685,19 +51700,12 @@
 
 <sense>
 <def>Ecritures qu'on fournit en des procés, qui servent de reponse à des repliques, à des soutenemens, à des deffenses qu'on avoit données</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>LLLII I</orth>
-</form>
-</form>
 <pc>.</pc>
-
-<sense>
-<def>L'usage L'usage des dupliques a été abrogé par l'Ordonnance de 1667.at. 3. T. 4</def>
-<pc>.</pc></sense>
+<note>L'usage L'usage des dupliques a été abrogé par l'Ordonnance de 1667.at. 3. T. 4</note>
+</sense>
+<pc>.</pc>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DUPLIQUER</orth>
@@ -52117,25 +52125,13 @@
 <sense>
 <form>Dureté</form>
 <pc>,</pc>
-<def>se dit figurément en choses spirituelles &amp; morales, &amp; signifie, Indocilité, insensibilité, cruauté. La dureté du coeur des Juifs obligea Moïse à leur permettre le divorce. Le Mai. Il a une dureté d'esprit qui fait qu'il ne peut rien comprendre ; une dureté de coeur, qui fait qu'il n'aime personne. Nous joindrons nos forces pour attaquer la dureté de son humeur. Mol. Le coeur, &amp; le temperament des Stoiciens ne s'accommodoient pas toujours de la dureté phllosophique dont ils faisoient profession. Oe. M. Les opinions de Seneque ont trop de dureté. St. Ev. Un peu de dureté sied bien aux grandes ames. Corn. Pensezvous que je vous pardonne toutes les duretez que vous m'avez dites ? Vous avez eu la dureté de me dire que la conversation de cette Dame vous avoit plû. Let. Portug. La dureté des termes choque d'autant plus, qu'elle enferme quelque sorte d'indifference, &amp; de mepris. Nic. Je renonce à la vanité De cette dureté farouche, Que l'on appells fermetée. Quin</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>L</orth>
-</form>
-</form>
+<def>se dit figurément en choses spirituelles &amp; morales, &amp; signifie, Indocilité, insensibilité, cruauté. La dureté du coeur des Juifs obligea Moïse à leur permettre le divorce. Le Mai. Il a une dureté d'esprit qui fait qu'il ne peut rien comprendre ; une dureté de coeur, qui fait qu'il n'aime personne. Nous joindrons nos forces pour attaquer la dureté de son humeur. Mol. Le coeur, &amp; le temperament des Stoiciens ne s'accommodoient pas toujours de la dureté phllosophique dont ils faisoient profession. Oe. M. Les opinions de Seneque ont trop de dureté. St. Ev. Un peu de dureté sied bien aux grandes ames. Corn. Pensezvous que je vous pardonne toutes les duretez que vous m'avez dites ? Vous avez eu la dureté de me dire que la conversation de cette Dame vous avoit plû. Let. Portug. La dureté des termes choque d'autant plus, qu'elle enferme quelque sorte d'indifference, &amp; de mepris. Nic. Je renonce à la vanité De cette dureté farouche, Que l'on appells fermetée. Quin. De tant de duretez que j'étale à regret Chaque mot à mon ceur ceuûte un soupir secret. Corn</def>
 <pc>.</pc>
-
-<sense>
-<def>LLII De tant de duretez que j'étale à regret Chaque mot à mon ceur ceuûte un soupir secret. Corn</def>
+<note>On dit aussi, qu'un stile a beaucoup de rudesse, &amp; de dureté. Si Homere, &amp; Virgile avoient eu à parler, &amp; à composer en Allemand, ils auroient peut-être échoüé contre la dureté de la langue. Oe. M. Les traits politiques dont la narration de Tacite est semée, ont je ne sçai quoy de fin qui recompense la dureté de son stile. Bou. On dit, que des vers ont de la dureté, qu'un pinceau, qu'une gravure ont de la dureté, quand ils n'ont pas cette douceur, cette politesse ou delicatesse qui donne le prix aux ouvrages</note>
+<pc>.</pc>
 </sense>
-<pc>.</pc>
-
-<sense>
-<def>On dit aussi, qu'un stile a beaucoup de rudesse, &amp; de dureté. Si Homere, &amp; Virgile avoient eu à parler, &amp; à composer en Allemand, ils auroient peut-être échoüé contre la dureté de la langue. Oe. M. Les traits politiques dont la narration de Tacite est semée, ont je ne sçai quoy de fin qui recompense la dureté de son stile. Bou. On dit, que des vers ont de la dureté, qu'un pinceau, qu'une gravure ont de la dureté, quand ils n'ont pas cette douceur, cette politesse ou delicatesse qui donne le prix aux ouvrages</def>
-<pc>.</pc></sense>
 </entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>DURILLON</orth>

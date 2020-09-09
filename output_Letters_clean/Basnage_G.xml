@@ -2,8 +2,6 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
-<?xml-stylesheet type="text/css" href="teixdicotest.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
         <fileDesc>
@@ -6848,15 +6846,19 @@
 <def>C'est, Accrocher quelque chose avec la gaffe</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<form>GaFFES</form>
+</entry>
+    
+<entry>
+<form type="lemma">GaFFES</form>
 <pc>,</pc>
+<sense>    
 <usg>en termes de Marine</usg>
 <pc>,</pc>
 <def>sont des instrumens pour pêcher</def>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>
 </entry>
+
 </div>
 <div><head>GAG<pc>.</pc></head>
 <entry><form type="lemmaGrp">
@@ -7452,16 +7454,42 @@
 <pc>.</pc>
 
 <sense>
-<def>Espece de danse ancienne qu'on dansoit tantôt terre à terre, &amp; tantôt en cabriolant ; tantôt allant le long de la salle, &amp; tantôt à travers. On l'appelloit aussi Romanesque, à cause qu'elle venoit de Rome. Thoinot Arbeau dans son Orchesographie dit que c'étoit une danse composée de cinq pas, &amp; de cinq assietes de pieds que faisoient les danseurs l'un devant l'autre avec plusieurs passages, dont il donne la tablature, qui est de six minimes blanches, &amp; de deux mesures ternaires. GAILLARDELlETTtES, ou GALANS</def>
+<def>Espece de danse ancienne qu'on dansoit tantôt terre à terre, &amp; tantôt en cabriolant ; tantôt allant le long de la salle, &amp; tantôt à travers. On l'appelloit aussi Romanesque, à cause qu'elle venoit de Rome. Thoinot Arbeau dans son Orchesographie dit que c'étoit une danse composée de cinq pas, &amp; de cinq assietes de pieds que faisoient les danseurs l'un devant l'autre avec plusieurs passages, dont il donne la tablature, qui est de six minimes blanches, &amp; de deux mesures ternaires</def>
 </sense>
 <pc>.</pc>
+</entry>
 
+<entry>
+<form type="lemma">
+<orth>GAILLARDELlETTtES</orth>
+<pc>,</pc></form>
+<form type="variant">
+<orth>ou GALANS</orth></form>
+<pc>.</pc>
+    
 <sense>
 <usg>Terme de Marine</usg>
 <pc>.</pc>
-<def>Pavillons arborez sur la misaine &amp; sur l'artimon. GAILLARdEENT. adv. Alaigremet , d'une maniere gaillarde, &amp; legere, ou de bonne volonté. Quand on veut taire plaisir, il le faut faire gailardement &amp; de bon coeur. Il lui a repondu gaillardement ; c'est-àdire, cavalierement, brusquement</def>
+<def>Pavillons arborez sur la misaine &amp; sur l'artimon</def>
 <pc>.</pc></sense>
 </entry>
+
+<entry>
+<form type="lemmaGrp">
+<orth>GAILLARdEENT</orth>
+<gramGrp>
+<pc>.</pc>
+<pos>adv</pos>
+</gramGrp>
+<pc>.</pc>
+</form>
+
+<sense>
+<def>Alaigremet , d'une maniere gaillarde, &amp; legere, ou de bonne volonté. Quand on veut taire plaisir, il le faut faire gailardement &amp; de bon coeur. Il lui a repondu gaillardement ; c'est-àdire, cavalierement, brusquement</def>
+</sense>
+<pc>.</pc>
+</entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GAILLARDET</orth>
@@ -7736,22 +7764,11 @@
 <sense>
 <form>Galant</form>
 <pc>,</pc>
-<def>se dit aussi des femmes qui ont de l'esprit, des manieres agreables, &amp; engageantes ; qui aiment le monde, qui sont bien aise de plaire, &amp; de trainer des Amans après elles. Les personnes galantes sont bien aises qu'un pretexte leur donne lieu de parler à ceux qui les aiment. P. de Cl. Cette femme a le coeur peu tendre : mais en recompense elle à l'esprit fort galant</def>
+    <def>se dit aussi des femmes qui ont de l'esprit, des manieres agreables, &amp; engageantes ; qui aiment le monde, qui sont bien aise de plaire, &amp; de trainer des Amans après elles. Les personnes galantes sont bien aises qu'un pretexte leur donne lieu de parler à ceux qui les aiment. P. de Cl. Cette femme a le coeur peu tendre : mais en recompense elle à l'esprit fort galant. B. Rab. Une femme galante veut qu'on l'aime ; il suffit à une coquette d'être trouvée aimable, &amp; de passer pour belle : la premiere passe successivement d'un engagement à l'autre ; la seconde a plusieurs amusemens à la fois: ce qui domine dans l'une c'est la passion, &amp; le plaisir ; dans l'autre c'est la vanité, &amp; la legereté. La Br</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>B</orth>
-</form>
-<pc>.</pc>
-<gramGrp>
-<pos>Rab</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
 
 <sense>
-<def>Une femme galante veut qu'on l'aime ; il suffit à une coquette d'être trouvée aimable, &amp; de passer pour belle : la premiere passe successivement d'un engagement à l'autre ; la seconde a plusieurs amusemens à la fois: ce qui domine dans l'une c'est la passion, &amp; le plaisir ; dans l'autre c'est la vanité, &amp; la legereté. La Br</def>
+<def></def>
 </sense>
 <pc>.</pc>
 
@@ -7815,7 +7832,8 @@
 <pc>.</pc>
 <def>Ce sont des pelures de citrons, ou d'oranges tournées</def>
 <pc>.</pc></sense>
-</entry>
+</entry>    
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GALANTERIE</orth>
@@ -8086,24 +8104,8 @@
 <pc>.</pc>
 
 <sense>
-<def>Vaisseau à rames de 25. à 30. bancs de chaque côté : &amp; de quatre, cinq ou six rameurs à chaque banc Elle porte un canon d'une grosseur considerable, qu'on nomme coursier ; deux bâtardes, &amp; deux plus petites pieces avec deux mâts &amp; deux voiles Latines. Les Galeres ont ordinairement 20. à22. toises de longueur, trois de large, &amp; une de profondeur. Elles vont ordinairement terre-à-terre. Quelquefois elles font canal ; c'est-à-dire, traversent la mer. Une Escadre de Galeres. Le General des Galeres porte une double ancre posée en pal derriere l'Ecu de ses armes, pour marque de sa charge. Le Roi entretient 40. Galeres, dont l'arsenal est a Marseille. On disoit autrefois Galée au lieu de Galere. Plus voile au vent ne fera la Galée, Pour trafiquer dessiu la mer salie. Marot. Ces vaisseaux s'appelloient en Latin Biremi, Triremi, Quadriremis, non pas pour avoir deux, trois ou quatre ravgs de rames les unes sur les autres, comme plusieurs sçavans ont pensé, entre autres Scaliger &amp; Snellius, quoyque cettui-ci ait d'ailleurs bien écnit de la Navigation ; car celui seroit impossible : ce n'étoit pas non ples pour n'avoir que deux, trois ou quatre rames ; car cela n'auroit pas eu assez de force : mais parcequ'il y avoit deux, trois ou quatre rameuis attachez à chaque rame, comme les Galeres que nous avons, ainsi que l'a fort bien expliqué le Pere Deschales Jesuite dans son Art de naviger. Cette erreur vient de quelques Galeres anciennes qui sont representées dans des medaille ou dans des bas reliefs avec plusieurs rangs de rameurs les uns sur les autres. Mais tous les Mathematiciens, les Officiers de Marine, les Pilotes &amp; les Architectes de vaisseaux traittent cette vision de ridicule, d'autant que Pline fait mention des vaisseaux qui avoient 15. 20</def>
+<def>Vaisseau à rames de 25. à 30. bancs de chaque côté : &amp; de quatre, cinq ou six rameurs à chaque banc Elle porte un canon d'une grosseur considerable, qu'on nomme coursier ; deux bâtardes, &amp; deux plus petites pieces avec deux mâts &amp; deux voiles Latines. Les Galeres ont ordinairement 20. à22. toises de longueur, trois de large, &amp; une de profondeur. Elles vont ordinairement terre-à-terre. Quelquefois elles font canal ; c'est-à-dire, traversent la mer. Une Escadre de Galeres. Le General des Galeres porte une double ancre posée en pal derriere l'Ecu de ses armes, pour marque de sa charge. Le Roi entretient 40. Galeres, dont l'arsenal est a Marseille. On disoit autrefois Galée au lieu de Galere. Plus voile au vent ne fera la Galée, Pour trafiquer dessiu la mer salie. Marot. Ces vaisseaux s'appelloient en Latin Biremi, Triremi, Quadriremis, non pas pour avoir deux, trois ou quatre ravgs de rames les unes sur les autres, comme plusieurs sçavans ont pensé, entre autres Scaliger &amp; Snellius, quoyque cettui-ci ait d'ailleurs bien écnit de la Navigation ; car celui seroit impossible : ce n'étoit pas non ples pour n'avoir que deux, trois ou quatre rames ; car cela n'auroit pas eu assez de force : mais parcequ'il y avoit deux, trois ou quatre rameuis attachez à chaque rame, comme les Galeres que nous avons, ainsi que l'a fort bien expliqué le Pere Deschales Jesuite dans son Art de naviger. Cette erreur vient de quelques Galeres anciennes qui sont representées dans des medaille ou dans des bas reliefs avec plusieurs rangs de rameurs les uns sur les autres. Mais tous les Mathematiciens, les Officiers de Marine, les Pilotes &amp; les Architectes de vaisseaux traittent cette vision de ridicule, d'autant que Pline fait mention des vaisseaux qui avoient 15. 20. 30. 40. &amp; 50. rangs de rameurs, desorte que s'ils avoient été les uns au dessus des autres, quand il n'aroit fallu que quatre pieds pour chaque pont, il auroit fallu 160. pieds de distance entre les plus bas rameurs &amp; les plus hauts : cependant le plus haut navire n'a jamais été que de 53. coudées, qui ne font que 72. pieds de haut. Scaliger dit que la premiere Galere à trois étages, qu'il appelle Triremis, fut fabriquée à Corinthe, &amp; croit que ce que Pline appelle Navires longs, étoit ce que nous appellons Galeasses, dont la premiere fut des Argonautes. Vegece parle d'une Galere de cinq étages ; &amp; Memnon fait mention d'une autre qui avoit jusqu'à huit ponts, &amp; qui n'avoit qu'un rameur à chaque rame</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>30</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>40</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>&amp; 50. rangs de rameurs, desorte que s'ils avoient été les uns au dessus des autres, quand il n'aroit fallu que quatre pieds pour chaque pont, il auroit fallu 160. pieds de distance entre les plus bas rameurs &amp; les plus hauts : cependant le plus haut navire n'a jamais été que de 53. coudées, qui ne font que 72. pieds de haut. Scaliger dit que la premiere Galere à trois étages, qu'il appelle Triremis, fut fabriquée à Corinthe, &amp; croit que ce que Pline appelle Navires longs, étoit ce que nous appellons Galeasses, dont la premiere fut des Argonautes. Vegece parle d'une Galere de cinq étages ; &amp; Memnon fait mention d'une autre qui avoit jusqu'à huit ponts, &amp; qui n'avoit qu'un rameur à chaque rame</def>
-</sense>
-<pc>.</pc>
 
 <etym>
 <lbl>Ce mot vient du</lbl>
@@ -8135,10 +8137,8 @@
 <pc>.</pc>
 
 <re><form>Galere Capitainesse</form>
-<form>.</form>
-<form>C'e</form>
-<pc>s</pc>
-<def>t ainsi que s'appelle la Galere ù est le Commandant. Condamnation aux Galeres. Peine qu'on impose aux criminels ; c'est de servir de forçât sur les Galeres du Roi, ou à perpetuité, ou pour un temps fixe, &amp; limité. La condamnation aux Galeres à perpetuité emporte la confiscation dans les Provinces où la confiscation a lieu. Les Officiaux, ni les Cours Ecclesiastiques ne peuvent prononcer une condamnation aux Galeres. Cela n'est pas de leur ressort. La condamnation aux Galeres par contumace, est seulement écrite sur un tableau, sans aucune effigie</def>
+<pc>.</pc>
+<def>C'est ainsi que s'appelle la Galere ù est le Commandant. Condamnation aux Galeres. Peine qu'on impose aux criminels ; c'est de servir de forçât sur les Galeres du Roi, ou à perpetuité, ou pour un temps fixe, &amp; limité. La condamnation aux Galeres à perpetuité emporte la confiscation dans les Provinces où la confiscation a lieu. Les Officiaux, ni les Cours Ecclesiastiques ne peuvent prononcer une condamnation aux Galeres. Cela n'est pas de leur ressort. La condamnation aux Galeres par contumace, est seulement écrite sur un tableau, sans aucune effigie</def>
 </re>
 <pc>.</pc>
 
@@ -8153,6 +8153,7 @@
 <def>On dit proverbialement, Vogue la Galere ; pour dire, Mettre les choses au hasard, n'en considerer point l'évenement. On dit aussi, J'aimerois autant être en Galere, ou tirer la rame ; pour dire, Je suis miserable, je souffre beaucoup</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GALERIE</orth>
@@ -8219,7 +8220,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>GALFRIEN</orth>
+<orth>GALERIEN</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -8235,7 +8236,7 @@
 </sense>
 <pc>.</pc>
 
-<re><form>GaLFRNE</form>
+<re><form>GaLERNE</form>
 <form>.</form>
 <form>s. f</form>
 <form>.</form>
@@ -9182,12 +9183,22 @@
 <sense>
 <usg>Terme de Medecine</usg>
 <pc>.</pc>
-<def>C'est une tumeur inegale qui se forme sur les nerfs, &amp; sur les cendons, &amp; qui est sans douleur &amp; sans changement de couleur. La cause du ganglion est la trop grande distension des pores de ces parties, ou leur trop grande compression, ou leur dechirement, ce qui donne lieu au suc nutritif de s'y arrêter, de s'y épaissir, &amp; de produire cette sorte de tumeurs. Pour resoudre les ganglions on se sert ordinairement d'une plaque de plomb enduite de mercure, ou bien de la gomme ammoniac, ou de l'emplâtre de Vigo avec le mercure. GAnGrENE. Prononcez CANGRENE</def>
+<def>C'est une tumeur inegale qui se forme sur les nerfs, &amp; sur les cendons, &amp; qui est sans douleur &amp; sans changement de couleur. La cause du ganglion est la trop grande distension des pores de ces parties, ou leur trop grande compression, ou leur dechirement, ce qui donne lieu au suc nutritif de s'y arrêter, de s'y épaissir, &amp; de produire cette sorte de tumeurs. Pour resoudre les ganglions on se sert ordinairement d'une plaque de plomb enduite de mercure, ou bien de la gomme ammoniac, ou de l'emplâtre de Vigo avec le mercure</def>
 </sense>
 <pc>.</pc>
+</entry>
+              
+<entry>
+<form type="lemmaGrp">    
+<form type="lemma">
+<orth>GAnGrENE</orth>
+</form>
+<pron>Prononcez CANGRENE Men. Corn</pron>    
+</form>
+<pc>.</pc>
 
-<sense>
-<def>Men. Corn. s. f. Maladie qui vient dans les chairs, qui les corrompt, &amp; qui gagne les parties voisines, qu'on ne peut guerir que par l'amputation du membre pourri. On a observe par le microscope, que la gangrene consistoit en un nombre infini de petits vers qui naissent de la chair morte, &amp; qui en produisent sans cesse d'autres qui corrompent les parties voisines. Quelques-uns tiennent qu'on la peut guerir en arrousant continuellement la partie d'esprit de vin. Ce m, selon quelques-uns, vient du mot Paphlagonien gangra, qui signifie, chevre. Le propre de la chevre c'est de brouter l'herbe qui est tout autour d'elle avec grande vitesse &amp; sans s'arrêter. La gangrene gagne bientôt les parties voisines, si l'on n'y apport du remede. Il est plus sur de tirer ce mot du verbe Grec gras, graino, manduco, absumo, je mange, je consomme</def>
+<sense>  
+<def>Maladie qui vient dans les chairs, qui les corrompt, &amp; qui gagne les parties voisines, qu'on ne peut guerir que par l'amputation du membre pourri. On a observe par le microscope, que la gangrene consistoit en un nombre infini de petits vers qui naissent de la chair morte, &amp; qui en produisent sans cesse d'autres qui corrompent les parties voisines. Quelques-uns tiennent qu'on la peut guerir en arrousant continuellement la partie d'esprit de vin. Ce m, selon quelques-uns, vient du mot Paphlagonien gangra, qui signifie, chevre. Le propre de la chevre c'est de brouter l'herbe qui est tout autour d'elle avec grande vitesse &amp; sans s'arrêter. La gangrene gagne bientôt les parties voisines, si l'on n'y apport du remede. Il est plus sur de tirer ce mot du verbe Grec gras, graino, manduco, absumo, je mange, je consomme</def>
 </sense>
 <pc>.</pc>
 
@@ -9197,23 +9208,37 @@
 <def>se dit figurément en choses spirituelles des erreurs, &amp; des mauvaises doctrines ; comme aussi des desordres contagieux, des semences de division dans un Etat. Un mauvais citoyen est un membre pourri qu'il faut retrancher, de peur que cette gangrene ne gagne le corps de l'Etat. C'est fait des loix, si pour arrêter cette cangrene, vous n'employez le fer &amp; le feu. Pat</def>
 </sense>
 <pc>.</pc>
+</entry>
 
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">GANGrEnER</form>
+<pc>,</pc>
+<form type="variant">ou CanGrEner</form>
+<pc>,</pc>
+<usg>&amp; ce dernier est le plus usité</usg>    
+<pc>.</pc>
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>n</subc>
+<pc>.</pc>
+</gramGrp>
+</form>
+    
 <sense>
-<def>GANGrEnER, ou CanGrEner, &amp; ce dernier est le plus usité. v. n. Etre atteint de gangrene. Les playes qui sont faites par des armes à feu sont sujettes à se gangrener</def>
+<def>Etre atteint de gangrene. Les playes qui sont faites par des armes à feu sont sujettes à se gangrener</def>
 </sense>
 <pc>.</pc>
 
 <re><form>Gangrené, ée</form>
-<form>.</form>
-<form>part</form>
 <pc>.</pc>
-<gramGrp>pass. &amp; adj</gramGrp>
+<gramGrp>part. pass. &amp; adj</gramGrp>
 <form>.</form>
-<form>On dit figurément</form>
-<pc>,</pc>
-<def>qu'un homme a la conscience gangrenée ; pour dire, qu'elle est corrompue &amp; disposée à faire toute sorte de mal</def>
+<def>On dit figurément, qu'un homme a la conscience gangrenée ; pour dire, qu'elle est corrompue &amp; disposée à faire toute sorte de mal</def>
 <pc>.</pc></re>
 </entry>
+              
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GANGUE</orth>
@@ -9495,9 +9520,15 @@
 <xr><lbl>Voyez</lbl>
 <ref>Garenne</ref>
 <pc>.</pc>
-<ref>GaRANT</ref>
-<lbl>.</lbl>
-<ref>Voyez</ref>
+</xr>
+</entry>
+
+<entry>
+<form type="lemma">
+<orth>GaRANT</orth>
+</form>
+<pc>.</pc>
+<xr><lbl>Voyez</lbl>
 <ref>Garent</ref>
 <pc>.</pc></xr>
 </entry>
@@ -10818,40 +10849,8 @@
 <sense>
 <usg>Terme de Guerre</usg>
 <pc>.</pc>
-<def>C'est une enveloppe, ou rouleau pour mettre la charge d'un canon par mesure. Il y en a de toile, de carton, &amp; de gros papier. On les appelle autrement cartouches,</def>
+<def>C'est une enveloppe, ou rouleau pour mettre la charge d'un canon par mesure. Il y en a de toile, de carton, &amp; de gros papier. On les appelle autrement cartouches, ou gargouches. On dit des gargousses de 4. de 6. de 8. de 12. de 18. de 24. &amp; de 36. selon le calibre des canons qu'on veut charger</def>
 </sense>
-<form type="lemmaGrp">
-<form type="variant">
-<orth>ou gargouches. On dit des gargousses de 4</orth>
-</form>
-<pc>.</pc>
-<form type="inflected">
-<orth type="part">de 6</orth>
-</form>
-<pc>.</pc>
-<form type="inflected">
-<orth type="part">de 8</orth>
-</form>
-<pc>.</pc>
-<form type="inflected">
-<orth type="part">de 12</orth>
-</form>
-<pc>.</pc>
-<form type="inflected">
-<orth type="part">de 18</orth>
-</form>
-<pc>.</pc>
-<form type="inflected">
-<orth type="part">de 24</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<re><form>&amp; de 36</form>
-<form>.</form>
-<form>selon le</form>
-<def>calibre des canons qu'on veut charger</def>
-<pc>.</pc></re>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -11401,7 +11400,7 @@
 </form>
 <pc>,</pc>
 <form type="variant">
-<orth>eu GACHER</orth>
+<orth>ou GACHER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -11427,17 +11426,63 @@
 <sense>
 <form>Gascher</form>
 <pc>,</pc>
-<def>signifie aussi, Remuer la rame, se servir de laviron, ou gâche. Ce met, selon Nicod, vient de l'Allemand asser, qui signifie eam, parcequ'on bar l'eau avec la gâche oa l'aviron. GAschetTE, u GachettE. Peite piece d'une seure qui se met sous le pêne</def>
+<def>signifie aussi, Remuer la rame, se servir de laviron, ou gâche. Ce met, selon Nicod, vient de l'Allemand asser, qui signifie eam, parcequ'on bar l'eau avec la gâche oa l'aviron</def>
 </sense>
 <pc>.</pc>
-
-<re><form>GASCHEUX, ou GachEux</form>
-<form>,</form>
-<form>eus</form>
-<pc>.</pc>
-<def>Lleu boücux, ou rempli d'une bout liquide qui donne de la peine à marcher. Chemin gâcheux. Terres gâcheaGASCHIERES, ou GACHIERES. s.f. Vieux mot qui signifioit des terres nouvelles defrichées &amp; labourees, &amp; non semées, qu'on nomme maintenant novales, en Latin, gascaria. Du Cange</def>
-<pc>.</pc></re>
 </entry>
+    
+<entry>
+<form type="lemma">
+<orth>GAschetTE</orth>
+</form>
+<pc>,</pc>
+<form type="variant">ou GachettE</form>
+<pc>.</pc>  
+
+<sense>
+<def>Peite piece d'une seure qui se met sous le pêne</def>
+</sense>
+<pc>.</pc>
+</entry>
+    
+<entry>
+<form type="lemma">
+<orth>GASCHEUX</orth>
+<pc>,</pc>
+<form type="variant">ou GachEux</form>
+<pc>,</pc>
+<form type="inflected">euse</form>
+<pc>.</pc>
+</form>
+    
+<sense>
+<def>Lieu boücux, ou rempli d'une bout liquide qui donne de la peine à marcher. Chemin gâcheux. Terres gâchea</def>
+<pc>.</pc>
+</sense>
+</entry>
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>GASCHIERES</orth>
+</form>
+<pc>,</pc>
+<form type="variant">
+<orth>ou GACHIERES</orth>
+</form>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>f</gen>
+<pc>.</pc>
+</gramGrp>
+</form>
+    
+<sense>
+<def>Vieux mot qui signifioit des terres nouvelles defrichées &amp; labourees, &amp; non semées, qu'on nomme maintenant novales, en Latin, gascaria. Du Cange</def>
+</sense>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GASCHIS</orth>
@@ -11809,16 +11854,9 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>GASTE</orth>
+    <orth>GASTE-MESTIER</orth>
 </form>
-</form>
-<pc>-</pc>
-
-<sense>
-<def>MESTIER,ouGATE-METIER</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
+<form type="variant">ouGATE-METIER</form>
 <gramGrp>
 <pos>s</pos>
 <pc>.</pc>
@@ -11831,6 +11869,7 @@
 <def>est un ouvrier trop facile, &amp; qui donne sa peine à trop bon marché. Gà e pâte, Gâte plâtre, Gâte-ois, Gâte cuirs, se dit des compagnons ignorans qui gâtent les matieres qu'ils employent ; &amp; sur tout un Gâte-papier se dit d'un mauvais Auteur</def>
 <pc>.</pc></sense>
 </entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GASTEUR</orth>
@@ -12422,14 +12461,16 @@
 <usg>Il est bas</usg>
 </sense>
 <pc>.</pc>
-
-<sense>
-<form>GAVitEAU</form>
+</entry>
+    
+<entry>
+<form type="lemma">GAVitEAU</form>
 <pc>,</pc>
 <usg>est un terme de Marine</usg>
-<etym>qui se dit sur les côtes de Provence, &amp; qui signifie la même chose que bouée sur les côtes de l'Ocean</etym>
-<pc>.</pc></sense>
+<def>qui se dit sur les côtes de Provence, &amp; qui signifie la même chose que bouée sur les côtes de l'Ocean</def>
+<pc>.</pc>
 </entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GAULE</orth>
@@ -12707,16 +12748,17 @@
 
 <sense>
 <def>Celui qui se gausse. Ces mots viennent de gaudere ou de gavisare. On disoit autrefois en France gaudir ; pour dire, se rejouir. Quelques-uns les derivent plus à-propos de godissal, qui en langage Celtique ou Bas-Breton signine se moquer.
-    </def>
-    </sense>
-    </entry>
-    <entry>
-        <form type="lemmaGRp">
-            <form type="lemma">GAUTIER GARGUILLE</form>
-            <pc>.</pc>
-        </form> 
-        <sense>
-            <def>C'est le nom d'un fameux Baladin : d'où est venue cette façon de parler ; C'est un franc Gautier Garguille ; pour dire, un franc sot, un franc badin</def>
+</def>
+</sense>
+</entry>
+<entry>
+<form type="lemmaGRp">
+<form type="lemma">
+<orth>GAUTIER GARGUILLE</orth></form>
+<pc>.</pc>
+</form> 
+<sense>
+<def>C'est le nom d'un fameux Baladin : d'où est venue cette façon de parler ; C'est un franc Gautier Garguille ; pour dire, un franc sot, un franc badin</def>
 <pc>.</pc></sense>
 </entry>
 </div>
@@ -12987,10 +13029,28 @@
 <pc>.</pc>
 <etym>Quelques-uns derivent ce mot de gazà, parcequ'autrefois sa signification étoit plus étenduë, &amp; signifioit un pré entier, une vigne, un heritage ; &amp; on a pris depuis la partie pour le tout. Borel le derive d'un mot Persan gazen</etym>
 <pc>,</pc>
-<def>qui signifie richesse. Du Cange de iaso mot de la basse Latinité signifiant la même chose. GAZONNEMmENT. s. m. L'action de garonner. Emploi qu'on fait de garons pour quelque ouvrage. Faciliter le gazonnement de la demi-lune</def>
+<gloss>qui signifie richesse. Du Cange de iaso mot de la basse Latinité signifiant la même chose</gloss>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+<form type="lemmaGrp">
+    <orth>GAZONNEMmENT</orth>
+<gramGrp>
+<pc>.</pc>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m</gen>
+<pc>.</pc>
+</gramGrp>
+</form>
+    
+<sense>
+<def>L'action de garonner. Emploi qu'on fait de garons pour quelque ouvrage. Faciliter le gazonnement de la demi-lune</def>
+</sense>    
+<pc>.</pc>
+</entry>
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GAZONNER</orth>
 </form>
@@ -13201,6 +13261,9 @@
 <lang>Latin</lang>
 <foreign>gemere, ou gemitare</foreign>
 </etym>
+</entry>
+              
+<entry>              
 <form type="lemmaGrp">
 <pc>.</pc>
 <form type="inflected">
@@ -13689,60 +13752,28 @@
 <def>Qui ne s'employe qu'avec le pronom personnel, &amp; signifie, Se fâcher, se piquer, se mettre en peine de quelque chose, s'en effrayer. Il ne faut pas se gendarmer mal à propos. Il y a à parier que celles qui se gendarment tant, &amp; qui font si fort les farouches, ne sont pas les plus modestes. Bell. Pour être sages il n'est pas besoin d'ensevelir ses charmes, ni de se gendarmer parcequ'on nous trouve belles. M. Sc. Est-c qu'au simple aveu d'un amoureux trasport, Il faut que nô re honneur se gendarme si fort ? Mol</def>
 </sense>
 <pc>.</pc>
-
-<re><form>GENDaRERIE</form>
-<form>.</form>
-<form>s. f</form>
-<form>.</form>
-<form>Est la Cavalerie</form>
-<pc>,</pc>
-<def>&amp; particulierement celle de la Maison du Roi. La Gendarmerie est composée, 1. Des Gendarmes Ecossois</def>
-<pc>.</pc></re>
 </entry>
-<entry><form type="lemmaGrp">
+    
+<entry>
+<form type="lemmaGrp">
 <form type="lemma">
-<orth>2</orth>
-</form>
+<orth>GENDaRMERIE</orth>
 </form>
 <pc>.</pc>
-
-<sense>
-<def>Des Gendarmes Anglois. 3. Des Gendarmes Bourguignons. 4. Des Gendarmes Flamans. 5. Des Gendarmes de la Reine. 6. Des Chevaux-legers de la Reine. Des Gendarmes de Monseigneur le Dauphin</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>S</orth>
-</form>
-</form>
+<gramGrp>
+<pos>s</pos>
 <pc>.</pc>
-
-<sense>
-<def>Des Chevaux-legers de Monseigneur le Dauphin</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>9</orth>
-</form>
-</form>
+<gen>f</gen>
+</gramGrp>
 <pc>.</pc>
+</form>
 
 <sense>
-<def>Ds Gendarmes de Bourgogne. 10. Des Chevauxlegers de Bourgogne. 11. Des Gendarmes d'Anjou. 12. Des Chevaux-legers d'Anjou. 13. Des Gendarmes de Berry. 14. Ds Chevaur -legers de Berry</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>15</orth>
-</form>
-</form>
+    <def>Est la Cavalerie, &amp; particulierement celle de la Maison du Roi. La Gendarmerie est composée, 1. Des Gendarmes Ecossois 2. Des Gendarmes Anglois. 3. Des Gendarmes Bourguignons. 4. Des Gendarmes Flamans. 5. Des Gendarmes de la Reine. 6. Des Chevaux-legers de la Reine. Des Gendarmes de Monseigneur le Dauphin. 8. Des Chevaux-legers de Monseigneur le Dauphin. 9. Des Gendarmes de Bourgogne. 10. Des Chevauxlegers de Bourgogne. 11. Des Gendarmes d'Anjou. 12. Des Chevaux-legers d'Anjou. 13. Des Gendarmes de Berry. 14. Ds Chevaur -legers de Berry. 15. Des Gendarmes d'Orleans. 15. Des Chevauxlegers d'Orleans. Chique Compagnie de Gendarmes, ou de Chevaux-legers est de 70. Gendarmes, ou Chevaux-legers. Il y a d'ailleurs une Compagnie de Gendarmes de la Garde du Roi. Elle est de 240. Maitres. On distingue la grande &amp; la petite Gendarmerie : Les Gendarmes du Roi, les Gendarmes de la Reine, les hevaux-legers de la Garde, &amp;c. sont de la grande Gendarmerie. Officier, Tresorier de la Gendarmerie</def>
 <pc>.</pc>
-
-<sense>
-<def>Des Gendarmes d'Orleans. 15. Des Chevauxlegers d'Orleans. Chique Compagnie de Gendarmes, ou de Chevaux-legers est de 70. Gendarmes, ou Chevaux-legers. Il y a d'ailleurs une Compagnie de Gendarmes de la Garde du Roi. Elle est de 240. Maitres. On distingue la grande &amp; la petite Gendarmerie : Les Gendarmes du Roi, les Gendarmes de la Reine, les hevaux-legers de la Garde, &amp;c. sont de la grande Gendarmerie. Officier, Tresorier de la Gendarmerie</def>
-<pc>.</pc></sense>
+</sense>
 </entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GENDRE</orth>
@@ -13757,23 +13788,13 @@
 <pc>.</pc>
 
 <sense>
-<def>Terme relatif. Beau-fils, celui qui a épousé la fille d'un autre, qui à son égard s'appelle beau-pere, ou belle-mere</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>A</orth>
-</form>
-<form type="variant">
-<orth>quel sujet aller avec tout vôtre bien, Choisir un gendre gueux ? Mol</orth>
-</form>
-</form>
+<def>Terme relatif. Beau-fils, celui qui a épousé la fille d'un autre, qui à son égard s'appelle beau-pere, ou belle-mere. A quel sujet aller avec tout vôtre bien, Choisir un gendre gueux ? Mol</def>
 <pc>.</pc>
-
-<sense>
-<def>On dit proverbialement, que quand nôtre fille est mariée, nous trouvons trop de gendres ; pour dire, que nous ne trouvons que trop facilement les choses dont nous n'avons plus que faire. On dit aussi, Faire d'une fille deux gendres ; pour dire, Promettre une chose à deux personnes</def>
-<pc>.</pc></sense>
+<note>On dit proverbialement, que quand nôtre fille est mariée, nous trouvons trop de gendres ; pour dire, que nous ne trouvons que trop facilement les choses dont nous n'avons plus que faire. On dit aussi, Faire d'une fille deux gendres ; pour dire, Promettre une chose à deux personnes</note>
+</sense>
+<pc>.</pc>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GENEALOGIE</orth>
@@ -15708,10 +15729,23 @@
 <def>se dit aussi du bois, lorsqu'il se fend, quand il se dejette ; des murs &amp; des metaux, lorsqu'il s'y fait des crevasses. L'enduit qui est exposé à l'air, se sechant plutôt que le dedans du mur, se gerce. Vitruve</def>
 </sense>
 <pc>.</pc>
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>GERcURE</orth></form>
+<pc>,</pc>
+<form type="variant">ou GErRSURE</form>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>f</gen>
+<pc>.</pc>
+</gramGrp>
+</form>    
 
 <sense>
-<form>GERcURE, ou GErRSURE. s. f</form>
-<pc>.</pc>
 <def>Crevase qui se fait sur la peau par le froid, ou autre cause. La gerçure se guerit avec de la pommade, du suif de chandelle</def>
 </sense>
 <pc>.</pc>
@@ -15840,7 +15874,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>GERER</orth>
+<orth>GERMER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -16070,7 +16104,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>GHSNE</orth>
+<orth>GESNE</orth>
 </form>
 <pc>,</pc>
 <form type="variant">
@@ -17229,7 +17263,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>GIOUETTE</orth>
+<orth>GIROUETTE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -17634,9 +17668,10 @@
 <def>se dit des pierreries qui ne sont pas tout-à-fait nettes, mais qui ont une espece de petit nuage qui les brouille, &amp; qui empêche qu'elles ne soient tout-à-fait dia</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AL</orth>
+<orth>GLACIAL</orth>
 </form>
 <pc>,</pc>
 <form type="inflected">
@@ -17684,19 +17719,8 @@
 <pc>.</pc>
 
 <sense>
-<def>Pente douce &amp; insensible. Les allées de ce jardin sont en glacis. La pente du glacis est plus douce que celle du talut. Il y a des glacis degauchis qui sont talus dans leur commencement, &amp; glacis vers leur extrephanes</def>
+    <def>Pente douce &amp; insensible. Les allées de ce jardin sont en glacis. La pente du glacis est plus douce que celle du talut. Il y a des glacis degauchis qui sont talus dans leur commencement, &amp; glacis vers leur extremité, pour raccorder les differens niveaux de pente de deux allées paralleles. Glacis de corniche, est une pente peu sensible sur la cimaise d'une corniche, pour faciliter l'écoulement des eaux de pluye</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>extremité</orth>
-</form>
-</form>
-<re><form>,</form>
-<form>pour</form>
-<def>raccorder les differens niveaux de pente de deux allées paralleles. Glacis de corniche, est une pente peu sensible sur la cimaise d'une corniche, pour faciliter l'écoulement des eaux de pluye</def>
-</re>
-<pc>.</pc>
 
 <sense>
 <usg>En termes de Fortification</usg>
@@ -17704,6 +17728,7 @@
 <def>le glacus, ou autrement l'esplanade est le parapet du corridor, dont la hauteur de six à sept pieds se perd dans la campagne par une pente insensible dans la longueur d'environ dix toises. Glacis. Les Tailleurs se servent aussi de ce mot, &amp; signifie un rang de points pour faire tenir la doublure en état avec l'étoffe. Passer un glaciu</def>
 <pc>.</pc></sense>
 </entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GLACON</orth>
@@ -18572,21 +18597,10 @@
 <pc>.</pc>
 
 <sense>
-<def>Corps spheriqe ; corps tout rond ; corps solide compris sous une seule superficie, qui a un point dans le centre, d'où si l'on tire de lignes à ses extremitez, elles sont égales. La terre &amp; l'eau ne sont qu'un globe. Les Planetes sont des globes solides, si on</def>
-</sense>
-</entry>
-          <entry><form type="lemmaGrp">
-<form type="inflected">
-<orth type="part">excepte le soleil</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Le globe du monde roule sur son axe, dont les extremitez sont les deux poles. On ne peut sans admiration contempler tous ces plobes celestes, ces corps effroyables qui sont en marche ; ils ne s'embarrassent point l'un l'autre ; ils ne se choquent, ils ne se derangent point : tous au contraire demeurent dans l'ordre qui leur est prescrit, &amp; suivent la route qui leur est marquée. Est-ce par hasard qu'ils observent des regles si invariables ? La Br</def>
+    <def>Corps spheriqe ; corps tout rond ; corps solide compris sous une seule superficie, qui a un point dans le centre, d'où si l'on tire de lignes à ses extremitez, elles sont égales. La terre &amp; l'eau ne sont qu'un globe. Les Planetes sont des globes solides, si on excepte le soleil. Le globe du monde roule sur son axe, dont les extremitez sont les deux poles. On ne peut sans admiration contempler tous ces plobes celestes, ces corps effroyables qui sont en marche ; ils ne s'embarrassent point l'un l'autre ; ils ne se choquent, ils ne se derangent point : tous au contraire demeurent dans l'ordre qui leur est prescrit, &amp; suivent la route qui leur est marquée. Est-ce par hasard qu'ils observent des regles si invariables ? La Br</def>
 </sense>
 <pc>.</pc>
-
+     
 <etym>
 <lbl>Ce mot vient du</lbl>
 <lang>Latin</lang>
@@ -18612,6 +18626,7 @@
 <def>se dit de toutes sortes de corps où l'on a enfermé de la poudre, pour faire des feux artisiciels de quelque figure &amp; qualité qu'ils soient. On a vu même dans les magasins du Comte d'Oldembourg des grenades anciennes de forme cubique ou parallelopipede. Voyez Casimir en sa Pyrotechnie</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GLOBULAIRE</orth>
@@ -19261,17 +19276,25 @@
 <def>se dit figurément de tout ce qui prend, ou peut attacher quelcun : temoins ces vers de Scarron t Ce n'est que maroquin perdu, Que les livres que l'on dedie, Depuis que Montauron mendie ; Montauron dont le quart d'Ecu S'attrapoit si bien à la glu De l'ode, &amp; de la Comedie</def>
 </sense>
 <pc>.</pc>
-
-<re><form>GlUANT</form>
+</entry>
+    
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>GlUANT</orth></form>
 <pc>,</pc>
-<gramGrp>ante</gramGrp>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Ce qui e</form>
-<def>st visqueux &amp; tenace, qui s'attache aux mains, aux habits. La poix, la gomme, sont choses gluantes. Les limaçons ont une bave gluante, avec quoy ils s'attachent aux arbres, aux murailles</def>
-</re>
+<form type="inflected">ante</form>
+<gramGrp>
+<pos>adj</pos>
+</gramGrp>
 <pc>.</pc>
+</form>
+
+<sense>
+<def>Ce qui est visqueux &amp; tenace, qui s'attache aux mains, aux habits. La poix, la gomme, sont choses gluantes. Les limaçons ont une bave gluante, avec quoy ils s'attachent aux arbres, aux murailles</def>
+</sense>
+<pc>.</pc>    
 
 <sense>
 <form>Gluant</form>
@@ -19473,14 +19496,7 @@
 <form type="lemma">
 <orth>GNOMONIQUE</orth>
 </form>
-</form>
-<re><form>, ou HORLOGiOG rA</form>
-<pc>.</pc></re>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>PHIE</orth>
-</form>
+<form type="variant">, ou HORLOGiOGRAPHIE</form>
 <pc>.</pc>
 <gramGrp>
 <pos>s</pos>
@@ -20041,7 +20057,7 @@
 <div><head>GOF<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>GOPRE</orth>
+<orth>GOFRE</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -20122,7 +20138,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AGOGO</orth>
+<orth>A GO GO</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -20322,32 +20338,28 @@
 <def>Repas ou debauche de goinfre. Je tâche à me ressouvenir de vos importantes leçons de goinfrerie. Main</def>
 </sense>
 <pc>.</pc>
-
-<re><form>GoitrE</form>
-<form>,</form>
-<form>GOUETRON, ou GOUE</form>
-</re>
-<form type="lemmaGrp">
+</entry>
+    
+<entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>TRE</orth>
-</form>
-<pc>.</pc>
+<orth>GOITRE</orth></form>
+<pc>,</pc>
+<form type="variant">GOUETRON</form>
+<pc>,</pc>
+<form type="variant">ou GOUETRE</form>
 <gramGrp>
 <pos>s</pos>
 <pc>.</pc>
-<gen>f</gen>
+    <gen>f. Quelques-uns le font masculin</gen>
 <pc>.</pc>
-<number>Quelques-uns le</number>
-<gen>font</gen>
-<gen>masculin</gen>
 </gramGrp>
 </form>
-<pc>.</pc>
-
+    
 <sense>
 <def>Enflure fort grosse qui vient à la gorge. Les habitans des Alpes sont sujets aux goitres, à cause des neiges fonduës qui rendent les eaux qu'ils boivent mal saines. On l'appelle en Medecine bronchocele, &amp; chez les Latins hernia gutturbs</def>
-<pc>.</pc></sense>
+</sense>
 </entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GOITREUX</orth>
@@ -20501,23 +20513,12 @@
 <pc>,</pc>
 <gloss>qui signifie la même chose</gloss>
 <pc>.</pc>
-<gloss>Gomme Arabique, est une gomme qui sort d'un arbre qui croît en Egypte, &amp; qui est une espece de cassie appellée en Latin, acacia folis scorpioidis leguminosa</gloss>
-<pc>.</pc></etym>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>C</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>B</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Cette gomme est claire, gluante à la bouche, d'un goût presque insipide, de couleur blanche, entortillée en forme de ver. Elle est propre pour incrasser, pour boucher les pores, pour émousser la pointe &amp; l'acrimonie des medicamens trop violens, &amp; pour adoucir l'âprété de la trachée artere, &amp; la toux. Gomme-gutte, ou Gutte gomme, est une gomme resineuse qu'on apporte des Indes en morceaux assez gros, figurez le plus souvent en saucissons, durs, mais cassans, extremement jaunes ; elle vient de Siam, &amp; de la Province appellée Cambodia voisine du Royaume de la Chine : les Indiens l'appellent par cette raison lonan Cambodia. Elle sort par incision d'une espece d'arbrisseau épineux, rameux, rampant sur les arbres voisins. Son tronc est plus gros que le bras. Les Indiens y font des incisions par lesquelles il sort un suc liquide qui s'épaissit en peu de temps au soleil. La gomme-gutte purge violemment par haut &amp; par bas les humeurs sereuses : on s'en sert dans l'hydropisie, dans la gale &amp; dans les demangeaisons. C'est un remede dangereux. On en fait aussi une couleur jaune qui sert à peindre en miniature. Elle est autrement appellée gutta-gemou ou gutta-gamba. Gomme resine, est un suc concret qui decoule de certains arbres, &amp; qui tient de la nature de la gomme, &amp; de la resine : elle se dissout dans les liqueurs aqueuses comme les gommes, &amp; dans les oleagineuses, comme les resines, telles sont le mastic, le camphre, le storax</def>
-</sense>
+</etym>
+    
+<re><form>Gomme Arabique</form>
+<pc>,</pc>
+<def>est une gomme qui sort d'un arbre qui croît en Egypte, &amp; qui est une espece de cassie appellée en Latin, acacia folis scorpioidis leguminosa. C. B. Cette gomme est claire, gluante à la bouche, d'un goût presque insipide, de couleur blanche, entortillée en forme de ver. Elle est propre pour incrasser, pour boucher les pores, pour émousser la pointe &amp; l'acrimonie des medicamens trop violens, &amp; pour adoucir l'âprété de la trachée artere, &amp; la toux. Gomme-gutte, ou Gutte gomme, est une gomme resineuse qu'on apporte des Indes en morceaux assez gros, figurez le plus souvent en saucissons, durs, mais cassans, extremement jaunes ; elle vient de Siam, &amp; de la Province appellée Cambodia voisine du Royaume de la Chine : les Indiens l'appellent par cette raison lonan Cambodia. Elle sort par incision d'une espece d'arbrisseau épineux, rameux, rampant sur les arbres voisins. Son tronc est plus gros que le bras. Les Indiens y font des incisions par lesquelles il sort un suc liquide qui s'épaissit en peu de temps au soleil. La gomme-gutte purge violemment par haut &amp; par bas les humeurs sereuses : on s'en sert dans l'hydropisie, dans la gale &amp; dans les demangeaisons. C'est un remede dangereux. On en fait aussi une couleur jaune qui sert à peindre en miniature. Elle est autrement appellée gutta-gemou ou gutta-gamba. Gomme resine, est un suc concret qui decoule de certains arbres, &amp; qui tient de la nature de la gomme, &amp; de la resine : elle se dissout dans les liqueurs aqueuses comme les gommes, &amp; dans les oleagineuses, comme les resines, telles sont le mastic, le camphre, le storax</def>
+</re>
 <pc>.</pc>
 
 <re><form>Gomme-resine irreguliere</form>
@@ -20763,7 +20764,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>GONFLEENT</orth>
+<orth>GONFLEMENT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -21523,11 +21524,31 @@
 <pc>.</pc>
 
 <sense>
-<def>On appelle aussi gouffre, un grand dissipateur de biens. On ne sçauroit fournir assez d'argent à ce debauché, c'est un gouffre. GOUGe. L'Academie écrit GOUJE. s. f. Terme injurieux qu'on dit aux femmes de neant qu'on veut accuser de debauche, comme si elles s'addonnoient à des goujats : car originairement il signifie garce de soldats. C'est une franche gouge. Scar</def>
+<def>On appelle aussi gouffre, un grand dissipateur de biens. On ne sçauroit fournir assez d'argent à ce debauché, c'est un gouffre</def>
 <pc>.</pc>
-<usg>Ce mot est bas</usg>
+</sense>
+</entry>
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>GOUGe</orth>
+</form>
 <pc>.</pc>
-<def>Borel dit qu'en Languedoc gouge signifie simplement une servante</def>
+<form type="variant"><lbl>L'Academie écrit</lbl>
+<orth>GOUJE</orth></form>
+<gramGrp>
+<pc>.</pc>
+<pos>s</pos>
+<pc>.</pc>
+<gen>f</gen>
+<pc>.</pc>
+</gramGrp>
+</form>
+
+<sense>
+<usg>Ce mot est bas. Terme injurieux</usg>
+<def> qu'on dit aux femmes de neant qu'on veut accuser de debauche, comme si elles s'addonnoient à des goujats : car originairement il signifie garce de soldats. C'est une franche gouge. Scar. Borel dit qu'en Languedoc gouge signifie simplement une servante</def>
 </sense>
 <pc>.</pc>
 
@@ -21778,7 +21799,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>COULUMENT</orth>
+<orth>GOULUMENT</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -22657,10 +22678,26 @@
 <pc>.</pc>
 
 <sense>
-<def>On dit aussi, mais bassement, que les salines engendrent la goutte ; pour dire, qu'elles font boire beaucoup, &amp; jusqu'à la derniere GOUTTELETTE. s. f. Ce mot est peu en usage. Il signifie, Petite goutte. La rosée se forme de plusieurs gouttelettes d'eau. Ce jet d'eanu retombe en plufieurs gouttelettes que le vent porte hors du bassin. On les appelle aussi, le pulverin de l'eau</def>
+<def>On dit aussi, mais bassement, que les salines engendrent la goutte ; pour dire, qu'elles font boire beaucoup, &amp; jusqu'à la derniere</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+<form type="lemmaGrp">
+<orth>GOUTTELETTE</orth>
+</form>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>f</gen>
+</gramGrp>
+<pc>.</pc>
+
+<sense>
+<def>Ce mot est peu en usage. Il signifie, Petite goutte. La rosée se forme de plusieurs gouttelettes d'eau. Ce jet d'eanu retombe en plufieurs gouttelettes que le vent porte hors du bassin. On les appelle aussi, le pulverin de l'eau</def>
+</sense>
+</entry>
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GOUTTEUX</orth>
 </form>
@@ -23361,9 +23398,36 @@
 <pc>.</pc>
 
 <sense>
-<def>Elevation à un degré d'honneur. Il ne se dit gueres qu'en matiere Ecclesiastique, de la Prêtrise, &amp; des autres dignitez plus élevées. L'Episcopat est un des plus hauts grades où l'on puisse être élevé GRADIN. s. m. Petite marche, ou degré. On le dit particulierement de ces marches qu'on met sur un autel, ou à un reposoir, quand on le veut parer, &amp; y mettre plusieurs rangs de cierges, ou d'argenterie, élevez les uns au dessus des autres. Gradins de Jardii ; ce sont de petites terrasses élevées en maniere de degrez, où l'on met des caisses, des vases, &amp; des pots de fleurs, pour terminer une allée. On les fait de gazon, ou de maçonnerie ; en ligne droite, ou circulaire, en maniere d'amphitheatre</def>
+<def>Elevation à un degré d'honneur. Il ne se dit gueres qu'en matiere Ecclesiastique, de la Prêtrise, &amp; des autres dignitez plus élevées. L'Episcopat est un des plus hauts grades où l'on puisse être élevé</def>
 <pc>.</pc></sense>
 </entry>
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>GRADIN</orth>
+</form>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m</gen>
+</gramGrp>
+<pc>.</pc>
+</form>
+
+<sense>
+<def>Petite marche, ou degré. On le dit particulierement de ces marches qu'on met sur un autel, ou à un reposoir, quand on le veut parer, &amp; y mettre plusieurs rangs de cierges, ou d'argenterie, élevez les uns au dessus des autres. </def>
+</sense>
+<pc>.</pc>
+    
+<re>
+<form>Gradins de Jardin</form>
+<pc>;</pc>
+<def>ce sont de petites terrasses élevées en maniere de degrez, où l'on met des caisses, des vases, &amp; des pots de fleurs, pour terminer une allée. On les fait de gazon, ou de maçonnerie ; en ligne droite, ou circulaire, en maniere d'amphitheatre</def>    
+</re>
+<pc>.</pc>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GRADINE</orth>
@@ -23941,26 +24005,25 @@
 <xr>Voyez Mr. Baillet</xr>
 </sense>
 <pc>.</pc>
-
-<re><form>GRAMMATiCAaL</form>
-<pc>,</pc>
-<gramGrp>ale</gramGrp>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>Qui appartient à la Grammaire</form>
-<pc>.</pc>
-<def>Une façon de parler est grammaticale</def>
-<form>,</form>
-<form>quand elle e</form>
-<pc>s</pc>
-<gramGrp>t construite selon les loix de la Grammaire</gramGrp>
-<form>.</form>
-<form>Quelque admirable que</form>
-<pc>s</pc>
-<def>oit Voiture en ce qui regarde la delicatesse &amp; l'enjouement, il n'étoit pas infaillible en matiere de construction, &amp; de pureté grammaticale. Bou</def>
-<pc>.</pc></re>
 </entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma">
+<orth>GRAMMATiCAaL</orth></form>
+<pc>,</pc>
+<form type="inflected">ale</form>
+<gramGrp>
+<pos>adj</pos>
+</gramGrp>
+<pc>.</pc>
+</form>
+    
+<sense>
+<def>Qui appartient à la Grammaire. Une façon de parler est grammaticale, quand elle est construite selon les loix de la Grammaire. Quelque admirable que soit Voiture en ce qui regarde la delicatesse &amp; l'enjouement, il n'étoit pas infaillible en matiere de construction, &amp; de pureté grammaticale. Bou</def>
+<pc>.</pc>
+</sense>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GRAMMATICALEMENT</orth>
@@ -23976,13 +24039,22 @@
 <def>D'une maniere grammaticale. Cette phrase n'est pas bonne grammaticalement, mais c'est un gallicisme</def>
 </sense>
 <pc>.</pc>
+</entry>
+    
+<entry>    
+<form type="lemma">
+<orth>GRamMERCY</orth>
+<pc>,</pc>
+<form type="variant">ou GRand-MERci</form>
+<pc>.</pc>
+</form>
 
 <sense>
-<form>GRamMERCY, ou GRand-MERci</form>
-<pc>.</pc>
 <def>Je vous rends graces, je vous remercie. Il est du discours familier. Il s'employe aussi substantivement. Cela ne m'a coté qu'un grand merci. Mes beaux Peres Religieux, Vous dinez pour un Grammercy : O gens heureux ! demy Dieux l Plût à Dieu que je fusse ainsi. Mar</def>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GRAND</orth>
@@ -24721,17 +24793,21 @@
 <pos>adj</pos>
 </gramGrp>
 <pc>.</pc>
-<form type="variant">
-<orth>diminutif de Gras</orth>
 </form>
+    
+<sense>
+<def>diminutif de Gras. Elle est grassete</def>
+</sense>
 <pc>.</pc>
-<form type="inflected">
-<orth type="part">Elle est grassete</orth>
+</entry>
+    
+<entry>    
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>GRaSSETTE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
-<pos>GRaSSETTE</pos>
-<pc>.</pc>
 <pos>s</pos>
 <pc>.</pc>
 <gen>f</gen>
@@ -25005,12 +25081,23 @@
 <def>C'est frotter une chose dorée avec la gratteboesse. pou rendre l'or plus brillant. On mouille la gratteboesse dans de l'urine, ou de l biere. Gratteboesser la platine d'une montre</def>
 </sense>
 <pc>.</pc>
-
-<re><form>GrRAtTEcuL, GrAtTtECU</form>
-<form>.</form>
-<form>s. p</form>
-</re>
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>GRATTECUL</orth>
+</form>
+<pc>,</pc>
+<form type="variant">GrAtTtECU</form>
 <pc>.</pc>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m</gen>
+<pc>.</pc>
+</gramGrp>
+</form>
 
 <sense>
 <def>C'est le nom qu'on donne communement au fruit d l'églantier. Il est ovale, ou oblong, gros commé un gland, devenant rouge à mesure qu'il meurit. On en fait une conserve, qu'on appelle conserve de cynorrhodon. On en met aussi dans les tizanes aperitives. Ce nom vient du pil dur qu'il contient, &amp; qui s'attache, quand on le monde, aux doigts, &amp; aux autres parties qu'il touche, ensorte qu'il donne une demangeaison qui excite long temps à se gratter. Sa semence est astringente, on s'en sert en decoction pour les injections. On dit en proverbe, Il n'y a point de si belle rose qui ne devienne grattecu</def>
@@ -25021,6 +25108,7 @@
 <def>On appelle aussi grattecul, un muscle qui fait mouvoit le bras en bas, qu'on nomme autrement le grand roud, ou le grand dossier</def>
 <pc>.</pc></sense>
 </entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GRATTER</orth>
@@ -25466,16 +25554,26 @@
 <def>Celui qui grave. Un Graveur de cachets. Graveux en cuivre au burin, à l'eau forte, en bois</def>
 </sense>
 <pc>.</pc>
-
-<re><form>GraVEURE, ou GRavURE</form>
-<form>.</form>
-<form>s.f</form>
-<form>.</form>
-<form>L</form>
-<def>'art du Graveur, &amp; sa maniere de graver. La gravure en cuivre a les traits enfoncez dans la planche ; celle qui est en bois les a relevez</def>
-</re>
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">GraVEURE</form>
+<pc>,</pc>
+<form type="variant">ou GRavURE</form>
+<gramGrp>
+<pos>s</pos>
 <pc>.</pc>
-
+<gen>f</gen>
+</gramGrp>
+<pc>.</pc>
+</form>
+   
+<sense>
+<def>L'art du Graveur, &amp; sa maniere de graver. La gravure en cuivre a les traits enfoncez dans la planche ; celle qui est en bois les a relevez</def>
+</sense>
+<pc>.</pc>
+    
 <sense>
 <form>Graveure</form>
 <pc>,</pc>
@@ -27118,8 +27216,10 @@
 <xr>Voyez Hernie</xr>
 <pc>.</pc></sense>
 </entry>
+    
 </div>
 <div><head>GRI<pc>.</pc></head>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GRIBANE</orth>
@@ -27443,7 +27543,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>FRIFFONNER</orth>
+<orth>GRIFFONNER</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -27650,10 +27750,29 @@
 <pc>,</pc>
 <usg>en termes de Blason</usg>
 <pc>,</pc>
-<def>se dit des barreaux qul sont en la visiere d'un heaume en forme de grille pour la deffense des yeux du Cavalier. Mais à parler plus proprement &amp; en Armoriste, on l'appelle mezail. On appelle aussi grille, une porte coulisse &amp; grillée qu'on voit quelquefois peinte sur les Ecus. GRILLER. v. act. Faire rôtir des saucisses, du boudin, des côtelettes, ou autre chose sur le gril</def>
+<def>se dit des barreaux qul sont en la visiere d'un heaume en forme de grille pour la deffense des yeux du Cavalier. Mais à parler plus proprement &amp; en Armoriste, on l'appelle mezail. On appelle aussi grille, une porte coulisse &amp; grillée qu'on voit quelquefois peinte sur les Ecus</def>
 </sense>
 <pc>.</pc>
-
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>GRILLER</orth>
+</form>    
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>act</subc>
+<pc>.</pc>
+</gramGrp>
+</form>
+ 
+<sense>
+<def>Faire rôtir des saucisses, du boudin, des côtelettes, ou autre chose sur le gril</def>
+</sense> 
+<pc>.</pc>
+    
 <sense>
 <form>Griller</form>
 <pc>,</pc>
@@ -27705,15 +27824,20 @@
 <gloss>est une sonnette ou petite cloche ronde qu'on met au collier des petits chiens, &amp; aux jambes des oiseaux de proye</gloss>
 </etym>
 <pc>.</pc>
-
-<sense>
-<form>GrILlEttÉ</form>
+</entry>
+    
+<entry>    
+<form type="lemma">
+<orth>GrILlEttÉ</orth></form>
 <pc>,</pc>
+<sense>    
 <usg>en termes de Blason</usg>
 <pc>,</pc>
 <def>se dit des oiseaux de proye qui sont peints avec leurs grillets ou sonnettes d'un autre émail ; &amp; quand ils sont sans un nombre certain, on les appelle semez</def>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>
 </entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GRILLON</orth>
@@ -27753,6 +27877,7 @@
 <def>est un des plus grands insectes &amp; des plus voraces qui soient sur la terre. Il a trois ventricules, l'un desquels a quelque chose qui ressemble aux feuillets du troisiéme ou quatriéme ventricule des animaux ruminans. Il a quatre boutons sur le dos où ses ailes sont renfermées, &amp; vient d'un oeuf &amp; d'un ver comme les autres insectes</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GRIMACE</orth>
@@ -27814,21 +27939,23 @@
 <usg>Il est bas</usg>
 </sense>
 <pc>.</pc>
-
-<re><form>GRiMACER</form>
-<form>.</form>
-<form>v</form>
+</entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma">
+<orth>GRiMACER</orth>    
+</form>
 <pc>.</pc>
-<gramGrp>n</gramGrp>
-<form>.</form>
-<form>Faire des grimaces</form>
+<gramGrp>
+<pos>v</pos>
 <pc>.</pc>
-<def>Il fau prendre garde que la jeunesse ne s'accoutume point à grimater</def>
-</re>
+<subc>act</subc>
+</gramGrp>
 <pc>.</pc>
-
-<sense>
-<def>Moliere de son art at remporté le prix, Si moins ami du pruple en ses doctes peintures, Il n'eût point fait souvent grimacer ses figures. Boi</def>
+</form>
+    
+<sense>   
+<def>Faire des grimaces. Il fau prendre garde que la jeunesse ne s'accoutume point à grimater. Moliere de son art at remporté le prix, Si moins ami du pruple en ses doctes peintures, Il n'eût point fait souvent grimacer ses figures. Boi</def>
 </sense>
 <pc>.</pc>
 
@@ -27838,6 +27965,7 @@
 <def>se dit aussi des habits, des bottes &amp; des souliers, qui font des grimaces, de vilains plis. I est bas &amp; comique. Vôtre habit n'est pas bien fait, il grimace trop</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GRIMACIER</orth>
@@ -27952,10 +28080,28 @@
 <pc>.</pc>
 
 <sense>
-<def>Petit jeu, ou petit gain, dans lequel on ne fait que grimeliner. GRIMkLINER. v. n. Jouer petit jeu &amp; d'une maniere mesquine. Il signifie assi, Faire un petit trafic, un peuit gain. Menager quelque petit profit, quelque petit avantage dans une affaire, dans un marché. Il n'est pluis ni dans le grand jeu, ni dans les grandes affaires. Il ne fait que grimeliner</def>
+<def>Petit jeu, ou petit gain, dans lequel on ne fait que grimeliner</def>
 </sense>
 <pc>.</pc>
+</entry>
 
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>GRIMELINER</orth>    
+</form>    
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>n</subc>
+<pc>.</pc>
+</gramGrp>    
+</form>
+    
+<sense>
+<def>Jouer petit jeu &amp; d'une maniere mesquine. Il signifie assi, Faire un petit trafic, un peuit gain. Menager quelque petit profit, quelque petit avantage dans une affaire, dans un marché. Il n'est pluis ni dans le grand jeu, ni dans les grandes affaires. Il ne fait que grimeliner</def>    
+</sense>
+    
 <sense>
 <form>Grimeliner</form>
 <pc>,</pc>
@@ -29479,10 +29625,26 @@
 <pc>.</pc>
 
 <sense>
-<def>D'une maniere grotesque. Il a été peint grotesquement GROTTE. s. f. Caverne ; antre large ou profond ; creusé dans une montagne, ou un rocher. Les Anachoretes se retiroient dans les antres, &amp; dans les grottes, pour y mediter plus attentivement sur leurs devoirs. Du Pin. Au brait qui trouble son onde, Le in fremissat d'effiroi, Sort de sa grotte profonde. Bou. Il se trouve dans les grottes des cristaux de roche, &amp; plusieurs autres congelations</def>
+<def>D'une maniere grotesque. Il a été peint grotesquement</def>
 </sense>
 <pc>.</pc>
+</entry>
 
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>GROTTE</orth>  
+</form>    
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>f</gen>    
+</gramGrp>  
+</form>
+
+<sense>
+<def>Caverne ; antre large ou profond ; creusé dans une montagne, ou un rocher. Les Anachoretes se retiroient dans les antres, &amp; dans les grottes, pour y mediter plus attentivement sur leurs devoirs. Du Pin. Au brait qui trouble son onde, Le in fremissat d'effiroi, Sort de sa grotte profonde. Bou. Il se trouve dans les grottes des cristaux de roche, &amp; plusieurs autres congelations</def>
+</sense>
 <etym>
 <lbl>Ce mot vient de</lbl>
 <foreign>crypta</foreign>
@@ -29498,7 +29660,7 @@
 <pc>.</pc>
 <gloss>Du Cange dit qu'en la basse Latinité on a dit aussi grota</gloss>
 </etym>
-<pc>.</pc>
+<pc>.</pc>    
 
 <sense>
 <form>Grotte</form>
@@ -29906,9 +30068,30 @@
 <pc>.</pc>
 
 <sense>
-<def>Partie du sang, du lait, ou autre liqueur qui se caille, qui s'épaissit, ou qui est mal delayce. Les pulmoniques crachent quelquefois des grumeaux de sang. Cette colle, cette bouillie n'est pas bien delayée, elle est toute en gros grumeaux. On appelle grumeau de lait, de petites dur tez qui demeurent aux mammelles des nouvelles accouchées. Degori. Se GRUMELER. v. n. passif. Devenir en grumeaux, se former en grumeaux. Quand la femme n'est pas assez tirée, son lait demeure dans ses mammelles, &amp; parcequ'il y demeure trop, il s'aigrit, il s'y caille, &amp; s'y grumele. Mauriceau</def>
+<def>Partie du sang, du lait, ou autre liqueur qui se caille, qui s'épaissit, ou qui est mal delayce. Les pulmoniques crachent quelquefois des grumeaux de sang. Cette colle, cette bouillie n'est pas bien delayée, elle est toute en gros grumeaux. On appelle grumeau de lait, de petites dur tez qui demeurent aux mammelles des nouvelles accouchées. Degori</def>
 <pc>.</pc></sense>
 </entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>Se GRUMELER</orth>    
+</form>  
+<pc>.</pc>    
+<gramGrp>
+<pos>v</pos>
+<pc>.</pc>
+<subc>n. passif</subc>    
+</gramGrp>  
+<pc></pc>
+</form>
+    
+<sense>
+<def>Devenir en grumeaux, se former en grumeaux. Quand la femme n'est pas assez tirée, son lait demeure dans ses mammelles, &amp; parcequ'il y demeure trop, il s'aigrit, il s'y caille, &amp; s'y grumele. Mauriceau</def>    
+</sense>    
+<pc>.</pc>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GRUMELEUX</orth>
@@ -30157,6 +30340,7 @@
 <def>Oiseau du Bresil de la grosseur d'une pie ; avec un long bec recourbé, &amp; de longs pieds</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GUARAL</orth>
@@ -30170,16 +30354,30 @@
 <def>m Sorte d'insecte qui est semblable à la tarantule, &amp; qu'on trouve dans les deserts de Lybie. Ablan</def>
 </sense>
 <pc>.</pc>
-
-<re><form>GUArAQUIMYA</form>
-<form>.</form>
-<form>s. f</form>
-<form>.</form>
-<form>Arbri</form>
-<pc>s</pc>
-<def>seau qui croit dans le Bresil, &amp; qui ressemble au mirte de Portugal. Outre beaucoup de proprietez fort remarquables, on donne cette vertu particuliere à sa semence, qu'étant mangée elle fait sortir aussi-tôt les vers des intestins</def>
-<pc>.</pc></re>
 </entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>GUArAQUIMYA</orth>
+</form>
+<pc>.</pc>
+ 
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>f</gen>
+<pc>.</pc>
+</gramGrp>
+<pc>.</pc>
+</form>
+    
+<sense>
+<def>Arbrisseau qui croit dans le Bresil, &amp; qui ressemble au mirte de Portugal. Outre beaucoup de proprietez fort remarquables, on donne cette vertu particuliere à sa semence, qu'étant mangée elle fait sortir aussi-tôt les vers des intestins</def>
+</sense>
+<pc>.</pc>    
+</entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GUAYAVA</orth>
@@ -30487,18 +30685,25 @@
 <gloss>qui signifie, gain</gloss>
 </etym>
 <pc>.</pc>
-
-<re><form>GUERDOnNER</form>
-<form>.</form>
-<form>v</form>
-<pc>.</pc>
-<def>ct</def>
-<form>.</form>
-<form>Recompenser</form>
-<pc>.</pc>
-<def>I est aussi hors d'usage</def>
-<pc>.</pc></re>
 </entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma">
+<orth>GUERDONNER</orth></form>
+<pc>.</pc>
+    <gramGrp><pos>v</pos>
+    <pc>.</pc>
+    <subc>act</subc>
+    </gramGrp>
+<pc>.</pc>
+</form>
+
+<sense>
+<def>Recompenser. Il est aussi hors d'usage</def>
+<pc>.</pc>
+</sense>
+</entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GUERE</orth>
@@ -30571,7 +30776,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>ERIR</orth>
+<orth>GUERIR</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -30839,19 +31044,9 @@
 <pc>.</pc>
 
 <sense>
-<def>On dit aussi, qu'une prise est faite de bonne guerre, quand elle est faite selon les loix, &amp; l'usage de la guerre. En ce sens on le dit aussi de toutes les autres contestations, &amp; des avantages qu'on y remporte de bonne foi, &amp; sans supercherie. Non, je ne veux point de vôtre fard : j'ay la conscience si delicate, que je me reprocherois les conquêtes qui ne seroient pas faites de bonne guerre</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>P</orth>
-</form>
+<def>On dit aussi, qu'une prise est faite de bonne guerre, quand elle est faite selon les loix, &amp; l'usage de la guerre. En ce sens on le dit aussi de toutes les autres contestations, &amp; des avantages qu'on y remporte de bonne foi, &amp; sans supercherie. Non, je ne veux point de vôtre fard : j'ay la conscience si delicate, que je me reprocherois les conquêtes qui ne seroient pas faites de bonne guerre. P. Con</def>
 <pc>.</pc>
-<gramGrp>
-<pos>Con</pos>
-</gramGrp>
-</form>
-<pc>.</pc>
+</sense>
 
 <sense>
 <def>On appelle, Equippage de guerre, machines de guerre, munitions, attirail de guerre, Tout ce qu'on meine à la guerre, &amp; qui sert à la guerre</def>
@@ -31990,7 +32185,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>GUIGNAU</orth>
+<orth>GUIGNAUX</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -32015,25 +32210,11 @@
 <pc>.</pc>
 
 <sense>
-<def>Espece de cerse plus grosse que la cerise commune, &amp; d'une chair plus dure &amp; plus douce. Il y a des guignes blanches, &amp; des guignes rouges. Il s'en trouve aussi de noires. On appelle autrement les guignes bigarreaux, en Latin crasa alba dulcia</def>
+    <def>Espece de cerise plus grosse que la cerise commune, &amp; d'une chair plus dure &amp; plus douce. Il y a des guignes blanches, &amp; des guignes rouges. Il s'en trouve aussi de noires. On appelle autrement les guignes bigarreaux, en Latin crasa alba dulcia. C. B. Quelques Latins ont appellé ce fruit cerasa Aquitanica, &amp; ont fait croire que ce mot étoit derivé de Guyeme. On écrit aussi guisnes. Menage. Monet dit qu'il vient de Guines en Picardie, &amp; l'appelle cerasum olivarium. Quelques Auteurs appellent ce fruit binula ou bissula, &amp; les Italiens bissole, quasi bina cerasa</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>C</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>B</orth>
-</form>
-</form>
-<pc>.</pc>
 
-<sense>
-<def>Quelques Latins ont appellé ce fruit cerasa Aquitanica, &amp; ont fait croire que ce mot étoit derivé de Guyeme. On écrit aussi guisnes. Menage. Monet dit qu'il vient de Guines en Picardie, &amp; l'appelle cerasum olivarium. Quelques Auteurs appellent ce fruit binula ou bissula, &amp; les Italiens bissole, quasi bina cerasa</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>GUIGNIER</orth>
 </form>

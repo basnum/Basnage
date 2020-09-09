@@ -2,8 +2,6 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
-<?xml-stylesheet type="text/css" href="teixdicotest.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
         <fileDesc>
@@ -6318,17 +6316,13 @@
               <sense>
               <def>Lettre consone, seiziéme de l'Alphabet, qui se prononce comme le k &amp; le c devant les a, o, &amp; u, &amp; qui a cela de particulier, qu'elle est toujours suivie d'un u. C'est une lettre double, aussi-bien que le k, &amp; I'x, qui n'est autre chose que CV, car sa figure est composée d'un c&amp; d'un V renversez, joints ensemble, qui font le même son. On s'en pourroit aussi-bien passer que du k</def>
          <pc>.</pc></sense>
-          </entry>
           
-          <entry><form type="lemmaGrp">
-              <form type="lemma">
-                  <orth>Q</orth>
-              </form>
-          </form>
-              <re><form>,</form>
-                  <form>étoit chez les</form>
-                  <def>Anciens une lettre numerale qui signifioit 500. suivant ce vers : Q, velut à cum D quingentos vult numerare. Quand on met un titre au dessus, il signifie cinq cens mille</def>
-              <pc>.</pc></re>
+          <sense>
+              <form>Q</form>
+       <pc>,</pc>
+                  <def>étoit chez les Anciens une lettre numerale qui signifioit 500. suivant ce vers : Q, velut à cum D quingentos vult numerare. Quand on met un titre au dessus, il signifie cinq cens mille</def>
+              <pc>.</pc>
+          </sense>
           </entry>
           </div>
           <div>
@@ -7361,15 +7355,17 @@
 <def>D'une maniere quarrée. Il faut coupper cette étoffe, faire cet allignement quar rément, c'est-à-dire, en angles droits</def>
 </sense>
 <pc>.</pc>
-
-<re><form>Quarrelet, Quarrelure</form>
-<form>,</form>
-<form>&amp;c Voyez Carrelet</form>
-<pc>,</pc>
-<def>Carrelure, &amp;c</def>
-<pc>.</pc></re>
 </entry>
-<entry><form type="lemmaGrp">
+              
+<entry><form type="lemma">Quarrelet</form>
+<pc>,</pc>
+<form type="variant">
+<orth>Quarrelure</orth>&amp;c</form>    
+    <xr>Voyez <ref>Carrelet</ref><pc>,</pc><ref></ref>Carrelure<pc>,</pc>&amp;c</xr>
+<pc>.</pc>
+</entry>
+
+              <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>QUARRER</orth>
 </form>
@@ -7472,25 +7468,37 @@
 <def>se dit proverbialement en ces phrases. Il n'a pas un quart d'écu, ou il a bien des quarts décus ; pour dire, il est bien pauvre, ou il est bien riche. Il donne au tiers &amp; au quart ; pour dire, à tout le monde. Il daube sur le tiers &amp; le quart ; pour dire, Il raille tot le monde, il n'épargne personne. Medire du tiers &amp; du quart</def>
 </sense>
 <pc>.</pc>
-
-<re><form>QuART, te</form>
-<form>.</form>
-<form>adj</form>
+</entry>
+              
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>QUART</orth>
+</form>    
+<pc>,</pc>
+<form type="inflected">
+<orth type="part">te</orth>
+</form>
 <pc>.</pc>
-<def>Quatriéme</def>
-<form>.</form>
-<form>Il n</form>
-<pc>'</pc>
-<def>a guére d'usage qu'en ces phrases de Finance, quart denier ; &amp; de Chasse, Ce Sanglier est à son quart d'an</def>
-</re>
+<gramGrp>
+<pos>adj</pos>
+</gramGrp>
 <pc>.</pc>
+</form>
+    
+<sense>
+<def>Quatriéme. Il n'a guére d'usage qu'en ces phrases de Finance, quart denier ; &amp; de Chasse, Ce Sanglier est à son quart d'an</def>
+</sense>
+<pc>.</pc>    
 
 <sense>
 <def>On appelle, Fievre quarte, une fievre qu'on a tous les quatre jours, qui ne laisse que deux jours francs ; double quarte, qui revient deux fois dans ces quatre jours, qui n'en laisse qu'un de franc</def>
 <pc>.</pc>
 <xr>Voyez Fiavre</xr>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>
 </entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>QUARTAINE</orth>
@@ -7683,9 +7691,12 @@
 
 <sense>
 <def>On dit proverbialement d'une chose qu'on estime, qu'on menage, qu'il n'y en a pas trois douzaines au quarteron</def>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+<form type="lemmaGrp">
 <form type="lemma">
 <orth>QUARTIER</orth>
 </form>
@@ -7711,21 +7722,10 @@
 <sense>
 <form>Quartier</form>
 <pc>,</pc>
-<def>se dit plus particulierement à l'égard des mesures. Un quartier de terre, de pré, de vigne : c'est le quart d'un arpent. Un quartier de toile, de serge, de ruban : c'est le quart d'une aune. On dit aussi, le quartier d'une rente, d'un terme, d'une pension ; pour dire, ce qui est échu pendant trois mois, ou le quart de l'année. Il a mangé son quartier avant qu'il l'ait reçu. Quartier, chez le Roi &amp; les Princes, est le service qu'on leur rend durant trois mois, chacun selon sa charge. Il y a des Gentilshommes, des Aumôniers ordinaires, &amp; d'antres de quartier. Il se dit aussi par</def>
-</sense>
-</entry>
-          <entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>exten</orth>
-</form>
-</form>
-<pc>s</pc>
-
-<sense>
-<def>ion de tous ceux qui sont assidus auprès des gens à qui ils plaisent. Le Chevalier, est presentement de quartier chez la Marquise.. La Br</def>
+    <def>se dit plus particulierement à l'égard des mesures. Un quartier de terre, de pré, de vigne : c'est le quart d'un arpent. Un quartier de toile, de serge, de ruban : c'est le quart d'une aune. On dit aussi, le quartier d'une rente, d'un terme, d'une pension ; pour dire, ce qui est échu pendant trois mois, ou le quart de l'année. Il a mangé son quartier avant qu'il l'ait reçu. Quartier, chez le Roi &amp; les Princes, est le service qu'on leur rend durant trois mois, chacun selon sa charge. Il y a des Gentilshommes, des Aumôniers ordinaires, &amp; d'antres de quartier. Il se dit aussi par extension de tous ceux qui sont assidus auprès des gens à qui ils plaisent. Le Chevalier, est presentement de quartier chez la Marquise. La Br</def>
 </sense>
 <pc>.</pc>
-
+     
 <sense>
 <form>Quartier</form>
 <pc>,</pc>
@@ -7776,9 +7776,8 @@
 <pc>.</pc>
 
 <re><form>Quartier d'assemblée</form>
-<form>,</form>
-<form>e</form>
-<def>st le licu ou rendezvous qu'on donne aux trouppes pour s'assembler, &amp; pour le mettre en marche. On donne aussi des quartiers pour le logement des Veneurs, des chiens &amp; de l'équippage de la Venerie</def>
+<pc>,</pc>
+<def>est le licu ou rendezvous qu'on donne aux trouppes pour s'assembler, &amp; pour le mettre en marche. On donne aussi des quartiers pour le logement des Veneurs, des chiens &amp; de l'équippage de la Venerie</def>
 </re>
 <pc>.</pc>
 
@@ -7807,11 +7806,9 @@
 
 <re><form>Quartier-Maistre, ou Maître</form>
 <form>,</form>
-<form>en termes de Marine</form>
-<form>,</form>
-<form>e</form>
-<pc>s</pc>
-<def>t un Officier de navire qui aide au Maître &amp; au Contre-Maître, qui a soin des cordages, &amp; de faire mouiller, ou lever les ancres, &amp;c. On l'appelle Schieman en Hollande</def>
+<usg>en termes de Marine</usg>
+<pc>,</pc>
+<def>est un Officier de navire qui aide au Maître &amp; au Contre-Maître, qui a soin des cordages, &amp; de faire mouiller, ou lever les ancres, &amp;c. On l'appelle Schieman en Hollande</def>
 </re>
 <pc>.</pc>
 
@@ -7869,10 +7866,22 @@
 <pc>.</pc>
 
 <sense>
-<def>On dit proverbialement, qu'une femme est la gazette du quarner ; pour dire, qu'elle est curieuse d'apprendre &amp; de debiter toutes les nouvelles de son quartier. InQUARTO. Mot tiré du Latin que l'usage a rendu François. Il se dit des livres dont les feuilles sont pliées en quatre. Il a imprimé tous ses Ouvrages in quarto. C'est un grand in quarte, un petit in quarte</def>
-<pc>.</pc></sense>
+<def>On dit proverbialement, qu'une femme est la gazette du quarner ; pour dire, qu'elle est curieuse d'apprendre &amp; de debiter toutes les nouvelles de son quartier</def>
+<pc>.</pc>
+</sense>
 </entry>
-<entry><form type="lemmaGrp">
+              
+<entry>
+<form type="lemma">
+<orth>In QUARTO</orth>
+</form>
+<pc>.</pc>    
+    
+<sense>
+    <def>Mot tiré du Latin que l'usage a rendu François. Il se dit des livres dont les feuilles sont pliées en quatre. Il a imprimé tous ses Ouvrages in quarto. C'est un grand in quarte, un petit in quarto</def>    
+</sense>    
+</entry>              
+              <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>QUASI</orth>
 </form>
@@ -8140,8 +8149,10 @@
 
 <sense>
 <def>signifie un quart au total. J'ai mon quatriéme dans cet heritage, dans cette succesfion</def>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>QUATRIESMEMENT</orth>
@@ -8161,22 +8172,30 @@
 <def>est un bâtiment ponté qui porte une corne, &amp; qui est mâté en fourche, comme l'yacht, ou le heu</def>
 </sense>
 <pc>.</pc>
-
-<re><form>QUAISsE</form>
-<form>,</form>
-<form>QUuAISSIER, QUAISSON</form>
-</re>
-<pc>.</pc>
-
-<re><form>Voyez Caisse</form>
-<form>,</form>
-<form>Caissiee, Caisson</form>
-<pc>.</pc></re>
 </entry>
-<entry><form type="lemmaGrp">
+    
+<entry>
+<form type="lemma">
+<orth>QUAISSE</orth>
+</form>
+<pc>,</pc>
+<form type="variant">
+    <orth>QUAISSIER</orth>
+    <pc>,</pc>
+</form>
+<form type="variant">
+<orth>QUAISSON</orth>
+</form>
+<pc>.</pc>
+<xr>Voyez <ref>Caisse</ref>
+<pc>,</pc><ref>Caissier</ref><pc>,</pc>
+    <ref>Caisson</ref>
+<pc>.</pc></xr>
+</entry>
+    
+<entry>
 <form type="lemma">
 <orth>QUATRUPLE</orth>
-</form>
 </form>
 <pc>.</pc>
 
@@ -8184,6 +8203,7 @@
 <ref>Quadrule</ref>
 <pc>.</pc></xr>
 </entry>
+              
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>QUAUHCONEX</orth>
@@ -8411,11 +8431,31 @@
 <def>Adverbe de temps. Il est quelquefois bon, quelquesois mauvais de se hâter</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<def>QUELQuUUN, ou QUELCUN, une. Pronom, signifie, Quelque. Il faut heurter à la porte, pour parler à quelqu'un ces domestiques. Quelques-uns rapportent cette histoire d'une autre maniere. Quelqu'un des Anciens a dit ce beau mot</def>
-<pc>.</pc></sense>
 </entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>QUELQuUUN</orth>
+</form>
+<pc>,</pc>  
+<form type="variant">ou
+<orth>QUELCUN</orth></form>   
+<form type="inflected">
+<orth type="part">une</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>Pronom</pos>
+</gramGrp>
+<pc>,</pc>
+</form>    
+<sense>
+<def>, signifie, Quelque. Il faut heurter à la porte, pour parler à quelqu'un ces domestiques. Quelques-uns rapportent cette histoire d'une autre maniere. Quelqu'un des Anciens a dit ce beau mot</def>
+<pc>.</pc>
+</sense>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>QUENOTTE</orth>
@@ -8551,13 +8591,33 @@
 <sense>
 <usg>Terme de Marine</usg>
 <pc>.</pc>
-<def>Partie du bordage comprise depuis la quille jusqu'à la plus proche des perceintes. Ozan. QUERELLlE. s. f. Demêlé ; contestation ; dispute ; gronderie. Les querelles des Princes ne se terminent que par les armes. Le Sage ne prend querelle avec personne, ou contre personne, il ne se mêle point dans les querelles d'autrui. Chercher querelle avec quelcun, c'est chercher à se brouiller, à rompre avec lui. Il y a une grande querelle, une grande émeute dans la rue, courez l'appaiser. Il a bien demêlé sa querelle, il en est bien sor. Il vaudroit mieux quelquefois être en querelle avec ses passions, que de jouïr de cette paix honteuse que donne l'indolence. M. Sc. Il ne faut point se jouer aux devots ; une querelle avec eux n'est pas un sujet de risée. H. S. de M. Iris, dan nêtre querelle Je n'examine point qui de nous deux a tort, Et vous avez raison, puisque vous êtes belle. La Sabl</def>
+    <def>Partie du bordage comprise depuis la quille jusqu'à la plus proche des perceintes. Ozan</def>
 <pc>.</pc>
-<etym>Menage derive ce mot de querellare Latin</etym>
 </sense>
 <pc>.</pc>
-
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>QUERELLlE</orth>    
+</form>    
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>f</gen>    
+</gramGrp>  
+<pc>.</pc>
+</form>
+    
 <sense>
+    <def>Demêlé ; contestation ; dispute ; gronderie. Les querelles des Princes ne se terminent que par les armes. Le Sage ne prend querelle avec personne, ou contre personne, il ne se mêle point dans les querelles d'autrui. Chercher querelle avec quelcun, c'est chercher à se brouiller, à rompre avec lui. Il y a une grande querelle, une grande émeute dans la rue, courez l'appaiser. Il a bien demêlé sa querelle, il en est bien sor. Il vaudroit mieux quelquefois être en querelle avec ses passions, que de jouïr de cette paix honteuse que donne l'indolence. M. Sc. Il ne faut point se jouer aux devots ; une querelle avec eux n'est pas un sujet de risée. H. S. de M. Iris, dan nêtre querelle Je n'examine point qui de nous deux a tort, Et vous avez raison, puisque vous êtes belle. La Sabl</def>
+<pc>.</pc>
+    <etym>Menage derive ce mot de querellare Latin</etym>
+</sense>    
+<pc>.</pc>
+ 
+    <sense>
 <form>Querelle</form>
 <pc>,</pc>
 <def>se dit aussi de l'intérêt d'autrui, quand on en prend la deffense. Les amis soutiennent par tout la querelle de leurs amis. Cet Ecrivain a fait l'apologie d'un tel Ouvrage ; il a pris sur soi la querelle de l'Auteur</def>
@@ -8596,17 +8656,32 @@
 <def>Ataquer, choquer, ofsenser quelcun. On commence à se quereller par des paroles, &amp; puis on en vient aux coups. Les femmes, les harengeres se querellent souvent</def>
 </sense>
 <pc>.</pc>
-
-<re><form>QUERELLEUuX, euse</form>
-<form>.</form>
-<form>adj</form>
-<pc>.</pc>
-<def>&amp; s</def>
-<form>.</form>
-<form>On</form>
-<def>dit aussi Querelleur. ) Qui fait souvent des querelles. Les gens querelleux succombent à la fin. Avoir un esprit querelleux. Les femmes ont l'humetr plus querelleuse que les hommes. Si les gens querelleux sçavoient combien ils sont incommodes, &amp; insupportables, peut-être s'appliqueroient-ils à se corriger d'un vice qui gêne tout le monde. Bell</def>
-<pc>.</pc></re>
 </entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>QUERELLEUX</orth>
+</form>
+<pc>,</pc>
+<form type="inflected">
+<orth>euse</orth> 
+</form>    
+<pc>.</pc>
+<gramGrp>    
+<pos>adj. &amp; s</pos>
+<pc>.</pc>
+</gramGrp>
+<form type="variant">(On dit aussi
+<orth>Querelleur</orth>)</form>    
+</form>
+    
+<sense>
+<def>Qui fait souvent des querelles. Les gens querelleux succombent à la fin. Avoir un esprit querelleux. Les femmes ont l'humetr plus querelleuse que les hommes. Si les gens querelleux sçavoient combien ils sont incommodes, &amp; insupportables, peut-être s'appliqueroient-ils à se corriger d'un vice qui gêne tout le monde. Bell</def>
+<pc>.</pc>
+</sense>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>QUERIMONIE</orth>
@@ -9334,7 +9409,7 @@
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>QUIPROQUO</orth>
+<orth>QUI PRO QUO</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -10138,15 +10213,19 @@
 <etym>Du Cange dit que ce mot vient de quintum milliare</etym>
 </sense>
 <pc>.</pc>
-
-<sense>
-<form>QuUINTEESSENCE</form>
+</entry>
+    
+<entry>
+<form type="lemma">QUINTE-ESSENCE</form>
 <pc>,</pc>
+<sense>    
 <usg>en termes de Chymie</usg>
 <pc>,</pc>
 <def>est ce qu'il y a de plus exquis, de plus subtil &amp; de plus pur dans les corps naturels, extrait par l'art de Chymie. Les Charlatans vendent des liqueurs qu'ils appellent des essences &amp; quinte-essences, faisant accroire qu'elles guerissent de tous maux. Quinte-essence, signifie figurément en choses morales, le fin, le fond des choses : tout l'avantage, tout le fruit qu'il est possible d'en tirer. Ce Docteur a tiré la quinte-essence de la Philosophie. Ce Financier a tiré la quinte-essence de cette ferme, il en a tiré tout le profit qui s'en pouvoit tirer. Ce Rapporteur sçait la quinte-essence de cette affaire, il l'a bien étudiée. Cette taxe a tiré la quinte-essence des bourses des Financiers. Regnier a dit, tirer un homme en quinte-essence, c'està-dire l'épuiser, le consumer ; en tirer toute la substance ; le reduire à rien</def>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>    
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>QUINTE-FEUILLE</orth>

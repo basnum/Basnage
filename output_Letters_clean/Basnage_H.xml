@@ -2,8 +2,6 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
-<?xml-stylesheet type="text/css" href="teixdicotest.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
         <fileDesc>
@@ -7154,11 +7152,31 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <xr>Voyez AsPphodele</xr>
 </sense>
 <pc>.</pc>
-
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>HachEMENS</orth>    
+<pc>,</pc>
+<form type="variant">ou HANCHEMENS</form>
+</form>    
+<pc>.</pc>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m</gen>
+<pc>.</pc>
+</gramGrp>
+<pron>L'h s'aspire!</pron>
+</form>
 <sense>
-<def>HachEMmENS, ou HANCHEMENS. s.m. tL'h s'aspire! Terme de Blason, qui se dit des liens de pennaches à divers noeuds, &amp; lacets, &amp; à longs bouts voltigeans en l'air, dont les Allemands lient leurs lambrequins, qui doivent être des mêmes émaux. C'est par corruption qu'on l'écrit de la sorte, parceqa'il faut écrire achemens, qui signifioit autrefois ornemens</def>
+<usg>Terme de Blason</usg>
+<pc>,</pc>
+<def>qui se dit des liens de pennaches à divers noeuds, &amp; lacets, &amp; à longs bouts voltigeans en l'air, dont les Allemands lient leurs lambrequins, qui doivent être des mêmes émaux. C'est par corruption qu'on l'écrit de la sorte, parceqa'il faut écrire achemens, qui signifioit autrefois ornemens</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HACHER</orth>
@@ -7606,7 +7624,7 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>AIRE</orth>
+<orth>HAIRE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -7639,12 +7657,22 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <pc>.</pc>
 
 <sense>
-<def>Temps froid &amp; humide, accompagné de brouillards &amp; de frimats, qui fait greloter, &amp; qui est plus incommode que la grande gelée. Ce mot peut venir de la ressemblance qu'il a avec les incommoditez qu'apporte la haire. HAIRON. HaIRoOnniERe, &amp;c</def>
+<def>Temps froid &amp; humide, accompagné de brouillards &amp; de frimats, qui fait greloter, &amp; qui est plus incommode que la grande gelée. Ce mot peut venir de la ressemblance qu'il a avec les incommoditez qu'apporte la haire</def>
 <pc>.</pc>
-<xr>Voyez Heron, Heronniere</xr>
-<pc>.</pc></sense>
+</sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+<form type="lemma">
+<orth>HAIRON</orth>
+<pc>.</pc>
+<form type="inflected">HaIRoOnniERE, &amp;c</form>
+<pc>,</pc></form>    
+<xr>Voyez Heron, Heronniere</xr>
+<pc>.</pc>
+</entry>
+    
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HAISSABLE</orth>
 </form>
@@ -7753,16 +7781,31 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <def>tL'h s'aspire! Le halbran est un jeune canard sauvage. Un halbran bon &amp; gras</def>
 </sense>
 <pc>.</pc>
-
-<re><form>HalBRENE, ée</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>clh s'aspire Terme de Fauconnerie</form>
-<pc>,</pc>
-<def>qui se dit d'un oiseau dont les pennes sont rompuës. Faucon halbrené. Halbrené, ée, se dit au figuré pour, Etre en mauvais état. Je suis tout halbrené. Il est tout-à-fait bas, &amp; commence à vieillir. On écrit quelquefois ce mot sans b, &amp; l'on dit albrené</def>
-<pc>.</pc></re>
 </entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>HalBRENE</orth></form>
+<pc>,</pc>
+<form type="inflected">
+<orth type="part">ée</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>adj</pos>
+</gramGrp>
+<pc>.</pc>
+<pron>clh s'aspire</pron>
+</form>
+<pc>,</pc>
+<sense>
+<usg>Terme de Fauconnerie</usg>
+<def>qui se dit d'un oiseau dont les pennes sont rompuës. Faucon halbrené. Halbrené, ée, se dit au figuré pour, Etre en mauvais état. Je suis tout halbrené. Il est tout-à-fait bas, &amp; commence à vieillir. On écrit quelquefois ce mot sans b, &amp; l'on dit albrené</def>
+<pc>.</pc>
+</sense>
+</entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HALE</orth>
@@ -8434,7 +8477,7 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>HAMADRYAD</orth>
+<orth>HAMADRYADE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -8556,20 +8599,10 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <sense>
 <form>Hameçon</form>
 <pc>,</pc>
-<def>se dit aussi figurément &amp; bassement des appas, des amorces qu'on presente aux hommes pour les tromper, &amp; les surprendre par quelque belle apparence. On a mené ce jeune homme fort riche voir une belle fille, il a pris à l'hameçon, il en est devenu amoureux, il l'a épousée. Ils sont propres à gober tous les hameçons qu'on leur veut tendre. Mol. Voyant que le Prince ne mordoit point à l'hameçon, il changea de dessein. Rab. La beauté sans esprit est un appas sans hameçon ; elle attire les galans, mais elle ne les arrête pas. Oe. M. La dupe mordoit à l'hameçon</def>
+<def>se dit aussi figurément &amp; bassement des appas, des amorces qu'on presente aux hommes pour les tromper, &amp; les surprendre par quelque belle apparence. On a mené ce jeune homme fort riche voir une belle fille, il a pris à l'hameçon, il en est devenu amoureux, il l'a épousée. Ils sont propres à gober tous les hameçons qu'on leur veut tendre. Mol. Voyant que le Prince ne mordoit point à l'hameçon, il changea de dessein. Rab. La beauté sans esprit est un appas sans hameçon ; elle attire les galans, mais elle ne les arrête pas. Oe. M. La dupe mordoit à l'hameçon. P. Com</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>P</orth>
-</form>
-</form>
-<pc>.</pc>
 
-<sense>
-<def>Com</def>
-<pc>.</pc></sense>
-</entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HAMPE</orth>
@@ -8828,9 +8861,20 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <sense>
 <usg>Terme populaire</usg>
 <pc>,</pc>
-<def>qui signifie un accroc, un retardement qui arrive en quelque affaire par quelque difficulté qui survient. Quand on est prêt à partir, il y a toujours quelque hanicroche qui retarde le voyage. HaNIR, HaNISSEMENT. Voyez Hennir, Hennissement</def>
+<def>qui signifie un accroc, un retardement qui arrive en quelque affaire par quelque difficulté qui survient. Quand on est prêt à partir, il y a toujours quelque hanicroche qui retarde le voyage</def>
 <pc>.</pc></sense>
 </entry>
+    
+<entry>
+<form type="lemma">
+    <orth>HaNIR</orth>
+<pc>,</pc>
+</form>
+    <form type="variant">HaNISSEMENT</form>
+    <pc>.</pc>
+    <xr>Voyez <ref>Hennir</ref><pc>,</pc> <ref>Hennissement</ref></xr>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HANOUARDS</orth>
@@ -9580,15 +9624,28 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <gloss>qui signifie lien, attache, parceque les hardes sont proprement des choses qu'on lie, &amp; dont on fait des pacquets lorsqu'on voyage</gloss>
 </etym>
 <pc>.</pc>
-
-<re><form>HaRDI, ie</form>
-<form>.</form>
-<form>adj</form>
-<form>.</form>
-<form>tLh s'aspire</form>
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>HaRDI</orth>
+</form>    
+<pc>,</pc>, 
+<form type="variant">
+<orth type="part">ie</orth></form>
 <pc>.</pc>
+<gramGrp>
+<pos>adj</pos>
+</gramGrp>
+<pc>.</pc>
+<pron>Lh s'aspire</pron>
+<pc>.</pc>
+</form>
+ 
+<sense>
 <def>Brave, vaillant, courageux. La fortune aide aux gens hardis. Cette femme est hardie comme une Amazone. Attila étoit sage &amp; prudent dans le conseil, prompt &amp; hardi dans l'execution. Maim. Les plus lâches deviennent hardis s'ils s'apperçoivent qu'on les craint. Bou. Celui qui est hardi, &amp; courageux ne s'effraye point des maux qu'il prevoit, &amp; ne s'étonne point quand ils arrivent</def>
-</re>
+</sense>
 <pc>.</pc>
 
 <sense>
@@ -9829,12 +9886,19 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <pc>.</pc>
 
 <sense>
-<def>On appelle figurément &amp; par ressemblance toutes les femmes rustiques fortes en gueule, qui disent des paroles, ou qui font des actions sales &amp; insolentes, que ce sont des Harangeres, qu'elles disent des injures de Harangeres, parceque ces sortes de femmes sont grossieres &amp; insolentes. Scaliger devient une harangere dans ses emportemens, &amp; s'abaisse jusqu'au plus bas étage du peuple, pour dire des injures à ses ennemis. Bal. HaRGNE</def>
+<def>On appelle figurément &amp; par ressemblance toutes les femmes rustiques fortes en gueule, qui disent des paroles, ou qui font des actions sales &amp; insolentes, que ce sont des Harangeres, qu'elles disent des injures de Harangeres, parceque ces sortes de femmes sont grossieres &amp; insolentes. Scaliger devient une harangere dans ses emportemens, &amp; s'abaisse jusqu'au plus bas étage du peuple, pour dire des injures à ses ennemis. Bal</def>
 <pc>.</pc>
-<xr>Voyez Hernie</xr>
-<pc>.</pc></sense>
+</sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+<form type="lemma">
+<orth>HaRGNE</orth></form>    
+<xr>Voyez <ref>Hernie</ref></xr>
+<pc>.</pc>
+    
+</entry>
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HARGNEUX</orth>
 </form>
@@ -10073,20 +10137,54 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <sense>
 <form>Harmonieux</form>
 <pc>,</pc>
-<def>se dit aussi des discours où il y a de l'harmonie, &amp; dont la cadence, ou l'arrangement plaît à l'oreille. Les bagatelles de Balzac, étoient des bagatelles magnifiques, &amp; harmonieuses. Saumaise. Il est un heureux choix de mots harmonieux. Boi. Mais du discours enfin l'harmonieuse adresse, Rassembla les bumains dans les forts épars. Id. Ce n'est pas assez qu'un discours soit harmonieux pour le rendre agreable. Car si ce qu'il a d'harmonieux paroît trop affecté, ou trop regulier, il produit un effet tout contraire. Loin ces Predicateurs dont l'exatte élegance, A Toreille ennuyée offre tout en cadence ; Ce stile harmonieux &amp; me berce, &amp; m'endort. HArMONIEUSEMEt. de Prech. niere harmonieuse. Les rossignols chantent harmemiensement</def>
+    <def>se dit aussi des discours où il y a de l'harmonie, &amp; dont la cadence, ou l'arrangement plaît à l'oreille. Les bagatelles de Balzac, étoient des bagatelles magnifiques, &amp; harmonieuses. Saumaise. Il est un heureux choix de mots harmonieux. Boi. Mais du discours enfin l'harmonieuse adresse, Rassembla les bumains dans les forts épars. Id. Ce n'est pas assez qu'un discours soit harmonieux pour le rendre agreable. Car si ce qu'il a d'harmonieux paroît trop affecté, ou trop regulier, il produit un effet tout contraire. Loin ces Predicateurs dont l'exatte élegance, A Toreille ennuyée offre tout en cadence ; Ce stile harmonieux &amp; me berce, &amp; m'endort. L'Art. de Prech</def>
 </sense>
 <pc>.</pc>
-
-<re><form>Harmonique</form>
-<form>.</form>
-<form>HArRNACHEMENT</form>
-<pc>.</pc>
-<gramGrp>s. m</gramGrp>
-<form>.</form>
-<form>Lh</form>
-<def>s'aspirey Ce qui est necessaire pour hamacher, &amp; l'action de harnacher. Il a bien couté pour le harnachement des mulets de cet Ambafsadeur</def>
-<pc>.</pc></re>
 </entry>
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>HArMONIEUSEMEt</orth>    
+</form>
+<gramGrp>
+<pos>adv</pos>
+</gramGrp>
+    <pc>.</pc>
+</form>
+
+    <sense>
+    <def>D'une maniere harmonieuse. Les rossignols chantent harmemiensement</def>
+</sense>
+</entry>
+    
+<entry><form type="lemma">
+    <orth>Harmonique</orth></form>
+<pc>.</pc>
+    <xr>Voyez <ref>Progression Harmonique</ref></xr>
+<pc>.</pc>
+</entry>
+   
+<entry>   
+    <form type="lemmaGrp">
+<form type="lemma">
+    <orth>HArRNACHEMENT</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+    <pos>s</pos>
+    <pc>.</pc>
+    <gen>m</gen>
+</gramGrp>
+<pc>.</pc>
+<pron>(L'h s'aspire)</pron>
+</form>
+<sense>
+<def>Ce qui est necessaire pour hamacher, &amp; l'action de harnacher. Il a bien couté pour le harnachement des mulets de cet Ambafsadeur</def>
+<pc>.</pc>
+</sense>
+</entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HARNACHER</orth>
@@ -10940,25 +11038,13 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <subc>act</subc>
 </gramGrp>
 <pc>.</pc>
-<pron>Lh s'aspire Qui se dit souvent avec le pronom personnel</pron>
+<pron>Lh s'aspire</pron>
 </form>
 <pc>.</pc>
 
 <sense>
-<def>S'empresser, faire aller plus vite, avancer besogne. Hâtez vous de partir. Hâtez vôtre retour. Hâter le courier. Hâtez vous lentement. Boi. Les gens qui doivent ne se hâtent jamais trop de payer. On ne se hâte point d'annoncer les mechantes nouvelles. Nous voudrions bien hâter la lenteur de la colere de Dieu sur nos ennemis. Nic. Le Prince quand il s'agit de multiplier, ou de hâter ses bienfaits, ne souffre ni detours, ni lenteurs. Tour. Cette mauvaise nouvelle bâta ses destinées</def>
+    <def>Qui se dit souvent avec le pronom personnel. S'empresser, faire aller plus vite, avancer besogne. Hâtez vous de partir. Hâtez vôtre retour. Hâter le courier. Hâtez vous lentement. Boi. Les gens qui doivent ne se hâtent jamais trop de payer. On ne se hâte point d'annoncer les mechantes nouvelles. Nous voudrions bien hâter la lenteur de la colere de Dieu sur nos ennemis. Nic. Le Prince quand il s'agit de multiplier, ou de hâter ses bienfaits, ne souffre ni detours, ni lenteurs. Tour. Cette mauvaise nouvelle bâta ses destinées. H. S. De M. Les Docteurs ont souvent emprunté le bras seculier pour hâter le progrés de la verité. Oe. M. Saint Amant dit à un ruisseau ; Et si par mes regrets j'ai bien pû t'arrêter, Voici des pleurs pour te hâter. Le ciel qui s'interesse à mon juste couroux, Pour en hâter l'éclat n'a que faire de vous. Breb</def>
 <pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>H</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>S. de M. Les Docteurs ont souvent emprunté le bras seculier pour hâter le progrés de la verité. Oe. M. Saint Amant dit à un ruisseau ; Et si par mes regrets j'ai bien pû t'arrêter, Voici des pleurs pour te hâter. Le ciel qui s'interesse à mon juste couroux, Pour en hâter l'éclat n'a que faire de vous. Breb</def>
-</sense>
-<pc>.</pc>
 
 <etym>
 <lbl>Ce mot vient de l'</lbl>
@@ -11134,11 +11220,29 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <def>Poires de hâtiveau</def>
 </sense>
 <pc>.</pc>
-
-<sense>
-<def>HASTIiVEMENT, ou HativemENnt. cL'h s'aspire y adv. D'une maniere hâtive ou pressée. Il est de peu d'usage, &amp; ne se dit guere que des fruits &amp; des fleurs, qu'on hâte de meurir, de fleurir. On a mis les melons sous la cloche, pour en avoir hâtivement</def>
-<pc>.</pc></sense>
 </entry>
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>HASTIiVEMENT</orth>
+</form>
+<pc>,</pc>
+    <form type="variant">ou HativemENnt</form>
+<pc>.</pc>
+    <pron>(L'h s'aspire)</pron> 
+    <gramGrp>
+        <pos>adv</pos>
+    </gramGrp>
+    <pc>.</pc>
+</form>
+    
+<sense>
+<def>D'une maniere hâtive ou pressée. Il est de peu d'usage, &amp; ne se dit guere que des fruits &amp; des fleurs, qu'on hâte de meurir, de fleurir. On a mis les melons sous la cloche, pour en avoir hâtivement</def>
+<pc>.</pc>
+</sense>
+</entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HASTIVETE</orth>
@@ -11268,11 +11372,17 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <pc>!</pc>
 
 <sense>
-<def>Maigre, pile, defiguré. Il ne se dit que du visage, ou des yeux des gens qui ont été malades. Ils étoient tout haves &amp; defigurez. Ablan. Devant la calomnie marche l'envie au visage have, &amp; aux yeux louches. Id. On le dit aussi en parlant de l'apparition des esprits qui sont haves, decharnez. Lombre de son pere lui apparut avec un visage have, decharné &amp; affreux. HaVÉE</def>
+<def>Maigre, pile, defiguré. Il ne se dit que du visage, ou des yeux des gens qui ont été malades. Ils étoient tout haves &amp; defigurez. Ablan. Devant la calomnie marche l'envie au visage have, &amp; aux yeux louches. Id. On le dit aussi en parlant de l'apparition des esprits qui sont haves, decharnez. Lombre de son pere lui apparut avec un visage have, decharné &amp; affreux</def>
 <pc>.</pc>
-<xr>Voyez Havage</xr>
-<pc>.</pc></sense>
+</sense>
 </entry>
+
+<entry>
+<form type="lemma">HaVÉE</form>
+<xr>Voyez <ref>Havage</ref></xr>
+<pc>.</pc>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HAVERON</orth>
@@ -11287,7 +11397,7 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <pc>.</pc>
 
 <sense>
-<def>L'b s'aspire Sorte d'avoine. Menage</def>
+<def>L'h s'aspire Sorte d'avoine. Menage</def>
 <pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
@@ -12042,14 +12152,23 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <def>Celui qui tient un Fief de hautbert, qui est obligé d'accompagner son Seigneur à la guerre en cette qualité. Les vasseaux servoient autrefois leurs Seigneurs en qualité d'Ecuyers, de Hautbergiers, de Lanciers, d'Arbalêtriers, &amp;c</def>
 </sense>
 <pc>.</pc>
+</entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma">
+<orth>HaUtEMmENt</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>adv</pos>
+</gramGrp>
+<pc>.</pc>
+<pron>L'h s'aspire</pron>
+</form>
 
-<re><form>HaUtEMmENt</form>
-<form>.</form>
-<form>adv</form>
-<form>.</form>
-<form>L</form>
-<def>'b s'aspire y Courageasement, hardiment : d'une maniere haute, hardie, imperieuse. Il faut dire hantement la verité en tous lieux. Il a delivré, &amp; tiré hautement ce prisonnier. Defendre ses amis bautement ; parler un peu trop hautement, avec trop de fierté</def>
-</re>
+<sense>
+<def>Courageasement, hardiment : d'une maniere haute, hardie, imperieuse. Il faut dire hantement la verité en tous lieux. Il a delivré, &amp; tiré hautement ce prisonnier. Defendre ses amis bautement ; parler un peu trop hautement, avec trop de fierté</def>
+</sense>
 <pc>.</pc>
 
 <sense>
@@ -13354,11 +13473,30 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <gloss>qui signifie erumpo, je sors avec violence</gloss>
 </etym>
 <pc>.</pc>
-
-<sense>
-<def>HEMORRHOIdAl, ale. adj. C'est une épithete qui se donne aux arteres &amp; aux veines de l'intestin droit &amp; du fondement, dans lesquelles coule le sang qui cause les hemorrhoïdes. Il y a une artere hemorrhoïdale interne &amp; une externe. Lartere hemorrhotdale interne est un rameau de la mesenterique inferieure, qui se traîne le long de l'intestin droit, &amp; se termine au fondement. Lartere hemorrhoïdale externe vient de l'artere hypogastrique. Il y a aussi une veine hemorrhoïdale interne &amp; une externe. La veine hemorrhoîdale interne reporte le sang de l'intestin droit, &amp; du fondement lequel elle embrasse circulairement, &amp; va s'inserer tantôt au rameau splenique de la veine porte, &amp; tantôt au mesenterique. La veine hemorrhoïdale externe reporte le sang des parties musculeuses du fondement, &amp; se termine à la veine hypogastrique</def>
-<pc>.</pc></sense>
 </entry>
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>HEMORRHOIdAl</orth>
+</form>
+<pc>,</pc>
+<form type="inflected">
+<orth type="part">ale</orth>
+</form>
+<pc>.</pc>
+<gramGrp>
+<pos>adj</pos>
+<pc>.</pc>
+</gramGrp>
+</form>
+    
+<sense>
+<def>C'est une épithete qui se donne aux arteres &amp; aux veines de l'intestin droit &amp; du fondement, dans lesquelles coule le sang qui cause les hemorrhoïdes. Il y a une artere hemorrhoïdale interne &amp; une externe. Lartere hemorrhotdale interne est un rameau de la mesenterique inferieure, qui se traîne le long de l'intestin droit, &amp; se termine au fondement. Lartere hemorrhoïdale externe vient de l'artere hypogastrique. Il y a aussi une veine hemorrhoïdale interne &amp; une externe. La veine hemorrhoîdale interne reporte le sang de l'intestin droit, &amp; du fondement lequel elle embrasse circulairement, &amp; va s'inserer tantôt au rameau splenique de la veine porte, &amp; tantôt au mesenterique. La veine hemorrhoïdale externe reporte le sang des parties musculeuses du fondement, &amp; se termine à la veine hypogastrique</def>
+<pc>.</pc>
+</sense>
+</entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HEMORRHOIDALE</orth>
@@ -13939,10 +14077,28 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <pc>.</pc>
 
 <sense>
-<def>On appelle aussi en Fauconnerie herbier, le tuyau ou canal de la respiration qui est dans le col de l'oiseau HERBIERE. s. f. Vendeuse d'herbes dans les marchez. On appelle aussi Herbieres, ces petites païsannes qui vont à l'herbe, &amp; qui derobent les herbes des prez, si on n'y prend garde</def>
+<def>On appelle aussi en Fauconnerie herbier, le tuyau ou canal de la respiration qui est dans le col de l'oiseau</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>HERBIERE</orth>
+</form>
+<gramGrp>
+<pos>s</pos>
+    <pc>.</pc>
+<gen>f</gen>
+    <pc>.</pc>
+</gramGrp>
+</form>
+<sense>
+    <def>Vendeuse d'herbes dans les marchez. On appelle aussi Herbieres, ces petites païsannes qui vont à l'herbe, &amp; qui derobent les herbes des prez, si on n'y prend garde</def>
+</sense>
+</entry>
+
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HERBORISER</orth>
 </form>
@@ -14021,31 +14177,37 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <def>Qui est bien garni d'herbes. Il se dit des prez &amp; des chemins</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+    
+<entry>
 <form type="lemma">
 <orth>HERCE</orth>
 </form>
 <pc>.</pc>
-<form type="variant">
-<orth>Voyez Herse</orth>
-</form>
+<xr>Voyez <ref>Herse</ref></xr>
 <pc>.</pc>
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>HERCOtECTONIQUE</orth>
+</form>    
 <gramGrp>
-<pos>HERCOtECTONIQUE</pos>
-<pc>.</pc>
 <pos>subst</pos>
 <pc>.</pc>
 <gen>f</gen>
 </gramGrp>
-</form>
 <pc>.</pc>
-
+</form>
+    
 <sense>
 <usg>Terme de Fortification</usg>
 <pc>.</pc>
 <def>Partie de l'Architecture militaire qui enseigne à travailler à la deffense, &amp; à la munition</def>
-<pc>.</pc></sense>
+<pc>.</pc>
+</sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HERE</orth>
@@ -14476,7 +14638,7 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>HERISONN</orth>
+<orth>HERISONNE'</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -15221,7 +15383,7 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>HERPESMARINES</orth>
+<orth>HERPES MARINES</orth>
 </form>
 </form>
 <pc>,</pc>
@@ -15454,29 +15616,36 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <def>L'Academie aspire l'h de ce mot. Cependant il paroit par beaucoup d'exemples que tous les bons Auteurs ne l'ont pas toujours aspirée ; d'où l'on peut inferer que cela est assez indifferent, &amp; qu'on peut ou l'aspirer, ou ne l'aspirer pas, selon qu'on le juge à -propos, &amp; qu'il paroît plus, ou moins rude à l'oreille. Hesiter, c'est être incertain &amp; irresolu ; balancer à dire, ou à faire quelque chose. Hesitant, &amp; tremblant, il ne dit que bien peu de ce qu'il avoit premedité. Vaug. Abraham se souvenant qu'il n'avoit ce fis que de Dieu, n'hesita point. Port-R. Il hesitoit entre le desir &amp; la honte. Vaug. Quand il est question de servir ses amis, il ne faut point heter à prendre parti. Un esprit foible ne conclut rien, il hesite touûjours. Cesar n'hesita plus quand il eut passé le Rubicon. Cet enfant ne sçait pas encore bien lire, il hesite à chaque mot</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HESTOUDEAU</orth>
 </form>
-</form>
-<re><form>, o HEtOudEaU</form>
-<pc>.</pc></re>
-</entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>ETOUDEAU</orth>
-</form>
 <pc>,</pc>
-<form type="variant">
-<orth>ou HEtUuDEAU</orth>
-</form>
-</form>
+<form type="variant">ou 
+    <orth>HEtOudEaU</orth></form>
+<pc>,</pc>
+    <form type="variant">ou 
+        <orth>ETOUDEAU</orth></form>
+    <pc>,</pc>
+    <form type="variant">ou 
+        <orth>HETUDEAU</orth></form>
+    <pc>.</pc>
+<gramGrp>
+<pos>s</pos>
 <pc>.</pc>
-
+<gen>m</gen>
+<pc>.</pc>
+</gramGrp>
+</form>
+    
 <sense>
-<def>Menage est pour le dernier, comme le plus usité. s. m. Gros poulet qui n'est pas encore chapon. En Latin, pullaster</def>
+    <usg>Menage est pour le dernier, comme le plus usité</usg>
+<pc>.</pc>
+    <def>Gros poulet qui n'est pas encore chapon. En Latin, pullaster</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HESTRE</orth>
@@ -15644,30 +15813,17 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <pc>.</pc>
 
 <sense>
-<def>Plante qui se trouve en grande abondance dans le Bresil. Sa racine est longue d'un pied &amp; demi, gros comme les deux poings, ressemblant à un fruit, bonne à manger, agreable au goût. Elle pousse quelques petites tiges tendres, &amp; des feuilles larges, semblables à celles de la coleuvrée. En Latin, Hetich americum, sive rapum Americanum folin bryonia</def>
-<pc>.</pc></sense>
+    <def>Plante qui se trouve en grande abondance dans le Bresil. Sa racine est longue d'un pied &amp; demi, gros comme les deux poings, ressemblant à un fruit, bonne à manger, agreable au goût. Elle pousse quelques petites tiges tendres, &amp; des feuilles larges, semblables à celles de la coleuvrée. En Latin, Hetich americum, sive rapum Americanum folin bryonia. C. B. La racine est estimée aperitive</def>
+<pc>.</pc>
+</sense>
 </entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>C</orth>
-</form>
-<pc>.</pc>
-<form type="lemma">
-<orth>B</orth>
-</form>
-</form>
-<pc>.</pc>
 
-<sense>
-<def>La racine est estimée aperitive</def>
-<pc>.</pc></sense>
-</entry>
 </div>
 <div>
 <head>HEU<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>HIEU</orth>
+<orth>HEU</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -16284,19 +16440,11 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <head>HI<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>HI</orth>
-</form>
-<pc>,</pc>
-<form type="inflected">
-<orth type="part">HI</orth>
-</form>
-<pc>,</pc>
-<form type="lemma">
-<orth>HI</orth>
-</form>
+<orth>HI, HI, HI</orth>
 </form>
 <pc>.</pc>
-
+</form>
+    
 <sense>
 <def>Sortes d'interjections qui servent à faire voir la joye de l'ame par le rire. Hi, bi, hi, comme vous voilà bâti. Mol. Je vous demande pardon, mais vous êtes si plaisant que je ne saurols me tenir de rire, bi, hi, h. Mol</def>
 <pc>.</pc></sense>
@@ -17747,7 +17895,7 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>IIOCHEPIED</orth>
+<orth>HOCHEPIED</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -17844,7 +17992,7 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>HOCHFT</orth>
+<orth>HOCHET</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -18773,11 +18921,7 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <head>HON<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>HON</orth>
-</form>
-<pc>,</pc>
-<form type="lemma">
-<orth>HON</orth>
+<orth>HON, HON</orth>
 </form>
 </form>
 <pc>.</pc>
@@ -19186,7 +19330,7 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>HONNITSANCAZON</orth>
+<orth>HONNITS-ANCAZON</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -19718,16 +19862,29 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <def>C'est le bas du ciel de quelque Estampe enluminée, qui est fait avec da blanc &amp; de l'ocre. Voilà un bel borison</def>
 </sense>
 <pc>.</pc>
-
-<re><form>HORISONTaAL, ou Horizontal</form>
-<form>.</form>
-<form>ale</form>
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>HORISONTAL</orth>
+</form>
+<pc>,</pc>
+<form type="variant">ou
+    <orth>Horizontal</orth>
+<pc>.</pc>
+</form>
+<form type="inflected">
+<orth type="part">ale</orth>
+</form>
 <pc>.</pc>
 <gramGrp>adj</gramGrp>
-<form>.</form>
-<form>Qui</form>
-<def>est de niveau à l'horison ; qui n'est point incliné sur l'horison. En Gnomonique un cadran borisontal, est celui qui est decrit sur un plan qui n'est point incliné à l'horison, &amp; dont le stile est élevé selon l'élevation du Pole du lieu où il est construit. En Perspective on appelle le plan horisontal, ou gemetri que, celui qu'on entreprend de peindre en lointain, &amp; en perspective ; &amp; la ligne horisontale, celle où se trouve le point de vuë, la hauteur de l'oeil où toutes les autres lignes doivent aboutir, pour mettre les corps en perspective</def>
-</re>
+</form>
+<pc>.</pc>
+    
+<sense>
+<def>Qui est de niveau à l'horison ; qui n'est point incliné sur l'horison. En Gnomonique un cadran borisontal, est celui qui est decrit sur un plan qui n'est point incliné à l'horison, &amp; dont le stile est élevé selon l'élevation du Pole du lieu où il est construit. En Perspective on appelle le plan horisontal, ou gemetri que, celui qu'on entreprend de peindre en lointain, &amp; en perspective ; &amp; la ligne horisontale, celle où se trouve le point de vuë, la hauteur de l'oeil où toutes les autres lignes doivent aboutir, pour mettre les corps en perspective</def>
+</sense>
 <pc>.</pc>
 
 <sense>
@@ -19739,16 +19896,25 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <def>On appelle en Architecture horisontal, le rez de chaussée qui est de plein pied, de niveau avec la cour, la ruë, le terrain de la campagne. Ainsi on dira, qu'un appartement est horisontal, qui est bâti sur le niveau ; mais on ne le dira point des étages superieurs, ni des terrasses, quoyqu'elles soient parallêles à l'horison</def>
 </sense>
 <pc>.</pc>
-
-<re><form>HORISontalEMENT</form>
-<form>.</form>
-<form>adv</form>
-<form>.</form>
-<form>D'une ma</form>
-<pc>-</pc>
-<def>niere, ou situation horisontale, ou de niveau, sans faire aueun angle, sans aucune inclination sur l'horison. Une genouilliere sert à disposer un instrument de Mathematique tantôt horisontalement, tantôt perpendiculairement, tantôt obliquement</def>
-<pc>.</pc></re>
 </entry>
+    
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>HORISontalEMENT</orth>
+</form>
+<pc>.</pc>
+<gramGrp>adv</gramGrp>
+<pc>.</pc>  
+</form>
+    
+<sense>
+<def>D'une maniere, ou situation horisontale, ou de niveau, sans faire aueun angle, sans aucune inclination sur l'horison. Une genouilliere sert à disposer un instrument de Mathematique tantôt horisontalement, tantôt perpendiculairement, tantôt obliquement</def>
+<pc>.</pc>
+</sense>
+</entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HORLOGE</orth>
@@ -20136,7 +20302,7 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>IIORTOLAGE</orth>
+<orth>HORTOLAGE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -20502,24 +20668,53 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <def>Cest un droit que les Marchands forains payent pour le loüage des maisons &amp; boutiques où ils mettent leurs marchandises qu'ils amenent aux Foires ou aux marchez. Il signifie ausfi, un droit que les sujets payent au Seigneur pour le foüage &amp; tenement, c'est-à-dire, habitation</def>
 </sense>
 <pc>.</pc>
-
-<re><form>HOoSTELERiE, ou HOtELEriE</form>
-<form>.</form>
-<form>s. f</form>
-</re>
+</entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma">
+<orth>HOSTELERiE</orth>
+</form>
+<pc>,</pc>
+<form type="variant">ou 
+<orth>HOTELERIE</orth></form>
 <pc>.</pc>
-
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>f</gen>
+</gramGrp>
+<pc>.</pc>
+</form>
+    
 <sense>
 <def>Logis garni que tient un hôtelier, où on reçoit les voyageurs &amp; les passans pour les loger &amp; nourrir pour de l'argent. L'hôtelerie est plus honnête que le cabaret. Il y a de bonnes hôteleries, de bons gites sur cette route. Quand on va manger chez un Grand Seigneur à la camtse, il faut envoyer les gens à l'htelerie, au ca HOSTELIER, o HOtELIER, iere. s. m. &amp; f. Qui tient une maison garnie de meubles &amp; de vivres, une auberge, un cabaret pour loger ou nourrir les voyageurs, ou ceux qui n'ont point de mênage établi. Les Hôtediers &amp; Cabaretiers payent le droit de huitiéme. Les têteliers sont responsables des hardes que les hôtes portent chez eux ; &amp; du vol de leurs domestiques. Si l'hteler nie le depost des hardes, l'on est reçu à la preuve par temoins</def>
 </sense>
 <pc>.</pc>
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+<orth>HOSTELIER</orth>
+</form>   
+<pc>,</pc>
+<form type="variant">ou<orth>HOTELIER</orth>
+</form>
+<pc>,</pc>
+<form type="inflected">
+<orth type="part">iere</orth>
+</form>
+<gramGrp>
+<pos>m &amp;f</pos>
+</gramGrp>
+<pc>.</pc>
+</form> 
 
 <sense>
-<form>Hostelier</form>
-<pc>,</pc>
 <def>est aussi un Office claustral dans les grandes Abbayes, ou la charge d'un Religieux qui a soin de recevoir &amp; de nourrir les hôtes, les passagers</def>
 <pc>.</pc></sense>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HOSTIE</orth>
@@ -20587,23 +20782,27 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <gloss>qui signifie ennemi, &amp; qui signifioit autrefois un étranger</gloss>
 </etym>
 <pc>.</pc>
-
-<re><form>HOSTILITtÉ</form>
-<form>.</form>
-<form>s</form>
-</re>
-<form type="lemmaGrp">
+</entry>
+    
+<entry><form type="lemmaGrp">
+<form type="lemma">
+    <orth>HOSTILITÉ</orth></form>
 <pc>.</pc>
 <gramGrp>
-<pos>f</pos>
-</gramGrp>
-</form>
+<pos>s</pos>
 <pc>.</pc>
-
+<gen>f</gen>
+</gramGrp>
+<pc>.</pc>
+<pron>Prononcez l's</pron> 
+</form>
+    
 <sense>
-<def>Prononcez 's Action d'ennemi. Devant une treve tous les actes d'hostilité doivent cesser de part &amp; d'autre. Cette ville est neutre, &amp; n'a fait aucune hofilité à l'un ni à l'autre parti</def>
-<pc>.</pc></sense>
+<def> Action d'ennemi. Devant une treve tous les actes d'hostilité doivent cesser de part &amp; d'autre. Cette ville est neutre, &amp; n'a fait aucune hofilité à l'un ni à l'autre parti</def>
+<pc>.</pc>
+</sense>
 </entry>
+    
 </div>
 <div>
 <head>HOT<pc>.</pc></head>
@@ -20670,20 +20869,18 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 </div>
 <div>
 <head>HOU<pc>.</pc></head>
-<entry><form type="lemmaGrp">
+<entry>
+<form type="lemmaGrp">
 <form type="lemma">
-<orth>HOU</orth>
-</form>
-<pc>,</pc>
-<form type="variant">
-<orth>HOu, Valet</orth>
-</form>
+<orth>HOU, HOU</orth>
 </form>
 <pc>.</pc>
-
+</form>
+    
 <sense>
-<def>Terme dont le valet de Limier use en parlant à son Limier, quand il detourne le Loup, ou le cerf, ou une bête fauve. Saln</def>
-<pc>.</pc></sense>
+<def>Valet. Terme dont le valet de Limier use en parlant à son Limier, quand il detourne le Loup, ou le cerf, ou une bête fauve. Saln</def>
+<pc>.</pc>
+</sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
@@ -20964,21 +21161,11 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <pc>.</pc>
 <usg>Terme de Blason</usg>
 <pc>.</pc>
-<def>Bouquet, ou touffe de soye qui termine un cordon de soye entrelassé, &amp; pendant du chapeau, lequel sert de timbre à l'écusson des Cardinaux, Archevêques, Evêques, &amp; Protonotaires. Le nombre des houppes de chaque rang augmente en descendant. Les Cardinaux portent le chapeau rouge avec des cordons de soye entrelassez, d'où pendent cinq rangs de houppes rouges dans cet ordre : 1. 2. 3</def>
+    <def>Bouquet, ou touffe de soye qui termine un cordon de soye entrelassé, &amp; pendant du chapeau, lequel sert de timbre à l'écusson des Cardinaux, Archevêques, Evêques, &amp; Protonotaires. Le nombre des houppes de chaque rang augmente en descendant. Les Cardinaux portent le chapeau rouge avec des cordons de soye entrelassez, d'où pendent cinq rangs de houppes rouges dans cet ordre : 1. 2. 3. 4. 5. Les Archevêques portent un chapeau de sinople avec des cordons de soye entrelassez se terminans en quatre rangs de houppes de sinople : 1. . 3. 4. Les Evêques en trois rangs de houppes de sinople. 1. 2. 3. Les Protonotaires en deux rangs de houppes de même : 1. 2</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
-<form type="lemma">
-<orth>5</orth>
-</form>
-</form>
-<pc>.</pc>
 
-<sense>
-<def>Les Archevêques portent un chapeau de sinople avec des cordons de soye entrelassez se terminans en quatre rangs de houppes de sinople : 1. . 3. 4. Les Evêques en trois rangs de houppes de sinople. 1. 2. 3. Les Protonotaires en deux rangs de houppes de même : 1. 2</def>
-<pc>.</pc></sense>
-</entry>
-<entry><form type="lemmaGrp">
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HOUPPELANDE</orth>
 </form>
@@ -22024,12 +22211,31 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <pc>.</pc>
 
 <sense>
-<def>On appelle des oeufs à la Hugueote, ceux qui sont cuits avec du jus de mouton, ou de la graisse. HUGUENOTISME. s. m. Profession de la Religion Huguenotte. Cet homme est né dans le Huguenotisme, &amp; y veut mourir</def>
+<def>On appelle des oeufs à la Hugueote, ceux qui sont cuits avec du jus de mouton, ou de la graisse</def>
 <pc>.</pc></sense>
+</entry>
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>HUGUENOTISME</orth>
+</form>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m</gen>
+<pc>.</pc>
+</gramGrp>
+</form>
+
+<sense>
+    <def>Profession de la Religion Huguenotte. Cet homme est né dans le Huguenotisme, &amp; y veut mourir</def>
+</sense>
 </entry>
 </div>
 <div>
 <head>HUI<pc>.</pc></head>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HUIAU</orth>
@@ -22369,10 +22575,29 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <pc>.</pc>
 
 <sense>
-<def>On dit aussi hait vingts ; pour dire, 160. &amp; dix &amp; huit, vingt &amp; huit, trente-huit, &amp; huit cens, huit mille, &amp;c HUITAIN. s. m. Piece de Poësie comprise en huit vers, ou un couplet de huit vers. Le Poëte de Buscon avoit fait un Poëme pour les onze mille Vierges, &amp; pour chacune cinquante huitains</def>
+<def>On dit aussi hait vingts ; pour dire, 160. &amp; dix &amp; huit, vingt &amp; huit, trente-huit, &amp; huit cens, huit mille, &amp;c</def>
 <pc>.</pc></sense>
 </entry>
-<entry><form type="lemmaGrp">
+
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>HUITAIN</orth>
+</form>
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>m</gen>
+<pc>.</pc>
+</gramGrp>
+</form>
+    
+<sense>
+    <def>Piece de Poësie comprise en huit vers, ou un couplet de huit vers. Le Poëte de Buscon avoit fait un Poëme pour les onze mille Vierges, &amp; pour chacune cinquante huitains</def>
+</sense>    
+</entry>
+    
+    <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HUITAINE</orth>
 </form>
@@ -22449,17 +22674,30 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <pc>.</pc>
 
 <sense>
-<def>On dit en sa place, en huitiéme lieu. HUITZPACOtE. subst. m</def>
+<def>On dit en sa place, en huitiéme lieu</def>
 <pc>.</pc>
-<xr>Voyez Hucipochotl</xr>
-<pc>.</pc></sense>
+</sense>
+</entry>
+
+<entry>
+<form type="lemmaGrp">
+<orth>HUITZPACOtE. subst. m</orth>
+</form>    
+<gramGrp>
+<pos>subst</pos>
+<pc>.</pc>
+<gen>m</gen>
+<pc>.</pc>
+</gramGrp>
+<xr>Voyez <ref>Hucipochotl</ref></xr>
+<pc>.</pc>
 </entry>
 </div>
 <div>
 <head>HUL<pc>.</pc></head>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>HULOtTE</orth>
+<orth>HULOTTE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -22636,9 +22874,28 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <pc>.</pc>
 
 <sense>
-<def>On dit proverbialement en raillerie, Reposer son himanité ; pour dire, Se mettre à son aise, chercher ses commoditez. HUMBLE. adj. &amp; s. m. &amp; f. Modeste, soumis, qui est sans orgueil, sans fierté. L'humilité des faux humbles n'est qu'une dissimulation. M. Esp. Qu'il est difficile d'être humble, lorsqu'on considere son élevation comme un effet de son merite, &amp; qu'on se l'est procurée par son adresse ! Nic. Le meilleur moyen de s'insinuer dans l'esprit des Grands, c'est d'être bumble, &amp; souple. Je ne me trouve jamais si humble, que quand il faut repondre à vos lettres. Voi. Elle étoit humble sans bassesse, &amp; simple sans superstition. Fl. Mille gens conviennent des raisons qu'il y a de s'humilier sans être plus humbles. Id. L'orgueil est bien souvent caché sous l'humilité même ; on ne parle en termes bumbles que pour se faire estimer davantage. Oe. M</def>
+<def>On dit proverbialement en raillerie, Reposer son himanité ; pour dire, Se mettre à son aise, chercher ses commoditez</def>
 </sense>
 <pc>.</pc>
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>HUMBLE</orth>
+</form>
+<pc>.</pc>    
+<gramGrp>
+<pos>adj. &amp; s</pos>
+<pc>.</pc>
+<gen>m. &amp; f</gen>
+<pc>.</pc>
+</gramGrp>
+</form>
+    
+<sense>
+    <def>Modeste, soumis, qui est sans orgueil, sans fierté. L'humilité des faux humbles n'est qu'une dissimulation. M. Esp. Qu'il est difficile d'être humble, lorsqu'on considere son élevation comme un effet de son merite, &amp; qu'on se l'est procurée par son adresse ! Nic. Le meilleur moyen de s'insinuer dans l'esprit des Grands, c'est d'être bumble, &amp; souple. Je ne me trouve jamais si humble, que quand il faut repondre à vos lettres. Voi. Elle étoit humble sans bassesse, &amp; simple sans superstition. Fl. Mille gens conviennent des raisons qu'il y a de s'humilier sans être plus humbles. Id. L'orgueil est bien souvent caché sous l'humilité même ; on ne parle en termes bumbles que pour se faire estimer davantage. Oe. M</def>
+</sense> 
 
 <sense>
 <form>Humble</form>
@@ -23462,9 +23719,27 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <gloss>r HYA</gloss>
 </etym>
 <pc>.</pc>
-
+</entry>
+    
+<entry>
+<form type="lemmaGrp">
+<form type="lemma">
+    <orth>HYACiNTHE</orth>
+</form>
+<pc>,</pc>
+<form type="variant">
+    <orth>JacinTE</orth>
+</form> 
+<gramGrp>
+<pos>s</pos>
+<pc>.</pc>
+<gen>f</gen>
+</gramGrp>
+<pc>.</pc>
+</form>
+    
 <sense>
-<def>HYACiNTHE, ou JacinTE. s. f. Il y a plusieurs Fleuristes qui font ce mot masculin ; mais on ne croît pas qu'ils doivent être suivis en cela. C'est une plante dont les feuilles sont oblongues, étroites, d'un verd gai, lisses, luisantes, pointues par le bout. Il sort de sa racine une seule tige, haute d'environ demipied, quelquefois davantage, ronde, lisse, sans feuilles, de laquelle le sommet est courbé &amp; pendant en bas à cause de la pesanteur de ses fleurs, lorsqu'elles commencent de s'épanouïr. Ces fleurs sont des tuyaux qui s'évasant en haut se decoupent en six parties rabatues sur les côtez, &amp; qui representent en quelque maniere une cloche, de couleur ordinairement blene, quelquefois blanche, quelquefois de couleur de chair, quelquefois approchante du purpurin, d'une odeur agreable. Cette fleur est suivie d'un fruit presque rond, &amp; relevé de trois coins. Il est divisé en trois loges remplies de quelques semences rondes, petites, noires. Sa racine est bulbeuse, oblongue, blanche. Elle croit dans les champs, au bord des chemins, dans les jardins. La racine est detersive, astringente, agutinante. La semence est aperitive. En Latin Hyacinthus oblongo flore ceruleus major. Il y a plusieurs autres especes de hyacinthe. Son nom vient, selon Nonius, de ta &amp; cynthion, qui signifie violettes d''Apollon ; ou de ia qui signifie seule, &amp; de cymthos qui signifie fleur, c'est-à-dire, fleur par excellence, comme dit Fulgence. On le tire communement, du Grec hyalkinthos, qui est le nom d'un beau jeune homme aimé d'Apollon, du sang duquel les Poëtes disent que cette fleur a été produitte</def>
+<def>Il y a plusieurs Fleuristes qui font ce mot masculin ; mais on ne croît pas qu'ils doivent être suivis en cela. C'est une plante dont les feuilles sont oblongues, étroites, d'un verd gai, lisses, luisantes, pointues par le bout. Il sort de sa racine une seule tige, haute d'environ demipied, quelquefois davantage, ronde, lisse, sans feuilles, de laquelle le sommet est courbé &amp; pendant en bas à cause de la pesanteur de ses fleurs, lorsqu'elles commencent de s'épanouïr. Ces fleurs sont des tuyaux qui s'évasant en haut se decoupent en six parties rabatues sur les côtez, &amp; qui representent en quelque maniere une cloche, de couleur ordinairement blene, quelquefois blanche, quelquefois de couleur de chair, quelquefois approchante du purpurin, d'une odeur agreable. Cette fleur est suivie d'un fruit presque rond, &amp; relevé de trois coins. Il est divisé en trois loges remplies de quelques semences rondes, petites, noires. Sa racine est bulbeuse, oblongue, blanche. Elle croit dans les champs, au bord des chemins, dans les jardins. La racine est detersive, astringente, agutinante. La semence est aperitive. En Latin Hyacinthus oblongo flore ceruleus major. Il y a plusieurs autres especes de hyacinthe. Son nom vient, selon Nonius, de ta &amp; cynthion, qui signifie violettes d''Apollon ; ou de ia qui signifie seule, &amp; de cymthos qui signifie fleur, c'est-à-dire, fleur par excellence, comme dit Fulgence. On le tire communement, du Grec hyalkinthos, qui est le nom d'un beau jeune homme aimé d'Apollon, du sang duquel les Poëtes disent que cette fleur a été produitte</def>
 </sense>
 <pc>.</pc>
 
@@ -23769,9 +24044,15 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <lang>Grec</lang>
 <foreign>hydor aqua</foreign>
 <pc>,</pc>
-<gloss>&amp; de kili, ramez, ramex aquosus YDROCEPHALE</gloss>
+<gloss>&amp; de kili, ramez, ramex aquosus</gloss>
 </etym>
+</entry>
+    
+<entry>    
 <form type="lemmaGrp">
+<form type="lemma">
+<orth>YDROCEPHALE</orth>
+</form>
 <pc>.</pc>
 <gramGrp>
 <pos>s</pos>
@@ -23796,6 +24077,7 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <gloss>eau, &amp; de kephalé, tête</gloss>
 <pc>.</pc></etym>
 </entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HYDROGRAPHIE</orth>
@@ -24070,26 +24352,29 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <pc>.</pc>
 
 <sense>
-<def>Animal dont il est parlé dans le V</def>
-<pc>.</pc></sense>
+    <def>Animal dont il est parlé dans le V. Testament. Son corps est aussi grand que celui d'un loup : excepté que les jambes ne sont pas si hautes. Son poil est plus rude, &amp; sa peau est mouchetée de diverses couleurs. Bochart</def>
+<pc>.</pc>
+</sense>
 </entry>
+
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>T</orth>
+<orth>HYGROmETRE</orth>
 </form>
-<form type="inflected">
-<orth type="part">estament</orth>
+<pc>,</pc>
+<form type="variant">ou
+<orth>HYGROSCOpE</orth>
 </form>
-</form>
+<gramGrp>
+<pos>s</pos>
 <pc>.</pc>
+<gen>m</gen>
+</gramGrp>
+<pc>.</pc>
+</form>
 
 <sense>
-<def>Son corps est aussi grand que celui d'un loup : excepté que les jambes ne sont pas si hautes. Son poil est plus rude, &amp; sa peau est mouchetée de diverses couleurs. Bochart. HYG</def>
-</sense>
-<pc>.</pc>
-
-<sense>
-<def>HYGROmETRE, ou HYGROSCOpE. s. m. Machine, instrument pour mesurer les divers degrez de secheresse, ou d'humidité de l'air. Il est composé de deux petits ais de bois fort deliez qui se meuvent dans une coulice, suivant que l'humidité ou la secheresse de l'air les fait enfler ou se retirer, &amp; par leur mouvement ils font mouvoir une aiguille qui est au milieu, &amp; qui marque dans un cadran les degrez de ces qualitez. Voyez la figure dans le Journal des Sçavans de l'an 1677. Il a été inventé en Angleterre. Il y en a de plusieurs sortes. L'hygroscope de l'invention d'Emanuel Magnan, est fait avec un seul brin de l'épic d'avoine sauvage qui est parfaitement meur, sur lequel on met un Index. On se peut servir aussi de la gousse d'une vesse sauvage, qui se redresse suivant l'humidité, ou secheresse de l'air, comme il est dit dans l'Hiftoire de la Societé Royale d'Angleterre. Voyez Dalencé qui propose plusieurs manieres pour marquer la difference de la secherefse, ou de l'humidité. Voyez aussi le Traitté de Foucher</def>
+<def>Machine, instrument pour mesurer les divers degrez de secheresse, ou d'humidité de l'air. Il est composé de deux petits ais de bois fort deliez qui se meuvent dans une coulice, suivant que l'humidité ou la secheresse de l'air les fait enfler ou se retirer, &amp; par leur mouvement ils font mouvoir une aiguille qui est au milieu, &amp; qui marque dans un cadran les degrez de ces qualitez. Voyez la figure dans le Journal des Sçavans de l'an 1677. Il a été inventé en Angleterre. Il y en a de plusieurs sortes. L'hygroscope de l'invention d'Emanuel Magnan, est fait avec un seul brin de l'épic d'avoine sauvage qui est parfaitement meur, sur lequel on met un Index. On se peut servir aussi de la gousse d'une vesse sauvage, qui se redresse suivant l'humidité, ou secheresse de l'air, comme il est dit dans l'Hiftoire de la Societé Royale d'Angleterre. Voyez Dalencé qui propose plusieurs manieres pour marquer la difference de la secherefse, ou de l'humidité. Voyez aussi le Traitté de Foucher</def>
 </sense>
 <pc>.</pc>
 
@@ -24104,6 +24389,7 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 </div>
 <div>
 <head>HYM<pc>.</pc></head>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HYMEN</orth>
@@ -24281,7 +24567,7 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 </entry>
 <entry><form type="lemmaGrp">
 <form type="lemma">
-<orth>HYPERBSLIQUE</orth>
+<orth>HYPERBOLIQUE</orth>
 </form>
 <pc>.</pc>
 <gramGrp>
@@ -24367,9 +24653,21 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <pc>.</pc>
 
 <sense>
-<def>Table qu'on met aux portes Doriques, au dessus du chambranle, on forme de frise. portique à decouvert ; comme étoient anciennement quelques temples qui n'avoient point de toit</def>
+<def>Table qu'on met aux portes Doriques, au dessus du chambranle, on forme de frise</def>
 <pc>.</pc></sense>
 </entry>
+
+<entry>
+<form type="lemma">
+<orth>HYPETRE</orth>
+</form>
+    
+<sense>
+<def>C'est selon Vitruve un édifice, ou un portique à decouvert ; comme étoient anciennement quelques temples qui n'avoient point de toit</def>    
+</sense>    
+<pc>.</pc>
+</entry>
+    
 <entry><form type="lemmaGrp">
 <form type="lemma">
 <orth>HYPNOTIQUE</orth>
@@ -24735,27 +25033,8 @@ Vvieille haha, Vôtre chien de fessier en a. Scar</def><pc>.</pc></sense>
 <gloss>d'hypo, sub, &amp; de histimi ou stao, sto, existo</gloss>
 </etym>
 <pc>.</pc>
-
-<etym>
-<lbl>Ce mot excita autrefois de</lbl>
-<gloss>grands demêlez entre les Grecs, &amp; puis entre les Grecs &amp; les Latins</gloss>
-<pc>.</pc>
-<gloss>Dans le Concile de Nicée hypostase est la même chose que sub</gloss>
-</etym>
-<form type="lemmaGrp">
-<form type="lemma">
-<orth>stance</orth>
-</form>
-<pc>,</pc>
-<form type="variant">
-<orth>ou essence</orth>
-</form>
-</form>
-<pc>.</pc>
-
-<sense>
-<def>Ainsi c'étoit une heresie que de dire, que Jesus-Christ est d'une autre hypostase que le Pere, parce qu'hypostese signifioit essence. Mais l'usage changea. Dans le besoin qu'on eut de s'exprimer contre les Sabelliens, les Grecs choisirent le terme d'hypostase, &amp; les Latins celui de Personne. Ce changement fut la source de la contestation ; car ceux qui prenoient le mot d'hypostase dans son ancienne signification, ne pouvoient supporter que l'on posât trois hypostases ; c'étoient trois essences divines selon eux ; mais ce mot fut expliqué : &amp; ceux qui s'en servoient contre les Sabelliens declarerent, qu'ils entendoient par là trois individus, ou trois sujets qui subsistent également, &amp; non pas trois substances, ou essences differentes. Dans ce sens ils reconnoissoient trois hypostases dans une seule essence. D'autres entendoient par essence, une nature commune &amp; indefinie ; comme l'humanité à l'égard de tous les hommes en general : &amp; pir hypostase une nature singuliere, &amp; propre à ch que imlivi lu : comie chaque homme en particuier est une modification de la nature, ou essence universelle. Mais cette derniere interpretation, que quelques-uns attribuent à Saint Basile, appliquée à la Divinité, emporteroit le Tritheïsme : parceque si les trois personnes de la Trinité sont trois hypostases, precisément comme, Pierre, Jaques, &amp; Jean, il y a manifestement trois Dieux</def>
-</sense>
+    
+<note>Ce mot excita autrefois de grands demêlez entre les Grecs, &amp; puis entre les Grecs &amp; les Latins. Dans le Concile de Nicée hypostase est la même chose que substance, ou essence. Ainsi c'étoit une heresie que de dire, que Jesus-Christ est d'une autre hypostase que le Pere, parce qu'hypostese signifioit essence. Mais l'usage changea. Dans le besoin qu'on eut de s'exprimer contre les Sabelliens, les Grecs choisirent le terme d'hypostase, &amp; les Latins celui de Personne. Ce changement fut la source de la contestation ; car ceux qui prenoient le mot d'hypostase dans son ancienne signification, ne pouvoient supporter que l'on posât trois hypostases ; c'étoient trois essences divines selon eux ; mais ce mot fut expliqué : &amp; ceux qui s'en servoient contre les Sabelliens declarerent, qu'ils entendoient par là trois individus, ou trois sujets qui subsistent également, &amp; non pas trois substances, ou essences differentes. Dans ce sens ils reconnoissoient trois hypostases dans une seule essence. D'autres entendoient par essence, une nature commune &amp; indefinie ; comme l'humanité à l'égard de tous les hommes en general : &amp; pir hypostase une nature singuliere, &amp; propre à ch que imlivi lu : comie chaque homme en particuier est une modification de la nature, ou essence universelle. Mais cette derniere interpretation, que quelques-uns attribuent à Saint Basile, appliquée à la Divinité, emporteroit le Tritheïsme : parceque si les trois personnes de la Trinité sont trois hypostases, precisément comme, Pierre, Jaques, &amp; Jean, il y a manifestement trois Dieux</note>
 <pc>.</pc>
 
 <sense>
