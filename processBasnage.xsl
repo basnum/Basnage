@@ -98,7 +98,8 @@
     <!-- Fusion des informations grammaticales avec d'éventuels points d'abbréviation -->
     <!-- variable contenant d'éventuel préfixes à isoler dans un <lbl> avant le <pos> -->
     <xsl:variable name="prefixesPOS"
-        select='("&amp; par fois ", "&amp; plus $ouvent ", "&amp; quelquefois au$$i ", "&amp; queiquefois ", "&amp; quelquefois ", "&amp; ")'/>
+        select='("&amp; par fois ", "&amp; plus $ouvent ", "&amp; plus souvent "
+        , "&amp; quelquefois au$$i "  , "&amp; quelquefois aussi ", "&amp; queiquefois ", "&amp; quelquefois ", "&amp; ")'/>
     <!-- On n'agit que si le <pos> est dans la liste des abbréviés et est immédiatement suivi d'un <pc>.</pc> -->
     <xsl:template match="gramGrp/pos[lr:isAbbreviatedPOS(.) and following::*[1][name() = 'pc' and . = '.']]">
         <xsl:copy>{. || "."}</xsl:copy>
@@ -112,7 +113,7 @@
             "adverb", "adv", "adu", "odv",
             "conj", "Conj", "con",
             "particip", "part",
-            "$ubft", "$ub$t", "$", "v")'/>
+            "$ubft", "$ub$t", "subst", "s", "$", "v")'/>
         <xsl:sequence
             select="
                 count(filter($abbreviatedPOS, function ($x) {
