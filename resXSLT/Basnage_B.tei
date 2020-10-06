@@ -29391,7 +29391,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="bien fait">
+            <entry xml:id="bien_fait">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>BIEN FAIT</orth>
@@ -34558,7 +34558,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="a moi">
+            <entry xml:id="a_moi">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>A moi</orth>
@@ -52675,15 +52675,19 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="brillant ante">
+            <entry xml:id="brillant">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>BRILLANT ante</orth>
+                     <orth>BRILLANT</orth>
+                  </form>
+                  <form type="lemma">
+                     <orth>ante</orth>
                   </form>
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>&amp; s</gen>
+                     <lbl>&amp;</lbl>
+                     <gen>s</gen>
                   </gramGrp>
                </form>
                <pc>.</pc>

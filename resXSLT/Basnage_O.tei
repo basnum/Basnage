@@ -7946,17 +7946,16 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="obligeammen t">
+            <entry xml:id="obligeamment">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>OBLIGEAMMEN T</orth>
+                     <orth>OBLIGEAMMENT</orth>
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>ad</pos>
+                     <pos>ad.</pos>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Of cinsemen, d'une maniere obligeante, &amp; honnête. Il m'a reçu fort oligemen ; il me traitte tres-obligeamimen<pc>.</pc>
                   </def>

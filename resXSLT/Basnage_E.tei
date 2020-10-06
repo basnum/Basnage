@@ -7513,7 +7513,7 @@
          <div>
             <head>EBL<pc>.</pc>
             </head>
-            <entry xml:id="eblouir, eblouissement">
+            <entry xml:id="eblouir">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>EBLOUIR, EBLOUISSEMENT</orth>
@@ -7523,7 +7523,7 @@
                <pc>.</pc>
                <xr>
                   <lbl>Voyez</lbl>
-                  <ref target="#esdlouir">Esdlouir</ref>
+                  <ref target="#esblouir">Esblouir</ref>
                   <pc>,</pc>
                   <ref target="#esblouissement">Esblouissement</ref>
                   <pc>.</pc>
@@ -7533,7 +7533,7 @@
          <div>
             <head>EBO<pc>.</pc>
             </head>
-            <entry xml:id="eborgnner, ebouffer, ebouillir, eboulement, ebouler, eboulis, ebourgeonnement, ebourgeonner">
+            <entry xml:id="eborgnner">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>EBORGNNEr, EBOUFFER, EBOUILLIR, EBOUlEMENT, EBOULER, EBOUlIS, EBOURGEONNEMENT,
@@ -7569,7 +7569,7 @@
          <div>
             <head>EBR<pc>.</pc>
             </head>
-            <entry xml:id="ebranchement, ebrancher, ebranlement, ebranler, ebrecher, ebrener">
+            <entry xml:id="ebranchement">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>EBRANCHEMENT, EBRANCHER, EBRANLEMENT, EBRANLER, EBRECHER, EBRENER</orth>
@@ -23216,7 +23216,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="en dedans">
+            <entry xml:id="en_dedans">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>EN DEDANS</orth>
@@ -23233,7 +23233,7 @@
                   <pc>.</pc>
                </sense>
             </entry>
-            <entry xml:id="en dehors">
+            <entry xml:id="en_dehors">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>EN DEHORS</orth>
@@ -27980,7 +27980,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="enleveurs de quartiers">
+            <entry xml:id="enleveurs_de_quartiers">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>ENLEVEURS DE QUARTIERS</orth>
@@ -74494,10 +74494,12 @@
                      ni l'autre. Bou.</def>
                </sense>
             </entry>
-            <entry xml:id="extreme onction">
+            <entry xml:id="extreme_onction">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>EXTREME ONCTION</orth> ,</form>
+                     <orth>EXTREME ONCTION</orth>
+                     <pc>,</pc>
+                  </form>
                </form>
                <sense>
                   <def>ou EytrEMONCTION. subst. fem. est un Sacrement de l'Eglise, le sixiéme en ordre, qu'on donne aux

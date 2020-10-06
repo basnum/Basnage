@@ -14511,7 +14511,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="fausse couche">
+            <entry xml:id="fausse_couche">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>FAUSSE COUCHE</orth>
@@ -14716,7 +14716,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="faus jour">
+            <entry xml:id="faus_jour">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>FAUS JOUR</orth>
@@ -38891,10 +38891,10 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="frais hlment">
+            <entry xml:id="fraischement">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>FRAIS HLMENT</orth>
+                     <orth>FRAISCHEMENT</orth>
                   </form>
                   <pc>,</pc>
                   <form type="variant">
@@ -38912,11 +38912,7 @@
                   </def>
                </sense>
                <sense n="2">
-                  <form>
-                     <orth>Fraischement</orth>
-                  </form>
-                  <pc>,</pc>
-                  <def>signifie aussi, Recemment, depuis peu ; &amp; c'est la même chose que frais, adverbe. Du pain
+                  <def>Fraischement, signifie aussi, Recemment, depuis peu ; &amp; c'est la même chose que frais, adverbe. Du pain
                      fraichement cuit. Des lettres fraïchement venues. Il est arrivé fraîchement des bords de la
                      Garonne. Main<pc>.</pc>
                   </def>
@@ -45384,7 +45380,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="fulminant ante">
+            <entry xml:id="fulminant">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>FULMINANT ante</orth>

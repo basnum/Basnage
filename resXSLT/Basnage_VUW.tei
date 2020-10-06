@@ -10057,7 +10057,7 @@
          <div>
             <head>VAS<pc>.</pc>
             </head>
-            <entry xml:id="je vas">
+            <entry xml:id="je_vas">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>JE VAS</orth>
@@ -10406,7 +10406,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="a vau l'eau">
+            <entry xml:id="a_vau_l_eau">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>A VAU L'EaU</orth>
@@ -15208,10 +15208,10 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="a laverité">
+            <entry xml:id="a_la_verité">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>A laverité</orth>
+                     <orth>A la verité</orth>
                   </form>
                   <pc>.</pc>
                   <gramGrp>

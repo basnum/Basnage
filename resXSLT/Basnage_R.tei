@@ -50476,7 +50476,7 @@
          <div>
             <head>RIC<pc>.</pc>
             </head>
-            <entry xml:id="ric à ric">
+            <entry xml:id="ric_à_ric">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>RIC à RIC</orth>
@@ -54345,10 +54345,10 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="a bâtons mmpus">
+            <entry xml:id="a_bâtons_rompus">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>A bâtons mmpus</orth>
+                     <orth>A bâtons rompus</orth>
                   </form>
                </form>
                <pc>.</pc>
@@ -57846,7 +57846,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="a la royale">
+            <entry xml:id="a_la_royale">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>A la Royale</orth>
