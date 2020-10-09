@@ -4779,7 +4779,8 @@
                         <faith>Catholique</faith>
                         <education>Sorbonne, College Jésuite de Louvain</education>
                         <occupation/>
-                        <affiliation ref="#Port_Royal_Solitaires">Abbaye St Cyran de Brenne, lié aussi avec l'Abbaye Port Royal des Champs</affiliation>
+                        <affiliation ref="#Port_Royal_Solitaires">Abbaye St Cyran de Brenne, lié
+                            aussi avec l'Abbaye Port Royal des Champs</affiliation>
                         <socecStatus/>
                         <note>Théologien, écrivain, abbé, prêtre, janseniste</note>
                         <event>
@@ -5439,7 +5440,8 @@
                         </persName>
                         <birth>Né vers 1615 à<placeName>Gland</placeName> en <country corresp="#FRE"
                                 >France</country></birth>
-                        <death  when="1695-04-15">Mort le 15 avril 1695 à <placeName>Quimperlé</placeName><country corresp="#FRE"
+                        <death when="1695-04-15">Mort le 15 avril 1695 à
+                                <placeName>Quimperlé</placeName><country corresp="#FRE"
                                 >France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
@@ -5454,7 +5456,9 @@
                             <desc>Grammaire générale et raisonnée : contenant les fondements de
                                 l'art de parler, expliqués d'une manière claire et naturelle, les
                                 raisons de ce qui est commun à toutes les langues, et des
-                                principales différences qui s'y rencontrent<date>1660</date>avec <persName ref="#Arn_ISN0000000121371431">Antoine Arnauld </persName></desc>
+                                principales différences qui s'y rencontrent<date>1660</date>avec
+                                    <persName ref="#Arn_ISN0000000121371431">Antoine Arnauld
+                                </persName></desc>
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/000000010891610X</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Claude_Lancelot</idno>
@@ -5742,7 +5746,11 @@
                         <nationality>Française</nationality>
                         <faith>inconnu</faith>
                         <education/>
-                        <occupation/>
+                        <occupation><p>Avocat au Parlement de Grenoble</p>
+                            <p>Professeur à l’université de Valence (il remplace Annibal Fabrot
+                                alors chargé des livres imprimés à l’imprimerie royale) : le roi lui
+                                accorde une chaire le <date when="1647-02-19">19 février 1647</date> mais il n’en prend possession
+                                que le 26 juin 1649</p></occupation>
                         <affiliation/>
                         <socecStatus/>
                         <note>Juriste, avocat au parlement de Grenoble et professeur de droit à
@@ -6709,8 +6717,8 @@
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Marc-Antoine_Girard_de_Saint-Amant</idno>
                     </person>
-                    
-                    
+
+
 
                     <person xml:id="Tachard_ISN0000000115571939">
                         <persName xml:base="">
@@ -7299,7 +7307,7 @@
                     </person>
 
                 </listPerson>
-                <listOrg>
+                <listOrg type="institutions">
                     <head>Institutions</head>
 
 
@@ -7331,7 +7339,7 @@
 
 
                 </listOrg>
-                <listPerson n="mentionné">
+                <listPerson type="mentionned">
                     <head>Personnes mentionnées mais pas citées</head>
                     <person n="Saint_Pacöme">
                         <persName xml:base="https://fr.wikipedia.org/wiki/Pac%C3%B4me_le_Grand"
@@ -8099,14 +8107,14 @@
                                     à l'ordinaire comme un k: mais quand devant les voyelles <hi
                                         rendition="#i">a, o</hi> &amp;amp; <hi rendition="#i"
                                         >u,</hi>il a une petite virgule dessous que les Espagnols
-                                    appelent <hi rendition="#i">codille,</hi> &amp; les
-                                    Imprimeurs <hi rendition="#i">ç</hi> à queuë, on le prononce
-                                    comme une <hi rendition="#i">s</hi>; &amp; devant les
-                                    voyelles <hi rendition="#i">i</hi> &amp; <hi rendition="#i"
-                                        >e,</hi> toûjours comme une <hi rendition="#i">s</hi>. Il se
-                                    prononce fortement à la fin de presque tous les monosyllabes;
-                                    comme en <hi rendition="#i">bec, choc, croc, froc, hoc, pic,
-                                        roc, fec, foc.</hi> Le mot de <hi rendition="#i">Clerc</hi>
+                                    appelent <hi rendition="#i">codille,</hi> &amp; les Imprimeurs
+                                        <hi rendition="#i">ç</hi> à queuë, on le prononce comme une
+                                        <hi rendition="#i">s</hi>; &amp; devant les voyelles <hi
+                                        rendition="#i">i</hi> &amp; <hi rendition="#i">e,</hi>
+                                    toûjours comme une <hi rendition="#i">s</hi>. Il se prononce
+                                    fortement à la fin de presque tous les monosyllabes; comme en
+                                        <hi rendition="#i">bec, choc, croc, froc, hoc, pic, roc,
+                                        fec, foc.</hi> Le mot de <hi rendition="#i">Clerc</hi>
                                     &amp;amp; quelques autres sont exceptez. Il y a aussi quelques
                                     mots de plusieurs syllabes à la fin desquels le <hi
                                         rendition="#i">c</hi> se prononce aussi fortement : comme en
@@ -8137,9 +8145,9 @@
                                         mille :</hi> on auroit de la peine à en trouver des exemples
                                     chez les Anciens. Etant mise toute seule, elle marque chez les
                                     Jurisconsultes <hi rendition="#i">Codice,</hi> ou <hi
-                                        rendition="#i">Consule;</hi> &amp; quand elle est
-                                    double, <foreign rendition="#i">Consulibus</foreign>. C'étoit
-                                    aussi une lettre funeste : elle signifioit <hi rendition="#i"
+                                        rendition="#i">Consule;</hi> &amp; quand elle est double,
+                                        <foreign rendition="#i">Consulibus</foreign>. C'étoit aussi
+                                    une lettre funeste : elle signifioit <hi rendition="#i"
                                         >condemno,</hi> je condamne. </note>
                             </sense>
 
@@ -8152,8 +8160,8 @@
                                     >ça</orth></form>
                                 <gramGrp><pos expand="Adverbe"> adv.</pos></gramGrp></form>
                             <sense n="1">
-                                <def n="paraphrase">qui designe quelque sorte de commandement, qui marque le temps
-                                    &amp;amp; le lieu, Ici au temps présent.</def>
+                                <def n="paraphrase">qui designe quelque sorte de commandement, qui
+                                    marque le temps &amp;amp; le lieu, Ici au temps présent.</def>
                                 <cit type="exemple">
                                     <quote>Venez <hi rendition="#i">çà,</hi>
                                         <gloss>c'est-à-dire, Venez ici.</gloss></quote>
@@ -8226,7 +8234,7 @@
                                 <form type="lemma"><orth rendition="#uc">caaobetinga</orth></form>
                                 <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
                                         >f.</gen></gramGrp></form>
-                            <sense n="1"><def >Petite herbe qui se trouve au Bresil. Il sort des
+                            <sense n="1"><def>Petite herbe qui se trouve au Bresil. Il sort des
                                     feuilles de la racine même qui sont blancheâtres par dessous,
                                     &amp;amp; vertes par dessus. Sa racine &amp;amp; ses feuilles
                                     pilées ensemble sont bonnes à consolider les
@@ -27315,8 +27323,7 @@
                                     si on appelle parricide celui qui a tué sa mere, son frere, son
                                     maître, son Prince, quoyqu'au propre il ne signifie que le
                                     meurtrier d'un pere. </note></sense>
-                            <etym>Ce mot vient du Grec<lang xml:lang="ell"
-                                    ><hi>katachraomai</hi></lang> , qui signifie, abuser. </etym>
+                            <etym>Ce mot vient du <lang xml:lang="ell">Grec</lang><foreign>katachraomai</foreign> , qui signifie, abuser. </etym>
                         </entry>
 
                         <entry xml:lang="fra" xml:id="Catacombes">
