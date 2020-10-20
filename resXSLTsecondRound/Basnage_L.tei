@@ -7234,10 +7234,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Nom de l'onziéme lettre de l'Alphabet. Il y a des l liquides, comme en ces mots plat, plein, plus, clair, clairon, &amp;c. d'autres qui se mouillent, quand elles se trouvent doubles après un ivoyelle, comme en ces mots vermillon, travailler, recueillir, fouiller, &amp;c. Les l sont aussi moüillées dans les mots qui finissent par une seule l, &amp; où cette l' est precedée d'un i voyelle, comme en ceux-ci travail, pareil, oeil, &amp;c<pc>.</pc>
                   </def>
@@ -7364,10 +7363,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#palais">Terme de Palais</usg>
                   <pc>,</pc>
@@ -7732,10 +7730,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Déchirure d'un écrie, d'un livre. Le Juge a ordonné la laceration d'un tel libelle<pc>.</pc>
                   </def>
@@ -7796,8 +7793,11 @@
                <sense>
                   <def>Plante qu'on appelle autrement Laitron<pc>.</pc>
                   </def>
-                  <xr>Voyez Laitron</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Laitron</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="lacet">
@@ -7886,8 +7886,11 @@
                <sense>
                   <def>Se dit en cette phrase, Seytale Laconieme<pc>.</pc>
                   </def>
-                  <xr>Voyez Seytale</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Seytale</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="laconique">
@@ -8064,10 +8067,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Qui a la couleur ou la nature du lait. On appelle veines lactées, de petits conduits qui sont dispersez par tout le mesentere, &amp; qui portent le chile des intestins au reservoir de Pecquet t ils sont ainsi nommez parceque la liqueur qu'ils contiennent est semblable à du lait. Gaspard Asellius Medecin Italien est le premier inventeur des veines lactées, il les decouvrit en l'année 1622. Janson d'Almeloveen pretend qu'elles ont été connuës d'Hippocrate &amp; de Galien. Voye Lactée. Ce mot a été expliqué à Voie, &amp; à Lait<pc>.</pc>
                   </def>
@@ -8097,10 +8099,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Defaut de suitte, interruption ; intervalle vuide dans un livre. Il y a beaucoup de lacunes dans les anciens Auteurs, parceque les manuscrits ont été pourris, effacez &amp; dechirez. Beaucoup de Critiques ont tâché de rétablir &amp; de remplir les lacunes de Tite Live, de Petrone<pc>.</pc>
                   </def>
@@ -8143,13 +8144,11 @@
                      <pos>adj.</pos>
                      <pos>&amp; subst</pos>
                      <pc>.</pc>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Malade atteint, infecté de lepre. On scpare les ladres des hommes sains. Ce qui a donné de la haine aux Orientaux pour les cochons, c'est parcequ'ils sont sujets à être ladres. On a creé des Officiers langueyeurs de cochons, pour visiter ceux qui sont ladres ou sursemez, qui ont des grains à la langue &amp; à la gorge. On appelle par corsuption St. Laare, St. Ladre ; la rue grenier St. La dre, c'est-à-dire, du grenier St. Lazare i de là vient qu'on appelle ladres, les lepreux. On appelle ladres blancs, les ladres ou lepreux qui ont encore la face belle, &amp; le cuir poli &amp; lissé, ne donnant aucun signe par dehors de la lepre dont ils sont atteints au dedans ; &amp; ladres verds, des ladres consirmez, qui ont plusieurs boutons qui poussent au dehors, qui sont fort durs, &amp; dont la base est verte, &amp; la pointe blanche. Ambroise Paré dit qu'il y avoit en Guyenne &amp; en Bretagne plusieurs de ces ladres blancs, qu'on appelloit cacots, cagots, capots &amp; gabets, d'où plusieurs pretendent qu'est venu le mot de cagot, qu'on a appliqué odieusement &amp; par derision à ceux qui menoient une vie retirée &amp; solitaire, comme font les ladres ; car on les obligeoit à vivre à part, &amp; à porter des cliquettes, &amp; des barils, afin qu'ils fussent connus &amp; évitez du peuple. Quelques-uns derivent ce mot du Grec laidros, qui signifie turpitude &amp; difformité. Les Grecs ont appellé cette maladie elephantiasis, à cause que les ladres ne sentent rien, &amp; ressemblent à l'élephant, qui est presque insensible à cause de la dureté de sa peau<pc>.</pc>
                   </def>
@@ -8204,19 +8203,21 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <form>
                      <orth>Lépre</orth>
                   </form>
                   <pc>.</pc>
                   <etym>Tous les signes de la ladrerie ont été curieusement deduits au mot de lépre,</etym>
-                  <xr>Voyez le</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>le</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <form>
                      <orth>Ladrerie</orth>
@@ -8288,8 +8289,11 @@
                <sense>
                   <def>Plante qui est une espece de trefle. Ce mot est Grec, il vient de lagos, lievre, &amp; pied. On l'appelle aussi pied de lievre<pc>.</pc>
                   </def>
-                  <xr>Voyez Pied de lievre</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Pied de lievre</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="lague">
@@ -8564,8 +8568,11 @@
                      <orth>LAIEUR</orth>
                   </form>
                   <pc>.</pc>
-                  <xr>Voyez Layetté, &amp;c</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Layetté, &amp;c</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="lainage">
@@ -8676,8 +8683,11 @@
                <sense>
                   <def>Qui vit en personne du monde, qui n'a aucun engagement dans l'Ordre Ecclesiastique ou Religieux. Les Eccleliastiques ont beaucoup de privileges que n'ont point les laïques. Un Clerc qui est pris en habit laïque perd son privilege de renvoi. Les Religieuses ne sont plus au nombre des personnes laiques<pc>.</pc>
                   </def>
-                  <xr>Voyez Lay</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Lay</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="lais">
@@ -8726,9 +8736,8 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
-                  <pc>.</pc>
                   <pron>Quelques-uns disent laisses, mais mal</pron>
                </form>
                <pc>.</pc>
@@ -8745,8 +8754,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -8863,8 +8871,11 @@
                   <pc>,</pc>
                   <usg type="domain" ana="#venerie">en termes de Venerie</usg>
                   <pc>.</pc>
-                  <xr>Voyez Laisseés</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Laisseés</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="lait">
@@ -8910,9 +8921,12 @@
                   <pc>,</pc>
                   <def>se dit aussi de plusieurs liqueurs tant naturelles qu'artificielles, qui ressemblent à du lait seulement par la couleur. Le lait ou suc de titimalus est très-acide &amp; corrosif. Le lait du figuier guerit, à ce qu'on dit, les porreaux ou verruës. Les oeufs frais cuits à-propos rendent du lait. On exprime du lait des amendes pilées, qu'on appelle lait d'amendes. On appelle aussi lait de chaux, la liqueur claire &amp; blanche qu'on tire de la chaux, quand on l'éteint, &amp; dont on blanchit les murailles. Le chemin de lait, ou voye latée, ou selon le peuple, le chemin de Sain Taques, est un espace dans le ciel qui paroit en forme d'écharpe blanche dans une nuit fort sereine : ce qui est causé par la lumiere d'une infinité d'étoiles qu'on y découvre avec le microscope<pc>.</pc>
                   </def>
-                  <xr>Voyez Voie</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Voie</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="7">
                   <def>Lait Virginal, est une liqueur qui a été ainsi nommée, parce qu'étant versée dans de l'eau, elle la blanchit comme du lait, &amp; que les filles s'en servent pour se decrasser, &amp; pour embellir leur peau. Le lait virginal se prepare avec le sel de Saturne dissous dans du vinaigre distillé ; ou avec la teinture de storax &amp; de benjoin faite avec de l'esprit de vin. On en fait de plusieurs autres manieres<pc>.</pc>
                   </def>
@@ -8955,10 +8969,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>La partie des poissons mâles où est contenue leur semence, &amp; dont on exprime une liqueur blanche qui ressemble au lait. Les laitances de carpes sont excellentes. La laite d'un hareng frais. A Paris on dit plus ordinairement laite, que laitance<pc>.</pc>
                   </def>
@@ -9008,10 +9021,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>est un nom que les Chasseurs donnent à la portée d'une lice, ou de quelques autres animaux, pour comprendre tous les chiens d'une ventrée<pc>.</pc>
                   </def>
@@ -9083,8 +9095,11 @@
                   <pc>,</pc>
                   <def>est aussi une qualité qu'on donne à l'opale<pc>.</pc>
                   </def>
-                  <xr>Voyez Opale</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Opale</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="laitier">
@@ -9236,10 +9251,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#anatomie">Terme d'Anatomie</usg>
                   <pc>.</pc>
@@ -9639,10 +9653,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Plainte, doleance, avec pleurs, &amp; gemissemens. Les Lamentations de Jeremie. Les lamentations des Rhodiens ont passé en proverbe en plusieurs endroits. La douleur des femmes s'exhale en cris, &amp; lamentations. Les longues lamentations donnent plus de mepris pour la foiblesse, que de compassion pour le malheur. St. Ev. Jeremie seul est capable d'égaler les lamentations aux calamitez. M. de M. Les lamentations perpetuelles sont ennuyeuses : nous n'aimons pas à gemir si long temps sur les malheurs d'autrui. Bell. Enée ne fait que gemir ; &amp; à la premiere disgrace, ce bon Hers de Virgile s'abandonne aux lamentations St. Ev<pc>.</pc>
                   </def>
@@ -10640,8 +10653,11 @@
                <sense n="8">
                   <def>On divise les langues en langues matrices, &amp; originelles, comme sont l'Hebreu, l'Arabe en Orient ; le Teuton, le Sclavon en Occident. Kircher dit que la langue Cophte est aussi une langue mere, &amp; independante de toutes les autres. Du Jjon tient que la langue Gothique est la mere de toutes les langues Teutonnes, c'est-àdire, de toutes les langues qu'on parle dans le Septentrion. Le Basque &amp; le Bas-Breton sont tenus aussi pour langues matrices, qu'on croit être celles des anciens Celtes, ou Gaulois. Les langues derivées sont celles qui sont mêlées du langige de plusieurs peuples voisins qui ont eu commerce ensemble, comme le François, l'Italien, &amp; l'Espagnol. Il y a une langue Franque qu'on entend par toute la Mediterranée<pc>.</pc>
                   </def>
-                  <xr>Voyez Franque</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Franque</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Geser a fait un Traitté qu'il appelle Mitridate, de la difference des langues anciennes &amp; modernes, mortes, ou vivantes, pour faire voir en quoy elles s'accordent, ou different, &amp; pour les apprendre en particulier, ou former une langue universelle de leur mêlange. On a appellé langue Thyoise, ou langage Theut-Franc, ou Franc-Theut, un François mêlé d'Allemand, qui se forma quand les François entrerent dans la Gaule. On dit que la langue des Gots fait le nom du Languedoc. D'autres disent que cela vient de langue de oc, qui veut dire ouï, pour la distinguer de celle des peuples voisins où l'on disoit ous, ou oil. En effet on trouve plusieurs titres où sont ces paroles tant en langue d'oc, qu'en langue d'oil ; &amp; il n'y a gueres plus de 150. ans qu'on a cessé de faire cette distinction : on dit encore en Agenois hoc, pour dire, oui. Scaliger dit qu'en France il y a trois langues, &amp; que ceux qui les parlent ne s'entendent point les uns les autres ; Le Basque, le Breton, &amp; le Romain : que le Romain est divisé en langue Tortuë, &amp; langue Françoise : qu'il n'y avoit autrefois en France que deux Gouverneurs, Princes du sang, l'un à Paris pour la LAN. langue Françoise, l'autre à Montpelier pour la langpue Tortuë. On appelle langues mortes celles qu'aucun peuple ne parle plus ; qui ne subsistent que dans les Auteurs, &amp; qu'il faut apprendre par les regles de la Grammaire, comme le Latin &amp; le Grec en Europe, l'Arabe chez les Levantins, &amp; la langue Malaye aux Indes. Les langues vivantes sont celles qu'on peut apprendre par la frequentation des peuples qui les parleat. L'usage est le tyran des langues vivantes. Il y a des visionnaires qui ont pretendu faire une langue universelle. La langue maternelle est celle du païs où on Langue, se dit aussi en faisant distinction des nations. Il arrive dans les échelles d'Orient des Marchands de tous païs, &amp; de toutes langues. Langues. A Malthe on divise l'ordre des Chevaliers en huit langues, ou nations. Il y a trois largues pour la France : la langue de Provence, d'Auvergne, &amp; de France. Pour l'Espagne deux : la langue de Castille, &amp; d'Arragon. Les trois autres sont la langue d'talie, d'Allemagne, &amp; d'Angleterre. Chacune de ces langues a un chef qu'on nomme Pilier, &amp; qui preside aux assemblées de la langue dont il est le chef<pc>.</pc>
                   </def>
                </sense>
@@ -10657,15 +10673,21 @@
                <sense n="11">
                   <def>Langue de Boeuf, est une plante qu'on appelle autrement buglose<pc>.</pc>
                   </def>
-                  <xr>Voyez Buglose</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Buglose</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="12">
                   <def>Langue de Bouc, est une plante qu'onappelle autrement Viperine, ou herbe aux viperes. Les Grecs l'ont appelle Echion, c'est-à-dire, viperine. On l'a aussi appellée Alcibuacum, parcequ'un certain Alcibius en decouvrit le premier la vertu contre les viperes ; car en ayant été mordu en dormant, il fut gueri en avalant le jus de cette herbe, dont il mit après le marc sur la playe<pc>.</pc>
                   </def>
-                  <xr>Voyez Viperine</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Viperine</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="13">
                   <def>Langue de Cerf, est une plante qui pousse de sa racine huit ou dix feuilles, &amp; quelquefois d'avantage, longues ordinairement d'un demi-pied, larges d'environ deux doigts, pointues en façon de langue. Ses fruits naissent sur le dos des feuilles dans des sillons membraneux fendus dans leur longueur, &amp; qui renferment un amas de coques entassées les unes sur les autres. Chaque coque est presque ovale, entourée dans sa moitié d'un cordon par la contraction duquel ces coques se dechirent, &amp; repandent quelques semences. Sa racine est fibreuse &amp; noirâtre. Elle est un peu astringente, pectorale, vulneraire. On l'appelle autrement scolopendre vulgaire. En Latin lingua cervina oficinarum C. Bau. Il y a plusieurs autres especes de langue de cenf<pc>.</pc>
                   </def>
@@ -10673,9 +10695,12 @@
                <sense n="14">
                   <def>Langue de Cheval, est une plante à laquelle on a donné ce nom, parcequ'on a trouvé quelque ressemblance de la figure de sa feuille avec celle de la langue d'un cheval, d'où vient qu'on l'appelle aussi hippoglessum. On l'appelle encore laurier Alezandrin. C'est une espece de houx-frelon que Mr. Tournefort nomme Ruiscus augustifolius fructu folio innascente<pc>.</pc>
                   </def>
-                  <xr>Voyez Laurier Alexandrin</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Laurier Alexandrin</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <re>
                   <form>Langue de Chien</form>
                   <form>.</form>
@@ -10802,9 +10827,12 @@
                   <pc>,</pc>
                   <def>se dit aussi par quelques-uns de l'épiglotte<pc>.</pc>
                   </def>
-                  <xr>Voyez Epiglotte</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Epiglotte</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="11">
                   <form>
                      <orth>Languette</orth>
@@ -11024,10 +11052,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Qui ne se dit gueres qu'en cette phrase, Bourre lanice. C'est la bourre douce qui se tire de la laine de mouton, soit avec le peigne de Cardeur, ou le chardon de Bonnetier, ou par les Tondeurs de drap &amp; de couvertures. Il est defendu aux Tapissiers de mêler du laneton avec de la bourre lanice. On fait les bons matelas de bourre lanice<pc>.</pc>
                   </def>
@@ -11397,9 +11424,12 @@
                <sense>
                   <def>Sorte de plante qu'on appelle autrement Parelle, ou Patience<pc>.</pc>
                   </def>
-                  <xr>Voyez Patience</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Patience</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <etym>
                   <lbl>Lapathum vient du mot</lbl>
                   <lang>Grec</lang>
@@ -11629,9 +11659,12 @@
                <sense>
                   <def>Sorte de plante qu'on appelle autremenes Bardane ou Glouteron<pc>.</pc>
                   </def>
-                  <xr>Voyez Bardane</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Bardane</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <etym>
                   <lbl>Ce mot vient du</lbl>
                   <lang>Grec</lang>
@@ -11712,10 +11745,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Valet roturier qui suit à pied son maître, &amp; qui porte ses livrées. Les jeunes gens se piquent d'avoir des laquais bien faits, &amp; proprement habillez. Les femmes se sont mises sur le pied d'avoir de grands laquais ; &amp; on en medit. Pourquoy croiton que l'on charge les carrosses de ce grand nombre de laquais ? c'est pour exciter dans ceux qui les voyent l'idée que c'est une personne de grande condition qui passe ; &amp; la vue de cette idée satisfait la vanité de ceux à qui ils appartiennent. Log. Alidor, dit un fourbe, il est de mes amis, Je l'ay connu laquais avant qu'il fût Commis. Boil. Balzac &amp; Costard écrivent laquay au lieu de laquais ; mais on ne les doit point imiter en cela. On dit, Une malice de laquais, pour dire, Une malice basse, &amp; indigne d'un homme un peu bien élevé<pc>.</pc>
                   </def>
@@ -11754,7 +11786,6 @@
                <pc>.</pc>
                <sense>
                   <xr>Voyez Lequel</xr>
-                  <pc>,</pc>
                   <def>dont il est le feminin<pc>.</pc>
                   </def>
                </sense>
@@ -11771,10 +11802,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Action de celui qui derobe, qui prend furtivement. Le Droit Romain definit le larcin, une soustraction frauduleuse du bien d'autrui, pour se l'approprier malgré celui à qui il appartient. Si elle se fait par force, &amp; par effraction, cela s'appelle un vol. Par le Droit le simple larcin, &amp; secret, étoit puni de la peine du double, &amp; le larcin manifeste du quadruple de la chose derobée. On appelloit larcn manifeste, quand le larron étoit pris sur le fait, &amp; non manifeste, quand il n'avoit pas été pris sur le fait. On n'observe point cette distinction en France : le larcin est plus, ou moins severement puni selon les circonstances dont il est accompagné, &amp; qui aggravent, ou diminuent le crime. Il y a bien des gens qui ne vivent que de larcins, &amp; de brigandages. On ne peut être absous d'un larcin par un Confesseur, qu'en faisant restitution. Le larcin n'étoit point puni à Lacedemone pourvu qu'on ne fût point pris sur le fait : les Circassiens d'aujourd'huy l'estiment quand il est fait avec adresse ; &amp; ils ne donnent point à boire aux jeunes gens dans leurs festins, s'ils n'en ont fait quelcun de considerable, comme dit Jean de Luca en sa Relation de Circassie. Solin raconte qu'en Sardaigne il y avoit une fontaine qui servoit à decouvrir celui qui avoit commis un larcin<pc>.</pc>
                   </def>
@@ -11899,10 +11929,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Petit instrument qui sert à larder. C'est une sorte de brochette creusée &amp; fenduë en quatre par un des bouts, afin d'y pouvoir mettre le lardon à mesure qu'on larde quelque viande que ce soit. On en fait de cuivre &amp; de bois. Grosse lardoire, pette lardoine, lardoire à piques, lardeire à venaiso<pc>.</pc>
                   </def>
@@ -11949,10 +11978,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>m.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#mythologie">Terme de Mythologie</usg>
                   <pc>.</pc>
@@ -12061,10 +12089,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Don, liberalité. Les largesses des particuliers tiennent de la profusion. Les Magistrats Romains faisoient des largesses au peuple. Quelquefois une pieuse avarice se fait des pretertes d'acquerir pour être plus en état de faire de saintes largesses. Le P. Gail. On admire dans le monde ceux qui se distinguent par leurs presens, &amp; leurs largesses. Esp<pc>.</pc>
                   </def>
@@ -12163,7 +12190,6 @@
                   <def>Ainsi boire à tire larigot signifiera boire à tire le gosier<pc>.</pc>
                   </def>
                   <xr>Voyez Menage</xr>
-                  <pc>,</pc>
                   <def>qui le fait venir de fstula, fistularius, lite, fûteur. On s'est moqué de cette étymologis, &amp; il declare qu'il se moque de ceux qui s'en sont moquez<pc>.</pc>
                   </def>
                </sense>
@@ -12368,13 +12394,11 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Qui prend le bien d'autrui en cachette, ou avec subtilité. Un larron domestique merite la corde. Les larrons qui se cachent la nuit dans les maisons, ou qui y entrent avec bris de portes, ou avec de fausses clefs, sont punis du même suplice. Justinien condamne le larron manifeste au quadruple, &amp; le larron non man feste au double. Cette distinction n'a point de lieu en France. La peine est arbitraire. On a écrit l'Histoire des larrons, pour apprendre à se garentir de leurs finesses. Vous êtes de franches, vous etes de fines laronnesses<pc>.</pc>
                   </def>
@@ -12500,8 +12524,7 @@
                      <pos>adj.</pos>
                      <gen>m.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
-                     <pc>.</pc>
+                     <gen>fem.</gen>
                      <pos>&amp; subst</pos>
                   </gramGrp>
                </form>
@@ -12755,8 +12778,11 @@
                <sense>
                   <def>Suc qu'on tire par incision d'une plante qui croît dans la Syrie, dans la Medie, dans la Lybie. Plusieurs croyent que cette plante est une espece de Laserpitium, d'où ce suc a pris son nom. On l'appelle autrement Assa fetida<pc>.</pc>
                   </def>
-                  <xr>Voyez Assa Foetida</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Assa Foetida</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="laserpitium">
@@ -12839,8 +12865,11 @@
                      <orth>Lasser, Lasset, Lassure</orth>
                   </form>
                   <pc>.</pc>
-                  <xr>Voyez Lacer, Lacet, Laceure</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Lacer, Lacet, Laceure</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="lassitude">
@@ -13002,8 +13031,11 @@
                <sense>
                   <def>Terme Latin, dont on se sert pour qualifier les Cardinaux que le Pape envoye pour Legats dans les Cours étrangeres, qui s'appellent Legats à latere, parcequ'ils sont les Conseillers ordinaires, &amp; assistans aux côtez du Pape<pc>.</pc>
                   </def>
-                  <xr>Voyez Legat</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Legat</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Les gardes des Princes étoient autrefois appellez laterones, parcequ'ils étoient toujours à leurs côtez, à latere<pc>.</pc>
                   </def>
                </sense>
@@ -13233,8 +13265,11 @@
                   <pc>,</pc>
                   <def>est l'éloignement d'un astre de l'Ecliptique, ou de l'orbite du soleil vers un des Poles du Zodiaque ; &amp; elle differe en ce point de la declinaison, laquelle est un éloignement de l'Equateur vers un des Poles du monde. Ainsi le soleil n'a jamais de latitude : &amp; on dit que les Planetes onf quelque latitude, quand elles s'éloignent de l'Ecliptique. C'est pour cela que dans la sphere ordinaire on donne au Zodiaque quelque largeur. Les Anciens ne la faisoient que de six degrez de chaque côté de l'Ecliptique. Les Modernes l'ont étendue jusqu'à neuf ; car par les observations de Tychobrahé, Venus a de latitude Boreale neuf degrez deux minutes ; Mercure 3. degrea 33. minutes, la lune dans son quadrat avec le soleil 5. degrez 17. minutes, &amp; en son opposition &amp; conjonction 4. degrez 58. minutes ; Saturne deux degrez 48. minutes ; Jupiter un degré 38. minutes ; Mars quatre degrez 31. minutes. Quand les Planetes sont dans leur plus grande latitude meridionale, ou septentrionale, on dit qu'elles sont dans le ventre de leur Dragon. Leur plus grande latitude n'est pas toujours la même : mais selon le calcul d'Ozanam elle ne surpasse jamais cinq degrez à l'égard de la Lune : 2. degrez 50. minutes à l'égard de Saturne ; 1. degré 50. minutes à l'égard de Jupiter : 7. degrez à l'égard de Mars : 9. degrez à l'égard de Venus, &amp; 5. degrez à l'égard de Mercure, selon Gassendi. Quand elles n'ont aucune latitude, on dit qu'elles sont dans les noeuds de l'Ecliptique, ou dans l'intersecton de leur orbite avec celle du soleil, qu'on appelle la tête, &amp; la queuë du Dragon : &amp; c'est alors qu'elles causent ou souffrent l'éclipse. On appelle latitude septentrionale ascendante, lorsque la lune va du noeud septentrional vers le limite septentrional. Latitude septentrionale descendante, lorsque la lune va du limite septentrional vers le noeud meridional. Latitude metidionale ascendante, lorsque la lune va du limite meridional vers le noeud septentrional. Latitude meridionale descendante, lorsque la lune va du noeud meridional vers le limite septentrional<pc>.</pc>
                   </def>
-                  <xr>Voyez sur chaque Planete à leur ordre</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>sur chaque Planete à leur ordre</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>A l'égard des étoiles fixes, leur latitude peut aller jusqu'à 90. degrez, selon qu'elles sont éloignées de l'Ecliptique vers les Poles du Zodiaque. La latitude ortive d'un astre, ou d'un degré de l'Ecliptique, est l'arc de l'Horizon compris entre le point du lever &amp; du coucher de l'Equateur, &amp; le point du lever ou du coucher de cet astre. C'est ce qui fait connoître l'étendue de l'arc dlurne ou nocturne, ou la durée du jour &amp; de la nuit, en telle sorte que plus cette latitude est grande, &amp; plus il y a de difference entre ces deux arcs, ou entre le jour &amp; la nuit. Quand elle est Bo-s reale, le jour est plus grand. Quand elle est Australe, il est plus petit. On l'appelle autrement, amplitudes ortive<pc>.</pc>
                   </def>
                </sense>
@@ -13396,10 +13431,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Terme d'Eglise, &amp; d'imager. Carte qu'on met au côté droit de l'autel où sont écrites ces paroles, lavabo manus. Mettre le lavabo où il doit être<pc>.</pc>
                   </def>
@@ -13999,7 +14033,7 @@
                   <def>On appelle aussi, Moine Lay, un oblat ou soldat estropié qui a un brevet du Roi pour demeurer dans un Benefice de fondation Royale, où on lui doit fournir une portion monachale pour sa subsistance. Voi Oelat. Il est tenu de balayer les cours &amp; de sonner les cloches. Maintenant on a converti cette portion en argent, ou</def>
                </sense>
             </entry>
-            <entry xml:id="">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <pron>pension de 50. écus par an qu'on paye à l'Hôtel des Invalides</pron>
                </form>
@@ -14053,8 +14087,11 @@
                   <pc>,</pc>
                   <def>qui signifie une route couppée dans une forêt, dans une fûtaye. Laye. Il y a d'autres mots que quelques gens écrivent de la sorte ; mais qu'il faut chercher par un i simple<pc>.</pc>
                   </def>
-                  <xr>Voyez donc Laie</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>donc Laie</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="layer">
@@ -14598,10 +14635,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Legs testamentaire. Il ne se dit gueres en ce sens que dans les païs gouvernez par le Droit écrit<pc>.</pc>
                   </def>
@@ -14627,10 +14663,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>&amp; fem. Celui à qui on a fait quelques legs par un testament. Un legataire universel tient en France la qualité d'heritier, il doit payer tous les legataires particuliers du fond de la succession avant toutes choses. Cependant le legataire universel n'est tenu aux dettes du deffunt que jusqu'à la concurrence des biens leguez, pourvu qu'il en ait fait inventaire. Les legataires particuliers peuvent être temoins dans le testament même où ils sont legataires ; mais non pas le legataire universel. La Coutume de Paris ne permet pas qu'on soit ensemble legataire, &amp; heritier<pc>.</pc>
                   </def>
@@ -14944,10 +14979,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Soldat qui faisoit partie d'une legion. Les soldats Romains s'appelloient legionnaires<pc>.</pc>
                   </def>
@@ -15191,10 +15225,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#geometrie">Terme de Geometrie</usg>
                   <pc>.</pc>
@@ -15232,8 +15265,11 @@
                <sense>
                   <def>C'est une épithete qu'on donne à la terre sigillée<pc>.</pc>
                   </def>
-                  <xr>Voyez Sigillée</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Sigillée</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="lemures">
@@ -15633,8 +15669,11 @@
                <sense n="2">
                   <def>On l'appelle aussi pied, ou patte de Lion<pc>.</pc>
                   </def>
-                  <xr>Voyez Pieb de Lion</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Pieb de Lion</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="leontopodium">
@@ -16208,7 +16247,7 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#marine#gabelles">Terme de Marine &amp; de Gabelles</usg>
+                  <usg type="domain" ana="#marine #gabelles">Terme de Marine &amp; de Gabelles</usg>
                   <pc>,</pc>
                   <def>qui se dit d'une certaine quantité des harengs. Le sel necessaire pour la salaison des harengs est reglé par l'Ordonnance des Gabelles à sept minots &amp; demi pour chacun leth de harengs blancs, &amp; trois minots pour chacun leth de harengs sors<pc>.</pc>
                   </def>
@@ -16368,8 +16407,11 @@
                <sense n="3">
                   <def>Lettres Nundinales<pc>.</pc>
                   </def>
-                  <xr>Voyez Nundinales</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Nundinales</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Lettre Dominicale, cst la lettre rouge de l'Almanach qui marque le Dimanche. Elle a éte substituée en la place des lettres nundinales du Calendrier Romain. Voycz Dominical<pc>.</pc>
                   </def>
                </sense>
@@ -16532,10 +16574,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>C'est tout ce qui peut faire qu'un corps se gonfle par le moyen de quelques-unes de ses parties les plus mobiles &amp; les plus penetrantes, lesquelles étant agitées &amp; divisées, agtent aussi &amp; di visent les plus grossieres, comme il arrive dans la pâte quand elle se leve &amp; se fermente. Quand le foin est serré sans être bien sec, il y reste un levain qui le fermente, qui le corrompt &amp; le fait fumer. Le vin, la bierre, le cidre, ne bouillent qu'à cause du levain qu'ils enferment. L'huile de tartre est un levain qui fait une prompte fermentation, quand on la mêle avec l'esprit de vitriol ; ce qui arrive generalement à tous les acides mêlez avec les alkali<pc>.</pc>
                   </def>
@@ -16582,13 +16623,11 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Il ne se dit gueres qu'en cette phrase, Le soleil levant. Toutes les Eglises étoient autrefois tournées au soleil levant. Levant. subst. masc. Le point cardinal de l'Horison où les astres se levent à nôtre égard. L'Evangile a été prêché depuis le Levant jusqu'au Couchant. Cette terre est bornée par le Levant d'une riviere<pc>.</pc>
                   </def>
@@ -16630,10 +16669,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Qui est né au Levant. Les Levantins sont la plupart Mahometans. Il se fait un grand commerce avec les Levantins. Les Officiers Levantins sont ceux qui commandent, sur la Mediterranée<pc>.</pc>
                   </def>
@@ -16693,8 +16731,11 @@
                <sense>
                   <def>Plante qu'on appelle autrement giroflier, ou violier. Ce mot est Grec, &amp; composé de leucon, blanc ou blanche, &amp; de ion violette, comme qui diroit violette blanche. Cependant les fleurs du giroffier que l'on appelle des violes, ou des giroflées sont de plusieurs couleurs<pc>.</pc>
                   </def>
-                  <xr>Voyez Giroflier</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Giroflier</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="leucoma">
@@ -16757,10 +16798,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Instrument qui sert à joüer au mail. Il est fait en forme d'une cuillier de bois, ayant un long manche avec quoy on leve la boule quand on est en passe<pc>.</pc>
                   </def>
@@ -16904,8 +16944,11 @@
                   <pc>,</pc>
                   <def>se dit aussi en parlant des seances qui terminent les assemblées. Il faut se trouver au lever du Conseil, de la Cour, de la Chambre. Le mot de levée est plus usité en ce sens<pc>.</pc>
                   </def>
-                  <xr>Voyez Levée</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Levée</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="lever">
@@ -16915,8 +16958,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -17098,8 +17140,11 @@
                <sense>
                   <def>Plante<pc>.</pc>
                   </def>
-                  <xr>Voyez Livesche</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Livesche</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="leveur">
@@ -17110,10 +17155,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Celui qui a soin de lever des droits Seigneuriaux, des dimes, des tailles, des impositions. Voilà le Leveur de la dime, le Leveur du huitiéme denier. Il y a des Leveurs de tailles qui en font le recouvrement, au lieu des Assceurs &amp; Collecteurs<pc>.</pc>
                   </def>
@@ -17257,10 +17301,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Jeune lievre &amp; tendre, qu'on mange rôti. Un levraut à la sauce douce, à la sauce vinaigrée, à la poivrade. Un levraut de trois quarts<pc>.</pc>
                   </def>
@@ -17282,10 +17325,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Partie du visage qui est double ; le bord, la partie exterieure de la bouche ; l'extremité musculeuse &amp; charnuë, qui ferme &amp; couvre la bouche ; tant par dessus que par dessous. Les Amans loüent leurs Maîtresses d'avoir des levres vermeilles, des levres de corail ; baisent le verre qu'elles ont touché du bout des levres. Les Mores ont de grosses levres. On se mord les levres pour s'empêcher de rire. On dit aussi d'un ris force, qu'il ne passe pas les levres. On met de la pommade sur les levres, quand elles sont jercées ou crevassées. Les lavres sont l'instrument de la parole. Les Matines commencent par cette invocation du Pseaume, Seigneur, vous ouvrirez mes levres. Dieu par Isaïe se plaignoit de son peuple, qui ne l'adoroit que des levres, qui ne faisoit que remuer les levres, &amp; dont il n'avoit point le coeur. Accorder une chose du bout des lovres. Voit<pc>.</pc>
                   </def>
@@ -17855,9 +17897,12 @@
                <sense n="1">
                   <def>Monnoye qui vaut trois deniers, faire de la même matiere que les sous. Elle a cours encore dans le Lyonnois &amp; dans le Dauphiné. On les appelloit petits liards sous Louïs XI. En1467. ils étoient du poids d'un denier, &amp; avoient trois deniers d'alloi valans trois deniers tournois. Ils portoient une croix entre deux lis, &amp; une couronne ; &amp; au revers un dauphin avec la legende, Sit nomen Domini benedictum. Il s'en est fait depuis de simple cuivre, qui porte le nom de liard de France, &amp; qui est à present reduitte en doubles<pc>.</pc>
                   </def>
-                  <xr>Voyez Le Blanc</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Le Blanc</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <etym>
                   <ref>Menage</ref>
                   <lbl>dit que ce mot vient de</lbl>
@@ -18624,8 +18669,11 @@
                   <pc>.</pc>
                   <def>Femelle de chien de Chasse, destinée à faire race. Une bonne lice. Faire couvrir une lice. Une lice noüée, c'est-à-dire, une lice pleine<pc>.</pc>
                   </def>
-                  <xr>Voyez Lisse</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Lisse</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="licence">
@@ -18724,8 +18772,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -18922,10 +18969,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Une têtiere montée d'une longe de cuir pour attacher les chevaux, mulets, ou autres bêtes au ratelier, quand on les a debridées. On fait les licous de chevaux, de cuir de Hongrie ; ceux des ânes ou des chevaux de loüage de simple corde<pc>.</pc>
                   </def>
@@ -18974,10 +19020,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>La partie la plus crasse, la plus épaisse, &amp; la plus grossiere du vin, de l'huile, &amp; des autres liqueurs. En Medecine on l'appelle sediment. On fait du sel de tartre avec de la lie de vin brulée. La lie sert à écurer la vaisselle. La Courtisane Phryné devenue vieille, disoit par application à elle-même, &amp; dans un sens de debauche, qu'on bûvoit le bon vin jusqu'à la lie. Ablan<pc>.</pc>
                   </def>
@@ -19082,10 +19127,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Ce qui joint ensemble ; ce qui attache, &amp; unit des choses ensemble. Faire des liens pour des gerbes ; rompre, couper un lien. Les botes de foin sont moins estimées quand elles n'ont que des liens de paille<pc>.</pc>
                   </def>
@@ -19135,8 +19179,11 @@
                   </gramGrp>
                </form>
                <sense>
-                  <xr>Voyez Lianes</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Lianes</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="lienterie">
@@ -19162,8 +19209,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -19480,8 +19526,11 @@
                   <pc>,</pc>
                   <def>est aussi le nom qu'on donne à un poisson de mer, où l'on remarque comme une chose extraordinaire, qu'il à440. pancreas<pc>.</pc>
                   </def>
-                  <xr>Voyez Pancreas</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Pancreas</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="lieue">
@@ -19674,10 +19723,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Charge de Lieutenant, soit dans la Justice, soit dans la Guerre, soit dans un Gouvernement. Une Lieutenance aux Gardes. La Lieutenante de Roi d'une telle Province. La Lieutenance generale de l'armée, d'un tel Presidial, &amp;c<pc>.</pc>
                   </def>
@@ -19746,10 +19794,9 @@
                   <gramGrp>
                      <pos>sabst</pos>
                      <pc>.</pc>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#anatomie">Terme d'Anatomie</usg>
                   <pc>.</pc>
@@ -19846,9 +19893,12 @@
                <sense n="1">
                   <def>&amp; 1 vanai qui tient une certaine sorte de fief qui le lie envers son Seigneur dominant d'une obligation plus étroite que les autres<pc>.</pc>
                   </def>
-                  <xr>Voyez Hommage</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Hommage</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <etym>
                   <lbl>Ce mot vient</lbl>
                   <gloss>d'une ceremonie qu'on faisoit en rendant la foi &amp; hommage, de lier le pouce au Vassal, ou de lui serrer les mains dans celles du Seigneur, pour montrer qu'il étoit lié par son serment de fidelité, comme disent Pontanus, Gni, Pape &amp; Upton</gloss>
@@ -20035,7 +20085,7 @@
                      <orth>Ligne</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#astronomie#geographie">en termes d'Astronomie &amp; de Geographie</usg>
+                  <usg type="domain" ana="#astronomie #geographie">en termes d'Astronomie &amp; de Geographie</usg>
                   <pc>,</pc>
                   <def>se dit par excellence de la Ligne Equinoctale, ou de l'Equateur. Les Matelots baptizent les passagers la premiere fois qu'ils passent la Ligne. Cete lIle est sous la Ligne, à deux degrez de la Ligne : c'est là que commencent les latitudes Australes, &amp; Septentrionales. La ligne Alexandrine est un Meridien passant sur la bouche du fleuve Maragnon, &amp; par les caps de Houmos, &amp; de Malabrigo en Amerique. On le nomme aussi ligne de division, ou de partition, parcequ'il fut établi par Alexandre VI. en 1493. au sujet des differens entre Ferdinand Roi de Caltille, &amp; Emanuel Roi de Portugal, pour le partage des Indes<pc>.</pc>
                   </def>
@@ -20348,8 +20398,11 @@
                <sense>
                   <def>Plante qui a pris son nom de Liguria contrée d'Italie que nous appellons aujourd'huy la Riviere de Genes ; parceque la plante que les Anciens ont appellé de ce nom, se trouvoit dans ces quartiers, à ce que raporte Dioscoride<pc>.</pc>
                   </def>
-                  <xr>Voyez Livesche</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Livesche</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -20395,8 +20448,11 @@
                <sense>
                   <def>Insecte<pc>.</pc>
                   </def>
-                  <xr>Voyez Limaon. Limace</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Limaon. Limace</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>On donne ce nom à une certaine machine, qu'on appelle la vis d'Archimede. C'est un canal appliqué en forme de vis autour d'un cylindre, qu'on appelle noyau, dont on se sert pour faire monter l'eau. Il faut donner à la limace une certaine pente pour attirer l'eau plus facilement. Voyez Ozanam qui a fait la description de cette machine<pc>.</pc>
                   </def>
                </sense>
@@ -20500,8 +20556,11 @@
                <sense>
                   <def>Sorte de petit insecte qui ronge les feuilles &amp; mange les fruits. Limas noir. Limas à coquille<pc>.</pc>
                   </def>
-                  <xr>Voyez Limaçon</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Limaçon</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="limbe">
@@ -20762,10 +20821,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>m.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <form>
                      <orth>Bornes</orth>
@@ -20879,8 +20937,11 @@
                   <pc>,</pc>
                   <def>signifie encore le fruit du limonnier. Il y a dee limons aigres &amp; de doux. Le jus du limon aigre ôte les taches d'encre du linge. Les Latins les ont aussi appellez limones, ou mala limonia<pc>.</pc>
                   </def>
-                  <xr>Voyez Limonnier</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Limonnier</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="limonade">
@@ -20891,10 +20952,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Breuvage qu'on fait avec de l'eau, du sucre &amp; du jus de citron ou limon. On prend de la limonade en été pour se rafraîchir. On en sert aux Dames qui sont au bal<pc>.</pc>
                   </def>
@@ -21036,8 +21096,11 @@
                <sense>
                   <def>Ouvrage de ces sortes de Miçons. Ce bâtiment n'est que du limesinage<pc>.</pc>
                   </def>
-                  <xr>Voyez Limosinerie</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Limosinerie</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>C'est la même chose<pc>.</pc>
                   </def>
                </sense>
@@ -21144,7 +21207,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="14">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>14</orth>
@@ -21522,10 +21585,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Animal que la plupart des Modernes croyent fabuleux, que les Anciens ont dit avoir une vuë si subtile &amp; si penetrante, qu'il voyoit à travers les murailles. Jonston dit que c'est le même que le loup cervier, dont il fait une longue description. Scaliger dit qu'il est le linx mâle. Elien le decrit, avec une houppe de poil sur le bout des oreilles, qui est pareille à celle qu'on remarque au loup cervier. Appien fait mention de deux linx, l'un grand qui chasse aux cerfs, &amp; l'autre petit qui chasse aux lievres. On dit que lorsque le linx a pissé, son urine se glace, &amp; qu'il s'en forme une maniere de pierre luisante, &amp; que le linx qui sçait cela, couvre son urine avec de la terre. Nonobstant tout ce qu'on en dit, on le tient aujourd'huy pour un animal imaginaire. Et à l'égard de cette vue si subtile, on tient que c'est une fable fondée sur une autre qu'on fait de Lincée l'un des Argonautes, auquel les Anciens ont attribué si bonne vue, qu'il voyoit jusqu'aux Enfers, &amp; la lune le premier jour qu'elle étoit dans la conjonction ; ce qui est aussi absurde, vu qu'alors sa partie qui regarde la terre n'est aucunement éclairée du soleil. Les Latins l'ont appellé lupa cervalis, &amp; ont crû que cet animal voyoit en dormant<pc>.</pc>
                   </def>
@@ -21655,10 +21717,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#medecine">Terme de Medecine</usg>
                   <pc>.</pc>
@@ -21682,9 +21743,12 @@
                   <pc>.</pc>
                   <def>Affection des yeux, que l'on appelle autrement chassie : elle consiste dans l'écoulement d'une humeur crasse &amp; visqueuse qui attache les paupieres l'une à l'autre. Quelques-uns après Celse donnent aussi ce nom à l'ophthalmie<pc>.</pc>
                   </def>
-                  <xr>Voyez Ophthalmie</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Ophthalmie</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <etym>
                   <lbl>Ce mot vient du</lbl>
                   <lang>Latin</lang>
@@ -21727,10 +21791,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Qui ne se dit qu'en cette phrase proverbiale : Un chercheur de franches lippées pour dire, un écornifleur, qui cherche des repas qui ne lui coutent rien<pc>.</pc>
                   </def>
@@ -22089,15 +22152,17 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Instrument de Musique<pc>.</pc>
                   </def>
-                  <xr>Voyez Lyre</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Lyre</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="lirique">
@@ -22146,10 +22211,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Plante dont il y a plusieurs especes. Le lis blanc pousse une tige à la hauteur de deux ou trois pieds, ronde, droite. Ses feuilles sont longues, assez larges, vertes-pâles, lisses, luisantes, douces au toucher. Ses fleurs naissent à ses sommets premierement en têtes longues qui s'épanouiïssent les unes après les autres, composées chacune de six belles grandes feuilles blanches comme du lait, d'une odeur suave, fort agreable d'abord, mais qui cause souvent des maux de tête quand on les sent trop long temps. Lorsque ces fleurs sont passées, il vient des fruits oblongs, relevez chacun de trois coins, &amp; divisez dans leur longueur en trois loges remplies de semences bordées d'une aile. Sa racine est un oignon gros comme une noix ou plus gros, charnu, blanc, composé de plusieurs écailles disposées en maniere de tête, garni de fibres en bas. En Latin Lilium album vulgare J. Bauh. La racine de lis est très-bonne pour amolir, pour digerer, pour resoudre : ses fleurs sont humectantes &amp; adoucissantes. Il y a un lis orangé qui est semblable au lis blanc, excepté que ses feuilles sont moins larges : sa tige croît à la hauteur d'environ trois pieds, marquée de taches ; elle soutient en ses sommets des fleurs de couleur orangée : sa racine est bulbeuse, blanche comme celle du lis blanc. En Latin Lilium purpuro-croceum vulgare C. Bauh. Le li a été chez tous les peuples estimé pour sa blancheur &amp; sa pureté. Jesus-Christ commande à ses Disciples de considerer les l qui ne travaillent, ni ne filent, &amp; cependant la Providence en a tant de soin, qu'elle les égale à la pourpre de Salomon. Virgile parlant de Marcellus, veut qu'on lui presente des lis à pleines mains, au sixiéme livre de l'Eneide<pc>.</pc>
                   </def>
@@ -22445,8 +22509,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -22512,9 +22575,8 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
-                  <pc>.</pc>
                   <form type="variant">
                      <lbl>ou</lbl>
                      <orth>cselon l'Academie LISSOIRE</orth>
@@ -22723,12 +22785,10 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
-                     <pc>.</pc>
-                     <number>plur</number>
+                     <gen>fem.</gen>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Formule de priere qu'on chante dans l'Eglise Romaine à l'honneur des Saints, ou de quelques mysteres, soit en general, ou en particulier. Elle contient certains éloges ou attributs, à la fin de chacun desquels on leur fait une invocation en mêmes termes. Les Litanies des Saints se chantent au retour des Processions avec cette reponse, Priez pour nous ; &amp; en celles qui regardent les personnes de la Trinité, on dit, Ayez pitié de nous. Du Cange die qu'autrefois ce mot signifoit aussi Procession, &amp; que les grandes Litanies étoient celles des Rogations. Ceux qui disent letanies parlent mal. Men<pc>.</pc>
                   </def>
@@ -23074,10 +23134,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Ceremonie particuliere d'une Eglise pour celebrer le service divin, &amp; particulierement la Messe. La Liturgie Grecque, Latine. Les anciennes Liturgies. Le Cardinal Bona à écrit deux livres des Liturgies. Tous ceux qui ont écrit des Liturgies demeurent d'accord que le service public se faisoit dans les premiers siecles sans beaucoup de ceremonie, &amp; qu'on n'y recitoit qu'un petit nombre d'oraisons. Mais peu-à-peu l'on y a ajoûté quelques prieres, &amp; quelques ceremonies exterieures, pour rendre le sacrifce plus venerable au peuple. Enfin les Eglises ont regle, &amp; mis par écrit la maniere de le celebrer, &amp; c'est ce qu'on appelle Liturgie. Du Pin. Parmi les Grecs on dit, la Liturgie de Saint Chrysostome ; &amp; parmi les Latins, la Liturgie de Saint Pierre<pc>.</pc>
                   </def>
@@ -23313,8 +23372,11 @@
                   <pc>,</pc>
                   <def>se dit aussi du troisiéme ventricule des animaux ruminans. On l'appelle autrement le millet<pc>.</pc>
                   </def>
-                  <xr>Voyez Millet</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Millet</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="livre">
@@ -23333,7 +23395,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="2">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>2</orth>
@@ -23376,8 +23438,11 @@
                   <pc>,</pc>
                   <def>est aussi une mesure du poids des corps graves qu'on pese, qui est differente selon les lieux. Celle d'Avignon, de Provence &amp; de Languedoc est de 13. onces. La livre de Lion est de 15. onces. La livre de Paris est de 16. onces, celle de Medecine &amp; des Droguistes de 12. Chaque once est divisée en huit drachmes, ou gros, la drachme en trois scrupules, ou deniers, le scrupule ou denier en 24. grains, &amp; le grain en 24. karats. Desorte que la livre de Paris contient 9216. grains. Dans les lieux bien policez on vend toutes choses à la livre, jusques au bois, au charbon, au vin, au poisson. Les balles de mousquet doivent être de vingt à la livre. Les canons de batterie portent depuis 24. jusqu'à 36. livres de boulet : ce canon pese ordinairement six milliers ou 6000. livres, &amp; l'affût autant. On a mis six quintaux de poudre pour faire joüer ce fourneau, c'est-à-dire, 600. livres. Les Romains avoient une livre ponderale, &amp; une livre mensurale pour les longueurs. La livre de blé contient, suivant le Pere Mersenne, 13760. grains. Bouterouë a fait de belles Tables des divisions de la livre Romaine, &amp; du rapport à nos grains, &amp; de même de l'as &amp; de ses parties. Ce mot en ce sens vient du Latin libra. Le poids de la livre fut pris par les Romains des Siciliens, qui le nommoient litra. Les Romains ont changé la prononciation du Ten B. Ce poids fut divisé en douze onces, qui ne pesoient même que dix onces &amp; demie de nôtre poids. On se servit de la livre Romaine en France pour la monnoye d'or, &amp; d'argent, jusqu'au temps de Charlemagne, ou même jusqu'à Philippe I. en 1093. auquel temps on commença à compter par marcs, &amp; non plus par livres<pc>.</pc>
                   </def>
-                  <xr>Voyez Le Blanc</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Le Blanc</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="liv">
@@ -23580,10 +23645,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <usg type="domain" ana="#medecine">Terme de Medecine</usg>
                   <pc>,</pc>
@@ -23684,10 +23748,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>&amp; fem. Celui qei prend une portion de maison, ou une maison entiere de loyer, à bail. On appelle, Principal locataire, celui qui loue toute la maison, &amp; en relouëe les appirtemens &amp; les chambres à d'autres particuliers. Les principaux locataires sont tenus des charges de ville, de faire les deniers bons aux maîtres. Il y a plusieurs mênages, plusieurs locataires en cette maison<pc>.</pc>
                   </def>
@@ -23792,8 +23855,11 @@
                <sense>
                   <def>Evacuations qu'ont les femmes immediatement après leurs couches. On les appelle autrement Vaidanges<pc>.</pc>
                   </def>
-                  <xr>Voyez Vuidanges</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Vuidanges</ref>
+                     <pc>.</pc>
+                  </xr>
                   <pc>.</pc>
                </sense>
             </entry>
@@ -23807,8 +23873,11 @@
                <sense>
                   <usg type="domain" ana="#marine">Terme de Marine</usg>
                   <pc>.</pc>
-                  <xr>Voyez Lamanfur</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Lamanfur</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="locomotrice">
@@ -23819,10 +23888,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#philosophie">Terme de Philosophie</usg>
                   <pc>,</pc>
@@ -23937,10 +24005,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#geometrie &amp; d'arithmetlque">Terme de Geometrie &amp; d'Arithmetlque</usg>
                   <pc>.</pc>
@@ -23996,13 +24063,11 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Ce qui est commode pour loger. Ce logis est bien logeable. Cet appartement est fort logeable. LOGEMENT. s. m. Lieu où l'on se retire, où l'on fait sa demeure. J'ai loié un logement à l'année. Cet Officier n'a chez son maître que la table &amp; le logement. De ce lieu abandonné, il a fait un logement, un appartement fort commode<pc>.</pc>
                   </def>
@@ -24537,10 +24602,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>m.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#anatomie">Terme d'Anatomie</usg>
                   <pc>.</pc>
@@ -24854,10 +24918,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <usg type="domain" ana="#geographie">Terme de Geographie</usg>
                   <pc>.</pc>
@@ -24972,10 +25035,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>La premiere dimension des corps, qu'on considere ordinairement par leur plus grande étenduë. Tout corps naturel a longueur, largeur, &amp; profondeur. La ligne est une longueur sans largeur. On mesure les surfaces en multipliant leur longueur par leur largeur. Il n'apprehendoit pas tant les blessures, que la longueur du chemin. Ablan. On appelle un épée de longueur, celle qui est propre à se battre en combat singulier, qui est d'une bonne, &amp; juste longueur<pc>.</pc>
                   </def>
@@ -25025,17 +25087,19 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#pharmacie">Terme de Pharmacie</usg>
                   <pc>.</pc>
                   <def>C'est une composition d'une consistence entre celle de syrop, &amp; celle des électuaires mols, destinée pour les maladies du poumon. C'est un mot Arabe qui est demeuré en usage chez les Apothicaires. Les Latins l'ont appellé linctus, &amp; les Grecs eklegma, à cause qu'on le prend en lechant. On fait de plusieurs sortes de loochs<pc>.</pc>
                   </def>
-                  <xr>Voyez Eclegme</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Eclegme</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="loom">
@@ -25113,10 +25177,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Terme populaire, qui signifie une piece d'un habit dechiré &amp; decousu, mais qui n'en est pas tout-à-fait detachée. Cet habit est si vieux, que ce n'est plus que des loques qui pendent<pc>.</pc>
                   </def>
@@ -25381,10 +25444,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Espece de parallelogramme, ou figure composée de quatre côtez oe lignes égales &amp; parallêles, dont les angles ne sont point droits, mais dont les deux opposez sont aigus, les deux autres sont obtus. En Geometrie on l'appelle rhombe ; &amp; quand les cotez sont inegaux, rhomboide. La plupart écrivent losange<pc>.</pc>
                   </def>
@@ -25437,10 +25499,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Portion d'une chose divisée en plusieurs parties pour la partager entre plusieurs personnes, ou leur en faire la distribution. Quand un aîné fait les lots d'une succession, c'est le cadet qui choisit. Quand c'est un étranger, on les tire au sort. Les Marchands font des lots de marchandises dans le Bureau de leur communauté, pour se les partager entre eux. Il y a aussi un jeu de hazard où l'on fait plusieurs lots inegaux qu'on tire au sort. Il faut avoir bien du bonheur pour avoir le gros lot<pc>.</pc>
                   </def>
@@ -25472,8 +25533,11 @@
                   <pc>,</pc>
                   <def>se prend quelquefois dans un sens burlesque &amp; figuré, pour signifier une portion de quelque chose, comme gros lot, pour significer ce qu'il y a de meilleur, de plus considerable dans cette chole. Le bel esprit au fiecte de Maret Des dons du Ciel passoit pour le gros lot. Des-H. Lots &amp; ventes<pc>.</pc>
                   </def>
-                  <xr>Voyez Lods</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Lods</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="lote">
@@ -25484,10 +25548,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Poisson bon &amp; friand qu'on pêche particulierement dans la Saône &amp; dans l'lsere, &amp; qui ressemble à la lamproye. En Latin lota ou morella. Il a la quene en forme d'épée, &amp; le corps rond &amp; brm<pc>.</pc>
                   </def>
@@ -25620,9 +25683,12 @@
                <sense n="1">
                   <def>Plante qu'on appelle autrement Lotier<pc>.</pc>
                   </def>
-                  <xr>Voyez Lotier</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Lotier</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <form>
                      <orth>Lotus</orth>
@@ -25644,13 +25710,11 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Ce qui merité qu'on l'estime, qu'on le vante : les vertus sont loables<pc>.</pc>
                   </def>
@@ -25996,16 +26060,15 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Piece de monnoye de France qu'on a commencé à fabriquer sur la fin du regne de Louïs XIII. en 1640. &amp; qui a eu grand cours sous celui de Leus XIV. Il y a des louis d'or qui ont valu d'abord 10. liv. puis onze, &amp; enfin jusqu'à i2. liv. Il en vaut même 14 aujourd'huy sen 1699. J &amp; cela a commencé depuis quelques années à cause du besoin qu'on a eu d'argent, pendant la guere. La tête du Roi y est élevée d'un côté avec son nom, &amp; de l'autre une croix composée de huit L adossées &amp; cantonnées de couronnes. La legende est, Christus rrgnat, vincit, imperat. Il ey a des louis blancs, ou lounis d'argent de 60. s. de 30<pc>.</pc>
                   </def>
                </sense>
             </entry>
-            <entry xml:id="15">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>15</orth>
@@ -26099,9 +26162,12 @@
                <sense n="6">
                   <def>Vesse de loup, est une espece de champignon<pc>.</pc>
                   </def>
-                  <xr>Voyez an mot Vesse</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>an mot Vesse</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="7">
                   <form>
                      <orth>Loup</orth>
@@ -26471,7 +26537,6 @@
                   <def>La femelle d'un loup. La louve ne porte que deux mois, &amp; fait 5. 6. &amp; 7. petits, qui ont aveugles lorsqu'ils viennent au monde. La louve aime si éperdument ses louveteaux, qu'elle ne les quitte point jusqu'à ce qu'ils voyent clair. Et pendant ce temps-là, le loup qui a couvert la louve lui aporte à manger. D'autres disent le contraire<pc>.</pc>
                   </def>
                   <xr>Voyez Loup</xr>
-                  <pc>,</pc>
                   <def>pour toutes les autres significations de louve, soit propres, soit figurées<pc>.</pc>
                   </def>
                </sense>
@@ -26511,8 +26576,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -26587,10 +26651,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Equipage de la chasse du loup. Il y a plusieurs Officiers dans la Louveterie. En plusieurs Provinces il y a des Lieutenans de Louveterie<pc>.</pc>
                   </def>
@@ -26789,8 +26852,11 @@
                   <pc>,</pc>
                   <def>se dit aussi de certaines regles &amp; principes fondamentaux écrits ou non écrits pour le gouvernement de l'Erat. La Loi Salique en France veut que le sceptre ne tombe point en quenouille, que la succession du Royaume aille de mâle en mâle. Du Cange dit qu'il y a eu deux sortes de Loi Salique : l'une qui eut lieu avant que le Christianisme fût reçu en France, qui fut faite par les quatre principaux Chefs de la nation, Visogast, Bosogast, Salogast &amp; Vidogast ; l'autre qui fut corrigée par les Rois Chretiens, qui est celle dont parlent Du Tillet, Pithou, Lindembrok, &amp;c. La Los Salique a été ainsi appellée, parcequ'elle a été faite pour les François qui demeuroient le long de l riviere de Sale en Allemagne<pc>.</pc>
                   </def>
-                  <xr>Voyez Salique</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Salique</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Les coutumes &amp; usages locaux servent de loi en païs Coutumier. Les loux de la guerre sont des maximes dont les ennemis même conviennent pour faire la guerre<pc>.</pc>
                   </def>
                </sense>
@@ -26997,10 +27063,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>qui signifioit autrefois louange. Il est abrégé du Latin laus. Marot demandant au Roi de l'argent à emprunter, lui en promet un billet en ces termes : Si vous voulez à payer ce sera Quand vôtre los &amp; renom finira. On s'en peut encore servir dans le stile badin avec la Fontaine qui a dit : Puissent mes vers &amp; vôtre nom, Aller si loin, que nôtre los franchisse La nuit des temps<pc>.</pc>
                   </def>
@@ -27018,10 +27083,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Caprice, fantaisie qui prend à quelcun de faire quelque chose qu'il ne feroit pas en un autre temps. On a dit dans le Virgile travesti, en parlant de la Renommée, Car il lui prit une lubie D'aller prôner par la ibie, &amp;c. Ce terme est populaire &amp; burlesque<pc>.</pc>
                   </def>
@@ -27064,12 +27128,10 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
-                  <pc>.</pc>
                   <form type="inflected">
                      <orth type="part">Incontinent ; lascif</orth>
                   </form>
@@ -27114,10 +27176,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Petite fenêtre qui est au dessus de l'entablement d'une maison, ou dans les toits, pour éclairer les greniers, ou les chambres en galetas. Il y a des lucarnes rondes qu'on appelle autrement oeil de beuf. Il y en a de quarrées, de bombées. Les Latins l'ont appellée ausi lucerna. Des luicarnes Flamandes qui sont élevées sur l'entablement, &amp; couvertes d'un fronton. La lucarne Flamande est évaluée dans un toisé à une toise ; &amp; si elle a un fronton, à toise &amp; demie. Des lucarnes damoiselles, sont des lucarnes de charpente, qui portent sur les chevrons, &amp; qui sont couvertes en triangle, elles sont évaluées à demie-toise. Il y a aussi des lucarnes faitieres, qui sont de simples ouvertures dans le toit couvertes d'une tuile faîtiere<pc>.</pc>
                   </def>
@@ -27181,16 +27242,15 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>C'est ainsi que les Poëtes des Payens ont nommé l'étoile de Venus, lorsqu'elle paroît le matin, quand elle est Orientale au soleil. L'Ecriture lui attribue aussi le nom de cet astre en ces mots : Numquid producis luciferum in tempore suo, &amp; vesperum super flios terre consurgere facis ? Job. 3. vers. 32. Et tu lucifer qui mane oriebaris, Esai. 14. vers<pc>.</pc>
                   </def>
                </sense>
             </entry>
-            <entry xml:id="12">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>12</orth>
@@ -27437,10 +27497,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Corps fort subtil, prompt, &amp; delié qui cause la clarté, qui éclaire, qui donne la couleur à toutes choses, qui ébranle les yeux, &amp; rend les objets visibles. Les Philosophes distinguent entre lumiere primitive, ou radicale, &amp; lumiere seconde ou derivée. La lumiere primitive ou radicale, est celle qui est dans le corps lumineux, &amp; qui consiste dans un certain mouvement de ses parties, qui les rend capables de pousser à la ronde la matiere subtile, qui remplit les pores des corps transparens. Et la lumiere seconde ou derivée, n'est autre chose que l'inclination à se mouvoir, ou la tendance qu'a cette matiere subtile à s'éloigner en ligne droite du centre du corps lumineux. Rohault. La lumiere consiste dans un écoulement d'une infinité d'atomes ou de corpuscules ignées, qui sor ant du soleil comme d'un grand ocean de feu, se repandent avec une vitesse incroyable de toutes parts. C'est le sentiment de Democrite, &amp; l'Epicure, que Lucrece a mis élegamment en vers. Gassendi l'a adopté. Descartes, &amp; Mr. Huygens ont nié qu'il se fit aucun transport de corpuscules du corps lumineux jusqu'à nous. Ils n'ont pu comprendre que les corps lumineux pussent sans s'épuiser repandre une si prodigieuse quantité de matiere dans tout l'espace immense qu'ils illuminent, &amp; que si la lumiere étoit composée de particules enflammées, elle ne fit pas sentir de la chaleur en même temps qu'elle ébranle les fibres du nerf optique. Mr. Huygens concevoit donc une longue suite de globules qui forment comme autant de petits batons, dont l'une des extremitez touche le soleil, &amp; l'autre le fond de l'oeil. Après quoi il doit s'ensuivre, qu'au même instant que le soleil presse l'extremité qui lui est contigue, celle qui appuye sur l'oeil est aussi pressée. Ainsi la lumiere parvient du corps lumineux jusqu'à nous par quelque mouvement imprimé à la matiere subtile qui est entre deux, &amp; ce mouvement s'étend successivement par des surfaces, &amp; des ondes spheriques. Mr. Huygens a supputé que la lumiere employe onze minutes a venir jusqu'à nous : c'est-à-dire à parcourir douze mille diametres de la terre. Les couleurs ne sont qu'une differente reflexion de lumiere. Dieu fit la lumiere le premier jour de la creation, &amp; il fit le soleil le quatriéme, qui est la source, le pere de la lumiere ; sa trop vive lumiere éblouït les yeux. Pendant son éclipse il n'a qu'une lumiere foible, &amp; sombre. La lune, Venus &amp;c. empruntent de lui leur lumiere. Le soleil est la source de toute cette lumiere que les planetes ne font que se renvoyer les unes aux autres, après l'avoir reçuë de lui : d'une planete à l'autre il s'épand de longues trainées de lumiere qui se croisent, &amp; se traversent en mille façons differentes. Font<pc>.</pc>
                   </def>
@@ -27643,8 +27702,11 @@
                <sense>
                   <def>LUN SUR LAUTRE<pc>.</pc>
                   </def>
-                  <xr>Voyez Un</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Un</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="lunaire">
@@ -27741,8 +27803,11 @@
                <sense n="1">
                   <def>L'une des sept planetes, la plus proche de la terre. C'est un corps spherique, solide, &amp; opaque. Elle luit de la lumiere empruntée, &amp; reflechie du soleil. Selon Mr. Cassini, elle est 52. fois plus petite que la terre, ou 43. selon les Modernes. Comme la lune n'est pas fort éloignée de la terre, cela fait que ses irregularitez nous paroissent plus sensibles, &amp; en plus grand nombre : &amp; c'est ce qui rend la theorie de la lune plus embarassée que celle du soleil. La lune presente toujours à la terre un même côté, &amp; une même face, ou le même visage que nôtre imagination lui compose sur le fondement des taches qu'elle nous montre. Elle ne tourne qu'en un mois autour de la terre ; &amp; ne lui montre ainsi que le même côté. Desorte que si la lune étoit habitée, la terre ne seroit apperçue que par ceux d'un bemisphere, à qui la terre serviroit de lune pour les éclairer. La lune semble se mouvoir sous le zodiaque selon la suite des signes d'Occident en Orient : elle parcourt un cercle excentrique à celui du soleil. Son excentricité est de cinq diametres de la terre. Cet excentrique porte un épicycle dont le centre est toujours sur la circonference de l'excentrique, ou deferent, lequel porte l'épicycle par son centre. Le corps de la lune se meut sur la circonference de son épicycle, au dessus contre l'ordre des signes, &amp; au dessous selon l'ordre des signes. Elle parcourt le zodiaque en 27. jours, sept heures, &amp; 43. min. Mais elle ne rattrape le soleil qu'en 29. jours douze heures 44. min. Le premier mouvement s'appelle cours, ou mois periodique ; &amp; le second, cours ou mois synodique ou de conjonction. Mais il faut observer que ceux qui ont fait la distribution du nombre d'or dans le Calendrier, ont ou ignoré, ou negligé l'excés de la durée astronomique d'une lune au dessus des 29. jours &amp; demi, &amp; supposant leur calcul très-juste, ils ont disposé les lunes dans une suite alternative, en donnant 30. jours à l'une, qu'ils ont appellée pleine, &amp; seulemenr 29. jours à l'autre, qu'ils ont appellée cave, ou vuide, afin que le demi jour qui se trouve de trop dans la pleine, fût compensé par ce qui se trouve de moins dans la cave. Il y a un 3. mois d'illumination, pendant lequel elle nous est visible. Il est de 26. jours douze heures. Le peuple ne parle de la lune habitée que comme d'une folie, &amp; d'une vision. Font. Cependant on pretend decouvrir des montagnes, &amp; des abimes sur la lune, &amp; que cela se reconnoît à des inegalitez remarquables. Pour les taches, on soupçonne que ce sont des mers, qui laissant passer au travers d'elles-mêmes une partie de la lumiere, en renvoyent moins, &amp; paroissent par consequent comme des taches obscures : au lieu que les terres qui par leur solidité renvoyent toute la lumiere, sont des endroits plus brillans. Font. Riccioli a compté 48. taches dans la lune ausquelles il a donné des noms differens. On conjecture que celle qu'il appelle Tycho est une grande ville. Voyez Hartsocker Dioptrique. Sa distance de la terre est de 53. demi-diametres de la terre dans son perigée, &amp; de 6i. dans son apogée ment. La plus grande latiécliptique ne surpasse jalune est dans sa conjonction, ou dans son opposition avec le soleil, elle est alors dans sa plus petite distance de la terre : c'est-àdire dans son perigée. Quand elle est dans son premier ou son dernier quartier, elle est dans sa plus grande distance ; c'est-à-dire dans son apogée ; du moins les Cartesiens l'ont supposé ainsi pour rendre raison du flux, &amp; reflux qui est plus grand à la nouvelle &amp; à la pleine lune, que dans les quadratures. Ils supposent aussi qu'elle est alors dans le plus petit diametre de l'ellipse qu'elle decrit. Mais tout cela est faux : puisqu'elle est pleine ou nouvelle par rapport à son opposition, &amp; à sa conjonction avec le soleil : ainsi il arrive aussi souvent qu'elle se trouve ou dans son apogée, ou dans le plus grand diametre de l'ellipse qu'elle decrit, au temps de son opposition, ou de sa conjonction, qu'au temps des quadratures. Quelques-uns ont derivé ce mot de lune à lacunie, à cause des diverses inegalitez qu'on y observe, &amp; des taches ausquelles les Astronomes modernes ont donné divers noms<pc>.</pc>
                   </def>
-                  <xr>Voyez Selenographie</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Selenographie</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Les Anciens appelloient la lune, la Reine du silence, parcequ'elle sembloit presider sur la nuit. Dac. Voiture appelle la lune, la blanche couriere de la nuit : Desportes a dit de même, Et toy soeur d'Appollon vagabonde couriere. On appelle phases de la lune, les differentes apparitions de sa lumiere à l'égard de la terre. La moitié de la lune est toujours éclairée par le soleil : mais parcequ'elle change continuellement de situation autour de la terre, &amp; qu'elle se met quelquefois entre nous, &amp; le soleil, elle ne peut pas toujours nous montrer toute cette moitié que le soleil éclaire ; elle nous en montre tantôt plus, &amp; tantôt moins, selon qu'elle est plus, ou moins éloignée du soleil. Il n'y a que quatre aspects differens, &amp; quatre phases de la lune : quand elle est conjointe avec le soleil, elle n'a aucune phase, parceque la partie illuminée étant toujours tournée vers le soleil, elle ne peut pas alors nous apparoître : quand elle commence à être visible, en nous montrant une petite portion de sa moitié illuminée, on l'appelle croissant ou nouvelle lune ; c'est-à-dire ; quand elle sort des rayons du soleil, ou de sa conjonction : vieille lune, quand elle est sur son declin, ou en decours : pleine luane, quand elle est en son opposition, &amp; que nous voyons sa face entierement éclairée, parcequ'elle est plus éloignée du soleil, &amp; qu'elle lui est entierement opposée. On appelle premier, &amp; dernier quartier, quand elle est dans les quadratures, ou éloignée du soleil de 90. degrez ; c'est-à-dire que dans ces deux temps elle est également distante du soleil, vers lequel elle retourne après son opposition, &amp; duquel elle s'éloigne après sa conjonction. La lune a les mêmes phases en croissant ou dans son plus grand éloigner tude de la lune à l'égard de l'. mais cinq degrez. Quand la qu'elle a en decroissant : mais c'est en retrogradant : car ses cornes qui dans le declin regardent le couchant, regardent le levant dans le croissant. On trouve l'âge de la lune par le moyen de l'Epacte ; voyez Epacte<pc>.</pc>
                   </def>
                </sense>
@@ -27765,9 +27830,12 @@
                   <pc>,</pc>
                   <def>se dit quelquefois de la figure d'une lune, soit pleine, soit en croissant. Saint Amand a dit en parlant d'un fromage, Pourquoy toïjours s'appetissant, De lune devient-il croissant Les Geometres cherchent la quadrature d'une lune, c'est-à-dire, de la figure d'un croissant formé par l'intersection de deux cercles. Il y en a un problême dans Beltinus Jesuïte en son Apiarium. Les Turcs mettent des lunes ou croissans au haut de leurs maisons, comme on fait en France des giroüettes. On appelle aussi demilune, une espece de fortification<pc>.</pc>
                   </def>
-                  <xr>Voyez Demy-lune, ou Ravelin</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Demy-lune, ou Ravelin</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="5">
                   <def>On appelle aussi Lune, une plaque de metal ronde qui est au devant, &amp; aux côtez de la tête des mulets, &amp; où sont gravées les armes de la personne de qualité à qui appartiennent les mulets<pc>.</pc>
                   </def>
@@ -27781,9 +27849,12 @@
                   <pc>,</pc>
                   <def>signifie l'argent dont on fait diverses preparations<pc>.</pc>
                   </def>
-                  <xr>Voyez Argent</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Argent</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="7">
                   <form>
                      <orth>Lune</orth>
@@ -27850,9 +27921,12 @@
                <sense n="2">
                   <def>Le Telescope est une lunette à longue vue, qui approche les especes des corps éloignez, &amp; qui les grossit. On l'appelle aussi lunette de Hollande, ou de Galilée, parcequ'on pretend que Galilée en a été l'inventeur. Il est vrai pourtant qu'il n'en a pas eu la premiere idée, comme il l'avoüe lui-même. Ce fut un Hollandois de la ville d'Alcmar, nommé Jaques Metius vers l'an 1607. Mr. Descartes raconte que ce Hollandois s'appliquant à faire des verres brûlans, regarda par hazard LUN. au travers d'un verre, &amp; s'apperçut qu'il grossissoit les objets éloignez. Borelli dans son Traitté du telescope dit que l'invention du telescope est duë à Zacharias Johannides, Marchand de Middelbourg. Il y a de ces lunettes simples à deux verres, qui sont l'objectif &amp; l'oculaire, &amp; d'autres à quatre verres. La lunette de l'Observatoire de Paris à 76. pieds de tuyau. Mrs. Descartes &amp; Hook n'ont pas desesperé de pouvoir decouvrir quelque jour des animaux dans la lune par le moyen des grandes lunettes : mais Mr. Auzout a pretendu qu'on n'en peut faire de plus longues que de 300. pieds ; &amp; qu'en ce cas on ne pourroit voir la lune que comme on la verroit de 60. lieuës loin sans lunette, à laquelle dstance on ne pourroit decouvrir des animaux sur la terre. Les étoiles fixes nous paroissent plus grandes à la vue simple qu'à la lunette, selon Galilée<pc>.</pc>
                   </def>
-                  <xr>Voyez Telescope</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Telescope</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="3">
                   <def>Le Microscope est une autre lunette courte qui sert à decouvrir les plus petites parties des objets qu'elle grossit extraordinairement. Il s'en fait aussi à plusieurs verres. Il y a d'autres microscopes si petits, qu'ils sont faits d'un verre qui n'est gros que comme la tête d'une épingle, &amp; ils font des effets merveilleux. Gassendi dit avoir vu émeutir un ciron avec le microscope. Il y en a aussi pour le peuple, qu'on appelle lunettes à puce, qui ne sont autre chose qu'une petite bouteille dans laquelle on regarde par un fort petit trou<pc>.</pc>
                   </def>
@@ -27868,8 +27942,11 @@
                   <pc>,</pc>
                   <def>au pluriel, sont deux verres enchassez dans de la corne, ou autre matiere, qu'on applique sur le nez &amp; devant les yeux, pour aider aux vieillards, &amp; à ceux qui ont la vue courte, à lire &amp; à écrire, ou à decouvrir mieux les objets. Comment une jeune femme peut-elle s'accoutumer aux austeritez d'un vieux mari à lunettes ? On les appelle aussi besicles. Il y en a qui servent à grossir les objets, les autres à conserver seulement la vue, qu'on appelle conserves. On a fait aussi des lunettes à longue vue, pour appliquer aux deux yeux, qu'on appelle binocles, dont a écrit le Pere Cherubin Capucin, &amp; avant lui le Pere Rheita du même Ordre, en son livre intitulé, Oculus Enoch &amp; Flia, lequel avoit trouvé aussi l'invention des lunettes à trois ou à quatre verres<pc>.</pc>
                   </def>
-                  <xr>Voyez Binocle</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Binocle</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Pour achever la perfection des lunettes, on a trouvé le moyen d'appliquer un treillis ou grille de filets très-deliez sur le verre oculaire convexe ; ce qui rend l'observation plus juste. On en voit la figure dans le Journal des Sçavans de l'année 1667. Les lunettes ont certainement été inconnuës aux Anciens ; mais aussi elles ne sont pas si modernes que le telescope. Francesco Reddi pretend que l'invention en a été trouvée auXIII. siecle depuis l'an 1280. jusqu'en 13ii. &amp; qu'un Frere Alexandre Despina de l'Ordre des Freres Prêcheurs de Ste. Catherine de Fise, qui mourut dès l'an 1313. en communiqua l'invention, qu'il trouva de lui-même, après qu'il cut appris qu'un autre en avoit trouvé le secret, lequel il ne vouloit pas communiquer. Cela est écrit dans la Chronique de ce Couvent. Il dit encore, que dans un vieux Manuscrit composé en 1299. qu'il a parmi ses livres, il est parlé des lunettes comme d'une chose inventée en ce temps-là : qu'un fameux Jacobin, nommé Jourdan de Rivalto dans un Traitte qu'il composa en 1305. dit expressément qu'il n'y avoit pas encore 20. ans que les lunettes étoient trouvées. Il cite encore Bernard Gordon dans son livre du Lilium odcine, composé en la même année, où il parle d'un collyre, qui étoit bon pour faire lire un vieillard sans lunetes. Du Cange dit qu'il y a un Poëme Grec qui se trouve en manuscrit dans la Bibliotheque du Roi, qui montre que les lunettes étoient en usage dès l'an 1150. Et il est fait mention de ces lunettes dans le Dictionaire de la Crlsca au mot occhlale. On cite là un endroit des predications de Frere Jourdan de l'Ordre des Predicateurs, qui dit qu'il n'y avoit pas vingtans que les lunettes avoient été nventées : or Salviati a remarqué que ces predications furent faites depuls l'an 1300. jesqu'en 1336. Il en est fait aussi mention dans le livre de Gui de Chauliac Professeur de Medecine à Montpelier, intitulé la Grande Chirurgie, composé des l'année 1363. Il y a aussi un arrêt du i2. Novembre 1416. rapporté par Menage en son livre Amenitates Juris, qui fait mention de ces lunettes ; &amp; d'autres temoignages anciens citez par le Sieur Comiers en son Traitté des lunettes, après Mr. Redi Medecin Italien qui en a écrit fort doctement<pc>.</pc>
                   </def>
                </sense>
@@ -27927,7 +28004,7 @@
                      <orth>Lunette</orth>
                   </form>
                   <pc>.</pc>
-                  <usg type="domain" ana="#corroyeur#peaucier">Terme de Corroyeur &amp; de Peaucier</usg>
+                  <usg type="domain" ana="#corroyeur #peaucier">Terme de Corroyeur &amp; de Peaucier</usg>
                   <pc>.</pc>
                   <def>C'est un instrument qui est d'acier, grand comme une assiette, qui a un trou au milieu pour passer la main, qui est bien aiguisé tout au tour, &amp; dont le Corroyeur &amp; le Peaucier se servent pour parer les peaux de mouton, de veau, de chevre, &amp;c. Parer à la lunette. Ces sortes de lunettes se font en Allemagne<pc>.</pc>
                   </def>
@@ -28017,8 +28094,11 @@
                   <pc>.</pc>
                   <def>Plan terminé par les circonferences de deux cercles qui se touchent en dedans<pc>.</pc>
                   </def>
-                  <xr>Voyez Ozana</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Ozana</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -28084,10 +28164,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Plante que les Latinsappellent Medica, parceque la semence de la luserne ordinaire a été apportée de la Medie. Il y en a plusieurs especes. Celle que J. Bauhin appelle Medica majer erectior floribus purpurascentibus, pousse des tiges à la hauteur de deux pieds, rondes, droites, aflez grosses, rameuses. Ses feuilles sont rangées trois-à-trois comme celles du trefle. Ses fleurs sont legumineuses, de couleur violette purpurine, soutenuës par des calices dentelez. Lorsque ces fleurs sont passées il paroît des fruits composez chacun de deux lames, qui jointes par les bords font une bande roulée &amp; couchée sur elle-même comme les pas d'une vis ou d'un tirebourre. On trouve entre ces deux lames des semences menuës qui ont la figure d'un petit rein. Sa racine est fort longue, ligneuse, mince. On cultive cette plante en plusieurs endroits ; on la fauche jusqu'à six fois l'année ; elle sert pour la nourriture des bestiaux, elle les engraisse beaucoup. On la seme ordinairement avec le trefle<pc>.</pc>
                   </def>
@@ -28101,10 +28180,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adject.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Se dit en cette phrase : Eau lustrale, qui servoit aux anciennes ceremonies des Payens, pour arroser le peuple. Les Chretiens l'ont imitée &amp; sanctifiée en faisant l'eau benîte des Eglises<pc>.</pc>
                   </def>
@@ -28134,13 +28212,11 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
-                  <usg type="domain"
-                       ana="#supputation parmi les romains : c'est un espace de cinq ans">Terme de supputation parmi les Romains : c'est un espace de cinq ans</usg>
+                  <usg type="domain" ana="#supputation_parmi_les_romains">Terme de supputation parmi les Romains : c'est un espace de cinq ans</usg>
                   <pc>.</pc>
                   <def>C'est une supputation qu'on fait plus communément en Poësie. A peine a t-il atteint son cinquiéme lustre. Mon âge s'en va bientôt frapper à mon neuviéme lustre. Boi. Varron fait venir ce mot de luo, qui signifie payer, parcequ'au commencement de chaque cinquiéme année on payoit le tribut qui avoit été imposé par les Censeurs, dont la charge duroit cinq ans par leur premiere institution. Depuis elle devint annale. Servius Tullius avoit établi cette coutume environ l'an 180. de la fondation de Rome<pc>.</pc>
                   </def>
@@ -28254,10 +28330,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#chymie">en termes de Chymie</usg>
                   <pc>,</pc>
@@ -28530,10 +28605,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Artisan qui fait &amp; qui vend des instrumens de Musique, comme luths, violons, guitarres, &amp;c. On les appelle ausi faiseurs d'instrumens<pc>.</pc>
                   </def>
@@ -28674,8 +28748,11 @@
                <sense>
                   <def>Herbe dont on seme les prez, qui est excellente à nourrir les chevaux<pc>.</pc>
                   </def>
-                  <xr>Voyez Luserne</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Luserne</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="luzin">
@@ -28720,10 +28797,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Fureur ou maladie qui fait courir la nuit les rues &amp; les champs. Regnier dit qu'en se retirant chez lui assez tard, un valet lui demanda, Etes-vous travaillé de la lycantropie<pc>.</pc>
                   </def>
@@ -28737,9 +28813,8 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
-                  <pc>.</pc>
                   <form type="inflected">
                      <orth type="part">Chienne de Chhsse</orth>
                   </form>
@@ -28807,10 +28882,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Arbrisseau épineux ainsi appellé parcequ'il croissoit autrefois abondamment en Lycie. Il a plusieurs racines ligneuses, &amp; son écorce est grisâtre. Ses feuilles sont épaisses, assez semblables à celles du buis, nerveuses, faciles à se detacher. Ses fleurs sont petites, attachées plusieurs ensemble. Il leur succede de petits fruits gros comme des grains de poivre, noirs, à trois ou quatre angles, &amp; quelquefois faits en forme de coeur, selon le nombre des noyaux, d'un goût astringent &amp; fort amer. On appelle ces fruits graine d'Avignon, ou grainette, ou graine jaune. Les Teinturiers s'en servent pour teindre en jaune. Cet arbrisseau croît dans des lieux rudes &amp; pierreux. En Latin Lycium Gallicum. C. Bauh<pc>.</pc>
                   </def>
@@ -28824,10 +28898,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Plante qui pousse une tige à la hauteur d'un pied &amp; demi, droite, rameuse, veluë. Ses feuilles sont rangées sans ordre vers le bas de la tige, semblables à celles de la buglose sauvage, dures, convertes d'un poil rude. Ses fleurs sont petites, tendres, de couleur purpurine, placées aux sommitez des branches. Sa racine est rouge. En Latin lycopsis C. Bauh. Elle est detersive, vulneraire, consolidante<pc>.</pc>
                   </def>
@@ -28927,10 +29000,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Ancien instrument de Musique qu'on peint entre les mains d'Apollon. Il est de figure presque circulaire, &amp; il a un petit nombre de cordes au milieu tenduës comme celles de la harpe, &amp; qu'on pince avec les doigts. On se sert aussi de ce mot en parlant de toute sorte d'harmonie. Quelques-uns croyent que la lyre des Grecs étoit nôtre guitarre. D'autres disent que c'étoit un instrument fait d'une coquille de tortuë, que Hercule vuida &amp; perça, &amp; puis la monta de cordes de boyau, au son desquelles il accorda sa voix, comme le temoigne Horace : aussi l'appelloit-on testudo. On en voit plusieurs figures differentes dans les marbres &amp; medailles de l'antiquité. Il y avoit une lyre à quatre cordes, &amp; une à sept. Dac<pc>.</pc>
                   </def>

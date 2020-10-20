@@ -7451,16 +7451,18 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>en termes d'Histoire est le nom qu'on a donné à une faction qui s'éleva en France vers Beauvois
                      en l'an 1358. du nom de leur Capitaine qui s'appelloit Jacques Bonhomme<pc>.</pc>
                   </def>
-                  <xr>Voyez Froissart</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Froissart</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="jacquette">
@@ -7480,9 +7482,12 @@
                   </def>
                   <etym>Borel derive ce mot de auqueton, qu'il derive du Grec echiton</etym>
                   <pc>.</pc>
-                  <xr>Voyez Jacque</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Jacque</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <form>
                      <orth>Jacquette</orth>
@@ -8750,8 +8755,11 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <xr>Voyez Ja cque de mailles</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Ja cque de mailles</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="jaqué">
@@ -8786,8 +8794,11 @@
                   </gramGrp>
                </form>
                <sense>
-                  <xr>Voyez Jacquette</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Jacquette</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="jaquemar">
@@ -8947,10 +8958,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>L'art de cultiver les jardins. Cet homme entend bien le jardirage. Le jardinage a été mis depuis
                      peu de temps en un haut point de pefection par le Sr. le Nostre. La Quintinie est encore allé plus
@@ -9505,10 +9515,9 @@
                      <pos>s.</pos>
                      <gen>m.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>qui veut dire Jaseur<pc>.</pc>
                   </def>
@@ -10376,8 +10385,11 @@
                <sense>
                   <def>Maladie qui rend jaune, &amp; qui vient d'un degorgement de bile<pc>.</pc>
                   </def>
-                  <xr>Voyez Ictere</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Ictere</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="jautereaux">
@@ -10967,9 +10979,12 @@
                      pe créer, &amp; aneantir les idées de toutes les choses qu'il lari plaît de se forger. D'autres
                      tiennent que toutes les dées sont nées, &amp; créées avec nous<pc>.</pc>
                   </def>
-                  <xr>Voyez Malebranche</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Malebranche</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="3">
                   <form>
                      <orth>Idée</orth>
@@ -11085,10 +11100,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>m.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Terme dont se servoient les Romains dans leur Calendrier pour distinguer certains jours du mois.
                      Il y en a huit a chaque mois. Les Ides sont d'ordinaire le 13. de chaque mois, excepté aux mois de
@@ -11697,8 +11711,11 @@
                   <def>Espece de plante qui croît à la hauteur d'environ trois pieds, &amp; qui porte des bayes rondes,
                      noires, &amp; pleines de suc. En Latin, sambucus humilis, sive ebulus. C. Bauh<pc>.</pc>
                   </def>
-                  <xr>Voyez Teble</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Teble</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -11719,8 +11736,11 @@
                <sense>
                   <def>C'est un nom que les Medecins donnent à la veine qu'ils nomment autrement basilique<pc>.</pc>
                   </def>
-                  <xr>Voyez Basilique</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Basilique</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="jectigation">
@@ -12061,8 +12081,11 @@
                   <etym>Ce mot s'écrit aussi getz, &amp; vient de giez, vieux mot François qui sgnifioit lien &amp;
                      atiache</etym>
                   <pc>.</pc>
-                  <xr>Voyez Menage</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Menage</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>En Latin on les appelle jacti, comme on voit dans le livre de la Venerie de l'Empereur Frederic
                      II. On dit aussi à la pêche, un jet de filet ; pour dire, un coup de filet. Saint Pierre en un jet
                      de filet lâché au nom du Sauveur, prit tant de poisions qu'il pensa faire enfoncer la
@@ -12115,8 +12138,11 @@
                      l'Amerique. On l'appelle d'ordinaire Mechoacan, du nom d'une Province de la Nouvelle Espagne, d'où
                      elle a été premierement portée<pc>.</pc>
                   </def>
-                  <xr>Voyez Mechoacan</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Mechoacan</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="jettée">
@@ -12722,7 +12748,7 @@
                   <pc>.</pc>
                </etym>
             </entry>
-            <entry xml:id="a jeun">
+            <entry xml:id="a_jeun">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>A JEUN</orth>
@@ -13073,8 +13099,11 @@
                      On l'appelle aussi jejanum, ou affané, parcequ'on le trouve toujours presque vuide, ou bien moins
                      plein que les autres<pc>.</pc>
                   </def>
-                  <xr>Voyez Je junum</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Je junum</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="ieuse">
@@ -13576,8 +13605,7 @@
                      <pc>.</pc>
                      <gen>EELE</gen>
                      <pc>.</pc>
-                     <gen>fem</gen>
-                     <pc>.</pc>
+                     <gen>fem.</gen>
                      <pos>ils, elles</pos>
                      <pc>.</pc>
                      <gen>au</gen>
@@ -15895,10 +15923,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Etat de ce qui est immuable. L'immutabilité est un des attributs de Dieu<pc>.</pc>
                   </def>
@@ -15927,8 +15954,11 @@
                      pairement impairs qui sont expliquez à Pair, ou à Nombre. Impair. Pied impair, Terme de
                         Poësie<pc>.</pc>
                   </def>
-                  <xr>Voyez Pied</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Pied</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="impalpable">
@@ -16323,8 +16353,11 @@
                   </gramGrp>
                </form>
                <sense>
-                  <xr>Voyez Imfecunieux</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Imfecunieux</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="impenetrable">
@@ -16625,8 +16658,11 @@
                      Couronne. Prune imperiale, est la plus grosse de toutes les prunes, &amp; qui est d'une figure
                      oblongue. Eau imperiale<pc>.</pc>
                   </def>
-                  <xr>Voyez Eau</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Eau</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Il y a aussi un jeu de cartes appellé Imperiale, dont le principal avantage est d'avoir des
                      sequences de cartes. L'as, le Roi, la Dame, &amp; le Valet d'une même couleur font une
                         impertale<pc>.</pc>
@@ -17977,7 +18013,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="a l'impourvu">
+            <entry xml:id="a_l_impourvu">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>A L'IMPOURVU</orth>
@@ -17988,12 +18024,15 @@
                   </gramGrp>
                </form>
                <sense>
-                  <def>Avec surprise. Les ennemis sont venus à l'impourvn, &amp; ont surpris la ville. Cet homme a sa
-                     cuisine si fournie, qu'on ne le sçauroit prendre à l'impouvvu. Le Seigneur a dit qu'il falloit être
+                  <def>Avec surprise. Les ennemis sont venus à l'impourvu, &amp; ont surpris la ville. Cet homme a sa
+                     cuisine si fournie, qu'on ne le sçauroit prendre à l'impourvu. Le Seigneur a dit qu'il falloit être
                      sur ses gardes, car il nous doit venir juger à l'impourvu. Une sortie à l'impourvu.
                         Durier<pc>.</pc>
                   </def>
-                  <xr>Voyez Improviste</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref target="#improviste">Improviste</ref>
+                  </xr>
                   <pc>.</pc>
                </sense>
             </entry>
@@ -20364,7 +20403,7 @@
                   <usg type="domain" ana="#astronomie">Terme d'Astronomie</usg>
                   <pc>.</pc>
                   <xr>Voyez Immer</xr>
-                  <def>sion; c'est la même chose<pc>.</pc>
+                  <def>sion; c'est la même chose
                   </def>
                </sense>
             </entry>
@@ -20885,7 +20924,7 @@
                      <orth>Inclination</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#chymie#medecine">en termes de Chymie &amp; de Medecine</usg>
+                  <usg type="domain" ana="#chymie #medecine">en termes de Chymie &amp; de Medecine</usg>
                   <pc>,</pc>
                   <def>se dit lorsqu'on panche doucement un vaisseau pour en laisser couler la liqueur sans troubler la
                      lie ou le sediment qu'on veut conserver dans le fond. Ainsi quand on a fait quelques precipitez de
@@ -22542,10 +22581,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>m.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Maison fondée pour les pauvres malades, dont la guerison est desesperée. Avoir une place aux
                      Incurables. Il se dit aussi des malades mêmes<pc>.</pc>
@@ -22791,10 +22829,9 @@
                      <pos>adj.</pos>
                      <gen>m.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#grammaire">Terme de Grammaire</usg>
                   <pc>.</pc>
@@ -22813,10 +22850,9 @@
                      <pos>adj.</pos>
                      <gen>m.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Terme de raillerie qu'on applique aux Regens des Colleges, parcequ'ils sont crottez
                      ordinairement. On a defini un Pedant, un animal indecrotable. Balzac appelle Demsterus Ecossois,
@@ -22868,8 +22904,11 @@
                      vin : de la viande : d'excellent raisin. Il y a encore l'article numeral indefini, un1 voilà une
                      charmante femme<pc>.</pc>
                   </def>
-                  <xr>Voyez le mot, Article</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>le mot, Article</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Il y a aussi des pronoms indefinis, &amp; l'on en compte douze<pc>.</pc>
                   </def>
                </sense>
@@ -23178,8 +23217,11 @@
                   <def>Ce mot a un usage fort borné. Temps ind. Venir à une heure indue, c'est-à-dire, venir trop tard,
                      venir à une heure où l'on ne devroit pas venir<pc>.</pc>
                   </def>
-                  <xr>Voyez Indué</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Indué</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="indevot">
@@ -23936,8 +23978,11 @@
                      Falloppe, Matthiole, &amp;c. Vitruve dit qu'on fait de l'indigo avec de la lie de vin cuite dans
                      les fourneaux<pc>.</pc>
                   </def>
-                  <xr>Voyez Pastel</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Pastel</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="indiquer">
@@ -24602,7 +24647,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#imprimeur#libraire">Terme d'imprimeur, &amp; de Libraire</usg>
+                  <usg type="domain" ana="#imprimeur #libraire">Terme d'imprimeur, &amp; de Libraire</usg>
                   <pc>.</pc>
                   <def>Sorte de livre dont chaque feuille à 24 pages. C'est un grand, c'est un petit in douze<pc>.</pc>
                   </def>
@@ -24620,8 +24665,11 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <xr>Voyez Indeu, &amp; InduE</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Indeu, &amp; InduE</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="indubitable">
@@ -24634,10 +24682,9 @@
                      <pos>adj.</pos>
                      <gen>m.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Qui est trescertain, hors de doute. Les articles de la Foi sont induhitables. Les demonstrations
                      d'Euclide sont indubitables<pc>.</pc>
@@ -24715,10 +24762,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Qui ne fe dit que d'un temps pris mal à-propos. Venir à une heure induë, c'est, Venir trop tot,
                      on trop tard. Vous venez demander à diner à deux heures, c'est une heure induë. Vous venez chercher
@@ -24931,8 +24977,11 @@
                      Parlement. Les Cardinaux possedans en France des Evêchez, Abbayes ou autres Benefices, ne sont
                      point sujets au droit d'indult<pc>.</pc>
                   </def>
-                  <xr>Voyez Indultaire</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Indultaire</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Pasquier dit que ce privilege fut accordé au Parlement afin qu'il ne s'opposât plus si fortement
                      aux entreprises de la Cour de Rome. Quelques-uns croyent que le Pape Eugene IV. a été le premier
                      Auteur de ce privilege par une bulle de 1434. On trouve de ces mandemens des le temps du Pape
@@ -25711,10 +25760,9 @@
                      <pos>adj.</pos>
                      <gen>m.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Qui est ferme, dur ; qu'on ne sçiuroit flêchir ; celui dont on ne peut obtenir aucune grace. Le
                      public est un juge inexorable, Bell. Ma gloire inexorable à toute heure me suit. Rac. Saint Louïs
@@ -25941,10 +25989,9 @@
                      <pos>adj.</pos>
                      <gen>m.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Qui ne se peut tromper, ni être trompé. La Parole de Dieu est infaillible. C'est une grande
                      dispute entre les Protestans &amp; les Catholiques Romains, sçivoir si l'Eglise assemblée en un
@@ -26559,8 +26606,11 @@
                      pour leur aider à faire ce voyage. Elles n'étoient d'abord que viageres ; mais depuis les Seigneurs
                      se les approprierent tout-à-fait<pc>.</pc>
                   </def>
-                  <xr>Voyez Dismes</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Dismes</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="inferer">
@@ -26692,8 +26742,11 @@
                   <pc>,</pc>
                   <def>est une pierre caustique<pc>.</pc>
                   </def>
-                  <xr>Voyez Pierre</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Pierre</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="infertile">
@@ -27246,10 +27299,9 @@
                      <pos>adj.</pos>
                      <gen>m.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Qui ne peut être flechi. Il se dit au propre des bois, des metaux, &amp; autres choses qu'on ne
                      peut plier. Le fer aigre est inftexible Le P. Bouhours conteste qu'on le puisse dire au propre dans
@@ -28222,10 +28274,9 @@
                      <pos>adj.</pos>
                      <gen>m.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Lieu qui n'est point en état d'être habité. Cette chambre est inhabitable, il y fume
                         trop<pc>.</pc>
@@ -28962,16 +29013,18 @@
                      <pos>adj.</pos>
                      <gen>m.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Terme Philosophique. Qui est formé, né, ou créé avec quelque chose. Nous n'avons point d'idée
                         innée<pc>.</pc>
                   </def>
-                  <xr>Voyez Idée</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Idée</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="innocemment">
@@ -29950,8 +30003,11 @@
                      faux. J. Ragueneau a publié en 1666. un traitté des inscriptions en faux, pour reconnoitre les
                      écritures &amp; signatures<pc>.</pc>
                   </def>
-                  <xr>Voyez Faus</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Faus</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="inscrire">
@@ -30092,7 +30148,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#imprimeur#libraire">Terme d'Imprimeur &amp; de Libraire</usg>
+                  <usg type="domain" ana="#imprimeur #libraire">Terme d'Imprimeur &amp; de Libraire</usg>
                   <pc>.</pc>
                   <def>Livre dont chaque feuille a 32. pages. C'est un petit in seize<pc>.</pc>
                   </def>
@@ -30564,8 +30620,11 @@
                      quatriéme mois du jour de la donation, aux Greffes des Bailliages, ou Senechaussées, où les biens
                      donnez sont situez<pc>.</pc>
                   </def>
-                  <xr>Voyez l'Ord</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>l'Ord</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>de 16i2. Après l'ininuation les donations sont irrevocables. L'insinuation n'est pourtant pas
                      necessaire à l'égard du Donateur : mais elle est essentielle à l'égard des Creanciers, ou des
                      heritiers du Donateur. Le Greffe des insinuations Ecclesiastiques est à l'Officialité, pour les
@@ -30657,8 +30716,11 @@
                      tout les procurations pour resigner, les prises de possession, les nominations des Graduez,
                         &amp;c<pc>.</pc>
                   </def>
-                  <xr>Voyez Insinuation</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Insinuation</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="insipide">
@@ -31877,8 +31939,11 @@
                      à Paris une maison qu'ils nomment l'Institution. Il se dit aussi de l'édus cation même.
                      Institutions, au plurier. Livre contenant l'Abbrégé de la Jurisprudence Romaine<pc>.</pc>
                   </def>
-                  <xr>Voyez Institutes</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Institutes</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="instructif">
@@ -32958,10 +33023,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Dereglement ; mauvaise constitution ; defaut d'un juste temperamment des qualitez requises en
                      certaines choses. On le dit premierement de l'air. L'intemperie de l'air de ce climat le rend
@@ -33272,8 +33336,11 @@
                      des 365. jours, &amp; qui avoient fait une erreur de dix jours depuis le Concile de Nicée jusqu'à
                      Grégoire XIII<pc>.</pc>
                   </def>
-                  <xr>Voyez Calendrier</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Calendrier</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Il y a dans les anciens Poëtes des vers intercalaires ; dans les anciens Auteurs des passages
                      intercalaires &amp; apocryphes, qui y ont été ajoûtez &amp; inserez<pc>.</pc>
                   </def>
@@ -33770,9 +33837,12 @@
                      Dans cette vie il faut toujours proposer, même aux ames les plus parfaites, des motifs interessez,
                      pour les animer, pour les soutenir. Id<pc>.</pc>
                   </def>
-                  <xr>Voyez Indifference</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Indifference</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="8">
                   <form>
                      <orth>Interessé</orth>
@@ -33887,9 +33957,12 @@
                      de payer. Un tuteur est comptable à ses mineurs des interêts d'interêts ; hors ce cas les interêts
                      ne portent jamais d'interêts<pc>.</pc>
                   </def>
-                  <xr>Voyez Usure</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Usure</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="6">
                   <def>On dit proverbialement, que l'interet nous aveugle, ou que chacun est aveugle dans ses interêts ;
                      pour dire, que nôtre amour propre nous flatte, ne nous fait pas connoître nos deffauts, le foible
@@ -34025,10 +34098,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <pc>,</pc>
                   <def>qui signifie, Provisoire en attendant. C'est CharlesQuint qui en 1548. mit en usage l'Interim
@@ -34161,10 +34233,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Ce qu'on donne en spectacle entre les Actes d'une Comedie, pour amuser le peuple, tandis que les
                      Acteurs reprennent haleine, ou changent d'habits, ou pour donner loisir de changer les decorations.
@@ -34316,10 +34387,9 @@
                   <gramGrp>
                      <pos>subt</pos>
                      <pc>.</pc>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#pratique">Terme de Pratique</usg>
                   <pc>.</pc>
@@ -34420,10 +34490,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Situation d'un corps entre deux autres, qui les cache, qui empêche leur action. L'Eclipse du
                      soleil ne se fait que par l'interposition de la lune entre le soleil &amp; nous : celle de la lune
@@ -34480,13 +34549,11 @@
                      <pos>adj.</pos>
                      <pos>&amp; subst</pos>
                      <pc>.</pc>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Celuy qui fait entendre les sentimens, les paroles, les écrits des autres, lors qu'ils ne les
                      entendent pas. Les Truchemans sont les interprotes des Langues étrangeres pour les Voyageurs, &amp;
@@ -34895,10 +34962,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Action qui interrompt. Un Orateur a de la peine à se remettre après de frequentes interruptions.
                      Un homme de lettres ne doit point avoir d'affaires qui apportent de l'interruption à ses
@@ -34949,10 +35015,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <usg type="domain" ana="#droit">Terme de Droit</usg>
                   <pc>,</pc>
@@ -35187,10 +35252,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <usg type="domain" ana="#palais">Terme de Palais</usg>
                   <pc>.</pc>
@@ -35728,10 +35792,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Action par laquelle un Choeur commence à chanter, à entonner un Pseaume, un motet. Après que la
                      Procession fut rentrée dans l'Eglise, on ouit les Chantres qui firent l'intonation du Te Deum. Il
@@ -35876,10 +35939,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Quelques-uns le font encore masculin contre l'usage general. Assemblage de plusieurs évenemens,
                      ou circonstances qui se rencontrent en quelques affaires, &amp; qui embarrasse ceux qui y sont
@@ -36360,10 +36422,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Nullité d'un acte, d'un contrat, defaut de formalité. Nonobstant lidité de cette acte on n'a pas
                      laissé de le vouloir mettre à ezecution. Soutenir l'invalidité d'un mariage. Mauc<pc>.</pc>
@@ -37244,10 +37305,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="3">
                   <usg type="domain" ana="#breviaire">Terme de Breviaire</usg>
                   <pc>.</pc>
@@ -37966,10 +38026,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>L'endroit où se fait un assemblage, &amp; particulierement celui des os. Cet instrument est si
                      bien soudé, si bien limé, qu'on ne voit point la jointure des pieces. La goutte se nouë dans les
@@ -38133,8 +38192,11 @@
                      <orth>JomBaRBe</orth>
                   </form>
                   <pc>,</pc>
-                  <xr>Voyez JOUBARBE</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>JOUBARBE</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -38169,9 +38231,8 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
-                  <pc>.</pc>
                   <pron>Prononcez jon</pron>
                </form>
                <pc>.</pc>
@@ -38203,9 +38264,12 @@
                      abondance dans l'Arabie heureuse &amp; au pied du Mont Liban. On l'appelle autrement
                         Schenante<pc>.</pc>
                   </def>
-                  <xr>Voyez Schoenante</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Schoenante</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <re>
                   <form>Jonc marin</form>
                   <form>,</form>
@@ -38245,10 +38309,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Herbes, fleurs ou joncs qu'on épanche sur la terre &amp; sur le pavé pour le couvrir, quand on
                      veut faire honneur au passage de quelques personnes. Les Juifs firent des jonchées de palmes à
@@ -38379,10 +38442,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Charlatanerie ; tour de passe-passe<pc>.</pc>
                   </def>
@@ -38437,9 +38499,12 @@
                <sense n="1">
                   <def>Qui est d'lonie. C'est un Ionien, c'est une lonienne. Le Dialecte Ionien<pc>.</pc>
                   </def>
-                  <xr>Voyez Ionique</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Ionique</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <form>
                      <orth>onien</orth>
@@ -38458,10 +38523,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <usg type="domain" ana="#architecture">Terme d'Architecture</usg>
                   <pc>.</pc>
@@ -38497,10 +38561,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Fleur odoriferante, blanche, ou jaune, qui vient sur une tige comme les narcisses, &amp; qui
                      fleurit en Mars. On fait des parsums, des poudres, des pommades, des eaux, des essences de
@@ -38562,8 +38625,11 @@
                <sense>
                   <def>Herbe potagere, qu'on appelle autrement bette, ou poirée<pc>.</pc>
                   </def>
-                  <xr>Voyez Bette</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Bette</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -38971,10 +39037,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Celui qui jouë mal à quelque jeu que ce soit, ou de quelque instrument. On le dit aussi de celui
                      qui joüe trop petit jeu<pc>.</pc>
@@ -39278,9 +39343,12 @@
                <sense>
                   <usg type="domain" ana="#charpentier">Terme de Charpentier</usg>
                   <pc>.</pc>
-                  <xr>Voyez Amarres</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Amarres</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
             </entry>
             <entry xml:id="jouillieres">
                <form type="lemmaGrp">
@@ -39398,10 +39466,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Possession, perception actuelle des fruits d'un heritage ; d'un droit. Une longue, &amp; paisible
                      jouissance acquiert prescription, &amp; vaut titre. Une sentence de recreance ajuge la jouissance
@@ -39541,9 +39608,12 @@
                      quand on assigne à son de trompe pour instruire une contumace. On dit aussi d'une chose qui ne
                      presse pas, Il y a jour d'avis entre cy &amp; là. Regle des vingt Jours<pc>.</pc>
                   </def>
-                  <xr>Voyez Regle</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Regle</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="5">
                   <form>
                      <orth>Jour</orth>
@@ -39634,8 +39704,11 @@
                      Moulins, d'Auvergne ont cité plusieurs arrêts notables des Grands Jours c'est comme qui diroit les
                      grands plaids<pc>.</pc>
                   </def>
-                  <xr>Voyez Grands</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Grands</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>En Normandie on appelle les haut jours, les deux saisons où les Maîtres des eaux &amp; forets
                      doivent tenir leurs assises, sçavoir à Pâques &amp; à la Saint Michel. On a appellé aussi Grands
                      Jours, de certaines assises solemnelles. Les Comtes de Champagne faisoient tenir les Grands Jours à
@@ -39886,8 +39959,11 @@
                   </gramGrp>
                </form>
                <sense>
-                  <xr>Voyez le dernier article de Journal</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>le dernier article de Journal</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="journée">
@@ -40001,8 +40077,11 @@
                      cannes les uns contre les autres, &amp; se couvrent de leurs boucliers pour les recevoir. C'est le
                      vrai jeu de Troye que la jeunesse Romaine pratiquoit autrefois<pc>.</pc>
                   </def>
-                  <xr>Voyez Tournois</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Tournois</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>La difference des joûtes &amp; des tournois, consiste en ce que les jodtes sont des especes de
                      tournois. On appelloit tournois, toutes sortes de courses &amp; combats militaires qui se faisoient
                      par divertissement &amp; galanterie ; &amp; les jodtes étoient des combats qui se faisoient de près
@@ -40407,10 +40486,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Petite racine grosse comme le chalumeau d'une plume mediocre, qui nous est aportée seche de
                      plusieurs endroits de l'Amerique. Il y en a de trois especes ; une brune, une grise &amp; une
@@ -40839,10 +40917,9 @@
                      <pos>adj.</pos>
                      <gen>m.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Certais, assuré, qu'on ne peut reprocher, qu'on ne peut contredire, qu'on ne peut refuter. Il y a
                      un temoignige irrefragable de cette vérité dans un Auteur contemporain. L'experience est une preuve
@@ -41013,10 +41090,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Athesme, libertinage, mepris de la Religion. Ces propositions sont scandaleuses, &amp; tiennent
                      de l'irreligion. Il n'y a rien de plus ridicule que de faire vanité de libertinage, &amp;
@@ -41625,8 +41701,11 @@
                      <orth>ISCHIATIQUE</orth>
                   </form>
                   <pc>.</pc>
-                  <xr>Voyez Sciatique, c'est la même chose</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Sciatique, c'est la même chose</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="ischion">
@@ -41637,10 +41716,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#anatomie">Terme d'Anatomie</usg>
                   <pc>.</pc>
@@ -41953,10 +42031,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Qui fait partie du peuple autrefois cheri de Dieu, &amp; qu'il tira d'Egypte pour lui donner la
                      terre de promission. Ce mot a passé en nôtre langue dans ce proverbe, C'est un bon Israelite,
@@ -42359,8 +42436,11 @@
                <sense>
                   <def>Plante<pc>.</pc>
                   </def>
-                  <xr>Voyez Jeticucu</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Jeticucu</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="itineraire">
@@ -42517,10 +42597,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#menage de campagne">Terme de menage de campagne</usg>
                   <pc>,</pc>
@@ -42542,8 +42621,11 @@
                <sense>
                   <def>Sorte de plante qui croît dans les Iles de l'Amerique<pc>.</pc>
                   </def>
-                  <xr>Voyez Yuca</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Yuca</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="jucher">
@@ -42613,10 +42695,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Celui des Apôtres qui livra Jesus-Christ aux Juifs. On se sert de ce mot en plusieurs phrases
                      proverbiales. Il est traître comme Judas damné comme Judas. Un baiser de Judas, se dit des caresses
@@ -42841,8 +42922,11 @@
                <sense>
                   <def>Sorte de Plante<pc>.</pc>
                   </def>
-                  <xr>Voyez Chamepytis</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Chamepytis</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>C'est la même chose<pc>.</pc>
                   </def>
                </sense>
@@ -42948,9 +43032,12 @@
                      injustices des Juges inferieurs, qui n'étant point garens de leurs sentences, hazardent tout, &amp;
                      ne s'appliquent pas assez à bien administrer la justice<pc>.</pc>
                   </def>
-                  <xr>Voyez Apfel</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Apfel</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <etym>
                   <lbl>Ce mot vient du</lbl>
                   <lang>Latin</lang>
@@ -43213,8 +43300,11 @@
                   <def>Plante qui est une espece de digitale, &amp; qu'on appelle autrement Sesame, en Latin digitalis
                      Orientalis sesamum dita. Pit. Touenefort<pc>.</pc>
                   </def>
-                  <xr>Voyez Sesame</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Sesame</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="juger">
@@ -43413,7 +43503,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="a la juive">
+            <entry xml:id="a_la_juive">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>A la Juive</orth>
@@ -43530,8 +43620,11 @@
                <sense>
                   <def>C'est le fruit d'un arbre qu'on appelle jujubier<pc>.</pc>
                   </def>
-                  <xr>Voyez Juyubier</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Juyubier</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="jujubier">
@@ -43634,14 +43727,20 @@
                <sense>
                   <def>Nom propre qui s'est mis en usage en cette phrase, Année Julienne<pc>.</pc>
                   </def>
-                  <xr>Voyez Année</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Année</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>La Periode Julienne : c'est une periode fort utile dans la Chronologie, inventée par Scaliger ;
                      Elle est de 780. ans. Elle a été appellée yulienne, à cause qu'elle a été accommodée à l'année
                      Tulienne ou reformée par Jules Cesar<pc>.</pc>
                   </def>
-                  <xr>Voyez Periode</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Periode</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="julienne">
@@ -43702,10 +43801,9 @@
                      <pos>adj.</pos>
                      <pos>&amp; subst</pos>
                      <pc>.</pc>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Terme relatif, qui se dit de deux enfans qu'une mere a portez en même temps dans son ventre. Esau
                      &amp; Jacob étoient deux freres jumeaux. Ces deux soeurs sont jumelles. Ces deux hommes se
@@ -43844,9 +43942,12 @@
                   <def>est le nom qu'on a donné à une machine pour faire la monnoye, &amp; pour la marquer en même
                      temps, parcequ'on la faisoit mouvoir avec une jument<pc>.</pc>
                   </def>
-                  <xr>Voyez Moulin</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Moulin</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="4">
                   <form>
                      <orth>Jument</orth>
@@ -43876,8 +43977,11 @@
                <sense>
                   <def>Arbre du Bresil, qu'on appelle autrement genipat ou janipaba<pc>.</pc>
                   </def>
-                  <xr>Voyez Janipaba</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Janipaba</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="ivoire">
@@ -44092,10 +44196,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Est le nom qu'on donne aux Consuls, &amp; Echevins de Bourdeaux, &amp; d'autres villes de
                      Gascogne, comme à ceux de Toulouse celul de Capitouls<pc>.</pc>
@@ -44475,8 +44578,11 @@
                      des lettres, ensorte qu'ils étoient tenes Officiers de l'Empereur, &amp; qu'ils n'étoient plus
                      bornez à servir de conseil aux particuliers<pc>.</pc>
                   </def>
-                  <xr>Voyez Loyseau</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Loyseau</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Bernardin Rectilius de Vicence a écrit les Vies des anciens Vurisconsultes qui ont paru depuis
                      deux mille ans ; &amp; Guy Pancirol a écrit quatre livres des Illustres Iaterpretes des loix. Cujas
                      a été un Professeur de Droit, le plus grand urisconsulte de nôtre siecle. Mre. Charles Da Moulin
@@ -44543,8 +44649,11 @@
                      restreignit la jurisdiction Ecclesiastique sur les Laïques aux matieres des sacremens, &amp; autres
                      questions spirituelles, &amp; Ecclesiastiques<pc>.</pc>
                   </def>
-                  <xr>Voyez Fevret</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fevret</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Les jurisdictions seculieres, ou temporelles, sont de deux sortes : Royales, &amp; Seigneuriales.
                      On appelle ordinairement les dernieres, jurisdictions subalternes, quoyque les jurisdictions
                      Royales soient aussi subalternes à l'égar l des Cours souveraines. Il y a deux sortes de jurisd
@@ -44629,10 +44738,18 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="ivrogne, ivrogner, ivrognerie">
+            <entry xml:id="ivrogne">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>IVROGNE, IVROGNER, IVROGNERIE</orth>
+                     <orth>IVROGNE</orth>
+                  </form>
+                  <pc>,</pc>
+                  <form>
+                     <orth>IVROGNER</orth>
+                  </form>
+                  <pc>,</pc>
+                  <form type="lemma">
+                     <orth>IVROGNERIE</orth>
                   </form>
                </form>
                <pc>.</pc>
@@ -45195,9 +45312,12 @@
                   <def>Lit de Justice, est une seance solennelle que le Roi fait en son Parlement de Paris sous un haut
                      dais avec pompe, &amp; ceremonie, dans des occasions importantes pour le bien de son état<pc>.</pc>
                   </def>
-                  <xr>Voyez Lit</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Lit</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="9">
                   <def>On dit, Mettre en la protection &amp; sauvegarde du Roi, &amp; ce justice quelque personne, quand
                      elle se plaint, &amp; qu'elle est menacée par des ennemis puissans ; alors ils deviennent
@@ -45571,9 +45691,12 @@
                      Ainsi ce terme comprend la remission des pechez, &amp; la communication des dispositions internes,
                      &amp; inherentes, c'est-à-dire la sanctification. Le Cl<pc>.</pc>
                   </def>
-                  <xr>Voyez Justification</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Justification</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="4">
                   <form>
                      <orth>Justifier</orth>

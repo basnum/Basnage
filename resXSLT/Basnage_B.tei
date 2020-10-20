@@ -9597,7 +9597,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#medailliste#monnoyeur">Terme de Medailliste &amp; de Monnoyeur</usg>
+                  <usg type="domain" ana="#medailliste #monnoyeur">Terme de Medailliste &amp; de Monnoyeur</usg>
                   <pc>.</pc>
                   <def>C'est une medaille ou monnoye qui a une empreinte de deux têtes en proil, dont l'une avance sur
                      l'autre, comme on en voit de Louïs &amp; de Carloman, du Roi Henri IV. &amp; de sa femme, &amp; une
@@ -12486,7 +12486,7 @@
                      <orth>Bander</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#matrone#congrés">en termes de Matrone &amp; de congrés</usg>
+                  <usg type="domain" ana="#matrone #congrés">en termes de Matrone &amp; de congrés</usg>
                   <pc>,</pc>
                   <def>se dit de l'érection naturelie de la verge, dont le deffaut est une marque d'impuissance, &amp;
                      dont elles font leur rapport dans les Officialitez. On le dit aussi des femmes, mais plus rarement.
@@ -20442,7 +20442,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#relieur#marchand papetier">Terme de Relieur &amp; de Marchand papetier</usg>
+                  <usg type="domain" ana="#relieur #marchandpapetier">Terme de Relieur &amp; de Marchand papetier</usg>
                   <pc>.</pc>
                   <def>C'est ce qu'on bat à la fois de papier, ou d'un livre en blanc, sur la pierre à battre<pc>.</pc>
                   </def>
@@ -41559,7 +41559,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#boulanger#pâtissier">Terme de Boulanger &amp; de Pâtissier</usg>
+                  <usg type="domain" ana="#boulanger #pâtissier">Terme de Boulanger &amp; de Pâtissier</usg>
                   <pc>.</pc>
                   <def>C'est une grande plaque de fer, au milieu de laquelle il y a une poignée, &amp; qui sert à
                      boucher le four. Mettre le boucboir, ôter, tirer le bouchoir<pc>.</pc>
@@ -52794,7 +52794,7 @@
                <sense>
                   <def>Quelques-uns disent brinque bale<pc>.</pc>
                   </def>
-                  <usg type="domain" ana="#mecanique#marine">Terme de Mecanique &amp; de Marine</usg>
+                  <usg type="domain" ana="#mecanique #marine">Terme de Mecanique &amp; de Marine</usg>
                   <pc>.</pc>
                   <def>C'est le bâton ou la barre qui fait jouer la pompe<pc>.</pc>
                   </def>

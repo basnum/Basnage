@@ -7321,8 +7321,11 @@
                <sense>
                   <def>Ce mot est fort en usage en Angleterre, pour marquer une sorte de bâtiment a mâts &amp; à voiles, propre pour aller en mer, &amp; qu'on embellit par dehors &amp; par dedans. Il est aussi en usage en Hollande ; mais les yacs des Hollandois ne sont pas propres pour aller en pleine mer. Ils ne s'en servent guere que sur les rivieres &amp; sur les canaux<pc>.</pc>
                   </def>
-                  <xr>Voyez Jacht</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Jacht</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="yacaranda">
@@ -7375,8 +7378,11 @@
                <sense>
                   <def>Plante<pc>.</pc>
                   </def>
-                  <xr>Voyez Hieble</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Hieble</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="yecolt">
@@ -7392,10 +7398,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Arbre de la nouvelle Espagne, qui pousse de sa racine deux ou trois troncs. Ses feuilles sont longues, étroites, épaisses, semblables à celles de l'Iris, mais beaucoup plus grandes. Ses fleurs sont composées chacune de six euilles blanches, odorantes, pendues par grappes. Ses fruits sont semblables aux pommes de pin, de couleur de châteigne la plupart, de differentes grandeurs &amp; figures. Les Espagnols appellent cet arbre palmier de montagne. On fait de ses feuilles du filet plus fort, quoyque plus delié, que celui qu'on file du maguey. Les habitans en font de la toile<pc>.</pc>
                   </def>
@@ -7413,15 +7418,17 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Arbre qu'on appelle autrement chêne -vert, en Latin ilex<pc>.</pc>
                   </def>
-                  <xr>Voyez Chesne-vert</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Chesne-vert</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Le charbon d'yeuse n'entête point<pc>.</pc>
                   </def>
                </sense>
@@ -7472,10 +7479,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#relations">Terme de Relations</usg>
                   <pc>.</pc>
@@ -7497,8 +7503,11 @@
                <sense>
                   <def>Fruit qui vient sous tere dans le Perou, &amp; dans les Iles Antilles. Quelques-uns l'appellent manobi. Du Tertre l'appelle Pistache<pc>.</pc>
                   </def>
-                  <xr>Voyez Manobi</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Manobi</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -7513,10 +7522,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#anatomie">Terme d'Anatomie</usg>
                   <pc>.</pc>
@@ -7536,10 +7544,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Sorte de boisson des Indes Occidentales, composée d'épis de mais brûlez &amp; reduits en cendres apres qu'on en a ôté les grains. On y ajoute trois parties du même grain qu'on fait moudre &amp; cuire ensemble, &amp; après qu'on a versé le tout dans un autre vaisseau, on y met un peu de chicoztli qui est une espece de chille ou poivre de l'Amerique, pour donner une couleur rouge. Cette boisson est bonne pour ceux qui ont trop de sang<pc>.</pc>
                   </def>
@@ -7557,10 +7564,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Espece d'orme à larges feuilles, qui a été apporté en France par des Flamans de la ville d'Ypres<pc>.</pc>
                   </def>
@@ -7589,8 +7595,11 @@
                <sense n="2">
                   <def>On appelle aussi yisiloide, un os qui est situé à la base de la langue, &amp; qui n'a aucune articulation avec les autres os<pc>.</pc>
                   </def>
-                  <xr>Voyez Yoide</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Yoide</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -7633,13 +7642,11 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Qui a trop bu de quelque liqueur, dont les fumées font perdre la connoissance &amp; le mouvement, ôtent la raison, offusquent le cerveau. Les gens du Nord ne quittent point la table, qu'ils ne soient yrres. Il ne faut point raisonner avec un homme yvre. On dit aussi, Je ne suis ni fou, ni yvre ; pour dire, Je suis en mon bon sens. On voit des Orateurs qui, comme s'ils étoient yvres, se laissent emporter à des passions qui ne conviennent point à leur sujet. Boi<pc>.</pc>
                   </def>
@@ -7751,10 +7758,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Quelques-uns disent yvraye. L'Acad. Espece de chien-dent qui pousse des tuyaux à la hauteur de deux ou trois pieds, gros comme ceux du froment, ou un peu plus petits, ayant quatre ou cinq noeuds, de chacun desquels sort une feuille étroite, verte, grasse, canelée, embrassant le tuyau par sa base. Ces tuyaux portent en leurs sommittez des épis longs d'un pied, &amp; d'une figure particuliere ;car ils sont divisez en plusieurs parries rangées alternativement, de maniere que chacune paroît un petit épi ou paquet composé de fleurs à étamines qui sortent du fond d'un calice écailleux. Lorsque ces fleurs sont passées, il leur succede des graines plus menuës que celles du blé, peu farineuses, de couleur rougeâtre. Ses racines sont fibrées. Cette plante croît parmi le froment &amp; l'orge. On l'appelle autrement en Francois zizanie, &amp; en Latin lolium, ou gramen loliaceum spica longiore. C. Bau. Le nom d'yroye lui a été donné a cause que le pain &amp; la biere, où il en est entré beaucoup, enyvrent &amp; causent des maux de tête. Quelques Botanistes croyent que l'yvroye s'engendre des grains de froment &amp; d'orge corrompus, &amp; qu'elle se change aussi en froment. Il y a une espece d'yvroye que Dioscoride appelle phenix, parce que sa graine est rouge ; on la nomme en François yroye sauvage, ou yvroye de rat ; en Latin gramen loliaceum angutiore folio &amp; spica. C. Bauh<pc>.</pc>
                   </def>
@@ -7776,10 +7782,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Sorte de boisson dont on use dans les Indes Occidentales, qui se fait de phaseoles ou petites feves cuites avec le chillatole, &amp; d'une herbe que ceux du païs appellent épazotl, ayant les feuilles longues &amp; dentelées tout autour, odorantes &amp; chaudes au troisiéme degré. On se sert de la decoction de ces feuilles pour fortifier la poitrine de ceux qui sont sujets à la courte haleine. </def>
                </sense>

@@ -6991,7 +6991,7 @@
                      <orth>Maceration</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#pharmacie#chymie">en termes de Pharmacie &amp; de Chymie</usg>
+                  <usg type="domain" ana="#pharmacie #chymie">en termes de Pharmacie &amp; de Chymie</usg>
                   <pc>,</pc>
                   <def>se dit d'une preparation des medicamens, qu'on appelle autrement digestion. Quelques-uns
                      n'employent ce mot que pour signifier la digestion qui se fait dans des matieres épaisses, comme
@@ -7024,7 +7024,7 @@
                      <orth>Macerer</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#pharmacie#chymie">en termes de Pharmacie &amp; de Chymie</usg>
+                  <usg type="domain" ana="#pharmacie #chymie">en termes de Pharmacie &amp; de Chymie</usg>
                   <pc>,</pc>
                   <def>signifie, Mettre dans un vaisseau des sucs ou d'autres matieres pour y recevoir une chaleur douce
                      qui en degage les principes. C'est la même chose que digerer<pc>.</pc>
@@ -8691,21 +8691,17 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="">
-               <form type="lemmaGrp">
-                  <form>
-                     <orth>MAGISTERE</orth>
-                  </form>
-                  <form>.</form>
-                  <form>s</form>
+            <entry xml:id="magistere">
+               <form type="lemma">
+                  <orth>MAGISTERE</orth>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>m</pos>
+                     <pos>s.</pos>
+                     <pos>m.</pos>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#chymie#pharmacie">Terme de Chymie &amp; de Pharmacie</usg>
+                  <usg type="domain" ana="#chymie #pharmacie">Terme de Chymie &amp; de Pharmacie</usg>
                   <pc>.</pc>
                   <def>C'est un precipité de quelque dissolution, fait par un sel, ou par quelque autre corps qui rompt
                      la force du dissolvant. On fait des magisteres d'étain, de plomb, de tartre, de perles, de coraux,
@@ -13336,13 +13332,14 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="">
+            <entry xml:id="malcontent">
                <form type="lemmaGrp">
                   <form>
                      <orth>MALCONTENT</orth>, ente</form>
-                  <form>.</form>
-                  <form>adj</form>
-                  <form>.</form>
+                  <pc>.</pc>
+                  <gramGrp>
+                     <pos>adj.</pos>
+                  </gramGrp>
                </form>
                <def>Qui se dit de celui qui n'a pas eu satisfaction d'une chose, le succés, le payement, la recompense
                   qu'il en attendoit. Les malcomtens de la Cour. On dit aussi le mécontens. C'est le propre des Sages
@@ -13501,14 +13498,13 @@
                   interne. Cet homme ne vivra pas long temps, il est maleficié, asthmatique<pc>.</pc>
                </def>
             </entry>
-            <entry xml:id="">
+            <entry xml:id="malefique">
                <form type="lemmaGrp">
                   <form>
                      <orth>MALEFIQUE</orth>
                   </form>
-                  <form>,</form>
-                  <form>adj</form>
-                  <form>.</form>
+                  <pc>,</pc>
+                  <pos>adj.</pos>
                </form>
                <form>se dit</form>
                <pc>s</pc>
@@ -14391,15 +14387,13 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="">
+            <entry xml:id="malicieux">
                <form type="lemmaGrp">
                   <form>
                      <orth>MALICIEUX</orth>, euse</form>
-                  <form>.</form>
-                  <form>adj</form>
-                  <form>.</form>
+                  <pc>.</pc>
+                  <gramGrp><pos>adj.</pos></gramGrp>
                </form>
-               <form/>
                <pc>;</pc>
                <def>Mechant qui est plein de malice<pc>.</pc>
                </def>
@@ -14939,14 +14933,13 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="">
+            <entry xml:id="malproprement">
                <form type="lemmaGrp">
                   <form>
                      <orth>MALPRROPEMENT</orth>
                   </form>
-                  <form>.</form>
-                  <form>adv</form>
-                  <form>.</form>
+                  <pc>.</pc>
+                  <gramGrp><pos>adv.</pos></gramGrp>
                </form>
                <form/>
                <pc>.</pc>
@@ -14974,16 +14967,16 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="">
-               <form type="lemmaGrp"/>
-               <form type="lemma">
-                  <orth>MALSEANT</orth>
+            <entry xml:id="malseant">
+               <form type="lemmaGrp">
+                  <form type="lemma">
+                     <orth>MALSEANT</orth>
+                  </form>
+                  <pc>,</pc>
+                  <form type="lemma"><orth>ante</orth></form>
+                  <pc>.</pc>
+                  <gramGrp><pos>adj.</pos></gramGrp>
                </form>
-               <pc>,</pc>
-               <gramGrp>ante</gramGrp>
-               <form>.</form>
-               <form>adj</form>
-               <form>.</form>
                <def>Qui n'est ps hanête, ni convenable à l'état d'une personne, à son âge, à sa profession. Il est
                   malseant à un Conseiller de jouer des Comedies, même par divertissement. Il est malseant à une vieille
                   de s'habiller de couleurs éclatantes. Il est malseant à une fille d'être hardie &amp;
@@ -19210,17 +19203,18 @@
                </etym>
                <pc>.</pc>
             </entry>
-            <entry xml:id="">
+            <entry xml:id="manuscrit">
                <form type="lemmaGrp">
                   <form>
                      <orth>MANUSCRIT</orth>
                      <orth>, ite</orth>
                   </form>
                   <form>,</form>
-                  <form>adj</form>
-                  <form>.</form>
-                  <form>&amp; subst</form>
-                  <pc>.</pc>
+                  <gramGrp>
+                     <pos>adj.</pos>
+                     <lbl>&amp;</lbl>
+                     <pos>subst.</pos>
+                  </gramGrp>
                </form>
                <def>Livre ou Ouvrage écrit à la main. Ce qui fait estimer les Bibliotheques, c'est la quantité des
                   manuiscrits, les anciennes Bibles manuscrites. Cette piece est deffenduë, &amp; ne court qu'en
@@ -22385,11 +22379,11 @@
                   </def>
                </sense>
                <sense n="2">
-                  <def>Marine, se prend aussi quelquefois pour Plage, côte de la mer. Se promener sur la marine. L'Acad. Marine.
-                     Ce mot se dit en general pour tout le Corps de la Marine, ou pour ce qui concerne la navigation de
-                     la mer. Officier de la marine, ou Officier de marine. Capitaine de marine. Intendant de la marine.
-                     Les Ordonnances de la marine. La marine de Ponant. La marine de Levant. Gens de marine.
-                        Ablan<pc>.</pc>
+                  <def>Marine, se prend aussi quelquefois pour Plage, côte de la mer. Se promener sur la marine. L'Acad.
+                     Marine. Ce mot se dit en general pour tout le Corps de la Marine, ou pour ce qui concerne la
+                     navigation de la mer. Officier de la marine, ou Officier de marine. Capitaine de marine. Intendant
+                     de la marine. Les Ordonnances de la marine. La marine de Ponant. La marine de Levant. Gens de
+                     marine. Ablan<pc>.</pc>
                   </def>
                </sense>
                <sense n="3">
@@ -28713,7 +28707,7 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#orfevrerie : c'est">Terme d'Orfevrerie : c'est</usg>
+                  <usg type="domain" ana="#orfevrerie">Terme d'Orfevrerie : c'est</usg>
                   <pc>,</pc>
                   <def>Rendre de l'argent ou de l'or mat, les mettre en oeuvre sans les brunir, ni les polir. La mode de
                      mattir la vaisselle a duré assez long temps. En matiere d'argent, on dit plutôt blanchir<pc>.</pc>
@@ -30608,16 +30602,14 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="">
+            <entry xml:id="mediocrité">
                <form type="lemmaGrp">
                   <form type="lemma">MEDIOCRITÉ</form>
-                  <form>.</form>
-                  <form>s</form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>f</pos>
+                     <pos>s.</pos>
+                     <pos>f.</pos>
                   </gramGrp>
-                  <pc>.</pc>
                </form>
                <sense>
                   <def>Qulité de ce qui est mediocre ; qui tient un juste milieu ; qui n'a ni excés, ni defaut. La
@@ -43033,7 +43025,7 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#ecole#palais">Terme d'Ecole, &amp; de Palais</usg>
+                  <usg type="domain" ana="#ecole #palais">Terme d'Ecole, &amp; de Palais</usg>
                   <pc>,</pc>
                   <def>qui se dit en ces phrases. Cette raison milite pour moi, sert à ma cause. Cette autorité milite
                      contre vous, détruit ce que vous alleguez<pc>.</pc>
@@ -54681,7 +54673,7 @@
                </form>
                <pc>.</pc>
                <sense n="1">
-                  <usg type="domain" ana="#charpenterie#menuiserie">Terme de Charpenterie &amp; de Menuiserie</usg>
+                  <usg type="domain" ana="#charpenterie #menuiserie">Terme de Charpenterie &amp; de Menuiserie</usg>
                   <pc>.</pc>
                   <def>C'est une entaille, ou un trou fait dans l'épaisseur du bois, &amp; équarri avec le ciseau, ou
                      avec la besigueë, pour y faire entrer le tenon d'une autre piece de bois dont on pretend faire
@@ -58757,7 +58749,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="5">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>5</orth>
@@ -59453,7 +59445,7 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#cordelier#recolet">Terme de Cordelier &amp; de Recolet</usg>
+                  <usg type="domain" ana="#cordelier #recolet">Terme de Cordelier &amp; de Recolet</usg>
                   <pc>.</pc>
                   <def>C'est un morceau d'étoffe qui est de même sorne que l'habit de ces Religieux, &amp; qui étant
                      taillé en rond, lui couvre toutes les épaules, &amp; tout le devant de l'estomac. Les Cordeliers

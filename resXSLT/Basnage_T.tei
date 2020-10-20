@@ -8426,7 +8426,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="2">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>2</orth>
@@ -14661,7 +14661,7 @@
                      <orth>Temps</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#musique#danse">en termes de Musique &amp; de Danse</usg>
+                  <usg type="domain" ana="#musique #danse">en termes de Musique &amp; de Danse</usg>
                   <pc>,</pc>
                   <def>est une certaine distinction de pauses &amp; de mouvemens qu'on observe en battant la melure, qu'il est necessaire d'observer pour faire d'agreables cadences. La mesure des courantes &amp; des sarabandes se fait en trois temps ; la pleine mesure en quatre temps, c'est-à-dire, qu'elle fait couler trois ou quatre notes. On le dit aussi dans les exercices militaires. Pour bien voltiger, il n'y a qu'à prendre bien son temps. Un tel manege se fait en deux ou trois temps. Ce cheval marque deux ou trois temps à son arrêt ; il ne faut pas precipiter ses temps. En escrime il y a trois sortes de temps ; celui de l'épée, celui du pied, &amp; celui du corps. Tous temps qui se remarquent hors de la mesure, ne se doivent considerer que pour appels ou temps faux pour tromper l'ennemi ; &amp; on dit qu'il faut prendre son ennemi sur le temps, pour avoir la facilite de faire toutes sortes de feintes ou appels doubles ou simples<pc>.</pc>
                   </def>
@@ -17128,7 +17128,7 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#chymie#pharmacie">Terme de Chymie, &amp; de Pharmacie</usg>
+                  <usg type="domain" ana="#chymie #pharmacie">Terme de Chymie, &amp; de Pharmacie</usg>
                   <pc>.</pc>
                   <def>Ce sont les parties les plus grossieres &amp; terrestres des corps, qui entrent dans quelque composition<pc>.</pc>
                   </def>
@@ -18313,7 +18313,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="6">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>6</orth>
@@ -32544,7 +32544,7 @@
                </re>
                <pc>.</pc>
                <sense n="2">
-                  <usg type="domain" ana="#medailliste#monnoyeur">Terme de Medailliste &amp; de Monnoyeur</usg>
+                  <usg type="domain" ana="#medailliste #monnoyeur">Terme de Medailliste &amp; de Monnoyeur</usg>
                   <pc>,</pc>
                   <def>qui se dit d'une medaille ou monnoye qui a été frappée au marteau à plusieurs reprises, lorsque les dernieres fois elle n'a pas été rengrenée avec la justesse requise, en telle sorte qu'elle est defigurée, parceque les mêmes points ne se sont pas rencontrez ensemble<pc>.</pc>
                   </def>
@@ -37167,7 +37167,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#pharmacie#chymie">Terme de Pharmacie &amp; de Chymie</usg>
+                  <usg type="domain" ana="#pharmacie #chymie">Terme de Pharmacie &amp; de Chymie</usg>
                   <pc>.</pc>
                   <def>Action par laquelle on reduit en poudre subtile des corps solides. La trituration des bois, écorces, mineraux, &amp; autres corps durs &amp; secs, se fait dans des mortiers de fonte. Ce mot se dit aussi de la division des marieres humides en petites parties. La trituration des matieres humides se fait dans des mortiers de marbre avec des pilons de bois, de verre, ou d'ivoire<pc>.</pc>
                   </def>

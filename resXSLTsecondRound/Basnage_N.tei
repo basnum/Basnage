@@ -7229,10 +7229,8 @@
                   </form>
                </form>
                <gramGrp>
-                  <pos>Subst</pos>
-                  <pc>.</pc>
-                  <gen>fem</gen>
-                  <pc>.</pc>
+                  <pos>Subst.</pos>
+                  <gen>fem.</gen>
                </gramGrp>
                <sense n="1">
                   <def>
@@ -7268,13 +7266,11 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Qui est de petite taille. On ne le dit qu'en burlesque, comme a fait Scarron : Amour nabot, qui d jabot De Dom Japhet, as fait Une ardente fournaise<pc>.</pc>
                   </def>
@@ -7479,10 +7475,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#astronomie">Terme d'Astronomie</usg>
                   <pc>.</pc>
@@ -7507,10 +7502,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Il n'est en usage qu'en cette phrase ; Eau de nasse, qui est une certaine eau de senteur<pc>.</pc>
                   </def>
@@ -7528,10 +7522,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <usg type="domain" ana="#batelier de paris">Terme de Batelier de Paris</usg>
                   <pc>.</pc>
@@ -7714,10 +7707,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Fausse Divinité, que les Payens croyoient presider aux fontaines, &amp; aux rivieres<pc>.</pc>
                   </def>
@@ -7956,8 +7948,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>n</subc>
                   </gramGrp>
                </form>
@@ -8153,8 +8144,7 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <number>pluriel</number>
                   </gramGrp>
                </form>
@@ -8188,10 +8178,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Terme dont les petits enfans se servent, quand ils demandent à manger. Taisezvous, vous aurrz du nanan<pc>.</pc>
                   </def>
@@ -8453,10 +8442,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>qui se dioit xutrefois d'un valet qui marquoit le jeu, &amp; sur tout à la paume, comme l'a remarqué Fauchet<pc>.</pc>
                   </def>
@@ -8499,10 +8487,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Plante qui pousse de sa racine des feuilles presque semblables à celles de poireau, de couleur verte pâle. Il s'éleve d'entrelles une tige à la hauteur de plus d'un pled, portant en sa sommité une grande fleur à une seule feuille blanche, &amp; entourée de six feuilles pâles &amp; purpurines, attachées si fortement à cette fleur, que le tout ensemble paroît être une seule piece, elle est d'one odeur fort agreable. Lorsque la fleur est passée, il ii succede un fruit assez gros, triangulaire, divisé en trois loges remplies de semences noires, presque rondes. Sa racine est bulbeuse. En Latin naroissis albus mam odere, fiore cixrculs pallido. C. Baun. La fleur du narcisse est un peu narcotique , sa racine est detersive, adoucissante. Il y a plusieurs autres especes de narcisse</def>
                </sense>
@@ -8558,20 +8545,29 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                <sense n="1">
                   <def>Plante qu'on appelle autrement grande lavande, ou aspic. Quelques Botanistes la nomment nard d'italie, &amp; d'autres nard bâtard mâle. Il y a aussi le nard batard femelle qui est la petite lavande<pc>.</pc>
                   </def>
-                  <xr>Voyez Lavande</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Lavande</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Nard Celtique, est une plante dont la racine est fort longue, rampante, couverte de petites écailles ; jaunâtre. Ses feuilles sont petites, oblongues, étroites en bas, larges au milieu, vertes au commencement, ensuite jaunâtres, d'un goût un peu amer. Il s'éleve d'entre ces feuilles une petite tige assez ferme, vers le sommet de laquelle il sort des pedicules qui soutiennent deux ou trois petites fleurs de couleur pâle. Le nard Celtique croît sur les Alpes &amp; sur les montagnes du Tirol ; il est aromatique, propre pour resister au venin, pour fortifier l'estomac, &amp; pour dissiper les vents. En Latin nardus Celtica, ou spica Celtica<pc>.</pc>
                   </def>
                </sense>
                <sense n="2">
                   <def>Nard des Indes, est une plante qui vient aux Indes Orientales : on l'appelle autrement spica-nard<pc>.</pc>
                   </def>
-                  <xr>Voyez Spica-nard</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Spica-nard</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Nard sauvage. C'est le nom que quelques-uns ont donné à l'asarumjou rabartr, à cause qu'il sent le nard, ou qu'il en a la vertu<pc>.</pc>
                   </def>
-                  <xr>Voyez Cabaret</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Cabaret</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Nard, étoit aussi chez les Anciens une composition odorante, &amp; un parfum precieux. La boëte de la Magdelaine, quand elle oignit les pieds du Sauveur, étoit pleine de nard pistique, c'est-à-dire, qui n'étoit point falsifié, du Grec pisticos, qui veut dire, sans tromperie, quoyque Saint Augustin croye que ce nom lui soit donné du lieu où il croît. D'autres pensent que</def>
                </sense>
                <etym>
@@ -8772,8 +8768,11 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                   <pc>.</pc>
                   <def>Gros poisson qu'on troure dans les mers d'islande, qui porte en sa partie anterieure une longue corne, que plusieurs croyent être ce que l'on appelle corne de licorne<pc>.</pc>
                   </def>
-                  <xr>Voyez Licorne</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Licorne</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -8832,8 +8831,11 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                <sense>
                   <def>Plante qui est autrement appellée cresson, en Latin nasturtium. On lui a donné ce nom parceque le nasitort étant mis dans le nez le pique, &amp; le fait tordre en quelque maniere, d'où vient qu'il excite l'éternuement<pc>.</pc>
                   </def>
-                  <xr>Voyez Cresson</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Cresson</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="nasse">
@@ -8880,8 +8882,11 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                   </gramGrp>
                </form>
                <sense>
-                  <xr>Voyez Nacelle</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Nacelle</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="nasturce">
@@ -8898,8 +8903,11 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                <sense>
                   <def>Nom d'une plante qu'on appelle autrement cresson ou nasitort à naribus torquendis, selon Nicod. En Latin nasturtium<pc>.</pc>
                   </def>
-                  <xr>Voyez Cresson, &amp; Nasitort</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Cresson, &amp; Nasitort</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -9491,10 +9499,9 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>qui signifioit autrefois un gros vaisseau. Les Portugais les appellent encore nams<pc>.</pc>
                   </def>
@@ -9849,8 +9856,11 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                <sense>
                   <def>Le fret ou le loüge d'un vaisseau ; le prix que payent les passagers au Maître d'un navire pour leur passage. Son principal usage est dans la Poësie, en parlant du droit que les Anciens croyoient qu'il faloit payer à Caron pour passer dans sa barque. Les Anciens mettoient une piece dedans la bouche d'un mort pour payer le naulage à Caron. On dit aussi nolis<pc>.</pc>
                   </def>
-                  <xr>Voyez ce mot</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>ce mot</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="naumachie">
@@ -9952,10 +9962,9 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#blason">Terme de Blason</usg>
                   <pc>,</pc>
@@ -10165,10 +10174,9 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Ce qui n'est point, ce qui n'est rien ; privation de l'être. Dieu a tiré toutes choses du neant. La matiere change seulement de forme, &amp; rien ne retourne dans le neant. Tous les hommes qui sont à naître, sont encore dans le neant. Le passage de l'être au neant est aussi impossible aux forces ordinaires de la nature, que celui du neant à l'être. Maleb<pc>.</pc>
                   </def>
@@ -10258,13 +10266,11 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Qui doit amriver certainement ; inevitable, indispensable, infaillible. Il est necessaire de mourir. Un agent necessaire. Dieu peut-il prevoir les évenemens qui n'ont point de cause necessaire &amp; determinante ? Le Cl. C'est une maxime, qu'il ne faut point deliberer sur les choses necessaires, &amp; qu'on ne peut ni éviter, ni prevenir<pc>.</pc>
                   </def>
@@ -10462,10 +10468,9 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>qui signifioit autrefois navire. Il n'est plus en usage que dans les enseignes. A la nef d'argent. Il l'est aussi dans la Poësie selon l'Academie, sur tout au figuré. Nous avons assez vu sur la mer de ce monde, Errer au gré du vent nôtre nef vagabonde. Racan. On le trouve dans l'Ordonnance des Eaux &amp; Forêts en la signification de bateau, vu qu'elle deffend aux Mariniers d'avoir dans leurs nefs, bateaux, brsognes, marnois, fluttes ou nasselles, des engins à pêcher. On le dit au figuré de l'Eglise militante. La nef de St. Pierre a vaincu tous les orages &amp; les tempêtes<pc>.</pc>
                   </def>
@@ -10525,9 +10530,12 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                <sense n="1">
                   <def>Fruit rond, &amp; qui a cinq noyaux fort durs. Les nefles ne sont bonnes que quand elles sont molles. Les neffles sont fort astringentes. En quelques lieux on les appelle mêles, du mot Latin mespilum, qui signifie la même chose<pc>.</pc>
                   </def>
-                  <xr>Voyez NeeFlier</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>NeeFlier</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <form>
                      <orth>Neffle</orth>
@@ -10838,8 +10846,7 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <gen>n</gen>
                      <pc>.</pc>
                      <lbl>&amp;</lbl>
@@ -10905,10 +10912,9 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Meteore qui se forme en la moyenne region de l'air d'une vapeur congelée qui tombe en menus flocons sur la terre. La formation de la neige est fort bien expliquée dans les Meteores de Descartes. Les hautes montagnes sont toûjours couvertes de neige. De là vient que Godeau appelle la ueige blanche couronne des montagnes. En Italie on rafraîchit le vin avec de la neige. C'est une erreur de croire que les premieres neiges ayent quelque vertu particuliere. On fait dans l'Eglise Romaine la Fête de Sainte Marie aux neges. Bartholin dit qu'en Norvege on n'y boit en hiver que de l'eau de neige fonduë, &amp; qu'elle tient lieu non seulement de bruvage, mais même de nourriture ; &amp; il temoigne qu'on a vêcu plusieurs jours en ne mangeant que de la neige. Les cornes de boeuf y servent de verres, &amp; y ont servi autrefois de caliccs. En Islande on conserve le poisson dans la neige, comme ailleurs avec le sel. La fonte des neiges est ce qui grossit les rivieres<pc>.</pc>
                   </def>
@@ -10958,8 +10964,7 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <gen>imper</gen>
                   </gramGrp>
                </form>
@@ -11100,10 +11105,9 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Plante qu'on appelle autrement herbe aux chats, en Latin cataria. Voyez Her. be aux chats<pc>.</pc>
                   </def>
@@ -11202,10 +11206,9 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>L'un des Dieux des mers. Les Poëtes lui supposent 50. filles, qu'on appelle Nereides<pc>.</pc>
                   </def>
@@ -11474,10 +11477,9 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Espece de menue monnoye dont on se servoit il y a peu de temps, qui valoit 15. deniers, ou un sol Parisis. Il y en avoit aussi qui valoient six blancs. Ainsi nommée, à cause qu'on avoit commencé à les fabriquer dans la tour de Nesle à Patis. Les Auteurs les appellent grossi Nigellenses<pc>.</pc>
                   </def>
@@ -12020,10 +12022,9 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                      <pos>adj.</pos>
                      <gen>m.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Libre, indifferent, qui n'épouse aucun parti ; qui n'est ni ami, ni ennemi. Un Juge doit être neutre entre les parties qu'il doit juger ; ne favoriser ni l'une ni l'autre. Comment se tetir neutre tandis que toute l'Europe est en armes ? On a choisi un lieu neutre pour negotier la paix. Dans les questions où la raison paroît neutre, il faut toujours prendre le parti du malheureux. Tour. C'est un froid ami qu'un ami neutre. Oe. M<pc>.</pc>
                   </def>
@@ -12041,8 +12042,11 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                <sense n="3">
                   <def>Neutre. adj. C'est un titre ou qualité qu'on donne aux Maîtres Tapissiers dans leurs Lettres &amp; Statuts, qui leur donne pouvoir de travailler à des bordures de tapisserie faites de tissu, quoyque cela appartienne à d'autres metiers<pc>.</pc>
                   </def>
-                  <xr>Voyez Tapissier</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Tapissier</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="neuvaine">
@@ -12129,10 +12133,9 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Organe externe de l'odorat. C'est aux hommes cette partie éminente qui est au milieu du visage. Aux animaux ce sont les ouvertures qui sont au bout de leur tête. On distingue dans le nez plusieurs parties qui ont chacune leur nom. On appelle la superieure qui est entre les deux yeux, la racine du nez ; celle de dessous qui est osseuse &amp; immobile, le dos ; la partie la plus pointue qui est plus bas se nomme l'pine ; &amp; l'exrtrêmite qui est cartilagineuse &amp; mobile est appellée le perit globe du nez: les parties laterales se nomment les ailes ; la charnuë qui avance au milieu &amp; qui separe les deux narines, s'appelle la colomne du nez : ses deux ouvertures sont appellées les narines ou condauits. Le nez est composé de troisos, de sept muscles, &amp; de cinq cartilages. Il y a un os de chaque côté, &amp; un troiléme entre l'un &amp; l'autre. Les cartilages forment sa partie inferieure. Ses arteres viennent des carotides, ses veines des jugulaires extemes, &amp; ses nerfs de la cinquiéme paire. Outre ces vaisseaux il y a dans le nez plusieurs conduits &amp; ouvertures par où la morve se decharge. Le poil des narines n'a point de nom particulier en François. En Latin Festus l'appelle vibrisse, de vibrare, qui signifie branler, secouër, parceque quand on l'arrache, cela fait secouer la tête. Les cavitez du nez sont remplies de plusieurs lames osseuses, separées &amp; roulées en spirale : ces lames aboutissent à la racine du nez, &amp; sont couvertes d'une membrane fort sensible parsemée d'un grand nombre de petits nerfs qui viennent des olfactoires. C'est cette membrane qui est l'organe immediat de l'odorat, d'où vient que les animaux qui ont plus de lames osseuses, ont aussi l'odorat plus fin, parceque cette membrane étant plus étenduë reçoit en plus de parties l'impression des corps odorans. Les chiens de chasse ont plus de ces lames que tous les autres animaux. Le lievre, le renard, le porc épic, le chat, le sanglier, en ont un très grand nombre, &amp; l'homme en a le moins de tous. Les Egyptiens representoient un nez pour signifier un homme sage &amp; prevoyant : d'où sont venues les phrases Latines, assutus hom, &amp; muna naris. Et en François, Il a eu bon nez<pc>.</pc>
                   </def>
@@ -12362,13 +12365,11 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>qui signifioit smmple &amp; niaus. On l'employe encore dans le Burlesque. Cette fille me sembloit nice, ou niaise. Tant ne fut nice, encor que nice fût, Madame alix, que le jeu ne lui plût. La Font<pc>.</pc>
                   </def>
@@ -12563,10 +12564,9 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Lieu que les oiseaux se preparent diversement pour pondre, &amp; pour couver les coeufs. Les oiseaux font leur nid au printemps avec un merveilleux artifice. L'un fait son nid dans un buisson, l'autre sur le haut d'un arbre, l'autre dans une cheminée, ou dans le trou d'une muraille. Il y a aux Indes des oiseaux qui font leurs nids sur des rochers d'une certaine écume visqueuse, qui étant sechez deviennent transparens, &amp; detrempez dans l'eau sont d'excellens assaisonnemens pour les viandes. C'est aussi un grand restaurant à la nature, &amp; les Indiens luxurieux s'en servent fort. Les Ambassadeurs de Siam en ont apporté en France. On le dit aussi des insectes, des serpens, &amp; des souris : d'où vient qu'on appelle un logement étroit &amp; incommode, un nid à rats<pc>.</pc>
                   </def>
@@ -12653,10 +12653,9 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Terme relatif à oncle &amp; à tante. Celle qui est fille du frere, ou de la soeur de celui dont on parie, qui est au troisiéme degré de parenté selon le Droit Civil, &amp; au deuxiéme selon le Droit Canon. Petite-miece, est la fille de la miece, ou du neveu, qui est au quatriéme degré de parenté en Droit Civil, &amp; au troisiéme selon le Droit Canon<pc>.</pc>
                   </def>
@@ -12713,8 +12712,7 @@ Ce mot vient, à ce que l'on dit, de Narcisse, qui selon la fable fut changé en
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -12741,11 +12739,15 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
          <div>
             <head>NIG<pc>.</pc>
             </head>
-            <entry xml:id="">
+            <entry xml:id="nigaud">
                <form type="lemmaGrp">
-                  <form type="lemma">NIGAUD</form>
+                  <form type="lemma">
+                     <orth>NIGAUD</orth>
+                  </form>
                   <pc>,</pc>
-                  <form type="inflected">aude</form>
+                  <form type="inflected">
+                     <orth>aude</orth>
+                  </form>
                   <pc>.</pc>
                </form>
                <gramGrp>
@@ -12863,10 +12865,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Fleuve qui traverse une grande partie de l'Afrique. Il s'employe dans la Langue en cette phrase proverbiale, C'est un homme obseur, qui cache son logis, il est aussi inconnu que la source du Nil, parceque cette source a été inconnue jusqu'à ce dernier siecle. Elle est dans un territoire que les habitans appellent abain ou sacahala, c'est-à-dire, le pere des eaux. Ce fleuve sort de deux fontaines, ou de deux yeux, pour parler comme ceux du païs, éloignées de trente pas, chacune de la grandeur d'un de nos puits, ou d'une rouë de carrosse, on en a trouvé le fond à seize ou dixsept pieds. Les habitans qui sont Payens adorent la plus grande, &amp; lui ofrent plusieurs sacrifices de vaches, dont ils mangent la chair comme sainte, &amp; ils laissent les os dans un endroit destiné pour cela, qui font maintenant une montagne assez considerable. Il y a plus de deux mille ans qu'Herodote a fait mention de ces sacrifices de vaches qu'on fait aux sources du Nil. Ces habitans s'appellent Agaus dans le Royaume de Goyam à 12. degrez de latitude septentrionale, &amp; 55. de longitude. C' est dans une plaine d'environ trois quarts de lieuë, enfermée de montagnes. Au sortir de là il entre en un petit lac, puis il se perd sous terre par l'espace d'une portée de mousquet ; &amp; à trois journées de sa source, il est assez large &amp; profond pour porter des vaisseaux ; mais à cent pas plus loin il passe à travers des rochers, ensorte qu'on le passe aisément sans se mouiller le pied. On y navige avec des bateaux de natte bien serrée. Il reçoit trois rivieres assez grandes nommées Gema, Linquetil, &amp; Brantil ; &amp; quand il est sorti du lac de Dambea qui a 50. lieuës de large, il reçoit de trèsgrands fleuves, comme le Gamara, Abea, Baixo, &amp; Aquers, &amp; enfin près de l'Egypte le Tacase. Il y a deux principales cataractes ou sauts. A la deuxiéme il tombe dans un profond abime. Le bruit s'en entend à trois lieuës de là. L'eau est poussée avec tant de violence, qu'elle fait une arcade, sous laquelle elle laisse un grand chemin où l'on peut passer sans être mouillé, &amp; où il y a des sieges taillez dans le roc pour reposer les Voyageurs. La premiere catadoupe ou cataracte du Nil est d'environ 50. pieds. La seconde est trois fois plus haute. Il n'est pas vrai que le bruit que font les cataractes du Nil rende sourds les peuples qui en sont proches, quoyqu'on en entende le bruit à trois journées, &amp; que les eaux qui en rejalissent paroissent comme une fumée. On dit qu'Albuquerque eut dessein de faire un traitté avec les Abyssins pour detourner le Nil, &amp; le faire jetter dans la Mer Rouge, afin de rendre les campagnes d'Egypte steriles ; &amp; que pour empêcher cela le Turc paye tribut au Grand Negus. Mais cela est une fable, &amp; la chose est entierement impossible. Alexandre consulta l'oracle de Jupiter Ammon, pour apprendre où étoit la source du Nil. Sesostris, Ptolomée, la firent chercher inutilement. Cambyses, à ce que dit Strabon, employa une armée pour la chercher. Lucain témoigne que Cesar disoit qu'il eût quité la guere civile, s'il eût été assuré de la trouver. St. Augustin &amp; Theodoret ont cru que c'étoit le fleuve appellé Geon qui arrousoit le Paradis terrestre, &amp; qui alloit par dessous la Mer Rouge renaître en Afrique. Ce que dessus, est extrait de l'Hitoire écrite en Portugais par le Reverend Pere Balthasar Telles Jesuïte. Isaac Vossius a écrit de l'origine du Nil, &amp; des autres fleuves, &amp; en attribuë la source &amp; le debordement aux pluyes abondantes qui tombent en ce païs-là en été. Mr. de la Chambre attribuë la cause de sa cruë au nitre dont le lit de ce fleuve est plein, qu'il dit être cause d'une vehemente fermentation. Mais il se trompe, car la vraye cause de l'accroissement du Nil sont les pluyes qui commencent entre les deux Tropiques le premier jour de Juin, &amp; qui sont causes du beau temps dont on jouït cependant en Europe. Quand le Nil ne monte qu'à 16. degrez, on craint la famine ; quand il monte à 2 3. degrez, c'est la bonne année ; quand il est plus haut, l'inondation est dangereuse. Cette hauteur s'étend depuis 12. jusqu'à 18. coudées. On gardoit la mesure de l'accroissement du Nil comme un relique dans le temple de Serapis, &amp; l'Empereur Constantin la fit ttansporter dans l'Eglise d'Alexandrie<pc>.</pc>
                   </def>
@@ -12878,8 +12879,11 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>,</pc>
                   <def>constellation<pc>.</pc>
                   </def>
-                  <xr>Voyez Orion</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Orion</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="nille">
@@ -12908,8 +12912,11 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>,</pc>
                   <def>qui se dit d'une espece de croix ancrée, beaucoup plus étroite &amp; menue qu'à l'ordinaire. Il y en a qui confondent nille &amp; anille<pc>.</pc>
                   </def>
-                  <xr>Voyez Croix-nillée</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Croix-nillée</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -12924,10 +12931,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#antiquaire">Terme d'Antiquaire</usg>
                   <pc>.</pc>
@@ -12983,10 +12989,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Terme general qui se dit tant des habits que des meubles, &amp; de tout ce qui sert à l'ajustement &amp; à la parure. Son usage le plus ordinaire est au plurier. Il a fait un troc partie en argent, partie en mippes. Les usuriers qui prêtent de l'argent, en fournissent une partie en nippes qu'ils font bien valoir. Pour les mille écus restans, il faudra que l'emprunteur prenne les hardes, mnippes, &amp; bijoux dont s'ensuit le memoire. Mol. Cette femme a de beaux habits &amp; de bonnes mnippes. Ce curieux est riche en tableaux, en bijoux, &amp; en autres bonnes mippes. Quelques-uns derivent ce mot de l'Espagnol naypes, qui signifie cartes à jouër ce qu'on a appliqué à des meubles de peu de consequence<pc>.</pc>
                   </def>
@@ -13004,10 +13009,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Mocquerie, mepris qu'on fait de quelcun par quelque geste qui en donne temoignage, &amp; particulierement en haussant ou secoüant le menton. Il n'est en usage qu'en cette phrase, Faire la nique. Ce libertin fait la nique à tous ceux qui lui veulent faire des remontrances. Une épigramme du Catholicon dit aux Huguenots : Ce petit Saini vous fait la nique ; Et n'a ni chasse ni relhique<pc>.</pc>
                   </def>
@@ -13064,10 +13068,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Machine qui marque les differens degrez de la secheresse, ou de l'humidité de l'air. C'est la même chose que hygrometre<pc>.</pc>
                   </def>
@@ -13086,7 +13089,6 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                <pc>.</pc>
                <sense>
                   <xr>Voyez Salfetr</xr>
-                  <pc>,</pc>
                   <def>c'est la même chose, quoyque quelques-uns le tiennent beaucoup different, &amp; disent que c'est une espece de sel particulier. Le nitre des Anciens étoit tout fossile &amp; mineral. Ils en faisoient quatre especes, qui n'étoient differentes que par les noms des lieux d'où on les tiroit, l'Armenien, le Romain, l'Africain, qu'on appelloit autrement aphronitre, qu'Avicenne appelle baurach ; &amp; enfin l'Egyptien, qui étoit le plus fameux, &amp; prenoit son nom de Nitria, certaine region d'Egypte où il croissoit en abondance. Serapion dit que les mines de nitre étoient semblables à celles du sel commun, &amp; que c'étoient de l'eau coulante qui se congeloit comme une pierre vulgaire, d'où lui a été donné le nom de salpêtre. Il ajoute, que le mitre étoit de plusieurs couleurs, sçavoir blanc, rouge, roux, livide ou plombé ; qu'il étoit même different en forme ; que l'un étoit caverneux comme une éponge ; l'autre ferme &amp; solide ; l'autre luisant &amp; diaphane comme verre, l'autre se levoit par filets &amp; par feuilles. Mais quoyque les Auteurs soient differens sur ce sujet, il est certain que les Anciens n'ont point eu de nitre artificiel comme est nôtre salpêtre. En Latin nitrum. Les Chymistes reconnoissent une écume de nitre, qu'ils appellent puma mtri<pc>.</pc>
                   </def>
                </sense>
@@ -13103,10 +13105,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Etat d'un plan qui n'a aucune inclination ; superficie égale, qui ne va ni en haussant, ni en baissant. On a pris le niveau de ce terrain. On l'a applani ; on l'a mis parfaitement au miveau ; on dit aussi niveau de pente, lors que la pente est égale<pc>.</pc>
                   </def>
@@ -13233,10 +13234,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Est un recueil, on histoire des Maisons, &amp; personnes nobles d'une Province, ou d'une nation. Le Sieur Chorier a donné un Nobiliaire du Dauphiné, ayant été Procureur du Roi à la recherche des Nobles. Il a été fait aussi un Nohiliaire de Champagne dans le même temps par les soins de l'Intendant de la Province. Les Allemans sont soigneux de faire des Nobiliaires pour conserver la purété de leur Noblesse<pc>.</pc>
                   </def>
@@ -13250,10 +13250,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Qualité, qui dès le temps de Justin servoit à distinguer les Princes de la famille Imperiale. Le P. Doucin<pc>.</pc>
                   </def>
@@ -13299,8 +13298,11 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>,</pc>
                   <def>se dit aussi de ce qui appartient au Gentilhomme. Un fief est noble par sa nature. On donne aux Gentilshommes la garde noble de leurs enfans<pc>.</pc>
                   </def>
-                  <xr>Voyez Garde</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Garde</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>On donne la qualité de noble homme, à des bourgeois, qui ne devroit appartenir qu'aux vrais Nobles &amp; à la verité cette qualité de noble homme est plutôt un titre de bourgeoisie que de noblesse. On disoit pourtant autrefois le Noble Roi de France<pc>.</pc>
                   </def>
                </sense>
@@ -13510,10 +13512,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#chirurgie">Terme de Chirurgie</usg>
                   <pc>.</pc>
@@ -13533,10 +13534,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Fête de la Nativité de Nôtre Seigneur. L'Avent de Noel est le temps d'un mois, pendant lequel on attend la Fête de Noel, &amp; on se prepare à la celebrer<pc>.</pc>
                   </def>
@@ -13679,9 +13679,12 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                <sense n="10">
                   <def>A la Paume on dit qu'on retient les droits, ou les neuds, en parlant des deux côtez d'une raquette qu'on jette en l'air, pour sçavoir qui aura l'avantage de choisir le côté du jeu en commençant la partie. En Astronomie on appelle les noeuds de l'Ecliptique, ses intersections par l'orbite de la Lune, qui a quelque latitude à son égard : c'est dans l'un de ces points que la Lune doit être quand il arrive des éclipses de Soleil, ou de Lune. On les appelle autrement la tête, &amp; la queuë du Dragon. Le neoeud ascendant, &amp; boreal en est la tête, &amp; le neud descendant &amp; austral en est la queuë. Le premier se trouve au passage de la Lune à travers l'Ecliptique du Midi au Septentrion ; &amp; le dernier se trouve au passage de la Lune à travers l'Ecliptique du Septentrion au Midi. Comme les cercles des autres Planetes couppent aussi l'Ecliptique en deux points, ces deux points s'appellent aussi neuds. Les Planetes ne couppent pas toujours l'Ecliptique au même point. Oz anam<pc>.</pc>
                   </def>
-                  <xr>Voyez Latitude</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Latitude</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="11">
                   <form>
                      <orth>Noeud</orth>
@@ -13741,10 +13744,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Corps opaque &amp; poreux qui imbibe la lumiere, qui n'en reflechit aucune partie ; qui est de la couleur la plus obscure de toute, &amp; la plus opposée au blanc. Le noir de fumée, ou noir à noircir, est la fumée de la poix resine brûlée qu'on ramasse dans une chambre ou vaisseau fermé par enhaut, &amp; tapissée de peaux de mouton, d'où par après on le fait sortir en les secoüant. On en fait l'encre d'imprimerie, en mêlant ce noir avec de l'huile de lin bouillie &amp; de la terebenthine. On fait aussi du noir avec des noix de galles, comme l'encre commune ; ou avec du vitriol, comme l'encre des Courroyeurs, qu'on appelle atramentum sutorium. Le noir des Teinturiers se fait avec de la galle d'Alep ou d'Alexandrie, dite galle à l'épine, ou avec du sumac, du rodoul, ou fovic noirci, avec de la coupperose &amp; du bois d'Inde. On en fait encore avec l'écorce d'aune, &amp; de la moulée des Emouleurs &amp; Couteliers. Il n'y a point dans la nature de chose noire qui serve à teindre en noir. Il est certain que plus une matiere est blanche, plus elle devient noire, quand elle est brûlée, comme on l'éprouve dans l'yvoire. On fait la couleur noire sur la vaisselle de terre avec des écailles de fer vitrifiées. On fait aussi du noir avec de l'argent &amp; du plomb, qui sert à remplir les creux d'une chose gravée ; ce qu'on nomme en Latin nigellum<pc>.</pc>
                   </def>
@@ -14032,8 +14034,11 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                <sense>
                   <def>Arbre qui porte des noisettes. C'est la même chose que le coudrier<pc>.</pc>
                   </def>
-                  <xr>Voyez Coudrier</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Coudrier</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="noix">
@@ -14061,15 +14066,24 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                <sense n="2">
                   <def>Noix geroflée, ou Noix de Madagascar, est une noix grosse comme une noix de galle, ronde, legere, de couleur de chateigne, ayant l'odeur &amp; le goût du gerofle, mais plus foibles. C'est le fruit d'un arbre appellé en l'Ile de Madagascar, où il croit abondamment, ravendsara : ses feuilles approchent en figure de celles du laurier. La seconde écorce de cet arbre étant sechée ressemble en figure &amp; en couleur à la canelle, mais elle a le goût du gerofle : on l'appelle canelle geroflée, ou capelet, ou bois de crabe. L'écorce &amp; le fruit de cet arbre sont propres pour fortifier l'estomac &amp; pour exciter l'appetit. Noix d'Inde, est le fruit d'une espece de palmier qui vient aux Indes tant Orientales qu'Occidentales. On l'appelle aussi coco, ou cocos, &amp; l'arbre qui le porte cocotier<pc>.</pc>
                   </def>
-                  <xr>Voyez Coco</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Coco</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Noix methel, est une espece de stramonium, que Mr. Tournefoit appelle stramonium fructu spineso rotundo, semine nigricante. On la nomme autrement pomme du Perou, ou pomme épineuse<pc>.</pc>
                   </def>
-                  <xr>Voyez Strahmonium</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Strahmonium</ref>
+                     <pc>.</pc>
+                  </xr>
                   <pc>.</pc>
-                  <pc>.</pc>
-                  <xr>Voyez Mescade</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Mescade</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Noix vomique, est un petit fruit plat, rond, large comme un de nos liards, lanugineux, de couleur de gris de souris en dehors, dur comme de la corne, de diverses couleurs en dedans, tantôt jaune, tantôt blanc, tantôt brun. On ne connoît point la plante qui porte ce fruit. La noix vomique tue en peu de temps les chiens &amp; plusieurs autres animaux à quatre pieds, à qui on en fait manger. En Latin nux vomica<pc>.</pc>
                   </def>
                </sense>
@@ -14110,7 +14124,7 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
          <div>
             <head>NOL<pc>.</pc>
             </head>
-            <entry xml:id="noli me tangere.">
+            <entry xml:id="noli_me_tangere.">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>NOLI ME TANGERE.</orth>
@@ -14118,7 +14132,7 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                </form>
                <pc>.</pc>
                <sense>
-                  <def> Terme Latin, c'est un nom que donnent les Medecins à un ulcere malin qui vient au visage, &amp; qui est produit par une humeur extrêmement âcre &amp; corrosive. Il est dangereux de toucher à cette sorte d'ulceres ; car bien souvent en voulant y remedier, on les irrite davantage, &amp; on avance la mort du malade. De là vient qu'on leur a donné ce nom qui signifie, ne me touchez point<pc>.</pc>
+                  <def>Terme Latin, c'est un nom que donnent les Medecins à un ulcere malin qui vient au visage, &amp; qui est produit par une humeur extrêmement âcre &amp; corrosive. Il est dangereux de toucher à cette sorte d'ulceres ; car bien souvent en voulant y remedier, on les irrite davantage, &amp; on avance la mort du malade. De là vient qu'on leur a donné ce nom qui signifie, ne me touchez point<pc>.</pc>
                   </def>
                </sense>
             </entry>
@@ -14128,8 +14142,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                      <orth>NOLIS</orth>
                   </form>
                   <pc>,</pc>
+                  <lbl>&amp;</lbl>
                   <form type="variant">
-                     <orth>&amp; NOLISSEMENT</orth>
+                     <orth>NOLISSEMENT</orth>
                   </form>
                   <pc>.</pc>
                   <gramGrp>
@@ -14137,13 +14152,11 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                      <gen>m.</gen>
                   </gramGrp>
                </form>
-               <re>
-                  <form>Termes de Marine</form>
-                  <form>.</form>
-                  <form>Convention pour le loüage</form>
-                  <def>d'un vaisseau. Ils signinent sur la Mediterranée la mêne chose que fret &amp; affrettemem sur l'Ocean. On dit aussi sur l'Ocean naulage ; pour dire, le fret des navires qu'on louë pour aller en guerre, ou pour courir le bon bord : &amp; on dit noliger &amp; nauliser ; pour dire, louer &amp; fretter. Tous ces mots viennent du Latin naulum<pc>.</pc>
+               <sense>
+                  <pc>.</pc>
+                  <def>Convention pour le loüage d'un vaisseau. Ils signinent sur la Mediterranée la mêne chose que fret &amp; affrettemem sur l'Ocean. On dit aussi sur l'Ocean naulage ; pour dire, le fret des navires qu'on louë pour aller en guerre, ou pour courir le bon bord : &amp; on dit noliger &amp; nauliser ; pour dire, louer &amp; fretter. Tous ces mots viennent du Latin naulum<pc>.</pc>
                   </def>
-               </re>
+               </sense>
             </entry>
          </div>
          <div>
@@ -14157,10 +14170,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <usg type="domain" ana="#grammaire">Terme de Grammaire</usg>
                   <pc>.</pc>
@@ -14388,7 +14400,7 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   </def>
                </sense>
             </entry>
-            <entry xml:id="29">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>29</orth>
@@ -14435,8 +14447,11 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                <sense n="3">
                   <def>Nombre polygone, en termes d'Algebre, signifie un nombre à plusieurs angles, qui se forme par des nombres en progression arithmetique ou égale ; en telle sorte que s'ils étoient arrangez &amp; marquez en points, ils seroient une figure à plusieurs angles ; par exemple, si on marque un point en haut &amp; deux en bas, cela fera un triangle, &amp; le nombre de trois fera un trigone. Si on marque deux en haut, &amp; deux en bas, cela fera un quadrangle ou nombre quarré, qui sera quatre. Ce qui arrive, quand la progression va seulement par un ou deux, mais si la difference des nombres est de trois, elle fera un pentagone ; si elle est de quatre, un hexagone, si elle est de cinq, un eptagone, &amp; ainsi du reste<pc>.</pc>
                   </def>
-                  <xr>Voyez l'Algebre de Mr</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>l'Algebre de Mr</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Prestet, où les proprietez de ces nombres sont bien expliquées<pc>.</pc>
                   </def>
                </sense>
@@ -15245,10 +15260,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Fête, rejouls-. sance qu'on fait aux épousailles ; repas qu'on donne à ses parens, &amp; amis en le mariant. Jesus-Christ fit son premier miracle à la noce de Cana. L'Avent &amp; le Carême ne sont point des temps à faire noces. On ne dine point le matin, quand on est de noces le soir ; c'est un proverbe d'Italie. Il n'y a eu que les plus proches parens conviez à la noce. On dit d'un grand repas, Ce n'est pas ici un feslin ordinaire, c'est une noce. Voilà une maison de bonne chere, il y a tous les jours noces. Une sale à faire noces<pc>.</pc>
                   </def>
@@ -15285,10 +15299,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#architecture">Terme d'Architecture</usg>
                   <pc>.</pc>
@@ -15308,10 +15321,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <usg type="domain" ana="#marine dont on se sert sur la mer octane">Terme de Marine dont on se sert sur la Mer Octane</usg>
                   <pc>,</pc>
@@ -15462,10 +15474,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Terme Latin dont on use au Palais, lais, &amp; dans l'Ecole, pour signifier une marque qu'on met en quelque endroit d'un livre, ou d'un écrit, quand il y a quelque chose de remarquable, &amp; dont on veut se souvenir<pc>.</pc>
                   </def>
@@ -15710,8 +15721,7 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -15838,9 +15848,12 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                <sense n="6">
                   <def>Les Medecins, Chirurgiens &amp; Apothicaires se servent de ces nottes ou caracteres pour marquer le poids &amp; les doses dans leurs ordonnances. La livre f. une once 3j. deux onces Zij. &amp; ainsi jusqu'à la demi livre, dont voici la marque t. s. une dragme j. deux dragmes 3ij. de même jusqu'à huit, le scrupule . le gaing. Paul Diacre dit que les nottes furent inventées par Ennius, qui en fit le premier onze cens. Tullius Tyro Affranchi de Ciceron, Philargyrus Famius, &amp; Aquila Affranchi de Mecenas y en ajouterent beaucoup d'autres. Enfin Lucius Annaus Seneca les compila, les mit en ordre, &amp; en augmenta le nombre jusqu'à cinq mille<pc>.</pc>
                   </def>
-                  <xr>Voyez Notaire</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Notaire</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="7">
                   <form>
                      <orth>Notte</orth>
@@ -15895,10 +15908,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>qui se dit des terres nouvellement defrichées, &amp; labourées ; qu'on a mises en valeur, &amp; semées. Les Vicaires perpetuels qui n'ont qu'une portion congrué, doivent jouïr des novales, ou des dimes des terres deffrichées depuis dix ans : non pas au prejudice du Curé primitif. Cette terre n'est pas de la grosse dime, c'est une novale. Les novales appartiennent aux Curez, par preference aux gros Decimateurs, sans diminution de la portion congruë<pc>.</pc>
                   </def>
@@ -16005,8 +16017,11 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                <sense>
                   <def>Le nouement de l'aiguillete est une espece de malefice qu'on dit que font les Sorciers. L'Academie condamne ce mot dans les additions, après l'avoir mis dans la table : on le trouve pourtant dans les Jurisconsultes qui ont parlé de cette espece de sortilege. Quelques-uns ont attribué cette impuissance accidentelle à la force, &amp; à la vivacité de l'imagination, qui dissipe, &amp; transporte les esprits. C'est, dit Montagne, l'imagination qui cause la defaillance fortuite qui surprend les Amans si hors de saison, &amp; par la violence d'un ardeur extrême les glace au milieu des plaisirs. Fevret au contraire pretend que le nouëment de l'aiguillette, ou la ligature des mariez, est l'un des plus anciens artifices de la magie, &amp; que l'imagination peut bien causer une foiblessle momentanée ; mais non pas une impuissance continue. L'histoire est toute pleine d'exemples de pareils charmes qui ont empêché la consommation du mariage ; c'est pourquoy Fevret met le nouement de l'aiguillette au nombre des crimes capitaux, parccqu'outre qu'il suppose du sortilege, &amp; un pact exprès, u ticite avec le Demon, il va à detruire l'Etat indirectement, en empêchant la procreation des enfans qui sont le soutien de la Republique. Aussi les Parlemens ont-ils jugé que ce crime étoit de la competence du Juge Royal, a l'exclusion des Juges Ecclesiastiques, &amp; des Officiaux<pc>.</pc>
                   </def>
-                  <xr>Voyez Fevret</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fevret</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="novemvirs">
@@ -16101,9 +16116,12 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                <sense n="8">
                   <def>On dit proverbialement, Noier l'aiguillette, en parlant des charmes qu'on s'imagine que font quelques sorciers pour rendre un nouveau marié impuislant<pc>.</pc>
                   </def>
-                  <xr>Voyez Noulment</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Noulment</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="9">
                   <pc>,</pc>
                   <def>est quand un cheval sauteur s'épare, &amp; ruë entierement du train de derriere, allongeant les deux jambes également &amp; de toute leur étenduë<pc>.</pc>
@@ -16264,7 +16282,7 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#charpentier#couvreur">Terme de Charpentier &amp; de Couvreur</usg>
+                  <usg type="domain" ana="#charpentier #couvreur">Terme de Charpentier &amp; de Couvreur</usg>
                   <pc>,</pc>
                   <def>se dit des petites nouës, ou égouts qui se font sur les lucarnes, &amp; particulierement sur celles qu'on appelle Demoiselles<pc>.</pc>
                   </def>
@@ -16749,9 +16767,12 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                <sense n="5">
                   <def>Nouvelle, ou plutôt Novelle, en Jurisprudence, se dit des Constitutions de plusieurs Empereurs, de Justin, de Tibere, de Leon, &amp; sur tout de celles de Justinien. La plupart des Novelles de Justinien furent faites en Grec, &amp; on les traduisit en Latin. Il y ena 165. comprises en 9. collations, ou chapitres. On appella Novelles ces Constitutions de Justinien, ou parcequ'elles changerent beaucoup l'ancien Droit, ou selon Cujas parcequ'elles furent faites sur de nouveaux cas, &amp; après la revision du Code compilé par les ordres de cet Empereur. Ainsi l'on avoit appelle Novelles, les Constitutions des Empereurs Theodose, Valentinien, Marcien &amp;c. parcequ'elles avoient été publiées après le Code Theodosien. Quand Accurse parle des Novelles, il entend celles qui avoient été publiées en Grec par Justinien ; car il appelle authentique, la version Latine qui en fut faite du temps de Bulgarus, parcequ'elNOU. NOY. le étoit fort exacte, &amp; fort fidelle<pc>.</pc>
                   </def>
-                  <xr>Voyez Authentique</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Authentique</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="6">
                   <form>
                      <orth>Nouvelle</orth>
@@ -17204,9 +17225,12 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                <sense>
                   <def>Mêler des choses de differente couleur. Il se dit par les Tapissiers &amp; Perruquiers<pc>.</pc>
                   </def>
-                  <xr>Voyez Nuance</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Nuance</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <re>
                   <form>Nuancé, ée</form>
                   <form>.</form>
@@ -17462,10 +17486,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Quoyque tous les Dictionnaires fassent nuë &amp; nuée synonymes, on trouve neanmoins par l'usage que la plupart des Auteurs en font, qu'il y a quelque difference entre ces deux mots. Nuë est un peu plus vague que nuée, &amp; en differe à-peuprès comme le genre differe de l'espece. D'ailleurs nuë se dit plus souvent dans le propre que dans le figuré, &amp; nuée plus souvent dans le figuré que dans le propre. Mais on ne peut distinguer cela que par un long usage. Ce mot signifie une eau élevée de la terre en vapeurs jusque dans la moyenne region de l'air, qui retombe ordinairement en pluye. On peint la descente des Anes sur une nuë. Une nuë enleva le Sauveur au ciel. Il a abité dans la nuë, &amp;c. Les Payens faisoient descendre leurs fausses Divinitez sur des nuës. Il s'est repandu de tous côtez des nuées qui nous ont caché le soleil. Les nuës chassent au Nord ; Mercure fendit la nuë, Iris parut sur une nué. Quand la nuë est sombre &amp; épaisse, c'est signe d'orage, de grêle. Les éclairs &amp; le tonnerre se forment par le choc, &amp; la collision des nës. Le tonnerre gronde dans la nuë<pc>.</pc>
                   </def>
@@ -17519,9 +17542,12 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                <sense n="6">
                   <def>Grosse nuée. Nuée épaisse. La nuée chemine. Voit. Le soleil se couchoit dans une nuée d'or &amp; d'azur. Id. La nuée m'eut porté de côté &amp; d'autre. Id. L'ignorance, l'erreur, &amp; la superstition, comme trois épaisses nuées, avoient couvert la face de l'Eglise. Cl<pc>.</pc>
                   </def>
-                  <xr>Voyez Nul</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Nul</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="7">
                   <form>
                      <orth>Nuée</orth>
@@ -17963,7 +17989,7 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   </gramGrp>
                </form>
                <sense n="1">
-                  <usg type="domain" ana="#banque#marchandise">Terme de Banque, &amp; de Marchandise</usg>
+                  <usg type="domain" ana="#banque #marchandise">Terme de Banque, &amp; de Marchandise</usg>
                   <pc>.</pc>
                   <def>Article du regître d'un Banquier, ou d'un Marchand, cotté d'un certain nombre, faisant mention d'une certaine affaire, rescription, ou marchandise. Il est enjoint aux Banquiers expeditionaires en Cour de Rome, de mettre sur toutes leurs expeditions le chiffre ou le numero repondant à l'article de leurs regitres qui en contient l'envoi. Un tel a eu un billet à cette lotterie cotté sur le numer 5430. Les Marchands ont de certaines marques qu'ils mettent sur leurs marchandises, qui les fait souvenir du prix marqué dans les articles &amp; numero de leurs regîtres qui y repondent. On le dit aussi des marques que les Notaires mettent sur les titres &amp; papiers qu'ils inventorient, repondant aux articles de leurs Inventaires. Ce Contrat est inventorié sous le numere 6<pc>.</pc>
                   </def>
@@ -18034,10 +18060,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#jurisprudence">Terme de Jurisprudence</usg>
                   <pc>,</pc>
@@ -18141,10 +18166,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Le creux qui est entre la premiere &amp; la seconde vertebre au plus haut du derriere du cou, que les Latins appellent fossa. Ce qui est au dessous s'appelle le chignon du cou. Donner un coup d'épée sur la nuque<pc>.</pc>
                   </def>
@@ -18248,10 +18272,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Fausse Divinité que les Payens croyoient presider aux eaux, aux fleuves &amp; aux fontaines. Quelques-uns en ont étendu la signification, &amp; les ont prises pour Déesses des montagnes, des forêts &amp; des arbres, qu'on appelle particulierement Oreades, Dryades, Hamadryades, &amp; Napées. Meursius pretend que l'opinion des Grecs touchant ces Divinitez est venue des Pheniciens. Nymphe dans leur langage signifie ame : les Grecs s'imaginerent que les ames des anciens habitans de la Grece étoient devenuës des Nymphes. Les ames de ceux qui avoient habité dans les bois furent appellées Dryades. Celles de ceux qui avoient habité dans les montagnes Oreades. Celles de ceux qui avoient fait leur demeure sur les bords de la mer Nereides : enfin les ames de ceux qui avoient choisi sejour auprès des rivieres, ou des fontaines Nayades. On dit la Nymphe de la Seine, de la Loire. Conrad Gesner a traduit un ample Commentaire de Porphyre sur l'antre des Nymphes de l'Odyssée, dont Mr. le Vayer a aussi fait une interpretation à sa mode dans son Hexameron<pc>.</pc>
                   </def>
@@ -18304,8 +18327,11 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                <sense>
                   <def>Plante qui est ainsi appellée parcequ'elle vient dans les eaux<pc>.</pc>
                   </def>
-                  <xr>Voyez Nenuphar</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Nenuphar</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>C'est la même chose<pc>.</pc>
                   </def>
                </sense>

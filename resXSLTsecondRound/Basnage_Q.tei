@@ -7229,10 +7229,8 @@
                   </form>
                </form>
                <gramGrp>
-                  <pos>Subst</pos>
-                  <pc>.</pc>
-                  <gen>masc</gen>
-                  <pc>.</pc>
+                  <pos>Subst.</pos>
+                  <gen>masc.</gen>
                </gramGrp>
                <sense>
                   <def>Lettre consone, seiziéme de l'Alphabet, qui se prononce comme le k &amp; le c devant les a, o, &amp; u, &amp; qui a cela de particulier, qu'elle est toujours suivie d'un u. C'est une lettre double, aussi-bien que le k, &amp; I'x, qui n'est autre chose que CV, car sa figure est composée d'un c&amp; d'un V renversez, joints ensemble, qui font le même son. On s'en pourroit aussi-bien passer que du k<pc>.</pc>
@@ -7349,8 +7347,11 @@
                <sense n="2">
                   <def>Quadran au Soleil, est une delineation sur un plan, ou une muraille de certaines lignes qui marquent l'heure par le moyen de l'ombre d'un stile qui est élevé au milieu. Le quadran horizontal, est celui qui est sur un plan paralêle à l'Horizon ; l'équinoctial, celui qui regarde l'Equateur, &amp; qui est élevé selon le pole du lieu vertical ; Meridional, Septentrional, Oriental, &amp; Occidental, sont ceux qui regardent directement les quatre points cardinaux. Le quadran polaire est celui qui se fait sur un plan parallêle à l'axe du monde, ou, ce qui est la même chose, à quelque Horizon de la sphere droite. Le quadran vertical est celui qui se fait sur un plan vertical. Le quadran regulier est celui qui se fait sur la surface d'un plan qui regarde droit l'une des quatre parties du monde. Quadran vertical declinant, &amp; reclinant, celui qui n'est pas tout-à-fait à plomb, ou qui ne regarde point precisément l'un des quatre points de l'Horizon. On appelle quadran Astronomique, celui qui montre les heures Astronomiques, c'est-à-dire depuis minuit, ou midi. Quadran Babylonique, celui qui montre les heures Babyloniques, ou depuis le lever du solen. Quadran Italique, celui qui montre les heures Italiques, ou depuis le coucher du soleil. Quadran Antique, ou Judaïque, celui qui montre les heures Judaïques. Quadran à la lune, celui qui montre de nuit les heures aux rayons de la lune. Quadran aux étoiles, celui qui montre de nuit les heures par le moyen des étoiles qui ne se couchent point. On se sert ordinairement des étoiles de la grande Ourse. Quadran portatif, celui que l'on porte avec soi pour voir les heures aux rayons du soleil quand on veut. Quadran particulier, celui qui est fait pour une latitude particuliere. Quadran universel, celui par le moyen duquel on peut connoître les heures par toute la terre. Le plus commode est celui qu'on appelle l'anneau universel<pc>.</pc>
                   </def>
-                  <xr>Voyez Anneau</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Anneau</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>On appelle aussi tous ces quadrans, sciateriques, parceque l'ombre sert à marquer les heures, du mot Grec ikia qui signifie ombre. Anaximenes Milesien disciple de Thalés, fut, au rapport de Pline, le premier qui fit un quidran solaire à Lacedemone, qu'il appella sciatericen. L'Ecriture fait mention de l'horloge solaire du Roi Achas dans le temps que Romulus jettoit les fondemens de la ville de Rome. Vitruve est le premier qui en a laissé par écrit la construction<pc>.</pc>
                   </def>
                </sense>
@@ -7361,8 +7362,11 @@
                   <pc>.</pc>
                   <def>Outil de Lapidaires qui leur sert à tailler les pierres<pc>.</pc>
                   </def>
-                  <xr>Voyez Cadran</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Cadran</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="quadrangle">
@@ -7435,10 +7439,9 @@
                      <pos>adj.</pos>
                      <pos>&amp; subst</pos>
                      <pc>.</pc>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#geometrie pratique">Terme de Geometrie Pratique</usg>
                   <pc>.</pc>
@@ -8194,9 +8197,12 @@
                <sense n="9">
                   <def>Bonnet quarré, est un bonnet de Prêtre, d'Avocat, ou d'autre homme de robbe, qui a quatre petites éminences sur la tête qu'on appelle cornes, par où on le prend<pc>.</pc>
                   </def>
-                  <xr>Voyez Bonnet</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Bonnet</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <re>
                   <form>Racine quarrée</form>
                   <form>,</form>
@@ -8392,8 +8398,11 @@
                <sense n="7">
                   <def>On appelle, Fievre quarte, une fievre qu'on a tous les quatre jours, qui ne laisse que deux jours francs ; double quarte, qui revient deux fois dans ces quatre jours, qui n'en laisse qu'un de franc<pc>.</pc>
                   </def>
-                  <xr>Voyez Fiavre</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fiavre</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="quartaine">
@@ -8462,9 +8471,12 @@
                   <pc>,</pc>
                   <def>est la quatriéme partie d'une succession, qu'un heritier institué retenoit pardevers lui, quand il etoit chargé d'un fidei-commis, qui l'obligeoit à remettre l'heredité entre les mains d'un autre. La quarte Falcidie, ou Falcidieme faisoit le même retranchement à l'égard des legs, par lesquels le Testateur avoit épuisé la succession. C'est pourquoy on les confond l'une &amp; l'autre dans les loix. Le fidei-commis, &amp; les legs étant presque la même chse à l'égard de l'heritier<pc>.</pc>
                   </def>
-                  <xr>Voyez Falcidie, &amp; Treeellianique</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Falcidie, &amp; Treeellianique</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="4">
                   <form>
                      <orth>Quartemayor</orth>
@@ -8496,9 +8508,12 @@
                   <pc>,</pc>
                   <def>se dit d'une maniere de se mettre en garde, d'allonger, ou de porter les bottes. Porter de tierce en quarte<pc>.</pc>
                   </def>
-                  <xr>Voyez Gande</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Gande</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="8">
                   <def>On appelle aussi en Blason quarte-feuills, une fleur qui a quatre feuilles. On appelle quelquefois quarte-feuille double, celle qui a huit feuilles<pc>.</pc>
                   </def>
@@ -9490,9 +9505,12 @@
                   <pc>,</pc>
                   <def>se dit en cette phrase : Une querelle d'inofficiosité : c'est quand on se plaint d'un testament par lequel on a été desherité sans sujet<pc>.</pc>
                   </def>
-                  <xr>Voyez Inorriciosité</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Inorriciosité</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="4">
                   <def>On dit proverbialement, Faire une querelle d'Allemand à quelcun ; pour dire, l'attaquer sans sujet &amp; de gayeté de coeur, pour rien, ou pour une bagatelle<pc>.</pc>
                   </def>
@@ -9942,9 +9960,12 @@
                <sense n="3">
                   <def>Queue de cheval, est chez les Tartares &amp; Chinois l'enseigne ou drapeau seus lequel ils vont à la guerre. Chez les Turcs, c'est un signal de bataille, quand il est sur la tente d'un General. C'est l'étendart qu'on porte devant le Grand Visir, devant les Bachas &amp; les Sangiacs<pc>.</pc>
                   </def>
-                  <xr>Voyez au mot Toug</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>au mot Toug</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="4">
                   <def>on appelle un cheval queie de rat, quand il a la queue degarnie de poil. On croit que les noeuds de la queie servent à connoître la sixiéme &amp; la septiéme année du cheval, parcequ'alors les noeuds se relâchent<pc>.</pc>
                   </def>
@@ -9965,8 +9986,11 @@
                   <pc>,</pc>
                   <def>est une plante qu'on appelle autrement prele, en Latin equisetum<pc>.</pc>
                   </def>
-                  <xr>Voyez Prele</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Prele</ref>
+                     <pc>.</pc>
+                  </xr>
                   <pc>.</pc>
                   <def>Plante qui pousse une tige à la hauteur d'environ deux pieds, rameuse, cannelée. Ses feuilles sont plus grandes que celles du fenouil, divisées en trois parties, dont chacune se subdivise en trois autres semblables aux feuilles du chiendent ; car elles sont étroites, longues &amp; plates. Au plus haut des tiges croissent des ombelles fort larges, garnies de petites fleurs jaunes, à cinq feuilles dis osées en rose. Ces fleurs sont suivies de fruits composez chacun de deux semences presque ovales, rayées sur le dos, avec les bords aiguisez en feuillet, d'un goût âcre &amp; un peu amer. Sa racine est grosse, longue, noire par dehors, verdâtre par dedans, rendant, lorsqu'on y fait des incisions, un suc jaune d'une odeur de poix. En Latin peucedanum majus Italicum. C. Bauh. La racine de la quele de pourceau, &amp; son suc sont propres pour l'asthme, pour la toux, pour la retention d'urine, pour provoquer les mois aux femmes<pc>.</pc>
                   </def>
@@ -10286,10 +10310,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Herbe fort nuisible qui se trouve dans l'Ile de Snint Jean Portoric. Ses feuilles sont piquintes ; &amp; sa fleur ressemble à la violette, mais elle est un peu plus longue. Cette herbe fait mourir incons tinent les bêtes sauvages qui en mangent<pc>.</pc>
                   </def>
@@ -10382,10 +10405,9 @@
                      <pos>s.</pos>
                      <gen>m.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Sont les disciples de Molinos, ou les defenseurs des sentimens marquez dans l'article precedent. On accuse les Quietistes de divers crimes, &amp; particulierement les Directeurs d'abuser de leurs penitentes dans les confessionnaux. On leur attribue aussi les consequences qu'on tire de leurs principes, &amp; qu'on outre d'une maniere violente. Leur nombre est considerable en Italie<pc>.</pc>
                   </def>
@@ -10460,10 +10482,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Morceau de bois qu'on éleve à plomb, qui sert à joüer. On en arrange neuf en quarré pour les abattre de loin avec une boule. C'est un bon joüeur de quilles, il en abat neuf tout-d'un-cup<pc>.</pc>
                   </def>
@@ -10540,8 +10561,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>neut</subc>
                   </gramGrp>
                </form>
@@ -10583,10 +10603,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#fourbisseur">Terme de Fourbisseur</usg>
                   <pc>.</pc>
@@ -10716,10 +10735,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Animal de l'Amerique, qui approche du chat, qui a le poil rouge &amp; brun, &amp; la queuëe si longue, que la relevant, il en fait deux ou trois tours sur son dos. Il a de fortes grifes, &amp; monte sur les arbres, &amp; se couchant tout de son long sur une branche, il attend que quelque orignac passe pour se jetter sur lui. Quand l'orignac sent le quincajou sur son dos, il court vite se jetter dans l'eau, &amp; aussi-tôt le quincajou qui hait cet élement, quitte prise &amp; saute à terre. Denis Hist. de l'Amer<pc>.</pc>
                   </def>
@@ -10968,10 +10986,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Poids de cent livres de Paris. Il y a bien des lieux ou on vend le bois, le foin au quintal. Les Marchands en gros vendent &amp; estiment leurs marchandises au quintal. Le quintal de sucre, de poivre, vaut tant. Chaque livre de quintal sur la mer n'est que de 15. onces. Le quintal est differend selon les lieux. Leur difference avec toutes leurs proportions est curieusement expliquée par Casimir Polonois en sa Pyrotechnie<pc>.</pc>
                   </def>
@@ -11010,9 +11027,12 @@
                   <pc>,</pc>
                   <def>est une cinquiéme garde qui se fait, quand l'épée fait la revolution du cercie. Et ainsi on dit, Agir de prime en quinte, quand on commence de prime, &amp; qu'on acheve en quinte<pc>.</pc>
                   </def>
-                  <xr>Voyez Garde</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Garde</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="5">
                   <form>
                      <orth>Quinte</orth>
@@ -11094,7 +11114,6 @@
                   <usg type="domain" ana="#mer">Terme de Mer</usg>
                   <pc>.</pc>
                   <xr>Voyez l'Est</xr>
-                  <pc>,</pc>
                   <def>c'est la même chose<pc>.</pc>
                   </def>
                </sense>
@@ -11320,8 +11339,11 @@
                <sense>
                   <def>Espece de marcasite de cuivre dont on tire le vitriol Romain. On l'appelle autrement Pyrites<pc>.</pc>
                   </def>
-                  <xr>Voyez Pyrites</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Pyrites</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="quittance">
@@ -11386,10 +11408,9 @@
                      <pos>adj.</pos>
                      <gen>m.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Celui qui ne doit rien. On n'est jamais quitte de ce qu'on doit à Dieu. Bienheureux celui qui est quite, a qui on ne peut rien demander. On est quitte en payant ce qu'on doit. Demeurer quitte envers ses creanciers. Le Mait<pc>.</pc>
                   </def>
@@ -11627,9 +11648,12 @@
                   <pc>,</pc>
                   <def>se dit d'une fievre dont l'accés prend tous les jours<pc>.</pc>
                   </def>
-                  <xr>Voyez Fievre</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fievre</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="3">
                   <def>On dit proverbialement d'une chose qui nous est familiere, que nous faisons, ou que nous voyons tous les jours, que c'est nôtre pain quotidien<pc>.</pc>
                   </def>
@@ -11643,10 +11667,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#arithmetique">Terme d'Arithmetique</usg>
                   <pc>.</pc>
@@ -11679,8 +11702,11 @@
                   </gramGrp>
                </form>
                <sense>
-                  <xr>Voyez Cotte, Cottisee, Cottisation</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Cotte, Cottisee, Cottisation</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="quoy">

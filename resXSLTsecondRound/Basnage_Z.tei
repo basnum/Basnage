@@ -7229,10 +7229,8 @@
                   </form>
                </form>
                <gramGrp>
-                  <pos>Subst</pos>
-                  <pc>.</pc>
-                  <gen>masc</gen>
-                  <pc>.</pc>
+                  <pos>Subst.</pos>
+                  <gen>masc.</gen>
                </gramGrp>
                <sense n="1">
                   <def>
@@ -7259,10 +7257,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Plante qui pousse des tiges à la hauteur d'environ un pied &amp; demi, grêles, rameuses. Ses feuilles sont semblables à celles de la chicorée sauvage, éparses à terre. Ses fleurs naissent aux sommets des branches par bouquets à demi fleurons jaunes, soutenus par un calice composé de quelques feuilles en écailles. Lorsque la fleur est passée, le calice prend la forme d'une rosette relevée en côte de melon : chaque côte est une capsule qui renferme une semence garnie d'une aigrette. Sa racine est longue, garnie de beaucoup de fibres. En Latin zacintha, sive cichorium verrucarium. Matth. P. Tournefort. Cette plante est excellente pour emporter les verruës, soit qu'on mange ses feuilles en salade, ou qu'on frotte les verruës de leur suc. Elle tire son nom de zacinthus qui est une Ile de l'Archipel, appellée le Zante, dans laquelle, à ce que l'on dit, cette herbe vient en abondance<pc>.</pc>
                   </def>
@@ -7282,8 +7279,11 @@
                <sense>
                   <def>Espece de mineral<pc>.</pc>
                   </def>
-                  <xr>Voyez Sare</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Sare</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -7298,10 +7298,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Arme dont se servent les Mores, qui est une espece de javelot qu'ils lancent avec grande adresse à cheval<pc>.</pc>
                   </def>
@@ -7319,17 +7318,19 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#relations">Terme de Relations</usg>
                   <pc>.</pc>
                   <def>Fonds destiné à la subsistance d'un cavalier de la milice Turque. Un zaim doit être de 20. mille àpres, ou de 1700. livres monnoye de France, de revenu : autrement on l'appelle timar<pc>.</pc>
                   </def>
-                  <xr>Voyez Timar</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Timar</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>On appelle ziamet celui qui jouït d'un zaim<pc>.</pc>
                   </def>
                </sense>
@@ -7348,8 +7349,11 @@
                <sense>
                   <def>Espece de mineral<pc>.</pc>
                   </def>
-                  <xr>Voyez Zinex</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Zinex</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="zain">
@@ -7381,10 +7385,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Espece de Bouffon qui est particulierement en vogue en Italie<pc>.</pc>
                   </def>
@@ -7415,10 +7418,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Sorte de fruit qui vlent dans la Nouvelle Espagne à un grand arbre appellé cochitzapotl. Cet arbre a ses feuilles semblables à celles de l'oranger, jointes trois-à-trois par intervalles. Ses fleurs sont petites &amp; jaunes ; &amp; son fruit est de la forme d'une pomme de coing, &amp; de la même grosseur. Les Espagnols l'appellent zapote blanco. Il est bon à manger, &amp; d'un bon goût, mais il n'est pas sain. Son noyau est un venin mortel<pc>.</pc>
                   </def>
@@ -7436,10 +7438,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Racine qu'on nous apporte de la Nouvelle Espagne. Voyez Sai.separeille.</def>
                   <pc>.</pc>
@@ -7554,10 +7555,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#astronomie">Terme d'Astronomie</usg>
                   <pc>.</pc>
@@ -7582,10 +7582,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Vent qui souffe du point cardinal de l'horizon du côté d'Occident. On l'appelle sur la Mediterranée vent de Ponent ou du Couchant ; sur l'Ocean le vent d'Oüest. On l'appelle aussi Favonius, &amp; quelques-uns le confondent avec Africus, qui soufle de l'Occident d'hiver, à cause de son voisinage. Il est contraire aux Chasseurs, parce qu'il souffle près de terre, &amp; qu'il est humide, &amp; ainhi il emporte l'odeur du gibier<pc>.</pc>
                   </def>
@@ -7627,10 +7626,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Caractere d'Arithmetique formé comme un o, qui ne vaut rien tout seul ; mais qui augmente la valeur du nombre qui le precede d'autant de dixaines qu'il renfermoit auparavant d'unitez. Dans les Tables Astronomiques on voit que l'élevation du pole d'un tel lieu est de 45. degrez, zero minures &amp; 35. secondes. Pour écrire deux cents mille, il faut mettre un deux suivi de cinq zero<pc>.</pc>
                   </def>
@@ -7660,8 +7658,11 @@
                   </gramGrp>
                </form>
                <sense>
-                  <xr>Voyez ledoaire</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>ledoaire</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>C'est la même chose<pc>.</pc>
                   </def>
                </sense>
@@ -7678,10 +7679,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Pellicule dure qui est au milieu de la noix, qui est entre ses quatre cuisses. Quelques Medecins assurent que le zest seché &amp; bu avec du vin blanc environ demi-once guerit la gravelle<pc>.</pc>
                   </def>
@@ -7752,10 +7752,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Grand arbre des Indes Orientales, dont il y a des forêts entieres dans la Province de Nicaraqua. Leur tronc devient quelquefois si gros que quinze hommes en se tenant par la main, ne le pourroient embrasser<pc>.</pc>
                   </def>
@@ -7802,9 +7801,8 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
-                  <pc>.</pc>
                   <form type="variant">
                      <orth>L'Academie dit ZICZAC</orth>
                   </form>
@@ -7831,10 +7829,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Espece de mineral ressemblant au bismuth, mais moins cassant, &amp; s'étendant un peu sous le marteau. On en trouve quantité dans les mines de Gosselar en Sae. Il doit être dur, difficile à casser, blanc, en belles écailles larges, luisantes. Le zinek est employé dans les soudures ; on en mêle aussi dans le cuivre avec du curcuma pour donner à ce metal une couleur d'or. Les Etaimiers s'en servent pour decrasser &amp; blanchir l'étain, comme on se sert du plomb pour purifier l'or &amp; l'argent. Ceux qui croyent que le zinch qu'on met dans l'etain soit pour en augmenter le poids, sont dans l'erreur ; puisque sur une fonte de cinq ou six cens livres d'étain on met à peine une livre de zinck. On dit aussi zin &amp; zain. Quelques-uns l'ont appellé antimoine femelle<pc>.</pc>
                   </def>
@@ -7892,9 +7889,12 @@
                   </def>
                   <etym>Il vient du Grec zizanion, yvroye</etym>
                   <pc>.</pc>
-                  <xr>Voyez Yvroie</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Yvroie</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <form>
                      <orth>Zizanie</orth>
@@ -7918,8 +7918,11 @@
                <sense>
                   <def>Arbre qui porte les jujubes<pc>.</pc>
                   </def>
-                  <xr>Voyez Juyunier</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Juyunier</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -7934,10 +7937,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Espece de petit piedestal, ou membre quarré qui sert à poser un buste, une statuë, ou autre chose semblable, à laquelle on veut donner quelque élevation<pc>.</pc>
                   </def>
@@ -7965,18 +7967,20 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#astronomie">Terme d'Astronomie</usg>
                   <pc>.</pc>
                   <def>C'est un des six grandes cercles de la sphere, dans lequel le soleil &amp; les autres Planetes se meuvent. Il est divisé en douze Signes ou Constellations. Le soleil parcourt le Zodiaque en 365. jours &amp; près do six heures ; la lune en 2. jours ; aturne en 30. ans. On donne au Zodiaque une largeur de seize ou même de 18. degrez, ensorte qu'on le represcnte comme une large ceinture. Dans le milieu est un cercle qu'on appelle l'écliptique que le solcil parcourt constamment &amp; duquel il ne s'écarte point. Cest dans ce cercle que se font les éclipses du soleil, ou de la lune. On donne au Zodiaque une largeur de 16, ou 18. degrez, parce que c'est dans cette largeur que se termine la route des autres Planetes, qui ne s'éloignent jamais de plus que de huit degrez de l'écliptique de part ou d'autre. Le Zodiaque en couppant l'Equateur forme un angle de 23. degrez &amp; demi t c'est ce qu'on appellc l'obliquité das Zodiaque, &amp; la plus grande declinaison du soleil. Le point du odiaque qui se leve avec le soleil se nomme horescope ; celui qui repond à la partie superieure du Meridien est appellé point culminant, &amp; celul qui repond à la partie inferieure s'appelle fend du ciel. Les deux points solstitiaux de l'écliptique, avec les deux points équinoxiaux sont appellez peints Cardinaux de l'ecliptique, parcequ'ils determinent le commencement des quatre saisons de l'année. Au reste les douze signes du Zodiaque ont été ainsi appellez, parce qu'au temps des anciens Astronomes ils repondoient à des constellations qui par la disposition de leurs étoiles representent à-peu-près les figures des noms qu'on leur a donnez. Mais à present ces constellations n'y repondent plus t elles ont retrogradé vers l'Orient de plus de 28. degrez par le mouvement propre des étoiles fixes d'Occident en Orient : ensorte que le soleil qui du temps d'Hipparque entroit au printemps dans le premier degré d'Aries, ou du Belier, se trouve à l'Equinoxe au 29. degré &amp; demi de ce signe, &amp; tout proche du premier degré du Taureau. Voyez Precession. Ainsi quand on dit que le soleil est dans un signe, cela ne se doit pas entendre des signes, ou des constellations du firmament ; c'est-à-dire, des étoiles fixes ; mais bien d'une douziéme partie du Zodiaque du premier mobile, qu'on appelle dodecatemories, pour les distinguer des 12. signes du firmament. Ce Zodiaqur du premier mobile se nomme Eodiaque rationel, pour le distinguer du Zodiaque du firmament qui a été appellé zodiaque visible, ou Zdiaque senfible, parceque l'on y voit les 12. constellations, ou signes celestes qui le composent. Quand dont on dit, qu'une planete est dans un tel signe, cela veut dire que la ligne droite tirée de la terre par le centire de la planete, rencontre dans le srmament une partie de ce signe<pc>.</pc>
                   </def>
-                  <xr>Voyez Oz anam</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Oz anam</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <etym>
                   <lbl>Ce mot vient du</lbl>
                   <lang>Grec</lang>
@@ -8048,10 +8052,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#architecture">Terme d'Architecture</usg>
                   <pc>.</pc>
@@ -8067,10 +8070,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Corps naturel qui tient de l'animal, &amp; de la plante. Les éponges sont des zoophytes. Olearius en son troisiéme livre met au rang des zoophytes une plante qui croît auprès de Samara sur le ZOO. ZOP. ZUNZYB. ZYM<pc>.</pc>
                   </def>
@@ -8111,10 +8113,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>C'est un goudron ou espece de poix noire qu'on detache des navires après qu'ils ont été long temps en voyage sur la mer. Cette poix a été peu-à-peu penetrée par le sel de la mer qui lui a communiqué sa qualité. Le zopissa est resolutif &amp; dessicatif, appliqué exterieurement<pc>.</pc>
                   </def>
@@ -8179,15 +8180,17 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#anatomie">Terme d'Anatomie</usg>
                   <pc>.</pc>
-                  <xr>Voyez Jugal</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Jugal</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>

@@ -7231,8 +7231,7 @@
                </form>
                <gramGrp>
                   <pos>subst.</pos>
-                  <gen>masc</gen>
-                  <pc>.</pc>
+                  <gen>masc.</gen>
                </gramGrp>
                <sense n="1">
                   <def>Lettre consone &amp; double, dixiéme de l'Alphabet;</def> sa prononciation est Ka. Cette lettre est empruntée des Grecs, c'étoit le kappa. Elle étoit peu en usage chez les Latins : ils ne l'employent gueres que pour marquer les Calendes, &amp; ils les marquoient par un K seulement. Le C tenoit lieu du K. Il a éte jugé inutile &amp; superflu par Priscien, liv. premier. Claude Dausquius dit après Saluste, que l'inventeur du K fut un nommé Salvius, &amp; qu'il a été inconnu aux anciens Romains. On ne s'en sert plus dans la langue Françoise qu'en quelques termes d'Art, &amp; quelques noms pris des langues etrangeres. Ablancourt dans son dialogue des lettres fait dire au K, qu'on a souvent mis en deliberation de le chasser de la langue Françoise, &amp; de le releguer dans les païs du Nord</sense>
@@ -7298,8 +7297,11 @@
                <sense>
                   <def>Plante qu'on appelle autrement soude, des cendres de laquelle on fait le verre, &amp; de sa lescive le sel alkali<pc>.</pc>
                   </def>
-                  <xr>Voyez Soude</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Soude</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -7340,8 +7342,11 @@
                <sense>
                   <def>Est un nom que les Droguistes donnent à l'ambre jaune, qui est tiré du mot karabe, qui selon Avicenne, signifie tire-paille en langue Persique. Dioscoride a cru que c'étoit la resine du peuplier ; mais il s'est trompé<pc>.</pc>
                   </def>
-                  <xr>Voyez Ambre Jaune</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Ambre Jaune</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="karaouta">
@@ -7363,8 +7368,11 @@
                <sense>
                   <def>Plante qui croit aux Indes Occidentales, &amp; qu'on appelle autrement Karata ; ou Caraguata acanga<pc>.</pc>
                   </def>
-                  <xr>Voyez Karata</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Karata</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="karata">
@@ -7427,8 +7435,11 @@
                <sense>
                   <def>Plante, qu'on appelle autrement Ricin, ou grande catapuce<pc>.</pc>
                   </def>
-                  <xr>Voyez Ricin</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Ricin</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>

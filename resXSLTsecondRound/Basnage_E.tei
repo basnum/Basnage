@@ -6808,10 +6808,8 @@
                      <orth>E</orth>
                   </form>
                   <gramGrp>
-                     <pos>Subst</pos>
-                     <pc>.</pc>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <pos>Subst.</pos>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
                <sense>
@@ -6959,8 +6957,11 @@
                      couume de faire serment en metant la main sur les reliques des Saints, dont on abusoit ; &amp;
                      qu'elle fut deffenduë par Innocent III. au Concile de Latran<pc>.</pc>
                   </def>
-                  <xr>Voyez Preuve</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Preuve</ref>
+                     <pc>.</pc>
+                  </xr>
                   <pc>.</pc>
                   <def>Clair, qui guerit du mal des yeux ; Eau de Sainte Genevieve, qui guerit de la fievre. Chez les
                      Payens on appelloit eau lustrale, une eau qu'ils preparoient avec plusieurs ceremonies à leur
@@ -7105,8 +7106,11 @@
                      <orth>EauxCordiales</orth>
                   </form>
                   <pc>.</pc>
-                  <xr>Voyez Eaux cardiaques</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Eaux cardiaques</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>C'est la même chose<pc>.</pc>
                   </def>
                </sense>
@@ -7527,7 +7531,7 @@
          <div>
             <head>EBL<pc>.</pc>
             </head>
-            <entry xml:id="eblouir, eblouissement">
+            <entry xml:id="eblouir">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>EBLOUIR, EBLOUISSEMENT</orth>
@@ -7537,7 +7541,7 @@
                <pc>.</pc>
                <xr>
                   <lbl>Voyez</lbl>
-                  <ref target="#esdlouir">Esdlouir</ref>
+                  <ref target="#esblouir">Esblouir</ref>
                   <pc>,</pc>
                   <ref target="#esblouissement">Esblouissement</ref>
                   <pc>.</pc>
@@ -7547,7 +7551,7 @@
          <div>
             <head>EBO<pc>.</pc>
             </head>
-            <entry xml:id="eborgnner, ebouffer, ebouillir, eboulement, ebouler, eboulis, ebourgeonnement, ebourgeonner">
+            <entry xml:id="eborgnner">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>EBORGNNEr, EBOUFFER, EBOUILLIR, EBOUlEMENT, EBOULER, EBOUlIS, EBOURGEONNEMENT,
@@ -7565,8 +7569,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -7583,7 +7586,7 @@
          <div>
             <head>EBR<pc>.</pc>
             </head>
-            <entry xml:id="ebranchement, ebrancher, ebranlement, ebranler, ebrecher, ebrener">
+            <entry xml:id="ebranchement">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>EBRANCHEMENT, EBRANCHER, EBRANLEMENT, EBRANLER, EBRECHER, EBRENER</orth>
@@ -7692,8 +7695,11 @@
                      <orth>ECAChEUR, ECaFer</orth>
                   </form>
                   <pc>.</pc>
-                  <xr>Voyez Escacher, &amp;c</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Escacher, &amp;c</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="ecaille">
@@ -7947,8 +7953,11 @@
                <sense>
                   <def>ECaRLatE, ECaRQUiIlLLER, ECart, EcartEler, ECARTER<pc>.</pc>
                   </def>
-                  <xr>Voyez Escale, Escaler, &amp;c</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Escale, Escaler, &amp;c</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -8264,13 +8273,16 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="">
+            <entry xml:id="ecervelé">
                <form>
                   <orth>ECERVELÉ</orth>
                </form>
                <pc>.</pc>
-               <xr>Voyez Escervelé</xr>
-               <pc>.</pc>
+               <xr>
+                  <lbl>Voyez</lbl>
+                  <ref>Escervelé</ref>
+                  <pc>.</pc>
+               </xr>
             </entry>
          </div>
          <div>
@@ -8300,8 +8312,11 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <xr>Voyez Eschafauder, Eschafaut, &amp;c</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Eschafauder, Eschafaut, &amp;c</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="echampir">
@@ -8316,8 +8331,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -8570,8 +8584,11 @@
                      <orth>Eclair, Eclaircir, eclairer. &amp;c</orth>
                   </form>
                   <pc>.</pc>
-                  <xr>Voyez Esclair, Esclaircir, &amp;c</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Esclair, Esclaircir, &amp;c</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="eclat">
@@ -8965,8 +8982,11 @@
                   <pc>,</pc>
                   <def>ou il signifie la même chose. Ecot<pc>.</pc>
                   </def>
-                  <xr>Voyez Escot</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Escot</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="ecotard">
@@ -9407,9 +9427,12 @@
                      furent commis pour prendre soin des blez. Ils furent aussi tirez de l'ordre des Patriciens. Dans
                      les villes municipales il y avoit aussi des Ediles avec la même autorité que ceux de Rome<pc>.</pc>
                   </def>
-                  <xr>Voyez Danet</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Danet</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <etym>
                   <lbl>Ce mot vient de</lbl>
                   <foreign>ades</foreign>
@@ -10446,10 +10469,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>m.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Ordures qui se trouvent au fond du vaisseau où il y a eu de l'eau trouble qui s'est reposée.
                      Cette eau n'est pas nette, vous m'en aven versé les effondrillas<pc>.</pc>
@@ -10593,8 +10615,11 @@
                   <def>qui signifie fresaye ou Dame barbejan, espece d'oiseau de nuit de mauvais augure. En Latin
                         strix<pc>.</pc>
                   </def>
-                  <xr>Voyez Fresaye</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fresaye</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="effrayer">
@@ -11545,8 +11570,11 @@
                      <orth>EGosIlLleR, EGout, &amp;c</orth>
                   </form>
                   <pc>.</pc>
-                  <xr>Voyez Esgorger, &amp;c</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Esgorger, &amp;c</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -12702,8 +12730,11 @@
                <sense>
                   <def>Linge qu'on met dans le lit sous les malades pour s'en servir dans leurs besoins<pc>.</pc>
                   </def>
-                  <xr>Voyez Alese</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Alese</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="eleu">
@@ -15544,8 +15575,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -15572,8 +15602,11 @@
                <sense>
                   <def>Espece de petits entraits dans la charpente des couverts. Pomei<pc>.</pc>
                   </def>
-                  <xr>Voyez Embruncher</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Embruncher</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="embraquer">
@@ -16283,8 +16316,11 @@
                   <def>On dit qu'un tableau est embu, quand l'huile étant entrée dans la toile, laisse les couleurs
                         mates<pc>.</pc>
                   </def>
-                  <xr>Voyez Emboire</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Emboire</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="embuscade">
@@ -16394,8 +16430,11 @@
                   <pc>,</pc>
                   <def>au lieu duquel on dit maintenant amende<pc>.</pc>
                   </def>
-                  <xr>Voyez Amende</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Amende</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="emeraude">
@@ -16830,10 +16869,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#blason">Terme de Blason</usg>
                   <pc>,</pc>
@@ -17100,8 +17138,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -17947,8 +17984,11 @@
                   <pc>.</pc>
                   <def>Aflerons de plumes que l'on met aux côtez d'une fleche, pour la faire aller droit<pc>.</pc>
                   </def>
-                  <xr>Voyez Emphennté</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Emphennté</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="empenné">
@@ -18075,8 +18115,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -18252,8 +18291,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -18379,8 +18417,11 @@
                <sense>
                   <usg type="domain" ana="#pharmatie">Terme de Pharmatie</usg>
                   <pc>.</pc>
-                  <xr>Voyez Emplastique</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Emplastique</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>C'est la même chose<pc>.</pc>
                   </def>
                </sense>
@@ -18412,8 +18453,11 @@
                      transfere que le domaine utile, &amp; non pas la propriété. L'emphyteose étoit d'abord temporelle
                      chez les Romains, &amp; ensuite elle fut perpetuelle<pc>.</pc>
                   </def>
-                  <xr>Voyez Oyseau</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Oyseau</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Les emphytanses sont des baux au dessus de dix ans jusqu'à 99. ans. Les emphyteoses sont des
                      especes d'alienations, &amp; doivent des profits de fief<pc>.</pc>
                   </def>
@@ -18812,8 +18856,11 @@
                <sense>
                   <usg type="domain" ana="#medecine">Terme de Medecine</usg>
                   <pc>.</pc>
-                  <xr>Voyez EnPyreume</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>EnPyreume</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="empirique">
@@ -19433,8 +19480,11 @@
                   <def>Enduire de poix. Il faut empoisser les cordages &amp; les navires pour les conserver dans l'eau.
                      Poisser est plus en usage<pc>.</pc>
                   </def>
-                  <xr>Voyez Poisser</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Poisser</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="empoissonnement">
@@ -20237,7 +20287,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#medecine#chymie">Terme de Medecine &amp; de Chymie</usg>
+                  <usg type="domain" ana="#medecine #chymie">Terme de Medecine &amp; de Chymie</usg>
                   <pc>.</pc>
                   <def>Qualité qui demeure aux corps qui ont été preparez avec le feu, qui se connoît au goût, à
                      l'odorat. Ou c'est la chaleur étrangere que le feu imprime, &amp; qui demeure sur la partie
@@ -20557,8 +20607,11 @@
                <sense>
                   <usg type="domain" ana="#medecine">Terme de Medecine</usg>
                   <pc>.</pc>
-                  <xr>Voyez Diarthrose</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Diarthrose</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -21595,8 +21648,11 @@
                      de traitter cette affaire d'une telle façon, de mettre une telle clause dans ce contrat. Il est
                      tout-à-fait bas<pc>.</pc>
                   </def>
-                  <xr>Voyez Charger</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Charger</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="enchasser">
@@ -21928,8 +21984,11 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <xr>Voyez Achois, ou Anchoie</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Achois, ou Anchoie</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="enciclopedie">
@@ -22876,8 +22935,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -23176,7 +23234,7 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#tanneur#blanchisseur">Terme de Tanneur &amp; de Blanchisseur</usg>
+                  <usg type="domain" ana="#tanneur #blanchisseur">Terme de Tanneur &amp; de Blanchisseur</usg>
                   <pc>.</pc>
                   <def>Mettre dans la cuve, ranger dans le cuvier. Entuver les veaux. Encuver le linge de la
                         lessive<pc>.</pc>
@@ -23241,7 +23299,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="en dedans">
+            <entry xml:id="en_dedans">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>EN DEDANS</orth>
@@ -23254,11 +23312,14 @@
                <sense>
                   <def>Tournez le poignet en dedans. Mol<pc>.</pc>
                   </def>
-                  <xr>Voyez Dedans</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Dedans</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
-            <entry xml:id="en dehors">
+            <entry xml:id="en_dehors">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>EN DEHORS</orth>
@@ -23271,8 +23332,11 @@
                <sense>
                   <def>Tournez la pointe du pied en dehors<pc>.</pc>
                   </def>
-                  <xr>Voyez Dehors</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Dehors</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="endementiers">
@@ -23302,8 +23366,11 @@
                </form>
                <usg type="domain" ana="#blason">Terme de Blason</usg>
                <pc>.</pc>
-               <xr>Voyez Denché &amp; Denté</xr>
-               <pc>.</pc>
+               <xr>
+                  <lbl>Voyez</lbl>
+                  <ref>Denché &amp; Denté</ref>
+                  <pc>.</pc>
+               </xr>
             </entry>
             <entry xml:id="endenter">
                <form type="lemmaGrp">
@@ -23341,8 +23408,11 @@
                <sense>
                   <def>Sorte de preposition qui regit le genitif<pc>.</pc>
                   </def>
-                  <xr>Voyez Depit</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Depit</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>En depit des pluyes &amp; de l'hiver. Voit. De mes yeux languissans un éloquent filence En depit
                      de moi-même explique ma souffrance. La Suze<pc>.</pc>
                   </def>
@@ -25358,7 +25428,7 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#bonnetier#chapclier">Terme de Bonnetier, &amp; de Chapclier</usg>
+                  <usg type="domain" ana="#bonnetier #chapclier">Terme de Bonnetier, &amp; de Chapclier</usg>
                   <pc>.</pc>
                   <def>Mettre un bas dans la forme, mettre un chapeau sur la forme. Enformer un bas, enformer un
                         chapeau<pc>.</pc>
@@ -25974,8 +26044,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -26761,7 +26830,7 @@
                   </gramGrp>
                </form>
                <sense n="1">
-                  <usg type="domain" ana="#jardinier#laboureur">Terme de Jardinier &amp; de Laboureur</usg>
+                  <usg type="domain" ana="#jardinier #laboureur">Terme de Jardinier &amp; de Laboureur</usg>
                   <pc>.</pc>
                   <def>L'action d'engraisser ; tout ce qui peut reudre un fonds plus gras &amp; plus fertile. Mettre de
                      l'engraissrens aux terres. Cult. de la Tul. Il ne faut que de legers engraissemens. Quint<pc>.</pc>
@@ -27184,15 +27253,13 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
                <pc>.</pc>
                <sense n="1">
                   <xr>Voyez Harnacher</xr>
-                  <pc>,</pc>
                   <def>c'est la même chose. L'h de l'un &amp; de l'autre s'aspire<pc>.</pc>
                   </def>
                </sense>
@@ -27579,8 +27646,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -28011,7 +28077,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="enleveurs de quartiers">
+            <entry xml:id="enleveurs_de_quartiers">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>ENLEVEURS DE QUARTIERS</orth>
@@ -29333,8 +29399,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -30798,9 +30863,12 @@
                <sense n="3">
                   <def>On appelle aussi le manche d'un pinceau, ente ; mais il faut écrire hante<pc>.</pc>
                   </def>
-                  <xr>Voyez Hampe</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Hampe</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="4">
                   <def>Ente de moulin, se dit e la partie du volant où est entée une autre piece de bois pour lui servir
                         d'allonge<pc>.</pc>
@@ -31472,8 +31540,11 @@
                   </gramGrp>
                </form>
                <sense>
-                  <xr>Voyez Ent ousiasme</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Ent ousiasme</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="enthymeme">
@@ -32125,7 +32196,7 @@
                <sense>
                   <xr>Voyez ce</xr>
                   <def>mot après la preposition entre ; aussi bien que plusieurs autres compolez de la même
-                        preposition<pc>.</pc>
+                        preposition
                   </def>
                </sense>
             </entry>
@@ -33418,8 +33489,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -34304,8 +34374,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -34669,9 +34738,12 @@
                      representent avec des yeux égarez, &amp; enfoncez ; &amp; un serpent qui lui ronge le
                         sein<pc>.</pc>
                   </def>
-                  <xr>Voyez Ovide Metam</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Ovide Metam</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="3">
                   <form>
                      <orth>Envie</orth>
@@ -34869,10 +34941,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>m.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Lieux circonvoisins ; qui sont alentour. Cette armée s'est postée dans tous les environs d'une
                      telle place pour la bloquer. Il se saisit des montagnes qui étoient aux environs. Ablan. On prenoit
@@ -35684,10 +35755,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>m.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#astronomie">Terme d'Astronomie</usg>
                   <pc>.</pc>
@@ -37386,8 +37456,11 @@
                <sense>
                   <usg type="domain" ana="#chasse">Terme de Chasse</usg>
                   <pc>.</pc>
-                  <xr>Voyez Espointer</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Espointer</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="epontilles">
@@ -37747,8 +37820,11 @@
                      bout de l'autre, &amp; qui sert à tracer ou à mesurer des angles droits. Quand ces regles sont
                      mobiles autour d'un clou, on l'appelle un fausse équerre<pc>.</pc>
                   </def>
-                  <xr>Voyez Esquerre</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Esquerre</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="equerve">
@@ -38526,9 +38602,12 @@
                      plus ancienne que celle de l'Ere Chretienne ou de nos ans de grace. On a dit aussi l'Ere de
                      Diocltien, l'Ere de Nabonassar &amp;c<pc>.</pc>
                   </def>
-                  <xr>Voyez Epoque</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Epoque</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <etym>
                   <lbl>Ce mot se trouve aussi employé dans de</lbl>
                   <gloss>vieux titres pour signifier item</gloss>
@@ -39054,8 +39133,11 @@
                   <def>C'est une épithete qu'on donne aux Planetes, qu'on appelle plus communément errames. Il y a aussi
                      une espece de fievre qu'on appelle erratique<pc>.</pc>
                   </def>
-                  <xr>Voyez Fievre</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fievre</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="erre">
@@ -39153,10 +39235,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <form>
                      <orth>Traces</orth>
@@ -39196,8 +39277,11 @@
                      du marché. Il a donné des erres au coche, &amp; cela par corruption du mot d'arres. Du Cange
                      temoigne que dans la basse Latinité on a dit erra pour arrha<pc>.</pc>
                   </def>
-                  <xr>Voyez Arehes</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Arehes</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="erreur">
@@ -39387,8 +39471,11 @@
                <sense>
                   <def>dans cette expression être à l'erte<pc>.</pc>
                   </def>
-                  <xr>Voyez Alerte</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Alerte</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -39438,8 +39525,11 @@
                <sense>
                   <def>Plante qu'on appelle aussi panicaut, chardon, roland, ou chardon à cent têtes<pc>.</pc>
                   </def>
-                  <xr>Voyez Panicaut</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Panicaut</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="erysimum">
@@ -39456,8 +39546,11 @@
                <sense>
                   <def>Plante qu'on appelle autrement velar, ou tortelle<pc>.</pc>
                   </def>
-                  <xr>Voyez Velar</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Velar</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -39901,8 +39994,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -40458,8 +40550,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -40823,8 +40914,11 @@
                      du grand escalier. Les rampes, les pailliers d'un escalier. Il faut, pour être beaux, que les
                      escaliers soient bien éclairez. Vitruve. Abr<pc>.</pc>
                   </def>
-                  <xr>Voyez Vignole</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Vignole</ref>
+                     <pc>.</pc>
+                  </xr>
                   <etym>Du Cange le derive de escalarium, qu'on a dit dans le même sens dans la basse Latinité</etym>
                </sense>
                <pc>.</pc>
@@ -41291,9 +41385,12 @@
                      l'appeile aussi cochenille, &amp; il y a une autre espece de cochenille qui est un petit ver gris
                      qu'on apporte des Indes : c'est celle dont on fait r'ecarlate de Hollande<pc>.</pc>
                   </def>
-                  <xr>Voyez Cochenille</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Cochenille</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <form>
                      <orth>Escarlaté</orth>
@@ -41322,8 +41419,11 @@
                <sense>
                   <usg type="domain" ana="#marine">Terme de Marine</usg>
                   <pc>.</pc>
-                  <xr>Voyez Carlingue, c'est la même chose</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Carlingue, c'est la même chose</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="escarmouche">
@@ -42460,8 +42560,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -42896,8 +42995,11 @@
                <sense>
                   <def>Espece de plante appellée autrement châtaigne d'eau<pc>.</pc>
                   </def>
-                  <xr>Voyez Chataigne d'eau</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Chataigne d'eau</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="escharde">
@@ -42989,8 +43091,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -43108,8 +43209,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -43373,8 +43473,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -43797,7 +43896,7 @@
                      <orth>Eschelle</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#architecture#geographie">en termes d'Architecture &amp; de Geographie</usg>
+                  <usg type="domain" ana="#architecture #geographie">en termes d'Architecture &amp; de Geographie</usg>
                   <pc>,</pc>
                   <def>se dit d'une ligne divisée en parties égales, qui sert de mesure commune à toutes les parties
                      d'un bâtiment, à la description des cartes topographiques. Pour sçavoir combien cet étage a de
@@ -44224,8 +44323,11 @@
                <sense>
                   <def>Main -morte. Avoir droit d'échûte. Il m'est venu une bonne échûte. Fomey<pc>.</pc>
                   </def>
-                  <xr>Voyez Main-morte</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Main-morte</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="eschif">
@@ -44840,8 +44942,11 @@
                <sense>
                   <def>Plante que l'on nomme aussi chelidoine. Il y a la grande &amp; la petite éelae<pc>.</pc>
                   </def>
-                  <xr>Voyez Chelidoine</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Chelidoine</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="esclairer">
@@ -45157,9 +45262,12 @@
                      qu'on eut bien de la peine à rompre, &amp; à dissiper ceux qui s'étoient soulevez. Barthole qui
                      vivoit en 1300. dit qu'il n'y en avoit plus de son temps<pc>.</pc>
                   </def>
-                  <xr>Voyez Bodin</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Bodin</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <form>
                      <orth>Esclave</orth>
@@ -46347,8 +46455,11 @@
                      toujours pleines d'écornifleurs. On les appelle aussi piqueurs d'escabelle. Les Anciens les
                      appelloient parasites, &amp; ils ont été de tout temps l'objet des satires<pc>.</pc>
                   </def>
-                  <xr>Voyez Parasite</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Parasite</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="escorte">
@@ -46753,8 +46864,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -46994,10 +47104,9 @@
                   <gramGrp>
                      <pos>s</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#marine">Terme de Marine</usg>
                   <pc>,</pc>
@@ -47027,14 +47136,17 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="">
-               <form type="lemmaGrp"/>
-               <form type="lemma">ESCOUVETTE</form>
-               <pc>,</pc>
-               <form>ou ECOuvEtTE, ou ECOUETTE</form>
-               <pc>.</pc>
-               <gramGrp>s. f</gramGrp>
-               <pc>.</pc>
+            <entry xml:id="escouvette">
+               <form type="lemmaGrp">
+                  <form type="lemma">ESCOUVETTE</form>
+                  <pc>,</pc>
+                  <form>ou ECOuvEtTE, ou ECOUETTE</form>
+                  <pc>.</pc>
+                  <gramGrp>
+                     <pos>s.</pos>
+                     <gen>f.</gen>
+                  </gramGrp>
+               </form>
                <def>Espece de balai dont se servent les ouvriers. Il est vieux. Ce mot vient de escouve diminutif de
                   scopa. On a appellé autrefois les Sorciers, Chevaucheurs d'écouvettes, c'est-à-dire, de manche à balai
                   ; parcequ'on foint que les Sorciers vont au sabat, un manche de balai entre les jambes. Non est, le
@@ -47236,10 +47348,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>qui se disoit aurrefois de ces maisons que les païsans creusent sous terre, &amp; couvrent de
                      fumier, où les filles vont faire la veillée, qui étoient autrefois en usage chez les Allemans,
@@ -47369,8 +47480,11 @@
                      nomme escru, qui leur est donnée avec grandes ceremonies &amp; appareil par les Rois de ces
                      nations. L'art de l'escrims se divise n deux parties, le jeu simple &amp; le jeu composé<pc>.</pc>
                   </def>
-                  <xr>Voyez Jeu</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Jeu</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Il y a des patentes accordées à la Compagnie des Maîtres en fait d'armes de la ville de Paris,
                      des Statuts, &amp; des Maîtres Gardes de cette profession. Les Maîtres ne sont reçus qu'à25. ans,
                      après avoir fait experience ou assaut contre les six derniers reçus en presence du Syndic, des
@@ -47650,8 +47764,11 @@
                      d'avoir connu l'imprimerie. Les Professeurs publics dictent à leurs écoliers des Ecrits de
                      Theologie, de Philosophie, de Droit, de Medecine. Droit Ecrit<pc>.</pc>
                   </def>
-                  <xr>Voyez Droit</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Droit</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="escriteau">
@@ -47989,10 +48106,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#medecine">Terme de Medecine</usg>
                   <pc>.</pc>
@@ -48383,10 +48499,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>m.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <usg type="domain" ana="#marine">Terme de Marine</usg>
                   <pc>.</pc>
@@ -48636,9 +48751,12 @@
                      plusieurs cavitez ; &amp; la cinquiéme est faite en façon de champignons, &amp; n'a aucune odeur.
                      L'escume d'argent, n'est autre chose que la litarge d'argent<pc>.</pc>
                   </def>
-                  <xr>Voyez Litarge</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Litarge</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="4">
                   <def>L'escume de plomb est une fumée que jette le plomb, quand on verse de l'eau froide dessus,
                      lorsqu'il est fondu &amp; encore chaud. On la recueille sur une platine de fer. Dioscoride dit
@@ -49033,9 +49151,12 @@
                   <def>est une maniere d'ente fort commune aux Jardiniers. On ne fait gueres que deux sortes d'entes, en
                      fente, &amp; en écusson<pc>.</pc>
                   </def>
-                  <xr>Voyez Escussonner</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Escussonner</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="3">
                   <form>
                      <orth>Escusson</orth>
@@ -49050,14 +49171,14 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="">
+            <entry xml:id="escussonner">
                <form type="lemmaGrp">
                   <form type="lemma">ESCUSSONNER</form>
                   <pc>.</pc>
-                  <form>v</form>
-                  <pc>.</pc>
-                  <gramGrp>act</gramGrp>
-                  <form>.</form>
+                  <gramGrp>
+                     <pos>v.</pos>
+                     <subc>act.</subc>
+                  </gramGrp>
                   <form>Eeter en écusson</form>
                </form>
                <pc>.</pc>
@@ -49294,10 +49415,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Proportion, rapport d'une chose avec une autre. La terre n'est qu'un point à l'égard du
                         ciel<pc>.</pc>
@@ -49492,8 +49612,11 @@
                      gratecu : on en fait une conserve qui est assez conue sous le nom de conserve de
                         cynorrhodon<pc>.</pc>
                   </def>
-                  <xr>Voyez Cynorrhodon</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Cynorrhodon</ref>
+                     <pc>.</pc>
+                  </xr>
                   <etym>En Latin rosa sylvestris, vulgaris, lore odorato, incarnats</etym>
                   <pc>.</pc>
                </sense>
@@ -50203,9 +50326,12 @@
                      discours de soupirs profonds, qu'il étoit aisé de distinguer des élans de devotion. Vill. Elans
                      affectez. Mol. De son amour chacun suit les élans. Bens. Eslan. s. m. Aimal sauvage<pc>.</pc>
                   </def>
-                  <xr>Voyez Ellend</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Ellend</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="3">
                   <def>EsLANCEMmENT, ou ELaNcemEnt. s. m. Mouvement du corps prompt &amp; impetueux. Les sauteurs font
                      de grands élancemens pour faire paroître leur agilité<pc>.</pc>
@@ -51177,8 +51303,11 @@
                      en été sur les chevaux, pour empêcher qu'ils ne soient tourmenez de mouches. Esmouchette. Espece
                      d'oiseau de proye<pc>.</pc>
                   </def>
-                  <xr>Voyez Mouchet</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Mouchet</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="esmouchoir">
@@ -51339,8 +51468,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <gen>ct</gen>
                   </gramGrp>
                </form>
@@ -52004,8 +52132,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -52268,8 +52395,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -52361,8 +52487,11 @@
                <sense>
                   <def>Espece de plante qu'on appelle aurrement matricaire<pc>.</pc>
                   </def>
-                  <xr>Voyez Matricaire</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Matricaire</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="esparmer">
@@ -53611,8 +53740,11 @@
                <sense n="2">
                   <def>On appelle aussi en Anatomie éperonnier, ou plutôt pevonier quelques muscles du pied<pc>.</pc>
                   </def>
-                  <xr>Voyez Peronier</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Peronier</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="espervier">
@@ -53791,8 +53923,11 @@
                      present aux Juges, quand ils avoient fait gagner un procés, &amp; cela par pure gratification.
                      Depuis ce present a été converti en taxe pecuniaire<pc>.</pc>
                   </def>
-                  <xr>Voyez Pasquier</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Pasquier</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>La liberalité volontaire de dragées, &amp; confitures fut tournée en necessité, &amp; changée en
                      argent. On en trouve le commencement dès l'an 1369. On voit sur le Regitre du Parlement, que le
                      Sire de Tournon par licence de la Cour bailla 20. francs d'or pour les épices. On demande encore le
@@ -53895,10 +54030,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Toutes sortes de drogues dont trafique un Epicier, &amp; sur tout de celles du Levant. Les
                      Hollandois se sont enrichis au trafic des épiceries. Il est des proverbes comme des épicaries :
@@ -54229,8 +54363,11 @@
                      &amp; ceux qui ont la colique. En Latin mespilus api folio, splvestris, spinosa, sive oxyacantha.
                      L'épine de bouc, est une plante qu'on appelle aussi Barherenard<pc>.</pc>
                   </def>
-                  <xr>Voyez Barbe-renard</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Barbe-renard</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>L'épine jaune, est une plante qui croît dans les lieux maritimes. Sa racine est grosse comme le
                      pouce, de couleur jaunâtre, pleine d'un suc blanc comme du lait, &amp; bonne à manger. Il sort de
                      cette racine beaucoup de tiges grosses comme le doigt, &amp; de la hauteur d'une coudee. Ses
@@ -54520,10 +54657,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>m.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#chasse">Terme de Chasse</usg>
                   <pc>.</pc>
@@ -54946,10 +55082,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Parties corrompuës ou sales qu'on retranche de ce qu'on épluche<pc>.</pc>
                   </def>
@@ -55013,8 +55148,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -55383,10 +55517,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Ceremonie qui se fait à l'Eglise pour la celebration d'un mariage. On invite les parens &amp;
                      amis d'assister aux épousailles<pc>.</pc>
@@ -55854,8 +55987,11 @@
                      s'appelloient le Jugement de Dieu. Par ex. l'epreuve du fer chaud, celle de l'eau bouillante, &amp;
                      celle de l'eau froide<pc>.</pc>
                   </def>
-                  <xr>Voyez Eau</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Eau</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Il n'y a point d'épreuve où je ne pûsse me soumettre sans crainte, s'il me plaisoit de vous
                      donner cette satisfaction. Let. Portug<pc>.</pc>
                   </def>
@@ -56269,8 +56405,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -56573,8 +56708,11 @@
                      une espece de titimale, qu'on appelle autrement petite catapuce, &amp; en Latin titimalus
                      latifolius cataputia dictus<pc>.</pc>
                   </def>
-                  <xr>Voyez Catafpuce</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Catafpuce</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>On disoit autrefois Epurgir pour purger<pc>.</pc>
                   </def>
                </sense>
@@ -56846,7 +56984,6 @@
                </form>
                <sense>
                   <xr>Voyez Squinancie</xr>
-                  <pc>,</pc>
                   <def>c'est la même chose<pc>.</pc>
                   </def>
                </sense>
@@ -57116,8 +57253,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -57169,8 +57305,11 @@
                <sense>
                   <def>C'est la même chose qu'Erener<pc>.</pc>
                   </def>
-                  <xr>Voyez Esrener</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Esrener</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="esrener">
@@ -57722,16 +57861,17 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="">
-               <form type="lemmaGrp"/>
-               <form type="lemma">ESSETTE</form>
-               <form>.</form>
-               <form>s. f</form>
-               <form>.</form>
-               <form>Outil de Tomelier, de Charres</form>
-               <pc>,</pc>
-               <def>&amp; d'autres Artisans travaillans en bois. C'est une espece de marteau qui a une tête ronde d'un
-                  côté, &amp; un large trenchant de l'autre<pc>.</pc>
+            <entry xml:id="essette">
+               <form type="lemma">
+                  <orth>ESSETTE</orth>
+                  <pc>.</pc>
+                  <gramGrp>
+                     <pos>s.</pos>
+                     <gen>f.</gen>
+                  </gramGrp>
+               </form>
+               <def>Outil de Tomelier, de Charres, &amp; d'autres Artisans travaillans en bois. C'est une espece de
+                  marteau qui a une tête ronde d'un côté, &amp; un large trenchant de l'autre<pc>.</pc>
                </def>
                <etym>
                   <lbl>Ce mot vient du</lbl>
@@ -58263,12 +58403,10 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
-                     <pc>.</pc>
-                     <number>plur</number>
+                     <gen>fem.</gen>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Diverses étables en un même corps de logis. Pomey. Il y a dans cette maison des etableries fort
                         commodes<pc>.</pc>
@@ -58543,8 +58681,11 @@
                <sense>
                   <usg type="domain" ana="#marine">Terme de Marine</usg>
                   <pc>.</pc>
-                  <xr>Voyez Itacle, c'est la mnême chose</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Itacle, c'est la mnême chose</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="estafete">
@@ -59043,7 +59184,6 @@
                   <usg type="domain" ana="#marine">Terme de Marine</usg>
                   <pc>.</pc>
                   <xr>Voyez Talinguer</xr>
-                  <pc>,</pc>
                   <def>c'est la même chose<pc>.</pc>
                   </def>
                </sense>
@@ -59445,8 +59585,11 @@
                   <pc>.</pc>
                   <usg type="domain" ana="#marechal">Terme de Marechal</usg>
                   <pc>.</pc>
-                  <xr>Voyez Etamper</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Etamper</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="estamure">
@@ -59883,8 +60026,11 @@
                      l'ordre &amp; la police. Les premiers sont les Ministres d'Eta, qui sont du Conseil étroit du Roi ;
                      les Seeretaires d'Etat on des commandemens, les Conseillers d'Eta<pc>.</pc>
                   </def>
-                  <xr>Voyez Conseil</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Conseil</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>On dit assi un tat de President, de Maître des Requêtes, d'Auditeur des Comptes, de Juge ; pour
                      dire, une charge &amp; office<pc>.</pc>
                   </def>
@@ -60293,8 +60439,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -60757,8 +60902,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -60858,10 +61002,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Balle du jeu de longue paume fort petite, fort dure, &amp; couverte ordinairement de cuir. Menage
                      après Lipse derive ce mot du Latin tufa, qui signifioit une boule qui étoit au haut des
@@ -61376,9 +61519,12 @@
                   <def>Il sert à tenir leur matiere pour la limer, percer &amp; façonner. On ne prononce nis, ni le c de
                      ce mot, &amp; c'est pour cela que les Artisans l'appellent étau<pc>.</pc>
                   </def>
-                  <xr>Voyez Estau</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Estau</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="4">
                   <form>
                      <orth>Estoc</orth>
@@ -61869,8 +62015,11 @@
                   <pc>,</pc>
                   <def>se dit aussi du ventricule même<pc>.</pc>
                   </def>
-                  <xr>Voyez Ventricule</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Ventricule</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Pour vivre long temps, il faut avoir bon estomac. Le vomissement est une convulsion de l'estomac.
                      Il ne faut rien donner aux malades qui leur charge l'estomac ; c'est-à-dire, qui soit difficile à
                      digerer. On dit aussi de celui qui a la voix forte, qu'il a un bon estomac<pc>.</pc>
@@ -64134,8 +64283,11 @@
                   <def>C'est une petite bande de cuir pour attacher les étriers à la selle, quand on ne veut pas qu'ils
                      pendent. Jambe étriere<pc>.</pc>
                   </def>
-                  <xr>Voyez Jambe</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Jambe</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="estrif">
@@ -65188,10 +65340,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Espece de syncope, ou de defaillance ; perte subite de forces, &amp; de connoissance qui arrive
                      par quelque accident. Cette femme est tombée dans un évanouissement, en apprenant la mort de son
@@ -65585,10 +65736,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>m.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Vens anniversaires &amp; reguliers, soufflans chaque année en même faison &amp; certain nombre de
                      jours. Ils soufflent non seulement vers l'Aquilon, mais aussi vers l'Orient, le Midi &amp; le
@@ -65703,10 +65853,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>qui se dit d'une des sutures communes du crâne, qui tourne autonr de l'os ethmoïde, d'où elle a
                      pris son nom, &amp; qui le separe des os qui le touchent<pc>.</pc>
@@ -66338,10 +66487,9 @@
                      <lbl>&amp;</lbl>
                      <gen>f.</gen>
                      <gen>mais bien plus souvent</gen>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Livre qui contient la vie &amp; la doctrine de J. Christ, écrit par les quatre Evangelistes. Il a
                      paru d'autres Fvangutes, comme celmi de St. Barnabé, &amp;c. qui ont été declarez apocryphes par
@@ -66495,8 +66643,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -66970,7 +67117,7 @@
                      <orth>Eventer</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#charpenterie#maçonnerie">en termes de Charpenterie, &amp; de Maçonnerie</usg>
+                  <usg type="domain" ana="#charpenterie #maçonnerie">en termes de Charpenterie, &amp; de Maçonnerie</usg>
                   <pc>.</pc>
                   <def>Eventer une piece de bois, ou une pierre que l'on monte, c'est la tirer avec le cordage, pour
                      empêcher qu'elle ne heurte contre la muraille, &amp; qu'elle ne s'écorne<pc>.</pc>
@@ -67449,8 +67596,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -67735,8 +67881,11 @@
                      Eupator. C. Bauhin l'appelle eupatorium cannabinum. Il y a l'eupatoire de Dioscoride &amp; des
                      autres Grecs, qui n'est autre chose que l'aigremoine<pc>.</pc>
                   </def>
-                  <xr>Voyez Aigremoine</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Aigremoine</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Il y a aussi l'eupatoire de Mesué qui est l'ageratum folis serratis de C. Bauhin<pc>.</pc>
                   </def>
                </sense>
@@ -67903,9 +68052,12 @@
                      évuide une lame d'épée, quand on la creuse. Il y en a qui écrivent Evider, ainsi qu'on le
                         prononce<pc>.</pc>
                   </def>
-                  <xr>Voyez donc Evider</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>donc Evider</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <re>
                   <form>Evuidé, ée</form>
                   <form>.</form>
@@ -68261,8 +68413,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -68548,8 +68699,11 @@
                   <pc>,</pc>
                   <def>étoit aussi une dignité militaire<pc>.</pc>
                   </def>
-                  <xr>Voyez Du Cange</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Du Cange</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>L'exarque d'un Diocese étoit la même chose que le Primat: cette dignité ecclesiastique étoit
                      moindre que la Patriarchale, &amp; plus grande que la Metropolitaine, comme prouvent Justel &amp;
                      le P. Sirmond. L'exarque presidoit sur plusieurs Provinces. Il étoit au dessus du
@@ -68583,8 +68737,11 @@
                   <def>est le nom que les Grecs donnent aujourd'hui aux Deputez ou Deleguez de leur Patriarche pour la
                      visite des Eglises, &amp; des Monasteres<pc>.</pc>
                   </def>
-                  <xr>Voyez Mr. Simon</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Mr. Simon</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="exastyle">
@@ -69035,10 +69192,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>La partie par laquelle une quantité est plus grande qu'une autre. Cette ligne est plus grande que
                      celle-là ; mais l'excés n'en est pas considerable<pc>.</pc>
@@ -69204,10 +69360,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Action de ce qui excite. L''excitation des humeurs est dangereuse, quand on est enrhumé. Cet
                      homme agira assez en cette affaire par son propre interêt, il ne lui faut point d'autre excitation.
@@ -69612,8 +69767,11 @@
                      demi pour cent, qui tiennent lieu d'interêt à proportion qu'il paye. L'excompte differe du change,
                      en ce que le change se paye par avance, &amp; l'excompte à mesure qu'on s'acquitte<pc>.</pc>
                   </def>
-                  <xr>Voyez Savary</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Savary</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="excompter">
@@ -70005,8 +70163,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -70891,8 +71048,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -73161,7 +73317,7 @@
                      <orth>Expression</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#medecine#chymie">en termes de Medecine &amp; de Chymie</usg>
+                  <usg type="domain" ana="#medecine #chymie">en termes de Medecine &amp; de Chymie</usg>
                   <pc>,</pc>
                   <def>signifie l'action par laquelle on tire le suc des fruits &amp; des plantes en les pressant. Après
                      avoir laissé infuser ces herbes, il en faut tirer le suc par expression avec un linge, ou par la
@@ -74541,10 +74697,12 @@
                      ni l'autre. Bou.</def>
                </sense>
             </entry>
-            <entry xml:id="extreme onction">
+            <entry xml:id="extreme_onction">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>EXTREME ONCTION</orth> ,</form>
+                     <orth>EXTREME ONCTION</orth>
+                     <pc>,</pc>
+                  </form>
                </form>
                <sense>
                   <def>ou EytrEMONCTION. subst. fem. est un Sacrement de l'Eglise, le sixiéme en ordre, qu'on donne aux

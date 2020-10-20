@@ -71,6 +71,18 @@
             <xsl:apply-templates/>
         </xsl:copy>
     </xsl:template>
+    
+    <!-- Ont raite les <xr> non struturés, qui commencent par Voyez, suivi d'un seul token -->
+    <!-- et suivi d'un <pc>.</pc> -->
+    <xsl:template match="xr[not(*) and starts-with(.,'Voyez') and following::*[1][name() = 'pc' and . = '.']]">
+        <xsl:copy>
+            <xsl:apply-templates select="@*"/>
+            <lbl>Voyez</lbl>
+            <ref>{substring-after(.,"Voyez") => normalize-space()}</ref>
+            <pc>.</pc>
+        </xsl:copy>
+        <xsl:message>Voyez: {substring-after(.,"Voyez") => normalize-space()}</xsl:message>
+    </xsl:template>
 
     <!-- Ajout d'un attribut @type sur <usg> quand celui-ci n'existe pas et qu'on sait détecter une expression caractéristique -->
     <!-- +++++++ Identifier tous les prefixes possibles cf. $usgPrefixes -->
@@ -115,7 +127,7 @@
             "adverb", "adv", "adu", "odv",
             "conj", "Conj", "con",
             "particip", "part",
-            "$ubft", "$ub$t", "subst", "s", "$", "v")'/>
+            "$ubft", "$ub$t", "subst", "Subst", "s", "$", "v", "verb")'/>
         <xsl:sequence
             select="
                 count(filter($abbreviatedPOS, function ($x) {
@@ -131,11 +143,28 @@
     
     <xsl:function name="lr:isAbbreviatedGEN" as="xs:boolean">
         <xsl:param name="thePOSString" as="xs:string"/>
-        <xsl:variable name="abbreviatedGEN" select='("f", "m")'/>
+        <xsl:variable name="abbreviatedGEN" select='("f", "fem", "m", "masc")'/>
         <xsl:sequence
             select="
             count(filter($abbreviatedGEN, function ($x) {
             $thePOSString = $x
+            })) != 0"/>
+    </xsl:function>
+    
+    <!-- On n'agit que si le <number> est dans la liste des abbréviés et est immédiatement suivi d'un <pc>.</pc> -->
+    <xsl:template match="gramGrp/number[lr:isAbbreviatedNUMBER(.) and following::*[1][name() = 'pc' and . = '.']]">
+        <xsl:copy>{. || "."}</xsl:copy>
+        <xsl:message>On merge un number: {. || "."}</xsl:message>        
+    </xsl:template>
+    
+    
+    <xsl:function name="lr:isAbbreviatedNUMBER" as="xs:boolean">
+        <xsl:param name="theNUMBERString" as="xs:string"/>
+        <xsl:variable name="abbreviatedNUMBER" select='("plur")'/>
+        <xsl:sequence
+            select="
+            count(filter($abbreviatedNUMBER, function ($x) {
+            $theNUMBERString = $x
             })) != 0"/>
     </xsl:function>
     
@@ -155,6 +184,8 @@
             <xsl:when test="preceding::*[1][name() = 'def' and not(ends-with(.,'.'))]"/>
             <xsl:when test="preceding::*[1][name() = 'pos' and lr:isAbbreviatedPOS(.)]"/>
             <xsl:when test="preceding::*[1][name() = 'gen' and lr:isAbbreviatedGEN(.)]"/>
+            <xsl:when test="preceding::*[1][name() = 'number' and lr:isAbbreviatedNUMBER(.)]"/>
+            <xsl:when test="preceding::*[1][name() = 'xr' and not(*) and starts-with(.,'Voyez')]"/>
             <xsl:otherwise>
                 <xsl:copy>
                     <xsl:apply-templates/>

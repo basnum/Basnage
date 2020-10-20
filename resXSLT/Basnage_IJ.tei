@@ -20867,7 +20867,7 @@
                      <orth>Inclination</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#chymie#medecine">en termes de Chymie &amp; de Medecine</usg>
+                  <usg type="domain" ana="#chymie #medecine">en termes de Chymie &amp; de Medecine</usg>
                   <pc>,</pc>
                   <def>se dit lorsqu'on panche doucement un vaisseau pour en laisser couler la liqueur sans troubler la
                      lie ou le sediment qu'on veut conserver dans le fond. Ainsi quand on a fait quelques precipitez de
@@ -24584,7 +24584,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#imprimeur#libraire">Terme d'imprimeur, &amp; de Libraire</usg>
+                  <usg type="domain" ana="#imprimeur #libraire">Terme d'imprimeur, &amp; de Libraire</usg>
                   <pc>.</pc>
                   <def>Sorte de livre dont chaque feuille à 24 pages. C'est un grand, c'est un petit in douze<pc>.</pc>
                   </def>
@@ -30074,7 +30074,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#imprimeur#libraire">Terme d'Imprimeur &amp; de Libraire</usg>
+                  <usg type="domain" ana="#imprimeur #libraire">Terme d'Imprimeur &amp; de Libraire</usg>
                   <pc>.</pc>
                   <def>Livre dont chaque feuille a 32. pages. C'est un petit in seize<pc>.</pc>
                   </def>

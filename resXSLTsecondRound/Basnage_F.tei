@@ -6809,10 +6809,8 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>Subst</pos>
-                     <pc>.</pc>
-                     <gen>fem</gen>
-                     <pc>.</pc>
+                     <pos>Subst.</pos>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
                <sense>
@@ -6866,10 +6864,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Conte, narration fabuleuse ; chose feinte &amp; inventée pour instruire, ou pour divertir ;
                      fiction d'un entretien entre des animaux, ou des choses inanimées, d'où on tire quelque moralité,
@@ -6989,10 +6986,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Qui fabrique. Les Fabricateurs des monnoyes sont responsables de la bonté des especes. On le dit
                      plus souvent de ceux qui fabriquent de la fausse monnoye, ou qui font de faux actes en Justice, des
@@ -7091,8 +7087,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -7213,10 +7208,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Superficie, la premlere chose que les corpsa presentent à nos yeus. La face du monde, de la
                      terre, des eaux. Les corps qu'on appelle polrrdres sont à plusieurs faces. Un dé a six
@@ -7362,9 +7356,12 @@
                   </form>
                   <pc>,</pc>
                   <pc>.</pc>
-                  <xr>Voyez Fasce</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fasce</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="16">
                   <def>On dit proverbialement, Face d'homme fait vertu ; pour dire, que les ouvriers travaillent mieux
                      en presence du maître qu'en son absence<pc>.</pc>
@@ -7385,10 +7382,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Plaisanterie qui divertit, &amp; qui fait rire, soit qu'elle consiste en paroles, ou en actions.
                      Les Comediens ont souvent appellé leurs farces, de petites faceties. Les Contes du Pogge Florentin,
@@ -7447,10 +7443,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Pette face ou superficie d'un corps taillé à plusieurs angles. Les lunettes qui multiplient les
                      objets sont faites de verres taillez à facettes. Les diamans se taillent à facettes ou en
@@ -7506,13 +7501,11 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Aisé, qui ne donne point de peine à faire, à entendre, à gouverner. Il est facile d'ajouter aux
                      inventions des autres. Ciceron &amp; Virgile sont des Auteurs fariles à entendre. C'est un homme
@@ -7872,10 +7865,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Artisan ou compagnon qui travaille aux façons de Manufactures de toutes sortes d'étoffes, soit
                      or, argent, soye ou laine. Il y a des reglemens qui concernent les Façonniers dans l'Ordonnance des
@@ -7939,13 +7931,11 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Qui est fait exprés. Un mot factice, c'est un mot qui n'est pas de la langue ordinaire ; mais
                      qu'on fait exprès, &amp; sur le champ pour bien exprimer sa pensée. Rabelais a fait un chapitre des
@@ -8048,10 +8038,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Simple soldat qui est obligé à tous les services de la guerre<pc>.</pc>
                   </def>
@@ -8065,10 +8054,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Bureau de Marchands où leurs Facteurs font pour eux le commerce. Les François, les Hollandois,
                      les Anglois ont chacun leurs Factoreries à Surate. On appelle aussi ces bureaux,
@@ -8084,10 +8072,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Il faut prononcer Factoton. Homme qui se mêle de tout dans une maison, qui est un serviteur à
                      tout faire. Ce mot n'est bon que dans le comique &amp; le burlesque. Les valets haïssent fort les
@@ -8124,10 +8111,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Etat des marchandises qu'un Facteur envoye à son maitre, ou un Marchand à un autre
                         Marchand<pc>.</pc>
@@ -8282,10 +8268,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Chose fade ; folie, sottise, bagatelle. C'est une grande fadaise d'ajouter foi à tous les
                      conteurs de nouvelles. Cet Auteur a rempli son livre de mille fadaises. C'est ignorer le goût du
@@ -8302,13 +8287,11 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Insipide : qui est sans sel, sans poivre, ou autres acides qui piquent, &amp; qui irritent le
                      goût. La viande sans sel est fade. Liqueur fade<pc>.</pc>
@@ -8405,10 +8388,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Faisseau, assemblage de plusieurs choses menuës jointes ensemble par quelque hart, ou lien, ou
                      enveloppe. Des fagots de bois. Des fagots d'herbes. Des fagots de linge. Des fagots de hardes. Il
@@ -8466,10 +8448,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>L'action, le travail du fagoteur. Il faut donner tant pour le fagotage d'un millier de
                         fagots<pc>.</pc>
@@ -8554,10 +8535,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Glande qui est sous la gorge des animaux. Aux veaux on l'appelle le ris de veau. Aux hommes les
                      Medecins l'appellent thymus<pc>.</pc>
@@ -8695,10 +8675,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <usg type="domain" ana="#marchand">Terme de Marchand</usg>
                   <pc>.</pc>
@@ -8729,10 +8708,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <form>
                      <orth>Appetit</orth>
@@ -9022,8 +9000,11 @@
                      Faire la grimace. Faire la moue, la morgue. Faire les cornes. Faire la mine. Faire la nique. Faire
                      la figue à quelcun<pc>.</pc>
                   </def>
-                  <xr>Voyez Ficue</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Ficue</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Faire le pied de gruë. On dit aussi, Envoyer faire penser, envoyer faire faire, quand on chasse
                      quelcun indgnement. Cette derniere façon de parler a quelque chose d'obscene. On dit en ce sens,
                      Cet homme fait plus qu'il ne peut ; pour dire, qu'il fait des efforts extraordinaires, soit de
@@ -9471,9 +9452,12 @@
                   <def>Avoir à faire. C'est aussi, Avoir besoin. Ne vous éloignez pas, jai à faire de vous. Sa Majesté
                      n'a que faire de toutes nos dedicaces. Mol<pc>.</pc>
                   </def>
-                  <xr>Voyez Affaire</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Affaire</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="39">
                   <form>
                      <orth>Faire</orth>
@@ -9509,7 +9493,6 @@
                      châteaux en Espagne<pc>.</pc>
                   </def>
                   <xr>Voyez Chasteau</xr>
-                  <pc>,</pc>
                   <def>où se trouve l'origine de ce proverbe. Faire son orge, être en une occasion ou on peut
                      s'enrichir. Et une infinité d'autres<pc>.</pc>
                   </def>
@@ -10321,8 +10304,11 @@
                   <pc>.</pc>
                   <def>Ce mot signifie quelquefois, Manquer. Peu s'en est fallu. Peu s'en faudra. Vaug. Rem<pc>.</pc>
                   </def>
-                  <xr>Voyez Faillir</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Faillir</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Si Faut-il. Façon de parler familiere, dont on se sert ; pour dire, quoy qu'il en soit, il faut,
                      il est necessaire. Si faut-il que je sache pourquoi il a fait cela. Si faut-il, qu'il me rende
                      raison de sa conduitte<pc>.</pc>
@@ -10352,9 +10338,12 @@
                      spacieux, qui sont dans des vases pleins de suif ou autres matieres combustibles. On appelle aussi
                      falot ou fanal, le feu de l'Amiral<pc>.</pc>
                   </def>
-                  <xr>Voyez Fanal</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fanal</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <etym>
                   <lbl>Ce mot vient de</lbl>
                   <foreign>phanatus</foreign>
@@ -10498,8 +10487,11 @@
                <sense>
                   <def>C'est un nom que quelques-uns donnent au hobereau<pc>.</pc>
                   </def>
-                  <xr>Voyez Hobereau</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Hobereau</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="falsificateur">
@@ -10619,13 +10611,11 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Affamé, qui a grand faim. Ventre famelique, estomac famelique, mine famelique, table famelique.
                      Gon. c'est-à-dire, Table où il n'y a pas de quoi manger<pc>.</pc>
@@ -10736,9 +10726,12 @@
                      autrefois families du Roi, les gens de sa suitte, ses domestiques, ses Courtisans ordinaires qui
                      composoient sa famille<pc>.</pc>
                   </def>
-                  <xr>Voyez Du Cange</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Du Cange</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <form>
                      <orth>Familier</orth>
@@ -10909,10 +10902,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Le petit d'une biche. On écrivoit autrefois faon, &amp; plusieurs l'écrivent encore avec
                      l'Academie. On appelle aussi fan, le petit d'un élephant<pc>.</pc>
@@ -11619,13 +11611,11 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Imaginaire, qui n'a que l'apparence. Les esprits foibles sont sujets à voir plusieurs visions
                      fantastiques ; il leur apparoît des Esprits qui n'ont que des corps faxtastiques<pc>.</pc>
@@ -11757,10 +11747,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Crochetteur, homme de la fie du peuple, vil &amp; meprisable. Il y a beaucoup de Grands Seigneurs
                      qui ont des ames de faquins<pc>.</pc>
@@ -11796,8 +11785,11 @@
                      de toutes pieces, contre lequel on couroit. Courre le faquin. Menet. Il y a des courses de faquins
                      où le coup dans l'oeil en vaut trois, de l'oeil au bout du nez deux, du nez au menton un<pc>.</pc>
                   </def>
-                  <xr>Voyez Quintaine</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Quintaine</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="faquirs">
@@ -13350,8 +13342,11 @@
                <sense>
                   <def>Arbre de haute futaye. En Latin fagus. C'est la même chose que fouteau ou hêtre<pc>.</pc>
                   </def>
-                  <xr>Voyez Hestre</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Hestre</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="faubert">
@@ -14013,10 +14008,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Fêtes que les Romains celebroient le 5. de Decembre en l'honneur du Dieu Faune<pc>.</pc>
                   </def>
@@ -14528,7 +14522,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="fausse couche">
+            <entry xml:id="fausse_couche">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>FAUSSE COUCHE</orth>
@@ -14733,7 +14727,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="faus jour">
+            <entry xml:id="faus_jour">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>FAUS JOUR</orth>
@@ -15689,12 +15683,11 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#chymie#medecine">Terme de Chymie &amp; de Medecine</usg>
+                  <usg type="domain" ana="#chymie #medecine">Terme de Chymie &amp; de Medecine</usg>
                   <pc>.</pc>
                   <def>Ce sont les matieres grossieres &amp; impures qui se trouvent au fond des compositions de l'une
                      &amp; de l'autre Pharmacie. C'est aussi le marc, la lie, qui restent dans l'alembic après la
@@ -16100,8 +16093,11 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <xr>Voyez Fesler</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fesler</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="felicitation">
@@ -16211,8 +16207,11 @@
                <sense>
                   <def>Plante qu'on appelle autrement eclaire, ou chelidoine<pc>.</pc>
                   </def>
-                  <xr>Voyez Eclaire</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Eclaire</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="felon">
@@ -16223,8 +16222,7 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <gen>vieux</gen>
                      <gen>mot</gen>
                   </gramGrp>
@@ -16570,12 +16568,10 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>fem</gen>
-                     <pc>.</pc>
-                     <number>plur</number>
+                     <gen>fem.</gen>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#feuillant">Terme de Feuillant</usg>
                   <pc>.</pc>
@@ -16917,8 +16913,11 @@
                      Fenouil marin, est une autre genre de plante, qu'on appelle autrement bacille, en Latin
                         crihmum<pc>.</pc>
                   </def>
-                  <xr>Voyez Bacille</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Bacille</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="fenouillet">
@@ -17410,10 +17409,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>qui signifioit autrefois fété. Il n'est plus plus en usage qu'en cette phrase. On donne
                      permission aux artisans qui travaillent pour la guerre, de travailler tant aux jours feriez que non
@@ -17537,13 +17535,11 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Qui est fort, qui tient bien, qui est difficile à ébranler. Ce cavalier a la main ferme, les
                      reins fermes, est ferme sur les étriers. On ne sçauroit faire un fondement ferme en bâtissant sur
@@ -17786,8 +17782,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -18099,13 +18094,11 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <form>
                      <orth>Cruel</orth>
@@ -18140,7 +18133,7 @@
          <gap unit="line" n="500"/>
          <div>
             <head>FES</head>
-            <entry xml:id="">
+            <entry xml:id="$$$">
                <etym>
                   <lbl>Ce mot vient du</lbl>
                   <lang>Latin</lang>
@@ -18344,7 +18337,6 @@
                      de Vienne en 13 1i. &amp; par Jean XXII. en 1iS<pc>.</pc>
                   </def>
                   <xr>Voyez Du Cange au mot de Fête</xr>
-                  <pc>,</pc>
                   <def>où il rapporte la cause, l'institution &amp; les ceremonies de plusieurs fetes, &amp; de leur
                      translation. Violer une fête, c'est travailler contre le commandement de l'Eglise. Les Payens
                      avoient aussi leurs fêtes, les Bacchanales, Saturnales, &amp;c. Ils avoient aussi leurs fêtes
@@ -18950,8 +18942,11 @@
                   <def>se dit aussi en Medecine &amp; en Chirurgie. Le feu St. Amoine, est le nom que le vuigaire donne
                      à l'érysipele<pc>.</pc>
                   </def>
-                  <xr>Voyez Erysieele</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Erysieele</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Le feu volage, est une espece de dartre qui s'enslamme, &amp; qui vient sur tout au visage. On
                      ôte le vinaux malades, de crainte de mettre le feu dans une playe, d'augmenter le feu de la fievre.
                      L'arsenic met le feu dans la bouche, dans les entrailles. Il y a des playes qui ne se guerissent
@@ -19563,14 +19558,23 @@
                      pour des berceaux de jardin &amp;c. Voyez au mot Chnevfe. Mille-Feuille. s. f. Sorte de plante
                         medarinale<pc>.</pc>
                   </def>
-                  <xr>Voyez au mot Mille</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>au mot Mille</ref>
+                     <pc>.</pc>
+                  </xr>
                   <pc>.</pc>
-                  <pc>.</pc>
-                  <xr>Voyez au mot Port Sur-Feuille</xr>
-                  <pc>.</pc>
-                  <xr>Voyez au mot Sur</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>au mot Port Sur-Feuille</ref>
+                     <pc>.</pc>
+                  </xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>au mot Sur</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="14">
                   <def>On dit proverbialement, Qui a peur des feuilles, ngp doit point aller au bois ; pour dire, qu'il
                      ne faut pas s'engager en des entreprises dont on craint de faire les frais<pc>.</pc>
@@ -20026,10 +20030,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Promesse de mariage à futur qui se fait en face d'Eglise ; promesse reciproque de mariage ;
                      preparation, introduction aux noces. L'Ordonnance de Blois, art. 44. deffend les fiançailles, &amp;
@@ -20239,9 +20242,12 @@
                      aux fractures du erane, mais particulierement autour du fondement &amp; des parties honteuses. Le
                      peuple l'appelle le mal Saint Fiacre<pc>.</pc>
                   </def>
-                  <xr>Voyez Sarcoma</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Sarcoma</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <form>
                      <orth>Fic</orth>
@@ -20892,9 +20898,12 @@
                      qui l'étoient devenus. Il arriva en effet que les Grands Seigneurs pretendirent posseder les
                      charges hereditairement : comme celle de Grand Chambellan, de Grand Bouteiller &amp;c<pc>.</pc>
                   </def>
-                  <xr>Voyez Loyseau</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Loyseau</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <etym>
                   <lbl>Ce mot est derivé, selon quelques-</lbl>
                   <foreign>uns, de fedus</foreign>
@@ -21107,8 +21116,11 @@
                      l'absinthe. Oe. M. Me nourissant de fiel ; de larmes abbreuvée. Rac. Fiel de terre, est un nom
                      qu'on donne à la petite centaurée à cause de son amertume<pc>.</pc>
                   </def>
-                  <xr>Voyez Centaurée. Fiel de verre</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Centaurée. Fiel de verre</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>C'est une écume separée de dessus la matiere du verre, avant qu'elle se vitrfie. On l'appelle
                      autrement axonge ou sel de verre<pc>.</pc>
                   </def>
@@ -22190,7 +22202,7 @@
                      <orth>Fieure</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#danses#balets">en termes de Danses &amp; de Balets</usg>
+                  <usg type="domain" ana="#danses #balets">en termes de Danses &amp; de Balets</usg>
                   <pc>,</pc>
                   <def>se dit des pas differens que sont les danseurs en ordre &amp; cadence, qui marquent diverses
                      figures sur le plancher<pc>.</pc>
@@ -22514,8 +22526,11 @@
                      les choses dont il a besoin. On dit aussi, que du beurre est jaune comme fil d'or ; pour dire,
                      qu'il est fort jaune. FILACTFRl<pc>.</pc>
                   </def>
-                  <xr>Voyez Pxilactere</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Pxilactere</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="filadiere">
@@ -23076,8 +23091,11 @@
                   </gramGrp>
                </form>
                <sense>
-                  <xr>Voyez Filuré</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Filuré</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="fileux">
@@ -23467,8 +23485,11 @@
                      comme on faisoit autrefois à Rome, &amp; comme on fait encore en quelques endroits d'Allemagne,
                      &amp; de Lorraine<pc>.</pc>
                   </def>
-                  <xr>Voyez Adoption</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Adoption</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>On appelle aussi Mon fils, un jeune homme qu'on flatte, ou qu'on veut faire venir à soi. Fils du
                      premer lit, ou du fecond lit, &amp;c. se dit de ceux qui sont nez d'un premier, ou d'un second
                      mariage, &amp;c. On appelle Beau-fils, celui dont on a épousé le pere, ou la mere, qui étoit né
@@ -23678,8 +23699,11 @@
                <sense n="2">
                   <def>FILOSELlE, FILOU, FILOUTER, FILOUTERIE<pc>.</pc>
                   </def>
-                  <xr>Voyez ces mots avant celui de Fils</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>ces mots avant celui de Fils</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="filtration">
@@ -24252,10 +24276,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Homme qui manie les finances, qui est dans les Fermes, dans les affaires du Roi. La Chambre de
                      Justice est établie pour la recherche des malversations des Financiers. Je butte à quelque gros
@@ -24980,8 +25003,11 @@
                   <def>Mot bas, imaginé pour represenmter les ccups que l'on donne à quelcun. Il lui a donné un grnd
                      coup sur le nez, flac. Il ne se dit guere seul ; mais on le joint ordinairement avec lic<pc>.</pc>
                   </def>
-                  <xr>Voyez Flfc</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Flfc</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="flache">
@@ -26047,8 +26073,11 @@
                   </gramGrp>
                </form>
                <sense>
-                  <xr>Voyez Flacon</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Flacon</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="flasque">
@@ -26957,10 +26986,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>C'est une épithete que les Medecins donnent à des muscles qui servent à flechir quelques parties
                      du corps, comme ceux des noux, du coude, &amp;c<pc>.</pc>
@@ -27274,8 +27302,11 @@
                      anneaux, ou rayons le long des tiges : telles sont les fleurs du marrube, de l'ormin, &amp;c.
                      Fleurs en umbelle<pc>.</pc>
                   </def>
-                  <xr>Voyez Fleurs en Parasol</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fleurs en Parasol</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Fleur de la passion. Plante qui est ainsi appellée à cause qu'on croit y trouver quelques marques
                      de la passion de Jesus-Christ, comme les trois clous, les cinq playes, les foüets, &amp; les
                      cordes. Elle ressemble au lierre, &amp; s'étend comme lui sur les arbres &amp; sur les auttes
@@ -27397,11 +27428,17 @@
                <sense n="17">
                   <def>On dit aussi, Fleur de sel<pc>.</pc>
                   </def>
-                  <xr>Voyez Sel. Fleur de Bronze</xr>
-                  <pc>.</pc>
-                  <xr>Voyez Bronze</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Sel. Fleur de Bronze</ref>
+                     <pc>.</pc>
+                  </xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Bronze</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="18">
                   <def>On dit aussi, que les feves sont en fleur, pour accuser un homme d'un accés de folie<pc>.</pc>
                   </def>
@@ -27810,13 +27847,11 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Qui est souple, qui est ployant ; qui flechit, qui plie, qui obeït. Il se dit au propre &amp; au
                      figuré. Comme les fibres sont plus deliez, &amp; plus flexibles dans les femmes, elles ont plus de
@@ -28946,8 +28981,11 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <xr>Voyez Fetus</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fetus</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -29322,9 +29360,12 @@
                      particulicr, qu'on appelle Conservateur du privilege des foires ; &amp; sa justice la Conservation.
                      Le Roi seul peut octroyer la permission de tenir les Foires &amp; marchez<pc>.</pc>
                   </def>
-                  <xr>Voyez Faquet</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Faquet</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <etym>
                   <lbl>Ce mot vient du</lbl>
                   <lang>Latin</lang>
@@ -29790,8 +29831,11 @@
                   <def>Feuille d'un prand arbre qui croît au païs de Cambaïe, &amp; en plusieurs autres endroits des
                      Indes. On l'appelle autrement feuidlle d'inde, ou malabathrum<pc>.</pc>
                   </def>
-                  <xr>Voyez Feuille deinde</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Feuille deinde</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="follement">
@@ -31235,8 +31279,11 @@
                      l'ouverture qu'elles se sont faite, ou sur la pente, ou au pied des montagnes. Ainsi c'est la mer
                      qui fournit d'eau à toutes les fontaines<pc>.</pc>
                   </def>
-                  <xr>Voyez Rohault</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Rohault</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>On appelle fontaine en source, une espece de gouffre d'eau qui sort de l'ouverture d'un mur, ou
                      d'une pierre avec impetuosité. Fontaine jailissante, est une fontaine dont l'eau jaillit, &amp;
                      s'élance par un, ou plusieurs jets, &amp; retombe par gargouillées, mapes, pluye &amp;c. Fontaine à
@@ -31346,8 +31393,11 @@
                   <def>est un creux ou abyme qui se fait quelquefois sous un bâtiment dans le terrain qui n'est pas
                         ferme<pc>.</pc>
                   </def>
-                  <xr>Voyez Fondis</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fondis</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="fonton">
@@ -31378,10 +31428,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>m.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Vaisseau de pierre ou de marbre, qui est au bas des Eglises Parroissiales, &amp; où l'on conserve
                      l'eau destinée à faire les ceremonies du Baptême<pc>.</pc>
@@ -31506,9 +31555,12 @@
                   <def>On appelle, Traitte foraine, un droit domanial du vingtiéme du prix des marchandises qui entrent,
                      ou qui sortent du Royaume<pc>.</pc>
                   </def>
-                  <xr>Voyez Traitte</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Traitte</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="4">
                   <def>On appelle proverbialement des alibi forains, de mechantes excules, ou du galimathias qu'on donne
                      à ceux qui interrogent<pc>.</pc>
@@ -32264,8 +32316,11 @@
                   </gramGrp>
                </form>
                <sense>
-                  <xr>Voyez Forure</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Forure</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="forfaire">
@@ -32312,8 +32367,11 @@
                      douaire, corps &amp; avoir, ou autre chose ; pour dire, les perdre pour quelque crime ou faute
                      commise. On trouve aussi dans les Coûtumes, Forfaire l'amende ; pour dire, l'encourir<pc>.</pc>
                   </def>
-                  <xr>Voyez Du Cange</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Du Cange</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="forfait">
@@ -32866,10 +32924,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Terme de PhysiqueLes anciens Philosophes admettoient une vertu formatrice qui donnoit la forme à
                      tous les corps<pc>.</pc>
@@ -33758,9 +33815,12 @@
                      grande foiblesse que d'être incertains quel est le principe de son être, de sa vie, de ses sens, de
                      ses connoissances, &amp; quelle en doit être la fin? La Bruy<pc>.</pc>
                   </def>
-                  <xr>Voyez Esprit. Fort</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Esprit. Fort</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="12">
                   <def>On dit aussi, qu'un homme est fort dans une science, en un art, quand il y est habile, quand il a
                      de l'avantage sur les autres. Il est fort en Geometrie, en Physique. Je suis terriblement fort sur
@@ -33966,10 +34026,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Qui se dit d'un cheval qui étant surmené, &amp; outré de lassitude, devient étroit de
                         boyau<pc>.</pc>
@@ -34149,8 +34208,11 @@
                      d'autrui. C'est le prendre, s'en emparer, le detourner. Pomey. Un cheval fortrait ; c'est, selon le
                      même Auteur, un cheval qui est devenu étroit de boyau pour avoir été surmene<pc>.</pc>
                   </def>
-                  <xr>Voyez Forteret</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Forteret</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="fortuit">
@@ -34767,8 +34829,11 @@
                <sense>
                   <def>Espece d'aristoloche<pc>.</pc>
                   </def>
-                  <xr>Voyez Aristoloche</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Aristoloche</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="fou">
@@ -34926,8 +34991,11 @@
                <sense n="1">
                   <def>Folle avoine<pc>.</pc>
                   </def>
-                  <xr>Voyez Avoine</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Avoine</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Iolle inthimation, est un prise à partie d'un Juge qui a jugé dans l'ordre &amp; sans
                      prevarication. On condamne toujours aux depens d'une folle inthimation<pc>.</pc>
                   </def>
@@ -35613,9 +35681,12 @@
                   <def>Fougere de Chene, est une sorte de fougere qul croît sur les pieds, &amp; parmi la mousse des
                      chênes. On l'appelle autrement dyopteris<pc>.</pc>
                   </def>
-                  <xr>Voyez Dryopteris</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Dryopteris</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="4">
                   <form>
                      <orth>Fougere</orth>
@@ -36207,10 +36278,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Ouvrier qui foule les draps<pc>.</pc>
                   </def>
@@ -36268,8 +36338,11 @@
                      d'Hermias qui inventa le premier le metier des Foulons. Il y a une plante que l'on appelle herbe à
                         Foulon<pc>.</pc>
                   </def>
-                  <xr>Voyez Herbe</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Herbe</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="foulque">
@@ -36592,9 +36665,12 @@
                   <pc>,</pc>
                   <def>qui ne se dit que des chevaux. Forbu est mal dit. Men<pc>.</pc>
                   </def>
-                  <xr>Voyez Fourbure</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fourbure</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <form>
                      <orth>Fourbu</orth>
@@ -37973,8 +38049,11 @@
                   <def>Il y a aussi des Fourriers dans les Compagnies des gens de guerre, qu'on nomme autrement
                      Marechaux des logis<pc>.</pc>
                   </def>
-                  <xr>Voyez Fouerage pour l'origine</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fouerage pour l'origine</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="fourriere">
@@ -38128,8 +38207,11 @@
                      dont le bois est fort sec, rempli de plusieurs petits brillans, ou endroits polis, &amp; qui
                      petille fort dans le feu. En Latin fagus<pc>.</pc>
                   </def>
-                  <xr>Voyez Hestre</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Hestre</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -38666,8 +38748,11 @@
                   <def>sont les morceaux qui se separent, quand on taille les hyacinthes, les émeraudes, les saphyrs,
                      les grenats &amp; la cornaline. FRAl<pc>.</pc>
                   </def>
-                  <xr>Voyez Fray</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fray</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="frairie">
@@ -38838,10 +38923,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>m.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Quelques-uns écrivent Fraiz. Depens, argent qu'on est obligé d'avancer, de debourser, pour faire
                      quelque chose. On ne sçauroit vivre à Paris, y bâtir qu'à grands frais. Les frais des moissons, des
@@ -38915,10 +38999,10 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="frais hlment">
+            <entry xml:id="fraischement">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>FRAIS HLMENT</orth>
+                     <orth>FRAISCHEMENT</orth>
                   </form>
                   <pc>,</pc>
                   <form type="variant">
@@ -39453,15 +39537,21 @@
                   <def>se dit aussi en plusieurs autres significations, selon les mots ausquels il est joint, dont voici
                      quelquesunes des principales. Franc-alleu. C'est une terre qui ne releve d'aucun Seigneur<pc>.</pc>
                   </def>
-                  <xr>Voyez Alleu</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Alleu</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Franc-arbitre. C'est la liberté que Dieu a accordée à la volonté de l'homme. St. Thomas le
                      definit ainsis C'est une faculté élective qui a la puissance, quand elle trouve toutes les choses
                      disposées pour l'action, d'agir, ou de ne pas agir<pc>.</pc>
                   </def>
-                  <xr>Voyez Arbitre</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Arbitre</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <re>
                   <form>Akbre-Franc</form>
                   <form>.</form>
@@ -39905,10 +39995,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Espece de pierre fort dure<pc>.</pc>
                   </def>
@@ -39946,9 +40035,12 @@
                      changemens arrivez à ces deux langues, leur perfection a toujours été rapportée au siecle de ces
                      grands maîtres. De faire un pronostic de la nôtre, il seroit malaisé. Pasq<pc>.</pc>
                   </def>
-                  <xr>Voyez le mot Gaulois</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>le mot Gaulois</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <re>
                   <form>Francois</form>
                   <form>,</form>
@@ -40008,8 +40100,11 @@
                      &amp; que le tissu est ouvragé, on l'appelle crépine. Menage pretend que ce mot est corrompu du
                      Latin simbria<pc>.</pc>
                   </def>
-                  <xr>Voyez ser raisons</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>ser raisons</ref>
+                     <pc>.</pc>
+                  </xr>
                   <etym>Du Cange pretend qu'il vient de aurifriga, ou opus phrygium, parcequ'on nonimoit ainsi les
                      franges d'or</etym>
                   <pc>.</pc>
@@ -40215,9 +40310,12 @@
                   </def>
                   <etym>Menage derive ce mot de rapare Latin</etym>
                   <pc>.</pc>
-                  <xr>Voyez ses raisons</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>ses raisons</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <form>
                      <orth>Frapper</orth>
@@ -40603,8 +40701,11 @@
                      palais ; desorte qu'étant frôlée par l'air qui sort avec force, elle lui cede, &amp; revient
                      toujours au même endroit, faisant une maniere de tremblement ra, ta<pc>.</pc>
                   </def>
-                  <xr>Voyez Mol. Bourg. Gent</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Mol. Bourg. Gent</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="fraxinelle">
@@ -41467,8 +41568,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <gen>ct</gen>
                   </gramGrp>
                </form>
@@ -41696,8 +41796,11 @@
                <sense>
                   <def>Terme Btinique<pc>.</pc>
                   </def>
-                  <xr>Voyez Teoesne</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Teoesne</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="fresle">
@@ -42426,7 +42529,7 @@
                   </gramGrp>
                </form>
                <sense n="1">
-                  <usg type="domain" ana="#chirurgie#medecine">Terme de Chirurgie &amp; de Medecine</usg>
+                  <usg type="domain" ana="#chirurgie #medecine">Terme de Chirurgie &amp; de Medecine</usg>
                   <pc>.</pc>
                   <def>Action par laquelle on frotte quelque partie malade avec quelques huiles, onguens ou autres
                      drogues, pour la guerir, ou la soulager. Les frictions sont fort en usage pour les maladies
@@ -43326,9 +43429,12 @@
                      dedans. Il ne faut pas élever un mur tout-à-fait a plomb, mais il lui faut donner un peu de
                         frit<pc>.</pc>
                   </def>
-                  <xr>Voyez Fruit</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fruit</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <re>
                   <form>Frit ite</form>
                   <form>.</form>
@@ -43551,13 +43657,19 @@
                <sense n="3">
                   <def>Goutte roide<pc>.</pc>
                   </def>
-                  <xr>Voyez Goutte</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Goutte</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Semences froides<pc>.</pc>
                   </def>
-                  <xr>Voyez Semences</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Semences</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="4">
                   <form>
                      <orth>Froid</orth>
@@ -43907,14 +44019,20 @@
                   <def>On appelle, Terres à froment, les bonnes terres, les terres grasses. Le pain de froment est le
                      pain le plus blanc. Le meteil est moitié froment, &amp; moitié seigle. Froment d'Inde<pc>.</pc>
                   </def>
-                  <xr>Voyez Mays</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Mays</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="3">
                   <def>Froment locar, ou Froment rouge, est une espece de froment appellée autrement, Epeautre<pc>.</pc>
                   </def>
-                  <xr>Voyez Epeautre, ou Espeautre</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Epeautre, ou Espeautre</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="fromentée">
@@ -44019,8 +44137,11 @@
                   <def>Petit absés, ou apostume qui sort en dehors, &amp; qui aboutit en une pointe qui fait qu'on
                      l'appelle aussi un clou. Il vient de furunculus. Nicod<pc>.</pc>
                   </def>
-                  <xr>Voyez Furoncle</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Furoncle</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="froncure">
@@ -45410,7 +45531,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="fulminant ante">
+            <entry xml:id="fulminant">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>FULMINANT ante</orth>
@@ -45886,7 +46007,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#medecine#chymie">Terme de Medecine &amp; de Chymie</usg>
+                  <usg type="domain" ana="#medecine #chymie">Terme de Medecine &amp; de Chymie</usg>
                   <pc>,</pc>
                   <def>qui se dit des choses qu'on prend en fumée, ou qui se tournent en fumée. Il est dangereux de
                      prendre le mercure par fumigation. La fumigation est aussi une calcination potencielle qui se fait
@@ -46060,10 +46181,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Ceremonies qui se font aux enterremens. Pour honorer ce grand Capitaine, on lui a fait de
                      pompeuses, de magnifiques funerailles<pc>.</pc>
@@ -46692,10 +46812,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Petit arbre qui est ainsi nommé, à cause que son bois sert à faire des fuseaux. On en fait aussi
                      des lardoires, d'où vient qu'on l'appelle boi à faire des lardoires. On le nomme encore bonnet de
@@ -47053,8 +47172,11 @@
                <sense>
                   <def>Petit arbre<pc>.</pc>
                   </def>
-                  <xr>Voyez Fusain</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fusain</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="fusion">
@@ -47379,10 +47501,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Artisan qui fait des futaines<pc>.</pc>
                   </def>
@@ -47493,8 +47614,11 @@
                      veut pas laisser deperir la preuve, &amp; même avant que l'instance soit commencée. Cette procedure
                      a été abrogée par la dernicre Ordonnance de 1667<pc>.</pc>
                   </def>
-                  <xr>Voyez Enquete</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Enquete</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -47529,8 +47653,11 @@
                      trouve toujours quelque faux-fuyant pour éluder mes poursuittes. Fuyant, ante. Terme de Peinture ;
                      c'est-à-dire, qui fuit, qui s'éloigne des yeux. Cela est fuyant. Cette partie est fuyante<pc>.</pc>
                   </def>
-                  <xr>Voyez Fuir</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fuir</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="fuyard">

@@ -33727,7 +33727,7 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#tailleur#couturiere">Terme de Tailleur &amp; de Couturiere</usg>
+                  <usg type="domain" ana="#tailleur #couturiere">Terme de Tailleur &amp; de Couturiere</usg>
                   <pc>.</pc>
                   <def>Rendoabler. Remplier l'étoffe<pc>.</pc>
                   </def>
@@ -42704,7 +42704,7 @@
                      <orth>Resoudre</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#logique#grammaire signifie">en termes de Logique &amp; de Grammaire signifie</usg>
+                  <usg type="domain" ana="#logique #grammaire">en termes de Logique &amp; de Grammaire signifie</usg>
                   <pc>,</pc>
                   <def>Changer, convertir. Une proposition negative se peut resoudre en affirmative. On resout un argument, on remonte jusqu'à ses principes. Une phrase se resoud, se convertit aisément en une autre<pc>.</pc>
                   </def>
@@ -48077,7 +48077,7 @@
                      <orth>Revenir</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#chymie#pharmacie">en termes de Chymie &amp; de Pharmacie</usg>
+                  <usg type="domain" ana="#chymie #pharmacie">en termes de Chymie &amp; de Pharmacie</usg>
                   <pc>,</pc>
                   <def>se dit de l'ébullition des choses liquides. Il faut mettre deux pintes d'eau dans cette composition, &amp; les faire tant bouillir, qu'elles reviennent, qu'elles soient reduites à une pinte<pc>.</pc>
                   </def>
@@ -56881,7 +56881,7 @@
                      <orth>Rouleau</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#imager#graveur">en termes d'Imager &amp; de Graveur</usg>
+                  <usg type="domain" ana="#imager #graveur">en termes d'Imager &amp; de Graveur</usg>
                   <pc>,</pc>
                   <def>se dit de certaines bandes chargées d'écriture, qu'on fait sortir de la bouche des figures, quand on leur veut faire dire quelque chose. L'ancienne peinture &amp; gravûre étoit chargée de plusieurs rouleaux, qui ne sont plus gueres en usage<pc>.</pc>
                   </def>

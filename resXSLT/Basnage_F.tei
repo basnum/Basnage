@@ -15678,7 +15678,7 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#chymie#medecine">Terme de Chymie &amp; de Medecine</usg>
+                  <usg type="domain" ana="#chymie #medecine">Terme de Chymie &amp; de Medecine</usg>
                   <pc>.</pc>
                   <def>Ce sont les matieres grossieres &amp; impures qui se trouvent au fond des compositions de l'une
                      &amp; de l'autre Pharmacie. C'est aussi le marc, la lie, qui restent dans l'alembic après la
@@ -18124,7 +18124,7 @@
          <gap unit="line" n="500"/>
          <div>
             <head>FES</head>
-            <entry xml:id="">
+            <entry xml:id="$$$">
                <etym>
                   <lbl>Ce mot vient du</lbl>
                   <lang>Latin</lang>
@@ -22173,7 +22173,7 @@
                      <orth>Fieure</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#danses#balets">en termes de Danses &amp; de Balets</usg>
+                  <usg type="domain" ana="#danses #balets">en termes de Danses &amp; de Balets</usg>
                   <pc>,</pc>
                   <def>se dit des pas differens que sont les danseurs en ordre &amp; cadence, qui marquent diverses
                      figures sur le plancher<pc>.</pc>
@@ -42402,7 +42402,7 @@
                   </gramGrp>
                </form>
                <sense n="1">
-                  <usg type="domain" ana="#chirurgie#medecine">Terme de Chirurgie &amp; de Medecine</usg>
+                  <usg type="domain" ana="#chirurgie #medecine">Terme de Chirurgie &amp; de Medecine</usg>
                   <pc>.</pc>
                   <def>Action par laquelle on frotte quelque partie malade avec quelques huiles, onguens ou autres
                      drogues, pour la guerir, ou la soulager. Les frictions sont fort en usage pour les maladies
@@ -45860,7 +45860,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#medecine#chymie">Terme de Medecine &amp; de Chymie</usg>
+                  <usg type="domain" ana="#medecine #chymie">Terme de Medecine &amp; de Chymie</usg>
                   <pc>,</pc>
                   <def>qui se dit des choses qu'on prend en fumée, ou qui se tournent en fumée. Il est dangereux de
                      prendre le mercure par fumigation. La fumigation est aussi une calcination potencielle qui se fait

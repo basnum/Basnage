@@ -9845,7 +9845,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="u p">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>U P</orth>
@@ -14573,17 +14573,17 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="">
+            <entry xml:id="sarbatane">
                <form type="lemmaGrp">
                   <form type="lemma">SARBATANE</form>
                   <pc>,</pc>
                   <form type="variant">ou SARBACANE</form>
                   <pc>.</pc>
+                  <gramGrp>
+                     <pos>s.</pos>
+                     <gen>f.</gen>
+                  </gramGrp>
                </form>
-               <gramGrp>
-                  <pos>s.</pos>
-                  <gen>f.</gen>
-               </gramGrp>
                <sense n="1">
                   <def>Tuyau fait ordinairement de verre, avec lequel les écoliers jettent des pois malicieusement à
                      leurs camarades, en les souflant avec la bouche. Aux Maldives ils se servent de sarbatanes pour
@@ -21355,7 +21355,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="1">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>1</orth>
@@ -21394,7 +21394,7 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#banque#chancelerie romaine">Terme de Banque &amp; de Chancelerie
+                  <usg type="domain" ana="#banque #chancelerie_romaine">Terme de Banque &amp; de Chancelerie
                      Romaine</usg>
                   <pc>,</pc>
                   <def>est un Officier du premier banc, qui écrit les Bulles, qui s'expedient en original Gothique. Ils
@@ -22054,7 +22054,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#pharmacie#botanique">Terme de Pharmacie &amp; de Botanique</usg>
+                  <usg type="domain" ana="#pharmacie #botanique">Terme de Pharmacie &amp; de Botanique</usg>
                   <pc>.</pc>
                   <def>C'est un fruit qui ressemble à une petite prune, qui étant meur est verd tirant sur le noir, qui
                      est fort doux, &amp; a une chair tenace &amp; gluante, dont les Syriens font une glu, qu'on appelle
@@ -22575,7 +22575,7 @@
                   </gramGrp>
                </form>
                <sense n="1">
-                  <usg type="domain" ana="#astronomie#geometrie">Terme d'Astronomie, &amp; de Geometrie</usg>
+                  <usg type="domain" ana="#astronomie #geometrie">Terme d'Astronomie, &amp; de Geometrie</usg>
                   <pc>.</pc>
                   <def>C'est la soixantiéme partie d'une minute, soit en la division des cercles, soit en la mesure du
                      temps. Chaque vibration d'un pendule de trois pieds &amp; huit lignes &amp; demie, mesure de Paris,
@@ -23084,7 +23084,7 @@
                      <orth>Secrét</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#guerre#marine">en termes de Guerre &amp; de Marine</usg>
+                  <usg type="domain" ana="#guerre #marine">en termes de Guerre &amp; de Marine</usg>
                   <pc>,</pc>
                   <def>se dit de la lumiere d'un canon. Il faut mettre une platine de plomb sur le secret du canon pour
                      le garentir de l'eau ou du feu. Le degourgeoir sert à nettoyer le secret. Le secret d'un brûlot est
@@ -25102,7 +25102,7 @@
                      <orth>Sellette</orth>
                   </form>
                   <pc>.</pc>
-                  <usg type="domain" ana="#laboureur#charron">Terme de Laboureur &amp; de Charron</usg>
+                  <usg type="domain" ana="#laboureur #charron">Terme de Laboureur &amp; de Charron</usg>
                   <pc>.</pc>
                   <def>C'est la partie de la charrue sur quoy pose le bout de la haye<pc>.</pc>
                   </def>
@@ -33682,17 +33682,14 @@
          <div>
             <head>SIG<pc>.</pc>
             </head>
-            <entry xml:id="">
-               <re>
-                  <form>Signalé, ée</form>
-                  <form>.</form>
-                  <form>part</form>
+            <entry xml:id="signalé">
+               <form type="lemmaGrp">
+                  <orth>Signalé, ée</orth>
                   <pc>.</pc>
-                  <def>pass</def>
-                  <form>.</form>
-                  <def>Ce joursignalé par tant de victoires<pc>.</pc>
-                  </def>
-               </re>
+                  <gramGrp><pos>part. pass.</pos></gramGrp>
+               </form>
+               <sense><def>Ce joursignalé par tant de victoires<pc>.</pc>
+                  </def></sense>
                <sense>
                   <def>Signalé, ée. adj. Considerable, particulier, remarquable. Vous leur ferez une faveur signalée.
                      Voit. Un service signalé, une vertu signalée. Il se dit aussi des personnes tant en bonne qu'en
@@ -39197,7 +39194,7 @@
                      <orth>Solutson</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#chymie#medecine">en termes de Chymie &amp; de Medecine</usg>
+                  <usg type="domain" ana="#chymie #medecine">en termes de Chymie &amp; de Medecine</usg>
                   <pc>,</pc>
                   <def>est l'action par laquele on reduit les corps mixtes en leurs parties, soit par le feu, soit par
                      les eaux fortes, ou simplement en les delayant dans une liqueur. La solution des metaux &amp; des
@@ -39390,7 +39387,7 @@
                      <orth>Sommaire</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#pratique#palais">en termes de Pratique, &amp; de Palais</usg>
+                  <usg type="domain" ana="#pratique #palais">en termes de Pratique, &amp; de Palais</usg>
                   <pc>.</pc>
                   <def>Les causes sont reputées sommaires par le titre 17. de l'Ordonnance de 1667. dans les Prevôtez,
                      &amp; Chatellenies Royales, lorsqu'elles n'excedent point la somme de 200. livres ; &amp; dans les
@@ -50295,7 +50292,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="8">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>8</orth>
@@ -57191,7 +57188,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#banquier#chancellerie romaine">Terme de Banquier &amp; de Chancellerie
+                  <usg type="domain" ana="#banquier #chancellerie_romaine">Terme de Banquier &amp; de Chancellerie
                      Romaine</usg>
                   <pc>.</pc>
                   <def>C'est une seconde expedition d'une sinature de Cour de Rome, d'une dispense ou autre acte qu'on

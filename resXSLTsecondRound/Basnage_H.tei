@@ -6810,8 +6810,7 @@
                </form>
                <gramGrp>
                   <pos>subst.</pos>
-                  <gen>fem</gen>
-                  <pc>.</pc>
+                  <gen>fem.</gen>
                </gramGrp>
                <sense n="1">
                   <def>Huitiéme lettre de l'Alphabet. Quelques Grammairiens ont douté si l'h étoit une lettre. Ils
@@ -7080,7 +7079,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#cuisinier#rotisseur">Terme de Cuisinier &amp; de Rotisseur</usg>
+                  <usg type="domain" ana="#cuisinier #rotisseur">Terme de Cuisinier &amp; de Rotisseur</usg>
                   <pc>.</pc>
                   <def>C'est la peine que le cuisinier ou le rotisseur a de plumer, de vuider, de larder, de piquer, de
                      barder quelque oiseau. Il faut donner tant pour l'habillage de ces perdrix, de ces becca</def>
@@ -7875,9 +7874,12 @@
                      elle representoit un sceptre royal. En Latin Asphodeles albus non ramosus C. B. ou Hastula
                         regia<pc>.</pc>
                   </def>
-                  <xr>Voyez AsPphodele</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>AsPphodele</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="6">
                   <def>HachEMmENS, ou HANCHEMENS. s.m. tL'h s'aspire! Terme de Blason, qui se dit des liens de pennaches
                      à divers noeuds, &amp; lacets, &amp; à longs bouts voltigeans en l'air, dont les Allemands lient
@@ -8489,8 +8491,11 @@
                      qui est plus incommode que la grande gelée. Ce mot peut venir de la ressemblance qu'il a avec les
                      incommoditez qu'apporte la haire. HAIRON. HaIRoOnniERe, &amp;c<pc>.</pc>
                   </def>
-                  <xr>Voyez Heron, Heronniere</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Heron, Heronniere</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="haissable">
@@ -8602,10 +8607,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>tL'h s'aspire! Le halbran est un jeune canard sauvage. Un halbran bon &amp; gras<pc>.</pc>
                   </def>
@@ -9283,9 +9287,12 @@
                   <def>est un meteore qui paroit alentour du soleil, qu'on appelle autrement ceuronne &amp;
                         parelie<pc>.</pc>
                   </def>
-                  <xr>Voyez ces mots à leur ordre</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>ces mots à leur ordre</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <etym>
                   <lbl>Ce mot vient du</lbl>
                   <lang>Grec</lang>
@@ -9648,7 +9655,7 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#relation#voyage">Terme de Relation &amp; de Voyage</usg>
+                  <usg type="domain" ana="#relation #voyage">Terme de Relation &amp; de Voyage</usg>
                   <pc>.</pc>
                   <def>Le Han est un grand lieu couvert, à-peuprès comme une grange, &amp; où il y a plusieurs
                      cheminées, &amp; plusieurs petites separations, pour loger les caravanes. Il y a des Hans plus
@@ -9750,9 +9757,12 @@
                <sense n="3">
                   <def>Hanche de haut-eois, ou autre instrument de Musique<pc>.</pc>
                   </def>
-                  <xr>Voyez Anche</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Anche</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="4">
                   <form>
                      <orth>Hanche</orth>
@@ -9779,8 +9789,11 @@
                <sense>
                   <def>Espece d'herbe qu'on appelle autrement Jusquiame. En Latin, hyoscyamus<pc>.</pc>
                   </def>
-                  <xr>Voyez Jusquiame</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Jusquiame</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="haneton">
@@ -9970,8 +9983,11 @@
                      nombre de villes d'Allemagne, qui se sont liguées ou alliées pour le commerce. Lubec est la
                      premiere des villes Hanseatiques<pc>.</pc>
                   </def>
-                  <xr>Voyez Hanse</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Hanse</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="hansiere">
@@ -10300,8 +10316,11 @@
                <sense>
                   <def>Grand arbre qui prodoit la gomime Tacamaque<pc>.</pc>
                   </def>
-                  <xr>Voyez Tacamaque</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Tacamaque</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="harang">
@@ -10619,7 +10638,7 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#gantier#peaucier">Terme de Gantier &amp; de Peaucier</usg>
+                  <usg type="domain" ana="#gantier #peaucier">Terme de Gantier &amp; de Peaucier</usg>
                   <pc>.</pc>
                   <def>C'est un morceau de fer de la grosseur de deux bons pouces, tortillé &amp; plié en cercle, &amp;
                      attaché à un ais à la hauteur de trois ou quatre pieds. La hard sert à adoucir les peaux les
@@ -11112,8 +11131,11 @@
                      insolentes. Scaliger devient une harangere dans ses emportemens, &amp; s'abaisse jusqu'au plus bas
                      étage du peuple, pour dire des injures à ses ennemis. Bal. HaRGNE<pc>.</pc>
                   </def>
-                  <xr>Voyez Hernie</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Hernie</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="hargneux">
@@ -11588,8 +11610,11 @@
                      Juge ; car alors elle est obligée de suivre celui qui a crié haro sur elle, &amp; l'un &amp;
                      l'autre demeurent en prison, ou sont tenus de bailler caution<pc>.</pc>
                   </def>
-                  <xr>Voyez Claheur</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Claheur</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Les Lettres de Chancelerie portent ordinairement, Nonobstant clameur de hare, chartre Normande,
                      &amp; autres privileges à ce contraires. Le haro est interjetté non seulement pour crime, mais
                      aussi pour l'introduction de tous procés, même en matiere beneficiale, tant pour meuble que pour
@@ -12155,8 +12180,11 @@
                      ont supposé le hazard, pour exprimer un je ne sçai quoy qui agit sans regle, &amp; sans
                      intelligence. Le Cl<pc>.</pc>
                   </def>
-                  <xr>Voyez Fortune</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fortune</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>On dit que le hazard a bien des affaires, car il se mêle de tout. C'est un grand coup du hazard
                      si cette affaire reussit<pc>.</pc>
                   </def>
@@ -12843,8 +12871,11 @@
                      decharnez. Lombre de son pere lui apparut avec un visage have, decharné &amp; affreux.
                         HaVÉE<pc>.</pc>
                   </def>
-                  <xr>Voyez Havage</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Havage</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="haveron">
@@ -13100,8 +13131,11 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <xr>Voyez Hoche-queuë</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Hoche-queuë</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>C'est le premier des oiseaux, qui attaque le heron dans son vol. Le second s'appelle tombisseur,
                      ou attombisseur, &amp; le troisiéme teneur<pc>.</pc>
                   </def>
@@ -13392,8 +13426,11 @@
                      terre une haute Justice ; c'està-dire, ouù on peut connoître des crimes, &amp; juger à
                         mort<pc>.</pc>
                   </def>
-                  <xr>Voyez Justice</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Justice</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Un Seigneur &amp; Dame de haut parage, de haute Noblesse. Un fief de hautberg<pc>.</pc>
                   </def>
                </sense>
@@ -13500,8 +13537,11 @@
                      hautes, moyennes &amp; basses selon qu'elles couvrent les parties du corps suivant les divisions
                      qu'en font les Maîtres en fait d'armes<pc>.</pc>
                   </def>
-                  <xr>Voyez Garde</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Garde</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Au jeu on appelle les hautes cartes, les peintures &amp; les as ; les basses cartes, les 234.5.é.
                      7. &amp;c<pc>.</pc>
                   </def>
@@ -14551,8 +14591,11 @@
                      <pc>.</pc>
                   </def>
                   <pc>.</pc>
-                  <xr>Voyez Bree</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Bree</ref>
+                     <pc>.</pc>
+                  </xr>
                   <etym>Quelques-uns tiennent que ce mot vient d'Heber, Patriarche, fils de Saala, un des descendans de
                      Sem. Ils soutiennent que c'est de lui que le peuple Hebren a reçu son nom, aussi bien que la Langue
                      Hebraïque. Ce Patriarche ne voulut point se joindre à ceux qui bâtirent la Tour de Babylone. C'est
@@ -15030,8 +15073,11 @@
                <sense>
                   <def>Plante medecinale<pc>.</pc>
                   </def>
-                  <xr>Voyez Ellebore</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Ellebore</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="hellenisme">
@@ -15078,12 +15124,18 @@
                <sense>
                   <def>Plante qu'on appelle autrement Parietaire<pc>.</pc>
                   </def>
-                  <xr>Voyez Parietaire</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Parietaire</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Il y a une autre Helxine surnommée cissampelos, qui est le grand lset ou liseron<pc>.</pc>
                   </def>
-                  <xr>Voyez Liset</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Liset</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -15197,8 +15249,11 @@
                      C. B. ou bemrecalls Dioscorides. Matth. Il y a une autre espece de lis qu'on appelle aussi
                      hemerocalle ou martagon, en Latin lilium floribus reflexis montanum C. B<pc>.</pc>
                   </def>
-                  <xr>Voyez Martagon</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Martagon</ref>
+                     <pc>.</pc>
+                  </xr>
                   <etym>Hemerocallis vient de hemera, jour, &amp; de callos, beauté, comme qui diroit fleur belle pour
                      un jour, parceque la fleur de l'hemerocalle dure peu dans sa beauté</etym>
                   <pc>.</pc>
@@ -15443,10 +15498,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Maladie qul vient au fondement par une abondance de sang melancholique qui se jette sur les
                      parties. Il y a des hemorroides ouvertes, d'autres fermées. Il y en a d'internes &amp;
@@ -15593,9 +15647,12 @@
                   <def>Qui concemne le foye. Un flus hepatique. Un homme hepatique, qui a des maladies du foye. On
                      appelle aussi la veine hepatique ou jecoraire, celle qu'on nomme autrement la basilique<pc>.</pc>
                   </def>
-                  <xr>Voyez Basilique</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Basilique</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <def>En Chiromance on appelle aussi, Ligne hepatique ou du foye, une ligne notable qui traverse toute
                      la paume de la main, &amp; commence dans l'espace qui est entre le pouce &amp; le doigt indice.
@@ -15964,9 +16021,12 @@
                      arrêter le sang, quand ils se sont fait quelque playe. On l'appelle par la même raison herbe aux
                      Voituriers, ou Cochers. On la nomme encore mille-feuille<pc>.</pc>
                   </def>
-                  <xr>Voyez Mille-feuille</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Mille-feuille</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <re>
                   <form>Herbe aux chats</form>
                   <form>,</form>
@@ -15988,9 +16048,12 @@
                   <def>Herbe de Citron. C'est le nom qu'on donne à la melisse, parcequ'elle a une odeur de
                         citron<pc>.</pc>
                   </def>
-                  <xr>Voyez Melisse</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Melisse</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="4">
                   <def>Herbe aux cuilliers, est une plante qui pousse de sa racine des feuilles presque rondes, vertes,
                      charnuës, pleines de suc, creuses quelquefois comme le cuilleron d'une cuillier, attachées par des
@@ -16007,9 +16070,12 @@
                      quelquefois creuses comme le cuillieron d'une cueillier. Herbe jaune, oujaunir. Plante qui sert à
                      teindre en jaune<pc>.</pc>
                   </def>
-                  <xr>Voyez Gaude</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Gaude</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="5">
                   <def>Herbe au lait, est une plante qui pousse des tiges grêies, basses, rampantes. Ses feuilles sont
                      opposées deux à deux, semblables à celles de l'herniole. S. fleur est un godet jaune ou purpurin,
@@ -16039,8 +16105,11 @@
                      aux perles. Plante qu'on appelle autrement gremil, en Latin lithespermum. Voyez Gremil. Herbe aux
                      poux. Plante qui est ainsi nommée, parcequ'elle est bonne pour tuer les poux<pc>.</pc>
                   </def>
-                  <xr>Voyez Staphisaigre. Herbe aux puces</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Staphisaigre. Herbe aux puces</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Plante qui pousse une ou plusieurs tiges à la hauteur d'environ un pied, rondes, veluës,
                      rameuses, garnies de feuilles opposées deux à deux, étroites, pointuës, veluës, lemblables par leur
                      figure à celles de l'hysope, mais plus étroites, nerveuses comme celles du plantain. Il sort des
@@ -16055,9 +16124,12 @@
                      vulgairement à l'armoise, parceque les païsans s'en font des ceintures le jour de la Saint
                         Jean<pc>.</pc>
                   </def>
-                  <xr>Voyez Armoise</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Armoise</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="7">
                   <def>Heree de Saint-Pierre. C'est une espece de bacille, appellée autrement crête marine, en Latin,
                      crithmum, five feniculum maritimum minus. C. B<pc>.</pc>
@@ -16071,23 +16143,35 @@
                   <def>se dit aussi d'une espece de primevere, qu'on appelle primula veris odorata, flore luteo simplic.
                      J. B<pc>.</pc>
                   </def>
-                  <xr>Voyez Primevere</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Primevere</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Herbe aux Teigneux. Plante qu'on appelle autrement bardane ou gletteron<pc>.</pc>
                   </def>
-                  <xr>Voyez Bardane</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Bardane</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Herbe aux verrues. Plante qui est ainsi nommée, parcequ'elle est bonne contre les verrues. On
                      l'appelle aussi heliotrope ou tourne-sol<pc>.</pc>
                   </def>
-                  <xr>Voyez Heliotropé</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Heliotropé</ref>
+                     <pc>.</pc>
+                  </xr>
                   <pc>.</pc>
                   <def>Plante qu'on nomme autrement senitive. Voycz Sensitive. Herbe aux Voituriers<pc>.</pc>
                   </def>
-                  <xr>Voyez MilleFeuille, ou Herbe aux Charfentiers</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>MilleFeuille, ou Herbe aux Charfentiers</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="9">
                   <def>On dit aussi, Aller à l'herbe, quand les païsannes vont querir des faisceaux de mechantes herbes
                      dans les vignes &amp; dans les champs pour servir de fourrage à leurs vaches en hiver<pc>.</pc>
@@ -16191,9 +16275,12 @@
                   <def>est le premier des ventricules du boeuf &amp; autres animaux ruminants, où se reçoit l'herbe
                      qu'ils paissent. On l'appelle a ussi la panse où la double<pc>.</pc>
                   </def>
-                  <xr>Voyez Panse</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Panse</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <def>On appelle aussi en Fauconnerie herbier, le tuyau ou canal de la respiration qui est dans le col
                      de l'oiseau HERBIERE. s. f. Vendeuse d'herbes dans les marchez. On appelle aussi Herbieres, ces
@@ -16219,8 +16306,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>neut</subc>
                   </gramGrp>
                </form>
@@ -17040,8 +17126,11 @@
                      mot a pourtant beaucoup de rapport avec l'Hebreu horisk, qui signifie celui qui a reçu sa part d'un
                         heritage<pc>.</pc>
                   </def>
-                  <xr>Voyez Martinius</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Martinius</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Heritier beneficiaire, est celui qui accepte une succession en vertu de Lettres du Prince, qui
                      lui permettent de prendre une succession, de faire acte d'heritier, sans être tenu des dettes que
                      jusqu'à la concurrence du bien delaissé, à la charge d'en faire inventaire. Un heritier
@@ -17365,15 +17454,17 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Plante<pc>.</pc>
                   </def>
-                  <xr>Voyez Hernole</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Hernole</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="hernie">
@@ -18012,8 +18103,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>neut</subc>
                   </gramGrp>
                </form>
@@ -18132,13 +18222,11 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>masc</gen>
-                     <pc>.</pc>
+                     <gen>masc.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <usg type="domain" ana="#grammaire">Terme de Grammaire</usg>
                   <pc>,</pc>
@@ -19464,7 +19552,7 @@
                </form>
                <pc>.</pc>
                <sense n="4">
-                  <usg type="domain" ana="#maçons#paveurs">Terme de Maçons &amp; de Paveurs</usg>
+                  <usg type="domain" ana="#maçons #paveurs">Terme de Maçons &amp; de Paveurs</usg>
                   <pc>,</pc>
                   <def>qui signifie, Enfoncer des pieux ou des parez avec la hie<pc>.</pc>
                   </def>
@@ -19839,8 +19927,11 @@
                   <def>langue de cheval. On a donné ce nom à cette plante, parcequ'on a trouvé quelque ressemblance de
                      la figure de sa feuille avec la langue d'un cheval<pc>.</pc>
                   </def>
-                  <xr>Voyez Laurier Alexandrin</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Laurier Alexandrin</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="hippogriffe">
@@ -19876,8 +19967,11 @@
                      grand lapathum, parceque souvent hippos, en Grec, a la vertu d'augmenter dans les mots qui en sont
                         composez<pc>.</pc>
                   </def>
-                  <xr>Voyez Reiuearbe des Moines</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Reiuearbe des Moines</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="hippomanes">
@@ -19974,8 +20068,11 @@
                <sense>
                   <def>Plante<pc>.</pc>
                   </def>
-                  <xr>Voyez Maceron</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Maceron</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="hippopotame">
@@ -20127,8 +20224,11 @@
                <sense>
                   <def>Les passions histeriques sont celles qui dependent de la matrice des femmes<pc>.</pc>
                   </def>
-                  <xr>Voyez Hysterique</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Hysterique</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="histoire">
@@ -20323,10 +20423,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Celui qui a recueilli les Histoires, les actions des siecles passez. Tite Live, Corneille,
                      Tacite, Saluste, ont servi de modelle aux autres Historiens. Pour être bon Historien, il faut être
@@ -21640,10 +21739,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Femme grossiere, &amp; qui tient quelque chose de l'homme, soit par sa taille, sa voix, ou ses
                      manieres d'agir<pc>.</pc>
@@ -23549,8 +23647,11 @@
                <sense>
                   <def>Plante<pc>.</pc>
                   </def>
-                  <xr>Voyez Ormin</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Ormin</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="hormis">
@@ -23907,8 +24008,11 @@
                      qu'elle est moins belle. Voit. Capable de tout faire horsimu une amitié. Id. On se sert aussi de
                      Hors dans la même signification<pc>.</pc>
                   </def>
-                  <xr>Voyez Hors</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Hors</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="iiortolage">
@@ -24075,8 +24179,11 @@
                      Tyr. Les Religieux Hospitaliers du St. Esprit ont été instituez en France par Guidon Comte de
                         Montpellier<pc>.</pc>
                   </def>
-                  <xr>Voyez Sponde &amp; Mrs</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Sponde &amp; Mrs</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>de Ste. Marthe. Les Freres de la Charité sont des Religieux Hospitaliers ; dont la Congregation a
                      commencé à Grenade, &amp; a été confirmée par une Bulle de 1572. Il y a des Religieuses
                      Hospitalieres, Soeurs grises, ou filles de la Charité. Les Anciens invoquoient nn Jupiter
@@ -24912,8 +25019,11 @@
                <sense>
                   <def>Arbre des Indes occidentales<pc>.</pc>
                   </def>
-                  <xr>Voyez Hobo</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Hobo</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="houppe">
@@ -24979,7 +25089,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="5">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>5</orth>
@@ -25323,9 +25433,8 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>m.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
-                  <pc>.</pc>
                   <pron>L'h s'aspire</pron>
                </form>
                <pc>.</pc>
@@ -25570,8 +25679,11 @@
                   <def>qui signifioit des brodequins, ou bas de chausses. Il est encore en usage dans le
                         Blason<pc>.</pc>
                   </def>
-                  <xr>Voyez Houseaux</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Houseaux</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Les Serruriers appellent houssettes, des serrures qui servent pour des coffres, &amp; qui se
                      ferment à la chute du couvercle<pc>.</pc>
                   </def>
@@ -25608,10 +25720,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Endroit d'une forêt qui n'est plein que d'arbrisseaux, comme de houx, &amp; autres semblables,
                      qu'on nomme en Latin virgulteta<pc>.</pc>
@@ -25693,8 +25804,11 @@
                   <def>C'est une espece de Houx-frelon, laquelle Mr. Tournefort appelle Rusces myrtifolius,
                         aculeatus<pc>.</pc>
                   </def>
-                  <xr>Voyez Houx-erelon</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Houx-erelon</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="houtarde">
@@ -25768,8 +25882,11 @@
                      aussi bonne pour l'hydropisie, la cakexie, la jaunisse, le calcul &amp; la retention d'urine.
                      Petit-Houx. Plante<pc>.</pc>
                   </def>
-                  <xr>Voyez Houx-frelon</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Houx-frelon</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -25820,8 +25937,11 @@
                   <def>Herisser la peau, le poil, la plume, comme font les oiseaux &amp; quelques animaux qui se mettent
                      en colere<pc>.</pc>
                   </def>
-                  <xr>Voyez ce chat, ce geai, comme il se hubit</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>ce chat, ce geai, comme il se hubit</ref>
+                     <pc>.</pc>
+                  </xr>
                   <pc>.</pc>
                   <def>Hubir, se Hubir, se dit figurément &amp; populairement des personnes, en cette phrase, Il faut se
                      hubir comme on pourra ; pour dire, il faut s'accommoder, se passer de ce qu'on a, patienter jusqu'à
@@ -25848,8 +25968,11 @@
                   <def>L'h saspire. Grand cossre de bois dans lequel les bourgeois &amp; les païsans paîtrissent le
                      pain. A Paris les Boulangers disent paîtrin<pc>.</pc>
                   </def>
-                  <xr>Voyez Paistrin</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Paistrin</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Quelques Latins l'ont appellé hu</def>
                </sense>
                <sense n="2">
@@ -26381,10 +26504,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>qui s'est dit d'une moyenne porte pour entrer dans les sales, chambres &amp; autres appartemens :
                      car à l'égard de la principale entrée de la maison, on l'a toujours appellée porte, comme il paroît
@@ -26658,8 +26780,7 @@
                      <pos>adj.</pos>
                      <gen>m.</gen>
                      <lbl>&amp;</lbl>
-                     <gen>fem</gen>
-                     <pc>.</pc>
+                     <gen>fem.</gen>
                      <pos>&amp; subst</pos>
                   </gramGrp>
                </form>
@@ -26700,8 +26821,11 @@
                <sense>
                   <def>On dit en sa place, en huitiéme lieu. HUITZPACOtE. subst. m<pc>.</pc>
                   </def>
-                  <xr>Voyez Hucipochotl</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Hucipochotl</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -26725,9 +26849,12 @@
                   <def>Quelques-uns disent HULOT. s. m. mais mal. Espece de hibou, ou de gros oiseau nocture. On
                      l'appelle aussi Huëtte<pc>.</pc>
                   </def>
-                  <xr>Voyez Huette</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Huette</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <form>
                      <orth>Hulotte</orth>
@@ -26805,8 +26932,11 @@
                   <def>On dit en Theologie, Jesus-Christ a pris la nature humaine, il s'est chargé des infirmitez
                      humaines. On y distingue la foi divine, d'avec la foi humaine<pc>.</pc>
                   </def>
-                  <xr>Voyez Foi</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Foi</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>On dit aussi, qu'on ne peut être sauvé par les moyens bumaiis, par les voyes humaines ;
                      c'est-à-dire, sans la greee. C'est une illusion &amp; une adresse de l'amour propré, qui appelle
                      sentimens humains les desirs que la raison, &amp; la Religion condamnent. PortR. Ce qu'on nome
@@ -27568,8 +27698,11 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <xr>Voyez Huette. ou Hulotte</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Huette. ou Hulotte</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>C'est la même chose<pc>.</pc>
                   </def>
                </sense>
@@ -28073,8 +28206,11 @@
                   <def>, cochn. Cet aimal est un des plus immondes, ne vivant que de charognes, tirant hors de terre les
                      corps morts pour les devorer<pc>.</pc>
                   </def>
-                  <xr>Voyez Hyvene</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Hyvene</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="hyaloide">
@@ -29628,8 +29764,11 @@
                      lieu contre l'heritier, &amp; biens tenant ; lequel en cette qualité est tenu solidairement, sans
                      division, ni discussion<pc>.</pc>
                   </def>
-                  <xr>Voyez Loyseau</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Loyseau</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="hypothecairement">

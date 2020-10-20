@@ -6820,8 +6820,11 @@
                <sense>
                   <def>On dit d'un homme ignorant, qu'il ne sçait ni A ni B<pc>.</pc>
                   </def>
-                  <xr>Voyez la Lettre A</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>la Lettre A</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>On dit aussi d'un homme malin, qu'il est marqué au B ; pour dire qu'il est ou borgne, ou bossu,
                      ou boiteux ; parceque ceux qui sont tels, sont ordinairement malins. Mais cela se doit mettre au
                      rang des proverbes<pc>.</pc>
@@ -7181,8 +7184,11 @@
                   <def>C'est le premier des degrez qu'on donne dans les Universitez pour les sciences de Theologie, de
                      Medecine, de Droit Civil, &amp; Canon<pc>.</pc>
                   </def>
-                  <xr>Voyez Bachelier</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Bachelier</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="bacchanales">
@@ -7261,8 +7267,11 @@
                   <def>Plante qui est fort commune aux environs de Montpellier, d'où vient qu'on l'appelle Baccharis de
                      Montpellier. En Latin Coniza major vulgaris. C'est une espece de Conise<pc>.</pc>
                   </def>
-                  <xr>Voyez Conise</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Conise</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="bacchique">
@@ -7652,10 +7661,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#cabaretier">Terme de Cabaretier</usg>
                   <pc>.</pc>
@@ -9400,8 +9408,11 @@
                <sense n="2">
                   <def>Bailliveaux de Tailleurs de pierre<pc>.</pc>
                   </def>
-                  <xr>Voyez Eschasses</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Eschasses</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="baillon">
@@ -9612,7 +9623,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#medailliste#monnoyeur">Terme de Medailliste &amp; de Monnoyeur</usg>
+                  <usg type="domain" ana="#medailliste #monnoyeur">Terme de Medailliste &amp; de Monnoyeur</usg>
                   <pc>.</pc>
                   <def>C'est une medaille ou monnoye qui a une empreinte de deux têtes en proil, dont l'une avance sur
                      l'autre, comme on en voit de Louïs &amp; de Carloman, du Roi Henri IV. &amp; de sa femme, &amp; une
@@ -10503,10 +10514,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Ordures qui sont amassées avec le balay<pc>.</pc>
                   </def>
@@ -10876,10 +10886,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Discours inutiles qui n'ont ni raison ni solidité ; sornettes, contes faits à plaisir. Toutes les
                      raisons de ce chicaneur ne sont que des balivernes. Je n'entends rien à toutes ces balivernes. Mol.
@@ -10994,8 +11003,11 @@
                <sense>
                   <def>Espece de faucon<pc>.</pc>
                   </def>
-                  <xr>Voyez Faucon</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Faucon</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="balle">
@@ -12501,7 +12513,7 @@
                      <orth>Bander</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#matrone#congrés">en termes de Matrone &amp; de congrés</usg>
+                  <usg type="domain" ana="#matrone #congrés">en termes de Matrone &amp; de congrés</usg>
                   <pc>,</pc>
                   <def>se dit de l'érection naturelie de la verge, dont le deffaut est une marque d'impuissance, &amp;
                      dont elles font leur rapport dans les Officialitez. On le dit aussi des femmes, mais plus rarement.
@@ -13935,8 +13947,11 @@
                   <pc>,</pc>
                   <def>signifie autrement un arbeau, qui est un poisson qu'on met souvent dans les Armoiries,
                      ordinairement courbé &amp; adossé, comme en celles du Duché de Bar. BARAGE</def>
-                  <xr>Voyez Barrage</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Barrage</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="baragouin">
@@ -14783,9 +14798,12 @@
                      fait qu'on l'appelle aussi canart &amp; sa femelle canne. On tond les barbets, &amp; de leur poil
                      on fait des chapeaux<pc>.</pc>
                   </def>
-                  <xr>Voyez Chien</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Chien</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <def>On appelle aussi Barbets, les Vaudois des montagnes de Piemont, à cause qu'ils sont gouvernez par
                      des Ministres qu'ils appellent Barbes, c'est-à-dire anciens<pc>.</pc>
@@ -14902,9 +14920,12 @@
                   <pc>,</pc>
                   <def>est aussi une maladie de cheval, &amp; est la même chose que barbes<pc>.</pc>
                   </def>
-                  <xr>Voyez Barbes</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Barbes</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="4">
                   <form>
                      <orth>Barbillon, en Fauconnerie</orth>
@@ -15329,8 +15350,11 @@
                      le visage, comme d'un masque, lorssqu'ils étoient sur les Theatres, pour n'être pas connus du
                         peuple<pc>.</pc>
                   </def>
-                  <xr>Voyez Glouteron</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Glouteron</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="barde">
@@ -16075,8 +16099,11 @@
                   <def>a signifié quelquefois, la premiere Seigneurie après la souveraine, ayant toute Justice, &amp;
                      droits mouvans de la Couronne : ce qu'on appelloit Fiefchevet, ou tenu à chef<pc>.</pc>
                   </def>
-                  <xr>Voyez Du Tillet</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Du Tillet</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>L'Auteur du Grand Coûtumier écrit qu'au Royaume de France il n'y avoit autrefois que trois
                      Baronies, Bourbon, Coucy, &amp; Beaujeu<pc>.</pc>
                   </def>
@@ -16927,8 +16954,11 @@
                      certains delais ; ce qui se faisoit à la Barre de la Cour &amp; alors on appelloit Barres, les
                      deffenses &amp; exceptions qu'on y proposoit les unes après les autres<pc>.</pc>
                   </def>
-                  <xr>Voyez Ragueau</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Ragueau</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="barrure">
@@ -17858,8 +17888,11 @@
                      Mauvais payement fait d'une chose vile au lieu d'argent. Ces mots viennent de basilica, &amp; de
                         basilicani<pc>.</pc>
                   </def>
-                  <xr>Voyez Menage</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Menage</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="basque">
@@ -18018,8 +18051,11 @@
                   <def>C'est un nom qu'on donne à des chiens de petite taille, qu'on nomme autrement Chiens de
                         terre<pc>.</pc>
                   </def>
-                  <xr>Voyez Chien</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Chien</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="bassette">
@@ -18063,8 +18099,11 @@
                      la bassiere pour les gens. Baissiere, ou Bessiere, est beaucoup plus doux &amp; plus usité
                         aussi<pc>.</pc>
                   </def>
-                  <xr>Voyez Bessiere</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Bessiere</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="bassille">
@@ -19801,9 +19840,12 @@
                      batallum, qu'on a dit dans la basse Latinité pour signifier un batail, ou batant de
                         cloche<pc>.</pc>
                   </def>
-                  <xr>Voyez Battant</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Battant</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <re>
                   <form>Bataillée</form>
                   <form>.</form>
@@ -19981,8 +20023,11 @@
                <sense>
                   <def>Racine qui est fort corn'une au Isles Antiles<pc>.</pc>
                   </def>
-                  <xr>Voyez Patate</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Patate</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="batayoles">
@@ -20355,9 +20400,12 @@
                      la faire sonner. Le battant de la grosse cloche de Paris pese 1300. livres. Quelques-uns disent
                         batail<pc>.</pc>
                   </def>
-                  <xr>Voyez Batail</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Batail</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <re>
                   <form>Battant</form>
                   <form>,</form>
@@ -20457,7 +20505,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#relieur#marchand papetier">Terme de Relieur &amp; de Marchand papetier</usg>
+                  <usg type="domain" ana="#relieur #marchandpapetier">Terme de Relieur &amp; de Marchand papetier</usg>
                   <pc>.</pc>
                   <def>C'est ce qu'on bat à la fois de papier, ou d'un livre en blanc, sur la pierre à battre<pc>.</pc>
                   </def>
@@ -20700,9 +20748,12 @@
                   <def>se dit aussi de la maniere de battre le tambour suivant les occasions, ou pour la marche, ou pour
                      l'assemblée, ou pour la charge, &amp;c<pc>.</pc>
                   </def>
-                  <xr>Voyez Tambour</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Tambour</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="10">
                   <form>
                      <orth>Batterie</orth>
@@ -21374,8 +21425,11 @@
                <sense>
                   <def>Espece de chiens Anglois qui servent à courir les lievres, les renards &amp; sangliers<pc>.</pc>
                   </def>
-                  <xr>Voyez Chien</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Chien</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="baud">
@@ -21410,10 +21464,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#marine">Terme de Marine</usg>
                   <pc>.</pc>
@@ -22152,8 +22205,11 @@
                      vous rêvez, &amp; bayez aux Corneilles, Jour de Dieu, je saurai vous frotter les oreilles. Mol. Il
                      y en a d'autres qui disent beer aux Corneilles<pc>.</pc>
                   </def>
-                  <xr>Voyez Bfer</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Bfer</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="bayette">
@@ -23739,8 +23795,11 @@
                      y a bien des Courtisans qui béent aux corneilles, qui sont long temps à la Cour sans rien attraper.
                      Il y a des Auteurs qui disent bayer<pc>.</pc>
                   </def>
-                  <xr>Voyez ce mot</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>ce mot</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -24610,9 +24669,12 @@
                      dans leurs jardins ; mais ils en mettent dans des vases dont ils ornent leurs fenêtres. Quelques
                      Botanistes en font une espece de Linaire. En Latin scoparia, sive Osyris Gracorum<pc>.</pc>
                   </def>
-                  <xr>Voyez Linaire</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Linaire</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <form>
                      <orth>Belveder</orth>
@@ -24647,8 +24709,11 @@
                      appeller bequarre. Mais quand le b est plus bas d'un demi son, il est plus doux, &amp; plus mol,
                      &amp; c'est pourquoy on l'appelle bémol<pc>.</pc>
                   </def>
-                  <xr>Voyez B</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>B</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -25159,10 +25224,9 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>fem</gen>
+                     <gen>fem.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>qui ne se dit qu'en ces phrases. Rebuffe a écrit six volumes des matieres benesiciales. Une
                      pratique beneficiale. Tournet a recueilli tous les Arrêts rendus sur des causes
@@ -25611,7 +25675,6 @@
                <pc>.</pc>
                <sense>
                   <xr>Voyez Becuée</xr>
-                  <pc>,</pc>
                   <def>c'est la même chose<pc>.</pc>
                   </def>
                </sense>
@@ -26863,10 +26926,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>On ne se sert de ce mot que dans le stile burlesque. Il signifie des lunettes appliquées aux deux
                      yeux. Voyez Lunettes, où on a parlé de l'invention des besicles<pc>.</pc>
@@ -27405,8 +27467,11 @@
                      bêtes. On appelle une bête épaulée, une fille qu'on marie qui n'a pas bien conservé son honneur.
                      Bestia Magna. C'est la même chose qu'Elant<pc>.</pc>
                   </def>
-                  <xr>Voyez donc Elant</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>donc Elant</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="bestial">
@@ -28332,7 +28397,6 @@
                      qu'on appelle bezoardiques, tous les antidotes &amp; contrepoisons</etym>
                   <pc>.</pc>
                   <xr>Voyez Garcias ab Horto</xr>
-                  <pc>,</pc>
                   <def>qui en a fait une particuliere description<pc>.</pc>
                   </def>
                </sense>
@@ -28353,7 +28417,6 @@
                   <def>On appelle aussi bezoard jovial, une preparation qu'on fait de l'étaim<pc>.</pc>
                   </def>
                   <xr>Voyez EstaiM Bezoard animal</xr>
-                  <pc>,</pc>
                   <def>est une poudre composée du ceur &amp; du foye des viperes, pulverisez ensemble<pc>.</pc>
                   </def>
                </sense>
@@ -29026,10 +29089,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>m.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <pc>,</pc>
                   <def>qui signifioit autrefois des gens de guerre à pied, qu'on a appellez autrement Pitauts<pc>.</pc>
@@ -29407,7 +29469,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="bien fait">
+            <entry xml:id="bien_fait">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>BIEN FAIT</orth>
@@ -29887,8 +29949,11 @@
                      pour fiber, aussi bien que bever &amp; beveron. Les Anglois &amp; les Allemands l'appellent
                      bever</etym>
                   <pc>.</pc>
-                  <xr>Voyez Castor</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Castor</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="biez">
@@ -30078,8 +30143,11 @@
                      à une guigne, &amp; qui a été ainsi appellé, à cause qu'il est bigarré de rouge, de blanc, &amp; de
                      noir. En Latin duracinum cerasum. Il y a aussi un bigarreau qu'on appelle coeur<pc>.</pc>
                   </def>
-                  <xr>Voyez Cerise</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Cerise</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="bigarreautier">
@@ -30398,8 +30466,11 @@
                      le Roi &amp; les siens en se moquant l'appellerent Bigot : ce qui a passé aux autres Normands.
                      Plusieurs autres Histoires &amp; Chroniques rapportent la même chose<pc>.</pc>
                   </def>
-                  <xr>Voyez Pasquier</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Pasquier</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Originairement ce mot n'étoit pas odieux, &amp; signifioit seulement, de par Dieu. Guillaume de
                      Nang s recite que les Normands desirans de se faire Chretiens, s'écrierent Bigot, Bigot<pc>.</pc>
                   </def>
@@ -31089,9 +31160,12 @@
                      se font par billets, par lettres de change &amp; rescriptions. Il ne me peut pas nier que je ne lui
                      aye donné ce depôt, j'en ay son billet<pc>.</pc>
                   </def>
-                  <xr>Voyez Change</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Change</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <re>
                   <form>Billets de lEspargne</form>
                   <form>,</form>
@@ -31822,8 +31896,11 @@
                   </form>
                   <pc>.</pc>
                   <pc>.</pc>
-                  <xr>Voyez Bicqueter</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Bicqueter</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -32465,8 +32542,11 @@
                      Valentinien ne vouloit point sortir le jour du bissexte de Fevrier, comme le croyant
                         malencontreux<pc>.</pc>
                   </def>
-                  <xr>Voyez le mot An</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>le mot An</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="bissextil">
@@ -32577,8 +32657,11 @@
                      rendre inhabiles à la generation. Autrefois on disoit bestourner, qui signifioit renverser,
                      tourmenter, mettre en desordre<pc>.</pc>
                   </def>
-                  <xr>Voyez Bestourner</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Bestourner</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="bistre">
@@ -32688,8 +32771,11 @@
                   <def>Ce sont des canaux ou égouts qui regnent à fond de cale, à coté de la carlingue, par où
                      s'écoulent les eaux d'un vaisseau, &amp; viennent à la pompe<pc>.</pc>
                   </def>
-                  <xr>Voyez Vitonnieres</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Vitonnieres</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="bitume">
@@ -32962,8 +33048,11 @@
                   <etym>selon Saumaise, vient de glirellus, parceque c'est une espece de loir, qui lui rassemble en ce
                      qu'il s'engraisse en dormant, quoyqu'il differe en autre chose. Guyet le derive du Latin
                      meles</etym>
-                  <xr>Voyez Menage</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Menage</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>On connoît l'âge des blaireaux à la quantité des trous qu'ils ont sous la queuë ; car ils
                      augentent d'un tous les ans<pc>.</pc>
                   </def>
@@ -33703,10 +33792,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <pc>.</pc>
                   <def>Cageolleries, flatteries pour tromper quelcun. Il aextorqué cette donation, ce testament par
@@ -34352,9 +34440,12 @@
                      lieux où la terre ne peut produire de froment. Presque toute l'Amerique ne vit que du blé de
                         Turquie<pc>.</pc>
                   </def>
-                  <xr>Voyez Mays</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Mays</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <re>
                   <form>Blé noir, ou Blé Sarrasin</form>
                   <form>,</form>
@@ -34576,7 +34667,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="a moi">
+            <entry xml:id="a_moi">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>A moi</orth>
@@ -36843,9 +36934,12 @@
                      la vigne, le bois tortu. Bois gentil. Les Bourguignons ont donné ce nom au Vezereon, qu'on appelle
                      autrement aureole fem elle. C'est une espece de Garou ou de Thymelea<pc>.</pc>
                   </def>
-                  <xr>Voyez Meeereon</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Meeereon</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="20">
                   <def>Bois puant. C'est un arbrisseau qui devient quelquefois un arbre. Il est assez branchu. Ses
                      feuilles viennent trois à trois sur une queue. Elles sont oblongues, pointues, vertes par dessus,
@@ -37855,14 +37949,20 @@
                   <pc>,</pc>
                   <def>qui se dit de l'arroche<pc>.</pc>
                   </def>
-                  <xr>Voyez Arroche</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Arroche</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="9">
                   <def>Bonne-ponche. Boisson Angloise<pc>.</pc>
                   </def>
-                  <xr>Voyez Boule-Ponche</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Boule-Ponche</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Il lui a dit cela une bonne fois, c'est-à-dire, definitivement, une fois pour toutes<pc>.</pc>
                   </def>
                </sense>
@@ -38697,9 +38797,12 @@
                <sense n="1">
                   <def>Celui qui fait ou qui vend des bonnets. Chardon de Bonnetier<pc>.</pc>
                   </def>
-                  <xr>Voyez Chardon</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Chardon</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <def>On dit proverbialement, qu'un homme est comme le Bonnetier, qu'il n'en fait qu'à sa tête ; pour
                      dire, qu'il ne prend conseil de personne, qu'il ne suit que son caprice<pc>.</pc>
@@ -38732,10 +38835,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <usg type="domain" ana="#marine">Terme de Marine</usg>
                   <pc>.</pc>
@@ -39579,9 +39681,12 @@
                   <def>On appelle aussi une grenade borgne ou aveugle, celle qui n'a pas besoin d'être allumée pour être
                      jettée avec le mortier, mais qui s'allume en tombant<pc>.</pc>
                   </def>
-                  <xr>Voyez Grenade</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Grenade</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="4">
                   <def>On dit proverbialement, Faire des contes borgnes ; pour dire, Reciter des fables, des contes de
                      vieilles. On dit aussi, un compte borgne ; pour dire, opposé à rond. On m'offre 295. I. 10. s. de
@@ -39879,8 +39984,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -40179,9 +40283,12 @@
                <sense>
                   <def>C'est la même chose que Bossuer &amp; Bossue<pc>.</pc>
                   </def>
-                  <xr>Voyez ces mots</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>ces mots</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <re>
                   <form>Bosselé, ée</form>
                   <form>.</form>
@@ -40681,8 +40788,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -41577,7 +41683,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#boulanger#pâtissier">Terme de Boulanger &amp; de Pâtissier</usg>
+                  <usg type="domain" ana="#boulanger #pâtissier">Terme de Boulanger &amp; de Pâtissier</usg>
                   <pc>.</pc>
                   <def>C'est une grande plaque de fer, au milieu de laquelle il y a une poignée, &amp; qui sert à
                      boucher le four. Mettre le boucboir, ôter, tirer le bouchoir<pc>.</pc>
@@ -42479,9 +42585,8 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
-                  <pc>.</pc>
                   <pron>Prononcez BOUFFOI</pron>
                </form>
                <pc>.</pc>
@@ -42742,8 +42847,7 @@
                   </form>
                   <pc>.</pc>
                   <gramGrp>
-                     <pos>verb</pos>
-                     <pc>.</pc>
+                     <pos>verb.</pos>
                      <subc>act</subc>
                   </gramGrp>
                </form>
@@ -45029,9 +45133,12 @@
                      voir entrer dans cette famille un air bourgeois qui n'en sortira de dix generations. Le Chev. d'A.
                         Franc-eourgeois<pc>.</pc>
                   </def>
-                  <xr>Voyez Franc</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Franc</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="6">
                   <form>
                      <orth>Bourgeois</orth>
@@ -45231,8 +45338,11 @@
                </form>
                <sense>
                   <def>C'est un arbrisseau, qu'on appelle autrement Nerpriun, ou Noirprun.</def>
-                  <xr>Voyez ces mots</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>ces mots</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="bourgmestre">
@@ -45948,8 +46058,11 @@
                <sense>
                   <def>Plante<pc>.</pc>
                   </def>
-                  <xr>Voyez Bourrache</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Bourrache</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="bourru">
@@ -46166,8 +46279,11 @@
                   <pc>,</pc>
                   <def>est un bouquet de feuilles, ou une fleur qui n'est pas encore épanouïe<pc>.</pc>
                   </def>
-                  <xr>Voyez Bouton</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Bouton</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>On appelle aussi Bourse generalement tout ce qui sert à renfermer les graines des plantes,
                      lorsqu'elles sont encore sur pied. Bourse a berger, ou Bourse de Pasteur. C'est une plante à qui on
                      a donné ce nom à cause de la figure de son fruit, qui est fait en besace. On l'appelle aussi
@@ -46199,10 +46315,9 @@
                   <gramGrp>
                      <pos>f</pos>
                      <pc>.</pc>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="15">
                   <def>Enveloppe exterieure des testicules. Les hernies ou descentes se font dans les bourses. On
                      l'appelle en Latin Scrotum<pc>.</pc>
@@ -46254,8 +46369,11 @@
                <sense>
                   <usg type="domain" ana="#marine">Terme de Marine</usg>
                   <pc>.</pc>
-                  <xr>Voyez Bourcet</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Bourcet</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="boursftte">
@@ -47322,8 +47440,11 @@
                      par la negligence du G. Bouteiller, soit par l'autorité du Roi. Le titre de G. Bouteiller s'est
                      aboli aussi, &amp; l'on y a substitué la charge de Grand Echanson<pc>.</pc>
                   </def>
-                  <xr>Voyez Fauchet &amp; Fanyn</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Fauchet &amp; Fanyn</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="boutique">
@@ -47470,9 +47591,12 @@
                      en couper la corne superfluë. Il est large de quatre doigts, &amp; recourbé vers le
                         manche<pc>.</pc>
                   </def>
-                  <xr>Voyez Bouton</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Bouton</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <form>
                      <orth>Boutoir</orth>
@@ -47717,8 +47841,11 @@
                      abondance aux environs d'un petit lieu près de Montpellier, qu'on appelle Boutonnet. C'est une
                      espece d'herniole. En Latin Herniaria vulgaris, ou Millegrana major<pc>.</pc>
                   </def>
-                  <xr>Voyez Herniole</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Herniole</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="boutonnier">
@@ -48424,8 +48551,11 @@
                <sense>
                   <usg type="domain" ana="#boulanger">Terme de Boulanger</usg>
                   <pc>.</pc>
-                  <xr>Voyez Brasier</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Brasier</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="bramer">
@@ -49316,8 +49446,11 @@
                <sense>
                   <def>URSINE, ou BRANCHEURSINE<pc>.</pc>
                   </def>
-                  <xr>Voyez Acante</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Acante</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="braque">
@@ -49988,10 +50121,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Chemisette de femme qui sert à couvrir les bras, &amp; le haut du corps<pc>.</pc>
                   </def>
@@ -50405,9 +50537,12 @@
                   <def>se dit aussi en termes d'Imprimerie, pour signifier un morceau de parchemin qu'on cole au grand
                      timpan, quand il est usé. Brayes de cocu. Plante qu'on appelle autrement, Prime-vere<pc>.</pc>
                   </def>
-                  <xr>Voyez Prime-vere</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Prime-vere</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="7">
                   <def>On dit communément, qu'un homme s'est tiré d'une affaire brayes nettes, quand il en est sorti
                      heureusement, quoyque sa personne ou ses biens courussent fortune<pc>.</pc>
@@ -51592,8 +51727,11 @@
                <sense>
                   <usg type="domain" ana="#musique">Terme de Musique</usg>
                   <pc>.</pc>
-                  <xr>Voyez Bref</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Bref</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="brevement">
@@ -52346,9 +52484,12 @@
                   <pc>.</pc>
                   <def>Du Cange le derive de brigands, qui étoient une espece de soldats<pc>.</pc>
                   </def>
-                  <xr>Voyez Brigand</xr>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Brigand</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
-               <pc>.</pc>
                <sense n="2">
                   <form>
                      <orth>Brigade</orth>
@@ -52700,15 +52841,19 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="brillant ante">
+            <entry xml:id="brillant">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>BRILLANT ante</orth>
+                     <orth>BRILLANT</orth>
+                  </form>
+                  <form type="lemma">
+                     <orth>ante</orth>
                   </form>
                   <pc>.</pc>
                   <gramGrp>
                      <pos>adj.</pos>
-                     <gen>&amp; s</gen>
+                     <lbl>&amp;</lbl>
+                     <gen>s</gen>
                   </gramGrp>
                </form>
                <pc>.</pc>
@@ -52815,7 +52960,7 @@
                <sense>
                   <def>Quelques-uns disent brinque bale<pc>.</pc>
                   </def>
-                  <usg type="domain" ana="#mecanique#marine">Terme de Mecanique &amp; de Marine</usg>
+                  <usg type="domain" ana="#mecanique #marine">Terme de Mecanique &amp; de Marine</usg>
                   <pc>.</pc>
                   <def>C'est le bâton ou la barre qui fait jouer la pompe<pc>.</pc>
                   </def>
@@ -53023,8 +53168,11 @@
                <sense>
                   <def>Plante qu'on appelle autrement coleuvrée<pc>.</pc>
                   </def>
-                  <xr>Voyez Coleuvrée</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Coleuvrée</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="brion">
@@ -53817,8 +53965,11 @@
                <sense>
                   <usg type="domain" ana="#blason">Terme de Blason</usg>
                   <pc>.</pc>
-                  <xr>Voyez Brocher</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Brocher</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="broche">
@@ -54717,10 +54868,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense n="1">
                   <def>Le bel usage est pour brossailles. Mechant bois qui ne profite point, touffes de buissons,
                      genêts, épines, bruyeres, &amp;c. Un païs de brossailles est difficile à passer. Le lion voulant
@@ -54820,10 +54970,9 @@
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
-                     <number>plur</number>
+                     <number>plur.</number>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Intestins de poissons, ou de volailles qu'on vuide, lorsqu'on les habille, &amp; qu'on les
                      apprête pour manger. En Normandie on dit breuilles. Menage derive ce mot de burbalia, qu'on trouve
@@ -55535,8 +55684,11 @@
                <sense n="2">
                   <def>On appelle Pain broyé, un certain petit pain de fine farine que les Boulengers étoient autrefois
                      obligez de faire pour leur chef-d'oeuvre, quand on les recevoit Maîtres</def>
-                  <xr>Voyez Pain</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Pain</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="broyeur">
@@ -57561,8 +57713,11 @@
                   <pc>.</pc>
                   <def>Plante qu'on appelle autrement arrêteboeuf<pc>.</pc>
                   </def>
-                  <xr>Voyez Arrete-boeuf</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Arrete-boeuf</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="bugronde">
@@ -57579,8 +57734,11 @@
                <sense>
                   <def>Plante qui est la même que l'arrête-boeuf<pc>.</pc>
                   </def>
-                  <xr>Voyez Arrete-boeuf</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Arrete-boeuf</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -58045,8 +58203,11 @@
                <sense>
                   <def>Ou Ocil de Beuf. Plante<pc>.</pc>
                   </def>
-                  <xr>Voyez Oeil de Boeuf</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Oeil de Boeuf</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="bupleurum">
@@ -58063,8 +58224,11 @@
                <sense>
                   <def>Ou Percefeuille. Plante<pc>.</pc>
                   </def>
-                  <xr>Voyez Percefeuille</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Percefeuille</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="bupreste">
@@ -59395,8 +59559,11 @@
                      <orth>BUVETTE, &amp; autres</orth>
                   </form>
                   <pc>.</pc>
-                  <xr>Voyez Be uveur, Beuvette</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Be uveur, Beuvette</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="buveau">
@@ -59454,8 +59621,11 @@
                <sense>
                   <usg type="domain" ana="#blason">Terme de Blason</usg>
                   <pc>.</pc>
-                  <xr>Voyez Bisse</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Bisse</ref>
+                     <pc>.</pc>
+                  </xr>
                   <def>Bysse. s. m. C'est le nom de la soye dont les Anciens s'habilloient. Elle étoit si differente de
                      celle dont on se sert aujourd'huy, qu'on ne doit pas confondre deux choses si differentes sous un
                      même nom. En Egypte, &amp; en Syrie on portoit du fin lin, du cotton, &amp; du bysse.

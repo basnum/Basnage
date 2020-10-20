@@ -7066,7 +7066,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#cuisinier#rotisseur">Terme de Cuisinier &amp; de Rotisseur</usg>
+                  <usg type="domain" ana="#cuisinier #rotisseur">Terme de Cuisinier &amp; de Rotisseur</usg>
                   <pc>.</pc>
                   <def>C'est la peine que le cuisinier ou le rotisseur a de plumer, de vuider, de larder, de piquer, de
                      barder quelque oiseau. Il faut donner tant pour l'habillage de ces perdrix, de ces becca</def>
@@ -9634,7 +9634,7 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#relation#voyage">Terme de Relation &amp; de Voyage</usg>
+                  <usg type="domain" ana="#relation #voyage">Terme de Relation &amp; de Voyage</usg>
                   <pc>.</pc>
                   <def>Le Han est un grand lieu couvert, à-peuprès comme une grange, &amp; où il y a plusieurs
                      cheminées, &amp; plusieurs petites separations, pour loger les caravanes. Il y a des Hans plus
@@ -10604,7 +10604,7 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#gantier#peaucier">Terme de Gantier &amp; de Peaucier</usg>
+                  <usg type="domain" ana="#gantier #peaucier">Terme de Gantier &amp; de Peaucier</usg>
                   <pc>.</pc>
                   <def>C'est un morceau de fer de la grosseur de deux bons pouces, tortillé &amp; plié en cercle, &amp;
                      attaché à un ais à la hauteur de trois ou quatre pieds. La hard sert à adoucir les peaux les
@@ -19445,7 +19445,7 @@
                </form>
                <pc>.</pc>
                <sense n="4">
-                  <usg type="domain" ana="#maçons#paveurs">Terme de Maçons &amp; de Paveurs</usg>
+                  <usg type="domain" ana="#maçons #paveurs">Terme de Maçons &amp; de Paveurs</usg>
                   <pc>,</pc>
                   <def>qui signifie, Enfoncer des pieux ou des parez avec la hie<pc>.</pc>
                   </def>
@@ -24960,7 +24960,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="5">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>5</orth>

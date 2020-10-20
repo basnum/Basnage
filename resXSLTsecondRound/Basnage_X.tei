@@ -7272,15 +7272,17 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>subst.</pos>
-                     <gen>masc</gen>
+                     <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <pc>.</pc>
                <sense>
                   <def>Racine purgative qui vient aux Indes Occidentales<pc>.</pc>
                   </def>
-                  <xr>Voyez Jalap</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Jalap</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="xalxocotl">
@@ -7297,8 +7299,11 @@
                <sense>
                   <def>Arbre qui croît en plusieurs lieux de l'Amerique. On l'appelle autrement goyavier<pc>.</pc>
                   </def>
-                  <xr>Voyez Goyavier</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Goyavier</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>
@@ -7319,8 +7324,11 @@
                <sense>
                   <def>C'est un nom qu'on donne à la semencine, ou semence contre les vers<pc>.</pc>
                   </def>
-                  <xr>Voyez Semencine</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Semencine</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
             <entry xml:id="xerophtalmie">
@@ -7503,8 +7511,11 @@
                <sense>
                   <def>C'est la plante qui porte le coton<pc>.</pc>
                   </def>
-                  <xr>Voyez Coton</xr>
-                  <pc>.</pc>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref>Coton</ref>
+                     <pc>.</pc>
+                  </xr>
                </sense>
             </entry>
          </div>

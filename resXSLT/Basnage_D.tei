@@ -8667,7 +8667,7 @@
          <div>
             <head>DAP<pc>.</pc>
             </head>
-            <entry xml:id="d'aprés">
+            <entry xml:id="d_aprés">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>D'APRÉS</orth>
@@ -16291,7 +16291,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#optique#geometrie">Terme d'Optique &amp; de Geometrie</usg>
+                  <usg type="domain" ana="#optique #geometrie">Terme d'Optique &amp; de Geometrie</usg>
                   <pc>.</pc>
                   <def>C'est le point où des rayons, ou des lignes se croisent. Il se fait une decussation des rayons de
                      la lumiere dans le cristallin, avant que de s'aller peindre en la retine. Il faut qu'il y ait une
@@ -23026,7 +23026,7 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#charpenterie#maçonnerie">Terme de Charpenterie, &amp; de Maçonnerie</usg>
+                  <usg type="domain" ana="#charpenterie #maçonnerie">Terme de Charpenterie, &amp; de Maçonnerie</usg>
                   <pc>.</pc>
                   <def>Demaigrir une pierre, cest, Oter de son lit, &amp; de son joint en dedans pour la mieux ficher.
                      Voyez Amaigrir. DEMmAIGRISSEMENT. C'est le côté d'une pierre, ou d'une piece de bois
@@ -25968,7 +25968,7 @@
                   deniers ; &amp; des deniers d'or à la Reine valans 16<pc>.</pc>
                </sense>
             </entry>
-            <entry xml:id="8">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>8</orth>
@@ -43025,7 +43025,7 @@
                   <def>Le côté droit du vaisseau. C'est la même chose que Stribord.</def>
                </sense>
             </entry>
-            <entry xml:id="">
+            <entry xml:id="dextrochere">
                <form type="lemmaGrp">
                   <form type="lemma">DEXTROCHERE</form>
                   <pc>,</pc>
@@ -59181,7 +59181,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="32">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>32</orth>
@@ -59761,7 +59761,7 @@
                      <orth>Drapferie</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#peinture#sculpture">en termes de Peinture &amp; de Sculpture</usg>
+                  <usg type="domain" ana="#peinture #sculpture">en termes de Peinture &amp; de Sculpture</usg>
                   <pc>,</pc>
                   <def>est la representation des habits, des tapisseries, du linge, &amp; autres choses qui ne sont ni
                      carnations, ni païsages. On dit qu'un Peintre jette bien une drapperie ; pour dire, qu'il en
@@ -59871,7 +59871,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#cordonnier#savetier">Terme de Cordonnier &amp; de Savetier</usg>
+                  <usg type="domain" ana="#cordonnier #savetier">Terme de Cordonnier &amp; de Savetier</usg>
                   <pc>.</pc>
                   <def>Morceau de cuir que l'on met entre les deux semelles pour redresser le soulier quand il tourne.
                      Mettre une dresse<pc>.</pc>
@@ -62274,7 +62274,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#arithmetique#geometrie">Terme d'Arithmetique &amp; de Geometrie</usg>
+                  <usg type="domain" ana="#arithmetique #geometrie">Terme d'Arithmetique &amp; de Geometrie</usg>
                   <pc>.</pc>
                   <def>C'est la multiplication d'une quantité discrete, ou continuë, par deux. Il se dit principalement
                      de la duplication du cube, qui est un problême fameux que tous les Geometres ont cherche depuis
