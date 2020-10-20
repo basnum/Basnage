@@ -13991,7 +13991,7 @@
                   <def>On appelle aussi, Moine Lay, un oblat ou soldat estropié qui a un brevet du Roi pour demeurer dans un Benefice de fondation Royale, où on lui doit fournir une portion monachale pour sa subsistance. Voi Oelat. Il est tenu de balayer les cours &amp; de sonner les cloches. Maintenant on a converti cette portion en argent, ou</def>
                </sense>
             </entry>
-            <entry xml:id="">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <pron>pension de 50. écus par an qu'on paye à l'Hôtel des Invalides</pron>
                </form>
@@ -16200,7 +16200,7 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#marine#gabelles">Terme de Marine &amp; de Gabelles</usg>
+                  <usg type="domain" ana="#marine #gabelles">Terme de Marine &amp; de Gabelles</usg>
                   <pc>,</pc>
                   <def>qui se dit d'une certaine quantité des harengs. Le sel necessaire pour la salaison des harengs est reglé par l'Ordonnance des Gabelles à sept minots &amp; demi pour chacun leth de harengs blancs, &amp; trois minots pour chacun leth de harengs sors<pc>.</pc>
                   </def>
@@ -20027,7 +20027,7 @@
                      <orth>Ligne</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#astronomie#geographie">en termes d'Astronomie &amp; de Geographie</usg>
+                  <usg type="domain" ana="#astronomie #geographie">en termes d'Astronomie &amp; de Geographie</usg>
                   <pc>,</pc>
                   <def>se dit par excellence de la Ligne Equinoctale, ou de l'Equateur. Les Matelots baptizent les passagers la premiere fois qu'ils passent la Ligne. Cete lIle est sous la Ligne, à deux degrez de la Ligne : c'est là que commencent les latitudes Australes, &amp; Septentrionales. La ligne Alexandrine est un Meridien passant sur la bouche du fleuve Maragnon, &amp; par les caps de Houmos, &amp; de Malabrigo en Amerique. On le nomme aussi ligne de division, ou de partition, parcequ'il fut établi par Alexandre VI. en 1493. au sujet des differens entre Ferdinand Roi de Caltille, &amp; Emanuel Roi de Portugal, pour le partage des Indes<pc>.</pc>
                   </def>
@@ -21136,7 +21136,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="14">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>14</orth>
@@ -23325,7 +23325,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="2">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>2</orth>
@@ -25996,7 +25996,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="15">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>15</orth>
@@ -27181,7 +27181,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="12">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>12</orth>
@@ -27918,7 +27918,7 @@
                      <orth>Lunette</orth>
                   </form>
                   <pc>.</pc>
-                  <usg type="domain" ana="#corroyeur#peaucier">Terme de Corroyeur &amp; de Peaucier</usg>
+                  <usg type="domain" ana="#corroyeur #peaucier">Terme de Corroyeur &amp; de Peaucier</usg>
                   <pc>.</pc>
                   <def>C'est un instrument qui est d'acier, grand comme une assiette, qui a un trou au milieu pour passer la main, qui est bien aiguisé tout au tour, &amp; dont le Corroyeur &amp; le Peaucier se servent pour parer les peaux de mouton, de veau, de chevre, &amp;c. Parer à la lunette. Ces sortes de lunettes se font en Allemagne<pc>.</pc>
                   </def>
@@ -28131,7 +28131,7 @@
                <pc>.</pc>
                <sense n="1">
                   <usg type="domain"
-                       ana="#supputation parmi les romains : c'est un espace de cinq ans">Terme de supputation parmi les Romains : c'est un espace de cinq ans</usg>
+                       ana="#supputation_parmi_les_romains">Terme de supputation parmi les Romains : c'est un espace de cinq ans</usg>
                   <pc>.</pc>
                   <def>C'est une supputation qu'on fait plus communément en Poësie. A peine a t-il atteint son cinquiéme lustre. Mon âge s'en va bientôt frapper à mon neuviéme lustre. Boi. Varron fait venir ce mot de luo, qui signifie payer, parcequ'au commencement de chaque cinquiéme année on payoit le tribut qui avoit été imposé par les Censeurs, dont la charge duroit cinq ans par leur premiere institution. Depuis elle devint annale. Servius Tullius avoit établi cette coutume environ l'an 180. de la fondation de Rome<pc>.</pc>
                   </def>

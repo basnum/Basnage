@@ -7513,7 +7513,7 @@
          <div>
             <head>EBL<pc>.</pc>
             </head>
-            <entry xml:id="eblouir, eblouissement">
+            <entry xml:id="eblouir">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>EBLOUIR, EBLOUISSEMENT</orth>
@@ -7523,7 +7523,7 @@
                <pc>.</pc>
                <xr>
                   <lbl>Voyez</lbl>
-                  <ref target="#esdlouir">Esdlouir</ref>
+                  <ref target="#esblouir">Esblouir</ref>
                   <pc>,</pc>
                   <ref target="#esblouissement">Esblouissement</ref>
                   <pc>.</pc>
@@ -7533,7 +7533,7 @@
          <div>
             <head>EBO<pc>.</pc>
             </head>
-            <entry xml:id="eborgnner, ebouffer, ebouillir, eboulement, ebouler, eboulis, ebourgeonnement, ebourgeonner">
+            <entry xml:id="eborgnner">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>EBORGNNEr, EBOUFFER, EBOUILLIR, EBOUlEMENT, EBOULER, EBOUlIS, EBOURGEONNEMENT,
@@ -7569,7 +7569,7 @@
          <div>
             <head>EBR<pc>.</pc>
             </head>
-            <entry xml:id="ebranchement, ebrancher, ebranlement, ebranler, ebrecher, ebrener">
+            <entry xml:id="ebranchement">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>EBRANCHEMENT, EBRANCHER, EBRANLEMENT, EBRANLER, EBRECHER, EBRENER</orth>
@@ -8250,7 +8250,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="">
+            <entry xml:id="ecervelé">
                <form>
                   <orth>ECERVELÉ</orth>
                </form>
@@ -20213,7 +20213,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#medecine#chymie">Terme de Medecine &amp; de Chymie</usg>
+                  <usg type="domain" ana="#medecine #chymie">Terme de Medecine &amp; de Chymie</usg>
                   <pc>.</pc>
                   <def>Qualité qui demeure aux corps qui ont été preparez avec le feu, qui se connoît au goût, à
                      l'odorat. Ou c'est la chaleur étrangere que le feu imprime, &amp; qui demeure sur la partie
@@ -23151,7 +23151,7 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#tanneur#blanchisseur">Terme de Tanneur &amp; de Blanchisseur</usg>
+                  <usg type="domain" ana="#tanneur #blanchisseur">Terme de Tanneur &amp; de Blanchisseur</usg>
                   <pc>.</pc>
                   <def>Mettre dans la cuve, ranger dans le cuvier. Entuver les veaux. Encuver le linge de la
                         lessive<pc>.</pc>
@@ -23216,7 +23216,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="en dedans">
+            <entry xml:id="en_dedans">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>EN DEDANS</orth>
@@ -23233,7 +23233,7 @@
                   <pc>.</pc>
                </sense>
             </entry>
-            <entry xml:id="en dehors">
+            <entry xml:id="en_dehors">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>EN DEHORS</orth>
@@ -25332,7 +25332,7 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#bonnetier#chapclier">Terme de Bonnetier, &amp; de Chapclier</usg>
+                  <usg type="domain" ana="#bonnetier #chapclier">Terme de Bonnetier, &amp; de Chapclier</usg>
                   <pc>.</pc>
                   <def>Mettre un bas dans la forme, mettre un chapeau sur la forme. Enformer un bas, enformer un
                         chapeau<pc>.</pc>
@@ -26731,7 +26731,7 @@
                   </gramGrp>
                </form>
                <sense n="1">
-                  <usg type="domain" ana="#jardinier#laboureur">Terme de Jardinier &amp; de Laboureur</usg>
+                  <usg type="domain" ana="#jardinier #laboureur">Terme de Jardinier &amp; de Laboureur</usg>
                   <pc>.</pc>
                   <def>L'action d'engraisser ; tout ce qui peut reudre un fonds plus gras &amp; plus fertile. Mettre de
                      l'engraissrens aux terres. Cult. de la Tul. Il ne faut que de legers engraissemens. Quint<pc>.</pc>
@@ -27980,7 +27980,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="enleveurs de quartiers">
+            <entry xml:id="enleveurs_de_quartiers">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>ENLEVEURS DE QUARTIERS</orth>
@@ -43758,7 +43758,7 @@
                      <orth>Eschelle</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#architecture#geographie">en termes d'Architecture &amp; de Geographie</usg>
+                  <usg type="domain" ana="#architecture #geographie">en termes d'Architecture &amp; de Geographie</usg>
                   <pc>,</pc>
                   <def>se dit d'une ligne divisée en parties égales, qui sert de mesure commune à toutes les parties
                      d'un bâtiment, à la description des cartes topographiques. Pour sçavoir combien cet étage a de
@@ -46987,14 +46987,15 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="">
-               <form type="lemmaGrp"/>
-               <form type="lemma">ESCOUVETTE</form>
-               <pc>,</pc>
-               <form>ou ECOuvEtTE, ou ECOUETTE</form>
-               <pc>.</pc>
-               <gramGrp>s. f</gramGrp>
-               <pc>.</pc>
+            <entry xml:id="escouvette">
+               <form type="lemmaGrp">
+                  <form type="lemma">ESCOUVETTE</form>
+                  <pc>,</pc>
+                  <form>ou ECOuvEtTE, ou ECOUETTE</form>
+                  <pc>.</pc>
+                  <gramGrp><pos>s.</pos>
+                     <gen>f.</gen></gramGrp>
+               </form>
                <def>Espece de balai dont se servent les ouvriers. Il est vieux. Ce mot vient de escouve diminutif de
                   scopa. On a appellé autrefois les Sorciers, Chevaucheurs d'écouvettes, c'est-à-dire, de manche à balai
                   ; parcequ'on foint que les Sorciers vont au sabat, un manche de balai entre les jambes. Non est, le
@@ -49010,14 +49011,14 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="">
+            <entry xml:id="escussonner">
                <form type="lemmaGrp">
                   <form type="lemma">ESCUSSONNER</form>
                   <pc>.</pc>
-                  <form>v</form>
-                  <pc>.</pc>
-                  <gramGrp>act</gramGrp>
-                  <form>.</form>
+                  <gramGrp>
+                     <pos>v.</pos>
+                     <subc>act.</subc>
+                  </gramGrp>
                   <form>Eeter en écusson</form>
                </form>
                <pc>.</pc>
@@ -57678,16 +57679,17 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="">
-               <form type="lemmaGrp"/>
-               <form type="lemma">ESSETTE</form>
-               <form>.</form>
-               <form>s. f</form>
-               <form>.</form>
-               <form>Outil de Tomelier, de Charres</form>
-               <pc>,</pc>
-               <def>&amp; d'autres Artisans travaillans en bois. C'est une espece de marteau qui a une tête ronde d'un
-                  côté, &amp; un large trenchant de l'autre<pc>.</pc>
+            <entry xml:id="essette">
+               <form type="lemma">
+                  <orth>ESSETTE</orth>
+                  <pc>.</pc>
+                  <gramGrp>
+                     <pos>s.</pos>
+                     <gen>f.</gen>
+                  </gramGrp>
+               </form>
+               <def>Outil de Tomelier, de Charres, &amp; d'autres Artisans travaillans en bois. C'est une espece de
+                  marteau qui a une tête ronde d'un côté, &amp; un large trenchant de l'autre<pc>.</pc>
                </def>
                <etym>
                   <lbl>Ce mot vient du</lbl>
@@ -66924,7 +66926,7 @@
                      <orth>Eventer</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#charpenterie#maçonnerie">en termes de Charpenterie, &amp; de Maçonnerie</usg>
+                  <usg type="domain" ana="#charpenterie #maçonnerie">en termes de Charpenterie, &amp; de Maçonnerie</usg>
                   <pc>.</pc>
                   <def>Eventer une piece de bois, ou une pierre que l'on monte, c'est la tirer avec le cordage, pour
                      empêcher qu'elle ne heurte contre la muraille, &amp; qu'elle ne s'écorne<pc>.</pc>
@@ -73114,7 +73116,7 @@
                      <orth>Expression</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#medecine#chymie">en termes de Medecine &amp; de Chymie</usg>
+                  <usg type="domain" ana="#medecine #chymie">en termes de Medecine &amp; de Chymie</usg>
                   <pc>,</pc>
                   <def>signifie l'action par laquelle on tire le suc des fruits &amp; des plantes en les pressant. Après
                      avoir laissé infuser ces herbes, il en faut tirer le suc par expression avec un linge, ou par la
@@ -74494,10 +74496,12 @@
                      ni l'autre. Bou.</def>
                </sense>
             </entry>
-            <entry xml:id="extreme onction">
+            <entry xml:id="extreme_onction">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>EXTREME ONCTION</orth> ,</form>
+                     <orth>EXTREME ONCTION</orth>
+                     <pc>,</pc>
+                  </form>
                </form>
                <sense>
                   <def>ou EytrEMONCTION. subst. fem. est un Sacrement de l'Eglise, le sixiéme en ordre, qu'on donne aux

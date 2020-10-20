@@ -12704,7 +12704,7 @@
                   <pc>.</pc>
                </etym>
             </entry>
-            <entry xml:id="a jeun">
+            <entry xml:id="a_jeun">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>A JEUN</orth>
@@ -17959,7 +17959,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="a l'impourvu">
+            <entry xml:id="a_l_impourvu">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>A L'IMPOURVU</orth>
@@ -17970,12 +17970,12 @@
                   </gramGrp>
                </form>
                <sense>
-                  <def>Avec surprise. Les ennemis sont venus à l'impourvn, &amp; ont surpris la ville. Cet homme a sa
-                     cuisine si fournie, qu'on ne le sçauroit prendre à l'impouvvu. Le Seigneur a dit qu'il falloit être
+                  <def>Avec surprise. Les ennemis sont venus à l'impourvu, &amp; ont surpris la ville. Cet homme a sa
+                     cuisine si fournie, qu'on ne le sçauroit prendre à l'impourvu. Le Seigneur a dit qu'il falloit être
                      sur ses gardes, car il nous doit venir juger à l'impourvu. Une sortie à l'impourvu.
                         Durier<pc>.</pc>
                   </def>
-                  <xr>Voyez Improviste</xr>
+                  <xr><lbl>Voyez</lbl> <ref target="#improviste">Improviste</ref></xr>
                   <pc>.</pc>
                </sense>
             </entry>
@@ -20867,7 +20867,7 @@
                      <orth>Inclination</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#chymie#medecine">en termes de Chymie &amp; de Medecine</usg>
+                  <usg type="domain" ana="#chymie #medecine">en termes de Chymie &amp; de Medecine</usg>
                   <pc>,</pc>
                   <def>se dit lorsqu'on panche doucement un vaisseau pour en laisser couler la liqueur sans troubler la
                      lie ou le sediment qu'on veut conserver dans le fond. Ainsi quand on a fait quelques precipitez de
@@ -24584,7 +24584,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#imprimeur#libraire">Terme d'imprimeur, &amp; de Libraire</usg>
+                  <usg type="domain" ana="#imprimeur #libraire">Terme d'imprimeur, &amp; de Libraire</usg>
                   <pc>.</pc>
                   <def>Sorte de livre dont chaque feuille à 24 pages. C'est un grand, c'est un petit in douze<pc>.</pc>
                   </def>
@@ -30074,7 +30074,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <usg type="domain" ana="#imprimeur#libraire">Terme d'Imprimeur &amp; de Libraire</usg>
+                  <usg type="domain" ana="#imprimeur #libraire">Terme d'Imprimeur &amp; de Libraire</usg>
                   <pc>.</pc>
                   <def>Livre dont chaque feuille a 32. pages. C'est un petit in seize<pc>.</pc>
                   </def>
@@ -43394,7 +43394,7 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="a la juive">
+            <entry xml:id="a_la_juive">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>A la Juive</orth>
@@ -44610,10 +44610,18 @@
                   </def>
                </sense>
             </entry>
-            <entry xml:id="ivrogne, ivrogner, ivrognerie">
+            <entry xml:id="ivrogne">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>IVROGNE, IVROGNER, IVROGNERIE</orth>
+                     <orth>IVROGNE</orth>
+                  </form>
+                  <pc>,</pc>
+                  <form>
+                     <orth>IVROGNER</orth>
+                  </form>
+                  <pc>,</pc>
+                  <form type="lemma">
+                     <orth>IVROGNERIE</orth>
                   </form>
                </form>
                <pc>.</pc>

@@ -12740,11 +12740,11 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
          <div>
             <head>NIG<pc>.</pc>
             </head>
-            <entry xml:id="">
+            <entry xml:id="nigaud">
                <form type="lemmaGrp">
-                  <form type="lemma">NIGAUD</form>
+                  <form type="lemma"><orth>NIGAUD</orth></form>
                   <pc>,</pc>
-                  <form type="inflected">aude</form>
+                  <form type="inflected"><orth>aude</orth></form>
                   <pc>.</pc>
                </form>
                <gramGrp>
@@ -14107,7 +14107,7 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
          <div>
             <head>NOL<pc>.</pc>
             </head>
-            <entry xml:id="noli me tangere.">
+            <entry xml:id="noli_me_tangere.">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>NOLI ME TANGERE.</orth>
@@ -14115,7 +14115,7 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                </form>
                <pc>.</pc>
                <sense>
-                  <def> Terme Latin, c'est un nom que donnent les Medecins à un ulcere malin qui vient au visage, &amp; qui est produit par une humeur extrêmement âcre &amp; corrosive. Il est dangereux de toucher à cette sorte d'ulceres ; car bien souvent en voulant y remedier, on les irrite davantage, &amp; on avance la mort du malade. De là vient qu'on leur a donné ce nom qui signifie, ne me touchez point<pc>.</pc>
+                  <def>Terme Latin, c'est un nom que donnent les Medecins à un ulcere malin qui vient au visage, &amp; qui est produit par une humeur extrêmement âcre &amp; corrosive. Il est dangereux de toucher à cette sorte d'ulceres ; car bien souvent en voulant y remedier, on les irrite davantage, &amp; on avance la mort du malade. De là vient qu'on leur a donné ce nom qui signifie, ne me touchez point<pc>.</pc>
                   </def>
                </sense>
             </entry>
@@ -14125,8 +14125,9 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                      <orth>NOLIS</orth>
                   </form>
                   <pc>,</pc>
+                  <lbl>&amp;</lbl>
                   <form type="variant">
-                     <orth>&amp; NOLISSEMENT</orth>
+                     <orth>NOLISSEMENT</orth>
                   </form>
                   <pc>.</pc>
                   <gramGrp>
@@ -14134,13 +14135,12 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                      <gen>m.</gen>
                   </gramGrp>
                </form>
-               <re>
-                  <form>Termes de Marine</form>
-                  <form>.</form>
-                  <form>Convention pour le loüage</form>
-                  <def>d'un vaisseau. Ils signinent sur la Mediterranée la mêne chose que fret &amp; affrettemem sur l'Ocean. On dit aussi sur l'Ocean naulage ; pour dire, le fret des navires qu'on louë pour aller en guerre, ou pour courir le bon bord : &amp; on dit noliger &amp; nauliser ; pour dire, louer &amp; fretter. Tous ces mots viennent du Latin naulum<pc>.</pc>
+               <sense>
+                  <usg>Termes de Marine</usg>
+                  <pc>.</pc>
+                  <def>Convention pour le loüage d'un vaisseau. Ils signinent sur la Mediterranée la mêne chose que fret &amp; affrettemem sur l'Ocean. On dit aussi sur l'Ocean naulage ; pour dire, le fret des navires qu'on louë pour aller en guerre, ou pour courir le bon bord : &amp; on dit noliger &amp; nauliser ; pour dire, louer &amp; fretter. Tous ces mots viennent du Latin naulum<pc>.</pc>
                   </def>
-               </re>
+               </sense>
             </entry>
          </div>
          <div>
@@ -14385,7 +14385,7 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   </def>
                </sense>
             </entry>
-            <entry xml:id="29">
+            <entry xml:id="$$$">
                <form type="lemmaGrp">
                   <form type="lemma">
                      <orth>29</orth>
@@ -16261,7 +16261,7 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#charpentier#couvreur">Terme de Charpentier &amp; de Couvreur</usg>
+                  <usg type="domain" ana="#charpentier #couvreur">Terme de Charpentier &amp; de Couvreur</usg>
                   <pc>,</pc>
                   <def>se dit des petites nouës, ou égouts qui se font sur les lucarnes, &amp; particulierement sur celles qu'on appelle Demoiselles<pc>.</pc>
                   </def>
@@ -17960,7 +17960,7 @@ Un épi niellée est capable de noircir tout un septier de blé. Le grain nielle
                   </gramGrp>
                </form>
                <sense n="1">
-                  <usg type="domain" ana="#banque#marchandise">Terme de Banque, &amp; de Marchandise</usg>
+                  <usg type="domain" ana="#banque #marchandise">Terme de Banque, &amp; de Marchandise</usg>
                   <pc>.</pc>
                   <def>Article du regître d'un Banquier, ou d'un Marchand, cotté d'un certain nombre, faisant mention d'une certaine affaire, rescription, ou marchandise. Il est enjoint aux Banquiers expeditionaires en Cour de Rome, de mettre sur toutes leurs expeditions le chiffre ou le numero repondant à l'article de leurs regitres qui en contient l'envoi. Un tel a eu un billet à cette lotterie cotté sur le numer 5430. Les Marchands ont de certaines marques qu'ils mettent sur leurs marchandises, qui les fait souvenir du prix marqué dans les articles &amp; numero de leurs regîtres qui y repondent. On le dit aussi des marques que les Notaires mettent sur les titres &amp; papiers qu'ils inventorient, repondant aux articles de leurs Inventaires. Ce Contrat est inventorié sous le numere 6<pc>.</pc>
                   </def>
