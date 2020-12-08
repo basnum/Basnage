@@ -66,6 +66,7 @@
                     mis en ligne dans les archives de Gallica</note>
             </notesStmt>
             <sourceDesc>
+                
 
                 <biblFull>
                     <titleStmt>
@@ -130,6 +131,7 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/</idno>
                         <idno type="URI"/>
+                       
                     </person>
 
                     <person xml:id="Aba_ISN0000000083391828">
@@ -3584,6 +3586,7 @@
                             <desc><date/></desc>
                         </event>
                         <idno>ISN 0000 0000 8343 8622</idno>
+                        
                     </person>
 
                     <person xml:id="Basnage_ISN0000000080773257">
@@ -7476,7 +7479,8 @@
                     <person n="Abelard">
                         <persName xml:base="https://fr.wikipedia.org/wiki/Pierre_Abélard"
                             xml:id="Abelard_ISN000000012102945X"><persName>Pierre
-                                Abelard</persName><date>1079-1142</date></persName>
+                                Abelard</persName><date>1079-1142</date>
+                        </persName>
                     </person>
                     <person n="Héloise">
                         <persName xml:base="https://fr.wikipedia.org/wiki/Héloïse_d%27Argenteuil"
@@ -7499,6 +7503,10 @@
                     </person>
 
                 </listPerson>
+                <listRelation>
+                    <relation name="sibling" mutual="#BasnageJ_ISN0000000083438622 #Basnage_ISN0000000080773257"><desc>Jacques &amp; Henri Basnage</desc></relation>
+                    <relation name="studentOf" passive="#Marville_ISN00000000107770743"></relation>
+                </listRelation>
             </sourceDesc>
         </fileDesc>
 
@@ -12708,7 +12716,7 @@
                             <form type="lemma"><orth rendition="#uc">CALE</orth>
                                 <gramGrp><pos expand="Substantif">s.</pos><gen expand="Feminin"
                                         >f.</gen></gramGrp></form>
-                            <sense n="1"><usg type="terme" ana="#marine">Terme de Marine.</usg>
+                            <sense n="1"><usg type="terme"  ana="#marine">Terme de Marine.</usg>
                                 <def>C'est le lieu le plus bas du vaisseau ; la partie qui entre
                                     dans l'eau sous le franc tillac, &amp; qui est dans un bâtiment
                                     de mer ce qu'est la cave dans un bâtiment de terre.</def><note>

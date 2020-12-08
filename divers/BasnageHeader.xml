@@ -3,79 +3,87 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="main" xml:lang="fre">Dictionnaire universel contenant généralement tous les mots françois tant
-               vieux que modernes et les termes des sciences et des arts,.... 1701. - Une édition numérique</title>
-            <title type="sub">Lettre C</title>
-            <author key="Basnage, Henri (1657-1710)" corresp="http://www.isni.org/isni/0000000080773257">
-               <forename>Henri</forename>
-               <surname>Basnage</surname>
-            </author>
-            <author key="Furetière, Antoine (1619-1688)" corresp="http://www.isni.org/isni/0000000108580490">
-               <forename>Antoine</forename>
-               <surname>Furetière</surname>
-            </author>
-            <editor corresp="http://www.isni.org/isni/0000000459351809">Geoffrey Williams, <orgName>LiCoRN</orgName>
-            </editor>
-         </titleStmt>
-         <editionStmt>
-            <edition>Deuxième édition xml basée sur GROBID-dictionaries</edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>LiCoRN Editions</publisher>
-            <pubPlace>
-               <address>
-                  <addrLine xml:base="www.licorn-research.fr">www.licorn-research.fr</addrLine>
-               </address>
-            </pubPlace>
-            <idno type="tei">http://le-chemin-vers-le-fichier-basnage-sitemap.xml</idno>
-            <availability>
-               <p>Creative commons, no commercial use</p>
-               <licence target="https://creativecommons.org/licenses/by-nc-sa/2.0/fr/">CC BY-NC-SA</licence>
-            </availability>
-            <date when="2018">2014-18</date>
-         </publicationStmt>
-         <notesStmt>
-            <note type="abstract">Le texte original se trouve à la BNF, où il a été scanné et mis en ligne dans les
-               archives de Gallica</note>
-         </notesStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Dictionnaire universel</title>
-                  <author>Antoine Furetière, Abbé de Chalivoi</author>
-                  <respStmt>
-                     <resp>Seconde édition par</resp>
-                     <name>Basnage de Beauval</name>
-                  </respStmt>
-               </titleStmt>
-               <publicationStmt>
-                  <publisher>Arnout et Reinier Leers</publisher>
-                  <pubPlace>La Haye et Rotterdam</pubPlace>
-                  <date when="1701">1701</date>
-               </publicationStmt>
-            </biblFull>
-            <biblStruct type="book" xml:id="Furetière1701" corresp="http://zotero.org/groups/815103/items/J83QUNMR">
-               <monogr>
-                  <title level="m">Dictionnaire universel, contenant généralement tous les mots françois tant vieux que
-                     modernes, &amp;amp; les termes des sciences et des arts. Tome 1 / ,... par feu messire Antoine
-                     Furetière,... 2e édition revue, corrigée et augmentée par M. Basnage de Bauval</title>
-                  <author>
-                     <forename>Antoine</forename>
-                     <surname>Furetière</surname>
-                  </author>
-                  <imprint>
-                     <pubPlace>La Haye et Rotterdam</pubPlace>
-                     <biblScope unit="volume">Tome 1 A-D</biblScope>
-                     <publisher>Arnoud et Reinier Leers</publisher>
-                     <date>1701</date>
-                     <note type="url">http://gallica.bnf.fr/ark:/12148/bpt6k5841680f</note>
-                  </imprint>
-               </monogr>
-            </biblStruct>
-            <listPerson type="indexed">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:lang="fre">Dictionnaire universel contenant généralement tous
+                    les mots françois tant vieux que modernes et les termes des sciences et des
+                    arts,.... 1701. - Une édition numérique</title>
+                <title type="sub">Lettre C</title>
+                <author key="Basnage, Henri (1657-1710)"
+                    corresp="http://www.isni.org/isni/0000000080773257">
+                    <forename>Henri</forename>
+                    <surname>Basnage</surname>
+                </author>
+                <author key="Furetière, Antoine (1619-1688)"
+                    corresp="http://www.isni.org/isni/0000000108580490">
+                    <forename>Antoine</forename>
+                    <surname>Furetière</surname>
+                </author>
+                <editor corresp="http://www.isni.org/isni/0000000459351809">Geoffrey Williams,
+                        <orgName>LiCoRN</orgName>
+                </editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Deuxième édition xml basée sur GROBID-dictionaries</edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>LiCoRN Editions</publisher>
+                <pubPlace>
+                    <address>
+                        <addrLine xml:base="www.licorn-research.fr"
+                            >www.licorn-research.fr</addrLine>
+                    </address>
+                </pubPlace>
+                <idno type="tei">http://le-chemin-vers-le-fichier-basnage-sitemap.xml</idno>
+                <availability>
+                    <p>Creative commons, no commercial use</p>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/2.0/fr/">CC
+                        BY-NC-SA</licence>
+                </availability>
+                <date when="2018">2014-18</date>
+            </publicationStmt>
+            <notesStmt>
+                <note type="abstract">Le texte original se trouve à la BNF, où il a été scanné et
+                    mis en ligne dans les archives de Gallica</note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Dictionnaire universel</title>
+                        <author>Antoine Furetière, Abbé de Chalivoi</author>
+                        <respStmt>
+                            <resp>Seconde édition par</resp>
+                            <name>Basnage de Beauval</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Arnout et Reinier Leers</publisher>
+                        <pubPlace>La Haye et Rotterdam</pubPlace>
+                        <date when="1701">1701</date>
+                    </publicationStmt>
+                </biblFull>
+                <biblStruct type="book" xml:id="Furetière1701"
+                    corresp="http://zotero.org/groups/815103/items/J83QUNMR">
+                    <monogr>
+                        <title level="m">Dictionnaire universel, contenant généralement tous les
+                            mots françois tant vieux que modernes, &amp;amp; les termes des sciences
+                            et des arts. Tome 1 / ,... par feu messire Antoine Furetière,... 2e
+                            édition revue, corrigée et augmentée par M. Basnage de Bauval</title>
+                        <author>
+                            <forename>Antoine</forename>
+                            <surname>Furetière</surname>
+                        </author>
+                        <imprint>
+                            <pubPlace>La Haye et Rotterdam</pubPlace>
+                            <biblScope unit="volume">Tome 1 A-D</biblScope>
+                            <publisher>Arnoud et Reinier Leers</publisher>
+                            <date>1701</date>
+                            <note type="url">http://gallica.bnf.fr/ark:/12148/bpt6k5841680f</note>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <listPerson type="indexed">
                     <head>Personnes indexés par Basnage comme source de citations</head>
 
 
@@ -2953,7 +2961,7 @@
                                 Norfolk,</placeName><country corresp="#GBR"
                             >Angleterre</country></birth>
                         <death when-custom="1641-10"><placeName>Londres</placeName><country
-                                corresp="#GBR">Angleeterre</country></death>
+                                corresp="#GBR">Angleterre</country></death>
                         <sex>Masculin</sex>
                         <nationality>Anglaise</nationality>
                         <faith>Protestant</faith>
@@ -2961,7 +2969,7 @@
                         <occupation/>
                         <affiliation/>
                         <socecStatus/>
-                        <note>English antiquary, historien et pholologue</note>
+                        <note>English antiquary, historien et philologue</note>
                         <event>
                             <desc><date/></desc>
                         </event>
@@ -3421,8 +3429,8 @@
 
 
                 </listPerson>
-            
-            <listPerson type="not-indexed">
+
+                <listPerson type="not-indexed">
                     <head>Personnes citées mais non indexés en tête du dictionnaire</head>
 
 
@@ -4753,7 +4761,8 @@
                         <faith>Catholique</faith>
                         <education>Sorbonne, College Jésuite de Louvain</education>
                         <occupation/>
-                        <affiliation ref="#Port_Royal_Solitaires">Abbaye St Cyran de Brenne, lié aussi avec l'Abbaye Port Royal des Champs</affiliation>
+                        <affiliation ref="#Port_Royal_Solitaires">Abbaye St Cyran de Brenne, lié
+                            aussi avec l'Abbaye Port Royal des Champs</affiliation>
                         <socecStatus/>
                         <note>Théologien, écrivain, abbé, prêtre, janseniste</note>
                         <event>
@@ -5413,7 +5422,8 @@
                         </persName>
                         <birth>Né vers 1615 à<placeName>Gland</placeName> en <country corresp="#FRE"
                                 >France</country></birth>
-                        <death  when="1695-04-15">Mort le 15 avril 1695 à <placeName>Quimperlé</placeName><country corresp="#FRE"
+                        <death when="1695-04-15">Mort le 15 avril 1695 à
+                                <placeName>Quimperlé</placeName><country corresp="#FRE"
                                 >France</country></death>
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
@@ -5428,7 +5438,9 @@
                             <desc>Grammaire générale et raisonnée : contenant les fondements de
                                 l'art de parler, expliqués d'une manière claire et naturelle, les
                                 raisons de ce qui est commun à toutes les langues, et des
-                                principales différences qui s'y rencontrent<date>1660</date>avec <persName ref="#Arn_ISN0000000121371431">Antoine Arnauld </persName></desc>
+                                principales différences qui s'y rencontrent<date>1660</date>avec
+                                    <persName ref="#Arn_ISN0000000121371431">Antoine Arnauld
+                                </persName></desc>
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/000000010891610X</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Claude_Lancelot</idno>
@@ -5756,6 +5768,33 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000109069133</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Pierandrea_Mattioli</idno>
+                    </person>
+
+                    <person xml:id="Marcgravius_ISN">
+                        <persName>
+                            <forename>Georg</forename>
+                            <surname>Marcgravius</surname>
+                            <roleName/>
+                            <addName>Georg Markgravius</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1610-09-20">né le 20 septembre 1610 à<placeName>Liebstadt en
+                                Saxe</placeName><country corresp="#DEU">Allemagne</country></birth>
+                        <death when="1644-01">janvier 1644 à
+                                <placeName>Luanda</placeName><country>Angola</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Allemande</nationality>
+                        <faith/>
+                        <education>universités de Rostock et de Szczecin</education>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>explorateur du Brésil, auteur d'une Historia Naturalis Brasiliae, </note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000066536917</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Georg_Markgraf</idno>
                     </person>
 
                     <person xml:id="Mauriceau_ISN0000000081280032">
@@ -6683,8 +6722,8 @@
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Marc-Antoine_Girard_de_Saint-Amant</idno>
                     </person>
-                    
-                    
+
+
 
                     <person xml:id="Tachard_ISN0000000115571939">
                         <persName xml:base="">
@@ -7121,1040 +7160,1106 @@
                     </person>
 
                 </listPerson>
-            <listPerson type="Related">
-               
-               <person xml:id="Brutel_ISN0000000080021848">
-                  <persName>
-                     <forename>Jean-Baptiste</forename>
-                     <surname>Brutel de la Rivière</surname>
-                     <roleName/>
-                     <addName/>
-                     <abbr/>
-                  </persName>
-                  <birth when="1669-08-17">né le 17 aout 1669 à
-                     <placeName>Montpellier</placeName><country corresp="#FRE">
-                        France</country></birth>
-                  <death when="1742-08-14">mort le 14 août 1742 à
-                     <placeName>Amsterdam</placeName><country corresp="#NLD"> Pays
-                        Bas</country></death>
-                  <sex>Masculin</sex>
-                  <nationality> Française</nationality>
-                  <faith>Protestant</faith>
-                  <education/>
-                  <occupation/>
-                  <affiliation/>
-                  <socecStatus/>
-                  <note> Lexicographe, linguiste, traducteur</note>
-                  <event>
-                     <desc>Il compléta et corrigea, à la suite de Henri Basnage de Beauval le
-                        Dictionnaire universel de Antoine Furetière, en <date when="1727"
-                           >1727</date></desc>
-                  </event>
-                  <idno type="ISNI">http://www.isni.org/isni/0000000080021848</idno>
-                  <idno type="URI"
-                     >https://fr.wikipedia.org/wiki/Jean-Baptiste_Brutel_de_la_Rivière</idno>
-               </person>
-               
-               
-               
-               <person xml:id="Desbordes_ISN0000000116490022">
-                  <persName>
-                     <forename>Henri</forename>
-                     <surname> Desbordes</surname>
-                     <roleName/>
-                     <addName>Bordesius</addName>
-                     <abbr/>
-                  </persName>
-                  <birth when="1649">1649 <placeName>Saumur</placeName><country corresp="#FRE"
-                     >France</country></birth>
-                  <death when="1722">circa 1722<placeName>Amsterdam</placeName><country
-                     corresp="#NLD">Netherlands</country></death>
-                  <sex>Masculin</sex>
-                  <nationality>Française</nationality>
-                  <faith>Protestant</faith>
-                  <education/>
-                  <occupation>Imprimeur, libraire</occupation>
-                  <affiliation/>
-                  <socecStatus/>
-                  <note>Imprimeur, fils d'Isaac Desbordes de Saumur. Imprisonné en 1682 à
-                     cause de la publication d'un ouvrage de Jurrieu. Partie à Amsterdam an
-                     1682. Imprimeur des 'Nouvelles de la république des lettres' de
-                     Bayle.</note>
-                  <event>
-                     <desc><date/></desc>
-                  </event>
-                  <idno type="ISNI">http://www.isni.org/isni/0000000116490022</idno>
-                  <idno type="URI">https://en.wikipedia.org/wiki/Henri_Desbordes</idno>
-               </person>
-               
-               <person xml:id="LeersA_ISN0000000109088641">
-                  <persName>
-                     <forename>Arnout</forename>
-                     <surname>Leers</surname>
-                     <roleName/>
-                     <addName>de jonge, le fils</addName>
-                     <abbr/>
-                  </persName>
-                  <birth when="1643"> 1643 à <placeName>inconnu</placeName>
-                     <country>Pays Bas</country></birth>
-                  <death>1701 à <placeName>inconnu</placeName>
-                     <country>Pays Bas</country></death>
-                  <sex>Masculin</sex>
-                  <nationality>Pays bas</nationality>
-                  <faith>Protestant</faith>
-                  <education/>
-                  <occupation>Imprimeur, Libraire</occupation>
-                  <affiliation/>
-                  <socecStatus/>
-                  <note/>
-                  <event>
-                     <desc><date/></desc>
-                  </event>
-                  <idno type="BNF">https://data.bnf.fr/atelier/12255993/arnout_leers/</idno>
-                  <idno type="ISNI">http://www.isni.org/isni/0000000109088641</idno>
-               </person>
-               
-               <person xml:id="LeersR_ISN0000000108710486">
-                  <persName>
-                     <forename>Reinier</forename>
-                     <surname>Leers</surname>
-                     <roleName/>
-                     <addName/>
-                     <abbr/>
-                  </persName>
-                  <birth when="1654"> 1654 à <placeName>inconnu</placeName>
-                     <country>Pays Bas</country></birth>
-                  <death when="1714">1714 à <placeName>inconnu</placeName>
-                     <country>Pays Bas</country></death>
-                  <sex>Masculin</sex>
-                  <nationality>Pays bas</nationality>
-                  <faith>Protestant</faith>
-                  <education/>
-                  <occupation>Imprimeur, Libraire</occupation>
-                  <affiliation/>
-                  <socecStatus/>
-                  <note>publisher in Rotterdam, whose works included the journal Histoire des
-                     Ouvrages des Savans.</note>
-                  <event>
-                     <desc><date/></desc>
-                  </event>
-                  <idno type="BNF">https://data.bnf.fr/fr/search?term=Reinier+Leers</idno>
-                  <idno type="URI">https://en.wikipedia.org/wiki/Reinier_Leers</idno>
-                  <idno type="ISNI">http://www.isni.org/isni/0000000108710486</idno>
-               </person>
-               
-               <person xml:id="Rochefort_ISN0000000109290866">
-                  <persName>
-                     <forename>César</forename>
-                     <surname>de Rochefort</surname>
-                     <roleName/>
-                     <addName/>
-                     <abbr/>
-                  </persName>
-                  <birth when="1630">Né 1630 à <placeName>Bellay</placeName><country
-                     corresp="#FRE">France</country></birth>
-                  <death when="1691">Mort en 1691 à<placeName>Bellay</placeName><country
-                     corresp="#FRE">France</country></death>
-                  <sex>Masculin</sex>
-                  <nationality>Française</nationality>
-                  <faith>Catholique</faith>
-                  <education>Sapienza, Rome</education>
-                  <occupation>Avocat</occupation>
-                  <affiliation/>
-                  <socecStatus/>
-                  <note> juriste, un lexicographe et un essayiste</note>
-                  <event>
-                     <desc>Dictionnaire général des mots les plus usités de la langue
-                        française, avec les étymologies, etc. <placeName>Lyon,
-                        </placeName><date>1685</date></desc>
-                  </event>
-                  <idno type="ISNI">http://www.isni.org/isni/0000000109290866</idno>
-                  <idno type="URI">https://fr.wikipedia.org/wiki/César_de_Rochefort</idno>
-               </person>
-               
-            </listPerson>
-            <listOrg type="institutions">
-               <head>Institutions</head>
-               
-               
-               <org xml:id="Acad_Fr_ISN0000000404717682">
-                  <addName>Academie française <idno/></addName>
-                  <roleName>Académie française</roleName>
-                  <addName>Messrs de l'Academie françoise</addName>
-                  <addName type="abbreviation">Ac. ou Mrs de l'Ac.</addName>
-                  <note/>
-                  <person>
-                     <idno type="ISNI">http://www.isni.org/isni/0000000404717682</idno>
-                     <idno type="URI"
-                        >"https://fr.wikipedia.org/wiki/Académie_française"</idno>
-                  </person>
-               </org>
-               <org xml:id="Port_Royal_Solitaires">
-                  <addName>Messrs de Port Royal <idno type="URI"
-                     >https://fr.wikipedia.org/wiki/Solitaires_(Port-Royal)</idno><abbr>Port-R.</abbr></addName>
-               </org>
-               
-               <org xml:id="Medecine_Montpellier">
-                  <addName>Faculté de Médecine de Montpellier</addName>
-                  <idno type="URI"
-                     >https://fr.wikipedia.org/wiki/Faculté_de_médecine_de_Montpellier</idno>
-               </org>
-               
-               
-               
-               
-               
-            </listOrg>
-            <listPerson type="mentionned">
-               <head>Personnes mentionnées mais pas citées</head>
-               <person n="Saint_Pacöme">
-                  <persName xml:base="https://fr.wikipedia.org/wiki/Pac%C3%B4me_le_Grand"
-                     xml:id="Pacôme_ISN0000000118565307"><persName>Saint
-                        Pacôme</persName><date> (290-346)</date><note>généralement considéré
-                           comme le fondateur du cénobitisme chrétien</note></persName>
-               </person>
-               <person n="Quintillian">
-                  <persName xml:base="https://en.wikipedia.org/wiki/Quintilian"
-                     xml:id="Quint_ISN0000000121271967"><persName>Quintillian, Marcus Fabius
-                        Quintilianus</persName>
-                     <abbr/><date>35 – c. 100 AD</date><country>Empire Romain,
-                        Hispania</country><note>rhétorician</note></persName>
-               </person>
-               
-               <person xml:id="Frontin_ISN0000000121209098">
-                  <persName>
-                     <forename>Sextus Julius</forename>
-                     <surname>Frontin</surname>
-                     <roleName/>
-                     <addName/>
-                     <abbr/>
-                  </persName>
-                  <birth/>
-                  <death/>
-                  <nationality/>
-                  <faith/>
-                  <education/>
-                  <occupation/>
-                  <affiliation/>
-                  <socecStatus/>
-                  <note/>
-                  <event>
-                     <desc><date/></desc>
-                  </event>
-                  <idno type="ISNI">0000000121209098</idno>
-                  <idno type="URI">https://fr.wikipedia.org/wiki/Frontin</idno>
-               </person>
-               <person xml:id="Galien_ISN0000000121302401">
-                  <persName>
-                     <forename/>
-                     <surname>Galien</surname>
-                     <roleName/>
-                     <addName/>
-                     <abbr/>
-                  </persName>
-                  <birth/>
-                  <death/>
-                  <nationality/>
-                  <faith/>
-                  <education/>
-                  <occupation/>
-                  <affiliation/>
-                  <socecStatus/>
-                  <note/>
-                  <event>
-                     <desc><date/></desc>
-                  </event>
-                  <idno type="ISNI">Galien_ISN0000000121302401</idno>
-                  <idno type="URI"/>
-               </person>
-               
-               
-               <person xml:id="Zosime_ISN0000000371217816">
-                  <persName>
-                     <forename/>
-                     <surname>Zosime</surname>
-                     <roleName/>
-                     <addName/>
-                     <abbr/>
-                  </persName>
-                  <birth when-custom="about460"><placeName/><country/></birth>
-                  <death when-custom="before520"><placeName/><country/></death>
-                  <sex/>
-                  <nationality/>
-                  <faith>anti-chrétien</faith>
-                  <education/>
-                  <occupation/>
-                  <affiliation/>
-                  <socecStatus/>
-                  <note>Historien grec</note>
-                  <event>
-                     <desc>Historia nova<date/></desc>
-                  </event>
-                  <idno type="ISNI">http://www.isni.org/isni/0000000371217816</idno>
-                  <idno type="URI">https://fr.wikipedia.org/wiki/Zosime_(historien)</idno>
-               </person>
-               <person n="Horace">
-                  <persName xml:base="https://fr.wikipedia.org/wiki/Horace"
-                     xml:id="Horace_ISN0000000121452178"><persName>Horace, Quintus Horatius
-                        Flaccus</persName><abbr/><date>v08.12.65.-v27.11.08</date><country>Empire
-                           Romain</country><note>Poere latin</note></persName>
-               </person>
-               <person n="Magnus">
-                  <persName xml:base="http://viaf.org/viaf/12358154"
-                     xml:id="Ola_ISN0000000122764659"><persName>Olaus
-                        Magnus</persName></persName>
-               </person>
-               <person n="César">
-                  <persName xml:base="https://fr.wikipedia.org/wiki/Jules_César"
-                     xml:id="Cesar_ISN0000000382473815"><persName>Jules
-                        César</persName></persName>
-               </person>
-               
-               <person n="Cassien">
-                  <persName xml:base="https://fr.wikipedia.org/wiki/Jean_Cassien"
-                     xml:id="Cassien_ISN0000000117810585"><persName>Jean
-                        Cassien</persName><date>
-                           (360-435)</date><country>France</country><note>moine</note></persName>
-               </person>
-               
-               <person n="Jesus_Christ">
-                  <persName xml:base="https://fr.wikipedia.org/wiki/J%C3%A9sus-Christ"
-                     xml:id="Jesus_Christ_ISN0000000120370699"
-                     ><persName>Jésus-Christ</persName><date>
-                        (4avJ.-C.-29)</date><note>Messie des chrétiens (aussi J.Christ,
-                           Christ, le Christ, Notre Seigneur, le Sauveur)</note></persName>
-               </person>
-               
-               <person n="Véronèse">
-                  <persName xml:base="https://fr.wikipedia.org/wiki/Paul_V%C3%A9ron%C3%A8se"
-                     xml:id="Veronese_ISN0000000120966716"><persName>Paul
-                        Véronèse</persName><date> (1528-1588)</date><note>Peintre
-                           vénitien</note></persName>
-               </person>
-               
-               <person n="Dioscorides">
-                  <persName xml:base="https://fr.wikipedia.org/wiki/Paul_V%C3%A9ron%C3%A8se"
-                     xml:id="Dioscoride_ISN0000000094803939"><persName>Pedanius
-                        Dioscorides</persName><date> (ca40-ca90)</date><note>Médecin,
-                           pharmacologue, botaniste</note></persName>
-               </person>
-               
-               <person n="Abelard">
-                  <persName xml:base="https://fr.wikipedia.org/wiki/Pierre_Abélard"
-                     xml:id="Abelard_ISN000000012102945X"><persName>Pierre
-                        Abelard</persName><date>1079-1142</date></persName>
-               </person>
-               <person n="Héloise">
-                  <persName xml:base="https://fr.wikipedia.org/wiki/Héloïse_d%27Argenteuil"
-                     xml:id="Heloise_ISN0000000121386094"><persName>Héloise
-                        d'Argentueil</persName><date>1095-1163 or 1164</date></persName>
-               </person>
-               
-               <person n="Juvénal">
-                  <persName xml:base="https://fr.wikipedia.org/wiki/Juv%C3%A9nal"
-                     xml:id="ISN0000000121441081">
-                     <forename> Decimus Iunius Iuvenalis</forename>
-                     <roleName>Juvénal</roleName>
-                     <abbr>JUV</abbr></persName>
-                  <nationality>Latine</nationality>
-                  <occupation>Poète</occupation>
-                  <event>
-                     <desc><title>Les Satires
-                     </title><bibl>http://gallica.bnf.fr/ark:/12148/bpt6k9681158b</bibl></desc>
-                  </event>
-               </person>
-               
-            </listPerson>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>Édition créé dans le cadre du projet ANR BASNUM.</p>
-         </projectDesc>
-         <classDecl n="ouvrages_indexés">
-            <taxonomy n="Ouvrages_indexés">
-               <listBibl>
-                  <bibl xml:id="De_l_Am">
-                     <title>Traité de l'Amitié</title>
-                     <author corresp="#DeVill_ISN0000000108846420">Abbé de Villiers</author>
-                  </bibl>
-                  <bibl xml:base="http://gallica.bnf.fr/ark:/12148/bpt6k64725347?rk=21459;2" xml:id="Art_de_Precher">
-                     <title>Art de Prêcher</title>
-                     <author corresp="#DeVill_ISN0000000108846420">Abbé de Villiers</author>
-                  </bibl>
-                  <bibl xml:base="https://fr.wikipedia.org/wiki/La_Princesse_de_Clèves" xml:id="La_P_de_Cl">
-                     <title>La Princesse de Cleves</title>Mme de la Fayette</bibl>
-                  <bibl xml:id="Disc_d_El">
-                     <title>Discours d'Eloquence</title>
-                  </bibl>
-                  <bibl xml:id="Div_cur">
-                     <title>Diversitez Curieuses</title>
-                  </bibl>
-                  <bibl xml:id="Gram_rai">
-                     <title>Grammaire raisonnée</title>
-                  </bibl>
-                  <bibl xml:id="Le_Ch_d_H">
-                     <title>Lettres du Chevalier d'Her...</title>
-                  </bibl>
-                  <bibl xml:id="Hist_de_l_Inq">
-                     <title>Histoire de l'Inquisition</title>
-                  </bibl>
-                  <bibl xml:id="L_d_Ab">
-                     <title>Lettre d'Abelard</title>
-                     <author corresp="#Abelard_ISN000000012102945X">Abelard</author>
-                  </bibl>
-                  <bibl xml:id="Let_P">
-                     <title>Lettres Portugaises</title>
-                     <author>Gabriel de Guilleragues</author>
-                  </bibl>
-                  <bibl xml:base="http://catalogue.bnf.fr/ark:/12148/cb300296625 " xml:id="Log_ark_12148_bpt6k133688c">
-                     <title>La Logique , ou l' Art de penser</title>
-                     <author corresp="#Arn_ISN0000000121371431 #Nic_ISN0000000122796589">Antoine Arnaud &amp;amp; Pierre
-                        Nicole </author>
-                  </bibl>
-                  <bibl xml:base="https://fr.wikisource.org/wiki/Œuvres_mêlées_de_Saint-Évremond"
-                     corresp="Gallica-ark:/12148/bpt6k57754j" xml:id="Oeuvres_melees">
-                     <title>Œuvres mêlées de Saint-Évremond</title>
-                     <author ref="#St_Ev_ISN0000000356744298">St Evremond</author>
-                     <abbr>O.M</abbr>
-                  </bibl>
-                  <bibl xml:id="M_de_P">
-                     <title>Morale de Mr. Pitet</title>
-                  </bibl>
-                  <bibl xml:id="P_Com">
-                     <title>Pieces Comiques</title>
-                  </bibl>
-                  <bibl corresp="Gallica-ark:/12148/bpt6k7630p" xml:id="ReflexUsgFr">
-                     <title>Réflexions sur l'usage présent de la langue françoise ou Remarques nouvelles et critiques
-                        touchant la politesse du langage... : suite des Réflexions critiques sur l'usage présent de la
-                        langue françoise... / Nicolas Andry de Boisregard </title>
-                  </bibl>
-               </listBibl>
-            </taxonomy>
-         </classDecl>
-         <classDecl n="ouvrages_cités">
-            <taxonomy n="Ouvrages_cités">
-               <listBibl>
-                  <bibl xml:base="https://pictures.royalsociety.org/pro83" xml:id="De_historia_piscium">
-                     <title>De historia piscium (History of Fish) - </title>
-                     <author ref="#Willughbi_ISN0000000081566452">Francis Willughbi</author>
-                     <date when="1686">1686</date>
-                  </bibl>
-                  <bibl xml:base="https://fr.wikipedia.org/wiki/Le_Comte_de_Gabalis"
-                     corresp="http://catalogue.bnf.fr/ark:/12148/cb37280623n" xml:id="Comte_de_Gabalis">
-                     <title>Le Comte de Gabalis ou Entretiens sur les sciences secrètes,</title>
-                     <author ref="#Villars_ISN0000000121185233">Abbé de Villars</author>
-                     <date>1670</date>
-                  </bibl>
-                  <bibl xml:id="Hist_Nat_Ire">
-                     <title corresp="http://www.ucc.ie/celt/published/E650002-001/">Histoire Naturelle d'Irelande
-                        (Natural History of Ireland)</title>
-                     <author ref="#Boate_ISN0000000063182535">Gerard Boate, translation</author>
-                  </bibl>
-                  <bibl xml:id="Glossaire_Grec_Latin">
-                     <title>Glossaire Grec-Latin</title>
-                     <author ref="#Labbe_ISN0000000109003847">A.P. Philippe Labbé</author>
-                  </bibl>
-                  <bibl xml:base="https://fr.wikisource.org/wiki/Lettres_d’Abélard_et_d’Héloïse/Texte_entier"
-                     xml:id="Lettres_d_Abelard" corresp="#Abelard_ISN000000012102945X #Heloise_ISN0000000121386094">
-                     <title>Lettres d'Abelard et de Héloise</title>
-                     <author>Pierre Abelard</author>
-                  </bibl>
-                  <bibl xml:base="http://catalogue.bnf.fr/ark:/12148/cb35153876f" xml:id="Dictionnaire_Acad_1694">
-                     <title>Dictionnaire de l'Académie Française 1694</title>
-                     <orgName ref="#Acad_Fr_ISN0000000404717682">Académie Française</orgName>
-                  </bibl>
-                  <bibl xml:base="http://catalogue.bnf.fr/ark:/12148/cb31369512t" xml:id="Maximes_ark12148_cb31369512t">
-                     <title>Maximes du Droit Canonique</title>
-                     <author corresp="#Louis_Dubois_avocat">Louis Dubois</author>
-                     <note corresp="#Simon_ISN0000000015276078">réédite Denis Simon</note>
-                  </bibl>
-                  <biblStruct xml:id="Parfait_Negociant">
-                     <monogr>
-                        <title>Le Parfait négociant, ou Instruction générale pour ce qui regarde le commerce de toute
-                           sorte de marchandises, tant de France que des pays estrangers... par le sieur Jacques Savary
-                           [Texte imprimé]</title>
-                        <author corresp="#Savary_ISN0000000080889049">Jacques Savary</author>
-                        <imprint>
-                           <pubPlace>Paris</pubPlace>
-                           <publisher>L. Billaine </publisher>
-                           <date>1675</date>
-                           <note>Basnage cites Le Parfait Marchand, either he had a plagiarised copy or the English
-                              text</note>
-                           <note xml:base="http://catalogue.bnf.fr/ark:/12148/cb31305444z"/>
-                        </imprint>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="Mercure_Indien">
-                     <monogr>
-                        <title>Le Mercure indien, ou le tresor des Indes. Première partie. D ans laquelle est traitté de
-                           l'or, de l'argent et du vif-argent ... Avec une explication sommaire des titres de l'or et de
-                           l'argent, et de leur affinage ... /</title>
-                        <author corresp="#Rosnel_VIAF59440474"/>
-                        <imprint>
-                           <pubPlace>Paris</pubPlace>
-                           <publisher>L. Chatillon</publisher>
-                           <date when="1672">1672</date>
-                           <note>Found through archive.org -
-                              https://archive.org/details/LeMercureIndienOuLeTresorDesIndes/page/n1, also at Wellcome
-                              Libary and in BNF, but is not catalogued </note>
-                        </imprint>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="Culture_des_fleurs">
-                     <monogr>
-                        <title> Nouveau traité pour la culture des fleurs et la culture des melons </title>
-                        <author/>
-                        <imprint>
-                           <pubPlace>Amsterdam
-                              <address>
-                                 <addrLine>dans le Kalverstraat, prés le Dam</addrLine>
-                              </address>
-                           </pubPlace>
-                           <publisher>Henri Desbordes</publisher>
-                           <date when="1697">1697</date>
-                           <note>BNF http://catalogue.bnf.fr/ark:/12148/cb39309383n </note>
-                        </imprint>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct type="book" xml:id="Félibien1676" corresp="http://zotero.org/users/1449659/items/3XNTB76R">
-                     <monogr>
-                        <title level="m">Des principes de l'architecture, de la sculpture, de la peinture, et des autres
-                           arts qui en dépendent : avec un Dictionnaire des termes propres à chacun de ces arts (Ed. sur
-                           microfiche) / [Félibien]</title>
-                        <author>
-                           <forename>André</forename>
-                           <surname>Félibien</surname>
-                        </author>
-                        <imprint>
-                           <pubPlace>Paris</pubPlace>
-                           <publisher>J.B Coignard</publisher>
-                           <date>1676</date>
-                           <note type="accessed">2017-10-15</note>
-                           <note type="url">http://gallica.bnf.fr/ark:/12148/bpt6k50597k</note>
-                        </imprint>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct type="book" xml:id="Savot1624" corresp="http://zotero.org/users/1449659/items/RM4F3JMD">
-                     <monogr>
-                        <title level="m">L’architecture françoise des bastimens particuliers</title>
-                        <author>
-                           <forename>Louis</forename>
-                           <surname>Savot</surname>
-                        </author>
-                        <imprint>
-                           <pubPlace>Paris</pubPlace>
-                           <date>1624</date>
-                           <note type="accessed">2016-10-27</note>
-                           <note type="url"
-                              >http://architectura.cesr.univ-tours.fr/Traite/Notice/ENSBA_LES0799.asp?param=</note>
-                        </imprint>
-                     </monogr>
-                     <series>
-                        <title level="s">ENSBA, Paris</title>
-                     </series>
-                  </biblStruct>
-                  <bibl type="book" corresp=" ark:/13960/t41s18n67">
-                     <title>Gallia purpurata qua cum summorum pontificum, tum omnium Galliae cardinalium, qui hactenus
-                        vixere res praeclare gestae continentur; adiectae sunt parmae,&amp;amp; earundem descriptiones.
-                        ... Epitome omnium conciliorum Galliae tam veterum, quàm recentiorum. Nomenclatura magnorum
-                        Franciae elemosynariorum. </title>
-                     <date when="1638">1638</date>
-                     <author corresp="    ISNI 0000 0000 8076 0923">Pierre Frizon <note>Pénitencier et chanoine de
-                           l'église de Reims. - Il fut vicaire général de la Grande Aumônerie de France. - Docteur en
-                           théologie en 1623</note>
-                     </author>
-                  </bibl>
-                  <biblStruct type="book" xml:id="Desmarets_de_Saint-Sorlin1639"
-                     corresp="http://zotero.org/users/1449659/items/KHM8HQPU">
-                     <monogr>
-                        <title level="m">Les visionnaires . Comedie. Seconde edition</title>
-                        <author corresp="#Desmarets_ISN0000000122760922">
-                           <forename>Jean (1595-1676)</forename>
-                           <surname>Desmarets de Saint-Sorlin</surname>
-                        </author>
-                        <imprint>
-                           <publisher>A Paris, chez Jean Camusat. M.DC.XXXIX</publisher>
-                           <date>1639</date>
-                           <note type="accessed">2018-01-05T17:07:00Z</note>
-                           <note type="url">http://gallica.bnf.fr/ark:/12148/bpt6k55303536</note>
-                        </imprint>
-                     </monogr>
-                  </biblStruct>
-               </listBibl>
-            </taxonomy>
-         </classDecl>
-         <classDecl n="domains">
-            <taxonomy n="domains">
-               <desc>Domains et métiers designés par des termes</desc>
-               <gloss xml:id="term_agriculture">
-                  <name>agriculture</name>
-               </gloss>
-               <gloss xml:id="term_algebre">
-                  <name>algebre</name>
-               </gloss>
-               <gloss xml:id="term_anatomie">
-                  <name>anatomie</name>
-               </gloss>
-               <gloss xml:id="term_architecture">
-                  <name>architecture</name>
-               </gloss>
-               <gloss xml:id="term_arithmetique">
-                  <name>arithmetique</name>
-               </gloss>
-               <gloss xml:id="term_arquebusier">
-                  <name>arquebusier</name>
-               </gloss>
-               <gloss xml:id="term_artisans">
-                  <name>artisans</name>
-               </gloss>
-               <gloss xml:id="term_astrologie">
-                  <name>astrologie</name>
-               </gloss>
-               <gloss xml:id="term_astronomie">
-                  <name>astronomie</name>
-               </gloss>
-               <gloss xml:id="term_banque">
-                  <name>banque</name>
-               </gloss>
-               <gloss xml:id="term_barbare">
-                  <name>barbare</name>
-               </gloss>
-               <gloss xml:id="term_blason">
-                  <name>blason</name>
-               </gloss>
-               <gloss xml:id="term_bonnetier">
-                  <name>bonnetier</name>
-               </gloss>
-               <gloss xml:id="term_botanique">
-                  <name>botanique</name>
-               </gloss>
-               <gloss xml:id="term_bouquetiere">
-                  <name>bouquetiere</name>
-               </gloss>
-               <gloss xml:id="term_breviaire">
-                  <name>breviaire</name>
-               </gloss>
-               <gloss xml:id="term_broderie">
-                  <name>broderie</name>
-               </gloss>
-               <gloss xml:id="term_cartier">
-                  <name>cartier</name>
-               </gloss>
-               <gloss xml:id="term_chancellerie">
-                  <name>chancellerie</name>
-               </gloss>
-               <gloss xml:id="term_charcuterie">
-                  <name>charcuterie</name>
-               </gloss>
-               <gloss xml:id="term_charpenterie">
-                  <name>charpenterie</name>
-               </gloss>
-               <gloss xml:id="term_chasse">
-                  <name>chasse</name>
-               </gloss>
-               <gloss xml:id="term_chiromancie">
-                  <name>chiromancie</name>
-               </gloss>
-               <gloss xml:id="term_chirugerie">
-                  <name>chirugerie</name>
-               </gloss>
-               <gloss xml:id="term_chronologie">
-                  <note>chronologie</note>
-               </gloss>
-               <gloss xml:id="term_chymie">
-                  <name>chymie</name>
-               </gloss>
-               <gloss xml:id="term_collectif">
-                  <name>collectif</name>
-               </gloss>
-               <gloss xml:id="term_college">
-                  <name>college</name>
-               </gloss>
-               <gloss xml:id="term_complement">
-                  <name>complement</name>
-               </gloss>
-               <gloss xml:id="term_confiseur">
-                  <name>confiseur</name>
-               </gloss>
-               <gloss xml:id="term_cordier">
-                  <name>cordier</name>
-               </gloss>
-               <gloss xml:id="term_cordonnier">
-                  <name>cordonnier</name>
-               </gloss>
-               <gloss xml:id="term_coutelier">
-                  <name>coutelier</name>
-               </gloss>
-               <gloss xml:id="term_couture">
-                  <name>couture</name>
-               </gloss>
-               <gloss xml:id="term_degraisseur">
-                  <name>degraisseur</name>
-               </gloss>
-               <gloss xml:id="term_devotion">
-                  <name>devotion</name>
-               </gloss>
-               <gloss xml:id="term_droit">
-                  <name>droit</name>
-               </gloss>
-               <gloss xml:id="term_dogmatique">
-                  <name>dogmatique</name>
-               </gloss>
-               <gloss xml:id="term_eclesiastique">
-                  <name>eclesiastique</name>
-               </gloss>
-               <gloss xml:id="term_drapppier">
-                  <name>drappier</name>
-               </gloss>
-               <gloss xml:id="term_ecole">
-                  <name>école</name>
-               </gloss>
-               <gloss xml:id="term_eaux_et_forets">
-                  <name>eaux et forêts</name>
-               </gloss>
-               <gloss xml:id="term_fauconnerie">
-                  <name>fauconnerie</name>
-               </gloss>
-               <gloss xml:id="term_finance">
-                  <name>finance</name>
-               </gloss>
-               <gloss xml:id="term_fleuriste">
-                  <name>fleuriste</name>
-               </gloss>
-               <gloss xml:id="term_forets">
-                  <name>forets</name>
-               </gloss>
-               <gloss xml:id="term_forges">
-                  <name>term_forges</name>
-               </gloss>
-               <gloss xml:id="term_formier">
-                  <name>formier</name>
-               </gloss>
-               <gloss xml:id="term_fortification">
-                  <name>fortification</name>
-               </gloss>
-               <gloss xml:id="term_gantier">
-                  <name>gantier</name>
-               </gloss>
-               <gloss xml:id="term_geometrie">
-                  <name>geometrie</name>
-               </gloss>
-               <gloss xml:id="term_grammaire">
-                  <name>grammaire</name>
-               </gloss>
-               <gloss xml:id="term_graveur">
-                  <name>graveur</name>
-               </gloss>
-               <gloss xml:id="term_guerre">
-                  <name>guerre</name>
-               </gloss>
-               <gloss xml:id="term_histoire_eclesiastique">
-                  <name>histoire eclesiastique</name>
-               </gloss>
-               <gloss xml:id="term_imprimerie">
-                  <name>imprimerie</name>
-               </gloss>
-               <gloss xml:id="term_injurieux">injurieux</gloss>
-               <gloss xml:id="term_jardinage">
-                  <name>jardinage</name>
-               </gloss>
-               <gloss xml:id="term_jardinier">
-                  <name>jardinier</name>
-               </gloss>
-               <gloss xml:id="term_jouaillier">
-                  <name>jouaillier</name>
-               </gloss>
-               <gloss xml:id="term_jurisprudence">
-                  <name>jurisprudence</name>
-               </gloss>
-               <gloss xml:id="term_laboureur">
-                  <name>laboureur</name>
-               </gloss>
-               <gloss xml:id="term_logique">
-                  <name>logique</name>
-               </gloss>
-               <gloss xml:id="term_macon">
-                  <name>maçon</name>
-               </gloss>
-               <gloss xml:id="term_maconnerie">
-                  <name>maconnerie</name>
-               </gloss>
-               <gloss xml:id="terrm_manege">
-                  <name>manege</name>
-               </gloss>
-               <gloss xml:id="term_manufactures">
-                  <name>manufactures</name>
-               </gloss>
-               <gloss xml:id="term_marchand">
-                  <name>marchand</name>
-               </gloss>
-               <gloss xml:id="term_marchand_de_drap">
-                  <name>marchand_de_drap</name>
-               </gloss>
-               <gloss xml:id="term_marchands_de_poisson">
-                  <name>Marchand de poisson</name>
-               </gloss>
-               <gloss xml:id="term_marine">
-                  <name>Marine</name>
-               </gloss>
-               <gloss xml:id="terù_medailliste">
-                  <name>medailliste </name>
-               </gloss>
-               <gloss xml:id="term_medecine">
-                  <name>medecine</name>
-               </gloss>
-               <gloss xml:id="term_menuiserie">
-                  <name>menuiserie</name>
-               </gloss>
-               <gloss xml:id="term_mer">
-                  <name>mer</name>
-               </gloss>
-               <gloss xml:id="term_monnoyes">
-                  <name>monnoyes</name>
-               </gloss>
-               <gloss xml:id="term_morale">
-                  <name>morale</name>
-               </gloss>
-               <gloss xml:id="term_musique">
-                  <name>musique</name>
-               </gloss>
-               <gloss xml:id="term_mythologie">
-                  <name>mythologie</name>
-               </gloss>
-               <gloss xml:id="term_negoce">
-                  <name>negoce</name>
-               </gloss>
-               <gloss xml:id="term_ouvrage">
-                  <name>ouvrage</name>
-               </gloss>
-               <gloss xml:id="term_palais">
-                  <name>palais</name>
-               </gloss>
-               <gloss xml:id="term_patissier">
-                  <name>patissier</name>
-               </gloss>
-               <gloss xml:id="term_peche">
-                  <name>peche</name>
-               </gloss>
-               <gloss xml:id="term_peintre">
-                  <name>peintre</name>
-               </gloss>
-               <gloss xml:id="term_peinture">
-                  <name>peinture</name>
-               </gloss>
-               <gloss xml:id="term_pharmacie">
-                  <name>pharmacie</name>
-               </gloss>
-               <gloss xml:id="term_philosophie">
-                  <name>philosophie</name>
-               </gloss>
-               <gloss xml:id="term_physique">
-                  <name>physique</name>
-               </gloss>
-               <gloss xml:id="term_picquet">
-                  <name>Jeu de Picquet</name>
-               </gloss>
-               <gloss xml:id="term_plombier">
-                  <name>plombier</name>
-               </gloss>
-               <gloss xml:id="term_poesie">
-                  <name>poesie</name>
-               </gloss>
-               <gloss xml:id="term_poetique">
-                  <name>poetique</name>
-               </gloss>
-               <gloss xml:id="term_pratique">
-                  <name>pratique</name>
-               </gloss>
-               <gloss xml:id="term_quincaillerie">
-                  <name>quincaillerie</name>
-               </gloss>
-               <gloss xml:id="trerm_relations">
-                  <name>relations</name>
-               </gloss>
-               <gloss xml:id="term_relieur">
-                  <name>relieur</name>
-               </gloss>
-               <gloss xml:id="term_rhetorique">
-                  <name>rhetorique</name>
-               </gloss>
-               <gloss xml:id="term_societe">
-                  <name>societe</name>
-               </gloss>
-               <gloss xml:id="term_sorbonne">
-                  <name>Sorbonne</name>
-               </gloss>
-               <gloss xml:id="term_taillandier">
-                  <name>taillandier</name>
-               </gloss>
-               <gloss xml:id="term_theatre">
-                  <name>theatre</name>
-               </gloss>
-               <gloss xml:id="term_theologie">
-                  <name>théologie</name>
-               </gloss>
-               <gloss xml:id="term_tireur_d_or">
-                  <name>tireur_d_or</name>
-               </gloss>
-               <gloss xml:id="term_venerie">
-                  <name>venerie</name>
-               </gloss>
-               <gloss xml:id="term_vernisseur">
-                  <name>vernisseur</name>
-               </gloss>
-               <gloss xml:id="term_verrerie">
-                  <name>verrerie</name>
-               </gloss>
-            </taxonomy>
-         </classDecl>
-         <classDecl n="country">
-            <taxonomy>
-               <desc>Country codes for countries that have changed name or geographic extent</desc>
-               <gloss xml:id="DNK">
-                  <country>Danemark</country>
-               </gloss>
-               <gloss xml:id="DEU">
-                  <country>Allemagne</country>
-               </gloss>
-               <gloss xml:id="ESP">
-                  <country>Espagne</country>
-               </gloss>
-               <gloss xml:id="FRE">
-                  <country>France</country>
-               </gloss>
-               <gloss xml:id="GLE">
-                  <country>Ireland</country>
-               </gloss>
-               <gloss xml:id="ITA">
-                  <country>Italie</country>
-               </gloss>
-               <gloss xml:id="NLD">
-                  <country>The Netherlands</country>
-               </gloss>
-               <gloss xml:id="CHE">
-                  <country>Suisse</country>
-               </gloss>
-               <gloss xml:id="BEL">
-                  <country>Pays Bas Espagnol <date>1581 à 1713</date>
-                  </country>
-               </gloss>
-               <gloss xml:id="GBR">
-                  <country>Royaume Uni</country>
-               </gloss>
-            </taxonomy>
-         </classDecl>
-         <refsDecl n="grammar">
-            <p>Attribute contents are all in French as although the tagging is English, we prefer matadata to be
-               recoverable in the language of the text. Translations are given in this senction.</p>
-            <p>Head words. The headword is always given an XML:id. The first letter is in upper case, the rest in lower
-               case. Accents are used when needed to distinguish two entries, otherwise they are avoided.</p>
-            <p>Grammatical information. In 'pos' we use the 'expand' attribute. <list n="POS">
-                  <item>
-                     <abbr>v</abbr>, Verbs are expanded as 'verbe'</item>
-                  <item>
-                     <abbr>subst</abbr>, Nouns are expanded as 'substantif' from 's'. When the noun is only plural, the
-                        <abbr xml:id="pl">denotes this</abbr>
-                  </item>
-                  <item>
-                     <abbr>adj</abbr>, Adjectives are expanded as 'adjectif' from 'adj'</item>
-                  <item>
-                     <abbr>adv</abbr>, Adverbs are expanded as 'adverbe' from 'adv'</item>
-               </list>
-               <list n="Gender">
-                  <item>In 'gen' we expand the masculin gender as 'masculin' from'm'</item>
-                  <item>In 'gen' we expand the female gender as'féminin'</item>
-               </list>
-            </p>
-            <p>In 'subc', we follow Furetière/Basnage's classification of verbs. The glosses come from the dictionary
-               itself. <list n="Subcategory_Verbs">
-                  <item>
-                     <abbr>act</abbr> is expanded as 'actif' (active) <gloss>Verbe actif, est celui qui exprime une
-                        action, comme, <hi rendition="#i">faire, donner, battre</hi>, &amp;amp; qui registre
-                        l’accusatif.</gloss>
-                  </item>
-                  <item>
-                     <abbr>n</abbr> is expanded as 'neutre' (neutral). <gloss>Verbe neutre, est celui qui ne désigne
-                        aucune action, ni passion, &amp;amp; qui n’a aucun regime, comme <hi rendition="#i"
-                        >dormir</hi>.</gloss>
-                  </item>
-                  <item>verbe passif <gloss>Verbe passif, est celui qui exprime une passion; qui souffre, &amp;amp;
-                        reçoit l’action de quelque agent, &amp;amp; se conjugue avec le verbe auxiliaire <hi
-                           rendition="#i">je suis</hi>.</gloss>
-                  </item>
-                  <item>
-                     <abbr>a</abbr>, verbe asbsolu <gloss>Verbe absolu, est celui qui n’a besoin d’aucun regime, ni
-                        exprimé, ni sousentendu, comme <hi rendition="#i">il tonne</hi>.</gloss>
-                  </item>
-                  <item>verbe auxiliaire <gloss>Verbe auxiliaire, c’est le verbe avoir &amp;amp; le verbe être, qui
-                        aident à conjuguer les verbes actifs &amp;amp; passifs. </gloss>
-                  </item>
-                  <item>verbe substantif <gloss>Verbe substantif, est le verbe être, <hi rendition="#i">je suis</hi>.
-                     </gloss>
-                  </item>
-                  <item>verbe reguliers <gloss>Verbe reguliers, sont ceux qui se conjuguent tous d’une même façon,
-                        &amp;amp; suivant une certaine regle, comme <hi rendition="#i">j’aime, je fais.</hi>
-                     </gloss>
-                  </item>
-                  <item>Participe passé (past participle)</item>
-               </list>
-               <list n="other">
-                  <item xml:id="pron_dem">Pronom demonstratif</item>
-               </list>
-            </p>
-            <p>Terms. Furetière/Basnage clearly delineate certain terms as such. This is declared in 'usg' as type
-               "terme" with 'ana' pointing to the domain listed above in the 'classDesc' 'domains'. Domain names are
-               given an ID in lower case. Domain names are not translated into English.</p>
-            <p>Author and Title. When citations are given, the 'ref' attribute is used to link to the XML:ID in one of
-               the lists found in 'sourceDesc'. The 'type' attribute declares them to be either exemple (example) or
-               'citation', where an author or title is given.</p>
-            <p>Citations.Citations are given within the 'quote' element the differentiation of type is carried by the
-               attribute on 'cit'. A closed type list allows either 'example' when when an apparently made-up example is
-               given or 'citation when a work or author is actually cited </p>
-            <p> Segments. A number of phraeseological units can be found. These are mostly multi-word units and as such
-               are subject to a pre-analysis. They are recorded <seg/> with a closed list of type attributes <list>
-                  <item> Collocations. These are mostly verb - noun, but other forms can be found. </item>
-                  <item>Some units are clearly terminological in nature and are recorded as 'terme_variant</item>
-                  <item>Proverbs are noted when so described as 'proverbe</item>
-                  <item>A general category of idiom describes phrasal formulae encoded as 'idiome'</item>
-                  <item>Synonyms are also marked using <seg/>
-                  </item>
-               </list>
-            </p>
-         </refsDecl>
-         <tagsDecl n="rendition">
-            <rendition xml:id="italics" scheme="css">font-style: italic</rendition>
-            <rendition xml:id="bold" scheme="css">font-style: bold</rendition>
-            <rendition xml:id="neutral" scheme="css">font-style: normal</rendition>
-            <rendition xml:id="upper_case" scheme="css">font-style: uppercase</rendition>
-            <rendition xml:id="small_capsc" scheme="css">font-style: small-caps</rendition>
-         </tagsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <creation>
-            <!-- <dc:date>, obligatoire, unique
+                <listPerson type="Related">
+
+                    <person xml:id="Brutel_ISN0000000080021848">
+                        <persName>
+                            <forename>Jean-Baptiste</forename>
+                            <surname>Brutel de la Rivière</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1669-08-17">né le 17 aout 1669 à
+                                <placeName>Montpellier</placeName><country corresp="#FRE">
+                                France</country></birth>
+                        <death when="1742-08-14">mort le 14 août 1742 à
+                                <placeName>Amsterdam</placeName><country corresp="#NLD"> Pays
+                                Bas</country></death>
+                        <sex>Masculin</sex>
+                        <nationality> Française</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note> Lexicographe, linguiste, traducteur</note>
+                        <event>
+                            <desc>Il compléta et corrigea, à la suite de Henri Basnage de Beauval le
+                                Dictionnaire universel de Antoine Furetière, en <date when="1727"
+                                    >1727</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000080021848</idno>
+                        <idno type="URI"
+                            >https://fr.wikipedia.org/wiki/Jean-Baptiste_Brutel_de_la_Rivière</idno>
+                    </person>
+
+
+
+                    <person xml:id="Desbordes_ISN0000000116490022">
+                        <persName>
+                            <forename>Henri</forename>
+                            <surname> Desbordes</surname>
+                            <roleName/>
+                            <addName>Bordesius</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1649">1649 <placeName>Saumur</placeName><country corresp="#FRE"
+                                >France</country></birth>
+                        <death when="1722">circa 1722<placeName>Amsterdam</placeName><country
+                                corresp="#NLD">Netherlands</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation>Imprimeur, libraire</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>Imprimeur, fils d'Isaac Desbordes de Saumur. Imprisonné en 1682 à
+                            cause de la publication d'un ouvrage de Jurrieu. Partie à Amsterdam an
+                            1682. Imprimeur des 'Nouvelles de la république des lettres' de
+                            Bayle.</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000116490022</idno>
+                        <idno type="URI">https://en.wikipedia.org/wiki/Henri_Desbordes</idno>
+                    </person>
+
+                    <person xml:id="LeersA_ISN0000000109088641">
+                        <persName>
+                            <forename>Arnout</forename>
+                            <surname>Leers</surname>
+                            <roleName/>
+                            <addName>de jonge, le fils</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1643"> 1643 à <placeName>inconnu</placeName>
+                            <country>Pays Bas</country></birth>
+                        <death>1701 à <placeName>inconnu</placeName>
+                            <country>Pays Bas</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Pays bas</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation>Imprimeur, Libraire</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="BNF">https://data.bnf.fr/atelier/12255993/arnout_leers/</idno>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000109088641</idno>
+                    </person>
+
+                    <person xml:id="LeersR_ISN0000000108710486">
+                        <persName>
+                            <forename>Reinier</forename>
+                            <surname>Leers</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1654"> 1654 à <placeName>inconnu</placeName>
+                            <country>Pays Bas</country></birth>
+                        <death when="1714">1714 à <placeName>inconnu</placeName>
+                            <country>Pays Bas</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Pays bas</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation>Imprimeur, Libraire</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>publisher in Rotterdam, whose works included the journal Histoire des
+                            Ouvrages des Savans.</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="BNF">https://data.bnf.fr/fr/search?term=Reinier+Leers</idno>
+                        <idno type="URI">https://en.wikipedia.org/wiki/Reinier_Leers</idno>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000108710486</idno>
+                    </person>
+
+                    <person xml:id="Rochefort_ISN0000000109290866">
+                        <persName>
+                            <forename>César</forename>
+                            <surname>de Rochefort</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1630">Né 1630 à <placeName>Bellay</placeName><country
+                                corresp="#FRE">France</country></birth>
+                        <death when="1691">Mort en 1691 à<placeName>Bellay</placeName><country
+                                corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education>Sapienza, Rome</education>
+                        <occupation>Avocat</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note> juriste, un lexicographe et un essayiste</note>
+                        <event>
+                            <desc>Dictionnaire général des mots les plus usités de la langue
+                                française, avec les étymologies, etc. <placeName>Lyon,
+                                    </placeName><date>1685</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000109290866</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/César_de_Rochefort</idno>
+                    </person>
+
+                </listPerson>
+                <listOrg type="institutions">
+                    <head>Institutions</head>
+
+
+                    <org xml:id="Acad_Fr_ISN0000000404717682">
+                        <addName>Academie française <idno/></addName>
+                        <roleName>Académie française</roleName>
+                        <addName>Messrs de l'Academie françoise</addName>
+                        <addName type="abbreviation">Ac. ou Mrs de l'Ac.</addName>
+                        <note/>
+                        <person>
+                            <idno type="ISNI">http://www.isni.org/isni/0000000404717682</idno>
+                            <idno type="URI"
+                                >"https://fr.wikipedia.org/wiki/Académie_française"</idno>
+                        </person>
+                    </org>
+                    <org xml:id="Port_Royal_Solitaires">
+                        <addName>Messrs de Port Royal <idno type="URI"
+                                >https://fr.wikipedia.org/wiki/Solitaires_(Port-Royal)</idno><abbr>Port-R.</abbr></addName>
+                    </org>
+
+                    <org xml:id="Medecine_Montpellier">
+                        <addName>Faculté de Médecine de Montpellier</addName>
+                        <idno type="URI"
+                            >https://fr.wikipedia.org/wiki/Faculté_de_médecine_de_Montpellier</idno>
+                    </org>
+
+
+
+
+
+                </listOrg>
+                <listPerson type="mentionned">
+                    <head>Personnes mentionnées mais pas citées</head>
+                    <person n="Saint_Pacöme">
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Pac%C3%B4me_le_Grand"
+                            xml:id="Pacôme_ISN0000000118565307"><persName>Saint
+                                Pacôme</persName><date> (290-346)</date><note>généralement considéré
+                                comme le fondateur du cénobitisme chrétien</note></persName>
+                    </person>
+                    <person n="Quintillian">
+                        <persName xml:base="https://en.wikipedia.org/wiki/Quintilian"
+                            xml:id="Quint_ISN0000000121271967"><persName>Quintillian, Marcus Fabius
+                                Quintilianus</persName>
+                            <abbr/><date>35 – c. 100 AD</date><country>Empire Romain,
+                                Hispania</country><note>rhétorician</note></persName>
+                    </person>
+
+                    <person xml:id="Frontin_ISN0000000121209098">
+                        <persName>
+                            <forename>Sextus Julius</forename>
+                            <surname>Frontin</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth/>
+                        <death/>
+                        <nationality/>
+                        <faith/>
+                        <education/>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">0000000121209098</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Frontin</idno>
+                    </person>
+                    <person xml:id="Galien_ISN0000000121302401">
+                        <persName>
+                            <forename/>
+                            <surname>Galien</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth/>
+                        <death/>
+                        <nationality/>
+                        <faith/>
+                        <education/>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">Galien_ISN0000000121302401</idno>
+                        <idno type="URI"/>
+                    </person>
+
+
+                    <person xml:id="Zosime_ISN0000000371217816">
+                        <persName>
+                            <forename/>
+                            <surname>Zosime</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when-custom="about460"><placeName/><country/></birth>
+                        <death when-custom="before520"><placeName/><country/></death>
+                        <sex/>
+                        <nationality/>
+                        <faith>anti-chrétien</faith>
+                        <education/>
+                        <occupation/>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>Historien grec</note>
+                        <event>
+                            <desc>Historia nova<date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000371217816</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Zosime_(historien)</idno>
+                    </person>
+                    <person n="Horace">
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Horace"
+                            xml:id="Horace_ISN0000000121452178"><persName>Horace, Quintus Horatius
+                                Flaccus</persName><abbr/><date>v08.12.65.-v27.11.08</date><country>Empire
+                                Romain</country><note>Poere latin</note></persName>
+                    </person>
+                    <person n="Magnus">
+                        <persName xml:base="http://viaf.org/viaf/12358154"
+                            xml:id="Ola_ISN0000000122764659"><persName>Olaus
+                            Magnus</persName></persName>
+                    </person>
+                    <person n="César">
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Jules_César"
+                            xml:id="Cesar_ISN0000000382473815"><persName>Jules
+                            César</persName></persName>
+                    </person>
+
+                    <person n="Cassien">
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Jean_Cassien"
+                            xml:id="Cassien_ISN0000000117810585"><persName>Jean
+                                Cassien</persName><date>
+                                (360-435)</date><country>France</country><note>moine</note></persName>
+                    </person>
+
+                    <person n="Jesus_Christ">
+                        <persName xml:base="https://fr.wikipedia.org/wiki/J%C3%A9sus-Christ"
+                            xml:id="Jesus_Christ_ISN0000000120370699"
+                                ><persName>Jésus-Christ</persName><date>
+                                (4avJ.-C.-29)</date><note>Messie des chrétiens (aussi J.Christ,
+                                Christ, le Christ, Notre Seigneur, le Sauveur)</note></persName>
+                    </person>
+
+                    <person n="Véronèse">
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Paul_V%C3%A9ron%C3%A8se"
+                            xml:id="Veronese_ISN0000000120966716"><persName>Paul
+                                Véronèse</persName><date> (1528-1588)</date><note>Peintre
+                                vénitien</note></persName>
+                    </person>
+
+                    <person n="Dioscorides">
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Paul_V%C3%A9ron%C3%A8se"
+                            xml:id="Dioscoride_ISN0000000094803939"><persName>Pedanius
+                                Dioscorides</persName><date> (ca40-ca90)</date><note>Médecin,
+                                pharmacologue, botaniste</note></persName>
+                    </person>
+
+                    <person n="Abelard">
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Pierre_Abélard"
+                            xml:id="Abelard_ISN000000012102945X"><persName>Pierre
+                                Abelard</persName><date>1079-1142</date></persName>
+                    </person>
+                    <person n="Héloise">
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Héloïse_d%27Argenteuil"
+                            xml:id="Heloise_ISN0000000121386094"><persName>Héloise
+                                d'Argentueil</persName><date>1095-1163 or 1164</date></persName>
+                    </person>
+
+                    <person n="Juvénal">
+                        <persName xml:base="https://fr.wikipedia.org/wiki/Juv%C3%A9nal"
+                            xml:id="ISN0000000121441081">
+                            <forename> Decimus Iunius Iuvenalis</forename>
+                            <roleName>Juvénal</roleName>
+                            <abbr>JUV</abbr></persName>
+                        <nationality>Latine</nationality>
+                        <occupation>Poète</occupation>
+                        <event>
+                            <desc><title>Les Satires
+                                    </title><bibl>http://gallica.bnf.fr/ark:/12148/bpt6k9681158b</bibl></desc>
+                        </event>
+                    </person>
+
+                </listPerson>
+
+                <listRelation>
+                    <relation name="sibling"
+                        mutual="#BasnageJ_ISN0000000083438622 #Basnage_ISN0000000080773257">
+                        <desc>Jacques &amp; Henri Basnage</desc>
+                    </relation>
+                    <relation name="studentOf" active="#Basnage_ISN0000000080773257"
+                        passive="#Marville_ISN00000000107770743"/>
+                </listRelation>
+
+                <listRelation>
+                    <head>Académie de Saumur</head>
+                    <relation name="StudiedAt"
+                        active="#BasnageJ_ISN0000000083438622 #Aba_ISN0000000083391828 #Dac_ISN0000000121251069 #Jur_ISN0000000108607649 #Theo_ISN0000000121438069 #Col_ISN0000000108771393 #Daille_ISN0000000108711489 #Desbordes_ISN0000000116490022">
+                        <desc>Abbadie, Dacier, Jacques Basnage, Théophil Viau, Paul Colomies, Pierre Jurieu, Jean Daillé, Desbordes</desc>
+                    </relation>
+                </listRelation>
+                <listRelation>
+                    <head>Académie Française</head>
+                    <relation name="member"/>
+                </listRelation>
+
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Édition créé dans le cadre du projet ANR BASNUM.</p>
+            </projectDesc>
+            <classDecl n="ouvrages_indexés">
+                <taxonomy n="Ouvrages_indexés">
+                    <listBibl>
+                        <bibl xml:id="De_l_Am">
+                            <title>Traité de l'Amitié</title>
+                            <author corresp="#DeVill_ISN0000000108846420">Abbé de Villiers</author>
+                        </bibl>
+                        <bibl xml:base="http://gallica.bnf.fr/ark:/12148/bpt6k64725347?rk=21459;2"
+                            xml:id="Art_de_Precher">
+                            <title>Art de Prêcher</title>
+                            <author corresp="#DeVill_ISN0000000108846420">Abbé de Villiers</author>
+                        </bibl>
+                        <bibl xml:base="https://fr.wikipedia.org/wiki/La_Princesse_de_Clèves"
+                            xml:id="La_P_de_Cl">
+                            <title>La Princesse de Cleves</title>Mme de la Fayette</bibl>
+                        <bibl xml:id="Disc_d_El">
+                            <title>Discours d'Eloquence</title>
+                        </bibl>
+                        <bibl xml:id="Div_cur">
+                            <title>Diversitez Curieuses</title>
+                        </bibl>
+                        <bibl xml:id="Gram_rai">
+                            <title>Grammaire raisonnée</title>
+                        </bibl>
+                        <bibl xml:id="Le_Ch_d_H">
+                            <title>Lettres du Chevalier d'Her...</title>
+                        </bibl>
+                        <bibl xml:id="Hist_de_l_Inq">
+                            <title>Histoire de l'Inquisition</title>
+                        </bibl>
+                        <bibl xml:id="L_d_Ab">
+                            <title>Lettre d'Abelard</title>
+                            <author corresp="#Abelard_ISN000000012102945X">Abelard</author>
+                        </bibl>
+                        <bibl xml:id="Let_P">
+                            <title>Lettres Portugaises</title>
+                            <author>Gabriel de Guilleragues</author>
+                        </bibl>
+                        <bibl xml:base="http://catalogue.bnf.fr/ark:/12148/cb300296625 "
+                            xml:id="Log_ark_12148_bpt6k133688c">
+                            <title>La Logique , ou l' Art de penser</title>
+                            <author corresp="#Arn_ISN0000000121371431 #Nic_ISN0000000122796589"
+                                >Antoine Arnaud &amp;amp; Pierre Nicole </author>
+                        </bibl>
+                        <bibl
+                            xml:base="https://fr.wikisource.org/wiki/Œuvres_mêlées_de_Saint-Évremond"
+                            corresp="Gallica-ark:/12148/bpt6k57754j" xml:id="Oeuvres_melees">
+                            <title>Œuvres mêlées de Saint-Évremond</title>
+                            <author ref="#St_Ev_ISN0000000356744298">St Evremond</author>
+                            <abbr>O.M</abbr>
+                        </bibl>
+                        <bibl xml:id="M_de_P">
+                            <title>Morale de Mr. Pitet</title>
+                        </bibl>
+                        <bibl xml:id="P_Com">
+                            <title>Pieces Comiques</title>
+                        </bibl>
+                        <bibl corresp="Gallica-ark:/12148/bpt6k7630p" xml:id="ReflexUsgFr">
+                            <title>Réflexions sur l'usage présent de la langue françoise ou
+                                Remarques nouvelles et critiques touchant la politesse du langage...
+                                : suite des Réflexions critiques sur l'usage présent de la langue
+                                françoise... / Nicolas Andry de Boisregard </title>
+                        </bibl>
+                    </listBibl>
+                </taxonomy>
+            </classDecl>
+            <classDecl n="ouvrages_cités">
+                <taxonomy n="Ouvrages_cités">
+                    <listBibl>
+                        <bibl xml:base="https://pictures.royalsociety.org/pro83"
+                            xml:id="De_historia_piscium">
+                            <title>De historia piscium (History of Fish) - </title>
+                            <author ref="#Willughbi_ISN0000000081566452">Francis Willughbi</author>
+                            <date when="1686">1686</date>
+                        </bibl>
+                        <bibl xml:base="https://fr.wikipedia.org/wiki/Le_Comte_de_Gabalis"
+                            corresp="http://catalogue.bnf.fr/ark:/12148/cb37280623n"
+                            xml:id="Comte_de_Gabalis">
+                            <title>Le Comte de Gabalis ou Entretiens sur les sciences
+                                secrètes,</title>
+                            <author ref="#Villars_ISN0000000121185233">Abbé de Villars</author>
+                            <date>1670</date>
+                        </bibl>
+                        <bibl xml:id="Hist_Nat_Ire">
+                            <title corresp="http://www.ucc.ie/celt/published/E650002-001/">Histoire
+                                Naturelle d'Irelande (Natural History of Ireland)</title>
+                            <author ref="#Boate_ISN0000000063182535">Gerard Boate,
+                                translation</author>
+                        </bibl>
+                        <bibl xml:id="Glossaire_Grec_Latin">
+                            <title>Glossaire Grec-Latin</title>
+                            <author ref="#Labbe_ISN0000000109003847">A.P. Philippe Labbé</author>
+                        </bibl>
+                        <bibl
+                            xml:base="https://fr.wikisource.org/wiki/Lettres_d’Abélard_et_d’Héloïse/Texte_entier"
+                            xml:id="Lettres_d_Abelard"
+                            corresp="#Abelard_ISN000000012102945X #Heloise_ISN0000000121386094">
+                            <title>Lettres d'Abelard et de Héloise</title>
+                            <author>Pierre Abelard</author>
+                        </bibl>
+                        <bibl xml:base="http://catalogue.bnf.fr/ark:/12148/cb35153876f"
+                            xml:id="Dictionnaire_Acad_1694">
+                            <title>Dictionnaire de l'Académie Française 1694</title>
+                            <orgName ref="#Acad_Fr_ISN0000000404717682">Académie Française</orgName>
+                        </bibl>
+                        <bibl xml:base="http://catalogue.bnf.fr/ark:/12148/cb31369512t"
+                            xml:id="Maximes_ark12148_cb31369512t">
+                            <title>Maximes du Droit Canonique</title>
+                            <author corresp="#Louis_Dubois_avocat">Louis Dubois</author>
+                            <note corresp="#Simon_ISN0000000015276078">réédite Denis Simon</note>
+                        </bibl>
+                        <biblStruct xml:id="Parfait_Negociant">
+                            <monogr>
+                                <title>Le Parfait négociant, ou Instruction générale pour ce qui
+                                    regarde le commerce de toute sorte de marchandises, tant de
+                                    France que des pays estrangers... par le sieur Jacques Savary
+                                    [Texte imprimé]</title>
+                                <author corresp="#Savary_ISN0000000080889049">Jacques
+                                    Savary</author>
+                                <imprint>
+                                    <pubPlace>Paris</pubPlace>
+                                    <publisher>L. Billaine </publisher>
+                                    <date>1675</date>
+                                    <note>Basnage cites Le Parfait Marchand, either he had a
+                                        plagiarised copy or the English text</note>
+                                    <note xml:base="http://catalogue.bnf.fr/ark:/12148/cb31305444z"
+                                    />
+                                </imprint>
+                            </monogr>
+                        </biblStruct>
+                        <biblStruct xml:id="Mercure_Indien">
+                            <monogr>
+                                <title>Le Mercure indien, ou le tresor des Indes. Première partie. D
+                                    ans laquelle est traitté de l'or, de l'argent et du vif-argent
+                                    ... Avec une explication sommaire des titres de l'or et de
+                                    l'argent, et de leur affinage ... /</title>
+                                <author corresp="#Rosnel_VIAF59440474"/>
+                                <imprint>
+                                    <pubPlace>Paris</pubPlace>
+                                    <publisher>L. Chatillon</publisher>
+                                    <date when="1672">1672</date>
+                                    <note>Found through archive.org -
+                                        https://archive.org/details/LeMercureIndienOuLeTresorDesIndes/page/n1,
+                                        also at Wellcome Libary and in BNF, but is not catalogued
+                                    </note>
+                                </imprint>
+                            </monogr>
+                        </biblStruct>
+                        <biblStruct xml:id="Culture_des_fleurs">
+                            <monogr>
+                                <title> Nouveau traité pour la culture des fleurs et la culture des
+                                    melons </title>
+                                <author/>
+                                <imprint>
+                                    <pubPlace>Amsterdam <address>
+                                            <addrLine>dans le Kalverstraat, prés le Dam</addrLine>
+                                        </address>
+                                    </pubPlace>
+                                    <publisher>Henri Desbordes</publisher>
+                                    <date when="1697">1697</date>
+                                    <note>BNF http://catalogue.bnf.fr/ark:/12148/cb39309383n </note>
+                                </imprint>
+                            </monogr>
+                        </biblStruct>
+                        <biblStruct type="book" xml:id="Félibien1676"
+                            corresp="http://zotero.org/users/1449659/items/3XNTB76R">
+                            <monogr>
+                                <title level="m">Des principes de l'architecture, de la sculpture,
+                                    de la peinture, et des autres arts qui en dépendent : avec un
+                                    Dictionnaire des termes propres à chacun de ces arts (Ed. sur
+                                    microfiche) / [Félibien]</title>
+                                <author>
+                                    <forename>André</forename>
+                                    <surname>Félibien</surname>
+                                </author>
+                                <imprint>
+                                    <pubPlace>Paris</pubPlace>
+                                    <publisher>J.B Coignard</publisher>
+                                    <date>1676</date>
+                                    <note type="accessed">2017-10-15</note>
+                                    <note type="url"
+                                        >http://gallica.bnf.fr/ark:/12148/bpt6k50597k</note>
+                                </imprint>
+                            </monogr>
+                        </biblStruct>
+                        <biblStruct type="book" xml:id="Savot1624"
+                            corresp="http://zotero.org/users/1449659/items/RM4F3JMD">
+                            <monogr>
+                                <title level="m">L’architecture françoise des bastimens
+                                    particuliers</title>
+                                <author>
+                                    <forename>Louis</forename>
+                                    <surname>Savot</surname>
+                                </author>
+                                <imprint>
+                                    <pubPlace>Paris</pubPlace>
+                                    <date>1624</date>
+                                    <note type="accessed">2016-10-27</note>
+                                    <note type="url"
+                                        >http://architectura.cesr.univ-tours.fr/Traite/Notice/ENSBA_LES0799.asp?param=</note>
+                                </imprint>
+                            </monogr>
+                            <series>
+                                <title level="s">ENSBA, Paris</title>
+                            </series>
+                        </biblStruct>
+                        <bibl type="book" corresp=" ark:/13960/t41s18n67">
+                            <title>Gallia purpurata qua cum summorum pontificum, tum omnium Galliae
+                                cardinalium, qui hactenus vixere res praeclare gestae continentur;
+                                adiectae sunt parmae,&amp;amp; earundem descriptiones. ... Epitome
+                                omnium conciliorum Galliae tam veterum, quàm recentiorum.
+                                Nomenclatura magnorum Franciae elemosynariorum. </title>
+                            <date when="1638">1638</date>
+                            <author corresp="    ISNI 0000 0000 8076 0923">Pierre Frizon
+                                    <note>Pénitencier et chanoine de l'église de Reims. - Il fut
+                                    vicaire général de la Grande Aumônerie de France. - Docteur en
+                                    théologie en 1623</note>
+                            </author>
+                        </bibl>
+                        <biblStruct type="book" xml:id="Desmarets_de_Saint-Sorlin1639"
+                            corresp="http://zotero.org/users/1449659/items/KHM8HQPU">
+                            <monogr>
+                                <title level="m">Les visionnaires . Comedie. Seconde edition</title>
+                                <author corresp="#Desmarets_ISN0000000122760922">
+                                    <forename>Jean (1595-1676)</forename>
+                                    <surname>Desmarets de Saint-Sorlin</surname>
+                                </author>
+                                <imprint>
+                                    <publisher>A Paris, chez Jean Camusat. M.DC.XXXIX</publisher>
+                                    <date>1639</date>
+                                    <note type="accessed">2018-01-05T17:07:00Z</note>
+                                    <note type="url"
+                                        >http://gallica.bnf.fr/ark:/12148/bpt6k55303536</note>
+                                </imprint>
+                            </monogr>
+                        </biblStruct>
+                    </listBibl>
+                </taxonomy>
+            </classDecl>
+            <classDecl n="domains">
+                <taxonomy n="domains">
+                    <desc>Domains et métiers designés par des termes</desc>
+                    <gloss xml:id="term_agriculture">
+                        <name>agriculture</name>
+                    </gloss>
+                    <gloss xml:id="term_algebre">
+                        <name>algebre</name>
+                    </gloss>
+                    <gloss xml:id="term_anatomie">
+                        <name>anatomie</name>
+                    </gloss>
+                    <gloss xml:id="term_architecture">
+                        <name>architecture</name>
+                    </gloss>
+                    <gloss xml:id="term_arithmetique">
+                        <name>arithmetique</name>
+                    </gloss>
+                    <gloss xml:id="term_arquebusier">
+                        <name>arquebusier</name>
+                    </gloss>
+                    <gloss xml:id="term_artisans">
+                        <name>artisans</name>
+                    </gloss>
+                    <gloss xml:id="term_astrologie">
+                        <name>astrologie</name>
+                    </gloss>
+                    <gloss xml:id="term_astronomie">
+                        <name>astronomie</name>
+                    </gloss>
+                    <gloss xml:id="term_banque">
+                        <name>banque</name>
+                    </gloss>
+                    <gloss xml:id="term_barbare">
+                        <name>barbare</name>
+                    </gloss>
+                    <gloss xml:id="term_blason">
+                        <name>blason</name>
+                    </gloss>
+                    <gloss xml:id="term_bonnetier">
+                        <name>bonnetier</name>
+                    </gloss>
+                    <gloss xml:id="term_botanique">
+                        <name>botanique</name>
+                    </gloss>
+                    <gloss xml:id="term_bouquetiere">
+                        <name>bouquetiere</name>
+                    </gloss>
+                    <gloss xml:id="term_breviaire">
+                        <name>breviaire</name>
+                    </gloss>
+                    <gloss xml:id="term_broderie">
+                        <name>broderie</name>
+                    </gloss>
+                    <gloss xml:id="term_cartier">
+                        <name>cartier</name>
+                    </gloss>
+                    <gloss xml:id="term_chancellerie">
+                        <name>chancellerie</name>
+                    </gloss>
+                    <gloss xml:id="term_charcuterie">
+                        <name>charcuterie</name>
+                    </gloss>
+                    <gloss xml:id="term_charpenterie">
+                        <name>charpenterie</name>
+                    </gloss>
+                    <gloss xml:id="term_chasse">
+                        <name>chasse</name>
+                    </gloss>
+                    <gloss xml:id="term_chiromancie">
+                        <name>chiromancie</name>
+                    </gloss>
+                    <gloss xml:id="term_chirugerie">
+                        <name>chirugerie</name>
+                    </gloss>
+                    <gloss xml:id="term_chronologie">
+                        <note>chronologie</note>
+                    </gloss>
+                    <gloss xml:id="term_chymie">
+                        <name>chymie</name>
+                    </gloss>
+                    <gloss xml:id="term_collectif">
+                        <name>collectif</name>
+                    </gloss>
+                    <gloss xml:id="term_college">
+                        <name>college</name>
+                    </gloss>
+                    <gloss xml:id="term_complement">
+                        <name>complement</name>
+                    </gloss>
+                    <gloss xml:id="term_confiseur">
+                        <name>confiseur</name>
+                    </gloss>
+                    <gloss xml:id="term_cordier">
+                        <name>cordier</name>
+                    </gloss>
+                    <gloss xml:id="term_cordonnier">
+                        <name>cordonnier</name>
+                    </gloss>
+                    <gloss xml:id="term_coutelier">
+                        <name>coutelier</name>
+                    </gloss>
+                    <gloss xml:id="term_couture">
+                        <name>couture</name>
+                    </gloss>
+                    <gloss xml:id="term_degraisseur">
+                        <name>degraisseur</name>
+                    </gloss>
+                    <gloss xml:id="term_devotion">
+                        <name>devotion</name>
+                    </gloss>
+                    <gloss xml:id="term_droit">
+                        <name>droit</name>
+                    </gloss>
+                    <gloss xml:id="term_dogmatique">
+                        <name>dogmatique</name>
+                    </gloss>
+                    <gloss xml:id="term_eclesiastique">
+                        <name>eclesiastique</name>
+                    </gloss>
+                    <gloss xml:id="term_drapppier">
+                        <name>drappier</name>
+                    </gloss>
+                    <gloss xml:id="term_ecole">
+                        <name>école</name>
+                    </gloss>
+                    <gloss xml:id="term_eaux_et_forets">
+                        <name>eaux et forêts</name>
+                    </gloss>
+                    <gloss xml:id="term_fauconnerie">
+                        <name>fauconnerie</name>
+                    </gloss>
+                    <gloss xml:id="term_finance">
+                        <name>finance</name>
+                    </gloss>
+                    <gloss xml:id="term_fleuriste">
+                        <name>fleuriste</name>
+                    </gloss>
+                    <gloss xml:id="term_forets">
+                        <name>forets</name>
+                    </gloss>
+                    <gloss xml:id="term_forges">
+                        <name>term_forges</name>
+                    </gloss>
+                    <gloss xml:id="term_formier">
+                        <name>formier</name>
+                    </gloss>
+                    <gloss xml:id="term_fortification">
+                        <name>fortification</name>
+                    </gloss>
+                    <gloss xml:id="term_gantier">
+                        <name>gantier</name>
+                    </gloss>
+                    <gloss xml:id="term_geneologie"><name>Geneologie</name></gloss>
+                    <gloss xml:id="term_geometrie">
+                        <name>geometrie</name>
+                    </gloss>
+                    <gloss xml:id="term_grammaire">
+                        <name>grammaire</name>
+                    </gloss>
+                    <gloss xml:id="term_graveur">
+                        <name>graveur</name>
+                    </gloss>
+                    <gloss xml:id="term_guerre">
+                        <name>guerre</name>
+                    </gloss>
+                    <gloss xml:id="term_histoire_eclesiastique">
+                        <name>histoire eclesiastique</name>
+                    </gloss>
+                    <gloss xml:id="term_horloger"><name>Horloger</name></gloss>
+                    <gloss xml:id="term_imprimerie">
+                        <name>imprimerie</name>
+                    </gloss>
+                    <gloss xml:id="term_injurieux">injurieux</gloss>
+                    <gloss xml:id="term_jardinage">
+                        <name>jardinage</name>
+                    </gloss>
+                    <gloss xml:id="term_jardinier">
+                        <name>jardinier</name>
+                    </gloss>
+                    <gloss xml:id="term_jouaillier">
+                        <name>jouaillier</name>
+                    </gloss>
+                    <gloss xml:id="term_jurisprudence">
+                        <name>jurisprudence</name>
+                    </gloss>
+                    <gloss xml:id="term_laboureur">
+                        <name>laboureur</name>
+                    </gloss>
+                    <gloss xml:id="term_logique">
+                        <name>logique</name>
+                    </gloss>
+                    <gloss xml:id="term_macon">
+                        <name>maçon</name>
+                    </gloss>
+                    <gloss xml:id="term_maconnerie">
+                        <name>maconnerie</name>
+                    </gloss>
+                    <gloss xml:id="terrm_manege">
+                        <name>manege</name>
+                    </gloss>
+                    <gloss xml:id="term_manufactures">
+                        <name>manufactures</name>
+                    </gloss>
+                    <gloss xml:id="term_marchand">
+                        <name>marchand</name>
+                    </gloss>
+                    <gloss xml:id="term_marchand_de_drap">
+                        <name>marchand_de_drap</name>
+                    </gloss>
+                    <gloss xml:id="term_marchands_de_poisson">
+                        <name>Marchand de poisson</name>
+                    </gloss>
+                    <gloss xml:id="term_marine">
+                        <name>Marine</name>
+                    </gloss>
+                    <gloss xml:id="terù_medailliste">
+                        <name>medailliste </name>
+                    </gloss>
+                    <gloss xml:id="term_medecine">
+                        <name>medecine</name>
+                    </gloss>
+                    <gloss xml:id="term_menuiserie">
+                        <name>menuiserie</name>
+                    </gloss>
+                    <gloss xml:id="term_mer">
+                        <name>mer</name>
+                    </gloss>
+                    <gloss xml:id="term_monnoyes">
+                        <name>monnoyes</name>
+                    </gloss>
+                    <gloss xml:id="term_morale">
+                        <name>morale</name>
+                    </gloss>
+                    <gloss xml:id="term_musique">
+                        <name>musique</name>
+                    </gloss>
+                    <gloss xml:id="term_mythologie">
+                        <name>mythologie</name>
+                    </gloss>
+                    <gloss xml:id="term_negoce">
+                        <name>negoce</name>
+                    </gloss>
+                    <gloss xml:id="term_oiselier"><name>Oiselier</name></gloss>
+                    <gloss xml:id="term_ouvrage">
+                        <name>ouvrage</name>
+                    </gloss>
+                    <gloss xml:id="term_palais">
+                        <name>palais</name>
+                    </gloss>
+                    <gloss xml:id="term_patissier">
+                        <name>patissier</name>
+                    </gloss>
+                    <gloss xml:id="term_peche">
+                        <name>peche</name>
+                    </gloss>
+                    <gloss xml:id="term_peintre">
+                        <name>peintre</name>
+                    </gloss>
+                    <gloss xml:id="term_peinture">
+                        <name>peinture</name>
+                    </gloss>
+                    <gloss xml:id="term_pharmacie">
+                        <name>pharmacie</name>
+                    </gloss>
+                    <gloss xml:id="term_philosophie">
+                        <name>philosophie</name>
+                    </gloss>
+                    <gloss xml:id="term_physique">
+                        <name>physique</name>
+                    </gloss>
+                    <gloss xml:id="term_picquet">
+                        <name>Jeu de Picquet</name>
+                    </gloss>
+                    <gloss xml:id="term_plombier">
+                        <name>plombier</name>
+                    </gloss>
+                    <gloss xml:id="term_poesie">
+                        <name>poesie</name>
+                    </gloss>
+                    <gloss xml:id="term_poetique">
+                        <name>poetique</name>
+                    </gloss>
+                    <gloss xml:id="term_pratique">
+                        <name>pratique</name>
+                    </gloss>
+                    <gloss xml:id="term_quincaillerie">
+                        <name>quincaillerie</name>
+                    </gloss>
+                    <gloss xml:id="trerm_relations">
+                        <name>relations</name>
+                    </gloss>
+                    <gloss xml:id="term_relieur">
+                        <name>relieur</name>
+                    </gloss>
+                    <gloss xml:id="term_rhetorique">
+                        <name>rhetorique</name>
+                    </gloss>
+                    <gloss xml:id="term_societe">
+                        <name>societe</name>
+                    </gloss>
+                    <gloss xml:id="term_sorbonne">
+                        <name>Sorbonne</name>
+                    </gloss>
+                    <gloss xml:id="term_taillandier">
+                        <name>taillandier</name>
+                    </gloss>
+                    <gloss xml:id="term_theatre">
+                        <name>theatre</name>
+                    </gloss>
+                    <gloss xml:id="term_theologie">
+                        <name>théologie</name>
+                    </gloss>
+                    <gloss xml:id="term_tireur_d_or">
+                        <name>tireur_d_or</name>
+                    </gloss>
+                    <gloss xml:id="term_venerie">
+                        <name>venerie</name>
+                    </gloss>
+                    <gloss xml:id="term_vernisseur">
+                        <name>vernisseur</name>
+                    </gloss>
+                    <gloss xml:id="term_verrerie">
+                        <name>verrerie</name>
+                    </gloss>
+                </taxonomy>
+            </classDecl>
+            <classDecl n="country">
+                <taxonomy>
+                    <desc>Country codes for countries that have changed name or geographic
+                        extent</desc>
+                    <gloss xml:id="DNK">
+                        <country>Danemark</country>
+                    </gloss>
+                    <gloss xml:id="DEU">
+                        <country>Allemagne</country>
+                    </gloss>
+                    <gloss xml:id="ESP">
+                        <country>Espagne</country>
+                    </gloss>
+                    <gloss xml:id="FRE">
+                        <country>France</country>
+                    </gloss>
+                    <gloss xml:id="GLE">
+                        <country>Ireland</country>
+                    </gloss>
+                    <gloss xml:id="ITA">
+                        <country>Italie</country>
+                    </gloss>
+                    <gloss xml:id="NLD">
+                        <country>The Netherlands</country>
+                    </gloss>
+                    <gloss xml:id="CHE">
+                        <country>Suisse</country>
+                    </gloss>
+                    <gloss xml:id="BEL">
+                        <country>Pays Bas Espagnol <date>1581 à 1713</date>
+                        </country>
+                    </gloss>
+                    <gloss xml:id="GBR">
+                        <country>Royaume Uni</country>
+                    </gloss>
+                </taxonomy>
+            </classDecl>
+            <refsDecl n="grammar">
+                <p>Attribute contents are all in French as although the tagging is English, we
+                    prefer matadata to be recoverable in the language of the text. Translations are
+                    given in this senction.</p>
+                <p>Head words. The headword is always given an XML:id. The first letter is in upper
+                    case, the rest in lower case. Accents are used when needed to distinguish two
+                    entries, otherwise they are avoided.</p>
+                <p>Grammatical information. In 'pos' we use the 'expand' attribute. <list n="POS">
+                        <item>
+                            <abbr>v</abbr>, Verbs are expanded as 'verbe'</item>
+                        <item>
+                            <abbr>subst</abbr>, Nouns are expanded as 'substantif' from 's'. When
+                            the noun is only plural, the <abbr xml:id="pl">denotes this</abbr>
+                        </item>
+                        <item>
+                            <abbr>adj</abbr>, Adjectives are expanded as 'adjectif' from
+                            'adj'</item>
+                        <item>
+                            <abbr>adv</abbr>, Adverbs are expanded as 'adverbe' from 'adv'</item>
+                    </list>
+                    <list n="Gender">
+                        <item>In 'gen' we expand the masculin gender as 'masculin' from'm'</item>
+                        <item>In 'gen' we expand the female gender as'féminin'</item>
+                    </list>
+                </p>
+                <p>In 'subc', we follow Furetière/Basnage's classification of verbs. The glosses
+                    come from the dictionary itself. <list n="Subcategory_Verbs">
+                        <item>
+                            <abbr>act</abbr> is expanded as 'actif' (active) <gloss>Verbe actif, est
+                                celui qui exprime une action, comme, <hi rendition="#i">faire,
+                                    donner, battre</hi>, &amp;amp; qui registre l’accusatif.</gloss>
+                        </item>
+                        <item>
+                            <abbr>n</abbr> is expanded as 'neutre' (neutral). <gloss>Verbe neutre,
+                                est celui qui ne désigne aucune action, ni passion, &amp;amp; qui
+                                n’a aucun regime, comme <hi rendition="#i">dormir</hi>.</gloss>
+                        </item>
+                        <item>verbe passif <gloss>Verbe passif, est celui qui exprime une passion;
+                                qui souffre, &amp;amp; reçoit l’action de quelque agent, &amp;amp;
+                                se conjugue avec le verbe auxiliaire <hi rendition="#i">je
+                                suis</hi>.</gloss>
+                        </item>
+                        <item>
+                            <abbr>a</abbr>, verbe asbsolu <gloss>Verbe absolu, est celui qui n’a
+                                besoin d’aucun regime, ni exprimé, ni sousentendu, comme <hi
+                                    rendition="#i">il tonne</hi>.</gloss>
+                        </item>
+                        <item>verbe auxiliaire <gloss>Verbe auxiliaire, c’est le verbe avoir
+                                &amp;amp; le verbe être, qui aident à conjuguer les verbes actifs
+                                &amp;amp; passifs. </gloss>
+                        </item>
+                        <item>verbe substantif <gloss>Verbe substantif, est le verbe être, <hi
+                                    rendition="#i">je suis</hi>. </gloss>
+                        </item>
+                        <item>verbe reguliers <gloss>Verbe reguliers, sont ceux qui se conjuguent
+                                tous d’une même façon, &amp;amp; suivant une certaine regle, comme
+                                    <hi rendition="#i">j’aime, je fais.</hi>
+                            </gloss>
+                        </item>
+                        <item>Participe passé (past participle)</item>
+                    </list>
+                    <list n="other">
+                        <item xml:id="pron_dem">Pronom demonstratif</item>
+                    </list>
+                </p>
+                <p>Terms. Furetière/Basnage clearly delineate certain terms as such. This is
+                    declared in 'usg' as type "terme" with 'ana' pointing to the domain listed above
+                    in the 'classDesc' 'domains'. Domain names are given an ID in lower case. Domain
+                    names are not translated into English.</p>
+                <p>Author and Title. When citations are given, the 'ref' attribute is used to link
+                    to the XML:ID in one of the lists found in 'sourceDesc'. The 'type' attribute
+                    declares them to be either exemple (example) or 'citation', where an author or
+                    title is given.</p>
+                <p>Citations.Citations are given within the 'quote' element the differentiation of
+                    type is carried by the attribute on 'cit'. A closed type list allows either
+                    'example' when when an apparently made-up example is given or 'citation when a
+                    work or author is actually cited </p>
+                <p> Segments. A number of phraeseological units can be found. These are mostly
+                    multi-word units and as such are subject to a pre-analysis. They are recorded
+                    <seg/> with a closed list of type attributes <list>
+                        <item> Collocations. These are mostly verb - noun, but other forms can be
+                            found. </item>
+                        <item>Some units are clearly terminological in nature and are recorded as
+                            'terme_variant</item>
+                        <item>Proverbs are noted when so described as 'proverbe</item>
+                        <item>A general category of idiom describes phrasal formulae encoded as
+                            'idiome'</item>
+                        <item>Synonyms are also marked using <seg/>
+                        </item>
+                    </list>
+                </p>
+            </refsDecl>
+            <tagsDecl n="rendition">
+                <rendition xml:id="italics" scheme="css">font-style: italic</rendition>
+                <rendition xml:id="bold" scheme="css">font-style: bold</rendition>
+                <rendition xml:id="neutral" scheme="css">font-style: normal</rendition>
+                <rendition xml:id="upper_case" scheme="css">font-style: uppercase</rendition>
+                <rendition xml:id="small_capsc" scheme="css">font-style: small-caps</rendition>
+            </tagsDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <!-- <dc:date>, obligatoire, unique
                 Date de création du document (à distinguer de la date de publication du document électronique vue plus haut <dc:issued>, ou de la source imprimée)  -->
-            <date when="1701"/>
-         </creation>
-         <langUsage>
-            <!--  plutôt respecter la norme ISO 639-2b sur 3 caractères : spa - fre - eng - por
+                <date when="1701"/>
+            </creation>
+            <langUsage>
+                <!--  plutôt respecter la norme ISO 639-2b sur 3 caractères : spa - fre - eng - por
                 <dc:language>    -->
-            <language ident="fre">français</language>
-         </langUsage>
-         <!-- Liste de mots-clés destinés à l’indexation sujet - recommandée pour tous les textes CAHIER - mots-clés issus si possible d'un même thesaurus - 
+                <language ident="fre">français</language>
+            </langUsage>
+            <!-- Liste de mots-clés destinés à l’indexation sujet - recommandée pour tous les textes CAHIER - mots-clés issus si possible d'un même thesaurus - 
          <dc:subject>         -->
-         <textClass>
-            <keywords>
-               <term type="subject">Dictionnaire</term>
-               <term type="subject">Monolingue</term>
-               <term type="subject">Encyclopédique</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-  <text>
-      <body>
-         <p>Some text here.</p>
-      </body>
-  </text>
+            <textClass>
+                <keywords>
+                    <term type="subject">Dictionnaire</term>
+                    <term type="subject">Monolingue</term>
+                    <term type="subject">Encyclopédique</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Some text here.</p>
+        </body>
+    </text>
 </TEI>
