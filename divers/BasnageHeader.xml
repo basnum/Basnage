@@ -3776,6 +3776,31 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Nicolas_de_Bonnefons</idno>
                     </person>
 
+                    <person xml:id="Bontius_ISN0000000080762371">
+                        <persName>
+                            <forename>Jacques</forename>
+                            <surname>de Bondt</surname>
+                            <roleName/>
+                            <addName>Bontius</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1592">1592<placeName>Leyde</placeName><country>Pays Bas</country></birth>
+                        <death when="1631">1631 <placeName>Batavia</placeName><country>Indonésie</country></death>
+                        <sex/>
+                        <nationality>Néerlandais</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation>Médecin</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>Plagié par Piso</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000080762371</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Jacques_de_Bondt</idno>
+                    </person>
+
                     <person xml:id="Bouchel_ISN0000000061242370">
                         <persName>
                             <forename>Laurent</forename>
@@ -4133,7 +4158,31 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000122783972</idno>
                         <idno type="URI">https://it.wikipedia.org/wiki/Estienne_Cleirac</idno>
                     </person>
-
+                    <person xml:id="Clusius_ISN0000000121033344">
+                        <persName>
+                            <forename>Charles</forename>
+                            <surname>de l'Écluse</surname>
+                            <roleName/>
+                            <addName>Caroilus Clusius</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1526">Arra<placeName/><country/></birth>
+                        <death when="1609"><placeName/><country/></death>
+                        <sex/>
+                        <nationality>Flamande</nationality>
+                        <faith/>
+                        <education>Université de Montpellier</education>
+                        <occupation>Botaniste</occupation>
+                        <affiliation>Université de Leyde</affiliation>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000121033344</idno>
+                        <idno type="URI">https://en.wikipedia.org/wiki/Carolus_Clusius</idno>
+                    </person>
+                    
                     <person xml:id="Col_ISN0000000108771393">
 
                         <persName>
@@ -4686,6 +4735,31 @@
                             >https://www.wikimanche.fr/Claude_Dufour_de_la_Crespelière</idno>
                     </person>
 
+                    <person xml:id="Dutertre_ISN0000000077287645">
+                        <persName>
+                            <forename>Jean Baptiste <note>nom de réligion</note></forename>
+                            <surname>Du Tertrre</surname>
+                            <roleName/>
+                            <addName>Jacques Dutertre <note>nom de naissance</note></addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1610"><placeName>Calais</placeName><country>France</country></birth>
+                        <death when="1687"><placeName>Paris</placeName><country>France</country></death>
+                        <sex/>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Missionnaire</occupation>
+                        <affiliation>Dominicain</affiliation>
+                        <socecStatus/>
+                        <note>	
+                            Ornithologue, botaniste, écrivain, missionnaire</note>
+                        <event>
+                            <desc>Histoire générale des îles Saint-Christophe, de la Guadeloupe, de la Martinique et autres de l'Amérique, Chez Jacques Langlois ... et Emmanuel Langlois ...<date>1654</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000077287645</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Jean-Baptiste_Du_Tertre</idno>
+                    </person>
                     <person xml:id="Dubois_0000000121022629">
                         <persName>
                             <forename>Guillaume</forename>
@@ -5629,6 +5703,30 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Juste_Lipse</idno>
                     </person>
 
+                    <person xml:id="Loubere_ISN0000000080984046">
+                        <persName>
+                            <forename>Simon</forename>
+                            <surname>de la Loubere</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1642-04-21">né le 21 avril 1642 à <placeName>Toulouse</placeName><country>France</country></birth>
+                        <death when="1729-03-26">mort le 26 mars 1729 à <placeName>Montesquieu-Volvestre</placeName><country>France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Diplomat français au Siam</occupation>
+                        <affiliation><orgName corresp="#Acad_Fr_ISN0000000404717682">Académie française<date>1693</date></orgName>, <orgName>Académie royale des inscriptions et médailles, <date>1694</date></orgName>, <orgName>Académie des Jeux floraux.<date></date></orgName></affiliation>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc>Du Royaume de Siam par Monsieur de La Loubère, envoyé extraordinaire du Roy auprès du Roy de Siam en 1687 et 1688, chez Jean-Baptiste Coignard, Paris, <date>1691</date>, tome 1, 555 pages</desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000080984046</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Simon_de_La_Loubère</idno>
+                    </person>
                     <person xml:id="Lucien_ISN0000000449276796">
                         <persName>
                             <forename/>
@@ -6143,6 +6241,31 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Guy_Patin</idno>
                         <idno type="URI">http://www.biusante.parisdescartes.fr/patin/
                             <!-- Lettres en ligne --></idno>
+                    </person>
+                    
+                    <person xml:id="Piso_ISN0000000081409633">
+                        <persName>
+                            <forename>Willem</forename>
+                            <surname>Piso</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth>1611-1678<placeName/><country>Pays bas</country></birth>
+                        <death>1678<placeName/><country>Pays bas</country></death>
+                        <sex/>
+                        <nationality>Néerlandaise</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation>Médecin, naturalist</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000081409633</idno>
+                        <idno type="URI">https://en.wikipedia.org/wiki/Willem_Piso</idno>
                     </person>
 
                     <person xml:id="Poisson_ISN0000000139288652">
@@ -7523,9 +7646,10 @@
                 </listRelation>
                 <listRelation>
                     <head>Académie Française</head>
-                    <relation name="member"/>
+                    <relation name="member" active="#Loubere_ISN0000000080984046"><desc></desc></relation>
                 </listRelation>
-
+                <listRelation><head>Médecine tropicale</head><relation name="isSpecialistof" active="#Bontius_ISN0000000080762371 #Piso_ISN0000000081409633"><desc>Bontius, Piso</desc></relation></listRelation>
+<listRelation><head>Université de Montelier</head><relation name="StudiedAt" active="#Clusius_ISN0000000121033344"><desc>Clusius</desc></relation></listRelation>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
@@ -7792,6 +7916,7 @@
                     <gloss xml:id="term_arquebusier">
                         <name>arquebusier</name>
                     </gloss>
+                    <gloss xml:id="term_artillerie"><name>artillerie</name></gloss>
                     <gloss xml:id="term_artisans">
                         <name>artisans</name>
                     </gloss>
@@ -7969,7 +8094,7 @@
                     <gloss xml:id="term_maconnerie">
                         <name>maconnerie</name>
                     </gloss>
-                    <gloss xml:id="terrm_manege">
+                    <gloss xml:id="term_manege">
                         <name>manege</name>
                     </gloss>
                     <gloss xml:id="term_manufactures">
