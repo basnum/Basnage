@@ -572,7 +572,7 @@
                         <occupation>Médecin</occupation>
                         <affiliation>Académie de Castres</affiliation>
                         <socecStatus/>
-                        <note>Médecin, chimiste, botaniste, lexicographe</note>
+                        <note>Naturaliste, Médecin, chimiste, botaniste, lexicographe</note>
                         <event>
                             <desc/>
                         </event>
@@ -727,13 +727,13 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jean_de_La_Bruyère</idno>
                     </person>
 
-                    <person xml:id="C_Bauh_ISN0000000122807284">
+                    <person xml:id="BauhinC_ISN0000000121246403">
                         <persName>
                             <forename>Gaspard / Caspard</forename>
                             <surname>Bauhin</surname>
                             <roleName/>
                             <addName/>
-                            <abbr>C. Bauh</abbr></persName>
+                            <abbr>C. Bauh</abbr><abbr>Bau</abbr></persName>
                         <birth when="1560-01-17">17 janvier 1560 <placeName>Bâle</placeName><country
                                 corresp="#CHE">Suisse</country></birth>
                         <death when="1624-12-05">5 décembre 1624 <placeName>Bâle</placeName><country
@@ -746,12 +746,17 @@
                         <occupation>Botaniste</occupation>
                         <affiliation/>
                         <socecStatus>Recteur de l'université de Bâle</socecStatus>
-                        <note>Botaniste, professeur d'université, mycologue, un naturaliste suisse
+                        <note>Naturaliste, Botaniste, professeur d'université, mycologue, un naturaliste suisse
                             ayant été parmi les premiers à tenter de réaliser une classification
                             naturelle des plantes.</note>
+                        <note>. Frère de <persName corresp="#BauhinJ_ISN0000000115786382">Jean
+                            Bauhin</persName>, Naturaliste, classification des plantes</note>
                         <event>
-                            <desc/>
+                            <desc>Theatrum BotanicumTheatrum Anatomicum
+                                [http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fbildsuche.digitale-sammlungen.de%2Findex.html%3Fc%3Dviewer%26bandnummer%3Dbsb00080026%26pimage%3D7%26v%3D2p%26nav%3D%26l%3Dde],
+                                Francfort-sur-le-Main, .<date>1605</date></desc>
                         </event>
+                       
                         <idno type="ISNI">http://www.isni.org/isni/0000000122807284</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Gaspard_Bauhin</idno>
                     </person>
@@ -1155,7 +1160,7 @@
                         <occupation/>
                         <affiliation/>
                         <socecStatus>Prêtre</socecStatus>
-                        <note>Homme de lettre, ami de Ménage, Balzac, et Voiture,</note>
+                        <note>Homme de lettres, ami de Ménage, Balzac, et Voiture,</note>
                         <event>
                             <desc><date/></desc>
                         </event>
@@ -1563,7 +1568,7 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Antoine_Godeau</idno>
                     </person>
 
-                    <person xml:id="Gomberville">
+                    <person xml:id="Gomberville_0000000062995251">
                         <persName>
                             <forename>Marin</forename>
                             <surname>Gomberville</surname>
@@ -3595,35 +3600,7 @@
                             >https://fr.wikipedia.org/wiki/Henri_Basnage_de_Beauval</idno>
                     </person>
 
-                    <person xml:id="BauhinC_ISN0000000121246403">
-                        <persName>
-                            <forename>Caspard</forename>
-                            <surname>Bauhin</surname>
-                            <roleName/>
-                            <addName>Gaspard, Bauchinus, Casparus</addName>
-                            <abbr>Bau</abbr>
-                        </persName>
-                        <birth when="1560-01-17">Né le 5 décembre 1624
-                                à<placeName>Bâle</placeName><country>Suisse</country></birth>
-                        <death when="1624-12-05"
-                                ><placeName>Bâle</placeName><country>Suisse</country></death>
-                        <sex>Masculin</sex>
-                        <nationality>Suisse</nationality>
-                        <faith>Protestant</faith>
-                        <education>Médecine à Bâle</education>
-                        <occupation/>
-                        <affiliation/>
-                        <socecStatus>Recteur de l'Université de Bâle</socecStatus>
-                        <note>. Frère de <persName corresp="#BauhinJ_ISN0000000115786382">Jean
-                                Bauhin</persName>, Naturaliste, classification des plantes</note>
-                        <event>
-                            <desc>Theatrum BotanicumTheatrum Anatomicum
-                                [http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fbildsuche.digitale-sammlungen.de%2Findex.html%3Fc%3Dviewer%26bandnummer%3Dbsb00080026%26pimage%3D7%26v%3D2p%26nav%3D%26l%3Dde],
-                                Francfort-sur-le-Main, .<date>1605</date></desc>
-                        </event>
-                        <idno type="ISNI">http://www.isni.org/isni/0000000115786382</idno>
-                        <idno type="URI">https://fr.wikipedia.org/wiki/Jean_Bauhin</idno>
-                    </person>
+                    
 
                     <person xml:id="BauhinJ_ISN0000000115786382">
                         <persName>
@@ -4040,11 +4017,25 @@
                     </person>
 
                     <person xml:id="Casimir_ISN0000000109907053">
-                        <persName xml:base=""><persName>Casimir Siemienowicz,
-                                Polonais</persName><date>c.
+                        <persName xml:base=""><persName>
+                            <forename>Casimir</forename>
+                            <surname>Siemienowicz</surname>,
+                                </persName><date>c.
                                 1600-1651</date><country>Lithuania</country></persName>
+                        <birth>circa 1600</birth>
+                        <death>circa 1651</death>
+                        <nationality>Lituanien</nationality>
+                        <faith>Catholique</faith>
+                        <education></education>
+                        <occupation>Ingénieur militaire</occupation>
+                        <socecStatus>Général</socecStatus>
+                        <note>Artillerie</note>
+                        <event><desc>Artis Magnae Artilleriae pars prima, Amsterdam. <date>1650</date></desc></event>
+                        <idno type="ISNI">https://isni.org/isni/0000000109907053</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Kazimierz_Siemienowicz</idno>
+                        
                     </person>
+                    
                     <person xml:id="Catharinot_ISN0000000119524566">
                         <persName>
                             <forename>Lancelotto</forename>
@@ -4134,13 +4125,13 @@
 
                     <person xml:id="Cleirac_ISN0000000122783972">
                         <persName>
-                            <forename>Estienne</forename>
+                            <forename>Etienne</forename>
                             <surname>Cleirac</surname>
                             <roleName/>
                             <addName/>
                             <abbr/>
                         </persName>
-                        <birth when="1683"><placeName>inconnu</placeName><country corresp="#FRE"
+                        <birth when="1583"><placeName>inconnu</placeName><country corresp="#FRE"
                                 >France</country></birth>
                         <death when="1657"><placeName>inconnu</placeName><country corresp="#FRE"
                                 >France</country></death>
@@ -4151,12 +4142,12 @@
                         <occupation>Avocat</occupation>
                         <affiliation/>
                         <socecStatus/>
-                        <note>Avocat, spécialiste de la marine</note>
+                        <note>Avocat, spécialiste de la marine, lexicographe</note>
                         <event>
                             <desc>Us et coustumes de la mer<date>1647</date></desc>
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000122783972</idno>
-                        <idno type="URI">https://it.wikipedia.org/wiki/Estienne_Cleirac</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Etienne_Cleirac</idno>
                     </person>
                     <person xml:id="Clusius_ISN0000000121033344">
                         <persName>
@@ -4328,7 +4319,7 @@
                         <faith>Catholique</faith>
                         <education/>
                         <occupation>Président de la Cour des monnaies</occupation>
-                        <affiliation>Acadélmie française <date>1697</date></affiliation>
+                        <affiliation>Académie française <date>1697</date></affiliation>
                         <socecStatus/>
                         <note>Économiste, linguiste, historien, traducteur, avocat</note>
                         <event>
@@ -4752,7 +4743,7 @@
                         <occupation>Missionnaire</occupation>
                         <affiliation>Dominicain</affiliation>
                         <socecStatus/>
-                        <note>	
+                        <note>Naturaliste,	
                             Ornithologue, botaniste, écrivain, missionnaire</note>
                         <event>
                             <desc>Histoire générale des îles Saint-Christophe, de la Guadeloupe, de la Martinique et autres de l'Amérique, Chez Jacques Langlois ... et Emmanuel Langlois ...<date>1654</date></desc>
@@ -4846,7 +4837,7 @@
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Jean_Duvergier_de_Hauranne</idno>
                     </person>
-                    <person xml:id="EstienneHenriII_ISN">
+                    <person xml:id="Estienne_Henri_ISN0000000449266600">
                         <persName>
                             <forename>Henri</forename>
                             <surname>Estienne</surname>
@@ -4877,7 +4868,7 @@
                             <desc>Traité de la conformité du langage français avec le grec, sans
                                 date, 8°. Seconde édition : Paris, 8°.<date>1565</date></desc>
                         </event>
-                        <idno type="ISNI">http://www.isni.org/isni/</idno>
+                        <idno type="ISNI">https://isni.org/isni/0000000449266600</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Henri_Estienne</idno>
                     </person>
                     <person xml:id="Fatio_ISN000000002518197X">
@@ -4900,7 +4891,7 @@
                         <occupation/>
                         <affiliation>Royal Society</affiliation>
                         <socecStatus/>
-                        <note>mathematician, natural philosopher, inventor, and religious
+                        <note>Naturaliste, mathematician, natural philosopher, inventor, and religious
                             campaigner</note>
                         <event>
                             <desc><date/></desc>
@@ -5113,7 +5104,7 @@
                         <occupation/>
                         <affiliation>Royal Society <date>1671</date></affiliation>
                         <socecStatus/>
-                        <note>botaniste, an English plant anatomist and physiologist, known as the
+                        <note>naturaliste, botaniste, an English plant anatomist and physiologist, known as the
                             "Father of Plant Anatomy". Editor Philosophical Transactions
                             1678-9</note>
                         <event>
@@ -5443,7 +5434,7 @@
                         <occupation/>
                         <affiliation/>
                         <socecStatus/>
-                        <note> avocat, jardinier et agronome français qui fut le créateur du Potager
+                        <note>Naturaliste, avocat, jardinier et agronome français qui fut le créateur du Potager
                             du roi à Versailles.</note>
                         <event>
                             <desc
@@ -5599,7 +5590,7 @@
                         <occupation>Curé</occupation>
                         <affiliation/>
                         <socecStatus/>
-                        <note>aumônier et contrôleur des jardins fruitiers du roi Louis XIII,
+                        <note>Naturaliste, aumônier et contrôleur des jardins fruitiers du roi Louis XIII,
                             agronome, jardinier</note>
                         <event>
                             <desc
@@ -5633,7 +5624,7 @@
                         <occupation>Jardinier Paysagiste</occupation>
                         <affiliation/>
                         <socecStatus/>
-                        <note/>
+                        <note>Naturaliste</note>
                         <event>
                             <desc><date/></desc>
                         </event>
@@ -5772,7 +5763,7 @@
                         <education/>
                         <occupation/>
                         <affiliation>Jésuite <note>mais viré en <date>1681</date> puisque plus
-                                patriotique qu'obéisant à la pourriture de Rome</note></affiliation>
+                                patriotique qu'obéisant à l'Église de Rome</note></affiliation>
                         <socecStatus/>
                         <note>Homme d’Église, historien</note>
                         <event>
@@ -5859,7 +5850,7 @@
                         <occupation/>
                         <affiliation/>
                         <socecStatus/>
-                        <note> Botaniste, médecin</note>
+                        <note>Naturaliste, Botaniste, médecin</note>
                         <event>
                             <desc>Commentarii in libros sex Pedacii
                                 Dioscoridis<date>1544</date></desc>
@@ -5887,7 +5878,7 @@
                         <occupation/>
                         <affiliation/>
                         <socecStatus/>
-                        <note>explorateur du Brésil, auteur d'une Historia Naturalis Brasiliae, </note>
+                        <note>Naturaliste, explorateur du Brésil, auteur d'une Historia Naturalis Brasiliae, </note>
                         <event>
                             <desc><date/></desc>
                         </event>
@@ -5917,6 +5908,33 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000081280032</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/François_Mauriceau</idno>
+                    </person>
+                    
+                    <person xml:id="Menestrier_ISN0000000121178404">
+                        <persName>
+                            <forename>Menestrier</forename>
+                            <surname>Claude-François</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr>C. F. M. </abbr>
+                        </persName>
+                        <birth when="1631-03-09">né le 9 mars 1631 à<placeName> Lyon </placeName><country corresp="#FRE">France</country></birth>
+                        <death when="1705-01-21">mort  le 21 janvier 1705 à <placeName>Paris</placeName><country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Francaise</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation/>
+                        <affiliation>Compagnie de Jésus</affiliation>
+                        <socecStatus/>
+                        <note>Chorégraphe, héraldiste, théoricien de la musique, historien de la musique
+                        </note>
+                        <event>
+                            <desc>Des représentations en musique anciennes et modernes <date>1681</date></desc>
+                            <desc>Des ballets anciens et modernes selon les règles du théâtre <date>1681</date></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000121178404</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Claude-François_Ménestrier</idno>
                     </person>
 
                     <person xml:id="Mersenne_ISN0000000121296363">
@@ -6257,10 +6275,10 @@
                         <nationality>Néerlandaise</nationality>
                         <faith>Protestant</faith>
                         <education/>
-                        <occupation>Médecin, naturalist</occupation>
+                        <occupation>Médecin, naturaliste</occupation>
                         <affiliation/>
                         <socecStatus/>
-                        <note/>
+                        <note>Naturaliste</note>
                         <event>
                             <desc><date/></desc>
                         </event>
@@ -6472,7 +6490,7 @@
                         <faith>Protestant</faith>
                         <education>Collège de Sorbonne</education>
                         <affiliation>Université de Montpellier</affiliation>
-                        <note>Botaniste, médecin, ichtyologiste, naturaliste, professeur
+                        <note>Naturaliste, Botaniste, médecin, ichtyologiste, professeur
                             d'université</note>
                         <idno type="ISNI">http://www.isni.org/isni/000000010855716X</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Guillaume_Rondelet</idno>
@@ -7026,10 +7044,10 @@
                         <sex>Masculin</sex>
                         <nationality>Française</nationality>
                         <faith>Catholique</faith>
-                        <education>Docteur de la faculté de médecine de Paris (1696)</education>
+                        <education>Docteur de la faculté de médecine de Paris (1696), Montpellier</education>
                         <occupation>Botaniste</occupation>
                         <affiliation>Muséum national d'histoire naturelle</affiliation>
-                        <socecStatus>Chaire de Botanique, College Royal</socecStatus>
+                        <socecStatus>Naturaliste, Chaire de Botanique, College Royal</socecStatus>
                         <note>Constitue un herbier important.</note>
                         <event>
                             <desc>Chercheur et enseignant, admis à l'Académie des sciences .<date>
@@ -7045,7 +7063,7 @@
                                 usage dans la médecine (Paris, 1698, un volume) ; 2e édition
                                 augmentée par Bernard de Jussieu, Paris, 1725, 2 volumes).</desc>
                         </event>
-                        <idno>ISN:0000000120999374</idno>
+                        <idno>https://isni.org/isni/0000000120999374</idno>
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Joseph_Pitton_de_Tournefort</idno>
                     </person>
@@ -7209,7 +7227,7 @@
                         <occupation/>
                         <affiliation/>
                         <socecStatus/>
-                        <note>un ornithologue et un ichtyologiste britannique</note>
+                        <note>Naturaliste, un ornithologue et un ichtyologiste britannique</note>
                         <event>
                             <desc><date/></desc>
                         </event>
