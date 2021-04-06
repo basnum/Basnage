@@ -1603,7 +1603,7 @@
                             <surname>Gonbaut</surname>
                             <roleName/>
                             <addName>Ogier de Gombaud</addName>
-                            <abbr/>
+                            <abbr>Gon</abbr>
                         </persName>
                         <birth when="1576"> 1576 à <placeName>Saint-Just-Luzac en
                                 Saintonge</placeName><country corresp="#FRE"
@@ -2877,8 +2877,8 @@
                         <persName>
                             <forename>Madeleine</forename>
                             <surname>de Scudery</surname>
+                            <abbr>M. Sc.</abbr>
                         </persName>
-
                         <birth when="1607-11-15">née le 15 novembre 1607 au <placeName>Havre
                                 </placeName><country corresp="#FRE">France</country></birth>
                         <death>mortele 2 juin 1701 à <placeName>Paris</placeName><country
@@ -2930,7 +2930,7 @@
                             <surname>Saint Didier</surname>
                             <roleName>de Limojon de Saint-Didier</roleName>
                             <addName/>
-                            <abbr>S</abbr>
+                            <abbr>S. Di.</abbr>
                         </persName>
                         <birth when="1630">1630 dans le <placeName>Comtat Venaissin,<note>ancien
                                     état de l'église, actuel Vaucluse</note></placeName><country
@@ -3157,7 +3157,7 @@
                             <surname>de Tourreil</surname>
                             <roleName/>
                             <addName/>
-                            <abbr/>
+                            <abbr>Tour</abbr>
                         </persName>
                         <birth when="1656-11-18">Né le 18 November 1656<placeName>Toulouse
                                 </placeName><country corresp="#FRE">France</country></birth>
@@ -3181,7 +3181,9 @@
                         <persName>
                             <forename>Pierre</forename>
                             <surname>Le Lorrain</surname>
-                            <roleName>Abbé de Vallemont</roleName></persName>
+                            <roleName>Abbé de Vallemont</roleName>
+                            <abbr>Val</abbr>
+                        </persName>
                         <birth when="1649-09-10">né le 10 septembre 1649, à
                                 <placeName>Pont-Audemer</placeName><country corresp="#FRE"
                                 >France</country></birth>
@@ -3268,7 +3270,7 @@
                             <surname>de la Mothe le Vayer</surname>
                             <roleName/>
                             <addName/>
-                            <abbr>Le M. le V.</abbr></persName>
+                            <abbr>La M. le V.</abbr></persName>
                         <birth when="1588-08-01">né le 1er août 1588 à
                                 <placeName>Paris</placeName><country corresp="#FRE"
                             >France</country></birth>
@@ -7916,6 +7918,9 @@
             <classDecl n="domains">
                 <taxonomy n="domains">
                     <desc>Domains et métiers designés par des termes</desc>
+                    <gloss xml:id="term_academie">
+                        <name>academie</name>
+                    </gloss>
                     <gloss xml:id="term_agriculture">
                         <name>agriculture</name>
                     </gloss>
@@ -7924,6 +7929,9 @@
                     </gloss>
                     <gloss xml:id="term_anatomie">
                         <name>anatomie</name>
+                    </gloss>
+                    <gloss xml:id="term_apothicaire">
+                        <name>apothicaire</name>
                     </gloss>
                     <gloss xml:id="term_architecture">
                         <name>architecture</name>
@@ -7934,9 +7942,14 @@
                     <gloss xml:id="term_arquebusier">
                         <name>arquebusier</name>
                     </gloss>
-                    <gloss xml:id="term_artillerie"><name>artillerie</name></gloss>
-                    <gloss xml:id="term_artisans">
-                        <name>artisans</name>
+                    <gloss xml:id="term_art_de_Raymond_Lulle">
+                        <name>art de Raymond Lulle</name>
+                    </gloss>
+                    <gloss xml:id="term_artillerie">
+                        <name>artillerie</name>
+                    </gloss>
+                    <gloss xml:id="term_artisan_artisans">
+                        <name>artisan/artisans</name>
                     </gloss>
                     <gloss xml:id="term_astrologie">
                         <name>astrologie</name>
@@ -7944,14 +7957,35 @@
                     <gloss xml:id="term_astronomie">
                         <name>astronomie</name>
                     </gloss>
+                    <gloss xml:id="term_autourserie">
+                        <name>autouserie</name>
+                    </gloss>
+                    <gloss xml:id="term_balancier">
+                        <name>balancier</name>
+                    </gloss>
                     <gloss xml:id="term_banque">
                         <name>banque</name>
                     </gloss>
+                    <gloss xml:id="term_banquier">
+                        <name>banquier</name>
+                    </gloss>
                     <gloss xml:id="term_barbare">
                         <name>barbare</name>
+                    </gloss>                  
+                    <gloss xml:id="term_batelier">
+                        <name>batelier</name>
+                    </gloss>
+                    <gloss xml:id="term_blanchisseur">
+                        <name>blanchisseur</name>
+                    </gloss>
+                    <gloss xml:id="term_blanchisseuse">
+                        <name>blanchisseuse</name>
                     </gloss>
                     <gloss xml:id="term_blason">
                         <name>blason</name>
+                    </gloss>
+                    <gloss xml:id="term_boisselier">
+                        <name>boisselier</name>
                     </gloss>
                     <gloss xml:id="term_bonnetier">
                         <name>bonnetier</name>
@@ -7968,11 +8002,23 @@
                     <gloss xml:id="term_broderie">
                         <name>broderie</name>
                     </gloss>
+                    <gloss xml:id="term_brodeur">
+                        <name>brodeur</name>
+                    </gloss>
                     <gloss xml:id="term_cartier">
                         <name>cartier</name>
                     </gloss>
-                    <gloss xml:id="term_chancellerie">
-                        <name>chancellerie</name>
+                    <gloss xml:id="term_chancellerie_chancelerie">
+                        <name>chancellerie/chancelerie</name>
+                    </gloss>
+                    <gloss xml:id="term_chancelerie_romaine">
+                        <name>chancelerie romaine</name>
+                    </gloss>
+                    <gloss xml:id="term_chandelier">
+                        <name>chandelier</name>
+                    </gloss>
+                    <gloss xml:id="term_chapelier">
+                        <name>chapelier</name>
                     </gloss>
                     <gloss xml:id="term_charcuterie">
                         <name>charcuterie</name>
@@ -7980,14 +8026,26 @@
                     <gloss xml:id="term_charpenterie">
                         <name>charpenterie</name>
                     </gloss>
+                    <gloss xml:id="term_charon">
+                        <name>charon</name>
+                    </gloss>
+                    <gloss xml:id="term_charretier">
+                        <name>charretier</name>
+                    </gloss>
                     <gloss xml:id="term_chasse">
                         <name>chasse</name>
+                    </gloss>
+                    <gloss xml:id="term_chaudronnier">
+                        <name>chaudronnier</name>
+                    </gloss>
+                    <gloss xml:id="term_chevalier_de_l_arquebuse">
+                        <name>chevalier de l'arquebuse</name>
                     </gloss>
                     <gloss xml:id="term_chiromancie">
                         <name>chiromancie</name>
                     </gloss>
-                    <gloss xml:id="term_chirugerie">
-                        <name>chirugerie</name>
+                    <gloss xml:id="term_chirugie">
+                        <name>chirugie</name>
                     </gloss>
                     <gloss xml:id="term_chronologie">
                         <note>chronologie</note>
@@ -7995,14 +8053,23 @@
                     <gloss xml:id="term_chymie">
                         <name>chymie</name>
                     </gloss>
+                    <gloss xml:id="term_civilité">
+                        <name>civilité</name>
+                    </gloss>
                     <gloss xml:id="term_collectif">
                         <name>collectif</name>
                     </gloss>
                     <gloss xml:id="term_college">
                         <name>college</name>
                     </gloss>
+                    <gloss xml:id="term_college_de_paris">
+                        <name>college de Paris</name>
+                    </gloss>
                     <gloss xml:id="term_complement">
                         <name>complement</name>
+                    </gloss>
+                    <gloss xml:id="term_comput_ecclesiastique">
+                        <name>comput ecclesiastique</name>
                     </gloss>
                     <gloss xml:id="term_confiseur">
                         <name>confiseur</name>
@@ -8015,36 +8082,66 @@
                     </gloss>
                     <gloss xml:id="term_coutelier">
                         <name>coutelier</name>
+                    </gloss>                   
+                    <gloss xml:id="term_coutume_coutumes">
+                        <name>coutume/coutumes</name>
                     </gloss>
                     <gloss xml:id="term_couture">
                         <name>couture</name>
                     </gloss>
+                    <gloss xml:id="term_couvreur">
+                        <name>couvreur</name>
+                    </gloss>
+                    <gloss xml:id="term_danse">
+                        <name>danse</name>
+                    </gloss>
                     <gloss xml:id="term_degraisseur">
                         <name>degraisseur</name>
+                    </gloss>
+                    <gloss xml:id="term_dessinateur">
+                        <name>dessinateur</name>
                     </gloss>
                     <gloss xml:id="term_devotion">
                         <name>devotion</name>
                     </gloss>
+                    <gloss xml:id="term_discipline_ecclesiastique">
+                        <name>discipline ecclesiastique</name>
+                    </gloss>
+                    <gloss xml:id="term_drappier">
+                        <name>drappier</name>
+                    </gloss>
                     <gloss xml:id="term_droit">
                         <name>droit</name>
                     </gloss>
-                    <gloss xml:id="term_dogmatique">
-                        <name>dogmatique</name>
+                    <gloss xml:id="term_droit_romain">
+                        <name>droit romain</name>
                     </gloss>
-                    <gloss xml:id="term_eclesiastique">
-                        <name>eclesiastique</name>
-                    </gloss>
-                    <gloss xml:id="term_drapppier">
-                        <name>drappier</name>
-                    </gloss>
-                    <gloss xml:id="term_ecole">
-                        <name>école</name>
+                    <gloss xml:id="term_dogmatique_dogmatiques">
+                        <name>dogmatique/dogmatiques</name>
                     </gloss>
                     <gloss xml:id="term_eaux_et_forets">
                         <name>eaux et forêts</name>
                     </gloss>
+                    <gloss xml:id="term_eclesiastique">
+                        <name>eclesiastique</name>
+                    </gloss>
+                    <gloss xml:id="term_ecole">
+                        <name>école</name>
+                    </gloss>
+                    <gloss xml:id="term_ecriture">
+                        <name>ecriture</name>
+                    </gloss>                                     
+                    <gloss xml:id="term_faucheur">
+                        <name>faucheur</name>
+                    </gloss>
                     <gloss xml:id="term_fauconnerie">
                         <name>fauconnerie</name>
+                    </gloss>
+                    <gloss xml:id="term_fiefs">
+                        <name>fiefs</name>
+                    </gloss>
+                    <gloss xml:id="term_fileuse_au_rouet">
+                        <name>fileuse au rouet</name>
                     </gloss>
                     <gloss xml:id="term_finance">
                         <name>finance</name>
@@ -8052,6 +8149,9 @@
                     <gloss xml:id="term_fleuriste">
                         <name>fleuriste</name>
                     </gloss>
+                    <gloss xml:id="term_fondeur">
+                        <name>fondeur</name>
+                    </gloss>                    
                     <gloss xml:id="term_forets">
                         <name>forets</name>
                     </gloss>
@@ -8061,18 +8161,29 @@
                     <gloss xml:id="term_formier">
                         <name>formier</name>
                     </gloss>
-                    <gloss xml:id="term_fortification">
-                        <name>fortification</name>
+                    <gloss xml:id="term_fortification_fortifications">
+                        <name>fortification/fortifications</name>
+                    </gloss>
+                    <gloss xml:id="term_gabelles">
+                        <name>gabelles</name>
                     </gloss>
                     <gloss xml:id="term_gantier">
                         <name>gantier</name>
                     </gloss>
-                    <gloss xml:id="term_geneologie"><name>Geneologie</name></gloss>
+                    <gloss xml:id="term_geneologie">
+                        <name>geneologie</name>
+                    </gloss>
+                    <gloss xml:id="term_geographie">
+                        <name>geographie</name>
+                    </gloss>
                     <gloss xml:id="term_geometrie">
                         <name>geometrie</name>
                     </gloss>
                     <gloss xml:id="term_grammaire">
                         <name>grammaire</name>
+                    </gloss>
+                    <gloss xml:id="term_grammaire_grecque">
+                        <name>grammaire grecque</name>
                     </gloss>
                     <gloss xml:id="term_graveur">
                         <name>graveur</name>
@@ -8083,19 +8194,37 @@
                     <gloss xml:id="term_histoire_eclesiastique">
                         <name>histoire eclesiastique</name>
                     </gloss>
-                    <gloss xml:id="term_horloger"><name>Horloger</name></gloss>
+                    <gloss xml:id="term_horloger">
+                        <name>horloger</name>
+                    </gloss>
+                    <gloss xml:id="term_horlogerie">
+                        <name>horlogerie</name>
+                    </gloss>
+                    <gloss xml:id="term_hydraulique_hydrauliques">
+                        <name>Hydraulique/Hydrauliques</name>
+                    </gloss>
                     <gloss xml:id="term_imprimerie">
                         <name>imprimerie</name>
                     </gloss>
-                    <gloss xml:id="term_injurieux">injurieux</gloss>
+                    <gloss xml:id="term_imprimeur">
+                        <name>imprimeur</name>
+                    </gloss>
+                    <gloss xml:id="term_injurieux">
+                        <name>injurieux</name>
+                    </gloss>
                     <gloss xml:id="term_jardinage">
                         <name>jardinage</name>
                     </gloss>
                     <gloss xml:id="term_jardinier">
                         <name>jardinier</name>
                     </gloss>
-                    <gloss xml:id="term_jouaillier">
-                        <name>jouaillier</name>
+                    <gloss xml:id="term_jeu_picquet">
+                        <name>Jeu de Picquet</name>
+                    <gloss xml:id="term_jouaillier_jouailliers">
+                        <name>jouaillier/jouailliers</name>
+                    </gloss>
+                    <gloss xml:id="term_joueur_de_gobelets">
+                        <name>joueur de gobelets</name>
                     </gloss>
                     <gloss xml:id="term_jurisprudence">
                         <name>jurisprudence</name>
@@ -8106,11 +8235,17 @@
                     <gloss xml:id="term_logique">
                         <name>logique</name>
                     </gloss>
+                    <gloss xml:id="term_machines">
+                        <name>machines</name>
+                    </gloss>
                     <gloss xml:id="term_macon">
                         <name>maçon</name>
                     </gloss>
                     <gloss xml:id="term_maconnerie">
-                        <name>maconnerie</name>
+                        <name>maçonnerie</name>
+                    </gloss>
+                    <gloss xml:id="term_maitre_d_armes">
+                        <name>maitre d'armes</name>
                     </gloss>
                     <gloss xml:id="term_manege">
                         <name>manege</name>
@@ -8127,10 +8262,22 @@
                     <gloss xml:id="term_marchands_de_poisson">
                         <name>Marchand de poisson</name>
                     </gloss>
+                    <gloss xml:id="term_marchand_rubanier">
+                        <name>marchand rubanier</name>
+                    </gloss>                   
+                    <gloss xml:id="term_marechal">
+                        <name>marechal</name>
+                    </gloss>                    
                     <gloss xml:id="term_marine">
                         <name>Marine</name>
                     </gloss>
-                    <gloss xml:id="terù_medailliste">
+                    <gloss xml:id="term_marine_de_levant">
+                        <name>marine de levant</name>
+                    </gloss>
+                    <gloss xml:id="term_mechanique_mechaniques">
+                        <name>mechanique/mechaniques</name>
+                    </gloss>
+                    <gloss xml:id="term_medailliste">
                         <name>medailliste </name>
                     </gloss>
                     <gloss xml:id="term_medecine">
@@ -8142,8 +8289,14 @@
                     <gloss xml:id="term_mer">
                         <name>mer</name>
                     </gloss>
-                    <gloss xml:id="term_monnoyes">
-                        <name>monnoyes</name>
+                    <gloss xml:id="term_mesureurs">
+                        <name>mesureurs</name>
+                    </gloss>
+                    <gloss xml:id="term_monnoye_monnoyes">
+                        <name>monnoye/monnoyes</name>
+                    </gloss>
+                    <gloss xml:id="term_monnoyeurs">
+                        <name>monnoyeurs</name>
                     </gloss>
                     <gloss xml:id="term_morale">
                         <name>morale</name>
@@ -8153,11 +8306,22 @@
                     </gloss>
                     <gloss xml:id="term_mythologie">
                         <name>mythologie</name>
+                    </gloss>                  
+                    <gloss xml:id="term_navigation">
+                        <name>navigation</name>
                     </gloss>
                     <gloss xml:id="term_negoce">
                         <name>negoce</name>
                     </gloss>
-                    <gloss xml:id="term_oiselier"><name>Oiselier</name></gloss>
+                    <gloss xml:id="term_oiselier">
+                        <name>oiselier</name>
+                    </gloss>
+                    <gloss xml:id="term_optique">
+                        <name>optique</name>
+                    </gloss>
+                    <gloss xml:id="term_orfevre">
+                        <name>orfevre</name>
+                    </gloss>                    
                     <gloss xml:id="term_ouvrage">
                         <name>ouvrage</name>
                     </gloss>
@@ -8184,26 +8348,38 @@
                     </gloss>
                     <gloss xml:id="term_physique">
                         <name>physique</name>
-                    </gloss>
-                    <gloss xml:id="term_picquet">
-                        <name>Jeu de Picquet</name>
-                    </gloss>
+                    </gloss>                
                     <gloss xml:id="term_plombier">
                         <name>plombier</name>
                     </gloss>
                     <gloss xml:id="term_poesie">
                         <name>poesie</name>
                     </gloss>
+                    <gloss xml:id="poesie_française">
+                        <name>poesie françoise</name>
+                    </gloss>
+                    <gloss xml:id="poesie_latine">
+                        <name>poesie latine</name>
+                    </gloss>
                     <gloss xml:id="term_poetique">
                         <name>poetique</name>
+                    </gloss>
+                    <gloss xml:id="term_poste">
+                        <name>poste</name>
+                    </gloss>
+                    <gloss xml:id="term_potier_d_etain">
+                        <name>potier d'étain</name>
                     </gloss>
                     <gloss xml:id="term_pratique">
                         <name>pratique</name>
                     </gloss>
+                    <gloss xml:id="term_predicament">
+                        <name>predicament</name>
+                    </gloss>
                     <gloss xml:id="term_quincaillerie">
                         <name>quincaillerie</name>
                     </gloss>
-                    <gloss xml:id="trerm_relations">
+                    <gloss xml:id="term_relations">
                         <name>relations</name>
                     </gloss>
                     <gloss xml:id="term_relieur">
@@ -8221,6 +8397,21 @@
                     <gloss xml:id="term_taillandier">
                         <name>taillandier</name>
                     </gloss>
+                    <gloss xml:id="term_tailleurs">
+                        <name>tailleurs</name>
+                    </gloss>
+                    <gloss xml:id="term_tanneur">
+                        <name>tanneur</name>
+                    </gloss>
+                    <gloss xml:id="term_tapissier">
+                        <name>tapissier</name>
+                    </gloss>
+                    <gloss xml:id="term_teinture">
+                        <name>teinture</name>
+                    </gloss>
+                    <gloss xml:id="term_teinturier">
+                        <name>teinturier</name>
+                    </gloss>
                     <gloss xml:id="term_theatre">
                         <name>theatre</name>
                     </gloss>
@@ -8230,6 +8421,15 @@
                     <gloss xml:id="term_tireur_d_or">
                         <name>tireur_d_or</name>
                     </gloss>
+                    <gloss xml:id="term_tonnelier">
+                        <name>tonnelier</name>
+                    </gloss>
+                        <gloss xml:id="term_tourneur">
+                            <name>tourneur</name>
+                        </gloss>
+                    <gloss xml:id="term_vanier">
+                        <name>vanier</name>
+                    </gloss>
                     <gloss xml:id="term_venerie">
                         <name>venerie</name>
                     </gloss>
@@ -8238,6 +8438,10 @@
                     </gloss>
                     <gloss xml:id="term_verrerie">
                         <name>verrerie</name>
+                    </gloss>
+                    <gloss xml:id="term_vitrier">
+                         <name>vitrier</name>
+                     </gloss>
                     </gloss>
                 </taxonomy>
             </classDecl>
