@@ -7486,9 +7486,9 @@
                         <pc>.</pc>
                         <def>Les Poëtes appellent les poissons, les peuples écaillez, ou la trouppe
                             ecailée</def>
-                    </re>
+                    
                     <pc>.</pc>
-
+<!-- commentaire -->
                     <sense>
                         <form>Ecaille</form>
                         <pc>.</pc>
@@ -7497,6 +7497,8 @@
                             d'argent écaillé &amp; ombré de sinople</def>
                     </sense>
                     <pc>.</pc>
+                    </re>
+                    
 
                     <re><form>Ecaillé, ée</form>
                         <form>.</form>

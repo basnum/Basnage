@@ -8065,6 +8065,9 @@
                     <gloss xml:id="term_college_de_paris">
                         <name>college de Paris</name>
                     </gloss>
+                    <gloss xml:id="term_comedien">
+                        <name>comedien</name>
+                    </gloss>   
                     <gloss xml:id="term_complement">
                         <name>complement</name>
                     </gloss>
@@ -8151,7 +8154,10 @@
                     </gloss>
                     <gloss xml:id="term_fondeur">
                         <name>fondeur</name>
-                    </gloss>                    
+                    </gloss>   
+                    <gloss xml:id="term_fonderie">
+                        <name>fonderie</name>
+                    </gloss>   
                     <gloss xml:id="term_forets">
                         <name>forets</name>
                     </gloss>
@@ -8164,6 +8170,7 @@
                     <gloss xml:id="term_fortification_fortifications">
                         <name>fortification/fortifications</name>
                     </gloss>
+                    <gloss xml:id="term_franger"><name>franger</name></gloss>
                     <gloss xml:id="term_gabelles">
                         <name>gabelles</name>
                     </gloss>
@@ -8334,6 +8341,8 @@
                     <gloss xml:id="term_peche">
                         <name>peche</name>
                     </gloss>
+                   <gloss xml:id="term_peignier">
+                       <name>peignier</name></gloss>
                     <gloss xml:id="term_peintre">
                         <name>peintre</name>
                     </gloss>

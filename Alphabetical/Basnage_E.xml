@@ -10945,23 +10945,20 @@
                   <pc>.</pc>
                   <gramGrp>
                      <pos>v.</pos>
-                     <subc>act</subc>
+                     <subc>act.</subc>
                   </gramGrp>
-                  <pc>.</pc>
-                  <form type="inflected">
-                     <orth type="part">Rendre doux</orth>
-                  </form>
+               
                </form>
                <pc>.</pc>
                <sense>
-                  <pc>,</pc>
-                  <def>c'est, Rendre doux par le moyen du sucre ou de quelque syrop<pc>.</pc>
-                  </def>
-                  <pc>,</pc>
-                  <def>c'est, Aoucir en ôtant par plusieurs lotions d'eau froide les sels qui se trouvent dans diverses
+                  <def>Rendre doux.</def>
+                  <sense><usg type="domain" ana="#term_pharmacie">En termes de pharmacie, c'est, </usg> <def>Rendre doux par le moyen du sucre ou de quelque syrop<pc>.</pc>
+                  </def></sense>
+                <sense><usg type="domain" ana="#term_chymie">En termes de chymie, c'est,</usg> <def>Aoucir en ôtant par plusieurs lotions d'eau froide les sels qui se trouvent dans diverses
                      matieres, par exemple dans les precipitez du mercure, &amp; des autres metaux qui ont été dissous
                      par la force de ces mêmes sels, qu'on a été obligé d'y mêler pour en venir à bout<pc>.</pc>
-                  </def>
+                  </def></sense>
+                 
                </sense>
                <etym>
                   <lbl>Ce mot vient du</lbl>
@@ -12540,7 +12537,7 @@
                </sense>
                <sense n="2">
                   <pc>,</pc>
-                  <def>l'éçalité se marque avec deux petites lignes paralleêles. 224. c'est-à-dire, deux plus deux sont
+                  <def>l'éçalité se marque avec deux petites lignes paralleêles. 2+2=4. c'est-à-dire, deux plus deux sont
                      égaux à quatre<pc>.</pc>
                   </def>
                </sense>
@@ -12980,7 +12977,7 @@
                <pc>.</pc>
                <xr>
                   <lbl>Voyez</lbl>
-                  <ref target="#ecyptiaque">Ecyptiaque</ref>
+                  <ref target="#ecyptiaque">Æyptiaque</ref>
                   <pc>.</pc>
                </xr>
             </entry>
@@ -20284,19 +20281,16 @@
                   <pc>,</pc>
                   <form type="variant">
                      <lbl>ou</lbl>
-                     <orth>EMPLATRE</orth>
+                     <orth>EMPLATRE</orth><pc>.</pc>
                   </form>
+               <note>Ce mot est selon l'usage ordinaire de feminin, quoyque les Medecins le fassent masculin</note>
+               
                </form>
-               <pc>.</pc>
-               <etym>
-                  <lbl>Ce mot est selon l'usage ordinaire de</lbl>
-                  <foreign>feminin</foreign>
-                  <pc>,</pc>
-                  <gloss>quoyque les Medecins le fassent masculin</gloss>
-                  <pc>.</pc>
-                  <gloss>Medicament de substance solide &amp; glutineuse, composé de diverses sortes de simples, &amp;
-                     fait pour être appliqué exterieurement</gloss>
-               </etym>
+               
+               <sense>
+                 <def>Medicament de substance solide &amp; glutineuse, composé de diverses sortes de simples, &amp;
+                     fait pour être appliqué exterieurement</def>
+               </sense>
                <pc>.</pc>
                <sense n="1">
                   <def>On lui a donné cette consistence, afin qu'en demeurant long temps attaché sur les parties du

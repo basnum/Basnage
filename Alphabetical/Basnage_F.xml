@@ -8527,8 +8527,8 @@
                   <form>
                      <orth>Fabuleux</orth>
                   </form>
-                  <pc>,</pc>
-                  <def>est aussi quelquefois un substantif masc. Nous outrons le fabuleux par un essemblace confus de
+                  <pc>,</pc><gramGrp><gram></gram>est aussi quelquefois un substantif masc.</gramGrp>
+                  <def> Nous outrons le fabuleux par un essemblace confus de
                      Dieux, de Bergers, de Heros, d'Enchanteurs, de Furies, de Demons. St. Ev<pc>.</pc>
                   </def>
                </sense>
@@ -9214,9 +9214,9 @@
                </sense>
             </entry>
             <entry xml:id="faconnier">
-               <form type="lemmaGrp">
+              <hom><form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>FACONNIER</orth>
+                     <orth><corr >FACONNIER</corr></orth>
                   </form>
                   <pc>.</pc>
                   <gramGrp>
@@ -9224,20 +9224,20 @@
                      <gen>masc.</gen>
                   </gramGrp>
                </form>
-               <sense n="1">
+               <sense>
                   <def>Artisan ou compagnon qui travaille aux façons de Manufactures de toutes sortes d'étoffes, soit
                      or, argent, soye ou laine. Il y a des reglemens qui concernent les Façonniers dans l'Ordonnance des
                      Manufactures, &amp; ils sont tenus au sortir du foulon à l'égard des étoffes, d'apporter leurs
                      marchandises aux bureaux des jurez Drappiers, pour être visitées &amp; marquées<pc>.</pc>
                   </def>
-               </sense>
-               <sense n="2">
-                  <def>Fagçonnier, iere. adj. Ceremonieux, grimacier. Que vous êtes façonnier. Les personnes du vieux
+               </sense></hom>
+               <hom><form><orth>Façonnier</orth><pc>,</pc><orth>iere.</orth></form><gramGrp><pos>adj.</pos></gramGrp><sense>
+                  <def>Ceremonieux, grimacier. Que vous êtes façonnier. Les personnes du vieux
                      temps sont plus formalistes, &amp; plus façonnieres que les modernes, qui ne sçauroient
                      s'assujettir à ces grimaces concertées. Bell. De tous vos façonniers je ne suis point l'esclave.
                      Mol. Les precieuses sont ridicules parcequ'elles sont trop façonnieres<pc>.</pc>
                   </def>
-               </sense>
+               </sense></hom>
             </entry>
             <entry xml:id="facteur">
                <form type="lemmaGrp">
