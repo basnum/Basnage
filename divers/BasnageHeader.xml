@@ -823,7 +823,7 @@
                             <surname>Galibart de Capistron</surname>
                             <forename>Jean</forename>
                             <addName>Campistron</addName>
-                            <abbr>Cap</abbr></persName>
+                            <abbr>Cap</abbr><abbr>Capist</abbr></persName>
                         <birth when="1656-08-03">né le 3 août 1656, à
                                 <placeName>Toulouse</placeName><country corresp="#FRE"
                                 >France</country></birth>
@@ -4221,7 +4221,7 @@
                             <forename>Robert</forename>
                             <surname>Boyle</surname>
                             <roleName/>
-                            <addName/>
+                            <addName>Boile</addName>
                             <abbr/>
                         </persName>
                         <birth when="1627-01-27">Né le 25 janvier 1627,<placeName>Chateau de
@@ -4455,6 +4455,33 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000081241703</idno>
                         <idno type="URI">https://en.wikipedia.org/wiki/Edward_Chamberlayne</idno>
+                    </person>
+                    
+                    <person xml:id="Chambre_ISN0000000109233829">
+                        <persName>
+                            <forename>Marin</forename>
+                            <surname>Cureau de la Chambre</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1596">Né en 1596 ou 1594 à<placeName>Saint Jean d'Assé près du Mans</placeName><country
+                            corresp="#FRE">France</country></birth>
+                        <death when="1669-11-29">Mort le 29 novembre ou décembre 1669 à<placeName>Paris</placeName><country
+                            corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>française</nationality>
+                        <faith/>
+                        <education/>
+                        <occupation>médecin du chancelier Séguier, médecin ordinaire du roi, physicien, philosophe, controversiste...</occupation>
+                        <affiliation>Académie française</affiliation>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000109233829</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Marin_Cureau_de_La_Chambre</idno>
                     </person>
                     
                     <person xml:id="Chevreau_ISN0000000083429427">
@@ -4843,6 +4870,35 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jacques_Davy_du_Perron</idno>
                     </person>
 
+                    <person xml:id="Denys_ISN0000000118877087">
+                        <persName>
+                            <forename>Nicolas</forename>
+                            <surname>Denys</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1603-06-02">né le 2 juin 1603 à 
+                            <placeName>Tours</placeName><country corresp="#FRE"
+                                >France</country></birth>
+                        <death when="1688">mort en 1688
+                            à<placeName>Nipisiguit en Acadie</placeName><country>Canada</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith/>
+                        <education/>
+                        <occupation>marchand, représentant de la Compagnie de la Nouvelle-France, colon, entrepreneur, seigneur concessionnaire
+                        de terres en Acadie...</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISSN">https://isni.org/isni/0000000118877087</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Nicolas_Denys</idno>
+                    </person>
+                    
 
                     <person xml:id="Descartes_ISN0000000121296144">
                         <persName>
@@ -4984,6 +5040,34 @@
                         <idno type="URI"/>
                     </person>
                     
+                    <person xml:id="Dodart_ISN0000000066486606">
+                        <persName>
+                            <forename>Denis</forename>
+                            <surname>Dodart</surname>
+                            <roleName/>
+                            <addName>Dodard</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1634">né en 1634 à<placeName>Paris</placeName><country corresp="#FRE"
+                            >France</country></birth>
+                        <death when="1707-11-05">mort le 5 novembre 1707 à<placeName>Paris</placeName><country corresp="#FRE"
+                            >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique, proche des jansénistes</faith>
+                        <education/>
+                        <occupation>médecin de la duchesse de Longueville et de la princesse douairère de Conti, membre de l'Académie royale 
+                        des sciences, conseiller médecin du roi, botaniste, physionomiste, musicien...</occupation>
+                        <affiliation>Académie royale des sciences</affiliation>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000066486606</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Denis_Dodart</idno>
+                    </person>
+                    
                     <person xml:id="Dodwell_ISN0000000083397066">
                         <persName>
                             <forename>Henry</forename>
@@ -5071,6 +5155,33 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jean_Donneau_de_Visé</idno>
                     </person>
 
+                    <person xml:id="Drelincourt_ISN0000000080760376">
+                        <persName>
+                            <forename>Charles</forename>
+                            <surname>Drelincourt</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1595-07-10">né le 10 juillet 1595 à
+                            <placeName>Sedan</placeName><country>Principauté de Sedan</country></birth>
+                        <death when="1669-11-03"> Mort le 3 novembre 1669 à <placeName>Paris</placeName><country
+                            corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Sedanaise, Française</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation>pasteur de Charenton, prédicateur, controversiste, théologien</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000080760376</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Charles_Drelincourt_(pasteur)</idno>
+                    </person>
+
                     <person xml:id="Du_Cange_ISN0000000121021239">
                         <persName>
                             <forename>Charles </forename>
@@ -5136,6 +5247,61 @@
                         <idno type="URI"
                             >https://www.wikimanche.fr/Claude_Dufour_de_la_Crespelière</idno>
                     </person>
+                    
+                    <person xml:id="Du_Jarry_ISN0000000139916057">
+                        <persName>
+                            <forename>Laurent</forename>
+                            <surname>Jullard</surname>
+                            <roleName>abbé du Jarry</roleName>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1658">né vers 1658 à <placeName>Jarry près de Saintes
+                        </placeName><country>France</country></birth>
+                        <death when="1730">mort en 1730 (ou 1718) dans <placeName>le prieuré de Notre-Dame du Jarry, diocèse de Saintes
+                        </placeName><country>France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>prêtre, prieur de Notre-Dame du Jarry, prédicateur, poète, auteur d'ouvrage sur la prédication et l'éloquence</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno>http://www.isni.org/isni/0000000362079618</idno>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000139916057</idno>
+                    </person>
+
+                    <person xml:id="Du_Ryer_ISN0000000110211360">
+                        <persName>
+                            <forename>Pierre</forename>
+                            <surname>Du Ryer</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1600">né vers 1600 ou 1605 probablement à<placeName>Paris
+                        </placeName><country>France</country></birth>
+                        <death when="1658-10-06">mort le 6 octobre ou novembre 1658 à<placeName>Paris
+                        </placeName><country>France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>secrétaire de la chambre du roi, avocat au Parlement, secrétaire du duc de Vendôme, auteur dramatique,
+                        traducteur, historiographe de France</occupation>
+                        <affiliation>Académie française</affiliation>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Pierre_Du_Ryer</idno>
+                        <idno type="ISNI">https://isni.org/isni/0000000110211360</idno>
+                    </person>
 
                     <person xml:id="Dutertre_ISN0000000077287645">
                         <persName>
@@ -5162,6 +5328,34 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000077287645</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jean-Baptiste_Du_Tertre</idno>
                     </person>
+                    
+                    <person xml:id="Du_Tillet_ISN0000000447072028">
+                        <persName>
+                            <forename>Jean</forename>
+                            <surname>Du Tillet</surname>
+                            <roleName/>
+                            <addName>sieur de la Bussière</addName>
+                            <abbr/>
+                        </persName>
+                        <birth>?<placeName>Paris</placeName><country>France</country></birth>
+                        <death when="16570-10-02">mort le 2 octobre 1570 à<placeName>Paris</placeName><country>France</country></death>
+                        <sex/>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>greffier en chef du parlement de Paris, responsable de recherches dans le trésor des Chartes,
+                        pronotaire et secrétaire du roi, controversiste...</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000447072028</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Jean_du_Tillet_(sieur_de_La_Bussi%C3%A8re)</idno>
+                    </person>
+                    
+                    
                     <person xml:id="Dubois_0000000121022629">
                         <persName>
                             <forename>Guillaume</forename>
@@ -5512,6 +5706,32 @@
                         <idno type="ISSN">http://www.isni.org/isni/0000000080760923</idno>
                         <idno type="URI"/>
                     </person>
+                    
+                    <person xml:id="Froissart_ISN0000000448844923">
+                        <persName>
+                            <forename>Jean</forename>
+                            <surname>Froissart</surname>
+                            <addName/>
+                        </persName>
+                        <birth when="1337">né vers 1337 à<placeName>Valenciennes dans le Hainaut (alors autonome)</placeName>
+                            <country corresp="#FRE">France</country></birth>
+                        <death>mort après 1404 probablement à<placeName>Chimay dans le Hainaut</placeName>
+                            <country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality/>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>curé de Lestinnes-au-Mont, chanoine de Chimay, chapelain de Guy de Blois, coutelier, chroniqueur, poète</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <education/>
+                        <event>
+                            <desc></desc>
+                        </event>
+                        <idno type="ISSN">https://isni.org/isni/0000000448844923</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Jean_Froissart</idno>
+                    </person>
 
 
                     <person xml:id="Furetiere_ISN0000000108580490">
@@ -5596,6 +5816,32 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000109475932</idno>
                         <idno type="URI">https://data.bnf.fr/fr/13021410/jacques_gaultier/</idno>
+                    </person>
+                    
+                    <person xml:id="Gaya_ISN0000000081093376">
+                        <persName>
+                            <forename>Louis</forename>
+                            <surname>de Gaya</surname>
+                            <abbr/>
+                            <addName>sieur de Tréville</addName>
+                        </persName>
+                        <birth>né au XVIIe siècle à<placeName>?
+                        </placeName>en<country corresp="#FRE">France</country></birth>
+                        <death>mort au XVIIe siècle ou au début du XVIIIe siècle à<placeName>?</placeName>en France
+                            <country corresp="#FRE">France</country>
+                        </death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>capitaine au régiment de Champagne, historien, généalogiste, auteur d'ouvrage sur la guerre</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000081093376</idno>
                     </person>
                     
                     <person xml:id="Gerberon_ISN0000000121034208">
@@ -5962,6 +6208,57 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000066309407</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jean_Hermant</idno>
                     </person>
+                    
+                    <person xml:id="Heron_ISN0000000107979256">
+                        <persName>
+                            <forename>Heron</forename>
+                            <surname/>
+                            <roleName/>
+                            <addName>d'Alexandrie</addName>
+                            <abbr/>
+                        </persName>
+                        <birth>date inconnue, probablement au Ier siècle de notre ère à<placeName>Alexandrie</placeName><country>Egypte</country></birth>
+                        <death>date inconnue<placeName>lieu inconnu</placeName></death>
+                        <sex>Masculin</sex>
+                        <nationality/>
+                        <faith>Païen</faith>
+                        <education/>
+                        <occupation>mathématicien, géomètre, mécanicien, ingénieur, phyisicien, opticien, inventeur</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000107979256</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/H%C3%A9ron_d%27Alexandrie</idno>
+                    </person>
+                    
+                    <person xml:id="Hooke_ISN0000000110237616">
+                        <persName>
+                            <forename>Robert</forename>
+                            <surname>Hooke</surname>
+                            <roleName/>
+                            <addName>Hook</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1635-07-18">né le 18 juillet 1635 à<placeName>Freshwater sur l'ile de Wight</placeName><country>Angleterre</country></birth>
+                        <death when="1703-03-03">mort le 3 mars 1703 à<placeName>Londres</placeName><country>Angleterre</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>britannique</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation>choriste puis serviteur/assistant au Christ Church College d'Oxford, responsable des expérience scientifiques
+                        à la Royal Society, professeur de géométrie au Gresham College de Londres, lecteur en mécanique, etc.</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000110237616</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Robert_Hooke</idno>
+                    </person>
 
                     <person xml:id="Huet_ISN000000011020315X">
                         <persName>
@@ -5991,27 +6288,7 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Pierre-Daniel_Huet</idno>
                     </person>
 
-                    <person xml:id="Van_Helmont_ISN0000000116168850">
-                        <persName>
-                            <forename>Jean-Baptiste</forename>
-                            <surname> Van Helmont</surname>
-                            <abbr>Van Hel</abbr>
-                        </persName>
-                        <birth when="1579-01-12">12 Janvier 1579 <placeName>Bruxelles
-                                (Belgique)</placeName>
-                            <country>Pays Bas Espagnols</country></birth>
-                        <death when="1644-12-30">30 décembre 1644 <placeName>Vilvorde</placeName>
-                            <country>Pays Bas Espagnols</country></death>
-                        <sex>Masculin</sex>
-                        <faith>Catholique</faith>
-                        <nationality>Pays bas espagnols</nationality>
-                        <education>Université du duché de Brabant (devenue l'Université catholique
-                            de Louvain</education>
-                        <note>alchimiste, chimiste, physiologiste et médecin. </note>
-                        <idno>ISN:0000000116168850</idno>
-                        <idno type="URI"
-                            >https://fr.wikipedia.org/wiki/Jean-Baptiste_Van_Helmont</idno>
-                    </person>
+                   
 
                     <person xml:id="Isidore_ISN0000000122756296">
                         <persName>
@@ -6469,6 +6746,33 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000121222524</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/André_du_Laurens</idno>
                     </person>
+                    
+                    <person xml:id="Le_Bret_ISN0000000083489032">
+                        <persName>
+                            <forename>Cardin</forename>
+                            <surname>Le Bret</surname>
+                            <roleName>seigneur de Flacourt</roleName>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1558">né en 1558 probablement à
+                            <placeName>Paris</placeName>en<country corresp="#FRE">France</country></birth>
+                        <death when="1655-01-24">mort le 24 janvier 1655 à <placeName>Paris</placeName>en <country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>avocat général de la cour des aides de Paris, avocat général au Parlement de Paris, conseiller de Richelieu,
+                        conseiller d'Etat ordinaire, intendant des Trois Évêchés, penseur politique, jurisconsulte...</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000083489032</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Cardin_Lebret_(1558-1655)</idno>
+                    </person>
 
                     <person xml:id="Le_Fevre_ISN0000000122827058">
                         <persName>
@@ -6499,60 +6803,7 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000122827058 </idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Anne_Dacier</idno>
                     </person>
-                    
-                    <person xml:id="Le_Notre_ISN0000000121318665">
-                        <persName>
-                            <forename>André</forename>
-                            <surname>Le Nôtre</surname>
-                            <roleName/>
-                            <addName>Bonhomme le Nôtre, Le Nostre</addName>
-                            <abbr/>
-                        </persName>
-                        <birth when="1613-03-12">Né le 12 mars 1613 à <placeName>Paris
-                        </placeName><country corresp="#FRE">France</country></birth>
-                        <death when="1700-09-12">Mort le 15 septembre 1700 à <placeName>Paris
-                        </placeName><country corresp="#FRE">France</country></death>
-                        <sex>Masculin</sex>
-                        <nationality>Française</nationality>
-                        <faith>Catholique</faith>
-                        <education/>
-                        <occupation>Jardinier Paysagiste</occupation>
-                        <affiliation/>
-                        <socecStatus/>
-                        <note>Naturaliste</note>
-                        <event>
-                            <desc><date/></desc>
-                        </event>
-                        <idno type="ISNI">http://www.isni.org/isni/0000000121318665</idno>
-                        <idno type="URI">https://fr.wikipedia.org/wiki/André_Le_Nôtre</idno>
-                    </person>
-                    
-                    <person xml:id="Le_Vassor_ISN000000011576102X">
-                        <persName>
-                            <forename>Michel</forename>
-                            <surname>Le Vassor</surname>
-                            <roleName/>
-                            <addName/>
-                            <abbr/>
-                        </persName>
-                        <birth>Né en 1646 ou 1648 à<placeName>Orléans
-                        </placeName><country corresp="#FRE">France</country></birth>
-                        <death>Mort en 1718 à <placeName>Londres 
-                        </placeName><country corresp="#GBR">Angleterre</country></death>
-                        <sex>Masculin</sex>
-                        <nationality>Française</nationality>
-                        <faith>Catholique puis Protestant</faith>
-                        <education/>
-                        <occupation>oratorien, professeur de théologie et de philosophie, théologien</occupation>
-                        <affiliation/>
-                        <socecStatus/>
-                        <note/>
-                        <event>
-                            <desc><date/></desc>
-                        </event>
-                        <idno type="ISNI">http://www.isni.org/isni/000000011576102X</idno>
-                        <idno type="URI">https://fr.wikipedia.org/wiki/Michel_Le_Vassor</idno>
-                    </person>
+                                     
 
                     <person xml:id="Legendre_ISN0000000033429162">
                         <persName>
@@ -6617,6 +6868,86 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/François_Le_Gendre</idno>               
                     </person>
 
+                    <person xml:id="Le_Notre_ISN0000000121318665">
+                        <persName>
+                            <forename>André</forename>
+                            <surname>Le Nôtre</surname>
+                            <roleName/>
+                            <addName>Bonhomme le Nôtre, Le Nostre</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1613-03-12">Né le 12 mars 1613 à <placeName>Paris
+                        </placeName><country corresp="#FRE">France</country></birth>
+                        <death when="1700-09-12">Mort le 15 septembre 1700 à <placeName>Paris
+                        </placeName><country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Jardinier Paysagiste</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>Naturaliste</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000121318665</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/André_Le_Nôtre</idno>
+                    </person>
+                    
+                    <person xml:id="Le_Vassor_ISN000000011576102X">
+                        <persName>
+                            <forename>Michel</forename>
+                            <surname>Le Vassor</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth>Né en 1646 ou 1648 à<placeName>Orléans
+                        </placeName><country corresp="#FRE">France</country></birth>
+                        <death>Mort en 1718 à <placeName>Londres 
+                        </placeName><country corresp="#GBR">Angleterre</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique puis Protestant</faith>
+                        <education/>
+                        <occupation>oratorien, professeur de théologie et de philosophie, théologien</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/000000011576102X</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Michel_Le_Vassor</idno>
+                    </person>
+                    
+                    <person xml:id="Lignières_ISN">
+                        <persName>
+                            <forename>François</forename>
+                            <surname>Payot de Lignières</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth>Né en 1616, 1626 ou 1628 à<placeName>Paris ou Senlis
+                        </placeName><country corresp="#FRE">France</country></birth>
+                        <death when="1704">Mort en 1704 à<placeName>Paris ou Senlis 
+                        </placeName><country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>poète satirique, controversiste</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Payot_de_Ligni%C3%A8res</idno>
+                    </person>
+
                     <person xml:id="de_Lingendes_ISN0000000000359778">
                         <persName>
                             <forename>Jean</forename>
@@ -6674,6 +7005,33 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/000000012132706X</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Juste_Lipse</idno>
+                    </person>
+                    
+                    <person xml:id="Locke_ISN">
+                        <persName>
+                            <forename>John</forename>
+                            <surname>Locke</surname>
+                            <roleName/>
+                            <addName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1632-08-29"> né le 29 août 1632 à <placeName>Wrington près de Bristol dans le Somerset</placeName>
+                            <country>Angleterre</country></birth>
+                        <death when="1704">Mort en 1704 à<placeName>Oates dans le comté d'Essex</placeName>
+                            <country>Angleterre</country></death>
+                        <nationality>Britannique</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation>professeur de grec et de rhétorique au Christ Church College d'Oxford, secrétaire de mission diplomatique,
+                        médecin et ami de lord Ashley, secrétaire du Board of Trade, philosophe, penseur de la tolérance...</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/John_Locke</idno>
                     </person>
 
                     <person xml:id="Loubere_ISN0000000080984046">
@@ -7130,6 +7488,7 @@
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Jean-Baptiste_Morin_de_Villefranche</idno>
                     </person>
+                    
 
                     <person xml:id="Morin_ISN0000000107867561">
                         <persName>
@@ -7157,6 +7516,35 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000107867561</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Pierre_Morin_(jardinier)</idno>
+                    </person>
+
+                    <person xml:id="Motin_ISN0000000063081179">
+                        <persName>
+                            <forename>Pierre</forename>
+                            <surname>Motin</surname>
+                            <roleName/>
+                            <addName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1566">né vers 1566 à
+                            <placeName>Bourges</placeName><country
+                                corresp="#FRE">France</country></birth>
+                        <death when="1612">mort vers 1612 à<placeName>Paris ou Bourges</placeName><country corresp="#FRE"
+                                >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>poète, traducteur, avocat à Paris, panégyriste d'Henri IV, auteur d'un ballet</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000063081179</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Pierre_Motin</idno>
                     </person>
 
                     <person xml:id="Nicaise_ISN0000000079724431">
@@ -7472,6 +7860,35 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Claude_Perrault</idno>
                     </person>
                     
+                    <person xml:id="Petit_ISN000000000090879X">
+                        <persName>
+                            <forename>Louis</forename>
+                            <surname>Petit</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1613">né vers 1613 ou 1614 à
+                            <placeName>Rouen</placeName><country corresp="#FRE"
+                                >France</country></birth>
+                        <death when="1693"> mort en 1693
+                            à<placeName>Rouen</placeName><country corresp="#FRE"
+                                >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>probablement Catholique</faith>
+                        <education/>
+                        <occupation>receveur général des domaines et du bois du roi, poète, moraliste mondain</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc/>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/000000000090879X</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Louis_Petit</idno>
+                    </person>
+                    
                     <person xml:id="Pinsson_ISN000000006140734X">
                         <persName>
                             <forename>François</forename>
@@ -7651,6 +8068,51 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/François_Rabelais</idno>
                     </person>
                     
+                    <person xml:id="Raguenet_ISN0000000062999324">
+                        <persName>
+                            <forename>François</forename>
+                            <surname>Raguenet</surname>
+                            <addName/>
+                            <abbr/>
+                            <roleName>Abbé</roleName>
+                        </persName>
+                        <birth when="1660">Né vers 1660 à<placeName>Rouen
+                        </placeName><country>France</country></birth>
+                        <death when="1720">Mort en 1720 ou 1722 à<placeName>?
+                        </placeName>France</death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>abbé, précepteur des neveux du cardinal de Bouillon, orateur, historien, romancien, controversiste...</occupation>
+                        <affiliation/>
+                        <note/>
+                        <idno type="ISNI">https://isni.org/isni/0000000062999324</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Raguenet</idno>
+                    </person>
+                    
+                    <person xml:id="Rampalle_ISN">
+                        <persName>
+                            <forename>Daniel Nicolas</forename>
+                            <surname>de Rampalle</surname>
+                            <addName>Rampale</addName>
+                            <abbr/>
+                            <roleName/>
+                        </persName>
+                        <birth when="1603">Né vers 1603 à<placeName>Sisteron
+                        </placeName><country>France</country></birth>
+                        <death when="1660">Mort vers 1660 à<placeName>?
+                        </placeName>France</death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>probablement Catholique</faith>
+                        <education/>
+                        <occupation>avocat, serviteur de la maison de Tournon, poète, dramaturge, traducteur, chiromancien</occupation>
+                        <affiliation/>
+                        <note/>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Daniel_de_Rampalle</idno>
+                    </person>
+                    
                     <person xml:id="Rebuffe_ISN0000000110551912">
                         <persName>
                             <forename>Pierre</forename>
@@ -7671,6 +8133,29 @@
                         <note/>
                         <idno type="ISNI">https://isni.org/isni/0000000110551912</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Pierre_Rebuffi</idno>
+                    </person>
+                    
+                    <person xml:id="Richelet_ISN0000000121451757">
+                        <persName>
+                            <forename>Pierre ou César-Pierre</forename>
+                            <surname>Richelet</surname>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1626">Né ven 1626 ou 1631 à<placeName>Cheminon en Champagne
+                        </placeName><country>France</country></birth>
+                        <death when="1698-11-23">Mort le 23 ou le 29 novembre 1698 à<placeName>Paris
+                        </placeName>France</death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>précepteur du fils du marquis de Courtrivon, régent au collège de Vitry-le-François,
+                        avocat à Paris, lexicographe, grammairien, traducteur, controversiste...</occupation>
+                        <affiliation/>
+                        <note/>
+                        <idno type="ISNI">https://isni.org/isni/0000000121451757</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/C%C3%A9sar-Pierre_Richelet</idno>
                     </person>
 
                     <person xml:id="Rondelet_ISN000000010855716X">
@@ -7972,6 +8457,34 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000354682310</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Joannes_Scapula</idno>
                     </person>
+                    
+                    <person xml:id="Serre_ISN">
+                        <persName>
+                            <forename>Jean</forename>
+                            <surname>Puget de la Serre</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1595">Né en 1595 ou vers 1600 à<placeName>Toulouse</placeName><country corresp="#FRE"
+                            >France</country></birth>
+                        <death when="1665">Mort en juillet 1665 probablement à <placeName>Paris </placeName><country
+                            corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>écrivain, historiographe de France, historien, conseiller d'état, panégyriste, romancier,
+                        dramaturge, auteur d'ouvrages de philosophie, de piété et de morale...</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000120990281</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Jean_Puget_de_La_Serre</idno>
+                    </person>
                      
 
                     <person xml:id="Sherlock_ISN0000000108038853">
@@ -8079,6 +8592,7 @@
                                 jésuite français, historien et patrologue</note></persName>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jacques_Sirmond</idno>
                     </person>
+                    
                     <person xml:id="Soleisel_ISN0000000072448067">
                         <persName>
                             <forename>Jacques </forename>
@@ -8114,6 +8628,31 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jacques_de_Solleysel</idno>
                     </person>
                     
+                    <person xml:id="Soreau_ISN">
+                        <persName>
+                            <forename>Antoine</forename>
+                            <surname>Soreau</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1620">né vers 1620 en<placeName>Touraine</placeName>
+                            <country corresp="#FRE">France</country></birth>
+                        <death when="1675">mort vers 1675 à<placeName>?</placeName><country
+                            corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>probablement catholique</faith>
+                        <education/>
+                        <occupation>avocat au Parlement de Paris, jurisconsulte, traducteur</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                    </person>
+                    
                     <person xml:id="Spanheim_ISN0000000108784071">
                         <persName>
                             <forename>Ezechiel</forename>
@@ -8122,7 +8661,7 @@
                             <addName/>
                             <abbr/>
                         </persName>
-                        <birth when="1629-12-07">né le 7 décembre 16289 à<placeName>Genève</placeName>
+                        <birth when="1629-12-07">né le 7 décembre 1629 à<placeName>Genève</placeName>
                             <country>Genève</country></birth>
                         <death when="1710-11-07">mort le 7 novembre 1710 à<placeName>Londres</placeName><country
                             corresp="#GBR">Angleterre</country></death>
@@ -8410,7 +8949,7 @@
                     
                     <person xml:id="Thiers_ISN0000000108644060">
                         <persName>
-                            <forename>Jean Charles</forename>
+                            <forename>Jean Baptiste</forename>
                             <surname>Thiers</surname>
                             <roleName/>
                             <addName/>
@@ -8434,6 +8973,34 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000108644060</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jean-Baptiste_Thiers</idno>
+                    </person>
+
+                    <person xml:id="Thomassin_ISN0000000081299550">
+                        <persName>
+                            <forename>Louis</forename>
+                            <surname>Thomassin</surname>
+                            <roleName/>
+                            <addName>le Père Thomassin</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1619-08-28">né le 28 août 1619 à<placeName>Aix-en-Provence</placeName><country corresp="#FRE"
+                                >France</country></birth>
+                        <death when="1695-12-24">mort le 24 décembre 1695 à<placeName>Paris</placeName><country
+                            corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>prêtre oratorien, professseur de belles-lettres/philosophie/humanités/théologie positive,
+                        conférencien, théologien, canoniste, pédagogue...</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000081299550</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Louis_Thomassin</idno>
                     </person>
 
                     <person xml:id="Tonti_ISN000000036158329X">
@@ -8463,6 +9030,7 @@
                         <idno type="ISNI">http://www.isni.org/isni/000000036158329X</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Lorenzo_Tonti</idno>
                     </person>
+                    
                     <person xml:id="Tournefort_ISN0000000120999374">
                         <persName>
                             <forename>Joseph</forename>
@@ -8502,6 +9070,50 @@
                             >https://fr.wikipedia.org/wiki/Joseph_Pitton_de_Tournefort</idno>
                     </person>
                     
+                    <person xml:id="Tristan_L_Hermite_ISN0000000120310178">
+                        <persName>
+                            <forename>François</forename>
+                            <surname>de l'Hermite du Soliers</surname>
+                            <abbr/>
+                            <addName>Tristan l'Hermite</addName>
+                        </persName>
+                        <birth when="1601">né en 1601 au <placeName>château de Soliers à Janaillat dans la Marche</placeName>
+                            <country corresp="#FRE">France</country></birth>
+                        <death when="1655-09-07">mort le 7 septembre 1655 à<placeName>Paris</placeName>
+                            <country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <faith>Catholique</faith>
+                        <nationality>Française</nationality>
+                        <education/>
+                        <occupation>page à la cour d'Henri IV, précepteur, bibliothécaire de Scévole de Sainte-Marthe, secrétaire
+                        du marquis de Villars, au service de Gaston d'Orléans, poète, dramaturge, romancier...</occupation>
+                        <note/>
+                        <idno type="ISNI">https://isni.org/isni/0000000120310178</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Fran%C3%A7ois_L%27Hermite</idno>
+                    </person>
+                    
+                    <person xml:id="Van_Helmont_ISN0000000116168850">
+                        <persName>
+                            <forename>Jean-Baptiste</forename>
+                            <surname> Van Helmont</surname>
+                            <abbr>Van Hel</abbr>
+                        </persName>
+                        <birth when="1579-01-12">12 Janvier 1579 <placeName>Bruxelles
+                            (Belgique)</placeName>
+                            <country>Pays Bas Espagnols</country></birth>
+                        <death when="1644-12-30">30 décembre 1644 <placeName>Vilvorde</placeName>
+                            <country>Pays Bas Espagnols</country></death>
+                        <sex>Masculin</sex>
+                        <faith>Catholique</faith>
+                        <nationality>Pays bas espagnols</nationality>
+                        <education>Université du duché de Brabant (devenue l'Université catholique
+                            de Louvain</education>
+                        <note>alchimiste, chimiste, physiologiste et médecin. </note>
+                        <idno>ISN:0000000116168850</idno>
+                        <idno type="URI"
+                            >https://fr.wikipedia.org/wiki/Jean-Baptiste_Van_Helmont</idno>
+                    </person>
+                    
                     <person xml:id="Vanel_ISN">
                         <persName>
                             <forename>Claude</forename>
@@ -8525,7 +9137,27 @@
                         <idno type="URI">https://www.idref.fr/074002910</idno>
                     </person>
 
-                    
+                    <person xml:id="Vasconcelle_ISN0000000042467507">
+                        <persName>
+                            <forename>Louise Geneviève</forename>
+                            <surname>Gilot de Beaucour dame Gomez de Vasconcelle</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth>Né au XVIIe siècle au<country>Portugal</country></birth>
+                        <death>Morte au XVIIe siècle ou peut-être en 1718 à<placeName>Paris</placeName><country corresp="#FRE">France</country></death>
+                        <sex>Félinin</sex>
+                        <nationality>Portugaise</nationality>
+                        <faith>probablement Catholique</faith>
+                        <education/>
+                        <occupation>femme de lettres, poétesse, traductrice</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event><desc></desc></event> 
+                        <idno type="ISNI">http://www.isni.org/isni/0000000042467507</idno>
+                    </person>
 
                     <person xml:id="Villars_ISN0000000121185233">
                         <persName>
@@ -9550,6 +10182,7 @@
                     <gloss xml:id="term_confiseur">
                         <name>confiseur</name>
                     </gloss>
+                    <gloss xml:id="term_conversation"><name>conversation</name></gloss>
                     <gloss xml:id="term_cordier">
                         <name>cordier</name>
                     </gloss>
@@ -9611,6 +10244,7 @@
                     <gloss xml:id="term_eperonnier">
                         <name>eperonnier</name>
                     </gloss> 
+                    <gloss xml:id="evangile"><name>evangile</name></gloss>
                     <gloss xml:id="term_faiseur_de_boucles"><name>faiseur de boucles</name></gloss>
                     
                     <gloss xml:id="term_faucheur">
@@ -9619,6 +10253,7 @@
                     <gloss xml:id="term_fauconnerie">
                         <name>fauconnerie</name>
                     </gloss>
+                    <gloss xml:id="ferandinier"><name>ferandinier</name></gloss>
                     <gloss xml:id="term_fiefs">
                         <name>fiefs</name>
                     </gloss>
@@ -9779,6 +10414,7 @@
                     <gloss xml:id="term_mesureurs">
                         <name>mesureurs</name>
                     </gloss>
+                    <gloss xml:id="term_metteur_en_oeuvre"><name>metteur_en_oeuvre"</name></gloss>
                     <gloss xml:id="term_monnoye_monnoyes">
                         <name>monnoye/monnoyes</name>
                     </gloss>
