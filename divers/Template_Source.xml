@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <div>
+            <listPerson>
+               <person xml:id="Aba_ISN0000000083391828">
+                  <persName>
+                     <forename>Jacques </forename>
+                     <surname>Abbadie</surname>
+                     <roleName>Mr.</roleName>
+                     <addName>Abadie</addName>
+                     <abbr>ab ou abs</abbr></persName>
+                  <birth when="1654">né en 1654 à <placeName>Nay</placeName><country corresp="#FRE"
+                        >France</country></birth>
+                  <death when="1727-09-25">mort le 25 septembre 1727 à <placeName>Marylebone
+                        </placeName><country corresp="#GBR">Royaume-Uni</country></death>
+                  <sex>Masculin</sex>
+                  <nationality>Française </nationality>
+                  <faith>Protestant <note>calviniste</note></faith> 
+                  <note>théologien protestant français,  auteur, apologiste  </note>
+                  <education>Éduqué aux académies de Puylaurens, de Saumur et de Sedan <note>élève
+                        de Jean de La Placette (pasteur à Nay et moraliste) – à Sedan, obtient le
+                        grade de docteur en théologie</note></education><education></education>
+                  <occupation>pasteur, <listEvent><event><desc>ministre du Refuge huguenot : à Berlin <date></date>, puis Eglise de
+                        la Savoie à Londres <date></date>, </desc></event>
+                  <event><desc>prédicateur ordinaire du Grand Electeur, <date></date> </desc></event><event when="1699">
+                     <label>Dean of Killaloe and Clonfert</label>
+                  </event></listEvent><note>doyen de
+                        Killaloe (Irlande) </note>
+                  </occupation>
+                  <affiliation/>
+                  <socecStatus/>
+                  <listBibl>
+                     <bibl><title>Traité de la vérité de la religion chrétienne / Panégyrique de Monsieur
+                     l’Electeur de Brandebourg,</title> 
+                        <date></date>
+                        <publisher>Reinier Leers, </publisher>
+                       <pubPlace>Rotterdam</pubPlace> 
+                     </bibl>
+                  <bibl><title>Reflexions sur la
+                     Présence réelle du Corps de Jesus Christ dans l’Eucharistie,</title>
+                     <publisher></publisher>
+                     <pubPlace>La Haye</pubPlace></bibl>
+                     
+                     <bibl><title>Traité
+                     de la Divinité de Nôtre Seigneur Jésus Christ / L’Art de se connoître soi-même
+                     [...], etc. / il veut réconcilier la Révélation et la raison, la foi et la
+                     science</title>
+                     <!-- trois livres? -->
+                     </bibl>
+                  </listBibl>
+                  
+                <note type="sources"><!-- je ne sais pas comment mettre une liste sans répéter chaque fois. A creuser --></note> 
+                  <idno type="ISNI">http://www.isni.org/isni/0000000083391828</idno>
+                  <idno type="URI">https://fr.wikipedia.org/wiki/Jacques_Abbadie</idno>
+               </person>
+
+            </listPerson>
+         </div>
+      </body>
+   </text>
+</TEI>

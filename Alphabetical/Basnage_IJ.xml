@@ -10,7 +10,7 @@
                 <title type="main" xml:lang="fre">Dictionnaire universel contenant généralement tous
                     les mots françois tant vieux que modernes et les termes des sciences et des
                     arts,.... 1701. - Une édition numérique</title>
-                <title type="sub">Lettre C</title>
+                <title type="sub">Lettres IJ</title>
                 <author key="Basnage, Henri (1657-1710)"
                     corresp="http://www.isni.org/isni/0000000080773257">
                     <forename>Henri</forename>
@@ -35,6 +35,8 @@
                         <addrLine xml:base="www.licorn-research.fr"
                             >www.licorn-research.fr</addrLine>
                     </address>
+                    <note>Les versions à jour des fichiers XML sont disponibles sur Nakala</note><address><idno type="URI">https://nakala.fr/collection/11280/f8aeea42</idno></address>
+                   
                 </pubPlace>
                 <idno type="tei">http://le-chemin-vers-le-fichier-basnage-sitemap.xml</idno>
                 <availability>
@@ -824,7 +826,7 @@
                             <surname>Galibart de Capistron</surname>
                             <forename>Jean</forename>
                             <addName>Campistron</addName>
-                            <abbr>Cap</abbr></persName>
+                            <abbr>Cap</abbr><abbr>Capist</abbr></persName>
                         <birth when="1656-08-03">né le 3 août 1656, à
                                 <placeName>Toulouse</placeName><country corresp="#FRE"
                                 >France</country></birth>
@@ -3970,6 +3972,35 @@
                         
                         <note>auteur d'un traité de la divine psalmodie ou chant d'Eglise</note>
                     </person>
+                    
+                    <person xml:id="Bergier_ISN0000000079743464">
+                        <persName>
+                            <forename>Nicolas</forename>
+                            <surname>Bergier</surname>
+                            <roleName/>
+                            <addName>Berger</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1567-03-01">né le 1er mars 1567 à
+                            <placeName>Reims</placeName><country corresp="#FRE"
+                                >France</country></birth>
+                        <death when="1623-08-18">mort le 18 août 1623 au
+                            <placeName>château de Grignon</placeName><country corresp="#FRE"
+                                >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education>Université de Reims</education>
+                        <occupation>professeur d'humanités, de belles-lettres, précepteur, avocat, syndic de Reims, historiographe de France, poète...</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/> 
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000079743464</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Nicolas_Bergier</idno>
+                    </person>
 
                     <person xml:id="Bernier_ISN0000000110224698">
                         <persName>
@@ -4028,6 +4059,8 @@
                         <idno type="ISNI">https://isni.org/isni/0000000081351996</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Pierre_Besnier</idno>
                     </person>
+                    
+                
 
                     <person xml:id="Bèze_ISN0000000121371511">
                         <persName>
@@ -4053,6 +4086,33 @@
                         <event><desc></desc></event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000121371511</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Th%C3%A9odore_de_B%C3%A8ze</idno>
+                    </person>
+                    
+                    <person xml:id="Biringuccio_ISN0000000121349138">
+                        <persName>
+                            <forename>Vannoccio</forename>
+                            <surname>Biringuccio</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1480">né en 1480 à
+                            <placeName>Sienne</placeName><country corresp="#ITA">Italie</country></birth>
+                        <death when="1537">mort en 1537 ou 1539 probablement à
+                            <placeName>Sienne</placeName><country corresp="#ITA">Italie</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Italienne, Siennoise</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>au service de la famille Petrucci de Sienne, responsable des mines de fer de Boccheggiano et des mines d'argent
+                        de Carnia, ouvrier de l'arsenal communal de Sienne, responsable de la fabrication de la monnaie à Sienne, ingénieur d'artillerie,
+                        architecte...</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event><desc></desc></event>
+                        <idno type="ISNI">https://isni.org/isni/0000000121349138</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Vannoccio_Biringuccio</idno>
                     </person>
                     
 
@@ -4082,6 +4142,34 @@
                         <idno type="ISSN">http://www.isni.org/isni/0000000063182535</idno>
                         <idno type="URI">https://en.wikipedia.org/wiki/Gerard_Boate</idno>
                     </person>
+                    
+                    
+                    <person xml:id="Bohier_ISN0000000121210574">
+                        <persName>
+                            <forename>Nicolas</forename>
+                            <surname>Bohier</surname>
+                            <roleName/>
+                            <addName>Boyer, le Président Boyer</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1480-05">né en mai 1469 à
+                            <placeName>Montpellier</placeName><country corresp="#FRE">France</country></birth>
+                        <death when="1539-06-10">mort le 10 ou 17 juin 1539 à
+                            <placeName>Bordeaux</placeName><country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>avocat et professeur de droit à Bourges, conseiller du Grand Conseil, président à mortier du
+                        Parlement de Bordeaux, juriste</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event><desc></desc></event>
+                        <idno type="ISNI">https://isni.org/isni/0000000121210574</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Nicolas_Bohier</idno>
+                    </person>
+                    
                     <person xml:id="Bonnefons_ISN0000000062999455">
                         <persName>
                             <forename>Nicolas</forename>
@@ -4222,7 +4310,7 @@
                             <forename>Robert</forename>
                             <surname>Boyle</surname>
                             <roleName/>
-                            <addName/>
+                            <addName>Boile</addName>
                             <abbr/>
                         </persName>
                         <birth when="1627-01-27">Né le 25 janvier 1627,<placeName>Chateau de
@@ -4458,6 +4546,33 @@
                         <idno type="URI">https://en.wikipedia.org/wiki/Edward_Chamberlayne</idno>
                     </person>
                     
+                    <person xml:id="Chambre_ISN0000000109233829">
+                        <persName>
+                            <forename>Marin</forename>
+                            <surname>Cureau de la Chambre</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1596">Né en 1596 ou 1594 à<placeName>Saint Jean d'Assé près du Mans</placeName><country
+                            corresp="#FRE">France</country></birth>
+                        <death when="1669-11-29">Mort le 29 novembre ou décembre 1669 à<placeName>Paris</placeName><country
+                            corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>française</nationality>
+                        <faith/>
+                        <education/>
+                        <occupation>médecin du chancelier Séguier, médecin ordinaire du roi, physicien, philosophe, controversiste...</occupation>
+                        <affiliation>Académie française</affiliation>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000109233829</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Marin_Cureau_de_La_Chambre</idno>
+                    </person>
+                    
                     <person xml:id="Chevreau_ISN0000000083429427">
                         <persName>
                             <forename>Urbain</forename>
@@ -4597,8 +4712,35 @@
                         <idno type="URI">https://en.wikipedia.org/wiki/Carolus_Clusius</idno>
                     </person>
                     
+                    <person xml:id="Colombière_ISN0000000107855085">
+                        <persName>
+                            <forename>Marc</forename>
+                            <surname>de Vulson de la Colombière</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth>né en ? probablement dans le<placeName>Dauphiné, peut-être à Grenoble</placeName><country corresp="#FRE"
+                            >France</country></birth>
+                        <death when="1658">mort en 1658 probablement à<placeName>Paris</placeName><country corresp="#FRE"
+                            >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation>militaire dans un régiment de cavalerie, gentilhomme ordinaire de la chambre du roi,
+                         héraldiste, chevalier de l'ordre de Saint-Michel</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000107855085</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Marc_de_Vulson_de_La_Colombi%C3%A8re</idno>
+                    </person>
+                    
                     <person xml:id="Col_ISN0000000108771393">
-
                         <persName>
                             <forename>Paul</forename>
                             <surname>Colomiès</surname>
@@ -4814,6 +4956,30 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jean_Daillé</idno>
                     </person>
                     
+                    <person xml:id="Davelourt_ISN0000000078375348">
+                        <persName>
+                            <forename>Daniel</forename>
+                            <surname>Davelourt</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth>né dans la 2e moitiè du XVIe siècle en<country>Ecosse</country></birth>
+                        <death>mort dans la 1ère moitié du XVIIe siècle probablement en<country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Ecossaise</nationality>
+                        <faith>?</faith>
+                        <education/>
+                        <occupation>officier d'artillerie, homme de lettres, auteur d'ouvrages sur l'artillerie</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISSN">http://www.isni.org/isni/0000000078375348</idno>
+                    </person>
+                    
                     <person xml:id="Davy_du_Perron_ISN0000000121236301">
                         <persName>
                             <forename>Jacques</forename>
@@ -4844,6 +5010,35 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jacques_Davy_du_Perron</idno>
                     </person>
 
+                    <person xml:id="Denys_ISN0000000118877087">
+                        <persName>
+                            <forename>Nicolas</forename>
+                            <surname>Denys</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1603-06-02">né le 2 juin 1603 à 
+                            <placeName>Tours</placeName><country corresp="#FRE"
+                                >France</country></birth>
+                        <death when="1688">mort en 1688
+                            à<placeName>Nipisiguit en Acadie</placeName><country>Canada</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith/>
+                        <education/>
+                        <occupation>marchand, représentant de la Compagnie de la Nouvelle-France, colon, entrepreneur, seigneur concessionnaire
+                        de terres en Acadie...</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISSN">https://isni.org/isni/0000000118877087</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Nicolas_Denys</idno>
+                    </person>
+                    
 
                     <person xml:id="Descartes_ISN0000000121296144">
                         <persName>
@@ -4985,6 +5180,34 @@
                         <idno type="URI"/>
                     </person>
                     
+                    <person xml:id="Dodart_ISN0000000066486606">
+                        <persName>
+                            <forename>Denis</forename>
+                            <surname>Dodart</surname>
+                            <roleName/>
+                            <addName>Dodard</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1634">né en 1634 à<placeName>Paris</placeName><country corresp="#FRE"
+                            >France</country></birth>
+                        <death when="1707-11-05">mort le 5 novembre 1707 à<placeName>Paris</placeName><country corresp="#FRE"
+                            >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique, proche des jansénistes</faith>
+                        <education/>
+                        <occupation>médecin de la duchesse de Longueville et de la princesse douairère de Conti, membre de l'Académie royale 
+                        des sciences, conseiller médecin du roi, botaniste, physionomiste, musicien...</occupation>
+                        <affiliation>Académie royale des sciences</affiliation>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000066486606</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Denis_Dodart</idno>
+                    </person>
+                    
                     <person xml:id="Dodwell_ISN0000000083397066">
                         <persName>
                             <forename>Henry</forename>
@@ -5072,6 +5295,33 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jean_Donneau_de_Visé</idno>
                     </person>
 
+                    <person xml:id="Drelincourt_ISN0000000080760376">
+                        <persName>
+                            <forename>Charles</forename>
+                            <surname>Drelincourt</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1595-07-10">né le 10 juillet 1595 à
+                            <placeName>Sedan</placeName><country>Principauté de Sedan</country></birth>
+                        <death when="1669-11-03"> Mort le 3 novembre 1669 à <placeName>Paris</placeName><country
+                            corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Sedanaise, Française</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation>pasteur de Charenton, prédicateur, controversiste, théologien</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000080760376</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Charles_Drelincourt_(pasteur)</idno>
+                    </person>
+
                     <person xml:id="Du_Cange_ISN0000000121021239">
                         <persName>
                             <forename>Charles </forename>
@@ -5137,6 +5387,61 @@
                         <idno type="URI"
                             >https://www.wikimanche.fr/Claude_Dufour_de_la_Crespelière</idno>
                     </person>
+                    
+                    <person xml:id="Du_Jarry_ISN0000000139916057">
+                        <persName>
+                            <forename>Laurent</forename>
+                            <surname>Jullard</surname>
+                            <roleName>abbé du Jarry</roleName>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1658">né vers 1658 à <placeName>Jarry près de Saintes
+                        </placeName><country>France</country></birth>
+                        <death when="1730">mort en 1730 (ou 1718) dans <placeName>le prieuré de Notre-Dame du Jarry, diocèse de Saintes
+                        </placeName><country>France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>prêtre, prieur de Notre-Dame du Jarry, prédicateur, poète, auteur d'ouvrage sur la prédication et l'éloquence</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno>http://www.isni.org/isni/0000000362079618</idno>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000139916057</idno>
+                    </person>
+
+                    <person xml:id="Du_Ryer_ISN0000000110211360">
+                        <persName>
+                            <forename>Pierre</forename>
+                            <surname>Du Ryer</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1600">né vers 1600 ou 1605 probablement à<placeName>Paris
+                        </placeName><country>France</country></birth>
+                        <death when="1658-10-06">mort le 6 octobre ou novembre 1658 à<placeName>Paris
+                        </placeName><country>France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>secrétaire de la chambre du roi, avocat au Parlement, secrétaire du duc de Vendôme, auteur dramatique,
+                        traducteur, historiographe de France</occupation>
+                        <affiliation>Académie française</affiliation>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Pierre_Du_Ryer</idno>
+                        <idno type="ISNI">https://isni.org/isni/0000000110211360</idno>
+                    </person>
 
                     <person xml:id="Dutertre_ISN0000000077287645">
                         <persName>
@@ -5163,6 +5468,34 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000077287645</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jean-Baptiste_Du_Tertre</idno>
                     </person>
+                    
+                    <person xml:id="Du_Tillet_ISN0000000447072028">
+                        <persName>
+                            <forename>Jean</forename>
+                            <surname>Du Tillet</surname>
+                            <roleName/>
+                            <addName>sieur de la Bussière</addName>
+                            <abbr/>
+                        </persName>
+                        <birth>?<placeName>Paris</placeName><country>France</country></birth>
+                        <death when="16570-10-02">mort le 2 octobre 1570 à<placeName>Paris</placeName><country>France</country></death>
+                        <sex/>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>greffier en chef du parlement de Paris, responsable de recherches dans le trésor des Chartes,
+                        pronotaire et secrétaire du roi, controversiste...</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000447072028</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Jean_du_Tillet_(sieur_de_La_Bussi%C3%A8re)</idno>
+                    </person>
+                    
+                    
                     <person xml:id="Dubois_0000000121022629">
                         <persName>
                             <forename>Guillaume</forename>
@@ -5453,6 +5786,31 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Abel_Foullon</idno>                     
                     </person>
                     
+                    <person xml:id="Fourcroy_isni0000000017469498">
+                        <persName>
+                            <forename>Bonaventure</forename>
+                            <surname>de Fourcroy</surname>
+                            <roleName>Abbé Fourcroy</roleName>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when-custom="circa_1610"><placeName>Clermont-en-Beauvoisis</placeName><country>France</country></birth>
+                        <death when="1691-06-25"><placeName></placeName><country>France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Avocat</occupation>
+                        <affiliation/>
+                        <socecStatus>Abbé</socecStatus>
+                        <note>Notice dans Richelet 1732</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000017469498</idno>
+                        <idno type="URI">https://promenadesculturelles.jimdofree.com/littérature-du-xvii-siècle/fourcroy-bonaventure-de/</idno>
+                    </person>
+                    
                     <person xml:id="Fournier_ISN000000010814789X">
                         <persName>
                             <forename>Georges</forename>
@@ -5512,6 +5870,32 @@
                         </event>
                         <idno type="ISSN">http://www.isni.org/isni/0000000080760923</idno>
                         <idno type="URI"/>
+                    </person>
+                    
+                    <person xml:id="Froissart_ISN0000000448844923">
+                        <persName>
+                            <forename>Jean</forename>
+                            <surname>Froissart</surname>
+                            <addName/>
+                        </persName>
+                        <birth when="1337">né vers 1337 à<placeName>Valenciennes dans le Hainaut (alors autonome)</placeName>
+                            <country corresp="#FRE">France</country></birth>
+                        <death>mort après 1404 probablement à<placeName>Chimay dans le Hainaut</placeName>
+                            <country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality/>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>curé de Lestinnes-au-Mont, chanoine de Chimay, chapelain de Guy de Blois, coutelier, chroniqueur, poète</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <education/>
+                        <event>
+                            <desc></desc>
+                        </event>
+                        <idno type="ISSN">https://isni.org/isni/0000000448844923</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Jean_Froissart</idno>
                     </person>
 
 
@@ -5597,6 +5981,32 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000109475932</idno>
                         <idno type="URI">https://data.bnf.fr/fr/13021410/jacques_gaultier/</idno>
+                    </person>
+                    
+                    <person xml:id="Gaya_ISN0000000081093376">
+                        <persName>
+                            <forename>Louis</forename>
+                            <surname>de Gaya</surname>
+                            <abbr/>
+                            <addName>sieur de Tréville</addName>
+                        </persName>
+                        <birth>né au XVIIe siècle à<placeName>?
+                        </placeName>en<country corresp="#FRE">France</country></birth>
+                        <death>mort au XVIIe siècle ou au début du XVIIIe siècle à<placeName>?</placeName>en France
+                            <country corresp="#FRE">France</country>
+                        </death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>capitaine au régiment de Champagne, historien, généalogiste, auteur d'ouvrage sur la guerre</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000081093376</idno>
                     </person>
                     
                     <person xml:id="Gerberon_ISN0000000121034208">
@@ -5963,6 +6373,83 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000066309407</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jean_Hermant</idno>
                     </person>
+                    
+                    <person xml:id="Heron_ISN0000000107979256">
+                        <persName>
+                            <forename>Heron</forename>
+                            <surname/>
+                            <roleName/>
+                            <addName>d'Alexandrie</addName>
+                            <abbr/>
+                        </persName>
+                        <birth>date inconnue, probablement au Ier siècle de notre ère à<placeName>Alexandrie</placeName><country>Egypte</country></birth>
+                        <death>date inconnue<placeName>lieu inconnu</placeName></death>
+                        <sex>Masculin</sex>
+                        <nationality/>
+                        <faith>Païen</faith>
+                        <education/>
+                        <occupation>mathématicien, géomètre, mécanicien, ingénieur, phyisicien, opticien, inventeur</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000107979256</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/H%C3%A9ron_d%27Alexandrie</idno>
+                    </person>
+                    
+                    <person xml:id="Herrera_ISN0000000121276661">
+                        <persName>
+                            <forename>Antoine</forename>
+                            <surname>de Herrera</surname>
+                            <roleName/>
+                            <addName>Antonio de Herrera y Tordesillas</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1559">né en 1559 à<placeName>Cuellar dans la province de Ségovie</placeName><country corresp="#ESP">Espagne</country></birth>
+                        <death when="1625-03-27">mort le 27 ou le 29 mars 1625 à<placeName>Madrid</placeName><country corresp="#ESP">Espagne</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>espagnole</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>secrétaire de Vespasien de Gonzague vice-roi de Navarre puis de Valence, premier historiogphe des Indes, historiographe
+                        de Castille, secrétaire d'état, historien, traducteur...</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000121276661</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Antonio_de_Herrera_y_Tordesillas</idno>
+                    </person>
+                    
+                    <person xml:id="Hooke_ISN0000000110237616">
+                        <persName>
+                            <forename>Robert</forename>
+                            <surname>Hooke</surname>
+                            <roleName/>
+                            <addName>Hook</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1635-07-18">né le 18 juillet 1635 à<placeName>Freshwater sur l'ile de Wight</placeName><country>Angleterre</country></birth>
+                        <death when="1703-03-03">mort le 3 mars 1703 à<placeName>Londres</placeName><country>Angleterre</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>britannique</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation>choriste puis serviteur/assistant au Christ Church College d'Oxford, responsable des expérience scientifiques
+                        à la Royal Society, professeur de géométrie au Gresham College de Londres, lecteur en mécanique, etc.</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000110237616</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Robert_Hooke</idno>
+                    </person>
 
                     <person xml:id="Huet_ISN000000011020315X">
                         <persName>
@@ -5992,27 +6479,7 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Pierre-Daniel_Huet</idno>
                     </person>
 
-                    <person xml:id="Van_Helmont_ISN0000000116168850">
-                        <persName>
-                            <forename>Jean-Baptiste</forename>
-                            <surname> Van Helmont</surname>
-                            <abbr>Van Hel</abbr>
-                        </persName>
-                        <birth when="1579-01-12">12 Janvier 1579 <placeName>Bruxelles
-                                (Belgique)</placeName>
-                            <country>Pays Bas Espagnols</country></birth>
-                        <death when="1644-12-30">30 décembre 1644 <placeName>Vilvorde</placeName>
-                            <country>Pays Bas Espagnols</country></death>
-                        <sex>Masculin</sex>
-                        <faith>Catholique</faith>
-                        <nationality>Pays bas espagnols</nationality>
-                        <education>Université du duché de Brabant (devenue l'Université catholique
-                            de Louvain</education>
-                        <note>alchimiste, chimiste, physiologiste et médecin. </note>
-                        <idno>ISN:0000000116168850</idno>
-                        <idno type="URI"
-                            >https://fr.wikipedia.org/wiki/Jean-Baptiste_Van_Helmont</idno>
-                    </person>
+                   
 
                     <person xml:id="Isidore_ISN0000000122756296">
                         <persName>
@@ -6347,6 +6814,37 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Philippe_Labbe</idno>
                     </person>
 
+                    <person xml:id="Lamy_ISN0000000083430452">
+                        <persName>
+                            <forename>Bernard</forename>
+                            <surname>Lamy</surname>
+                            <roleName/>
+                            <addName>le Père Lamy</addName>
+                            <abbr/>
+                            <date>1607-1667</date></persName>
+                        <birth when="1640-06">né en juin 1640 au
+                            <placeName>Mans</placeName><country corresp="#FRE"
+                                >France</country></birth>
+                        <death when="1715-01-29">mort le 29 janvier 1715 à
+                            <placeName>Rouen</placeName>
+                            <country corresp="#FRE">France</country>
+                        </death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>prêtre oratorien, professeur de lettres classiques, de philosophie, de théologie, mathématicien, physicien,
+                        pédagogue, historien, théologien, controversiste...</occupation>
+                        <affiliation>Oratoriens</affiliation>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc/>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000083430452</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Bernard_Lamy</idno>
+                    </person>
+
                     <person xml:id="Lancelot_ISN000000010891610X">
                         <persName>
                             <forename>Claude</forename>
@@ -6470,6 +6968,33 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000121222524</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/André_du_Laurens</idno>
                     </person>
+                    
+                    <person xml:id="Le_Bret_ISN0000000083489032">
+                        <persName>
+                            <forename>Cardin</forename>
+                            <surname>Le Bret</surname>
+                            <roleName>seigneur de Flacourt</roleName>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1558">né en 1558 probablement à
+                            <placeName>Paris</placeName>en<country corresp="#FRE">France</country></birth>
+                        <death when="1655-01-24">mort le 24 janvier 1655 à <placeName>Paris</placeName>en <country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>avocat général de la cour des aides de Paris, avocat général au Parlement de Paris, conseiller de Richelieu,
+                        conseiller d'Etat ordinaire, intendant des Trois Évêchés, penseur politique, jurisconsulte...</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000083489032</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Cardin_Lebret_(1558-1655)</idno>
+                    </person>
 
                     <person xml:id="Le_Fevre_ISN0000000122827058">
                         <persName>
@@ -6500,60 +7025,7 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000122827058 </idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Anne_Dacier</idno>
                     </person>
-                    
-                    <person xml:id="Le_Notre_ISN0000000121318665">
-                        <persName>
-                            <forename>André</forename>
-                            <surname>Le Nôtre</surname>
-                            <roleName/>
-                            <addName>Bonhomme le Nôtre, Le Nostre</addName>
-                            <abbr/>
-                        </persName>
-                        <birth when="1613-03-12">Né le 12 mars 1613 à <placeName>Paris
-                        </placeName><country corresp="#FRE">France</country></birth>
-                        <death when="1700-09-12">Mort le 15 septembre 1700 à <placeName>Paris
-                        </placeName><country corresp="#FRE">France</country></death>
-                        <sex>Masculin</sex>
-                        <nationality>Française</nationality>
-                        <faith>Catholique</faith>
-                        <education/>
-                        <occupation>Jardinier Paysagiste</occupation>
-                        <affiliation/>
-                        <socecStatus/>
-                        <note>Naturaliste</note>
-                        <event>
-                            <desc><date/></desc>
-                        </event>
-                        <idno type="ISNI">http://www.isni.org/isni/0000000121318665</idno>
-                        <idno type="URI">https://fr.wikipedia.org/wiki/André_Le_Nôtre</idno>
-                    </person>
-                    
-                    <person xml:id="Le_Vassor_ISN000000011576102X">
-                        <persName>
-                            <forename>Michel</forename>
-                            <surname>Le Vassor</surname>
-                            <roleName/>
-                            <addName/>
-                            <abbr/>
-                        </persName>
-                        <birth>Né en 1646 ou 1648 à<placeName>Orléans
-                        </placeName><country corresp="#FRE">France</country></birth>
-                        <death>Mort en 1718 à <placeName>Londres 
-                        </placeName><country corresp="#GBR">Angleterre</country></death>
-                        <sex>Masculin</sex>
-                        <nationality>Française</nationality>
-                        <faith>Catholique puis Protestant</faith>
-                        <education/>
-                        <occupation>oratorien, professeur de théologie et de philosophie, théologien</occupation>
-                        <affiliation/>
-                        <socecStatus/>
-                        <note/>
-                        <event>
-                            <desc><date/></desc>
-                        </event>
-                        <idno type="ISNI">http://www.isni.org/isni/000000011576102X</idno>
-                        <idno type="URI">https://fr.wikipedia.org/wiki/Michel_Le_Vassor</idno>
-                    </person>
+                                     
 
                     <person xml:id="Legendre_ISN0000000033429162">
                         <persName>
@@ -6618,6 +7090,86 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/François_Le_Gendre</idno>               
                     </person>
 
+                    <person xml:id="Le_Notre_ISN0000000121318665">
+                        <persName>
+                            <forename>André</forename>
+                            <surname>Le Nôtre</surname>
+                            <roleName/>
+                            <addName>Bonhomme le Nôtre, Le Nostre</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1613-03-12">Né le 12 mars 1613 à <placeName>Paris
+                        </placeName><country corresp="#FRE">France</country></birth>
+                        <death when="1700-09-12">Mort le 15 septembre 1700 à <placeName>Paris
+                        </placeName><country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>Jardinier Paysagiste</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note>Naturaliste</note>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000121318665</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/André_Le_Nôtre</idno>
+                    </person>
+                    
+                    <person xml:id="Le_Vassor_ISN000000011576102X">
+                        <persName>
+                            <forename>Michel</forename>
+                            <surname>Le Vassor</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth>Né en 1646 ou 1648 à<placeName>Orléans
+                        </placeName><country corresp="#FRE">France</country></birth>
+                        <death>Mort en 1718 à <placeName>Londres 
+                        </placeName><country corresp="#GBR">Angleterre</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique puis Protestant</faith>
+                        <education/>
+                        <occupation>oratorien, professeur de théologie et de philosophie, théologien</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/000000011576102X</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Michel_Le_Vassor</idno>
+                    </person>
+                    
+                    <person xml:id="Lignières_ISN">
+                        <persName>
+                            <forename>François</forename>
+                            <surname>Payot de Lignières</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth>Né en 1616, 1626 ou 1628 à<placeName>Paris ou Senlis
+                        </placeName><country corresp="#FRE">France</country></birth>
+                        <death when="1704">Mort en 1704 à<placeName>Paris ou Senlis 
+                        </placeName><country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>poète satirique, controversiste</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Payot_de_Ligni%C3%A8res</idno>
+                    </person>
+
                     <person xml:id="de_Lingendes_ISN0000000000359778">
                         <persName>
                             <forename>Jean</forename>
@@ -6676,6 +7228,33 @@
                         <idno type="ISNI">http://www.isni.org/isni/000000012132706X</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Juste_Lipse</idno>
                     </person>
+                    
+                    <person xml:id="Locke_ISN">
+                        <persName>
+                            <forename>John</forename>
+                            <surname>Locke</surname>
+                            <roleName/>
+                            <addName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1632-08-29"> né le 29 août 1632 à <placeName>Wrington près de Bristol dans le Somerset</placeName>
+                            <country>Angleterre</country></birth>
+                        <death when="1704">Mort en 1704 à<placeName>Oates dans le comté d'Essex</placeName>
+                            <country>Angleterre</country></death>
+                        <nationality>Britannique</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation>professeur de grec et de rhétorique au Christ Church College d'Oxford, secrétaire de mission diplomatique,
+                        médecin et ami de lord Ashley, secrétaire du Board of Trade, philosophe, penseur de la tolérance...</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/John_Locke</idno>
+                    </person>
 
                     <person xml:id="Loubere_ISN0000000080984046">
                         <persName>
@@ -6700,6 +7279,32 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000080984046</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Simon_de_La_Loubère</idno>
+                    </person>
+                    
+                    <person xml:id="Louet_ISN0000000031753022">
+                        <persName>
+                            <forename>Georges</forename>
+                            <surname>Louet</surname>
+                            <roleName/>
+                            <addName>Georges du Louët</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1540">né vers 1540 à<placeName>Angers</placeName><country corresp="#FRE">France</country></birth>
+                        <death when="1608">mort en 1608 à<placeName>La Rochelle</placeName><country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>chanoine puis doyen de l'église-cathédrale d'Angers, archidiacre d'Outre-Maine, conseiller au Parlement de Paris,
+                        abbé de Toussaint à Angers, président aux enquêtes, évêque de Tréguier en Bretagne</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000031753022</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Georges_du_Lou%C3%ABt</idno>
                     </person>
                     
                     <person xml:id="Lucien_ISN0000000449276796">
@@ -7041,6 +7646,30 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000121296363</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Marin_Mersenne</idno>
                     </person>
+                    
+                    <person xml:id="Misson_ISN">
+                        <persName>
+                            <forename>Henri</forename>
+                            <surname>Misson de Valbourg</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth>né au XVIIe siècle en<country corresp="#FRE">France</country>
+                        </birth>
+                        <death>mort dans la 1ère moitié du XVIIIe siècle en<country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Prostestant puis Catholique</faith>
+                        <education/>
+                        <occupation>officier militaire en Angleterre, auteur de Mémoires sur l'Angleterre</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc/>
+                        </event>
+                    </person>
 
                     <person xml:id="Monet_ISN0000000116343874">
                         <persName>
@@ -7131,6 +7760,7 @@
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Jean-Baptiste_Morin_de_Villefranche</idno>
                     </person>
+                    
 
                     <person xml:id="Morin_ISN0000000107867561">
                         <persName>
@@ -7158,6 +7788,65 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000107867561</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Pierre_Morin_(jardinier)</idno>
+                    </person>
+
+                    <person xml:id="Motin_ISN0000000063081179">
+                        <persName>
+                            <forename>Pierre</forename>
+                            <surname>Motin</surname>
+                            <roleName/>
+                            <addName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1566">né vers 1566 à
+                            <placeName>Bourges</placeName><country
+                                corresp="#FRE">France</country></birth>
+                        <death when="1612">mort vers 1612 à<placeName>Paris ou Bourges</placeName><country corresp="#FRE"
+                                >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>poète, traducteur, avocat à Paris, panégyriste d'Henri IV, auteur d'un ballet</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000063081179</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Pierre_Motin</idno>
+                    </person>
+                    
+                    <person xml:id="Newton_ISN0000000120997897">
+                        <persName>
+                            <forename>Isaac</forename>
+                            <surname>Newton</surname>
+                            <roleName/>
+                            <addName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1642-12-25">né le 25 décembre 1642 à
+                            <placeName>Woolsthorpe près de Grantham dans le Lincolnshire</placeName><country
+                                corresp="#GBR">Grande-Bretagne</country></birth>
+                        <death when="1727-03-20">mort le 20 mars 1727 à<placeName>Londres</placeName><country corresp="#GBR"
+                            >Grande-Bretagne</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Anglaise</nationality>
+                        <faith>Protestant</faith>
+                        <education/>
+                        <occupation>professeur de mathématiques, représentant de l'Université de Cambridge au Parlement, mathématicien, 
+                        physicien, chimiste, alchimiste, controversiste, maître de la monnaie, président de la Royal Society, théologien...</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000120997897</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Isaac_Newton</idno>
                     </person>
 
                     <person xml:id="Nicaise_ISN0000000079724431">
@@ -7271,6 +7960,34 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000081082239</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jacques_Nouet</idno>
                     </person>
+                    
+                    <person xml:id="Olina_ISN0000000123418600">
+                        <persName>
+                            <forename>Giovanni Pietro</forename>
+                            <surname>Olina</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1585">né en 1585 peut-être à<placeName>Novare</placeName>
+                            <country corresp="#ITA">Italie</country></birth>
+                        <death when="1645">mort vers 1645 peut-être à
+                            <placeName>Novare</placeName>
+                            <country corresp="#ITA">Italie</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Italienne</nationality>
+                        <faith>probablement Catholique</faith>
+                        <education/>
+                        <occupation>avocat à Rome, naturaliste, ornithologue, collectionneur d'oiseaux chanteurs</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc/>
+                        </event>
+                        <idno type="ISNI">http://www.isni.org/isni/0000000123418600</idno>
+                        <idno type="URI">https://en.wikipedia.org/wiki/Giovanni_Pietro_Olina</idno>
+                    </person>
 
                     <person xml:id="Oudin_ISN000000008084270X">
                         <persName>
@@ -7329,6 +8046,33 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/000000012120780X</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/César_Oudin</idno>
+                    </person>
+                    
+                    <person xml:id="Palaprat_ISN0000000080451653">
+                        <persName>
+                            <forename>Jean</forename>
+                            <surname>de Palaprat</surname>
+                            <addName>écuyer seigneur de Bigot</addName>
+                        </persName> 
+                        <birth when="1650-05">né en mai 1650 à<placeName>Toulouse</placeName>
+                            <country corresp="#FRE">France</country></birth>
+                        <death when="1721-10-23">mort le 23 octobre 1721
+                            <placeName>Paris</placeName>
+                            <country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>avocat à Toulouse, capitoul puis chef du consistoire toulousain, député aux Etats de Montpellier,
+                        fournisseur des devises de Mme la Dauphine, secrétaire des commandements du duc de Vendôme, poète, dramaturge</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000080451653</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Jean_de_Palaprat</idno>
                     </person>
                     
                     <person xml:id="Panorme_ISN000000008111347X">
@@ -7471,6 +8215,35 @@
                         </event>
                         <idno type="ISNI">https://isni.org/isni/0000000121214436</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Claude_Perrault</idno>
+                    </person>
+                    
+                    <person xml:id="Petit_ISN000000000090879X">
+                        <persName>
+                            <forename>Louis</forename>
+                            <surname>Petit</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1613">né vers 1613 ou 1614 à
+                            <placeName>Rouen</placeName><country corresp="#FRE"
+                                >France</country></birth>
+                        <death when="1693"> mort en 1693
+                            à<placeName>Rouen</placeName><country corresp="#FRE"
+                                >France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>probablement Catholique</faith>
+                        <education/>
+                        <occupation>receveur général des domaines et du bois du roi, poète, moraliste mondain</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc/>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/000000000090879X</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Louis_Petit</idno>
                     </person>
                     
                     <person xml:id="Pinsson_ISN000000006140734X">
@@ -7652,6 +8425,51 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/François_Rabelais</idno>
                     </person>
                     
+                    <person xml:id="Raguenet_ISN0000000062999324">
+                        <persName>
+                            <forename>François</forename>
+                            <surname>Raguenet</surname>
+                            <addName/>
+                            <abbr/>
+                            <roleName>Abbé</roleName>
+                        </persName>
+                        <birth when="1660">Né vers 1660 à<placeName>Rouen
+                        </placeName><country>France</country></birth>
+                        <death when="1720">Mort en 1720 ou 1722 à<placeName>?
+                        </placeName>France</death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>abbé, précepteur des neveux du cardinal de Bouillon, orateur, historien, romancien, controversiste...</occupation>
+                        <affiliation/>
+                        <note/>
+                        <idno type="ISNI">https://isni.org/isni/0000000062999324</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Raguenet</idno>
+                    </person>
+                    
+                    <person xml:id="Rampalle_ISN">
+                        <persName>
+                            <forename>Daniel Nicolas</forename>
+                            <surname>de Rampalle</surname>
+                            <addName>Rampale</addName>
+                            <abbr/>
+                            <roleName/>
+                        </persName>
+                        <birth when="1603">Né vers 1603 à<placeName>Sisteron
+                        </placeName><country>France</country></birth>
+                        <death when="1660">Mort vers 1660 à<placeName>?
+                        </placeName>France</death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>probablement Catholique</faith>
+                        <education/>
+                        <occupation>avocat, serviteur de la maison de Tournon, poète, dramaturge, traducteur, chiromancien</occupation>
+                        <affiliation/>
+                        <note/>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Daniel_de_Rampalle</idno>
+                    </person>
+                    
                     <person xml:id="Rebuffe_ISN0000000110551912">
                         <persName>
                             <forename>Pierre</forename>
@@ -7672,6 +8490,49 @@
                         <note/>
                         <idno type="ISNI">https://isni.org/isni/0000000110551912</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Pierre_Rebuffi</idno>
+                    </person>
+                    
+                    <person xml:id="Richelet_ISN0000000121451757">
+                        <persName>
+                            <forename>Pierre ou César-Pierre</forename>
+                            <surname>Richelet</surname>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1626">Né ven 1626 ou 1631 à<placeName>Cheminon en Champagne
+                        </placeName><country>France</country></birth>
+                        <death when="1698-11-23">Mort le 23 ou le 29 novembre 1698 à<placeName>Paris
+                        </placeName>France</death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>précepteur du fils du marquis de Courtrivon, régent au collège de Vitry-le-François,
+                        avocat à Paris, lexicographe, grammairien, traducteur, controversiste...</occupation>
+                        <affiliation/>
+                        <note/>
+                        <idno type="ISNI">https://isni.org/isni/0000000121451757</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/C%C3%A9sar-Pierre_Richelet</idno>
+                    </person>
+                    
+                    <person xml:id="Robbe_ISN">
+                        <persName>
+                            <forename>Jacques</forename>
+                            <surname>Robbe</surname>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1643">Né en 1643 à<placeName>Soissons
+                        </placeName><country corresp="#FRE">France</country></birth>
+                        <death when="1721">Mort en (avril) 1721 à<placeName>Soissons</placeName><country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>avocat au Parlement, maire perpétuel de Saint-Denis, ingénieur et géographe du roi, poète, dramaturge...</occupation>
+                        <affiliation/>
+                        <note/>
+                        <idno type="URI">https://data.bnf.fr/fr/10709757/jacques_robbe/</idno>
                     </person>
 
                     <person xml:id="Rondelet_ISN000000010855716X">
@@ -7783,6 +8644,29 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000110197685</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Paul_Rycaut</idno>
+                    </person>
+                    
+                    
+                    <person xml:id="St_Amant_ISN0000000121340352">
+                        <persName xml:base="">
+                            <forename>Marc Antoine</forename>
+                            <surname>Girard de Saint Amant</surname>
+                            <abbr>St Amant</abbr></persName>
+                        <birth when="1594-09">septembre 1594 <placeName>Rouen,banlieu </placeName>
+                            <country>France</country></birth>
+                        <death when="1661-12">Mort au mois de décembre 1661 à
+                            <placeName>Paris</placeName>
+                            <country>France</country></death>
+                        <sex>Masculin</sex>
+                        <faith>Catholique</faith>
+                        <note>Protestant converti</note>
+                        <socecStatus>Sieur de Saint Amand, Membre de l'Académie
+                            française</socecStatus>
+                        <nationality>Française</nationality>
+                        <note>poète, Protestant devenue Catholique</note>
+                        <idno>ISN:0000000121340352</idno>
+                        <idno type="URI"
+                            >https://fr.wikipedia.org/wiki/Marc-Antoine_Girard_de_Saint-Amant</idno>
                     </person>
                     
                     <person xml:id="Ab_de_SR_ISN0000000110500672">
@@ -7973,6 +8857,34 @@
                         <idno type="ISNI">http://www.isni.org/isni/0000000354682310</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Joannes_Scapula</idno>
                     </person>
+                    
+                    <person xml:id="Serre_ISN">
+                        <persName>
+                            <forename>Jean</forename>
+                            <surname>Puget de la Serre</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1595">Né en 1595 ou vers 1600 à<placeName>Toulouse</placeName><country corresp="#FRE"
+                            >France</country></birth>
+                        <death when="1665">Mort en juillet 1665 probablement à <placeName>Paris </placeName><country
+                            corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>écrivain, historiographe de France, historien, conseiller d'état, panégyriste, romancier,
+                        dramaturge, auteur d'ouvrages de philosophie, de piété et de morale...</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000120990281</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Jean_Puget_de_La_Serre</idno>
+                    </person>
                      
 
                     <person xml:id="Sherlock_ISN0000000108038853">
@@ -8080,6 +8992,7 @@
                                 jésuite français, historien et patrologue</note></persName>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jacques_Sirmond</idno>
                     </person>
+                    
                     <person xml:id="Soleisel_ISN0000000072448067">
                         <persName>
                             <forename>Jacques </forename>
@@ -8115,6 +9028,31 @@
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jacques_de_Solleysel</idno>
                     </person>
                     
+                    <person xml:id="Soreau_ISN">
+                        <persName>
+                            <forename>Antoine</forename>
+                            <surname>Soreau</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1620">né vers 1620 en<placeName>Touraine</placeName>
+                            <country corresp="#FRE">France</country></birth>
+                        <death when="1675">mort vers 1675 à<placeName>?</placeName><country
+                            corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>probablement catholique</faith>
+                        <education/>
+                        <occupation>avocat au Parlement de Paris, jurisconsulte, traducteur</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                    </person>
+                    
                     <person xml:id="Spanheim_ISN0000000108784071">
                         <persName>
                             <forename>Ezechiel</forename>
@@ -8123,7 +9061,7 @@
                             <addName/>
                             <abbr/>
                         </persName>
-                        <birth when="1629-12-07">né le 7 décembre 16289 à<placeName>Genève</placeName>
+                        <birth when="1629-12-07">né le 7 décembre 1629 à<placeName>Genève</placeName>
                             <country>Genève</country></birth>
                         <death when="1710-11-07">mort le 7 novembre 1710 à<placeName>Londres</placeName><country
                             corresp="#GBR">Angleterre</country></death>
@@ -8255,30 +9193,32 @@
                         <idno type="URI"
                             >https://fr.wikipedia.org/wiki/Pierre_Surirey_de_Saint-Remy</idno>
                     </person>
-
-                    <person xml:id="StAmant_ISN0000000121340352">
-                        <persName xml:base="">
-                            <forename>Marc Antoine</forename>
-                            <surname>Girard de Saint Amant</surname>
-                            <abbr>St Amant</abbr></persName>
-                        <birth when="1594-09">septembre 1594 <placeName>Rouen,banlieu </placeName>
-                            <country>France</country></birth>
-                        <death when="1661-12">Mort au mois de décembre 1661 à
-                                <placeName>Paris</placeName>
-                            <country>France</country></death>
+                    
+                    <person xml:id="Swammerdam_ISN0000000083665200">
+                        <persName>
+                            <forename>Jan</forename>
+                            <surname> Swammerdam</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth when="1637-02-12">Né le 12 février 1637 à
+                            <placeName>Amsterdam aux</placeName><country>Provinces-Unies</country></birth>
+                        <death when="1680-02-17">Mort le 17 février 1680 à<placeName>Amsterdam</placeName><country>Prvinces-Unies</country></death>
                         <sex>Masculin</sex>
-                        <faith>Catholique</faith>
-                        <note>Protestant converti</note>
-                        <socecStatus>Sieur de Saint Amand, Membre de l'Académie
-                            française</socecStatus>
-                        <nationality>Française</nationality>
-                        <note>poète, Protestant devenue Catholique</note>
-                        <idno>ISN:0000000121340352</idno>
-                        <idno type="URI"
-                            >https://fr.wikipedia.org/wiki/Marc-Antoine_Girard_de_Saint-Amant</idno>
+                        <nationality>Néerlandaise</nationality>
+                        <faith>Protestant, mystique</faith>
+                        <education>Université de Leyde</education>
+                        <occupation>docteur en médecine, naturaliste, entomologiste, zoologiste, anatomiste, physiologiste</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000083665200</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Jan_Swammerdam</idno>
                     </person>
-
-
 
                     <person xml:id="Tachard_ISN0000000115571939">
                         <persName xml:base="">
@@ -8411,7 +9351,7 @@
                     
                     <person xml:id="Thiers_ISN0000000108644060">
                         <persName>
-                            <forename>Jean Charles</forename>
+                            <forename>Jean Baptiste</forename>
                             <surname>Thiers</surname>
                             <roleName/>
                             <addName/>
@@ -8435,6 +9375,34 @@
                         </event>
                         <idno type="ISNI">http://www.isni.org/isni/0000000108644060</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Jean-Baptiste_Thiers</idno>
+                    </person>
+
+                    <person xml:id="Thomassin_ISN0000000081299550">
+                        <persName>
+                            <forename>Louis</forename>
+                            <surname>Thomassin</surname>
+                            <roleName/>
+                            <addName>le Père Thomassin</addName>
+                            <abbr/>
+                        </persName>
+                        <birth when="1619-08-28">né le 28 août 1619 à<placeName>Aix-en-Provence</placeName><country corresp="#FRE"
+                                >France</country></birth>
+                        <death when="1695-12-24">mort le 24 décembre 1695 à<placeName>Paris</placeName><country
+                            corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <nationality>Française</nationality>
+                        <faith>Catholique</faith>
+                        <education/>
+                        <occupation>prêtre oratorien, professseur de belles-lettres/philosophie/humanités/théologie positive,
+                        conférencien, théologien, canoniste, pédagogue...</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event>
+                            <desc><date/></desc>
+                        </event>
+                        <idno type="ISNI">https://isni.org/isni/0000000081299550</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Louis_Thomassin</idno>
                     </person>
 
                     <person xml:id="Tonti_ISN000000036158329X">
@@ -8464,6 +9432,7 @@
                         <idno type="ISNI">http://www.isni.org/isni/000000036158329X</idno>
                         <idno type="URI">https://fr.wikipedia.org/wiki/Lorenzo_Tonti</idno>
                     </person>
+                    
                     <person xml:id="Tournefort_ISN0000000120999374">
                         <persName>
                             <forename>Joseph</forename>
@@ -8503,6 +9472,50 @@
                             >https://fr.wikipedia.org/wiki/Joseph_Pitton_de_Tournefort</idno>
                     </person>
                     
+                    <person xml:id="Tristan_L_Hermite_ISN0000000120310178">
+                        <persName>
+                            <forename>François</forename>
+                            <surname>de l'Hermite du Soliers</surname>
+                            <abbr/>
+                            <addName>Tristan l'Hermite</addName>
+                        </persName>
+                        <birth when="1601">né en 1601 au <placeName>château de Soliers à Janaillat dans la Marche</placeName>
+                            <country corresp="#FRE">France</country></birth>
+                        <death when="1655-09-07">mort le 7 septembre 1655 à<placeName>Paris</placeName>
+                            <country corresp="#FRE">France</country></death>
+                        <sex>Masculin</sex>
+                        <faith>Catholique</faith>
+                        <nationality>Française</nationality>
+                        <education/>
+                        <occupation>page à la cour d'Henri IV, précepteur, bibliothécaire de Scévole de Sainte-Marthe, secrétaire
+                        du marquis de Villars, au service de Gaston d'Orléans, poète, dramaturge, romancier...</occupation>
+                        <note/>
+                        <idno type="ISNI">https://isni.org/isni/0000000120310178</idno>
+                        <idno type="URI">https://fr.wikipedia.org/wiki/Fran%C3%A7ois_L%27Hermite</idno>
+                    </person>
+                    
+                    <person xml:id="Van_Helmont_ISN0000000116168850">
+                        <persName>
+                            <forename>Jean-Baptiste</forename>
+                            <surname> Van Helmont</surname>
+                            <abbr>Van Hel</abbr>
+                        </persName>
+                        <birth when="1579-01-12">12 Janvier 1579 <placeName>Bruxelles
+                            (Belgique)</placeName>
+                            <country>Pays Bas Espagnols</country></birth>
+                        <death when="1644-12-30">30 décembre 1644 <placeName>Vilvorde</placeName>
+                            <country>Pays Bas Espagnols</country></death>
+                        <sex>Masculin</sex>
+                        <faith>Catholique</faith>
+                        <nationality>Pays bas espagnols</nationality>
+                        <education>Université du duché de Brabant (devenue l'Université catholique
+                            de Louvain</education>
+                        <note>alchimiste, chimiste, physiologiste et médecin. </note>
+                        <idno>ISN:0000000116168850</idno>
+                        <idno type="URI"
+                            >https://fr.wikipedia.org/wiki/Jean-Baptiste_Van_Helmont</idno>
+                    </person>
+                    
                     <person xml:id="Vanel_ISN">
                         <persName>
                             <forename>Claude</forename>
@@ -8526,7 +9539,27 @@
                         <idno type="URI">https://www.idref.fr/074002910</idno>
                     </person>
 
-                    
+                    <person xml:id="Vasconcelle_ISN0000000042467507">
+                        <persName>
+                            <forename>Louise Geneviève</forename>
+                            <surname>Gilot de Beaucour dame Gomez de Vasconcelle</surname>
+                            <roleName/>
+                            <addName/>
+                            <abbr/>
+                        </persName>
+                        <birth>Né au XVIIe siècle au<country>Portugal</country></birth>
+                        <death>Morte au XVIIe siècle ou peut-être en 1718 à<placeName>Paris</placeName><country corresp="#FRE">France</country></death>
+                        <sex>Félinin</sex>
+                        <nationality>Portugaise</nationality>
+                        <faith>probablement Catholique</faith>
+                        <education/>
+                        <occupation>femme de lettres, poétesse, traductrice</occupation>
+                        <affiliation/>
+                        <socecStatus/>
+                        <note/>
+                        <event><desc></desc></event> 
+                        <idno type="ISNI">http://www.isni.org/isni/0000000042467507</idno>
+                    </person>
 
                     <person xml:id="Villars_ISN0000000121185233">
                         <persName>
@@ -9393,6 +10426,7 @@
                     <gloss xml:id="term_academie">
                         <name>academie</name>
                     </gloss>
+                    <gloss xml:id="term_accoucheur"><name>accoucheur</name></gloss>
                     <gloss xml:id="term_agriculture">
                         <name>agriculture</name>
                     </gloss>
@@ -9402,11 +10436,15 @@
                     <gloss xml:id="term_anatomie">
                         <name>anatomie</name>
                     </gloss>
+                    <gloss xml:id="term_antiquaire"><name>Antiquaire</name></gloss>
                     <gloss xml:id="term_apothicaire">
                         <name>apothicaire</name>
                     </gloss>
                     <gloss xml:id="term_architecture">
                         <name>architecture</name>
+                    </gloss>
+                    <gloss xml:id="term_architectuer">
+                        <name>architectuer</name>
                     </gloss>
                     <gloss xml:id="term_arithmetique">
                         <name>arithmetique</name>
@@ -9429,6 +10467,7 @@
                     <gloss xml:id="term_astronomie">
                         <name>astronomie</name>
                     </gloss>
+                    <gloss xml:id="term_avanturier"><name>avanturier</name></gloss>
                     <gloss xml:id="term_autourserie">
                         <name>autouserie</name>
                     </gloss>
@@ -9447,6 +10486,7 @@
                     <gloss xml:id="term_batelier">
                         <name>batelier</name>
                     </gloss>
+                    <gloss xml:id="bernardin"><name>bernardin</name></gloss>
                     <gloss xml:id="term_blanchisseur">
                         <name>blanchisseur</name>
                     </gloss>
@@ -9465,6 +10505,7 @@
                     <gloss xml:id="term_botanique">
                         <name>botanique</name>
                     </gloss>
+                    <gloss xml:id="term_boucher"><name>boucher</name></gloss>
                     <gloss xml:id="term_bouquetiere">
                         <name>bouquetiere</name>
                     </gloss>
@@ -9477,6 +10518,7 @@
                     <gloss xml:id="term_brodeur">
                         <name>brodeur</name>
                     </gloss>
+                    <gloss xml:id="term_canonier"><name>canonier</name></gloss>
                     <gloss xml:id="term_cartier">
                         <name>cartier</name>
                     </gloss>
@@ -9507,6 +10549,7 @@
                     <gloss xml:id="term_chasse">
                         <name>chasse</name>
                     </gloss>
+                    <gloss xml:id="term_chasseur"><name>chasseur</name></gloss>
                     <gloss xml:id="term_chaudronnier">
                         <name>chaudronnier</name>
                     </gloss>
@@ -9546,12 +10589,14 @@
                     <gloss xml:id="term_confiseur">
                         <name>confiseur</name>
                     </gloss>
+                    <gloss xml:id="term_conversation"><name>conversation</name></gloss>
                     <gloss xml:id="term_cordier">
                         <name>cordier</name>
                     </gloss>
                     <gloss xml:id="term_cordonnier">
                         <name>cordonnier</name>
                     </gloss>
+                    <gloss xml:id="term_corroyeur"><name>Corroyeur</name></gloss>
                     <gloss xml:id="term_coutelier">
                         <name>coutelier</name>
                     </gloss>                   
@@ -9567,18 +10612,23 @@
                     <gloss xml:id="term_danse">
                         <name>danse</name>
                     </gloss>
+                    <gloss xml:id="term_danseur_de_corde"><name>danseur de corde</name></gloss>
                     <gloss xml:id="term_degraisseur">
                         <name>degraisseur</name>
                     </gloss>
                     <gloss xml:id="term_dessinateur">
                         <name>dessinateur</name>
                     </gloss>
+                    <gloss xml:id="term_detacheur"><name>detacheur</name></gloss>
                     <gloss xml:id="term_devotion">
                         <name>devotion</name>
                     </gloss>
                     <gloss xml:id="term_discipline_ecclesiastique">
                         <name>discipline ecclesiastique</name>
                     </gloss>
+                    <gloss xml:id="term_doreur"><name>doreur</name></gloss>
+                    
+                    <gloss xml:id="term_doreur_sur_cuir"><name>doreur sur cuir</name></gloss>
                     <gloss xml:id="term_drappier">
                         <name>drappier</name>
                     </gloss>
@@ -9591,6 +10641,7 @@
                     <gloss xml:id="term_dogmatique_dogmatiques">
                         <name>dogmatique/dogmatiques</name>
                     </gloss>
+                    <gloss xml:id="term_doreur_sur_tranche"><name>doreur sur tranche</name></gloss>
                     <gloss xml:id="term_eaux_et_forets">
                         <name>eaux et forêts</name>
                     </gloss>
@@ -9602,19 +10653,28 @@
                     </gloss>
                     <gloss xml:id="term_ecriture">
                         <name>ecriture</name>
-                    </gloss>     
+                    </gloss>
+                    <gloss xml:id="term_emballeur"><name>Emballeur</name></gloss>
                     <gloss xml:id="term_eperonnier">
                         <name>eperonnier</name>
-                    </gloss>  
+                    </gloss> 
+                    <gloss xml:id="term_escrime"><name>escrime</name></gloss>
+                    <gloss xml:id="term_evangile"><name>evangile</name></gloss>
+                    <gloss xml:id="term_evêque"><name>evêque</name></gloss>
+                    <gloss xml:id="term_facteur_d_orgues"><name>Facteur d'orgues</name></gloss>
+                    <gloss xml:id="term_faiseur_de_boucles"><name>faiseur de boucles</name></gloss>
+                    
                     <gloss xml:id="term_faucheur">
                         <name>faucheur</name>
                     </gloss>
                     <gloss xml:id="term_fauconnerie">
                         <name>fauconnerie</name>
                     </gloss>
+                    <gloss xml:id="term_ferandinier"><name>ferandinier</name></gloss>
                     <gloss xml:id="term_fiefs">
                         <name>fiefs</name>
                     </gloss>
+                    <gloss xml:id="term_fileuse"><name>fileuse</name></gloss>
                     <gloss xml:id="term_fileuse_au_rouet">
                         <name>fileuse au rouet</name>
                     </gloss>
@@ -9624,6 +10684,9 @@
                     <gloss xml:id="term_fleuriste">
                         <name>fleuriste</name>
                     </gloss>
+                    <gloss xml:id="term_fonderie">
+                        <name>fonderie</name>
+                    </gloss>  
                     <gloss xml:id="term_fondeur">
                         <name>fondeur</name>
                     </gloss>                    
@@ -9639,6 +10702,7 @@
                     <gloss xml:id="term_fortification_fortifications">
                         <name>fortification/fortifications</name>
                     </gloss>
+                    <gloss xml:id="term_fourbisseur"><name>fourbisseur</name></gloss>
                     <gloss xml:id="term_franger">
                         <name>franger</name></gloss>
                     <gloss xml:id="term_gabelles">
@@ -9668,6 +10732,7 @@
                     <gloss xml:id="term_guerre">
                         <name>guerre</name>
                     </gloss>
+                    <gloss xml:id="term_herboriste"><name>herboriste</name></gloss>
                     <gloss xml:id="term_histoire_eclesiastique">
                         <name>histoire eclesiastique</name>
                     </gloss>
@@ -9695,8 +10760,12 @@
                     <gloss xml:id="term_jardinier">
                         <name>jardinier</name>
                     </gloss>
+                    <gloss xml:id="term_jeu">
+                        <name>Jeu </name></gloss>
                     <gloss xml:id="term_jeu_picquet">
-                        <name>Jeu de Picquet</name>
+                        <name>Jeu de Picquet</name></gloss>
+                    <gloss xml:id="term_jeu_de_reversi"><name>jeu de reversi et de la petite Prime</name></gloss>
+                    <gloss xml:id="term_jeu_de_triquetrac"><name>triquetrac</name></gloss>
                     <gloss xml:id="term_jouaillier_jouailliers">
                         <name>jouaillier/jouailliers</name>
                     </gloss>
@@ -9712,6 +10781,7 @@
                     <gloss xml:id="term_logique">
                         <name>logique</name>
                     </gloss>
+                    <gloss xml:id="term_luthier"><name>luthier</name></gloss>
                     <gloss xml:id="term_machines">
                         <name>machines</name>
                     </gloss>
@@ -9721,6 +10791,7 @@
                     <gloss xml:id="term_maconnerie">
                         <name>maçonnerie</name>
                     </gloss>
+                    <gloss xml:id="term_magie_noire"><name>magie noire</name></gloss>
                     <gloss xml:id="term_maitre_d_armes">
                         <name>maitre d'armes</name>
                     </gloss>
@@ -9744,7 +10815,10 @@
                     </gloss>                   
                     <gloss xml:id="term_marechal">
                         <name>marechal</name>
-                    </gloss>                    
+                    </gloss>  
+                   <gloss xml:id="term_marin">
+                            <name>Marin</name>
+                        </gloss>
                     <gloss xml:id="term_marine">
                         <name>Marine</name>
                     </gloss>
@@ -9769,6 +10843,10 @@
                     <gloss xml:id="term_mesureurs">
                         <name>mesureurs</name>
                     </gloss>
+                    <gloss xml:id="term_metteur_en_oeuvre"><name>metteur_en_oeuvre"</name></gloss>
+                        
+                    <gloss xml:id="term-mineur"><name>mineur</name></gloss>  
+                    <gloss xml:id="term-mine"><name>mine</name></gloss>
                     <gloss xml:id="term_monnoye_monnoyes">
                         <name>monnoye/monnoyes</name>
                     </gloss>
@@ -9808,6 +10886,7 @@
                     <gloss xml:id="term_patissier">
                         <name>patissier</name>
                     </gloss>
+                    <gloss xml:id="term_paume"><name>Paume</name></gloss>
                     <gloss xml:id="term_peche">
                         <name>peche</name>
                     </gloss>
@@ -9817,6 +10896,8 @@
                     <gloss xml:id="term_peinture">
                         <name>peinture</name>
                     </gloss>
+                        
+                        <gloss xml:id="term_pelletier"><name>pelletier</name></gloss>
                     <gloss xml:id="term_pharmacie">
                         <name>pharmacie</name>
                     </gloss>
@@ -9841,6 +10922,7 @@
                     <gloss xml:id="term_poetique">
                         <name>poetique</name>
                     </gloss>
+                        <gloss xml:id="polygraphie"><name>polygraphie</name></gloss>
                     <gloss xml:id="term_poste">
                         <name>poste</name>
                     </gloss>
@@ -9865,12 +10947,18 @@
                     <gloss xml:id="term_rhetorique">
                         <name>rhetorique</name>
                     </gloss>
+                    <gloss xml:id="term_rotisseur"><name>Rotisseur</name></gloss>
+                    <gloss xml:id="term_rubanier"><name>rubanier</name></gloss>
+                    <gloss xml:id="term_sage-femme"><name>sage femme</name></gloss>
+                    <gloss xml:id="term_sellier"><name>Sellier</name></gloss>
+                    <gloss xml:id="term_serrurerie"><name>serrurerie</name></gloss>
                     <gloss xml:id="term_societe">
                         <name>societe</name>
                     </gloss>
                     <gloss xml:id="term_sorbonne">
                         <name>Sorbonne</name>
                     </gloss>
+                    <gloss xml:id="term_sortilege"><name>sortilege</name></gloss>
                     <gloss xml:id="term_taillandier">
                         <name>taillandier</name>
                     </gloss>
@@ -9895,6 +10983,9 @@
                     <gloss xml:id="term_theologie">
                         <name>théologie</name>
                     </gloss>
+                        <gloss xml:id="term_theologique">
+                            <name>théologique</name>
+                        </gloss>
                     <gloss xml:id="term_tireur_d_or">
                         <name>tireur_d_or</name>
                     </gloss>
@@ -9904,6 +10995,7 @@
                         <gloss xml:id="term_tourneur">
                             <name>tourneur</name>
                         </gloss>
+                    <gloss xml:id="term_triquetrac"><name>triquetrac</name></gloss>
                     <gloss xml:id="term_vanier">
                         <name>vanier</name>
                     </gloss>
@@ -9916,10 +11008,11 @@
                     <gloss xml:id="term_verrerie">
                         <name>verrerie</name>
                     </gloss>
+                    <gloss xml:id="term_vinaigrier"><name>vinaigrier</name></gloss>
                     <gloss xml:id="term_vitrier">
                          <name>vitrier</name>
                      </gloss>
-                    </gloss>
+                   
                 </taxonomy>
             </classDecl>
             <classDecl n="country">
@@ -10091,10 +11184,9 @@
                   <form type="lemma">
                      <orth>I</orth>
                   </form>
-                  <gramGrp><pos>subst</pos><gen>masc</gen></gramGrp>
                </form>
                <sense n="1">
-                  <def> La troisième lettre voyelle, &amp; la neuviéme de l'Alphabet François. Un grand I, un petit i. Il est aussi consone,
+                  <def> Jeltll ét trrtlé neuviéme de l'Alphabet François. Un grand I, un petit i. Il est aussi consone,
                      &amp; en ce cas on en allonge le caractere par enbas, &amp; il se prononce devant toutes les
                      voyelles, comme le G se prononce devant l'e &amp; devant l'i. On le prononce comme ai, lorsqu'il
                      est devant une m, ou une n. Comme vin, &amp;c. Les Imprimeurs appellent trema, lorsqu'il y a deux
@@ -10143,7 +11235,7 @@
                      <orth>Ja</orth>
                   </form>
                   <pc>,</pc>
-                  <def>sert quelquefois de negative absoluë. Je ne le feral ja ; pour dire, je ne le ferai
+                  <def>sert quelquefois de negative absoluë. Je ne le feral ia ; pour dire, je ne le ferai
                         point<pc>.</pc>
                   </def>
                   <pc>,</pc>
@@ -10189,9 +11281,9 @@
             <entry xml:id="jable">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>JABLE</orth><pc>.</pc>
+                     <orth>JABLE</orth>
                   </form>
-                  
+                  <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>m.</gen>
@@ -10211,9 +11303,9 @@
             <entry xml:id="jabler">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>JABLER</orth>  <pc>.</pc>
+                     <orth>JABLER</orth>
                   </form>
-                
+                  <pc>.</pc>
                   <gramGrp>
                      <pos>v.</pos>
                      <subc>act</subc>
@@ -10228,9 +11320,9 @@
             <entry xml:id="jabloire">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>JABLOIRE</orth>  <pc>.</pc>
+                     <orth>JABLOIRE</orth>
                   </form>
-                
+                  <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
@@ -10244,9 +11336,9 @@
             <entry xml:id="jabot">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>JABOT</orth> <pc>.</pc>
+                     <orth>JABOT</orth>
                   </form>
-                 
+                  <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>m.</gen>
@@ -10262,7 +11354,7 @@
                </sense>
                <sense n="2">
                   <form>
-                     <orth>Jabot</orth>
+                     <orth>Jaeot</orth>
                   </form>
                   <pc>,</pc>
                   <def>se dit aussi burlesquement de l'homme. Ainsi Scarron a dit, Amour nabot qui du jabot, De Dom
@@ -10283,9 +11375,9 @@
             <entry xml:id="jaboter">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>JABOTER</orth>  <pc>.</pc>
+                     <orth>JABOTER</orth>
                   </form>
-                
+                  <pc>.</pc>
                   <gramGrp>
                      <pos>v.</pos>
                      <subc>act</subc>
@@ -10372,7 +11464,7 @@
                <sense>
                   <def>Arbre fort haut dont l'écorce est grise, dure, inegale, comme celle d'un vieux chêne. Ses
                      feuilles sont semblables à celles du meurier, dentelées en leurs bords. Son fruit est de figure
-                     elliptique, gros comme <pb/>la tête d'un enfant, couvert d'une écorce ligneuse dure, de couleur jaune,
+                     elliptique, gros comme la tête d'un enfant, couvert d'une écorce ligneuse dure, de couleur jaune,
                      suspendu par une grosse queue du côté de laquelle il est applati, ressemblant à une couppe avec son
                      couvercle. Lorsque le fruit est meur, le couvercle se separe de soi-même, &amp; on trouve dans ce
                      freit des châtaignes grosses comme des prunes, dans lesquelles sont contenus des noyaux blancs, de
@@ -10384,9 +11476,9 @@
             <entry xml:id="jacée">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>JACÉE</orth>  <pc>.</pc>
+                     <orth>JACÉE</orth>
                   </form>
-                
+                  <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
@@ -10409,10 +11501,13 @@
                   <lbl>Ce mot vient de</lbl>
                   <foreign>jacere</foreign>
                   <pc>,</pc>
-                  <gloss>être couché par terre. On a donné ce nom à cette plante, à cause que plusieurs de ses especes sont couchées
-                     par terre.</gloss>
+                  <gloss>être couché</gloss>
                </etym>
-               
+               <sense n="2">
+                  <def>par terre. On a donné ce nom à cette plante, à cause que plusieurs de ses especes sont couchées
+                     par terre<pc>.</pc>
+                  </def>
+               </sense>
             </entry>
             <entry xml:id="jacent">
                <form type="lemmaGrp">
@@ -10429,7 +11524,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <pc>,</pc><usg type="domain" ana="#term_palais">Terme de Palais, </usg>
+                  <pc>,</pc>
                   <def>qui se dit des successions abandonnées, quand personne ne s'est voulu porter heritier d'un
                      defunt. Il faut faire créer un Curateur à une heredité jacente, pour diriger contre lui ses
                      actions. Les Romains faisoient plusieurs heritiers, depeur que leur succession ne fût jacente. On
@@ -10440,9 +11535,9 @@
             <entry xml:id="jachal">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>JACHAL</orth> <pc>.</pc>
+                     <orth>JACHAL</orth>
                   </form>
-                 
+                  <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>m.</gen>
@@ -10459,9 +11554,9 @@
             <entry xml:id="jachere">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>JACHERE</orth>  <pc>.</pc>
+                     <orth>JACHERE</orth>
                   </form>
-                
+                  <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
@@ -10536,17 +11631,17 @@
                </form>
                <pc>.</pc>
                <xr>
-                  <lbl>Voyez</lbl>
-                  <ref target="#hiacinthe">Hyacinthe</ref>
+                  <lbl>Vovez</lbl>
+                  <ref target="#hiacinthe">Hiacinthe</ref>
                   <pc>.</pc>
                </xr>
             </entry>
             <entry xml:id="jacobée">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>JACOBÉE</orth>   <pc>.</pc>
+                     <orth>JACOBÉE</orth>
                   </form>
-               
+                  <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
@@ -10600,7 +11695,7 @@
                      Corps des quatre Mendians. On les appelle aussi les Freres Prêcheurs ; &amp; on dit communément,
                      Jacobins en chaire, Cordeliers en choeur, &amp;c. On ne se sert du mot de Jacobins &amp; de
                      Jacobines que dans le stile familier ; car dans le stile grave, on dit Dominicains, &amp; Frilles
-                     de Saint Dominique<pc>.</pc>
+                     de Saint Dominiee<pc>.</pc>
                   </def>
                </sense>
                <sense n="2">
@@ -10638,14 +11733,17 @@
             <entry xml:id="jacobus">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>JACOBUS</orth>  <pc>,</pc>
+                     <orth>JACOBUS</orth>
                   </form>
                </form>
-            <sense>
-                  <def>est une espece de monnoye d'or d'Angleterre, valant 14. L. 10. s. appellée 7Jacobus à cause du Roi
+               <re>
+                  <form>,</form>
+                  <form>e</form>
+                  <pc>s</pc>
+                  <def>t une espece de monnoye d'or d'Angleterre, valant 14. L. 10. s. appellée 7Jacobus à cause du Roi
                      Jaques qui la fit battre<pc>.</pc>
                   </def>
-               </sense>
+               </re>
             </entry>
             <entry xml:id="jacoit">
                <form type="lemmaGrp">
@@ -10667,9 +11765,9 @@
             <entry xml:id="jacque">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>JACQUE</orth>  <pc>.</pc>
+                     <orth>JACQUE</orth>
                   </form>
-                
+                  <pc>.</pc>
                   <gramGrp>
                      <pos>s.</pos>
                      <gen>f.</gen>
@@ -10681,15 +11779,13 @@
                      s'appelloit aussi bautbert, ou haubergeou, comme prouve Jean le Maire en ses Illustrations des
                      Gaules. Il s'en faisoit aussi de drap d'or &amp; d'argent, d'où sont venuës les Jacquettes &amp;
                      grands pourpoins. Du Cange croit que ce nom pourroit venir de ces factieux qui ont paru autrefois
-                     sous le nom de Jacquerie. 
-                   
-                  </def>
-               </sense>
-               <re><form><orth> Jacque de mailles. </orth></form><sense><def> Armure faite de plusieurs petits anneaux attachez
+                     sous le nom de Jacquerie. Jacque de mailles. Armure faite de plusieurs petits anneaux attachez
                      ensemble en forme de maille, qu'on portoit sous les habits. Les poltrons qui se battoient en duel
                      mettoient une jacque de maille sous leur pourpoint : ce qui obligea ceux qui se battoient sans
                      supercherie de mettre pourpoint bas en se battant. Menage après Pontanus derive ce mot de
-                     l'Allemand jacks, d'ou on a fait depuis Jacquette<pc>.</pc></def></sense></re>
+                     l'Allemand jacks, d'ou on a fait depuis Jacquette<pc>.</pc>
+                  </def>
+               </sense>
             </entry>
             <entry xml:id="jacque_2">
                <form type="lemmaGrp">
@@ -10704,11 +11800,11 @@
                <pc>.</pc>
                <sense>
                   <def>Participe du verbe Jacquer qui n'est point en usage. Avoir une jacque de mailles. Il étoit
-                        jacqué. Il est vieux <pc>.</pc>
+                        jacqué<pc>.</pc>
                   </def>
-                  
+                  <pc>.</pc>
                </sense>
-            </entry><pb/>
+            </entry>
             <entry xml:id="jacquemart">
                <form type="lemmaGrp">
                   <form type="lemma">
@@ -10863,7 +11959,7 @@
                      que le diamant. Les naturels de l'Amerique Meridionale l'estiment fort, à cause de la vertu qu'ils
                      lui attribuent contre l'épilepsie, les maux de reins, la gravelle &amp; la pierre, en la portant
                      sur les reins. On en a imprimé un Traitté à Paris, où on l'appelle pierre divine. Quelques-uns
-                     écrivent yade ou iade<pc>.</pc>
+                     écrivent yade ou ade<pc>.</pc>
                   </def>
                </sense>
             </entry>
@@ -10934,10 +12030,14 @@
                   <lbl>Ce mot vient de</lbl>
                   <foreign>jaculari</foreign>
                   <pc>.</pc>
-                  <note>Vaugelas condamne jaillir, &amp; n'approuve que rejaillir ; mais l'un ou l'autre est bon, avec
+                  <gloss>Vaugelas condamne jaillir, &amp; n'approuve que rejaillir ; mais l'un ou l'autre est bon, avec
                      cette difference : c'est que jaillir marque une action simple, absoluë &amp; directe : &amp;
-                     rejaillir signifie le redoublement de cette même action. Fait jailir dans les airs le crystal des fontaines. <ref>Men</ref></note>
-                
+                     rejaillir signifie le redoublement de cette même action</gloss>
+                  <pc>.</pc>
+                  <gloss>Fait jailir dans les airs le crystal des fontaines</gloss>
+                  <pc>.</pc>
+                  <ref>Men</ref>
+                  <pc>.</pc>
                </etym>
             </entry>
             <entry xml:id="jaillissant">
@@ -11065,11 +12165,10 @@
                </form>
                <sense>
                   <def>Espece de jatte ; sorte de grand baquet dont on se sert à Paris pour mesurer de la farine, &amp;
-                     en d'autres lieux pour transporter la vendange de la vigne à la maison. 
+                     en d'autres lieux pour transporter la vendange de la vigne à la maison. Du Cange derive ce mot de
+                     jale ou de galeo, qui est moe mesure des liquides chez les Anglois, qui contenoit huit pintes du
+                        païs<pc>.</pc>
                   </def>
-                  <etym>Du Cange derive ce mot de
-                     <foreign>jale</foreign> ou de<pb/> <foreign>gallo</foreign>, qui est une mesure des liquides chez les Anglois, qui contenoit huit pintes du
-                        païs<pc>.</pc></etym>
                </sense>
             </entry>
             <entry xml:id="jalet">
@@ -11096,8 +12195,10 @@
                   <lang>Grec</lang>
                   <foreign>jallein</foreign>
                   <pc>,</pc>
-                  <gloss>qui signifie mittere, parcequ'on s'en servoit autrefois comme de balles pour tirer. Il est plus court de dire qu'il vient de jaculum.</gloss>
-                 
+                  <gloss>qui signifie mittere, parcequ'on s'en servoit autrefois comme de balles pour tirer</gloss>
+                  <pc>.</pc>
+                  <gloss>Il est plus court de dire qu'il vient de jaculum</gloss>
+                  <pc>.</pc>
                </etym>
             </entry>
             <entry xml:id="jalon">
@@ -11130,7 +12231,6 @@
                   </gramGrp>
                </form>
                <pc>.</pc>
-               <!-- jardinage -->
                <sense>
                   <def>Cest planter des jalons de distance en distance sur une ligne droite, soit pour planter des
                      arbres, soit pour autre chose. Nous jalonnâmes tout le matin. La Quin<pc>.</pc>
@@ -11142,9 +12242,9 @@
                   <form type="lemma">
                      <orth>JALOUS</orth>
                   </form>
-                  <pc>,</pc><lbl>ou plutôt</lbl>
+                  <pc>,</pc>
                   <form type="variant">
-                     
+                     <lbl>ou plutôt</lbl>
                      <orth>JALOUX</orth>
                   </form>
                   <pc>,</pc>
@@ -11292,12 +12392,15 @@
                      les vertus. St. Ev. Une noble jalousie est utile aux mortels. Boi. La jalousie de l'autorité est la
                      plus delicate, &amp; la plus inquiete. Oe. M. Alexandre ambitieux par tout, étoit piqué d'une
                      jalousie de superiorité dans ses études. St. Lv. N'attaquez personne par la jalousie de l'esprit.
-                        Id. Fuyez sur tout, fuyez ces basses jalousies, Des vulgaires esprits malignes frenesies.
+                        Id<pc>.</pc>
+                  </def>
+               </sense>
+               <sense n="2">
+                  <def>Fuyez sur tout, fuyez ces basses jalousies, Des vulgaires esprits malignes frenesies.
                         Boi<pc>.</pc>
                   </def>
                </sense>
-               
-               <sense n="2">
+               <sense n="3">
                   <form>
                      <orth>Jalousie</orth>
                   </form>
@@ -11321,7 +12424,7 @@
                      utilité. Vill<pc>.</pc>
                   </def>
                </sense>
-               <sense n="3">
+               <sense n="4">
                   <def>On dit figurément d'une place forte sur une frontiere, qu'elle tient en jalousie les Etats &amp;
                      les Princes voisins, non seulement parcequ'ils ont envie de le posseder, mais encore parcequ'ils
                      craignent qu'elle ne facilite les moyens de les attaquer. On dit aussi, qu'une armée en campagne
@@ -11329,7 +12432,7 @@
                      ne peuvent juger à laquelle le Prince ennemi en veut<pc>.</pc>
                   </def>
                </sense>
-               <sense n="4">
+               <sense n="5">
                   <form>
                      <orth>Jalousie</orth>
                   </form>
@@ -11349,7 +12452,7 @@
                   </def>
                </sense>
             </entry>
-         </div><pb/>
+         </div>
          <div>
             <head>JAM<pc>.</pc>
             </head>
@@ -11368,17 +12471,27 @@
                   <def>qui se dit de toute la succession des siecles &amp; des temps passez &amp; futurs. Les
                      propositions contradictoires ne peuvent jamais être toutes deux vrayes en même temps. L'ingratitude
                      de cet homme m'a fait rompre avec lui pour jamaus. Les pecheurs seront damnez à jamas. Je ne l'ay
-                     jamais vu. On n'en parlera jamais. Ce n'est jamais fait avec lui, il ne finit point. Ouï, j ay dit à l'Amour un adieu pour jamais. Oe. M. Pour jamais adieu : Pour jamais ! ha, Seigneur
+                     jamais vu. On n'en parlera jamais. Ce n'est jamais fait avec lui, il ne finit point<pc>.</pc>
+                  </def>
+               </sense>
+               <sense n="2">
+                  <form>
+                     <orth>Ous</orth>
+                  </form>
+                  <pc>,</pc>
+                  <def>j ay dit à l'Amour un adieu pour jamais. Oe. M. Pour jamais adieu : Pour jamais ! ha, Seigneur
                      songez vous en vous -même, Combien ce mei cruel est afreux quand on aime ? Rac<pc>.</pc>
                   </def>
                </sense>
-             <sense n="2"></sense>
                <sense n="3">
                   <def>Il se prend aussi substantivement. Quand j'ay promis amitié à quelcun, c'est pour un jamaus, pour
-                        toujours. On dit aussi, jamas au grand jamais<pc>.</pc>
+                        toujours<pc>.</pc>
                   </def>
                </sense>
-               
+               <sense n="4">
+                  <def>On dit aussi, jamas au grand jamais<pc>.</pc>
+                  </def>
+               </sense>
                <etym>
                   <lbl>Ce mot vient de</lbl>
                   <foreign>jam</foreign>
@@ -11386,7 +12499,7 @@
                   <gloss>magu</gloss>
                </etym>
                <pc>.</pc>
-               <sense n="4">
+               <sense n="5">
                   <def>On dit proverbialement. La semaine des trois Jeudis, trois jours après jamais<pc>.</pc>
                   </def>
                </sense>
@@ -11414,7 +12527,7 @@
                      <orth>Jambage</orth>
                   </form>
                   <pc>,</pc>
-                 <usg type="domain" ana="#term_ecriture">se dit en termes d'Ecriture, </usg>
+                  <pc>,</pc>
                   <def>des lignes droites &amp; à plomb qui servent à former les caracteres, &amp; sur tout les m &amp;
                      les n. Il faut prendre garde que ces jambages soient bien égaux &amp; bien droits<pc>.</pc>
                   </def>
@@ -11463,13 +12576,13 @@
                   </def>
                </sense>
                <sense n="3">
-                  <def>On dit par menace, qu'on rompra bras &amp; jambes à quelcun ; pour dire, qu'on le battra
+                  <def>On dit par menacs, qu'on rompra bras &amp; jambes à quelcun ; pour dire, qu'on le battra
                      vigoureusement. Et on dit aussi au figuré, qu'un Rapporteur a couppé bras &amp; jambes à une partie
                      ; pour dire, qu'il lui a fait tout le mal qu'il lui pouvoit faire en rapportant son
                         procés<pc>.</pc>
                   </def>
                </sense>
-               <sense n="4"><usg type="domain" ana="#term_manege">En termes de Manege</usg>
+               <sense n="4">
                   <pc>,</pc>
                   <def>on dit les jambes de devant de cheval, &amp; les jambes de derriere ; &amp; la jambe du côté du
                      montoir, &amp; hors du montoir. On dit, qu'u cheval a des jambes de cerf, quand il les a maigres
@@ -11488,35 +12601,30 @@
                   </def>
                </sense>
                <sense n="6">
-                  <def>On dit aussi d'une femme, qu'elle est à cheval jambe deçà. jambe delà ; pour dire, qu'elle va en
+                  <def>On dit aussi d'une femme, qu'elle est à cheval jambe deçi. jambe delà ; pour dire, qu'elle va en
                      selle comme un cavalier<pc>.</pc>
                   </def>
                </sense>
                <sense n="7">
                   <form>
-                     <orth>Jambe</orth>
+                     <orth>Jamee</orth>
                   </form>
                   <pc>,</pc>
                   <def>se dit aussi des pieds &amp; des pointes du compas. Il y a des compas à deux jambes, à trois
-                     jambes. 
-                     
-                  </def></sense>
-               <re>
-               <sense><form><orth>Jambes.</orth></form><def>. Ce mot s'employe par les Geometres. Ce sont les côtez autour de l'angle droit d'un
-                  triangle<pc>.</pc></def></sense></re>
-                 
-                 <re><form><orth>Jambe de force</orth></form>
-                    <usg type="domain" ana="#term_maconnerie">En termes de Maçonerie, </usg>
-                 <def>est une chaîne, ou rang de pierre de taille qu'on fait dans un mur de plâtre, ou de briques, pour
+                     jambes. James. Ce mot s'employe par les Geometres. Ce sont les côtez autour de l'angle droit d'un
+                        triangle<pc>.</pc>
+                  </def>
+                  <pc>,</pc>
+                  <def>est une chaîne, ou rang de pierre de taille qu'on fait dans un mur de plâtre, ou de briques, pour
                      soutenir les poutres, ou une grosse piece de bois qu'on met au méme lieu, &amp; à même dessein,
                      dans les bâtimens de charpente. On les appelle aussi jambes sous poutre, jambe étriere, jambe
                      boutisse : c'est une construction de pierres de taille qui sont engagées par leur queuë dans un mur
                      de refend, ou mitoyen<pc>.</pc>
                   </def>
-               </re>
-               <re>
+               </sense>
+               <sense n="8">
                   <form>
-                     <orth>Jambes de force</orth>
+                     <orth>Jambesdeforce</orth>
                   </form>
                   <pc>,</pc>
                   <usg type="domain" ana="#charpenterie">en termes de Charpenterie</usg>
@@ -11527,8 +12635,8 @@
                      combles couppez des jambes de force de dessous, &amp; des jambes de force de dessus ; les unes au
                      dessous de l'entrait ou tirant, les autres au dessus<pc>.</pc>
                   </def>
-               </re>
-               <sense n="8">
+               </sense>
+               <sense n="9">
                   <form>
                      <orth>Jambe</orth>
                   </form>
@@ -11562,15 +12670,13 @@
                <sense>
                   <def>Trissyllabe. L'i est voyelle. Terme de Prosodie Grecque, &amp; Latine. C'est un pied de vers
                      composé d'une breve &amp; d'une longue. Il y a aussi des doubles iambes, c'est-à-dire, deux iambes
-                     de suitte. Horace appelle l'iambe pes citus. 
-                     
-                  </def>
-                  <etym>Ce mot, selon quelques-uns, tire son origine d'Iambe
+                     de suitte. Horace appelle l'iambe pes citus. Ce mot, selon quelques-uns, tire son origine d'Iambe
                      fille de Pan &amp; de la Nymphe Echo, qui inventa ce pied, ou qui n'usa que de paroles choquantes,
-                     &amp; de sanglantes railleries à l'égard de Cérés affigée de la <pb/>perte de Proserpine. D'autres
+                     &amp; de sanglantes railleries à l'égard de Cérés affigée de la perte de Proserpine. D'autres
                      aiment mieux tirer ce mot du Grec ion, venenum, venin, ou de jambizo, maledico, je me dis, parceque
                      ces vers composez d'ambes furent d'abord employez pour la satire. Ils étoient piquans, &amp; pleins
-                     de medisances injurieuses<pc>.</pc></etym>
+                     de medisances injurieuses<pc>.</pc>
+                  </def>
                </sense>
             </entry>
             <entry xml:id="jambette">
@@ -11669,13 +12775,12 @@
                <sense>
                   <def>Cuisse ou épaule de pourceau, ou de sanglier, qu'on leve pour saler, fumer, ou y faire autres
                      sortes de preparations pour le faire garder, ou le rendre plus agreable au goût. Les jambons
-                     excellens viennent de Bayonne. 
-                  </def>
-               </sense>
-               <re><form><orth>Jambon de Mayence.</orth></form><def> C'est une preparation de jambons, qui se fait en
+                     excellens viennent de Bayonne. Jambon de mayence. C'est une preparation de jambons, qui se fait en
                      les salant avec du salpetre pur, &amp; en les pressant dans un pressoir à linge pendant huit jours.
                      Après quoy on les trempe dans de l'esprit de vin où il y aura eu des grains de genevre pilez &amp;
-                     macerez, &amp; ensuitte on les met secher à la fumée du bois de genevre<pc>.</pc></def></re>
+                     macerez, &amp; ensuitte on les met secher à la fumée du bois de genevre<pc>.</pc>
+                  </def>
+               </sense>
             </entry>
             <entry xml:id="jambonneau">
                <form type="lemmaGrp">
@@ -11774,7 +12879,7 @@
                      <gen>m.</gen>
                   </gramGrp>
                </form>
-               <sense n="1">
+               <sense>
                   <def>Garde du Grand Seigneur, ou soldat de l'infanterie Turquesque. Les Janifssaires sont des enfans
                      de tribut que les Turcs levent sur les Chretiens, &amp; qu'on éleve pour servir à l'armée. On les
                      prend à l'âge de douze ans, afin qu'oubliant leur patrie, &amp; leur Religion, ils ne connoissent
@@ -11782,11 +12887,7 @@
                      Janissaires est un des premiers Officiers de l'Empire. Toute la puissance du Turc depend des
                      Janissaires. Ce fut Amurat II. qui établit les Janssaires pour la garde, &amp; la sureté de sa
                      personne. Menage après Vossius derive ce mot de genizeri, qui signifie en Turc novos homines, ou
-                     milites ; &amp; non pas de janua. 
-                     
-                  </def>
-               </sense>
-               <sense n="2"><def>Janissaires, à Rome, sont des Officiers ou pensionaires du Pape,
+                     milites ; &amp; non pas de janua. Janissaires, à Rome, sont des Officiers ou pensionaires du Pape,
                      qu'on appelle aussi Participans, à cause de certains droits assignez sur les Annates, Bulles ou
                      expeditions de la Chancelerie Romaine, comme il paroît dans les Memoires de taxe que donnent les
                      Banquiers pour les frais de la levée des Bulles. Claude Vaure qui a bien écrit d'ailleurs de la
@@ -11795,7 +12896,9 @@
                      Vestrius de judicis Aula Romane. Mais la verité est que ce sont des Officiers du troisiéme banc au
                      college de la Chancelerie Romaine, dont le premier banc est des Scripteurs, le second des
                      Abbreviateurs, &amp; le trosiéme des Janissaires, qui sont des especes de Correcteurs &amp; de
-                     Reviseurs de Bulles, à qui pour cela on paye un certain droit sur les Annates<pc>.</pc></def></sense>
+                     Reviseurs de Bulles, à qui pour cela on paye un certain droit sur les Annates<pc>.</pc>
+                  </def>
+               </sense>
             </entry>
             <entry xml:id="jansenisme">
                <form type="lemmaGrp">
@@ -11831,11 +12934,10 @@
                      dans leur doctrine. Ainsi on appelle plusieurs personnes devotes &amp; reformées, des Jansenistes,
                      qui ne connoissent point Jansenius. Les femmes ont appellé aussi Jansenistes, des poignets qu'elles
                      mettoient par modestie pour cacher leurs bras. Le mot de Janseniste en ce dernier sens n'est plus
-                     en usage depuis quelque temps.  </def>
-               </sense><pb/>
-               <re><sense><def>Janseniste, est aussi un adjectif.Esprit Janseniste. Ce coup est parti
+                     en usage depuis quelque Janseniste, est aussi un adjectif. Esprit Janseniste. Ce coup est parti
                      d'une main Janseniste<pc>.</pc>
-                  </def></sense></re>
+                  </def>
+               </sense>
             </entry>
             <entry xml:id="jante">
                <form type="lemmaGrp">
@@ -11995,15 +13097,13 @@
                   </form>
                   <pc>.</pc>
                   <def>Ces chiens ont jappé toute la nuit. Les petits chiens jappent quand ils sentent le gibier. Il se
-                     dit proprement des chiens qui abboyent sans necessité, &amp; sur tout des petits. 
-                     Japper.
-                    
+                     dit proprement des chiens qui abboyent sans necessité, &amp; sur tout des petits. Japper.
+                     Quelques-uns employent aussi ce mot, quand il s'agit du renard. Quand le renard &amp; le quincajou
+                     chassent ensemble, le quincajou monte sur un arbre, &amp; le renard jappe pour detourner la bête,
+                     &amp; la faire passer sous l'arbre. DenisHist. de l'Amer<pc>.</pc>
                   </def>
                </sense>
-               <sense n="2"><def> Quelques-uns employent aussi ce mot, quand il s'agit du renard. Quand le renard &amp; le quincajou
-                     chassent ensemble, le quincajou monte sur un arbre, &amp; le renard jappe pour detourner la bête,
-                     &amp; la faire passer sous l'arbre. Denis Hist. de l'Amer<pc>.</pc></def></sense>
-               <sense n="3">
+               <sense n="2">
                   <form>
                      <orth>Japper</orth>
                   </form>
@@ -12020,12 +13120,12 @@
             <entry xml:id="jaquedemailles">
                <form type="lemmaGrp">
                   <form type="lemma">
-                     <orth>JAQUE DE MAILLES</orth>
+                     <orth>JAQUEDEMAILLES</orth>
                   </form>
                </form>
                <pc>.</pc>
                <sense>
-                  <xr>Voyez Jacque de Mailles</xr>
+                  <xr>Voyez Ja cque de mailles</xr>
                   <pc>.</pc>
                </sense>
             </entry>
@@ -12071,8 +13171,8 @@
                      <orth>JAQUEMAR</orth>
                   </form>
                   <pc>.</pc>
-                  <form type="variant"><lbl>L'Academie écrit</lbl>
-                     <orth> JAQUEMART</orth>
+                  <form type="variant">
+                     <orth>L'Academie écrit JAQuEMART</orth>
                   </form>
                   <pc>.</pc>
                   <gramGrp>
@@ -12085,10 +13185,7 @@
                   <pc>.</pc>
                   <def>C'est une figure de fer ou de fonte, representant un homme armé, qu'on met sur les horloges, avec
                      un marteau à la main, pour frappert sur le timbre, &amp; marquer les heures. On l'a ainsi appellé
-                     du nom de l'ouvrier qui en a été inventeur, qui sappelloit Jaques Marc. 
-                     
-               </sense>
-               <sense n="2"><def>Quand on dit, Armé comme un
+                     du nom de l'ouvrier qui en a été iuventeur, qui sappelloir Jaques Marc. Quand on dit, Armé comme un
                      Jaquemar, cela vient de Jaque-mar de Bourbon, troisieme fils de Jacques de Bourbon Connêtable de
                      France sous le regne du Roi Jean. C'étoit un Seigneur fort brave &amp; vaullant, qui se trouva en
                      toutes les occasions les plus dangereuses de guerre &amp; de tournois, mais qui pour donner bon
@@ -12097,8 +13194,9 @@
                      de pied en cap. Ce qui même a donné lieu à ce proverbe : il est armé comme un jaquemart ; pour
                      dire, il est armé de cuirasse &amp; embarrassé de ses armes. Menage conteste cette origine. Il dit
                      que ce mot a été fait de Jaque de maille, qui étoit un habillement de guerre<pc>.</pc>
-                  </def></def></sense>
-               <sense n="3">
+                  </def>
+               </sense>
+               <sense n="2">
                   <form>
                      <orth>Jaquemar</orth>
                   </form>
@@ -12158,17 +13256,21 @@
                <sense n="1">
                   <def>Terre cultivée qu'on menage auderriere d'une maison pour lui donner de l'air, pour se promener,
                      &amp; pour lui servir d'ornement. Les jardm, sont composez de parterres pour les fleurs, de pot.
-                     gers, de vergers, de bois de haute fûtaye, &amp; d'allées, selon leur diverse étenduë. Souffrez Muses, sousfirez qu' à l'ombre du repos, Je chante des jardins le paisible heros : Ainsi la
-                     Quintinie apprit de la nature Des utiles jardins l'agreable culture. Perrault. 
+                     gers, de vergers, de bois de haute fûtaye, &amp; d'allées, selon leur diverse étenduë<pc>.</pc>
+                  </def>
                </sense>
-               <re>
-                 <form><orth>Jardin Suspendu.</orth></form>
-                  <def>
+               <sense n="2">
+                  <form>
+                     <orth>Souffrez</orth>
+                  </form>
+                  <pc>,</pc>
+                  <def>Muses, sousfirez qu' à l'ombre du repos, Je chante des jardins le paisible heros : Ainsi la
+                     Quintinie apprit de la nature Des utiles jardins l'agreable culture. Perrault. Jardinsuspendu.
                      C'étoit chez les Anciens une terrasse élevée sur les voutes des édifices, où l'on plantoit en
                      pleine terre des arbres de toutes especes. Ceax de Babylone ont été les plus
                         considerables<pc>.</pc>
                   </def>
-               </re>
+               </sense>
                <etym>
                   <lbl>Ce mot vient de l'</lbl>
                   <lang>Allemand</lang>
@@ -12187,7 +13289,7 @@
                      y fût connu</gloss>
                </etym>
                <pc>.</pc>
-               <sense n="2">
+               <sense n="3">
                   <form>
                      <orth>Jardin</orth>
                   </form>
@@ -12196,10 +13298,10 @@
                      jardin de la France. Il n'y a point de si beau jardin pour les fruits, que la Halle. Le Paradis
                      terrestre a été appellé le jardin d'Eden, le jardin de plaisance. Le jardin des Hesperides. Le
                      jardin du Roi, est celui où l'on cultive les plantes medecinales, &amp; où l'on enseigne à
-                     connoître les simples<pc>.</pc>
+                     connoître les simpiles<pc>.</pc>
                   </def>
                </sense>
-               <sense n="3">
+               <sense n="4">
                   <form>
                      <orth>Jardin</orth>
                   </form>
@@ -12229,13 +13331,13 @@
                      peu de temps en un haut point de pefection par le Sr. le Nostre. La Quintinie est encore allé plus
                      loin, &amp; nous a donné une ample instruction sur le jardinage. Mr. Fatio a donné, depuis quelques
                      mois 1699. au public un livre sur le jardinage où il enseigne les moyens d'employer utilement les
-                     resserions du soleil. On ne sçauroit <pb/>assez louer les amusemens du jardinage, &amp; l'innocente
+                     resserions du soleil. On ne sçauroit assez louer les amusemens du jardinage, &amp; l'innocente
                      occupation que donne la culture des fieurs, &amp; des fruits<pc>.</pc>
                   </def>
                </sense>
                <sense n="2">
                   <form>
-                     <orth>Jardinage</orth>
+                     <orth>Jarbinage</orth>
                   </form>
                   <pc>,</pc>
                   <def>est aussi un terroir propre pour y faire un jardin. Il faut de la terre grasse &amp; noire pour
@@ -12249,30 +13351,24 @@
                   </form>
                   <pc>,</pc>
                   <def>signifie aussi collectivement plusieurs jarains ensemble. Rome n'est pas fort peuplée, la moitié
-                     de la ville est en jardinages. Il n'y a point de jardinages à Paris au coeur de la ville. 
-                     
+                     de la ville est en jardinages. Il n'y a point de jardinages à Paris au coeur de la ville. JArDINER.
+                     v. n. Travailler à son jardin, &amp; le cultiver soi même. Il ne se dit point des ouvriers &amp;
+                     mercenaires. Un curieux fleuriste se plait à jardiner, à planter, à cultiver ses fleurs<pc>.</pc>
                   </def>
-               </sense></entry>
-               <entry xml:id="jardiner">
-                  <form type="lemmaGrp">
+               </sense>
+               <sense n="4">
                   <form>
-                     <orth>JARDINER.  </orth>
+                     <orth>Jardiner. v. act</orth>
                   </form>
-                  <gramGrp><pos>v.</pos> <subc>n.</subc></gramGrp>
-                  </form>
-                  <sense n="1"><def>Travailler à son jardin, &amp; le cultiver soi même. Il ne se dit point des ouvriers &amp;
-                     mercenaires. Un curieux fleuriste se plait à jardiner, à planter, à cultiver ses fleurs<pc>.</pc></def></sense>
-                  
-                  <re><form><form><orth>Jardiner</orth></form><gramGrp><pos>v.</pos> <subc>act.</subc></gramGrp></form>
-                 <usg type="domain" ana="#fauconnerie">Terme de Fauconnerie</usg>
+                  <pc>.</pc>
+                  <usg type="domain" ana="#fauconnerie">Terme de Fauconnerie</usg>
                   <pc>,</pc>
                   <def>qui se dit des oiseaux qu'on expose le matin au soleil à l'air, à la verdure, ou dans un jardin.
                      Il faut jardiner les autours sur la birre ou sur la perche, &amp; donner le jardin aux laniers
                      &amp; aux sacres sur la pierre froide<pc>.</pc>
                   </def>
-               </sense>  </re>
+               </sense>
             </entry>
-            
             <entry xml:id="jardinet">
                <form type="lemmaGrp">
                   <form type="lemma">
@@ -12288,7 +13384,7 @@
                <pc>.</pc>
                <sense n="1">
                   <def>Petit jardin. Dans le coeur de la ville il se faut contenter d'un jardinet<pc>.</pc>
-                  </def><usg>Il est bas</usg>
+                  </def>
                </sense>
                <pc>.</pc>
                <sense n="2">
@@ -12316,14 +13412,15 @@
                </form>
                <sense>
                   <def>Qui travaille à cultiver un jardin. Il y a à Paris un corps, une maîtrise de Jardiniers, des
-                     statuts de Jardiniers. Le livre du Jardinier François. On dit un Jardinier Fleuriste, un Jardinier
+                     statuts de Jardiniers. Le livre du Jardimier François. On dit un Jardinier Fleuriste, un Jardiier
                      Pepinieriste, un Jardinier Botaniste, &amp;c<pc>.</pc>
                   </def>
                </sense>
                <re>
-                  <form><orth>Jarninier</orth><pc>,</pc> <orth type="part"> iere</orth></form>
-                  <pc>,</pc>
-                  <def>se dit aussi de celui ou de celle qui vend les fruits, les fleurs, &amp; les herbes d'un jardin. On
+                  <form>Jarbinier, iere</form>
+                  <form>,</form>
+                  <form>se</form>
+                  <def>dit aussi de celui ou de celle qui vend les fruits, les fleurs, &amp; les herbes d'un jardin. On
                      dit proverbialement par reproche à ceux qui ne se servent point d'une cho, &amp; qui en veulent
                      empêcher l'usage aux autres, qu'ils font comme le chien du Jardinier, qui ne mange point de choux,
                      &amp; qui ne veut pas souffrir que les autres y touchent<pc>.</pc>
@@ -12369,7 +13466,7 @@
                   <pc>.</pc>
                   <def>Ce sont des tumeurs calleuses &amp; dures qui viennent aux jambes du derriere d'un cheval, &amp;
                      qui sont situées au dehors du jarret, au lieu que l'éparvin est au dedans. Les jardons estropient
-                     le cheval, si on n'y met pas le feu à propos<pc>.</pc>
+                     le cheval, si on n'y met pas le feu àpropos<pc>.</pc>
                   </def>
                   <etym>Le mot de jardon signifie aussi l'endroit du cheval où vient cette sorte de maladie.
                      Soleisel</etym>
@@ -12402,8 +13499,8 @@
                   <gloss>L'on disoit autrefois gergonner</gloss>
                </etym>
                <pc>.</pc>
-               <sense n="2"><form><orth>Jargon</orth><pc>,</pc></form>
-                  <def> s'est dit originairement du bruit que font les oiseaux, d'où il a été trans feré aux
+               <sense n="2">
+                  <def>Jargon, s'est dit originairement du bruit que font les oiseaux, d'où il a été trans feré aux
                      hommes. En ce sens il vient de jar, oison<pc>.</pc>
                   </def>
                </sense>
@@ -12527,7 +13624,7 @@
                   <pc>,</pc>
                   <form type="variant">
                      <lbl>ou</lbl>
-                     <orth>GIARRES</orth>
+                     <orth>GIARRLS</orth>
                   </form>
                   <pc>.</pc>
                   <gramGrp>
@@ -12568,30 +13665,32 @@
                      jarret souple, il est ferme sur ses jarrets<pc>.</pc>
                   </def>
                   <etym>Du Cange derive ce mot de garectum, qu'on a dit dans la basse Latinité, ou de garetto Italien.
-                     Il vient plutôt de garr, mot Celtique ou Bas Breton qui signifie jambe. 
-                     
-                  </etym>
-               </sense>
-               <re><form><orth></orth></form><def></def>Jarret de cheval, est la
+                     Il vient plutôt de garr, mot Celtique ou BasBreton qui signifie jambe. Jarret de cheval, est la
                      jointure du train de derriere qui assemble la cuisse avec la jambe. Il faut qu'un cheval ait les
                      jarrets grands, amples, bien vuidez &amp; sans enflure, qu'il sache bien plier les jarrets. Les
                      courbes, les soulandres, les éparvins, &amp;c. sont des maladies de jarret<pc>.</pc>
-               <note>On dit aussi, un jarret de boeuf, un jarret de veau, qui est propre à faire des
-                        bouillons<pc>.</pc></note>
-              </re>
-               <re><def><On appelle un couppe-jarret, un breteur, un filou, un assassin, qui menace de coupper les
-                     jarrets, de battre, d'assassiner<pc>.</pc>/def></re>
-               
+                  </etym>
+               </sense>
                <sense n="2">
-                  <def>On dit figurément &amp; bassement d'un homme qui se meurt, qu'il roidit le jarret<pc>.</pc>
+                  <def>On dit aussi, un jarret de boeuf, un jarret de veau, qui est propre à faire des
+                        bouillons<pc>.</pc>
                   </def>
                </sense>
                <sense n="3">
+                  <def>On appelle un couppe-jarret, un breteur, un filou, un assassin, qui menace de coupper les
+                     jarrets, de battre, d'assassiner<pc>.</pc>
+                  </def>
+               </sense>
+               <sense n="4">
+                  <def>On dit figurément &amp; bassement d'un homme qui se meurt, qu'il roidit le jarret<pc>.</pc>
+                  </def>
+               </sense>
+               <sense n="5">
                   <form>
                      <orth>Jarret</orth>
                   </form>
                   <pc>,</pc>
-                  <usg type="domain" ana="#term_jardinier"> est aussi un terme de Jardinier,</usg>
+                  <pc>,</pc>
                   <def>qui signifie un branche d'arbre fort longue &amp; depouillée d'autres branches à droit &amp; à
                      gauche. Il n'y a rien de si vilain que de voir ces jarrets, tant dans un buisson, que dans un
                      espalier. La Quint<pc>.</pc>
@@ -12623,18 +13722,20 @@
                </form>
                <pc>.</pc>
                <sense>
-                  <usg type="domain" ana="#term_architecteur">Terme d'Architecteur</usg>
+                  <usg type="domain" ana="#architecteur">Terme d'Architecteur</usg>
                   <pc>.</pc>
-                  <def>Quand dans une ligne droite ou courbe il y a une angle, ou une <pb/>onde, qui en ôte l'égalité du
+                  <def>Quand dans une ligne droite ou courbe il y a une angle, ou une onde, qui en ôte l'égalité du
                      contour, on dit que cette ligne jarrete, &amp; cela se dit aussi des voutes &amp; des arcades, qui
                      ont ce defaut dans la courbure de leur doüelle<pc>.</pc>
                   </def>
                </sense>
                <re>
-                  <form>Jarreté, ée.</form>
-                  <gramGrp><pos>adj</pos>.</gramGrp>
-               
-                  <def>Il se dit des chevaux &amp; des multts, qui ont les jambes de derriere tournées en dedans, &amp; si
+                  <form>Jarreté, ée</form>
+                  <form>.</form>
+                  <form>adj</form>
+                  <form>.</form>
+                  <form>Il</form>
+                  <def>se dit des chevaux &amp; des multts, qui ont les jambes de derriere tournées en dedans, &amp; si
                      peu ouvertes que leurs deux jarrets se touchent presque quand ils marchent. Cheval jarreté. Cavalle
                         jarretee<pc>.</pc>
                   </def>
@@ -12729,8 +13830,8 @@
                      St. George, qui sont une étoile rouge, avec la jarretiere à l'entour, &amp; une étoile. Ils portent
                      encore un large ruban bleu de l'épaule gauche à la droite, d'où pend l'image de St. George à
                      cheval, qui est le Patron de l'Ordre. Outre les vingt-cinq Chevaliers il y a trois Officiers. Le
-                     Prelat, c'est l'Evêque de Vinchester : le Chancelier, c'est l'Evêque de Salisbury : le Greffier,
-                     c'est le Doyen de Windsor<pc>.</pc>
+                     Prelat, c'est l'Evêque de Vinchester : le Chancelier, c'est l'Evêque de Slissbury : le Greffier,
+                     c'est le Doyen de Vindsor<pc>.</pc>
                   </def>
                </sense>
                <sense n="3">
@@ -12848,7 +13949,7 @@
                   </gramGrp>
                </form>
                <sense>
-                  <def>L'action de jaser. Pomey. C'est une jaserie perpetuelle<pc>.</pc>
+                  <def>L'action de jaser Pomey. C'est une jaserie perpetuelle<pc>.</pc>
                   </def>
                </sense>
             </entry>
@@ -12913,7 +14014,7 @@
                   <pc>.</pc>
                   <gloss>On l'appelle maintenant en Orient zambah, ou sambarh</gloss>
                   <pc>.</pc>
-                  <gloss>D'autres disent qu'il vient du <lang>Turc</lang> <foreign>jasmin</foreign>, qu'ils ont fait apparemment de l'<lang>Hebreu</lang> <foreign>samim</foreign>, qui
+                  <gloss>D'autres disent qu'il vient du Iurc jasmin, qu'ils ont fait apparemment de l'Hebreu samim, qui
                      signifie toutes sortes de drogues aromatiques</gloss>
                </etym>
                <pc>.</pc>
@@ -12933,10 +14034,9 @@
                      <pos>s.</pos>
                      <gen>m.</gen>
                   </gramGrp>
-                  <pron>L's se prononce. </pron>
                </form>
                <sense n="1">
-                  <def>Pierre peu differente de l'agathe, si ce n'est qu'elle est plus molle, &amp;
+                  <def>L's se prononce. Pierre peu differente de l'agathe, si ce n'est qu'elle est plus molle, &amp;
                      qu'elle ne peut pas être si bien polie. La nature s'est plue à exprimer en quelques-unes des
                      fleuves, des bois, des animaux, des fruits, des païsages, &amp; des figures, comme s'ils y avoient
                      été peints. Le jaspe floride qui se trouve aux monts Pyrenées est mêlé de plusieurs couleurs. Il y
@@ -12983,19 +14083,18 @@
                   <pc>.</pc>
                   <def>&amp; adj<pc>.</pc>
                   </def>
-               </re></entry>
-               <entry xml:id="jaspure">
-                  <form type="lemmaGrp"></form>
-                     <orth>JASPURE</orth>
+               </re>
+               <sense n="2">
+                  <form>
+                     <orth>JASpURE</orth>
                   </form>
-                  <pc>.</pc><form>
-                     <sense>
+                  <pc>.</pc>
                   <usg type="domain" ana="#relieur">Terme de Relieur</usg>
                   <pc>.</pc>
                   <def>Jaspe jetté sur la tranche d'un livre. Voilà une belle jaspure<pc>.</pc>
                   </def>
                </sense>
-            </entry><pb/>
+            </entry>
          </div>
          <div>
             <head>JAT<pc>.</pc>
@@ -13032,11 +14131,15 @@
                   <foreign>gata</foreign>
                   <pc>,</pc>
                   <gloss>qui étoit une ancienne espece de navire rond ; &amp; temoigne qu'on a dit autrefois
-                     geatte. On dit encore gatte en Picardie, pour dire un vaisseau rond, &amp; qui n'est gueres
-                        profond<pc>.</pc></gloss>
+                     geatte</gloss>
                </etym>
-              
+               <pc>.</pc>
                <sense n="2">
+                  <def>On dit encore gatte en Picardie, pour dire un vaisseau rond, &amp; qui n'est gueres
+                        profond<pc>.</pc>
+                  </def>
+               </sense>
+               <sense n="3">
                   <form>
                      <orth>Jattes</orth>
                   </form>
@@ -13060,12 +14163,15 @@
                   </gramGrp>
                </form>
                <sense n="1">
-                  <def>Plein une jatte. Une jattée d'ordures. On dit aussi, une jattée de souppe, en parlant de celle qu'on met par excés dans un plat, ou dans
-                     une écuelle<pc>.</pc>
-                  </def><usg>Il est bas</usg>
+                  <def>Plein une jatte. Une jattée d'ordures<pc>.</pc>
+                  </def>
                </sense>
-              
-              
+               <sense n="2">
+                  <def>On dit aussi, une jattée de souppe, en parlant de celle qu'on met par excés dans un plat, ou dans
+                     une écuelle<pc>.</pc>
+                  </def>
+                  <pc>.</pc>
+               </sense>
             </entry>
          </div>
          <div>
@@ -48500,15 +49606,15 @@
                   </form>
                   <pc>,</pc>
                   <def>se dit aussi du siege, du tribunal où se rend la justice, de la qualité, de l'étendue &amp; des
-                     marques de la Jurisdiction ; &amp; de la proptrieté de la Justice qui appartient au Roi, ou aux
-                     Signeurs. Je me suis pourvu en Justice. Je l'ai fait appeller en Justice. Le procés est pendant en
+                     marques de la Jurisdiction ; &amp; de la proprieté de la Justice qui appartient au Roi, ou aux
+                     Seigneurs. Je me suis pourvu en Justice. Je l'ai fait appeller en Justice. Le procés est pendant en
                      justice, en un tel siege. J'ai observé toutes les formalitez de justice. La Justice du Châtelet,
                      des Consuls, &amp;c. Pour la Justice Royale, voyez Jurisdiction<pc>.</pc>
                   </def>
                </sense>
                <sense n="13">
                   <def>A l'égard des Jutices Seigneuriales, il y en a de trois sortes ; Haute, moyenne, &amp; basse
-                     Justice. Mais la Justice n'est point necessairement attachée au fief, enforte qu'un fief peut être
+                     Justice. Mais la Justice n'est point necessairement attachée au fief, ensorte qu'un fief peut être
                      sans Justice. Il y a pourtant peu de fiefs sans basse Justice. Pour la haute Justice il faut une
                      concession speciale du Roi, ou une possession immemoriale. Il y a des hautes Justices dont l'appel
                      est relevé immédiatement au Parlement, ou devant les Baillis Royaux. La haute Justice est celle
@@ -48518,11 +49624,7 @@
                      connoît des droits du au Seigneur, du degat de bêtes, &amp; injures, dont l'amende ne peut exceder
                      sept sols six deniers, &amp; on l'appelle autrement Justice fonciere<pc>.</pc>
                   </def>
-               </sense>
-               <re>
-                  <form>Les Auteurs ne</form>
-                  <form>s</form>
-                  <def>'accordent nullement sur l'origine des Justices Seigneuriales, &amp; encore moins sur la
+                  <note>Les Auteurs ne s'accordent nullement sur l'origine des Justices Seigneuriales, &amp; encore moins sur la
                      distinction de haute, moyenne, &amp; basse Justice. Quelques-uns pretendent que du temps de
                      Charlemagne il n'y avoit que des Juges Royaux, &amp; que ce n'est que dans la decadence, &amp; la
                      foiblesse de la Race Carlovingienne, que les Grands Seigneurs s'emparerent de la Jurisdiction,
@@ -48544,10 +49646,11 @@
                      feodale, pour le payement des droits Seigneuriaux. Leurs Juges s'appellent Senechaux, &amp; Prevôts
                      : ce sont les Juges pedanées du Droit Romain, ou ceux que l'on appelloit en France Juges sous
                      l'orme. Voyez Loiseau de l'abus des Justices de village<pc>.</pc>
-                  </def>
-               </re>
+                  </note>
+               </sense>
+               
                <sense n="14">
-                  <def>On appelle Justice sous latte, celle qui se tient sous le couvert de la maison du Scigneur
+                  <def>On appelle Justice sous latte, celle qui se tient sous le couvert de la maison du Seigneur
                         seulement<pc>.</pc>
                   </def>
                </sense>
