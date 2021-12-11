@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../GitHub/Basnage/divers/BasNumDU.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<?xml-model href="BasNumDU.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<?xml-stylesheet type="text/css" href="teixdicotest.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
         <fileDesc>
@@ -11821,11 +11824,11 @@
                   <form type="lemma">
                      <orth>EBAUCHOIR</orth>
                   </form><pc>.</pc>
+                 </form> 
                   <xr><lbl>Voyez</lbl><ref target="#esbahir">Esbahir</ref><pc>,</pc>
                   <ref target="#esbahissement">Esbahissement</ref><pc>,</pc>
                      <ref target="#esbarber">Esbarber &amp;c</ref><pc>.</pc>
                      </xr>
-                  </form> 
                  </entry>               
                <entry xml:id="ebaroui">
                <form type="lemmaGrp">
@@ -12818,13 +12821,14 @@
                   <form type="lemma">
                      <orth>ECHARNER</orth>
                   </form><pc>,</pc>
-                  <xr>
+                 
+               </form>
+                <xr>
                      <lbl>Voyez</lbl>
                      <ref target="#eschafauder">Eschafauder</ref><pc>,</pc>
                      <ref target="#eschafaut">Eschafaut, &amp;c</ref>
                      <pc>.</pc>
                   </xr>
-               </form>
                <pc>.</pc>
                <xr>Voyez <ref target="#eschauffauder">Eschauffauder</ref>, <ref target="#eschaffaut">eschaffaut</ref>,
                   &amp;c</xr>

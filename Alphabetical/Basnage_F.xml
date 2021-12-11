@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <?xml-stylesheet type="text/css" href="teixdicotest.css"?>
+
+
+<?xml-model href="BasNumDU.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
         <fileDesc>
@@ -18045,7 +18046,7 @@
                   <note>Les jours fastes étoient parmi les Romans, ceux durant lequels ils étoit permis de
                      poursuivre quelque affaire en Justice, &amp; auxquels le Preteur pouvoit dire ces trois paroles. <foreign>Do,
                      dico, addico.</foreign></note>
-                    <cit type="example"> <quote>Ille nefastus erit per qem tria verba silentur, 
+                    <cit type="exemple"> <quote>Ille nefastus erit per qem tria verba silentur, 
                      Fastus erit per quem Lege licebit agi.</quote> <ref>Ovid.</ref> </cit>
                     <note>Ces jours fastes étoient marquez par une F. sur le calendrier de Jules Cesar, ou par F. P.
                      <gloss>c'est-à-dire <foreign>Fastus primo</foreign></gloss>, quand on ne pouvoit rendre, ou demander justice que pendant la premiere
@@ -21628,16 +21629,16 @@
                      <etym n="1"><ref>Menage</ref> <lbl>derive ce mot de</lbl> 
                      <cit type="etymon">
                         <quote><oRef xml:id="felonia">felonia</oRef><pc>,</pc></quote> 
-                        <cit type="etymon" corresp="#felonia"><lbl>qui vient de</lbl>
+                        <cit type="etymon"><lbl>qui vient de</lbl>
                            <quote><oRef type="lemma" xml:id="felo">felo</oRef> ou <oRef type="variant" xml:id="fello">fello</oRef></quote></cit><pc>,</pc> 
                         <note>ou  qui se trouve dans <bibl>les Capitulaires de Charles le Chauve</bibl></note><pc>;</pc>
                      </cit>
                      <lbl>&amp; croit qu'il a été fait de</lbl> 
                      <cit type="etymon">
-                        <quote><oRef>feelen</oRef> <lang>Allemand</lang><pc>,</pc></quote> <cit type="gloss"><lbl>qui signifie,</lbl> <quote>Faillir</quote></cit><pc>.</pc>  
+                        <quote><oRef>feelen</oRef> <lang>Allemand</lang><pc>,</pc></quote> <lbl>qui signifie,</lbl> <quote>Faillir</quote><pc>.</pc>  
                      </cit>
                      </etym>
-                     <etym n="2"><ref>Quelques-uns</ref> <lbl>le derivent du</lbl> <lang>Latin</lang> <cit type="etymon" corresp="#felonnie"><quote><oRef>vilania</oRef></quote></cit><pc>.</pc></etym>
+                     <etym n="2"><ref>Quelques-uns</ref> <lbl>le derivent du</lbl> <lang>Latin</lang> <cit type="etymon"><quote><oRef>vilania</oRef></quote></cit><pc>.</pc></etym>
                   </etym>
                </sense>
                
@@ -43319,7 +43320,7 @@
                   </def>
                </sense>
             </entry>
-           <entry>
+           <entry xml:id="fourc">
               <form type="lemmaGrp">
               <form type="lemma">
                  <orth>FOURC</orth><pc>.</pc>

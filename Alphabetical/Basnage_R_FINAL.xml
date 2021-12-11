@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="../../../GitHub/Basnage/divers/BasNumDU.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="BasNumDU.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="teixdicotest.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -23646,7 +23647,7 @@
                   <usg type="domain" ana="#term_jardinier">est aussi un terme de Jardinier</usg>
                   <pc>,</pc>
                   <def>qui se dit des arbres, &amp; qui signifie, les rendre plus courts &amp; plus
-                     bas qu'ils n'étoient en les taillant. Il faut raraler cet arbre. La
+                     bas qu'ils n'étoient en les taillant. Il faut ravaler cet arbre. La
                         Quint<pc>.</pc>
                   </def>
                </sense>
@@ -28301,7 +28302,7 @@
                   <pc>.</pc>
                   <def>Il se dit des plantes &amp; des arbres qui languissent, qui ne poussent pas
                      vigoureusement. Mes artichaux rechignent. Cet arbrisseau commence à rechigner.
-                     La Quit<pc>.</pc>
+                     La Quint<pc>.</pc>
                   </def>
                </sense>
                <re>
@@ -37145,7 +37146,7 @@
                      parlant on regrettera peut-être un jour cette foule de refugiez qu. en
                      desertant le France vont peupler, &amp; enrichuir les Etats Protestans. Bay. On
                      dit vivre en vefugé, c'est-à-dire, mediocrement, sobrement &amp; avec
-                        economie<pc>.</pc>
+                        œconomie<pc>.</pc>
                   </def>
                </re>
             </entry>
@@ -47673,7 +47674,7 @@
                <sense>
                   <usg type="domain" ana="#term_jardinier">Terme de Jardinier</usg>
                   <pc>.</pc>
-                  <def>Remettre dans une caisse. Il faut renctisser ces figuiers. Qand on rencaisse
+                  <def>Remettre dans une caisse. Il faut rencaisser ces figuiers. Quand on rencaisse
                      un orenger, on lui ôte une partie de sa motte<pc>.</pc>
                   </def>
                </sense>
@@ -56746,10 +56747,10 @@
                   <usg type="domain" ana="#term_jardinier">Terme de Jardinier</usg>
                   <pc>.</pc>
                   <def>Il se dit en parlant de fumier neuf, &amp; tout chaud, dont on rechauffe les
-                     couches refroidics, ou dout on échauffe les planches pour faire pousser les
-                     plantes qui y sont. On dit, Remuer, changer, renouveller un rechaufsement. La
-                     Quit. L'industrie du Jardinier peut faire venir l'hiver, des asper;ges par un
-                     rechauffement de fumier. Le Jardinier Franços<pc>.</pc>
+                     couches refroidies, ou dont on échauffe les planches pour faire pousser les
+                     plantes qui y sont. On dit, Remuer, changer, renouveller un rechauffement. La
+                     Quint. L'industrie du Jardinier peut faire venir l'hiver, des asperges par un
+                     rechauffement de fumier. Le Jardinier François<pc>.</pc>
                   </def>
                </sense>
             </entry>

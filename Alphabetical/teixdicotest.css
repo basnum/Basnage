@@ -1,0 +1,1848 @@
+
+/* ============================================================
+
+    CSS2 specification for TEI Lite (XML Version) 1.3
+
+
+
+        -//TEI//DTD TEI Lite XML ver. 1.3//EN
+
+
+
+    Author: Adrian Edwards (adrian_edwards@yahoo.com)
+
+    Date:   2000-04-19
+
+    Edited by Sebastian Rahtz (sebastian.rahtz@oucs.ox.ac.uk)
+
+            2001-02-16
+
+
+
+============================================================ */
+
+
+
+/* Use Times New Roman for default font */
+
+
+
+
+
+
+
+
+
+
+abbr {
+
+  display: inline;
+
+}
+
+
+
+add {
+
+  display: inline;
+
+  color: green;
+
+  text-decoration: underline;
+
+}
+
+
+
+address {
+
+  display: block;
+
+  margin-top: 2em;
+
+  margin-left: 2em;
+
+  margin-right: 2em;
+
+  margin-bottom: 2em;
+
+}
+
+
+
+addrLine {
+
+  display: block;
+
+  white-space: nowrap;
+
+}
+
+
+
+anchor {
+
+  display: none;
+
+}
+
+
+
+argument {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+}
+
+
+
+author {
+
+  display: inline;
+  font-style: normal;
+
+}
+
+
+
+    
+
+back {
+
+  display: block;
+
+  border: thin black solid;
+
+  margin-top: 1em;
+
+  padding-top: 0.5em;
+
+  padding-left: 0.5em;
+
+  padding-right: 0.5em;
+
+  padding-bottom: 0.5em;
+
+}
+
+
+
+bibl {
+
+  display: inline;
+  color: orange;
+
+}
+
+
+
+
+
+biblFull {
+
+  display: inline;
+
+}
+
+biblScope {
+
+  display: inline;
+
+}
+
+
+
+
+    
+
+body {
+
+  font-family: "serif";
+
+  font-size: 12pt;
+
+  margin-top: 5px;
+
+  margin-left: 5px;
+
+  display: block;
+
+}
+
+
+
+byline {
+
+  display: block;
+
+  font-style: italic;
+
+  margin-bottom: 0.5em;
+
+}
+
+
+
+category {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+}
+
+
+
+catRef {
+
+  display: none;
+
+}
+
+
+cell {
+
+  display: table-cell;
+
+}
+
+
+
+change {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+  margin-left: 2em;
+
+}
+
+
+
+cit {
+
+  display: inline;
+
+}
+
+
+    entryFree{
+    
+    display:block;
+    
+     margin-bottom: 1em;
+
+  margin-left: 2em;
+}
+
+
+
+
+classCode {
+
+  display: block;
+
+}
+
+
+
+classDecl {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+}
+
+
+
+closer {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+}
+
+
+
+code {
+
+  display: inline;
+
+  font-family: monospace;
+
+}
+
+
+
+corr {
+
+  display: inline;
+
+  color: green;
+
+}
+
+
+
+creation {
+
+  display: block;
+
+}
+
+
+
+date {
+
+  display: inline;
+
+}
+
+
+
+
+
+
+dateline {
+
+  display: inline;
+
+}
+
+
+
+del {
+
+  display: inline;
+
+  color: red;
+
+  text-decoration: line-through;
+
+}
+
+
+
+distributor {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+}
+
+
+
+def{
+    
+    text-decoration: underline;
+}
+
+div1 {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+  counter-increment: div1;
+
+  counter-reset: div2;
+
+}
+
+
+
+div2 {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+  counter-increment: div2;
+
+  counter-reset: div3;
+
+}
+
+
+
+div3 {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+  counter-increment: div3;
+
+  counter-reset: div4;
+
+}
+
+
+
+div4 {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+  counter-increment: div4;
+
+  counter-reset: div5;
+
+}
+
+
+
+div5 {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+  counter-increment: div5;
+
+  counter-reset: div6;
+
+}
+
+
+
+div6 {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+  counter-increment: div6;
+
+  counter-reset: div7;
+
+}
+
+
+
+div7 {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+  counter-increment: div7;
+
+}
+
+
+
+divGen {
+
+  display: none;
+
+}
+
+
+
+docAuthor {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+}
+
+
+
+    
+
+byline docAuthor {
+
+  display: inline;
+
+}
+
+
+
+    
+
+titlePage docAuthor {
+
+  font-size: 150%;
+
+}
+
+    
+
+titlePage docTitle {
+
+  font-size: 200%;
+
+}
+
+
+
+    
+
+edition {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+}
+
+
+
+    
+
+bibl edition {
+
+  display: inline;
+
+}
+
+
+
+    
+
+editionStmt {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+}
+
+
+
+editor {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+}
+
+
+
+    
+
+bibl editor {
+
+  display: inline;
+
+}
+
+
+
+    
+
+editorialDecl {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+}
+
+
+
+eg {
+
+  font-family: monospace;
+
+  padding-top: 3mm;
+
+  padding-left: 4pt;
+
+  padding-bottom: 2pt;
+
+  display: block;
+
+  margin-top: 12pt;
+
+  margin-bottom: 12pt;
+
+  white-space: pre;
+
+  background-color: #FFCC99;
+
+}
+
+
+
+
+
+emph {
+
+  display: inline;
+
+  font-style: italic;
+
+}
+
+
+
+epigraph {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+  text-align: center;
+
+}
+
+
+
+    
+
+extent {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+}
+
+
+
+    
+
+bibl extent {
+
+  display: inline;
+
+}
+
+
+
+    
+
+figure {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+}
+
+    figure:after {
+
+	content: attr(figDesc); 
+
+	}
+
+
+
+foreign {
+
+  display: inline;
+
+  font-style: italic;
+
+}
+
+form {
+    
+    font-weight: bold;
+}
+
+formula {
+
+  display: inline;
+
+  font-style: italic;
+
+}
+
+
+
+front {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+  padding-top: 0.5em;
+
+  padding-left: 0.5em;
+
+  padding-right: 0.5em;
+
+  padding-bottom: 0.5em;
+
+}
+
+
+
+funder {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+}
+
+
+
+gap {
+
+  display: none;
+
+}
+
+
+
+    
+
+gap:after {
+
+  content: "[...]";
+
+  font-style: italic;
+
+}
+
+
+
+gi {
+
+  display: inline;
+
+  font-family: sans-serif;
+
+  color: blue;
+
+}
+
+
+
+    
+
+gi:before {
+
+  content: "&lt;";
+
+}
+
+
+
+    
+
+gi:after {
+
+  content: "&gt;";
+
+}
+
+
+
+    
+
+gloss {
+
+  display: inline;
+
+}
+
+gramGrp {
+    font-style: italic;
+}
+
+group {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+}
+
+head {
+    
+    font-weight: bold;
+    display: block;
+    text-align: center;
+    margin-top: 2em;
+    font-size: 2em;
+}
+
+
+
+name {
+  display: inline;
+  font-weight: bolder;
+}
+
+hi {
+
+  display: inline;
+
+  font-style: italic;  
+
+}
+
+
+
+    
+
+hi[rend="italic"] {
+
+  display: inline;
+
+  font-style: italic;
+
+}
+
+
+
+ident {
+
+  display: inline;
+
+  font-family: monospace;
+
+}
+
+
+
+idno {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+}
+
+
+
+    
+
+bibl idno {
+
+  display: inline;
+
+}
+
+
+
+        
+
+imprint {
+
+  display: inline;
+
+}
+
+
+
+index {
+
+  display: none;
+
+}
+
+
+
+interp {
+
+  display: none;
+
+}
+
+
+
+interpGrp {
+
+  display: none;
+
+}
+
+
+
+item {
+
+  display: list-item;
+
+  margin-left: 12pt;
+
+}
+
+
+
+
+change item {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+  margin-left: 1em;
+
+  margin-top: 0.5em;
+
+}
+
+
+
+keywords {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+}
+
+
+
+kw {
+
+  display: inline;
+
+  font-style: italic;
+
+}
+
+
+
+l {
+
+  display: block;
+
+  white-space: nowrap;
+
+}
+
+
+
+label {
+
+  display: inline;
+
+  font-weight: bold;
+
+}
+
+
+
+
+
+
+langUsage {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+}
+
+
+
+lb {
+
+  display: block;
+
+}
+
+
+
+lg {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+}
+
+
+
+list {
+
+  display: block;
+
+  list-style-type: none;
+
+  margin-bottom: 1em;
+
+  margin-left: 2em;
+
+  margin-top: 1em;
+
+}
+
+
+
+    
+
+list[rend="runon"] {
+
+  display: inline;
+
+}
+
+
+
+    
+
+list[type="bulleted"] {
+
+  list-style-type: disc;
+
+  list-style-position: outside;
+
+}
+
+
+
+list[type="ordered"] {
+
+  list-style-type: disc;
+
+  list-style-position: outside;
+
+}
+
+
+
+    
+
+list[type="ordered"] {
+
+  list-style-type: decimal;
+
+  list-style-position: outside;
+
+}
+
+
+
+    
+
+list[type="numbered"] {
+
+  list-style-type: decimal;
+
+  list-style-position: outside;
+
+}
+
+
+
+    
+
+listBibl {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+}
+
+
+
+mentioned {
+
+  display: inline;
+
+
+}
+
+
+
+milestone {
+
+  display: none;
+
+}
+
+
+
+name {
+
+  display: inline;
+
+}
+
+
+
+note {
+
+  display: block;
+
+  font-size: 75%;
+
+}
+
+
+
+    
+
+note[n]:before {
+
+  content: attr(n);
+
+  vertical-align: super;
+
+}
+
+
+
+    
+
+note[place="left"] {
+
+  float: left;
+
+}
+
+
+
+    
+
+note[place="right"] {
+
+  float: right;
+
+}
+
+
+
+    
+
+note[place="inline"], note[place="unspecified"] {
+
+  display: inline;
+
+}
+
+
+
+notesStmt {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+}
+
+
+
+num {
+
+  display: inline;
+
+}
+
+
+
+opener {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+}
+
+
+
+orig {
+
+  display: inline;
+
+}
+
+orth[rendition="#sc"]{
+    
+    font-variant: small-caps;
+}
+
+orth[rendition="#uc"]{
+    text-transform:uppercase;
+}
+
+p {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+}
+
+
+
+pb {
+
+  display: none;
+
+}
+
+
+
+    
+
+pb:after {
+
+  content: attr(n);
+
+  font-weight: bold;
+
+  margin-bottom: 1em;
+
+  margin-top: 1em;
+
+  text-align: center;
+
+}
+
+
+
+    
+
+principal {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+}
+
+
+
+ptr {
+
+  display: none;
+
+}
+
+
+
+publicationStmt {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+}
+
+
+
+publisher {
+
+  display: inline;
+
+}
+
+
+
+    
+
+
+
+pubPlace {
+
+  display: inline;
+
+}
+
+
+
+
+
+q {
+
+  display: inline;
+
+  quotes: '"' '"' "'" "'";
+
+  margin-top: 0em;
+
+  margin-left: 0em;
+
+  margin-right: 0em;
+
+  margin-bottom: 0em;
+
+}
+
+quote {
+    color: green;
+}
+
+
+
+
+    
+
+q:before {
+
+  content: open-quote;
+
+}
+
+
+
+    
+
+q:after {
+
+  content: close-quote;
+
+}
+    
+
+ref {
+
+  display: inline;
+
+}
+
+
+
+refsDecl {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+}
+
+
+
+reg {
+
+  display: inline;
+
+  font-style: italic;
+
+}
+
+
+
+rendition {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+}
+
+
+
+resp {
+
+  display: inline;
+
+}
+
+
+
+respStmt {
+
+  display: block;
+
+}
+
+
+
+    
+
+bibl respStmt {
+
+  display: inline;
+
+}
+
+
+
+    
+
+row {
+
+  display: table-row;
+
+}
+
+
+
+rs {
+
+  display: inline;
+
+}
+
+
+
+s {
+
+  display: inline;
+
+}
+
+
+
+salute {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+}
+
+
+
+samplingDecl {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+}
+
+
+
+seg {
+
+  display: inline;
+
+}
+cit[type="example"]{
+    color: fuchsia;
+}
+
+entry{
+font-family:roman, 'times new roman', times, serif;
+width:60%;
+    margin:auto;
+    display: block;
+    margin-top:2em;
+}
+sense {
+width:75%;
+    margin:auto;
+    display: block;;
+}
+sense[n="1"] {
+width:75%;
+    margin:auto;
+    display: block;
+}
+sense[n="2"] {
+width:75%;
+    margin:auto;
+    display: block;
+    margin-top:1em;
+}
+sense[n="3"] {
+width:75%;
+    margin:auto;
+    display: block;
+    margin-top:1em;
+}
+sense[n="4"] {
+width:75%;
+    margin:auto;
+    display: block;
+    margin-top:1em;
+}
+sense[n="5"] {
+width:75%;
+    margin:auto;
+    display: block;
+    margin-top:1em;
+}
+sense[n="6"] {
+width:75%;
+    margin:auto;
+    display: block;
+    margin-top:1em;
+}
+sense[n="7"] {
+width:75%;
+    margin:auto;
+    display: block;
+    margin-top:1em;
+}
+sense[n="8"] {
+width:75%;
+    margin:auto;
+    display: block;
+    margin-top:1em;
+}
+sense[n="9"] {
+width:75%;
+    margin:auto;
+    display: block;
+    margin-top:1em;
+}
+sense[n="10"] {
+width:75%;
+    margin:auto;
+    display: block;
+    margin-top:1em;
+}
+sense[n="11"] {
+width:75%;
+    margin:auto;
+    display: block;
+    margin-top:1em;
+}
+sense[n="12"] {
+width:75%;
+    margin:auto;
+    display: block;
+    margin-top:1em;
+}
+sense[n="13"] {
+width:75%;
+    margin:auto;
+    display: block;
+    margin-top:1em;
+}
+sense[n="14"] {
+width:75%;
+    margin:auto;
+    display: block;
+    margin-top:1em;
+}
+sense[n="15"] {
+width:75%;
+    margin:auto;
+    display: block;
+    margin-top:1em;
+}
+sense[n="16"] {
+width:75%;
+    margin:auto;
+    display: block;
+    margin-top:1em;
+}
+sense[n="17"] {
+width:75%;
+    margin:auto;
+    display: block;
+    margin-top:1em;
+}
+sense[n="18"] {
+width:75%;
+    margin:auto;
+    display: block;
+    margin-top:1em;
+}
+sense[n="19"] {
+width:75%;
+    margin:auto;
+    display: block;
+    margin-top:1em;
+}
+seriesStmt {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+}
+
+
+
+sic {
+
+  display: inline;
+
+  color: red;
+
+}
+
+
+
+    
+
+sic:after {
+
+  content: " [sic]";
+
+}
+
+
+
+signed {
+
+  display: block;
+
+  text-align: right;
+
+}
+
+
+
+soCalled {
+
+  display: inline;
+
+  font-style: italic;
+
+  quotes: "'" "'";
+
+}
+
+
+
+    
+
+soCalled:before {
+
+  content: open-quote;
+
+}
+
+
+
+    
+
+soCalled:after {
+
+  content: close-quote;
+
+}
+
+
+
+    
+
+sp {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+  margin-left: 2em;
+
+}
+
+
+
+speaker {
+
+  display: inline;
+
+  font-weight: bold;
+
+}
+
+
+
+sponsor {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+}
+
+
+
+stage {
+
+  display: inline;
+
+  font-style: italic;
+
+}
+
+
+
+table {
+
+  text-align: center;
+
+  display: table;
+
+  margin-left: 2em;
+
+  margin-right: 2em;
+
+}
+
+
+
+tagsDecl {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+}
+
+
+
+tagUsage {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+}
+
+
+
+taxonomy {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+}
+
+
+
+term {
+
+  font-family: sans-serif;
+
+  color: blue;
+
+  display: inline;
+
+}
+
+
+
+textClass {
+
+  display: block;
+
+  margin-bottom: 0.5em;
+
+}
+
+
+
+time {
+
+  display: inline;
+
+}
+
+
+
+title {
+
+  display: inline;
+
+}
+
+
+
+
+titlePage {
+
+  display: block;
+
+  border: thin black solid;
+
+  margin-bottom: 2em;
+
+  text-align: center;
+
+  padding-top: 1em;
+
+  padding-left: 1em;
+
+  padding-right: 1em;
+
+  padding-bottom: 1em;
+
+}
+
+
+
+titlePart {
+
+  display: block;
+
+}
+
+
+
+titleStmt {
+
+  display: none;
+
+  font-size: 150%;
+
+  font-weight: bold;
+
+  margin-bottom: 1em;
+
+  text-align: center;
+
+}
+
+
+
+trailer {
+
+  display: block;
+
+  margin-bottom: 1em;
+
+}
+
+
+
+unclear {
+
+  display: inline;
+
+  color: silver;
+
+  font-style: italic;
+
+}
+
+usg {
+    
+    color: blue;
+}
+
+etym {
+    
+    color: green;
+}
+
+
+
+xptr {
+
+  display: none;
+
+}
+
+
+
+xref {
+
+  display: inline;
+
+}
+
+
+
+    
+
+xref:hover {
+
+  background-color: blue;
+
+  color: white;
+
+}
+
+
+
+
+
+
